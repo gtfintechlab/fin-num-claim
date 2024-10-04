@@ -1,0 +1,547 @@
+REFINITIV STREETEVENTS
+EDITED TRANSCRIPT
+ZS.OQ - Q2 2021 Zscaler Inc Earnings Call
+EVENT DATE/TIME: FEBRUARY 25, 2021 / 9:30PM GMT
+OVERVIEW:
+Co. reported 2Q21 revenue of $157m, non-GAAP net income of $14m and non-GAAP
+EPS of $0.10. Expects FY21 revenue to be $634-638m and non-GAAP EPS to be
+$0.39-0.40. Expects 3Q21 revenue to be $162-164m and non-GAAP EPS to be
+approx. $0.07.
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+CORPORATE PARTICIPANTS
+Bill Choi;Senior Vice President, Investor Relations
+Jay Chaudhry;Co-Founder, President, CEO & Chairman of the Board
+Remo E. Canessa Zscaler, Inc. - CFO
+CONFERENCE CALL PARTICIPANTS
+Alexander Henderson Needham & Company, LLC, Research Division - Senior Analyst
+Andrew James Nowinski D.A. Davidson & Co., Research Division - MD & Senior Research Analyst
+Brad Alan Zelnick Crédit Suisse AG, Research Division - MD
+Brian Lee Essex Goldman Sachs Group, Inc., Research Division - Equity Analyst
+Daniel J.W. Park Canaccord Genuity Corp., Research Division - Associate
+Erik Loren Suppiger JMP Securities LLC, Research Division - MD & Equity Research Analyst
+Fatima Aslam Boolani UBS Investment Bank, Research Division - Associate Director and Equity Research Associate Technology-Software
+Gray Wilson Powell BTIG, LLC, Research Division - Director & Security and Analytics Software Analyst
+Hamza Fodderwala Morgan Stanley, Research Division - Equity Analyst
+Matthew John Swanson RBC Capital Markets, Research Division - Associate VP
+Patrick Edwin Ronald Colville Deutsche Bank AG, Research Division - Research Analyst
+Sterling Auty JPMorgan Chase & Co, Research Division - Senior Analyst
+Tal Liani BofA Securities, Research Division - MD and Head of Technology Supersector
+Yun Suk Kim Loop Capital Markets LLC, Research Division - MD
+PRESENTATION
+Operator
+Good day, ladies and gentlemen, and thank you for standing by. Welcome to the Zscaler's Second Quarter 2021 Earnings Call. (Operator Instructions)
+As a reminder, this conference call is being recorded. (Operator Instructions) At this time, I would like to turn the call over to Mr. Bill Choi, Senior
+Vice President, Investor Relations and Strategic Finance.
+Bill Choi;Senior Vice President, Investor Relations
+Good afternoon, everyone, and welcome to the Zscaler Fiscal Second Quarter 2021 Earnings Conference Call. On the call with me today are Jay
+Chaudhry, Chairman and CEO; and Remo Canessa, CFO.
+Please note that we have posted our earnings release and a supplemental financial schedule to our Investor Relations website. Unless otherwise
+noted, all numbers we talk about today will be on an adjusted non-GAAP basis. You will find the reconciliation of GAAP to the non-GAAP financial
+measures in our earnings release.
+I'd like to remind you that today's discussion will contain forward-looking statements including, but not limited to, the company's anticipated
+future revenue, calculated billings, operating performance, gross margin, operating expenses, operating income, net income, free cash flow,
+dollar-based net retention rate, future hiring decisions, remaining performance obligations, income taxes, and earnings per share. These statements
+and other comments are not guarantees of future performance, but rather are subject to risks and uncertainty, some of which are beyond our
+2
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+FEBRUARY 25, 2021 / 9:30PM, ZS.OQ - Q2 2021 Zscaler Inc Earnings Call
+control, including, but not limited to, the duration and impact of COVID-19 on our business, the global economy and the respective businesses of
+our customers, vendors and partners, market adoption of our offerings and our expectations regarding the development of the markets in which
+we compete.
+These forward-looking statements apply as of today, and you should not rely on them as representing our views in the future. We undertake no
+obligation to update these statements after this call. For a more complete discussion of the risks and uncertainties, please see our filings with the
+SEC as well as in today's earnings release. We will upload a copy of today's prepared remarks to our Investor Relations website when we move to
+the Q&A segment of the call.
+I would also like to inform you that management will be presenting at the following upcoming virtual events: JMP Securities Technology Conference
+on March 1; Morgan Stanley TMT Conference on March 2; Truist Securities Tech Conference on March 9. These presentations will be webcast, and
+the links will be available on our Investor Relations website.
+Now I'll turn the call over to Jay.
+Jay Chaudhry;Co-Founder, President, CEO & Chairman of the Board
+Thank you, Bill. We are very pleased with our strong performance in Q2, which showed accelerating growth at scale and rapid innovation of our
+Zero Trust platform. We drove 55% growth in revenue and 71% growth in billings, while also generating growth in operating profits and free cash
+flow. Our optimized go-to-market engine is driving significant velocity, including a strong pace of new customer additions. During the quarter, we
+achieved a milestone of over 5,000 customers, including over 500 of the Global 2000. Our strategic decision last year to increase our investments
+across all areas, particularly the expansion of our go-to-market and R&D teams is yielding strong results. We drove increased wins in our enterprise
+segment, as we begin to pursue smaller enterprises with 2,000 to 6,000 employees. We are helping our customers to securely accelerate the digital
+transformation journey which remains the top priority. With our Zero Trust Exchange, Zscaler provides secure any-to-any connectivity for users,
+applications, workloads, and IoT and OT systems regardless of your location. The recent SolarWinds security incident has further elevated the need
+for a true Zero Trust platform like Zscaler. During such sophisticated attacks, our proxy-based architecture would prevent loss of sensitive data and
+our application level segmentation eliminates lateral threat movement. We provide users access to applications, not the network, which is
+fundamentally different from firewalls and legacy network security architecture. The CIO level awareness, engagement and inbound requests for
+our purpose-built Zero Trust platform have significantly increased and we are viewed as a foundational application, network and security
+transformation.
+I'm proud of our speed of innovation, which is accelerating, and further expanding our substantial technology lead. There are 4 pillars of our Zero
+Trust Exchange. ZIA, ZPA and ZDX for user protection and experience, and ZCP for workload protection. Last quarter, we launched our fourth pillar
+called Zscaler Cloud Protection or ZCP, which extends on Zero Trust exchange from users to workloads, and has an expanding portfolio of products,
+including CSPM to ensure proper configuration and compliance, Workload Communication to secure app-to-app and cloud-to-cloud secure
+communications, and Workload Segmentation to achieve app segmentation without legacy network segmentation.
+In our latest major cloud upgrade, we added over 100 new product enhancements. Over the past 12 months, we have significantly increased the
+number of solutions delivered through our platform, including Zscaler Browser Isolation, out-of-band CASB, Zscaler B2B, and Zscaler Digital
+Experience, or ZDX. All this innovation is making our cloud platform wider and deeper. For enterprises who want network and security modernization,
+we believe we are the only Zero Trust multi-tenant platform that meets the needs. Many vendors have tried and failed to build a high-performance,
+highly reliable proxy required for proper cybersecurity protection and data loss prevention. As a true SASE framework, we are deployed across 150
+data centers, enforcing policy at the edge instead of a limited number of public cloud locations. Every day, we are processing more than 150 billion
+transactions, while preventing up to 7 billion security incidents and policy violations. We are operating at a massive scale and doing so with
+environmental sustainability in mind.
+Our platform uses over 75% renewable energy today, with a goal to use over 90%.
+I would like to thank our engineering team for an exceptional job in expanding our platform and keeping Zscaler at the forefront of innovation.
+3
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+FEBRUARY 25, 2021 / 9:30PM, ZS.OQ - Q2 2021 Zscaler Inc Earnings Call
+Now on to the customer wins. There is an accelerated market shift towards work from anywhere, which is the world Zscaler was built for. In an
+upsell win, a Fortune 500 chemical company that was using ZIA for a subset of its workforce accelerated the Zero Trust initiative by purchasing ZIA
+Transformation, ZPA and ZDX for all 45,000 employees. In addition, they bought 2 of our recently announced ZCP solutions. They purchased
+Workload Communications to secure server traffic out to the Internet from 200 plants, and Workload Segmentation for 7,000 servers to secure
+east/west traffic in the public cloud and data center.
+I'm excited to see wins like this where the customer is buying all 4 pillars of the Zscaler platform.
+In a new logo win, a new Global 2000 customer in the high-tech industry purchased all 3 pillars of our user protection service. They purchased ZIA
+Transformation, ZPA and ZDX for all 10,000 employees to move away from network security to Zero Trust architecture. This customer had standardized
+on next-gen firewalls and VPNs, which left gaps in security, leading to a ransomware attack. In spite of an ELA license from the firewall vendor, they
+couldn't do SSL inspection at scale. Since Zscaler is a purpose-built proxy architecture, the customer can now inspect encrypted traffic without
+impacting user experience, leading to better security, and reduced business risk.
+In another new logo win, a customer in the transportation services industry purchased 3 of our 4 pillars ZIA, ZPA and ZDX for their 7,500 employees.
+With a cloud and mobile-first strategy, they purchased on best-in-class DLP and CASB to protect sensitive information from leaking, no matter
+where the user is. ZDX was purchased to pinpoint and resolve performance issues in real-time by monitoring the digital experience score of every
+user and application regardless of their location.
+We have seen a strong customer interest for our new pillars, ZDX and ZCP. Over 200 customers to date have purchased ZDX. ZCP is also off to a
+great start, with a few dozen deals closed in Q2 and great excitement for our ZCP workload communication.
+Moving on to ZPA. Our customers view ZPA as the foundation for their architectural shift to Zero Trust access for private applications. ZPA is a clear
+market leader with proven maturity and scalability, supporting millions of daily active users and nearly 40% of our Global 2000 customers. Today,
+ZPA is delivering over 10 million unique application segments without operational overhead of traditional network segmentation.
+Let me highlight several ZPA deals in the quarter. A Global 500 consumer products company with headquarters in EMEA that has been a ZIA
+customer, purchased ZPA for all 100,000 employees and 10,000 third-party B2B partners. This customer wanted to eliminate the security risk of
+VPN, which provides unfettered access to network resources. ZPA represents the next step in Zero Trust adoption for the IT transformation journey.
+In an upsell deal, a Global 2000 bank with headquarters in EMEA, started with ZIA and ZPA for 10,000 employees in July to expand their
+work-from-home capacity as a result of the pandemic. Within 6 months of the initial purchase, the customer bought ZIA and ZPA for the remaining
+30,000 employees and CASB for all 40,000 employees. In addition, the purchased ZPA to enable 3,000 third-party B2B partners.
+Let me highlight a ZIA and ZPA new logo win in the federal space. A recent organization mandated with advising federal agencies on cybersecurity,
+purchased our ZIA transformation bundle and ZPA for all 10,000 employees after evaluating various Zero Trust architectures. This customer
+concluded that if a user connects to the network with a VPN, that is not Zero Trust. Based on this criteria, the legacy firewall and VPN providers
+were disqualified. An important consideration for our selection was ZPA's position as the first and only cloud security service with FedRAMP
+certification for Zero Trust Remote Access. With the highest levels of FedRAMP certifications for both ZIA and ZPA, we are very well-positioned to
+serve the Federal government.
+Lastly, I would like to share another new customer win that highlights our continued ZIA success with large enterprises that are embracing
+direct-to-cloud architecture and migrating away from the complex legacy on-premise appliances. A Fortune 100 professional services customer
+purchased our ZIA transformation bundle plus CASB, advanced DLP and CSPM for Office 365 to protect 125,000 employees across 150 countries
+as they embraced work from anywhere. Zscaler eliminated the need for 30 different gateways and consolidated 6 different legacy point products,
+while meeting the customers' environmental goals for their ESG program. With sensitive customer data at risk, security was a major requirement,
+and the customer only considered solutions with a proxy architecture.
+4
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+FEBRUARY 25, 2021 / 9:30PM, ZS.OQ - Q2 2021 Zscaler Inc Earnings Call
+Let me conclude with some thoughts on our vision and strategy. At our Analyst Day in January, we laid out our audacious goal of serving 200
+million users and 100 million workloads on our Zero Trust Exchange. To achieve that, our entire organization is focused on attracting and developing
+talent, and creating a culture of excellence. Our commitment to culture starts at the top with our executive team and creates an environment where
+a global and diverse workforce that can deliver excellence to help our customers succeed. We are scaling our world-class engineering organization,
+which continues to rapidly deliver new products and features to our customers.
+On the go-to-market front, as we had demonstrated over the last 12 months, we have built a sophisticated sales machine to sell value and deliver
+measurable outcomes at the CXO level. We will continue to scale our sales organization as we are a destination for top talent. Our marketing
+organization is augmenting talent in all critical areas, while specializing campaigns by persona and segment to better address our significant
+opportunity. We are focused on driving broader adoption of our 4 pillars. We will continue to expand our ecosystem of technology partners and
+value-based channel partners, who are contributing to sales velocity and expanding our reach.
+I believe we are on the right track to capture a material share of the $72 billion serviceable market that we outlined on our Analyst Day. We are also
+seeing opportunities in bringing Zero Trust to IoT and OT systems and are excited about 5G which pushes computing further to the edge and
+opens up additional opportunities for Zscaler. We are excited about our future.
+Now I'd like to turn over the call to Remo for our financial results.
+Remo E. Canessa - Zscaler, Inc. - CFO
+Thank you, Jay. As Jay mentioned, we are pleased with the results for the second quarter of 2021. Revenue for the quarter was $157 million, up
+10% sequentially and 55% year-over-year. ZPA product revenue was 14% of total revenue.
+From a geographic perspective, we had broad strength across our 3 major regions. Americas represented 51% of revenue, EMEA was 38%, and APJ
+was 11%.
+Turning to calculated billings, which we define as the change in deferred revenue for the quarter plus total revenue recognized in that quarter.
+Billings grew 71% year-over-year to $232 million, with billing duration around the midpoint of our 10 to 14-month range. As a reminder, our contract
+terms are typically 1 to 3 years, we primarily invoice our customers 1 year in advance. Remaining performance obligations, or RPO, which represents
+our total committed noncancelable future revenue, exceeded $1 billion during the quarter and ended at $1.025 billion as of January 31. RPO grew
+68% from 1 year ago. The current RPO is 53% of the total RPO.
+Our strong customer retention and ability to upsell have resulted in a consistently high dollar-based net retention rate, which is 127% compared
+to 122% last quarter and 160% a year ago. As we have highlighted, this metric will vary quarter-to-quarter. While good for our business, our increased
+success selling bigger Transformation Bundles, selling both ZIA and ZPA from the start and faster upsells within a year can produce our dollar-based
+net retention rate in the future. Considering these factors, we feel 127% is outstanding.
+Total gross margin of 81% was flat quarter-over-quarter and declined 1 percentage point year-over-year, but exceeded our expectations. The
+year-over-year decline was primarily driven by a higher mix of newly introduced products.
+I would like to remind investors that a number of our emerging products, which include ZDX, Workload Segmentation and CSPM will initially have
+lower gross margins than our core products. As a result, we expect gross margins to be approximately 80% for the full year in fiscal 2021.
+Turning to operating expenses. Our total operating expenses increased 18% sequentially and 60% year-over-year to $112.9 million. Operating
+expenses as a percentage of revenue increased by 2 percentage points from 70% a year ago to 72% in the quarter.
+Sales and marketing expense increased 19% sequentially and 57% year-over-year to $76.5 million. The year-over-year increase was due to higher
+compensation expenses and investments in building our teams and go-to-market initiatives, offset by lower T&E with our employees working from
+home.
+5
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+FEBRUARY 25, 2021 / 9:30PM, ZS.OQ - Q2 2021 Zscaler Inc Earnings Call
+We've been very successful in hiring and onboarding remotely. And we are accelerating our sales and marketing hiring throughout the second
+half of the fiscal year.
+R&D expenses increased 15% sequentially and 71% year-over-year to $24 million. The increase is primarily due to continued investments in our
+engineering teams.
+G&A expenses increased 14% sequentially and 57% year-over-year to $12.5 million. The growth in G&A includes investments in building our teams,
+compensation-related expenses and professional fees.
+Our second quarter operating margin was 9% compared to 12% in the same quarter last year. Net income in the quarter was $14 million or non-GAAP
+earnings per share of $0.10. We ended the quarter with over $1.4 billion in cash, cash equivalents and short-term investments. Free cash flow was
+positive $18 million in the quarter, which compares to negative $2 million during the same quarter last year. The strength in free cash flow was
+driven by strong receivable collections.
+Now moving on to guidance. As a reminder, these numbers are all non-GAAP, which excludes stock-based compensation expenses, related payroll
+taxes, amortization of debt discount, amortization of intangible assets, facility exit costs, and any associated tax effects.
+For the third quarter of fiscal 2021, we expect revenue in the range of $162 million to $164 million reflecting a year-over-year growth of 47% to
+48%. Operating profit of $11 million to $12 million, other income of $300,000, net of interest payments on our senior convertible notes. Income
+taxes of $1.5 million and earnings per share of approximately $0.07, assuming approximately 146 million common shares outstanding.
+Due to better-than-expected first half performance and our strong pipeline, we're increasing our full year fiscal 2021 guidance for revenue, calculated
+billings and operating profit. For fiscal 2021, we now expect revenue in the range of $634 million to $638 million or year-over-year growth of 47%
+to 48%. Calculated billings in the range of $820 million to $825 million or year-over-year growth of 49% to 50%. Operating profit in the range of
+$59 million to $61 million; other income of $2.4 million, income taxes of $5.3 million, and earnings per share in the range of $0.39 to $0.40, assuming
+approximately 145 million to 146 million common shares outstanding.
+For your modeling, we would like to remind investors that Q2 and Q4 have been historically our strongest billing quarters, with declines in Q1 and
+Q3 quarters, respectively. The average sequential decline in billings during fiscal third quarters over the last 5 years was approximately 20%. We
+continue to see the market coming to us and remain committed to investing aggressively in our company behind the growth in our business.
+We have a highly efficient business model and are making investments across the organization today in order to capitalize on the large opportunity
+ahead of us. While we will balance growth and profitability, growth will continue to take priority considering our strong business momentum.
+Operator, you may now open the call for questions.
+QUESTIONS AND ANSWERS
+Operator
+(Operator Instructions) Our first question or comment comes from the line of Brad Zelnick from Crédit Suisse.
+Brad Alan Zelnick - Crédit Suisse AG, Research Division - MD
+Congratulations, guys, on all the success, really phenomenal results. Jay, I wanted to ask you a high-level question around the impact that the
+SUNBURST breach is having on the industry. At your Analyst Day in January, you'd mentioned that the impact is likely to be larger than the Target
+breach was in 2013. And if you can, maybe parse out for us how the event has impacted your pipeline across your strategic accounts, maybe all
+the way down to smaller commercial accounts. And how, if at all, you've changed the way you approach initial conversations with new prospects?
+6
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+FEBRUARY 25, 2021 / 9:30PM, ZS.OQ - Q2 2021 Zscaler Inc Earnings Call
+Jay Chaudhry;Co-Founder, President, CEO & Chairman of the Board
+Thank you, Brad. As we discussed during our Analyst Day, we are having increased conversations with our customers as well as prospects. We had
+SUNBURST-related webinar recently and had over 800 customers attend it. This week, I was asked to talk to a Board of Directors of a pharma
+company, and the primary topic was protecting against sophisticated threats like SUNBURST. So all this is making cyber a bigger priority than it
+has been. It's a bigger priority for CIOs as well as the Board. So what is that causing? It is increasing engagement. I'm not sure I can quantify the
+impact on the pipeline, but we're seeing that the customers, who are already educated on Zero Trust quite a bit, are making implementation of
+Zero Trust a bigger priority. The #1 question ends up being, if people get compromised, how do make sure that the lateral movement doesn't
+happen? The answer is simple. Don't connect people to your network, don't build a moat with firewalls and VPNs. Do Zero Trust implementation
+where you connect users to applications, not to the network.
+Operator
+Our next question or comment comes from the line of Mike Walkley from Canaccord Genuity.
+Daniel J.W. Park - Canaccord Genuity Corp., Research Division - Associate
+This is Daniel on for Mike. So I know over the past quarter or so, you've been working on really improving your sales motion in the SMB and small
+enterprise area. Can you just, I guess, provide some color on some of the investments you're making, and I guess, where do you expect to be moving
+forward?
+Jay Chaudhry;Co-Founder, President, CEO & Chairman of the Board
+I will start, and Remo can add on. Yes, we talked about our expansion towards the enterprise segment that we defined as between 2,000 and 6,000
+employees in a company. As you know, we have done extremely well in the higher end and in large enterprises for the last several years. So in this
+segment, the progress we made is ahead of our expectations. Our growth was faster in this segment. Well, it did come from a smaller base. Having
+said that, our large enterprise segment is driving the overall strength of our business. We are doing 3 specific things to grow our business in this
+enterprise segment: one, adding more sales reps, more sales teams, and we have done a lot of good progress in the past 2 quarters, and we'll do
+more in the coming quarters. Secondly, we are adding and expanding channel partners who cover the segment. And third, we are directing our
+marketing programs to support this segment as well.
+So in summary, it's a good opportunity to expand the segment, and we're doing well. We're pleased with our performance.
+Remo E. Canessa - Zscaler, Inc. - CFO
+Yes. Just as a quick follow-on. We put together a -- or initiated a Summit program a few quarters ago, and that is doing well. And so as a percentage
+of our revenue, VARs did pick up slightly in the quarter. VARs as a percentage of our revenues in the quarter was about just above 50%, where as
+the quarter before, it was in the high 40s. So as Jay talked about, I mean, the segments that we sell into commercial is the less than 2,000 employees
+enterprise to the 6,000 in large enterprise, 6,000 to 40,000 and majors at the 40,000. So the channel program, we're expecting to have positive
+results for us in the lower floor part of the market.
+Operator
+Our next question or comment comes from the line of Alex Henderson from Needham.
+7
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+FEBRUARY 25, 2021 / 9:30PM, ZS.OQ - Q2 2021 Zscaler Inc Earnings Call
+Alexander Henderson - Needham & Company, LLC, Research Division - Senior Analyst
+I [was sure] talk to a -- one of the architectural issues that I think is a fairly interesting differentiator, which is the argument that you guys have built
+a network based off of per user policy implementation versus architectures from some of your want-to-be competitors that are unable to differentiate
+the traffic flows on a per user basis or the policy implementations on a per user basis. Can you talk about that delta between what you're doing
+and how that shows up in alternative competitors or networks?
+Jay Chaudhry;Co-Founder, President, CEO & Chairman of the Board
+Yes. The fundamental difference is being a pass-through on network security architecture when traffic is flowing over the network. And a traditional
+device like a firewall is trying to scan what kind of application it is, guess it and trying to stop it or not. With our proxy architecture where we
+[prominate] every connection inspect and decide to connect to a particular user. So we have policies that are per user by design. There's no -- in
+fact, a user coming from company A or company B or company C each looks like an untrusted user. While in the traditional way, they are kind of
+batch-based policies. The end result is our architecture gives us 2 big benefits: one, with proxy we can do far better inspection at a high scale, high
+performance, including SSL. Two, it allows us to do Zero Trust where you don't connect people to a network, you connect to a specific application.
+And Zero Trust is probably the biggest thing to help you minimize the damage of lateral movement if something gets infected.
+Operator
+Our next question or comment comes from the line of Andrew Nowinski from D.A. Davidson.
+Andrew James Nowinski - D.A. Davidson & Co., Research Division - MD & Senior Research Analyst
+Congrats on a great quarter. I just wanted to follow up on Brad's earlier question regarding SolarWinds. It sounds like that's creating more pipeline,
+but not necessarily contributing to revenue yet. But your billings growth is the strongest that we've seen in over 2 years. So I'm wondering if you
+could just comment on what the key drivers are that are contributing to that inflection in your billings growth now since SolarWinds. It doesn't
+look like it's really had much of an impact yet?
+Jay Chaudhry;Co-Founder, President, CEO & Chairman of the Board
+Generally, in all these sessions, analysts like to pinpoint to a particular event that may cause something. So COVID was viewed as maybe a catalyst.
+This is being viewed as a catalyst. As we have said before, the overall catalyst is that everyone is driving towards digital transformation, COVID may
+be helping it, SolarWinds may be helping it. But customers have realized, they believe that they need to accelerate their transformation, and we
+are the one, who enabled that transformation. If you do your transformation without something like Zscaler, your risk goes up significantly. So
+where is our growth coming from? ZIA, which has been our workhorse. Yes, now we got over 25% of Global 2000 companies, but we have 75%
+more to go. It is generating pretty good sales. ZPA, which was a relatively young product 2 or 3 years ago, now is actually contributing significantly,
+about 40% of our Global 2000 customers already have our ZPA. So these 2 are the biggest contributors of our billings growth. And then the new
+pillars ZDX is picking up quite well and also is the new pillar of cloud protection. I think we're very pleased that our customers are buying more
+and more bigger bundles together. I talked about ZIA, ZPA and ZDX being brought together by our customers during our -- in my prepared remarks.
+So across the board, we're seeing strength from product side of it, across geos, we are seeing strength. Remo, you want to add to my comment?
+Remo E. Canessa - Zscaler, Inc. - CFO
+No. I think Jay is absolutely right. If you take a look at the breadth of our platform. Before we're user centric, now, basically, we're also cloud protection,
+so -- workload protection. So the breadth of the platform is resonating with our customers. In addition, when we talked at the Analyst Day that for
+companies of 5,000 employees on the user side, we'd expect -- we're seeing ARPUs in that $145 range. I can say that in the quarter, we've had deals
+8
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+FEBRUARY 25, 2021 / 9:30PM, ZS.OQ - Q2 2021 Zscaler Inc Earnings Call
+with customers at the 5,000 employee range in that range at $145. So what's happening basically is that there's a huge need in the market. Legacy
+architecture is not the answer. And so with Zscaler, with the breadth of platform, the increasing platform that we've created and will continue to
+create, is really perfectly set to go forward into this market.
+Operator
+Our next question comment comes from the line of Erik Suppiger from JMP Securities.
+Erik Loren Suppiger - JMP Securities LLC, Research Division - MD & Equity Research Analyst
+Jay, given what you were saying earlier about proxy versus firewall, can you comment on how if you -- how difficult it is to augment firewall
+architectures with proxy capabilities? Because I think one of your competitors is talking about introducing that kind of capability to their solution.
+Jay Chaudhry;Co-Founder, President, CEO & Chairman of the Board
+Well, what should I say? Imitation is the best form of flattery. Having said that, I would say that there's something called native architecture or
+purpose-built architecture, there is something called bolt-on. Building proxy is hard, because you terminate, you inspect and you reconnect.
+Compare that to a pass-through firewall, you don't stop anything, you let it go. If you catch something, it's great. If you don't, you don't. Many
+vendors have tried and failed to build a high-performance proxy, because it's hard. The only 2 vendors in the past 20 years have successfully
+penetrated enterprises for zero -- for user security, Blue Coat for on-prem, and they've done it for the cloud. So I think am I surprised that people
+try to get by without a proxy and finally, the customer said, no, no further changes. I think delivering the same will be tricky. We've seen many
+companies do it. There have been vendors who have been saying that they had a proxy for 6, 7 years. I would rather not name them, but I still
+haven't seen them in the market.
+So we keep on -- we are not sitting still. We keep on advancing. The most functionality you add, browser isolation, to CASB, to content inspection,
+to DLP and all, your proxy has to do more and more work and still deliver throughput and still do threat inspection. So we welcome the competition,
+but we are very pleased with our performance, the kind of lead we have over traditional legacy vendors.
+Operator
+Our next question comment comes from the line of Sterling Auty from JPMorgan.
+Sterling Auty - JPMorgan Chase & Co, Research Division - Senior Analyst
+So how off the networks on the earnings call pointed out the success that they've had with Prisma Access? And given the commentary about the
+success that you're seeing in the enterprise, I'm curious, are you running into each other in an increasing fashion in that segment? And it's just that
+the space is so big that you're both able to grow at these rates? Or do you think you're serving different segments of the overall opportunity in the
+market?
+Jay Chaudhry;Co-Founder, President, CEO & Chairman of the Board
+So firewall vendors started making noise a couple of years ago, a lot of noise, then it died down about 6 months after that. In the field, we haven't
+really change -- seen a whole lot of change to it. When it comes to large enterprises where we dominate, we haven't seen any change in competitive
+landscape. And I can understand why. Large enterprises are security savvy. They understand the difference between proxy and non-proxy. They
+understand Zero Trust and VPN. And that's why we don't expect to see firewall-based architecture in those enterprises. And all of you guys are so
+close to banks. Find a large bank who believes in not having proxy, but using firewall architecture for security. I have not found one. I think when
+9
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+FEBRUARY 25, 2021 / 9:30PM, ZS.OQ - Q2 2021 Zscaler Inc Earnings Call
+it comes to lower end of the spectrum, probably in the 5,000 users or below, we do see firewall vendors from time to time. And from time to time,
+these guys aren't that sophisticated. They can be probably tricked into buying something that may not be that sophisticated. So I think you'll see
+less sophisticated solutions being bought on the lower end. But on the higher end, we haven't seen any change in competition.
+Operator
+Our next question comment comes from the line of Patrick Colville from Deutsche Bank.
+Patrick Edwin Ronald Colville - Deutsche Bank AG, Research Division - Research Analyst
+Congrats on a very impressive quarter. Just asking about headcount hiring. I mean that was a major theme of fiscal '20. And it looks potentially in
+the numbers that, that's probably helping to contribute to growth this quarter. I mean can you just help us understand how you guys think about
+hiring now? And if you can share any numbers around net headcount adds year-on-year sequentially? That would be great.
+Remo E. Canessa - Zscaler, Inc. - CFO
+Yes, I'll take that. So the net headcount adds we had in the quarter was about 240 and it was about 260 in Q1. Generally speaking, it's around 60%
+sales and marketing heads. And that's what it was also -- and historically, it's been pretty much every quarter, and that was the case in Q2. The
+comment about accelerating hiring, yes, we are. We're accelerating hiring. We see a huge market opportunity. We see that we are doing well. We
+see that we've got the right product for this market. So we're going to continue to invest across the board in the company. In particular, with field
+quota sales reps, we had a record quarter hiring in Q4. We had a comparable quarter in Q1, and we had a very good quarter in Q2. And we plan to
+continue to hire aggressively throughout the back half of the year. Again, from our perspective, we've talked about putting growth ahead of
+profitability. We'll be mindful of profitability. Since our public offering, we've been positive profitability and free cash flow. Jay and I are very mindful
+of that and we'll continue to be mindful of that.
+But this is such a big opportunity, that we feel that we want to take advantage of it, and we're going to invest in it, and we're going to try to capture
+it.
+Jay Chaudhry;Co-Founder, President, CEO & Chairman of the Board
+If I may add, over the past 4 quarters, we have pretty openly shared with you a game plan of scaling our sales organization, building our sales
+engine from enablement to training and all those things. And I think you're seeing the results being delivered quarter after quarter. So we are
+bullish about it, and we'll keep on increasing our headcount in sales, in engineering, in customer support and all other related areas.
+Operator
+Our next question comment comes from the line of Fatima Boolani from UBS.
+Fatima Aslam Boolani - UBS Investment Bank, Research Division - Associate Director and Equity Research Associate Technology-Software
+Remo, a question for you. Jay, in his prepared remarks, alluded to a number of very large sort of wall-to-wall transactions that were also multi-product.
+So I'm wondering if you could comment on the large deal activity that you saw in the quarter? And if it was maybe outsized in any particular regions?
+That would be really helpful if you can give us some of that quantification of that.
+10
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+FEBRUARY 25, 2021 / 9:30PM, ZS.OQ - Q2 2021 Zscaler Inc Earnings Call
+Remo E. Canessa - Zscaler, Inc. - CFO
+Yes. Good question. So large deal activity was strong in the quarter. It was comparable to Q1. It was significantly higher than last year. From a
+geographic perspective, all regions did well. I mean we are investing in all regions pretty much the same level. APJ, probably a little bit faster than
+the other regions, but all regions have done well, and we continue to invest.
+Related to the other comment I made before, when companies see -- with the breadth of the platform that we have, and companies see the value
+of Zscaler, and the ease of implementation, the increased security, and also the ROI, the value proposition is resonating with our customers. And
+so we're seeing that. And so by adding ZDX and ZCP and broadening the platform, it actually increases the value of what we're -- of Zscaler.
+Jay Chaudhry;Co-Founder, President, CEO & Chairman of the Board
+If I may add a couple of points to it. We have truly expanded the platform. We haven't gone on a buying spree and thrown them in there and call
+it a platform because those -- these unintegrated products don't add a lot of value. Our customers see the value. For example, to turn on ZDX, it's
+literally a few minutes. It hardly takes anything because the traffic is already flowing through, everything is happening. The second point I'd like
+to make is, yes, we did have what you call wall-to-wall deals, I guess that meant all pillar deals. But there are no mega deals in the quarter, okay?
+And there's no onetime kind of special deals that artificially increased our billings numbers. It was properly distributed various pillars and across
+all geos.
+Remo E. Canessa - Zscaler, Inc. - CFO
+Yes. As a follow-on for Jay, also. It was a near record quarter also for new customers. So it was broad. It was strong. And as Jay mentioned, there's
+no mega deals that we've had in the quarter.
+Operator
+Next question or comment comes from the line of Matt Hedberg from RBC Capital Markets.
+Matthew John Swanson - RBC Capital Markets, Research Division - Associate VP
+This is Matt Swanson on for Matt. Jay, kind of going back on some of those large deals, it seemed like you had a lot of success upselling, ZIA and
+ZPA. I know at the Analyst Day, we talked about maybe a 6x upsell opportunity within your base. When it comes to kind of realizing that opportunity,
+is it more just a matter of time and as customers see the value they're coming back? Or are there steps you can take to kind of more aggressively
+pursue that expansion?
+Jay Chaudhry;Co-Founder, President, CEO & Chairman of the Board
+So I think our customers are happy and trusting us. So that's a starting point. If that's not the case, you won't sell. Two, you need proper sales
+execution, engagement. Our engagements start from the C level, the sales machine we have built is helping us. So we are getting pretty good
+share of upsell deals. In fact, we don't have differentiation between incentive, sales incentive or sales versus new upsell. So we are pleased with
+the upsell performance, the new performance. We have an internal debate between how much do we need new versus upsell. Remo and I decide
+let the total ACV rule where we have both opportunities. But we are seeing good growth, good upsell numbers every quarter.
+Remo E. Canessa - Zscaler, Inc. - CFO
+Yes. As a quick follow-on for Jay. Just some numbers. Upsell was very strong. New business was very strong also. If the split between new and upsell
+in the first half was approximately 50-50. Upsell in Q2 was slightly below 50%. We feel...
+11
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+FEBRUARY 25, 2021 / 9:30PM, ZS.OQ - Q2 2021 Zscaler Inc Earnings Call
+Jay Chaudhry;Co-Founder, President, CEO & Chairman of the Board
+Sorry, sorry. New was slight -- slightly below.
+Remo E. Canessa - Zscaler, Inc. - CFO
+Excuse me. New was slightly below 50%. And going forward, we think a good mix for Zscaler is 50-50. And the reason for this is the point that you
+brought up. I mean, the 6x ability to upsell into existing customers just for ZIA and ZPA. And so it is significant.
+Operator
+Our next question comment comes from the line of Brian Essex from Goldman Sachs.
+Brian Lee Essex - Goldman Sachs Group, Inc., Research Division - Equity Analyst
+Great to see that billings acceleration. And on that, I was wondering if we can get a little bit of color around your hiring rate, I think it was brought
+up on a previous question. But wondering, have you reached some kind of a terminal velocity in terms of the rate of hiring and the rate of training
+and the rate of maturation within your sales force? And maybe a little bit of color, too, around how you're attracting talent in the market? Is it
+primarily in a localized area? Or is it from multiple geographies that you're able to attract better talent on your platform?
+Jay Chaudhry;Co-Founder, President, CEO & Chairman of the Board
+I will start, then, Remo, you can add on. So first of all, we have become the top destination for the top talent. When the market is competitive, we
+actually don't have problem attracting good talent, whether that's in sales organization or engineering. So pleased obviously, with that, you need
+to make sure things are in place, a proper team for hiring, but that's happening. Related to geos of where the concentration is, from sales point of
+view, we are where the customer is. We are a very global organization with big presence all over U.S., all over Europe, APJ, Japan, India, Singapore.
+All these places. So we are attracting talent from everywhere.
+And generally, on the sales side, we're looking for talent coming from companies who know how to sell solutions, who need to sell software, who
+know how to sell transformation sales. That's the first part. The second part was ability to train. Over the past 4 quarters, we shared with you how
+we built the sales enablement team, how we built the team with sales leaders, the proper -- even proper process for interview for these people
+with the whole documented process. I think we are very optimized. I would say as optimized as I ever see out there. So that's why we are able to
+add significantly large number and make them pretty productive in a shorter amount of time than we would do otherwise.
+We shared a little bit of that during our Analyst Day, the kind of impact that's being made with better training and better enablement. Remo?
+Remo E. Canessa - Zscaler, Inc. - CFO
+Yes. Just a quick follow-on, from my perspective around sales organizations, my career -- really good sales organizations. Nothing matches what
+we have here at Zscaler. Nothing. The organization top to bottom, from the way it's structured and the ability to scale. as Jay talked about, the
+training with the sales enablement group, never seen anything like it in my career. It gives us the ability -- as Jay said, we're not looking for people
+who sell traditional, we're looking for people who can sell transformation. And to do that, you need to be trained. And we are a destination. So do
+we have the ability to increase our hiring pace? We do. Do we have the ability to onboard quickly? We do. Do we see salespeople getting to
+productivity faster? We are. So I mean, it's a good place to be.
+12
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+FEBRUARY 25, 2021 / 9:30PM, ZS.OQ - Q2 2021 Zscaler Inc Earnings Call
+Operator
+Our next question or comment comes from the line of Tal Liani from Bank of America.
+Tal Liani - BofA Securities, Research Division - MD and Head of Technology Supersector
+My question is about the comps for 2021. Do you feel or do you have any data to think that some of the growth this year was related to COVID, an
+increase in license take rate because of COVID? And if that's the case, we might have an issue second half '21 with the comps? I know that this is
+on investors' mind, and I'm wondering if you have any data to support the view one way or another.
+Jay Chaudhry;Co-Founder, President, CEO & Chairman of the Board
+Yes. Let me start with a general comments and Remo, you can be more specific. I give you the hard part, the numbers. Look, we do believe that
+work from anywhere is here to stay. As COVID became a catalyst to shake off inertia, it actually changed the mindset. And it really not just gave
+momentum, but also brought to right the limitations of legacy network and security. So we are seeing a customer saying, "We are implementing
+Zero Trust," which means they need ZIA, ZPA type of deployments even after everything gets back to normal. If that were not the case, they would
+be doing short-term ZPA deal and saying, I'm going back to the office, I no longer need to do renewals of ZPA. We aren't seeing that. So we think
+the world is changing. So going back to the office should not be impacting our momentum of the business. That's how I look at it overall. Remo?
+Remo E. Canessa - Zscaler, Inc. - CFO
+Pipeline is strong, and interest is high in Zscaler, and engagement is significant.
+Operator
+Our next question or comment comes from the line of Hamza Fodderwala from Morgan Stanley.
+Hamza Fodderwala - Morgan Stanley, Research Division - Equity Analyst
+Jay, my first question for you. You talked about really strong traction with ZDX. I think it was over 200 customers on that product. When you initially
+launched the solution, it seemed like it would be something that would be perhaps more complementary with the monitoring vendors. I'm
+wondering, given the strong traction that you've had, what is your sort of ambition with this product?
+Jay Chaudhry;Co-Founder, President, CEO & Chairman of the Board
+So it is complementary with application monitoring vendors. So -- but it's not complementary with network monitoring vendors. Because network
+monitoring vendors are monitoring traffic between your branch office and the data center over your private network. Private networks are going
+away. People are sitting anywhere. When you're sitting at home and going to Office 365 or your data center, what network monitoring tools can
+you use? Hardly any. So we are sitting on the endpoint. We are connecting the user application. We're sitting in the middle, we see the application
+side. We see the endpoint side. We're the best players to give you end-to-end monitoring and complement application monitoring vendors.
+Hamza Fodderwala - Morgan Stanley, Research Division - Equity Analyst
+Got it. And then just maybe a follow-up question for Remo. Obviously, a massive expansion of the sales force and the channel over the past couple
+of years. But I'm curious, what percentage of these reps are fully productive, right, given that your traditional ramp period that they have?
+13
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+FEBRUARY 25, 2021 / 9:30PM, ZS.OQ - Q2 2021 Zscaler Inc Earnings Call
+Remo E. Canessa - Zscaler, Inc. - CFO
+Yes. Let me just answer it saying that 2/3 of our sales reps are still ramping. So they're not fully ramped. When I say ramping, they have been here
+-- they've been here for less than 1 year.
+Operator
+(Operator Instructions) Our next question on the comment comes from the line of Gray Powell from BTIG.
+Gray Wilson Powell - BTIG, LLC, Research Division - Director & Security and Analytics Software Analyst
+So just looking back last year, a lot of companies they went out and they purchased additional VPN capacity from legacy vendors, really as part of
+continuity initiatives. Are you seeing some of those deals come up for renewal? And do you think that gives you an incremental opportunity to
+gain share as those companies look to modernize their solutions?
+Jay Chaudhry;Co-Founder, President, CEO & Chairman of the Board
+No. I would say as I have discussion with our large enterprises, and I personally do quite a few. I have yet to find a customer who has -- I talked to
+who said, I want to keep VPN for the long run. They're all in various stages of the journey. The growth you see of ZPA from our customer base is
+the result of more and more Zscaler customers embracing Zero Trust and ZPA. I do believe that although there'll be some exception, but most of
+these current ZIA customers will embrace ZPA. And I see them more and more embracing ZDX as well. Our strategy of offering, a well designed,
+integrated platform with 4 pillars is working well. 2 years ago, the question used to be can ZPA take off, right? That question has been answered
+over and over. Another question is can ZDX and ZCP take off? Early indications are very good. But back to your question of, is VPN replacement
+vendors an opportunity for us? Absolutely, yes. Our starting point of ZIA is replacing the user protection, which typically is a proxy, and then we
+start expanding into the full bundle. Our ZPA entry point is generally a VPN vendor, and then you expand to Zero Trust App segmentation.
+Operator
+We have time for one last question. Our final question will be from the line of Yun Kim from Loop Capital Market.
+Yun Suk Kim - Loop Capital Markets LLC, Research Division - MD
+So Jay, on the new cloud workload protection product, it seems like you're already getting some early traction there. Are you seeing an opportunity
+to partner with a hyperscaler -- scalers such as AWS and Azure, since a lot those -- a lot of the cloud workloads will reside on those hyperscaler
+platforms? And I know you already have partnership with ZIA, ZPA with AWS? And then also, in addition, do you see the need to begin to target
+like DevOps team for your cloud workload product?
+Jay Chaudhry;Co-Founder, President, CEO & Chairman of the Board
+Yes. It's a good question. Fair you said, we have already been engaged with leading cloud providers with ZIA and ZPA. Okay. On the cloud protection
+area, we got some early initiative going. There's a good complementary fit we see with them. And I think it's a little bit early. I mean, it's only a
+quarter or so, but the momentum is strong, the pipeline we're building is strong. The way you should look at Zscaler Cloud Protection is not the
+way you look at traditional vendors, who say, "I'm going to take my firewall and put the virtual firewall in the cloud." We think that trying to replicate
+your data center in the cloud would never work for even moving apps. How is it going to work for security? We look at workloads like mirror image
+of users and should be protected like users. So with Zero Trust Exchange, we are able to connect a workload in region A to workload in region B
+over the Internet coming through our Zero Trust Exchange. That's really what makes us very different architecturally.
+14
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+FEBRUARY 25, 2021 / 9:30PM, ZS.OQ - Q2 2021 Zscaler Inc Earnings Call
+Now the next part of your question was left shift stuff. As we are engaging with our customers, they are having dialogue with us. As they are figuring
+out their left shift strategy, it's a new area and we are closely monitoring it. As the market evolves, you can rest assured, we will be there to serve
+our customers.
+Operator
+That concludes our question-and-answer session for today. I'd like to turn the conference back over to Mr. Jay Chaudhry, Chief Executive Officer,
+for any closing remarks.
+Jay Chaudhry;Co-Founder, President, CEO & Chairman of the Board
+Thank you for joining us. I hope the session was worthwhile. We hope to see you at our next earnings call or before that, in one of the investor
+events, will be joining. Thank you.
+Remo E. Canessa - Zscaler, Inc. - CFO
+Thank you.
+Operator
+Ladies and gentlemen, thank you for participating in today's conference. This concludes the program. You may now disconnect. Everyone, have a
+wonderful day.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon
+current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more
+specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the
+assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION,
+THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY
+RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE
+COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2021, Refinitiv. All Rights Reserved. 13616591-2021-02-26T18:22:42.650
+15
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+FEBRUARY 25, 2021 / 9:30PM, ZS.OQ - Q2 2021 Zscaler Inc Earnings Call

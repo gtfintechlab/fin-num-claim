@@ -1,0 +1,540 @@
+1
+First Quarter 2021 Buyside Call | May 6, 2021
+C O R P O R A T E  P A R T I C I P A N T S
+John Rainey, Chief Financial Officer and Executive Vice President, Global Customer Operations
+Gabrielle Rabinovitch, Vice President, Corporate Finance & Investor Relations
+C O N F E R E N C E  C A L L  HOST
+James Faucette, Morgan Stanley
+P R E S E N T A T I O N
+Operator
+Welcome to the PayPal Virtual Fireside Chat conference call.  At this time, all participants are in listen
+only mode.  Please be advised that today's conference is being recorded.  If you require any further
+assistance, please press star zero.  I would now like to hand the conference over to your speakers today,
+James Faucette, please go ahead.
+James Faucette
+Hey everybody.  And thanks for joining us today in this conversation with John Rainey, CFO of PayPal.
+We also have Gabrielle Rabinovitch from the IR team, who's now doing more work within operations
+itself [corporate finance], so she can provide some color there as well.  Look, as we go through, I've got
+prepared list of questions here.  Honestly, we've got 45 minutes.  Hopefully, we can get through a big part
+of those.  I think that we actually could do a Joe Rogan podcast if we want, John, but I won't subject you
+to that.  As we're going along, if anybody does have anything that they want to make sure that we hit on,
+First Quarter 2021 Buyside Call | May 6, 2021
+2
+feel free to email me here at james.faucette@morganstanley.com, and we'll try to incorporate that as
+well.  So John, big quarter, a lot of growth, TPV growth at 50% or 46% FXN, was obviously excellent.  Would
+love to dissect that a bit.  And I guess starting here, and this was something that we got a lot of input from
+people wanting to get a little more color.  What was the biggest contributor to the upside there? Was it
+core TPV? Ex‐Venmo on eBay growth was stronger in Q1 or even looking at a two‐year CAGR basis.  So
+just give us as much color as you can on kind of what you're seeing and what's driving that.
+John Rainey
+Sure, James, and it's always a pleasure and a lot of fun to be able to do this with you.  You're right.  I
+mean the year over year numbers are kind of eye‐popping.  We obviously benefited from softer comps
+in March last year.  But even then, if you look at your over two‐year numbers or even quarter over
+quarter, you saw that there was really strong TPV growth, and that obviously falls to revenue and the
+bottom line.  There are a few things that stand out, and one is, we just started off the quarter really,
+really strong, and getting to sort of your question around where that's coming from, the thing that
+stands out the most is just the strength  of our core markets and just this continuing pull forward of e‐ 
+commerce where we're seeing this persistence in some of the trends around people and their
+behaviors
+in terms of using digital payments.  But the holiday period at the end of 2020 was more challenging to
+predict, because there was concern that there may have been pulled forward in some of the holiday
+sales, and we certainly saw an elongated holiday shopping season, but getting to your question, it
+extended on the tail end as well.  The first 10 to 15 days of January were exceedingly strong relative
+to the normal low that you'll see after the holiday shopping season.  You then go to the stimulus
+payments.  We had that modeled in our guidance that we gave, and it generally tracked pretty close to
+what we expected.  And were able to isolate the impact of stimulus pretty well, particularly as welook
+First Quarter 2021 Buyside Call | May 6, 2021
+3
+at what happened last year.  We talked a little bit about that on the call yesterday, but that was not
+something that I think was an outsize or driver of the results or the outperformance because we did
+model that pretty closely to what actually happened.  And then we get to March, and March has softer
+comps.  And there's a number of thingsthere, but like just take Venmo.  Venmo wasreally strong in March,
+and it always is around March Madness, which if you didn't follow, Baylor ended up winning it all.  But
+Venmo is used a lot in the March Madness timeframe.  And remember that last year that was canceled,
+incidentally when Baylor was also number one in the nation. But anyway, as we look at the quarter in
+total, just really strong growth across all parts of our platform, and a lot of these behaviors that are
+displacing cash are persisting, and that really plays into the increase in guidance for the back half of the
+year.
+James Faucette
+   
+That makes sense. And John, at some point, Arizona's going to be back, I promise, but that's neither here
+nor there.  But when you look at Venmo, one of the things that I wonder, and you mentioned kind of
+easier comps and kind of like some of the impact there, but what about other metrics that you're
+looking at, whether it be frequency of engagement or other things that could be telling and help you
+kind of sort out really what's happening there, particularly on a go‐forward basis?
+John Rainey   
+Well, remember at our Investor Day, we talked about this idea of increasing the ARPU, the average
+revenue per user, 2X for PayPal [from a medium engaged to high engaged user] and 10X for Venmo. And
+what really underlies that is an increase in engagement.  And perhaps one of the more exciting things
+internally that we rally around is the strong correlation that we see and increases in level of engagement
+with additional experiences that we're providing to our customers that provide more utility to that wallet.  
+First Quarter 2021 Buyside Call | May 6, 2021
+4
+I'm looking more closely at engagement lift than I am at the monetization efforts around things like buy
+now, pay later or crypto or other things like that, because all of this plays to this thesis of the ascendancy
+of the digital wallet over the next three to five years, which we firmly believe in.  And if we can increase
+these levels of engagement, which directly flows to increased levels of revenue in there and then to the
+bottom line.  It's sort of following suit to what the thesis is around what we're going to do over the next
+five years.
+James Faucette
+Yeah.  And when you look at that point around increased use of wallet, etc., how much benefit
+were you getting from things like Paymentus or Bill Pay generally, or even things like crypto wallet
+funding? Were those enough to move the needle in any of, whether it be TPV or other financial metrics?
+John Rainey   
+I wouldn't say that any one of those individually moves the needle.  I think the collective impact of all of
+them probably move the needle a little bit.  Let me give you a couple of data points there: around net new
+actives, one of the primary activation channels for net new actives is P2P, and that's been consistent for
+some period of time, but in the most recent quarter, one of the things that was at the very top of driving
+net new actives was what we call recurring payments orsubscriptions.  And so that's again something that
+we're really excited about that it is improving our financials and creating a stickiness to the platform.  
+Paymentus is driving more volume.   We certainly had a full quarter of Paymentus being effectively a
+hundred percent ramped.  And you see a little bit of the impact of that in our take rate, but you also see
+it in our transaction expense.  And again, this goes back to this idea of creating utility in the digital wallet
+with things like Bill Pay, subscriptions, all these things that are inherently very sticky versus someone just
+using PayPal to pay at a website.  
+First Quarter 2021 Buyside Call | May 6, 2021
+5
+James Faucette
+Got it.  John, you cut out right before and you came back right before you started talking about
+Paymentus, etc.  So if there are any secrets of the universe that you disclosed, then maybe you
+should revisit those really quickly.
+John Rainey   
+Sorry.  We did hear a little static.  I apologize about that.  The only thing I was saying is that recurring
+payments or subscriptions was one of our largest activation channels for net new actives for the quarter.
+Think of that as something like vaulting a PayPal instrument into Uber that is just sort of opaque and
+happening in the background there, but it's a recurring type payment.
+James Faucette
+Got it, got it, got it.  Now on the outlook itself, obviously you seem very confident and one of the
+questions we've gotten not just about PayPal, but generally is, and concerns even better said, is people
+worried that the stimulus may be distorting current activity and then making forecasting that much
+more unpredictable.  Are you able to isolate stimulus impact within what you're seeing very well? And
+then how are you adjusting as you build plans for a more normalized environment?
+John Rainey   
+Yeah, it's a great question.  Let me pull that apart in a couple of different directions.  One is, this is a
+challenging time to forecast.  There's a lot of variability given with vaccine rollouts, how quickly people
+are returning to physical experiences.  And so I don't want to suggest that we have a crystal ball and we
+know exactly how this was going to play out.  That's not the case at all, but that said, that should not
+First Quarter 2021 Buyside Call | May 6, 2021
+6
+take away from our conviction and what we're seeing around our business longer term.  And the pull
+forward is e‐commerce and the growth of digital payments.  And I gave the example yesterday of,
+let's call it, a newer digital payment experience where I'm paying with a QR code at a restaurant.  Those
+types of things are going to persist.  So if there is nothing about that experience of pain with a credit
+card in a restaurant that is fundamentally better than being able to pay with your phone right there at
+your table and not needing to wait on that credit card.  It's those types of experiences that we
+fundamentally believe are going to take over, over the coming years.  And look, this is not like
+speculation or conjecture on our part.  You can look at markets in the world like China, where they're
+not turning back, you've reached saturation or ubiquity around digital payments with QR code.  You go
+to Shanghai, and literally there's a QR code on a vending machine, there's a QR code on the bus station,
+there's a QR code at the grocery store.  There's even the street vendor that's selling food, has a placard
+with a QR code out there.  Why?  It's just fundamentally easier than paying in any other form.  And so
+this may take years to actually sort of sweep these established markets like the US that we're in, but we
+don't believe that we're turning back here.  And that's why we have the conviction that we do around
+the growth opportunity for PayPal long‐term.
+James Faucette
+Got it, got it.  And you touched on international markets, and that was one of the things that we noticed
+was that the TPV volumes were obviously good in the US, but we were also seeing improvement
+internationally.  Can you provide a little more color there, like what you're seeing, maybe in different
+regions and like how that's varying with the ebbs and flows of pandemic, etc.? I guess, tied into
+that Visa and MasterCard themselves talked about a lot of growth in international e‐commerce and just
+wondering if you're seeing that and how you're thinking about sustainability of those trends.
+First Quarter 2021 Buyside Call | May 6, 2021
+7
+John Rainey   
+Sure.  And as you asked that question, I realized that I didn't answer the entirety of the previous
+question around stimulus.  These might tie together.  We certainly saw a benefit from stimulus
+checks.  I would not say that that was a key driver of our results.  That said, if you get to the reason
+behind the stimulus checks and sort of getting into your international question, there is a correlation in
+so far as like some of the strength internationally that we saw were in markets like the UK, which is
+having a more pronounced impact from the pandemic right now than what we see in the US.  We saw  
+a benefit from that, but that's not what I would refer to as a benefit from stimulus.  It's sort of the lack of
+mobility that people have and the resulting increase in e‐commerce shopping.  So that was a key driver.  
+And getting into cross‐border activity, intra Europe was certainly the area that probably stood out as being
+the strongest around cross‐border.  Asia is another area that I would mention, but all of this is, I think
+really speaks to the reach and scale of our platform and the relevance of PayPal in these markets.  You
+take a market like Germany, we are very highly penetrated into digital users there.  And as we continue
+to provide additional use cases, we only expect that to increase.  Germany, it's an interesting market
+because some of the things we talked about at Investor Day, like around, tap & pay, and [we’ve] seen an
+incremental 50 transactions of someone that's using this offline, we see an incremental 50 transactions
+online.  And so that's where I think our value proposition really shines in a lot of those markets, but to be
+clear, we did benefit from some of the difficulties that people are going through by not having the normal
+mobility that they do.
+Gabrielle Rabinovitch   
+Yeah.  James, one other point last year, we did call out Q1 was particularly hit on the China seller side,  
+given the initial wave of COVID in market there, and so February was hit in Asia as well as March, kind of  
+a Q1 impact and lapping of that also very much benefited our Asia comps.
+First Quarter 2021 Buyside Call | May 6, 2021
+8
+James Faucette
+Got it, got it, got it.  I appreciate that Gabrielle.  So talking about specifically comps and guidance, et  
+cetera, what kind of assumptions are you making for the 2Q TPV guide, particularly the second half of  
+the quarter? If we take kind of what you'd said about thus far or through April, etc., it seems like  
+you're building in some deceleration there, but I don't know if we're interpolating correctly.  So just any  
+help on that topic.
+John Rainey   
+Yeah.  Well, 2Q is obviously going to be the most difficult comp for us of any quarter in 2021.  That's
+where we saw the bulk of the pantry packing, the people getting various goods to protect themselves  
+from COVID‐19.  And May, last couple of weeks of April, beginning of May were really, really strong  
+periods of growth last year.  And so the lapping of that is a difficult comp, but sort of offsetting some of  
+that is we also expect to see a continuation of the trends around an increase in travel and events [T&E].  
+We  
+saw a little bit of that in the first quarter and we called that out yesterday, but just as a comparison, we  
+were seeing 50% declines around T&E throughout the last several quarters of last year.  That was only
+24% down in the first quarter.  And we'd expect it to kind of ratably increase throughout the year.  So that
+will offset some of that because those were‐ in fact, not only was the volume declining last year, it was
+actually negative volume in some cases where people were getting refunds more than they were buying
+new things like on Airbnb and items like that.  So, T&E [Travel & Events] is something that I would call out
+for the second quarter.  Then getting to the back half of the year, you get to a slightly more normalized
+growth rate.  And this is when we're going to launch a lot of the new experiences that we're rolling out
+around the digital wallet, things like that, that we're quite excited about.
+First Quarter 2021 Buyside Call | May 6, 2021
+9
+James Faucette
+And on that kind of new experiences, etc., any previews, like what we should anticipate there, like
+streamlined, updated look, additional functionality, and what's the timeframe we should be kind of  
+anticipating those to start to roll out?
+John Rainey
+Sure.  Well, to be clear this is going to be an effort that rolls out over several quarters.  I don't want to
+overstate this.  This is not going to be something that, along the initial rollout just blows people away.  I  
+mean, we're going to add additional experiences, improve the functionality of the wallet, and it will get  
+better and better over the coming quarters.  And we're quite excited about that because I think most  
+would recognize that the PayPal app is in need of a refresh.  It's a little bit tired right now.  And in fact,  
+you could look to some of our competitors and have a lot better fit and form and functionality in their  
+wallets where they are able to navigate that as much easier and more intuitive for what people are  
+actually trying to use the wallet for.  So all of these are things that we're doing, rolling out experiences,  
+but also improving the ability to use the app, the way that one navigates through there.  And then over  
+the coming years, we'll continue to add additional features to the wallet that we think the consumer  
+wants.  And one of the things that's been talked about is you can now buy and sell crypto, why not buy  
+and sell stocks.  Certainly, others are doing that.  So we're exploring that, savings accounts, other things  
+like that, that really create a digital wallet that is kind of a destination for people where they don't need  
+to toggle back between other apps, and they can do all of this in one place.
+James Faucette
+Got it.  And last, obviously we've been hitting a lot of top line topics to start here, but last one, would
+First Quarter 2021 Buyside Call | May 6, 2021
+10
+love to spend just a few minutes on the Alibaba announcement.  Can you explain quickly what is this  
+relationship and how is it different than the other marketplace partnerships you have, and I guess  
+maybe most importantly, how are you sizing the opportunity with them?
+John Rainey   
+Sure.  So appreciate the opportunity to talk about that because being able to partner with what is one of
+the largest marketplaces, if not the largest in the world is pretty exciting for us and the largest digital  
+market in the world.  To be clear, this is ‐ and let me start, James, by saying, there are limitations to  
+what we can disclose around the specifics of this at the request of the partners that we are operating  
+with.  But this is not something that we could have done when we were operating under the operating  
+agreement with eBay.  So the type of agreement that we have with Alibaba was specifically prohibited  
+under that agreement.  We were asked about partnership opportunities once we sort of rolled off of  
+the eBay operating agreement.  This is one that we'd been intimating would be coming, and  
+we're quite excited about that.  Is it going to be a meaningful driver of our results in 2021? No.  All these  
+things take time, but this is a first step to us partnering with Alibaba and AliPay where, when you think  
+about the addressable market in China, this could be very, very meaningful over time.  And Gabrielle  
+perhaps can provide some of the specifics around the first steps here with Alibaba and what we're  
+doing.
+Gabrielle Rabinovitch   
+It's really just an expansion of presentment on both sides, both on the wholesaler side, as well as the
+B2C side.  And so in the past few months, what we've done is sort of meaningfully increase the number
+of countries where we have presentment for consumers in those markets to be buying from Alibaba
+merchants on the B2C side and then on the B2B side, on the wholesaler side.  And so now it's in
+First Quarter 2021 Buyside Call | May 6, 2021
+11
+approximately 30 different markets, which is a meaningful expansion of the relationship, and we're
+excited to see how it builds over time.
+James Faucette
+Got it, got it.  So let's turn to other aspects of the report take rate.  We talked about take rate a lot, that
+came in a little bit lighter than we had expected.  Can you break down some of the components of this  
+take rate compression and how we should think perhaps more importantly about the sequential take  
+rate compression through the year and what those drivers are?
+John Rainey
+Sure.  So take rate declined whether you're looking at transaction take rate or total take rate 24 to 31
+basis points.  About 15 basis points of that was related to mix in our business, and most notably among  
+the mix is the decline in eBay volumes that we had.  The take rate decline was exacerbated by the change
+in our hedge position year over year, where we had a hedge loss this year versus a gain last year.  That
+was about four or five basis points as well.  The rest is I would just kind of call noise.  There'ssome onesies,
+twosiesthere, but nothing really to call out, but fundamentally the mix change, and part of the mix change
+is related to things like more volume from Paymentus.  Paymentus has a lower take rate, but it's I think,
+improper to talk about that without also talking about transaction expense, because the same things that
+affect take rate affect transaction expense.  And that's why Paymentus having much lower transaction
+expenses [was] one of the reasons why we were able to have a transaction expense of 80 BPS [basis
+points].  So if we pull back from all of that, so explaining the variance in the first quarter, you think that
+okay, what does this mean longer term for PayPal? The right way to think about 2021 in terms of take rate
+decline is probably pretty similar to what you saw in 2020. There's really not a lot of good reasons to
+suggest it would be very different from that.  And then when you get into 2022 and beyond, the rate of
+First Quarter 2021 Buyside Call | May 6, 2021
+12
+take rate [decline] that we've experienced over the past several years should abate in part, because most
+of that volume was sort of ripping off the Band‐Aid with eBay, and so that's not going to impact that to
+the extent that it has before.  Moreover, a lot of the things that have been drags on take rate, like Venmo
+volumes growing 63% in the most recent quarter but not monetizing that as much.  That's a drag on take
+rate.  Well, we're beginning to monetize Venmo more as we're expecting, again as we said, $900 million
+of revenue this year and that'll be growing next year.  And so all of these things actually sort of buoy this
+decline, if you will, that we've seen in take rate.  So you should get to a lower level of take rate decline
+than what we've seen historically.
+James Faucette
+And I guess it's a little hard to say because you're continually adding new products and there can be
+some different elements to that, but is there a point that you anticipate that you get to a baseline level
+where it stops going down first? But from my perspective, the bigger question is always how much
+underlying like for like take rate compression is there? That is, if you look at a transaction today and a
+similar transaction a year ago or two years ago, is that being compressed at all?
+John Rainey   
+Yeah.  And let me just be very, very clear on that point.  If you compare same store sales pricing, we're
+not seeing any change there.  I mean, sure, there's some onesies, twosies here, but there's as many that  
+go up as go down.  And that's been very consistent.  That hasn't changed.  On a same store sales basis,  
+we're not seeing any take rate degradation, but we see mix changes as we get into larger merchants,  
+and look, that's something we want to do.  We want to expand our footprint and that's why we haven't  
+been probably as focused on take rate as what others tend to fixate on.  We always focus on transaction  
+margin because that's what matters.  That's adding the dollars to the bottom line.  And if you look at our  
+First Quarter 2021 Buyside Call | May 6, 2021
+13
+57.8% transaction margin for the quarter, one of the strongest we've ever had, if not the strongest that  
+we've had as a public company, and that's what we're focused on, because those are the dollars that are  
+adding to the bottom line.  And to be very clear, what we focus on is, is the growth in the absolute  
+dollars of transaction margins because that's what's generating free cash flow that we can then use to  
+create shareholder value.
+James Faucette
+Got it, got it.  And so let's talk about transaction expenses as you tied into to margins, etc.  Those
+came in at roughly 80 basis points as a percentage of TPV and certainly a lot lower than they have been  
+in the past on that very, I guess, brute calculation.  What are the factors that are lowering that part of  
+the expenses and what kind of impact can like a recovery and normalization of travel and events have?  
+And I guess really the question is, is there a sufficient change in mix and behavior, et cetera that we  
+should think about PayPal keeping in its transaction expenses, at least around these levels, or are they  
+going to bounce back to where they had been before?
+John Rainey   
+Yeah.  So let me start with the headline, then I'll give a little bit of color on why I feel that way.  So
+transaction expense, I think, will settle in at a place that is lower than where we entered the pandemic.   
+Now whether it it's 80 BPS [basis points] forever, that's probably on the low side, but that mid eighties
+range is something that when we look at our business, we think is pretty sustainable.   Now there's a
+number of factors that play into that.  One of the reasons that transaction expense has declined so much,
+it has  
+been because of the growth of what we call PayPal Core, the branded checkout button, where that's  
+First Quarter 2021 Buyside Call | May 6, 2021
+14
+used to a lower funding mix [mix of lower cost funding sources].  We believe that's going to persist.  E‐
+commerce has been pulled  forward, and so you're going to continue to see more of this PayPal branded
+checkout, which benefits  our funding mix.  Related to that, Venmo tends to carry a lower funding cost.  
+And so with Venmo continuing to grow, that puts pressure there.  Adding just a third thing like Paymentus.  
+I mentioned  that, but that's an exceedingly low funding cost as well.  And so all of those things depressed
+the  transaction expenses rate.  On the flip side, there are items that I think will create some inflation
+there,  and you mentioned travel and events.  That's a very good example because that tends to be more
+card‐ based processing, which has a higher cost.  As travel and events come back, we should see some
+increase in that rate for transaction expense, but we should also see more revenue and more volume
+related to that as well.  And so those are, I think the major puts and takes.  I would say that where that
+levels out is‐ we can't be overly precise here, but that the low to mid eighties is probably a good way to
+think about that.  But fundamentally James, like getting back to kind of the long‐term thesis around this,
+we're talking about cash displacement, and when people are using a digital payment instead of cash, that
+usually comes in with a lower funding cost like ACH or like debit.  And so those are things that we think
+are durable and sustainable, and we'll see impacting our numbers for a very long time.
+James Faucette  
+Good.  Well, I mean, it certainly feels like, as you highlight, whether it be Paymentus and Bill Pay or even
+just what people are willing to keep on platform, etc., that there are some more permanent parts  
+there.  So it's good to hear that at least you're able to corroborate some of that thinking.  Expenses.   
+Look, overall, the EPS guide up for the year was a little bit smaller than the magnitude of Q1 being that  
+stood out to people, and it seems like op ex and you're kind of pushed to reinvest upside, if you will, is  
+part of that.  Let's start with Op Ex.  Sales and marketing grew almost 80% this quarter.  So how does  
+that look for the rest of 2021, and beyond 2021, how do we think about the rate of Op Ex growth? Or I  
+First Quarter 2021 Buyside Call | May 6, 2021
+15
+guess maybe the bigger question is like, are you just kind of managing all the different pieces, whether it  
+be the costs or transaction costs and op ex and other items to make sure you're getting to that target of  
+slow margin expansion? Just wondering, like how we should be thinking about these different inputs  
+and impacts on the expense lines.
+John Rainey   
+Sure.  There's a lot that I want to discuss here.  Let me start with saying, my bias right now is to invest
+heavily.  This is a seminal moment in our industry's history.  And we think we have to capture this.   
+We've never invested more heavily from a discretionary perspective than we are right now.  And  
+you're right.  We've elected to invest a lot of the earnings beat rather than roll that through and raise  
+our guidance by a commensurate amount, because we think that that's the most important thing for us  
+to achieve our vision, which results in much greater shareholder value creation.  Let me just be  
+real clear about that.  With respect to some of the individual line items and how to think about that for  
+the year, maybe the right way to sort of give some context to this is that we said last year in the second  
+half of the year, we were going to invest an additional $300 million.  And most of that skewed towards  
+the fourth quarter.  That level of investment is really what's persisting as we go through 2021.  And so  
+you see the large year over year growth numbers for sales and marketing will begin to lap that as we get  
+to the tail end of the year.  The other area is technology and development, and that's one where there's  
+not going to be the same lapping effect.  You'll see higher year over year growth rates as we go  
+through the year.  But to be very clear, we believe that this is the best way to create shareholder value  
+at PayPal.  And we want to invest heavily into this opportunity.  Now, all that said, given the scalability of  
+our platform and the unit economics around which we grow, we're still able to achieve margin  
+expansion and in fact, significant margin expansion and balance those.  I think that's something that you  
+should continue to expect going forward, meaning that we're going to have margin expansion, but we're  
+First Quarter 2021 Buyside Call | May 6, 2021
+16
+also going to invest very heavily.  And I mean, I guess getting to the reason behind investing heavily is we  
+think growth is the best thing for us.  We've demonstrated that by these incremental margins that we're  
+able to put up when we grow at the rate that we are.  And there's a huge opportunity in front of us,  
+whether it's displacement of cash or what the physical world presents in terms of an addressable market.  
+And so our bias is very much around growth that we're investing in.
+James Faucette
+Got it.  Well, and on that point, when you think about investing and the like, how do you think about‐ 
+like PayPal at least over the last decade has had such a big lead from an acceptance perspective in digital  
+wallets, and according to our latest quarterly tracker we published earlier this week that that lead is still  
+growing versus most of the other digital wallets, at least online.  But when we look at like a lot of the  
+new services, let's just take crypto trading, for example, like lots and lots of people are trying to add that  
+or featuring that as a core part of their capabilities and services today.  So should we anticipate like cost  
+of customer acquisition and some of those things going up in that competitive environment, and that's  
+going to end up being a destination for that incremental investment beyond just like the technology and  
+other things? Or how's that going to factor into? Because like I said, PayPal seems to have had a real  
+advantage from a customer acquisition cost perspective over the last, at least five, 10 years.
+John Rainey
+Yeah.  There are pockets where customer acquisition costs go up, but it's also muted by the relatively
+low customer acquisition cost that comes through other channels like P2P.  So net‐net, I don't see that  
+going up appreciably.  I think there'll be inflation there, but not appreciably over the coming years.  We  
+think that we can continue to grow our relevance and grow our share of checkout.  Now, do we think  
+that we're going to be the only digital wallet that people use? No.  I think there'll be many other  
+First Quarter 2021 Buyside Call | May 6, 2021
+17
+opportunities for people to use competitors, whether it be with crypto trading or buying and selling  
+stocks or paying digitally.  But what we want to do is provide a suite of services that are very related in  
+terms of how customers think about their financial lives, and that may even branch out a little bit from  
+further afield from what we think of as payments.  And I'll give you an example of what I'm talking about  
+there in a second, but our focus is on providing the very best experiences in the safest way for our  
+customers.  And again, you see our risk numbers‐ our loss numbers for the quarter at all time lows.  Our  
+capabilities around this, I just think are fundamentally better than the competition.  And look, if we want  
+to talk about what's important to customers and moving and managing money, providing protection and  
+security is very clearly number one.  And we've demonstrated that we can do that as well as anyone in  
+the world.  But as we think about some of these other suites of services‐ we're not going to go crazy  
+with providing things in the wallet like music,  as an example.  I don't think that's something we want  
+to do, but there are other products like sports betting and that's something that has a very high  
+stickiness, something like 43 million people in the US last year placed a bet on sports games.  And if you  
+think about like what that means, or what goes on in that type of transaction, well, you've got a two‐ 
+sided network.  You want to protect the credentials, the payment credentials of the people involved.  So  
+risk is very important there, and that has a stickiness to it as well.  And so it's not to suggest that this is  
+something that we're plowing ahead and trying to do right now.  I don't mean to imply that at all, but I  
+think it serves as a relevant example of how we're thinking about the utility of the wallet.  And if we can  
+provide all these types of experiences that people value in one place that has more acceptance than any  
+other digital wallet in the world‐ has better security and safety than any other digital wallet in the world  
+and have more users using it, I think it's a destination for people.  And I really fundamentally believe in  
+our chances of success here.
+James Faucette
+First Quarter 2021 Buyside Call | May 6, 2021
+18
+And I want to pivot a little bit just to obviously‐ look, we have nearly 400 million active accounts, that
+makes sense in the wallet, and that's where we spend a lot of focus, but what about the merchant facing  
+products, whether it be iZettle or Braintree, etc.? What are the things that we should be watching  
+there, if anything, and tracking?
+John Rainey
+Well, Zettle is one I want to talk about because we made that acquisition a couple of years ago and
+when things were really starting to gel there, COVID‐19 hit and we saw sharp declines in the volume  
+because those are physical experiences.  But Zettle is something that for many of us on the call being  
+more US‐based, we're going to begin to see here in the United States in 2021, and excited about what  
+this, what this means and the addressable market for us.  This is a point of sale for an everyday seller,  
+and we're going to provide desktop and mobile friendly solutions for these customers.  And very  
+importantly, Zettle has a solution that easily integrates into the things that SMBs are using today.   
+Things like QuickBooks or BigCommerce.  It's a seamless integration that provides these  
+merchants, the ability to accept all forms of payments, including digital payments or contactless  
+payments.  And importantly for us, when we think about the growth opportunities, half of SMBs in the  
+US today don't have an online presence.  We're really targeting this group that is physical first, if  
+you will, and then help bring them into the fold in the e‐commerce world, where we can complement  
+the Zettle offering with what we're already doing online.  And look, I'm really excited about bringing this  
+to the US.  These are going to be merchants that are the backbone of the economy, the hair salons, the  
+restaurants, the main street retailers.  This is something that hopefully all of you will get to  
+experience more of going forward.
+James Faucette
+First Quarter 2021 Buyside Call | May 6, 2021
+19
+So, John, we're kind of coming down towards the end of our time.  I want to talk about buy now pay
+later.  You gave some pretty impressive stats on adoption of that new product, and obviously you guys  
+have trumpeted how you're buying for it.  You're not having to surcharge the merchants for that at all.   
+But how do we think about that in the long run? If you decide to go up ticket size to longer duration, can  
+you maintain that same kind of pricing or you become really tied to interest rates? I'm just wondering  
+how we should think about the evolution of that from a pricing and capability and offer standpoint.  And  
+I guess tied to that, where's the appetite or why the appetite for extending credit to consumers,  
+especially after the sale of the [U.S. consumer] credit portfolio to Synchrony, and is there any tie between
+those two  
+things?
+John Rainey
+Sure.  Part of this answer dovetails into your previous question about our increasing share of e‐ 
+commerce activity.  And I've talked about this in the past, but we consistently have maintained a really  
+strong share of checkout over time.  There are exceptions to that.  And some of those exceptions where
+we were going head‐to‐head with a buy now pay later option and installment pay option.  We would see  
+consumer preference for these other options that were out there.    And so that really informed our
+strategy on this, where we thought, to continue that growing share of checkout or that growing  
+share of e‐commerce.  We can price this for free and just get people to use PayPal and monetize it that  
+way.  There's no plans right now to change the pricing on this.  And in fact, I would suggest that  
+competitors are probably going to have to move their pricing closer to where we are to be successful  
+because when you consider the size of our platform, the fact that the merchant bears no risks that we're  
+bringing almost 400 million customers around the world to a merchant to have the ability to check out  
+with Buy Now, Pay Later with PayPal and it's free for them.  It's a value proposition that is unparalleled  
+First Quarter 2021 Buyside Call | May 6, 2021
+20
+in the market.  Longer term, yeah.  I mean, we could see some longer duration or higher pricing around  
+that.  Those are absolutely things that we're talking about and exploring, but where we are right now,  
+two quarters into Buy Now, Pay Later, this is kind of like wading into the shallow end of the pool.   
+We're testing our risk capabilities around this.  We're experimenting with the offerings.  We're trying to  
+get upstream presentment with merchants.  And so all of this will take time.  And I think it's very  
+reasonable to assume that over time, we'll get to a place where we do have higher AOVs [average order
+values] or longer duration.  But getting to the last part of your question, James, we will continue to remain
+an asset‐light company.  We think that that's important.  People aren't buying us because of the credit
+profile of the company, they're investing in PayPal because of the growth in margin dynamics.  And we
+don't want to  
+do anything that changes the durability of our free cash flow and earning streams.  And so I think we've  
+been able to demonstrate that over the last couple of years, even through sort of some of the credit  
+situation that we saw in 2020.  As Buy Now, Pay Later grows, we might get to a place where again, we
+think that we are too asset intensive there, too credit intensive, and we will look to externalize some of
+the other parts of our portfolio, like the international consumer book or like the merchant lending
+portfolio, both of which are highly coveted from some of the other issuers that we've talked to.
+James Faucette
+I guess when you look at the users that you're looking at or you're seeing use it, how do they fit with the
+rest of the PayPal base? Is there a greater adoption among a particular user type or are they  
+representative? Just any insight there.
+John Rainey   
+First Quarter 2021 Buyside Call | May 6, 2021
+21
+No doubt that the demographic that uses this skews heavily towards the younger demographic, the
+millennials, those that don't have that revolving‐ existing revolving credit relationship.  This is clearly sort
+of a preference for some in terms of how they choose to associate with credit in today's world.  But we
+are seeing it spread out across existing users as well, where, maybe they're tapped out on their existing
+revolving credit, and they want to use this instead.  And what's really curious about this is it's not so much
+sort of thought of as it appears as credit versus delayed debit, because the funding mix‐ I've talked about
+this, the funding mix of our Buy Now, Pay Later customers is over 80% debit payments.    It's where
+someone may have the money, but needs to stretch that out over a matter  
+of weeks versus really putting it on a revolving credit card.
+James Faucette
+Yeah.   Well, I think that makes a lot of sense.    Last question, I promise John.   QR codes.    From my
+perspective, we've been‐ I think we've always felt like there's good optionality there, but I didn't want to  
+get too excited too quickly about it, but the metrics you're showing are really encouraging.  Where do  
+we go from here? Can you drive it faster? I know you keep preaching patience, but what should we be  
+looking at from QR codes and point of sale acceptance?
+John Rainey
+Let me give you a data point here, among those that are using QR code with PayPal, we're seeing a [19%]
+lift in TPV.  So again, like precisely driving the outcome that we're really trying to achieve and I'm quite
+excited about that.  Now, all that said, QR use is still a very small part of our overall volume right now.  
+And it will probably be that way for a period of time.  We're having to go out and organically develop the
+other side of this network on the merchant acceptance.  And this is why it's so difficult for people to
+First Quarter 2021 Buyside Call | May 6, 2021
+22
+compete in payments because you've got to have both sides of that network at scale.  And it's tough to
+do organically.  Now, fortunately for us, we're a household name with these  
+merchants and many of them, we have the online acceptance already.  So I think it's an easier path, but  
+it's not one that's going to be done in the next quarter or two.  I would ask for patience from the investor
+community, because this is something to be successful, it's going to take a period of time that  
+measures into years to where we have the saturation and ubiquity and importantly, changing consumer  
+behavior around this.  This is something that requires a lot of investment, lot of work on our part and
+learning from some of the experiences that we're rolling out.  We've already learned, like, as an example,
+the importance of employee education at these merchants because very often they are what's  
+in between a consumer wanting to pay and that POS device in store.  So [employees have] got to help
+[consumers].  We've learned some things there already, and that's changed the way that we're thinking
+about go‐to market, but something that we're quite excited about.  And again, I think most of us would
+agree, this is not going to be a matter of if it's successful, it's going to be when, because this is something
+that I think is just fundamentally easier and a better way to pay going forward.
+James Faucette
+Great.  Well, John, like I said, I promise it was the last question.  We've run a little bit over.  I really
+appreciate your frankness as well on all these topics.  Any last things you want to make sure that we hit  
+on or take away that maybe we didn't sufficiently during the hour or 45 minutes?
+John Rainey   
+No, I would want to thank you first, James, it's always fun to do this with you.  I think we hit on a lot of
+the relevant questions, certainly that we're hearing from analysts and the investor community.  Look,  
+we're excited about what the future holds for us.  2021, it's going to have some challenges in it, not  
+First Quarter 2021 Buyside Call | May 6, 2021
+23
+unlike 2020, but fundamentally we find ourselves in a place where there's been a step change in e‐ 
+commerce and digital payment activity.  And that's why we're investing so heavily into this.  This is a  
+point in time that is not going to pass us by, and we don't want to regret having not done something that
+can help shape the outcome here of the future that we believe in.
+James Faucette
+That's great.  Thank you very much, John, Gabrielle.  Thanks for your time today and all the work you put
+into keeping us investors and the investment community updated.  And have a good day, everybody.
+John Rainey
+Thank you all.  Bye.
+James Faucette
+Thanks, bye.
+Operator   
+This concludes today's conference call.  Thank you for participating.  You may now disconnect.

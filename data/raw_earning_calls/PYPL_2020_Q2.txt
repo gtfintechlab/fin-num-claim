@@ -1,0 +1,437 @@
+1
+PayPal Q2-20 Earnings Buyside Call Transcript
+July 30, 2020
+Operator
+Good afternoon. Thank you for attending the PayPal second quarter buyside conference call. The 
+contents of this call and the views expressed on it are solely for the use of clients and invited guests of 
+Cowen and Company. Members of the media are not invited to participate. Any publication, 
+distribution, reproduction, posting, sharing or transmission of this information without the express 
+permission of Cowen is expressly prohibited. As a reminder, we are not interested in receiving, and you 
+should not disclose, any confidential information. In the event that you inadvertently disclose such 
+information, please notify us as soon as possible. I would now like to pass the conference over to your 
+host, George Mihalos with Cowen and Company. Thank you. You may proceed, sir.
+George Mihalos
+Great. Thank you. Good afternoon, or good morning everyone. I think we're just about ready to kick 
+things off. I'm George Mihalos, the fintech analyst here at Cowen. On behalf of Cowen, thank you for 
+joining us for PayPal's Q2 buyside call. Very pleased to have from the PayPal team with us today, CFO 
+John Rainey, Senior Vice President of Financial Planning and Analytics, Erica Gessert, and from Investor 
+Relations, Gabrielle Rabinovitch, and Akila Moorthy. Guys, welcome. Thanks for doing this, and thanks 
+for giving us the opportunity to host. Always appreciated. Just quickly, before we get into the Q&A, the 
+format is going to be a fireside chat. We're going to go for about 40, 45 minutes. Anyone who'd like to 
+ask a question, please shoot me an email at george.mihalos@cowen.com, and I will ask that question on 
+your behalf. And with that, John if you're ready, why don't we dive right in?
+... 
+Hey, John. Welcome. Thank you. Why don't we get right into... Why don't we start with TPV. Obviously 
+very impressive growth in the second quarter of 30% on a constant currency basis. Now, if I'm not 
+mistaken, I think the growth in April was 22% and so a very clear acceleration, well above 30% as we 
+went through the quarter. Should we be thinking about... As we're thinking about the June exit rate, is it 
+safe to assume that it was somewhere sort of in the mid-30s and that you are prudently assuming some 
+level of moderation over the second half of the year?
+John Rainey
+So June was our highest month for TPV in the quarter. But we also have to recognize that there's a 
+couple of other factors in play here. One is I think worth noting, is just the overall macroeconomic 
+backdrop, but second is the eBay managed payments migration, and so we called out some of the 
+headwind related to that. And so yeah, I think it would be too optimistic to take that June run rate and 
+run that through as what we would expect in the third and fourth quarter, which is why we provided the 
+guidance the way that we did. So it's worth noting that it's exceedingly difficult to forecast in this 
+environment. There's a lot of moving pieces and still, I think some question about how sustainable all of 
+these trends are. But we did accelerate as we went through the quarter, but I don't think it's probably 
+fair to assume that's the run rate for the back half of the year.
+George Mihalos
+2
+Okay. Appreciate that color. And then the next question, John, I promise we'll leave the algebra portion 
+of the call today, and then we can move on to some other stuff. But just sort of disaggregating that 
+strong TPV growth, and if we remove the P2P growth rate of 38%, and I think that was approximately 
+30% of the volume, and then we adjust for the 10% of the volume from the travel and entertainment 
+vertical that was down 60%, it seems to suggest that the remainder of your business is running sort of in 
+the 40-ish range. Is that the right way to think about it, and how much of a benefit was Paymentus to 
+that growth?
+John Rainey
+So that is the right way to think about it. Paymentus will have much more of an effect in the third and 
+fourth quarter. So there wasn't much of an impact in the second quarter. But if you step back and you 
+think about that level of growth on our core business, it's one of the more exciting things that we see 
+going on, just this overall level of eCommerce growth as people are moving from what has traditionally 
+been sort of purchasing things in-store in the physical setting to buying things online. And the question 
+that everyone has is what is the sustainability of that trend, particularly when people once again return 
+to their normal levels of mobility and shelter in place measures have been relaxed?
+And so we've kept a close eye on what's been going on state by state in the US, as well as country by 
+country. And there's some really revealing data points, particularly when you look at a country like say, 
+Germany, where they're returning to restaurants and they're interacting socially again in the physical 
+world, and we still see an elevated level of eCommerce which is much, much higher than what we 
+entered this pandemic era or this time period with. And so, I think that's quite exciting, but I also want 
+to note that we don't just want to be on the receiving end of these trends that are happening to us. We 
+recognize that there's a lot of things that are happening right now like aversion to cash, like aversion to 
+touching the keypad on a point of sale device that really make us want to invest into this to help shape 
+some of these trends longer term.
+George Mihalos
+Okay, appreciate that color. Just want to shift gears a little bit to that very strong account growth that 
+you saw in Q2. I think you almost did two quarters in one, if I'm not mistaken. But how are you thinking 
+about account growth versus increased engagement over the second half of the year, as those are 
+obviously drivers for TPV growth?
+John Rainey
+Sure, George. So I apologize that I was late. I don't know if you had the opportunity to introduce Erica 
+Gessert who is also on the call, but she's our Senior Vice President of Finance, and she's going to tackle 
+that question. This is right up her alley.
+Erica Gessert
+Thanks, John and George. Yeah. So in terms of new account growth, I mean, obviously we're seeing, as 
+you pointed out George, really truly outsized growth of people coming into the network. But one of the 
+more remarkable things, and it sort of speaks to John's last point about some of the persistence of 
+people's activities as we've observed some of the shelter in place start to lighten is, we look not just at 
+the activity obviously of the new customers coming on, but really at the increase in activity of our 
+3
+mature cohorts, if you will, or older customers. And this is what really, truly speaks to us as a change in 
+behavior because we're seeing actually the highest growth from a DAU [daily active user] point of view 
+come from these older, more mature customers which points to a true behavioral shift.
+And we're seeing that persist as we start to observe states and countries come out of the shelter in 
+place. So this is something we're watching every single day. I joked with John and Dan that 2020 is going 
+to go down in history as one of the most forecasted years in all of our lifetimes, but we're seeing those 
+trends persist and so that's where the TPV growth is coming from in the future. And then we have to 
+challenge ourselves with creating the kind of engagement moments and activities to make sure that this 
+huge swath of new customers that are coming on are engaged.
+George Mihalos
+Okay. Appreciate that, Erica. Just next question, kind of moving on. John, Erica, can you help us, if we 
+look at these sort of strong net new actives, can you just help us with where that growth is coming from, 
+maybe geographically and then by solution? PayPal Wallet, Venmo, Xoom, Hyperwallet. I mean, it just 
+seems like everything was operating at a higher level.
+Erica Gessert
+Yeah, maybe I'll jump in, and then John can add. So it is remarkable that we're seeing... I would say, 
+certainly the PayPal core consumer, the growth has been tremendous, as well as Venmo. We're seeing 
+heightened growth rates in activations there as well. Xoom is another place where from a growth rate 
+point of view... It's obviously a smaller part of our business, but from a growth rate point of view, we're 
+talking multiples of kind of pre-COVID NNA rates, and that really does again point to the shift to digital in
+some of these experiences.
+We're seeing the biggest growth in our core markets, and that's where we have the most diverse set of 
+products and services for people to utilize. And so that's where they have the most context to come in 
+and then to use our products. And that's one of the things, the impetus behind our push for new 
+investment as well because we want to make sure that we're bringing as many points of engagement 
+out to our current customers and to the new customers coming on so that we persist with this shift into 
+the future. So anything you want to add there, John?
+John Rainey
+No. I think you covered it. Thanks, Erica.
+George Mihalos
+And again, as we look at these net new actives, and obviously they're coming in with a higher rate of 
+engagement, but just curious from a funding perspective, are the net new actives skewing a lot more to 
+debit versus credit compared to what we've seen? And if so, I'm just curious what you would attribute 
+that to.
+John Rainey
+4
+Sure. So we are seeing that, both new customers coming in and electing to fall to ACH or debit cards as 
+their primary funding instrument, or even existing customers, what payment method they're selecting 
+to pay with. And I think there's a couple things that are impacting that. One, and this has been noted by 
+some of the others in the ecosystem, but there's just an aversion to cash. So some of it is just 
+cannibalization of cash transactions. People aren't going to ATMs. I think two is that there's probably, 
+consistent with historical time periods, maybe a preference for owned versus owed money during 
+periods of heightened concern about recession perhaps. And then thirdly, I think there's an impact from 
+stimulus checks. As stimulus checks are sitting in people's bank accounts, they're likely to spend that 
+versus going to maybe credit, as they might have in the past.
+…
+George Mihalos
+Related to that last question, the transaction expense rate, generally comfortably below what we were 
+looking for was 83 basis points (as a rate of TPV) – that declined sequentially and year-over-year. John, it 
+really sounded on the call that you sort of feel that this lower level is sustainable. Just curious, what 
+gives you that confidence?
+John Rainey
+Well, I think it's sustainable for the period of time that we're in. A big piece that's impacting that on our 
+business is the decline that we've seen in the travel and events vertical. So that's primarily card-based 
+processing for us, which obviously carries a higher transaction expense. As that vertical returns to some 
+level that approximates what it was prior to the pandemic, we would expect to see our transaction 
+expense eke back up some. But as we do have elevated levels of eCommerce spend or the use of the 
+PayPal branded button when people are checking out, that's going to help keep that lower as well. So 
+there's a mix of things that are going there. Some of it is just the overall level of growth in verticals in 
+our business, and then some of it is just more people using PayPal to check out online which... That has 
+a lot of ACH and balance and debit card mix in that. So maybe just to round that out, George. 83 basis 
+points is a pretty low level. I would expect it to stay low, but probably eke up a little bit from there.
+George Mihalos
+That makes sense. That makes sense. Shifting just a little bit to Honey, if we go back to the fourth 
+quarter '19 call, I think you talked about Honey contributing, call it 1.5 points of incremental revenue in 
+2020. Is that still a good number to use for the year? And any color you can provide from an integration 
+standpoint or any additional metrics to kind of help investors gauge that process.
+John Rainey
+Yeah. So that is still a good number. We called out in the quarter, the $61 million of revenue related to 
+Honey. But Honey is accelerating quite rapidly through the year, even the quarter on quarter growth 
+that we would expect as we get to the back half of the year to be more pronounced. And also 
+underscores why we purchased them at such an exciting time in their history and what they're doing. In 
+terms of some of the experiences, obviously one, we're very focused on making signup seamless and 
+across those platforms, and we've been very successful at that. We're now looking to integrate more of 
+the experiences to where PayPal can be a checkout option in the Honey browser, as well as having 
+5
+Honey in the PayPal and Venmo apps. And those are on slate for the back half of the year, and again, 
+quite excited about what the opportunity is for Honey.
+George Mihalos
+Okay. Outside of Paymentus, you're ramping several partnerships. MercadoLibre comes to mind, Uber 
+Brazil and the likes. Just curious, where are we with respect to those engagements and how should we 
+be thinking about them from a TPV contribution standpoint in '20 or '21?
+John Rainey
+Sure. Well, so we talked about a couple of these at the end of last year, and expanding our footprint 
+with Uber internationally is already happening, and that's built into our guidance. With Mercado Pago or 
+MercadoLibre, again, we talked a little bit about this on the call, but we're launching an experience 
+where PayPal will be a payment option within the Mercado Pago wallet for persons in Brazil and Mexico 
+right now, as well as cross border. And that allows PayPal customers to shop at thousands of new 
+merchants.
+And we'll also have consumers from Brazil and Mexico that can pay with PayPal for their cross-border 
+purchases in the MercadoLibre marketplace. And so stepping back from that, Latin America broadly was 
+an area where we were less strong when you looked at our footprint globally. So to be able to partner 
+with the largest and most relevant marketplace down there, and expand our value proposition to their 
+customers and allow their customers to use us at our 26 million-plus merchants around the world is a 
+pretty promising opportunity for us, and so we're pretty excited about that.
+But our partnership strategy clearly doesn't just extend to Latin America, or as the case may be, 
+Mercado Pago or MercadoLibre. We obviously made the announcement of the acquisition of GoPay in 
+China. And notwithstanding all of the political tensions that may exist between the two countries, that is
+an enormous addressable market for us, and one in which we have a very low penetration among digital 
+users there right now. And so the similar idea of what I talked about with consumers in Brazil and 
+Mexico with MercadoLibre, we can do the same thing in China to really facilitate much more crossborder commerce. And then just again, even stepping back further from there, partnerships like we've 
+recently announced like the extension of our partnership with Google here in the US really speak to the 
+relevance that we provide and what we can do by being an open digital payments platform and partner 
+with anyone.
+George Mihalos
+Yeah. All those sound very promising. Sticking to the partnership theme here, obviously you have 
+partnerships with big tech. Facebook, Google certainly come to mind. Just curious, the regulatory 
+scrutiny that those companies seem to find themselves under, has that had any sort of impact, positive 
+or negative, on your partnerships? 
+John Rainey
+That's a good question and certainly, they've been under a fair amount of that scrutiny here in the last 
+day or so, but I actually think that in some ways, it's a benefit to us because payments is one of, if not 
+the most regulated, industries that's out there. And if you're a company that is facing any amount of 
+6
+scrutiny around, or perhaps more regulation of core business, I would think that working with a partner 
+that has demonstrated the ability to navigate regulatory environments across 200 different markets 
+around the world and do it very effectively, is exactly the type of partnership that you'd want to look to. 
+If you're one of these companies, why sort of draw further attraction from regulators by getting into 
+again, what is a very regulated space when you can partner with an open digital payments platform that 
+can help them advance their initiatives, but do it while it's a benefit to us as well?
+George Mihalos
+Yep. One of the questions that keeps coming in, John, from a modeling perspective is just how should 
+we think about that OVAS line going forward? It was down 26% I think in Q2, a number of moving parts 
+there. Some grow overs and the like. How should we be thinking about modeling OVAS over the second 
+half of the year?
+John Rainey
+Sure. So there's two or three factors that are I think most important to consider. The first is as we move 
+to the third quarter, we will no longer be lapping the payments that we've received, [from Synchrony]
+which was $58 million in the second quarter related to servicing the Synchrony portfolio [on a 
+transitional basis]. And so from a year-over-year perspective, that goes away. The other I think main 
+relevant point is that OVAS, or other value added services revenue line item, is where we recognize the 
+revenue from Honey. And as I noted in my previous answer, we expect an acceleration of that going 
+throughout the year. And then we'll have continued pressure from just lower interest rates globally, and 
+the interest income that we receive on customer balances. And so that's a line item that will probably 
+see some improvement in the year-over-year growth rates in the third and fourth quarter, but given 
+what's happening with the overall credit environment, which is the single largest item in that line item, 
+we'll still probably see depressed levels throughout the year.
+George Mihalos
+Okay. That's helpful. Question on margins, which is another area where we're getting some imbalance 
+here. Obviously margins have ascended nicely in Q2, up 500 basis points. How are you guys thinking 
+about managing margins going forward? What's sort of the long-term margin trajectory that you think 
+about for PayPal, and should the expectation be when we see quarters like Q2 with that significant 
+upside, that you will be reinvesting a substantial portion of that in some of these new initiatives that you 
+talked about on the call?
+John Rainey
+The way that we view investments like this is very much opportunistic. And when we have an 
+opportunity to invest into our business and we see strong returns around that, we'll absolutely do it. We 
+don't want to be a prisoner to margin expansion every single quarter. We want to do what's best for the 
+business long-term. So it's hard to have a rule of thumb in terms of how we think about spending into 
+some of the margin improvement. What I will tell you is that, as we demonstrated from the incremental 
+margins in our business this quarter, which I'll come back to, our margins want to go up. That's a result 
+of the scalability of our model. And just to put a finer point on that, I often talk about a growth company 
+like ours, we don't want to just grow for growth's sake. We want to do it profitably. And so that's why I 
+have that hyper focus on incremental margins.
+7
+And if you look at our incremental operating margin in the quarter, it was 50%, but that actually really 
+obscures what's happening to our core business because that number is weighted down by both the 
+increased reserve we had related to credit losses, as well as acquisitions. If we were to strip out those 
+two things and just kind of focus on an apples to apples basis, our incremental margin was 70%, 7-0 
+percent for the quarter, which I think really demonstrates the scalability of our model. And so with our 
+operating discipline, the scalability of our model, we're going to see margins continue to increase. The 
+extent to which we invest into them is, again, it's hard to say that there's a rule of thumb, but we're 
+always going to make decision which we think are going to drive the greatest shareholder value longterm versus maybe what happens to margins in any particular quarter.
+George Mihalos
+Okay, appreciate that. Maybe moving on a little bit to the omnichannel opportunity, or even that offline 
+opportunity where obviously you're going to be investing some more capital. Clearly there's momentum 
+there based on the work that we've done. Consumers are definitely interested in being able to use 
+PayPal or Venmo at the point of sale. Can you just bring us up to speed on the QR rollout and really the 
+timing around how you're targeting some of these different subsegments? So for example, micro 
+merchants, enterprise customers, and then kind of more the different opportunities that we hear a lot 
+of the merchant acquirers talk about, just kind of a timeline of going through those subsegments?
+John Rainey
+Sure. So there's a couple different approaches there with QR code. And with a micro or even small to 
+medium-sized merchants where we effectively act as the acquirer, we can launch this rapidly, as we've 
+done in 28 markets around the world. And we think that there's a lot of application around that. If 
+you're a fitness instructor or you're selling goods at a farmer's market, this is something that you can 
+provide right now so customers don't have to handle cash. With large enterprises, the approach is to 
+integrate into their existing point of sales, and that requires more effort, not only on our part, but on the 
+part of the merchants. And so there's a longer timeline to success there, but to be very clear, this is not 
+something that we're just sitting around and postulating that there's a demand for.
+We have conversations with merchants. We've got a pipeline in excess of 100 large enterprise 
+merchants that want to launch our product and we're excited to have a great cornerstone in having CVS 
+be that launch partner where, by the end of the year, we expect to have full rollout into their 8,000-plus 
+stores across the US. I think it's also important to target those everyday use case type items, and so, 
+restaurants would be an example of something that if we can saturate regional restaurant markets... 
+Imagine getting in with every restaurant in San Francisco or Houston, Texas. Those are everyday items. 
+Food is not something that people think about once a week. They're dealing with that several times a 
+day. And so we think that's one of the vehicles to really get habituation in this area.
+But just talking about this trend in general, there's a fair amount of cynicism about will this be 
+successful? And look, probably that's very fair because if it were so easy, it would have already 
+happened, but I think we probably all would agree that paying with contactless payments, so paying 
+with a QR code or some other contactless method, it's not a question of if. It's always been a question of 
+when. And there's good examples, if you just look at the China market where you've got ubiquity with 
+that. But it's always been a solution in search of a problem up until now.
+8
+But now with an aversion to cash and aversion to touching point of sale devices, we believe that now is 
+the time to capitalize on this heightened anxiety around this, and really double down on our investment. 
+And we're committed to this. We know that this is a secular trend that is going to take place, and we 
+believe it's going to start taking place right now. We've always said that our single largest competitor is 
+not company X or company Y, but it’s cash. And we're getting ready to see that take place in the 
+battlefield right now.
+George Mihalos
+Yeah. I don't think there's any doubt that that's an enormous opportunity. You guys are as best 
+positioned as I think you've ever been to make a move there. Bit of a tougher question to kind of answer 
+here, but just, John, this isn't going to happen overnight, this sort of penetrating the offline world. When 
+do you think we'll really start to see something in the top line numbers that might be meaningful or 
+noticeable from this initiative over the course of the next couple of years?
+John Rainey
+So this is something that is going to take a while to play out. Success will not be measured in quarters. I 
+think you're probably looking at 18 months before there's any sort of real meaningful impact where 
+externally people could be able to factor that in our numbers. But let me peel that back a little bit 
+because everyone probably recognizes that the unit economics are maybe less appealing in the offline 
+world. There's this introductory time period where we're going to have complimentary or free pricing to 
+try to get habituation. But the intent of this is very consistent with something that we've talked about 
+for five years, and that's increasing the level of engagement of our customers to where we can be an 
+everyday part of their financial lives.
+And so if someone is using this at a CVS, at a big box retailer, at the restaurants where they eat, they're 
+much more likely to use us in an online setting as well. And that's where the unit economics really work. 
+And so this is the halo effect if you will, related to this effort. And that too will take some time, but we 
+think it's such a promising opportunity. And if we can increase that level of engagement, it also helps us 
+address our share of checkout because as we have talked about, just as a rough rule of thumb, a 
+customer will use us about half the time they actually have the opportunity to today. But if we're there 
+every day and they're using us in that digital wallet, even in an offline setting, they're much more likely 
+to use us more than half the time when that have that opportunity to. So it really increases the growth 
+opportunities for us going forward.
+Erica Gessert
+Hey, John. I'll just add another point here which is we're pairing this push into QR... Because I think that 
+what you brought up in there on digital wallet is really important, which is we're pairing the investment 
+in the push into QR code with a series of digital wallet enhancements in app, as well as online which go 
+hand-in-hand with this. And so what we really envision through the QR code push and the offline push is 
+the broader use of our digital wallet. And we want people using our products every single day, and that's 
+what this is intended to do, as well as the experience enhancements that people will see coming down 
+the line in the next couple quarters.
+John Rainey
+9
+That's an excellent point. And George, I think it would be incorrect read into our statements around 
+[incremental] investment of the $300 million in the back half of the year to be just QR code. That's not 
+the case. In fact, while QR code may be the single greatest area of investment, as Erica mentioned, 
+digital wallet is a big piece of that as well.
+George Mihalos
+Okay. We'll touch on that digital wallet initiative in just a second, but just one more thing as it relates to 
+the QR rollout. Obviously yesterday you announced that partnership with CVS. Clearly that nondiscretionary category, pharmacies, groceries and the like, that's historically been an area where 
+PayPal's been under represented. I'm just curious, what does the pipeline look like for additional nondiscretionary retailers coming on board? And how much of this is them needing to come to you versus 
+you going to them and saying, "Hey. Wouldn't it be nice if you accepted PayPal or Venmo?"
+John Rainey
+Well, there is a push and a pull there. I mean, certainly, we've gone to some merchants and it's been 
+like, "Yeah. That's a great solution for what we need." And others have actually come to us where 
+perhaps we already had a partnership with them where we were an online payment option. So the 
+pipeline is very strong. I think the challenge is how quickly we can integrate with some of these larger 
+enterprises where there is work involved, but it's a pretty promising opportunity. And again, in a world 
+where you walk into a retailer and they've got some divider up between the person at the checkout 
+counter and the customer because of concern about COVID-19, to be able to allow their customer base 
+to pay in a contactless way is exactly what they want as well. So I think that's why this time period is so 
+important because it's a time period where not only does PayPal want to do this, not only do customers 
+want to do this or consumers want to do this, merchants want it as well, and so that's why we're 
+capitalizing on this.
+George Mihalos
+Okay. That makes a world of sense. Let's just gaze a little bit to the digital wallet side. There's certainly 
+been a lot of questions that have been focused on that. Maybe I'll sort of ask it this way. It seems to 
+some extent, you're moving along the path of what Square maybe has been doing with Cash App, adding 
+more functionality and services around kind of core payments and P2P. They recently were approved for 
+a bank charter. I'm curious. Is that something that you guys would ever consider? And do you think not 
+having FDIC insurance hinders your ability at all to win direct deposit business?
+John Rainey
+So we do have a bank charter in Europe, in Luxembourg, that is passported through the member states 
+there. In the US, we can do everything that we need to do with money transmitter licenses and I don't 
+anticipate that changing. And so we have no aspirations at this point of obtaining a banking license. I 
+don't think that FDIC insurance is an enormous impediment to the direct deposit business. We think that 
+based upon the feedback we've received and what we're seeing, there's demand for that irrespective of 
+it.
+Erica Gessert
+10
+I would just say you can look at the billions of dollars of customer balances that we hold today to point 
+to the fact that we don't think that that's necessarily something that is necessary.
+John Rainey
+Yeah. We've got over $30 billion of stored balance of our customers money, so that's a pretty telling 
+statistic in terms of what merchant and consumer behavior is.
+George Mihalos
+That's a pretty large number there. And just last point on that. It does sound like we should expect you 
+to add more functionality and services around the wallet, right? You'll be able to provide more 
+functionality beyond payments and P2P and the like.
+John Rainey
+You're exactly correct, and Erica alluded to that. I think that's really important and look, we learn lessons 
+from competition and consumer feedback and other things as well, and we know that there is more 
+utility that we can provide to enhance the value and the functionality of that digital wallet. And it could 
+be things like the ability to pay your bills, your utility bill. It could be things like a subscription service 
+where you can vault PayPal as a payment option through all of the various subscriptions that you have 
+so that when you do have a card expire or your credentials compromised, you don't have to go change 
+that in each one of those services. Even additional services that delve into the financial area. There are 
+things that we very clearly see there's a demand for and we believe that we can not only add that 
+functionality to the wallet, we can improve the existing functionality of the wallet. If we're going to be 
+that everyday digital wallet for customers, we've got to make it as frictionless and easy to use as they 
+expect.
+George Mihalos
+Appreciate that color. And then just moving on, have to get an eBay question in before time runs out. I 
+think the last time we did it, it was all about eBay so it's nice that this is sort of close to the end of this 
+event. But just tell us, John, it sounds like you're still very comfortable with seeing that one point of top 
+line impact from the eBay roll off in 2020. But just wondering if you can make any sort of high level 
+comments about how you think about that headwind playing out in 2022 and beyond?
+John Rainey
+Sure. So I'm not going to be... I'm going to be a little evasive here or coy with talking about beyond this 
+year just simply because we haven't talked about that anywhere else, but suffice it to say that we're 
+very comfortable about this transition. This has been five years in the works, and this is not a surprise to 
+anybody. And it is an interesting contrast because when you last hosted this call in January of 2018, it 
+was that moment when eBay announced that they were launching their own managed payments and 
+partnering with someone else. And what we said at that call is exactly holding true today, is that when 
+given the choice, customers will choose to pay with PayPal more than half the time. And that's exactly 
+what we've seen in Germany and the US, and in fact we've even seen our share of checkout increase 
+there.
+11
+So we expect to retain a significant amount of that branded volume and as a reminder, that's the 
+majority of our business and the most profitable part of our business with them today. eBay has 
+suggested, I believe, that their migration is going to bleed all the way into the end of 2021 or maybe 
+even 2022. I can't remember their latest comments. This meters out this transition for us to where it's 
+not that big of an impact to our financials. We put a couple slides in our investor update yesterday which 
+I think really zero in on where our focus is. So despite the very good quarter that eBay had from a 
+growth perspective, growing over 30%, the other top 15 marketplaces which are, in aggregate, larger 
+than our eBay business today, grew 3X that. They almost grew at 100%. And that's where we're tying 
+our boat to going forward.
+We want to partner with the largest, fastest growing, most relevant marketplaces in the world. And for 
+those customers that we have the fortunate opportunity to process their payments if you're a merchant, 
+we want to allow those customers to be able to seamlessly move across platform to platform without 
+any friction with their payments. And this is precisely what we announced with Google, where Google 
+can bring merchants to their marketplace, and if they elect to use PayPal to process their payments, 
+they can do that versus being forced into some experience that they don't desire. And so that very much 
+plays into what our philosophy is with a very customer centric focus.
+George Mihalos
+Very helpful. Just if I could squeeze one more in, as I know we're coming up on time.
+John Rainey
+You bet.
+George Mihalos
+But something that didn't really come up on the call, and I suspect didn't have much of an impact, but 
+I'm just curious. The 2 billion of PPP [Paycheck Protection Program] loans that you facilitated in the 
+quarter, what impact did that have on the top and bottom line? And to the extent there's an additional 
+program, is that sort of a meaningful driver for PayPal in your opinion?
+John Rainey
+It's not that meaningful. We did receive some bit of money, kind of double-digit millions of dollars but 
+nothing that we expect to continue or that is outsized. But offsetting that though, is we electively 
+provided relief measures to our customers that more than offset that because that was the right thing 
+to do. So I kind of view those in aggregate. Yes, we were compensated to an extent for the PPP loans, 
+but by the same token, we basically turned around and gave all that back to our customers and then 
+some.
+George Mihalos
+Okay. That's helpful. John, and everyone, I know we're coming up on time, so I think we'll end it here. I 
+want to thank the whole PayPal team for arranging this and for allowing us the opportunity. So guys, 
+thanks again, and look forward to talking soon.
+12
+John Rainey
+All right. Thank you, George. And thanks everyone for being on the call, and again apologies that I had 
+the technical difficulties that required me being late. Take care.
+Erica Gessert
+Thanks a lot, George.
+George Mihalos
+Thank you everyone. Feel free to disconnect.
+Operator
+That concludes the PayPal second quarter buyside conference call. Enjoy the rest of your day.

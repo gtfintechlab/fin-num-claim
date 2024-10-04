@@ -1,0 +1,1075 @@
+true_label,original_sent,text_output
+0,"adjusted ebitda came in at $115 million, decreasing 59.8% from the year-ago figure of $286 million.","OUTOFCLAIM
+The sentence provides factual past information about the adjusted EBITDA, comparing the current value of $115 million to the year-ago figure of $286 million. It does not make any claim or assertion."
+0,"financial position integra exited the year with cash and cash equivalents of $198.9 million, up from $138.8 million at the end of 2018.","OUTOFCLAIM
+The sentence provides factual past information about the financial position of Integra, stating the amount of cash and cash equivalents at the end of the year. It does not make any claim or assertion."
+1,it currently targets long-term annual earnings growth in the range of 5-7% from 2018 levels.,"INCLAIM
+The sentence contains a claim about the company's long-term annual earnings growth target, indicating future expectations rather than just factual past or present information."
+0,"as a percentage of revenues, non-gaap sales and marketing expenses plus research and development expenses escalated 200 bps to 26% and 500 bps to 23%, respectively, while general and administrative costs declined 100 bps to 10%.","INCLAIM
+The sentence contains specific percentages and discusses the escalation and decline of expenses, indicating a claim about the financial performance of the company."
+0,dte energy follows a disciplined capital spending program to maintain and upgrade the reliability of its electric utility systems with $6.5 billion investment planned over the next 10 years.,"OUTOFCLAIM
+The sentence provides factual information about DTE Energy's capital spending program and its investment plans, without making any specific claims or assertions."
+1,"under this initiative, the company is on track to invest nearly $1 billion in 2017 and $4.2 billion over the 2014–2017 time period.","INCLAIM
+The sentence includes a claim about the company's investment plans, stating that they are on track to invest nearly $1 billion in 2017 and $4.2 billion over the 2014-2017 time period."
+0,"during the quarter, the company incurred capital expenditures of $26 million, reflecting a year-over-year decline of about 64%.","OUTOFCLAIM
+The sentence provides factual past information about the company's capital expenditures during the quarter, including the specific amount and the year-over-year decline percentage. It does not make any claim or assertion."
+1,"earlier, management stated that it is expected to generate revenues exceeding $2.6 billion.","INCLAIM
+The sentence contains a claim about generating revenues exceeding $2.6 billion."
+0,"acquisition announced - jan 9, 2019j.b. hunt transport services agreed to buy a new jersey-based home-delivery firm for $100 million.","OUTOFCLAIM
+The sentence provides factual past information about an acquisition announcement. It does not make any claim or assertion."
+0,"quarterly net income was approximately $651.15 million, up 2.1% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the quarterly net income, without making any claim or assertion."
+0,"on a constant-currency (cc) basis, operating income increased nearly 38% to $6.2 billion.","OUTOFCLAIM
+The sentence provides factual past information about the increase in operating income on a constant-currency basis. It does not make any claim or assertion."
+0,revenues at the laboratory products and services segment (41%) rose 4% to $2.41 billion.,"The sentence is OUTOFCLAIM.
+Explanation: The sentence provides factual past information about the rise in revenues at the laboratory products and services segment. It does not make any claim or assertion."
+0,"in addition, in early october, dte issued $1 billion of senior notes and $675 million of mandatory convertible securities to support its midstream acquisition.","OUTOFCLAIM
+The sentence provides factual information about a financial transaction (issuing senior notes and convertible securities) to support a midstream acquisition. It does not make any claim or assertion."
+0,the company also ended the third quarter with a strong cash balance of roughly $1.2 billion.,"OUTOFCLAIM
+The sentence provides factual past information about the company's cash balance at the end of the third quarter. It does not make any claim or assertion."
+0,it represented 53.2% of net revenues compared with 45.7% in the year-ago quarter.,"OUTOFCLAIM
+The sentence provides factual past information about the percentage of net revenues in the current quarter compared to the year-ago quarter. It does not make any claim or assertion."
+0,"the revenue figure also surpassed the zacks consensus estimate of $2,603 million.","OUTOFCLAIM
+The sentence provides factual information about the revenue figure surpassing the Zacks consensus estimate. It does not make any claim or assertion."
+1,non-gaap gross margin is anticipated to be in the range of 63.5-66.5%.,"INCLAIM
+The sentence contains a claim about the anticipated non-GAAP gross margin, indicating a future expectation rather than just factual past or present information."
+0,"balance sheet position as of dec 31, 2018, cash, cash equivalents, marketable securities and certificates of deposit totaled $1.1 billion.","OUTOFCLAIM
+The sentence provides factual past information about the balance sheet position as of a specific date, without making any claims or assertions."
+0,"the company exited the first quarter with a long-term debt of $36,826 million, down from $39,391 million at 2019-end.","OUTOFCLAIM
+The sentence provides factual past information about the company's long-term debt at the end of the first quarter, without making any claims or assertions."
+0,"total revenue, net of interest expenses, inched up 1% year over year to $1.4 billion, primarily driven by higher discount revenue, net interest income and net card fees.","OUTOFCLAIM
+The sentence provides factual past or present information about the total revenue, net of interest expenses, increasing by 1% year over year to $1.4 billion. It does not make any claim or assertion."
+0,"in 2019, the segment registered 3.3% growth from 2018.","OUTOFCLAIM
+The sentence provides factual past information about the growth rate of the segment in 2019 compared to 2018. It does not make any claim or assertion."
+0,"previously, in mar 2017,the company had raised it from 3.75% to 4.00%.","OUTOFCLAIM
+The sentence provides factual past information about a company raising something from 3.75% to 4.00%. It does not contain a claim or assertion."
+0,"total revenues total revenues in the fourth quarter came in at $880.1 million, improving 0.8% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the total revenues in the fourth quarter, without making any claims or assertions."
+0,the segment’s combined ratio expanded 80 basis points (bps) year over year to 92.5%.,"INCLAIM
+The sentence contains a claim about the expansion of the segment's combined ratio by 80 basis points year over year to 92.5%."
+0,"the company purchased property worth $17.9 million, higher than $11.8 million procured in the comparable period last year.","OUTOFCLAIM
+The sentence provides factual past information about the company's property purchase, without making any claim or assertion."
+0,"declining margins: although gross profit inched up 0.3%, gross margin, an important metric to measure a company’s financial health, contracted 60 basis points to 48.2%.","OUTOFCLAIM
+The sentence provides factual past or present information about declining margins and the contraction of gross margin, without making any specific claim or assertion."
+0,"underwriting profit in the first quarter declined 4%, attributable to lower underwriting profitability in specialty casualty and specialty financial groups.","OUTOFCLAIM
+The sentence provides factual past information about the decline in underwriting profit in the first quarter, specifically mentioning the lower underwriting profitability in specialty casualty and specialty financial groups."
+0,"excluding the impact of foreign exchange, international asp increased 6% year over year.","The sentence is INCLAIM.
+Explanation: The sentence includes a claim about the increase in international average selling price (ASP) by 6% year over year, excluding the impact of foreign exchange."
+0,"the company noted that the stellar top- line performance was backed by range within 9- 10%, up from 8.3% in fiscal 2017 on the back of sales expansion and cost & operational discipline.","INCLAIM
+The sentence contains a claim about the company's top-line performance being backed by a specific range of growth, which is supported by sales expansion and cost & operational discipline."
+0,"during the fourth quarter, the company’s retail electric and gas utility customers grew 0.6% and 0.5% year over year, respectively.","OUTOFCLAIM
+The sentence provides factual past information about the growth of the company's retail electric and gas utility customers during the fourth quarter. It does not make any claims or assertions."
+0,"organically, the segment grew 1.6%, owing to sales uptick in wound reconstruction.","OUTOFCLAIM
+The sentence provides factual past or present information about the growth of the segment, specifically mentioning a sales uptick in wound reconstruction. It does not make a claim or assertion."
+1,net sales (operational metric) are projected in the band of $465–$515 million.,"INCLAIM
+The sentence includes a projected range of net sales, indicating a claim about future financial performance."
+0,"costs/margins: gross margin in the fiscal fourth quarter was 39.4%, up 130 basis points (bps) year over year.","OUTOFCLAIM
+The sentence provides factual past information about the gross margin in the fiscal fourth quarter, without making any claims or assertions."
+0,"the same witnessed a four-year cagr of 9.7%, attributable to rise in benefits, claims and settlement expenses as well as operating expenses.","OUTOFCLAIM
+The sentence provides factual past information about the four-year CAGR (Compound Annual Growth Rate) of 9.7% and the factors contributing to it, such as the rise in benefits, claims and settlement expenses, as well as operating expenses. It does not make a claim or assertion."
+0,segmental information remotely operated vehicles (rov): this segment’s revenues were around $100.3 million compared with $85.6 million in first-quarter 2018.,"OUTOFCLAIM
+The sentence provides factual past information about the revenues of the segment, without making any claim or assertion."
+0,financials option care health exited the third quarter with cash and cash equivalents of $52.7 million compared with $36.4 million at the end of 2018.,"OUTOFCLAIM
+The sentence provides factual past information about the financials of Option Care Health, specifically the comparison of their cash and cash equivalents at the end of the third quarter and the end of 2018. It does not make any claim or assertion."
+0,gross profit improved 10% year over year to $548 million.,"OUTOFCLAIM
+The sentence provides factual past information about the improvement in gross profit, without making any claim or assertion."
+1,"for fiscal 2019, gross margin, excluding acquisition and integration costs, is now expected to be 42.5-42.9%, suggesting a contraction from 46.2% reported in fiscal 2018.","INCLAIM
+The sentence contains a claim about the expected gross margin for fiscal 2019, indicating a contraction compared to the reported gross margin in fiscal 2018."
+0,"costs/margins: cost of sales in the reported quarter was $488.3 million, up 9.4% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the cost of sales in the reported quarter being $488.3 million, without making any claim or assertion."
+0,"earlier this year, take two acquired barcelona based free-to-play mobile game developer, social point for $250 million.","OUTOFCLAIM
+The sentence provides factual past information about Take Two acquiring a mobile game developer, Social Point, for $250 million. It does not make any claims or assertions."
+0,total revenue in the quarter declined to $278.1 million from $894.8 million in the last-year comparable quarter.,"OUTOFCLAIM
+The sentence provides factual past information about the decline in total revenue in the quarter, without making any claims or assertions."
+0,adjusted operating income increased 22.8% to $436 million from the $355 million reported in the year-ago quarter.,"OUTOFCLAIM
+The sentence provides factual past information about the increase in adjusted operating income, without making any claim or assertion."
+0,"markedly, leadership brands’ sales jumped 14.7% year over year and formed roughly 79% of helen of troy’s consolidated sales in the first quarter of fiscal 2019.","INCLAIM
+The sentence contains a claim about the sales growth of leadership brands, indicating a specific increase of 14.7% year over year."
+1,industrial metrology and others business’ fiscal 2019 revenues are expected to increase 2.5% to ¥75 billion.,"OUTOFCLAIM
+The sentence provides factual information about the expected increase in revenues for the industrial metrology and others business in fiscal 2019. It does not make any claim or assertion."
+1,"moreover, sarepta's pipeline holds the potential of addressing 75–80% of the total dmd population.","INCLAIM
+The sentence contains a claim about Sarepta's pipeline having the potential to address a specific percentage of the total dmd population."
+0,"financial update                                                                year to date, phibro generated $84.8 million in cash flow from operations compared with $10.6 million in the year-ago period.","OUTOFCLAIM
+The sentence provides factual past information about the cash flow generated by Phibro, comparing the current year to date with the year-ago period. It does not contain a claim or assertion."
+0,"including certain one-time items, on a gaap basis, net income available to common shareholders was $163.3 million or $3.67 per share compared with loss of $19.4 million or 50 cents per share in the year-ago quarter.","INCLAIM
+The sentence includes specific financial information (net income, loss, per share) and compares it to the previous year, indicating a claim about the company's financial performance."
+0,"flipkart deal to hurt bottom-line: walmart recently acquired 77% in flipkart, whose operations were partially included in fiscal 2019 results of the former.","INCLAIM
+The sentence contains a claim that the flipkart deal will hurt the bottom-line of Walmart."
+0,"driven by an  increase in full game downloads and recurrent consumer spending, take two’s net sales for the first quarter of fiscal 2018 were up 28% to $348.3 million, driven by nba 2k17, wwe 2k17, grand theft auto v, grand theft auto online and sid meier’s civilization vi.","INCLAIM
+The sentence contains a claim about Take Two's net sales for the first quarter of fiscal 2018 being up 28% to $348.3 million, driven by specific games such as NBA 2K17, WWE 2K17, Grand Theft Auto V, Grand Theft Auto Online, and Sid Meier's Civilization VI."
+1,"cash flow from operations will likely be $180-$220 million, higher than previously stated $150-$200 million.","INCLAIM
+The sentence contains a claim about the expected cash flow from operations being higher than the previously stated amount."
+0,reasons to sell: dismal q3 performance hurts stock: shares of energizer have decreased 0.5% compared with the industry’s decline of 2% in the past six months.,"OUTOFCLAIM
+The sentence provides factual past information about the performance of Energizer stock compared to the industry's decline in the past six months. It does not consist of a claim."
+0,"the report also suggests that during the period 2017–2025, global sms volume will increase at a cagr of 4.2% and reach 2,3539 billion.","OUTOFCLAIM
+The sentence provides factual past or present information about the projected increase in global SMS volume, without making any specific claim."
+0,"eog resources’ total company production in 2019 was 298.6 mmboe, comprising 55.8% crude oil and condensate.","OUTOFCLAIM
+The sentence provides factual past information about EOG Resources' total company production in 2019, without making any claims or assertions."
+0,beauty segment (21%) sells a wide range of personal care and beauty appliances products mainly to retailers and supply wholesalers.,"OUTOFCLAIM
+The sentence provides factual information about the beauty segment selling personal care and beauty appliances products to retailers and supply wholesalers. It does not make any claims or assertions."
+0,the company is firmly focused on its cost-reduction efforts and achieved cost savings of about $70 million in fiscal 2019.,"OUTOFCLAIM
+The sentence provides factual past information about the company's cost-reduction efforts and the achieved cost savings in fiscal 2019. It does not make any claim or assertion."
+0,"in the first half of the year, operating profit increased 48.3% year over year to ¥29.8 billion.","OUTOFCLAIM
+The sentence provides factual past information about the increase in operating profit during the first half of the year. It does not make any claim or assertion."
+0,"the real estate, energy and natural resources segment (7.2%) deals with the results from an equity interest in plum creek real estate development joint ventures.","OUTOFCLAIM
+The sentence provides factual information about the real estate, energy, and natural resources segment and its involvement in plum creek real estate development joint ventures. It does not make any claims or assertions."
+0,the company also received $23.7 million as cash distribution from its investment in albertsons llc.,"OUTOFCLAIM
+The sentence provides factual information about the company receiving a cash distribution from its investment in Albertsons LLC. It does not make any claim or assertion."
+0,"margins: international flavors & fragrances' adjusted gross profit increased 4.8% year over year, representing 45.6% of net sales versus 46.2% in the year-ago quarter.","OUTOFCLAIM
+The sentence provides factual past information about the adjusted gross profit of International Flavors & Fragrances, without making any claims or assertions."
+0,the company’s third-quarter 2017 earnings of 98 cents per share surpassed the zacks consensus estimate by 27.3%.,"OUTOFCLAIM
+The sentence provides factual past information about the company's third-quarter 2017 earnings, including the specific earnings per share and the percentage by which it surpassed the consensus estimate. It does not make any claim or assertion."
+1,"dte gas’ total investment is expected to be $1.8 billion over 2017-2021, of which the company plans to spend $1 billion for base infrastructure, $700 million for gas main renewal, meter move out and pipeline integrity programs; and $100 million for expenditures related to the nexus pipeline.","INCLAIM
+The sentence contains information about the expected total investment of DTE Gas, which indicates a claim about future spending plans."
+1,guidance renesola projects first-quarter 2018 revenues in the band of $30?,"OUTOFCLAIM
+The sentence provides factual information about the projected first-quarter 2018 revenues of Renesola, without making any claims or assertions."
+0,non-gaap operating income of $19.9 million declined 70%.,"OUTOFCLAIM
+The sentence provides factual past information about the decline in non-GAAP operating income, without making any claim or assertion."
+0,"net sales advanced almost 9% to $354.7 million, cruising ahead of the consensus mark of $333 million.","INCLAIM
+The sentence includes a claim about the net sales advancing almost 9% to $354.7 million, which exceeds the consensus mark of $333 million."
+0,"the company reported adjusted earnings of $0.07, beating the zacks consensus estimate by penny and also improved sharply from the year-ago quarter figure of $0.01.","INCLAIM
+The sentence includes a claim about the company's adjusted earnings beating the consensus estimate and improving from the previous year's quarter figure."
+0,"total advertising revenue came in at $120.8 million in the reported quarter, up 1.3% year over year.","OUTOFCLAIM
+The sentence provides factual past or present information about the total advertising revenue, without making any claim or assertion."
+0,"financial update as of jun 30, 2020, everquote had assets worth $100.8 million, up 10.5% from the level at 2019 end.","OUTOFCLAIM
+The sentence provides factual past information about the financial update of Everquote, stating the value of their assets as of June 30, 2020, which increased by 10.5% compared to the previous year. It does not contain any claim or assertion."
+0,"further, net interest margin expanded 23 basis points (bps) year over year to 3.05%.","OUTOFCLAIM
+The sentence provides factual past information about the expansion of the net interest margin, without making any claim or assertion."
+0,"continuing cee ebitda also, on a rebased basis, decreased 4% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the decrease in CEE EBITDA on a rebased basis, without making any claim or assertion."
+0,"evidently, pg&e corp's shares lost 34.7% in last twelve months, while its broader industry lost 5.5%.","OUTOFCLAIM
+The sentence provides factual past information about the performance of PG&E Corp's shares and its broader industry. It does not make any claim or assertion."
+0,"the ott segment (34.4%, 1.6%) includes specialty metal implants for surgery of the upper and lower extremities, skin and wound repair products and bone grafts and nerve and tendon repair products.","OUTOFCLAIM
+The sentence provides factual information about the ott segment and its components, without making any claims or assertions."
+0,"segmental details in the first quarter, product revenues (represented 76.4% of total revenues) of $195.5 million surged 36.8% on a year-over-year basis, primarily driven by “strong repeat business” from existing customers and continued expansion of customer base.","INCLAIM
+The sentence contains a claim about the increase in product revenues, which is driven by ""strong repeat business"" and the expansion of the customer base."
+0,revenues by segment environmental services revenues of $578.09 million increased 1.2% year over year.,"OUTOFCLAIM
+The sentence provides factual past information about the increase in environmental services revenues, without making any claim or assertion."
+0,"selling expenses, as a percentage of net sales, grew 100 basis points year over year to 1.3%.","OUTOFCLAIM
+The sentence provides factual past information about the growth of selling expenses as a percentage of net sales. It does not make any claim or assertion."
+0,"adjusted operating income soared about 30% to $25.4 million, whereas the adjusted operating margin expanded 190 basis points to 21.7%.","INCLAIM
+The sentence is classified as INCLAIM because it includes a claim about the adjusted operating income soaring about 30% and the adjusted operating margin expanding 190 basis points."
+0,subsea projects: revenues from this segment surged 58% to around $89.7 million from $56.8 million recorded in the year-ago quarter.,"INCLAIM
+The sentence contains a claim about the increase in revenues from the subsea projects segment, indicating a specific percentage increase and monetary values."
+0,"at longhorn steakhouse, sales rose 6.2% to $387.7 million.","INCLAIM
+The sentence includes a claim about the sales of Longhorn Steakhouse rising by 6.2% to $387.7 million."
+0,the commercial business (products + office 365 & related cloud services) revenues were up 17% from the year-ago level (up 16% at cc).,"INCLAIM
+The sentence contains a claim about the revenue growth of the commercial business, stating that it was up 17% from the year-ago level."
+0,this segment reported first-quarter 2017 earnings of $0.48 per share.,"OUTOFCLAIM
+The sentence provides factual past information about the earnings of a specific segment in the first quarter of 2017. It does not make any claim or assertion."
+1,the airline forecasts average daily cash burn between $6 million and $8 million for the fourth quarter.,"INCLAIM
+The sentence contains a claim about the airline's forecasted average daily cash burn for the fourth quarter."
+1,guidance kimco reaffirmed its ffo as adjusted per share outlook in the $1.50–$1.54 band.,"INCLAIM
+The sentence contains a claim about Kimco reaffirming its ffo as adjusted per share outlook in the $1.50–$1.54 band."
+0,the company has already closed the previously announced sale of its 20% equity interest in whitewater midstream’s agua blanca natural gas pipeline system.,"OUTOFCLAIM
+The sentence provides factual past information about the company closing the sale of its equity interest in a natural gas pipeline system. It does not make any claim or assertion."
+1,adverse foreign currency movements are likely to negatively impact sales by 1%.,"OUTOFCLAIM
+The sentence provides factual information about adverse foreign currency movements likely impacting sales by 1%. It does not make a claim or express an opinion."
+0,tac paid out to network partners increased 18.5% sequentially and 19.2% year over year.,"INCLAIM
+The sentence contains information about the increase in tac paid out to network partners, which is a claim about a specific financial aspect."
+0,operating profit increased 26% in the reported period.,"OUTOFCLAIM
+The sentence provides factual past information about the increase in operating profit, without making any specific claim or assertion."
+0,"excluding supervalu’s impact, legacy sales in this unit dropped up 2.3%.","The sentence is OUTOFCLAIM.
+Explanation: The sentence provides factual past information about the sales in a specific unit dropping by 2.3% after excluding the impact of Supervalu. It does not make any claim or assertion."
+0,"financial update as of mar 31, 2019, american financial had cash and investments of $51 billion, which grew 5.2% from the level at 2018 end.","OUTOFCLAIM
+The sentence provides factual past information about the financial update of American Financial as of March 31, 2019. It does not contain any claim or assertion."
+0,"excluding fuel, the metric escalated more than 57% to 13.4 cents.","The sentence is OUTOFCLAIM.
+The sentence provides factual past or present information about the metric escalating more than 57% to 13.4 cents. It does not make a claim or assertion."
+0,its partnership with cisco for flashstack is worth mentioning (almost 70% growth in customers on a year-over-year basis).,"OUTOFCLAIM
+The sentence provides factual information about the partnership between the subject and Cisco, including the growth in customers on a year-over-year basis. It does not make any specific claim or assertion."
+0,"notably, the company’s ten largest customers had accounted for over 90% of fiscal 2018 revenues.","The sentence is OUTOFCLAIM.
+Explanation: The sentence provides factual past information about the company's ten largest customers accounting for over 90% of fiscal 2018 revenues. It does not make any claim or assertion."
+1,alliant energy has plans to invest $5.2 billion over the next four years to boost renewable operations and strengthen distribution assets.,"INCLAIM
+The sentence contains a claim about Alliant Energy's plans to invest $5.2 billion over the next four years to boost renewable operations and strengthen distribution assets."
+1,"for the second quarter of fiscal 2019, commercial unearned revenues are expected to grow 19% year over year, while commercial cloud gross margin is expected to improve at a moderate pace.","INCLAIM
+The sentence contains a claim about the expected growth of commercial unearned revenues and the improvement of commercial cloud gross margin in the second quarter of fiscal 2019."
+0,"from a geographical perspective, revenues in north america increased 19% year over year while revenues in europe, africa and the middle east were up 6% or rose 11% on a constant currency basis.","OUTOFCLAIM
+The sentence provides factual information about the increase in revenues in different regions, without making any specific claim or assertion."
+0,quarterly operating margin expanded 20 bps to 7.4%.,"OUTOFCLAIM
+The sentence provides factual information about the expansion of the quarterly operating margin by 20 basis points to 7.4%. It does not make any claim or assertion."
+0,"operational highlights in the reported quarter, total operating expenses increased 55% to $5,050 million mainly on account of wildfire-related costs, which was absent in the prior-year quarter.","OUTOFCLAIM
+The sentence provides factual past information about the increase in total operating expenses and the reason for the increase, which is wildfire-related costs. It does not make any claim or assertion."
+0,"recent news boston properties prices $1b bond in green financing — nov 13, 2018displaying its commitment to sustainability strategy, boston properties announced that the company's operating partnership, bostonproperties limited partnership (“bplp”),will issue unsecured notes worth $1 billion in a public offering underwriting to raise nearly$988.1 million in net proceeds.","INCLAIM
+The sentence is classified as INCLAIM because it includes a claim about Boston Properties' commitment to sustainability strategy and their announcement of issuing unsecured notes worth $1 billion in a public offering."
+0,"the segment delivered an operating income of $16.1 million, up 43% year over year owing to higher gross profit margin.","INCLAIM
+The sentence is classified as INCLAIM because it includes a claim about the segment delivering an operating income of $16.1 million, which is an assertion of financial performance."
+0,"the carrier exited the third quarter with cash and equivalents of $3,019 million, compared with $2,901 million at the end of the second quarter of 2020.","OUTOFCLAIM
+The sentence provides factual past information about the carrier's cash and equivalents at the end of the third quarter compared to the second quarter of 2020. It does not make any claim or assertion."
+0,the zacksrank #3 (hold) investment manager is authorized to buy back $500 million in common stock.,"INCLAIM
+The sentence contains a claim that the investment manager is authorized to buy back $500 million in common stock."
+0,corporate and other: the segment reported operating income of $16 million as against the year-ago loss of $7 million.,"OUTOFCLAIM
+The sentence provides factual past information about the operating income of the corporate and other segment, comparing it to the year-ago loss. It does not make any claim or assertion."
+0,"the company also has 110,000 million british thermal units (mmbtu) per day of natural gas hedged at a weighted average price of $3.07 per mmbtu.","INCLAIM
+The sentence contains a claim about the company having 110,000 million British thermal units (mmbtu) per day of natural gas hedged at a weighted average price of $3.07 per mmbtu."
+1,effective tax rate is expected to remain in the range of 21-23%.,"INCLAIM
+The sentence contains a claim about the expected effective tax rate remaining within a specific range."
+0,consolidated contribution margin (revenues minus the cost of revenues and marketing cost) contracted 110 bps on a year-over-year basis to 17.3%.,"INCLAIM
+The sentence contains a claim about the contraction of the consolidated contribution margin on a year-over-year basis."
+0,"net income for the quarter was ¥52.3 billion ($460.5 million), remarkably up 51.7% year over year.","INCLAIM
+The sentence includes a claim about the net income for the quarter being remarkably up 51.7% year over year."
+0,"satellite tv net customer loss improved 15.4% from last year to 34,661 due to fewer customer deactivations.","OUTOFCLAIM
+The sentence provides factual past information about the improvement in satellite TV net customer loss, without making any claim or assertion."
+0,the company reported earnings of $0.56 per share against the prior-year quarter’s loss of $0.46.,"OUTOFCLAIM
+The sentence provides factual past information about the company's earnings, comparing the current quarter's earnings per share with the prior-year quarter's loss per share. It does not make any claim or assertion."
+1,management intends to use 65-70% of net income for capital deployment over the long term.,"INCLAIM
+The sentence contains a claim about the management's intention to use a specific percentage of net income for capital deployment over the long term."
+0,"the company, which is focused on developing midstream assets, has decided to invest in the range of $50-$100 million in 2019 in midstream opportunities.","OUTOFCLAIM
+The sentence provides factual information about the company's decision to invest in midstream opportunities, without making any claims or assertions."
+0,ventas also contributed equity to maintainits 9.9% equity stake in ardent.,"OUTOFCLAIM
+The sentence provides factual information about Ventas contributing equity to maintain its equity stake in Ardent. It does not make a claim or assertion."
+1,"while solid sales and retention as well as employment recovery will drive specialty benefits premiums and fees by 7-9%, loss ratio isestimated to be 60-66% on improved underwriting.","The sentence is INCLAIM.
+The sentence contains a claim about the estimated loss ratio being 60-66% on improved underwriting."
+0,"moreover, net sales came ahead the zacks consensus estimate of $5,816 million, marking the third consecutive quarter of beat.","OUTOFCLAIM
+The sentence provides factual past information about net sales exceeding the Zacks consensus estimate and marking the third consecutive quarter of beat. It does not make any claim or assertion."
+0,segment highlights sales at the olefins segment increased 7.8% year over year to $541 million in the quarter.,"OUTOFCLAIM
+The sentence provides factual past information about the sales increase at the olefins segment without making any claim or assertion."
+0,"subsea products: the segment’s revenues came in at $128.8 million, up from the prior-year figure of $126.7 million.","OUTOFCLAIM
+The sentence provides factual past information about the segment's revenues, without making any claims or assertions."
+1,free cash flow growth is likely to be around 5-10%.,"INCLAIM
+The sentence contains a claim about the future growth of free cash flow, indicating a prediction or expectation rather than just factual past or present information."
+0,"after successful develeraging actions, the company currently carries a clean balance sheet with debt to capital ratio of just around 17%.","OUTOFCLAIM
+The sentence provides factual information about the company's current financial status, specifically mentioning its clean balance sheet and debt to capital ratio. It does not make any claims or assertions."
+0,"for 2018, the company’s adjusted earnings of $4.15 per share lagged the zacks consensus estimate of $4.16 by a penny.","OUTOFCLAIM
+The sentence provides factual past information about the company's adjusted earnings for 2018, without making any claim or assertion."
+0,"weak return on equity: the company’s return on equity, a profitability measure reflecting how effectively the company is utilizing its shareholders fund, is negative 9.24%, compared to the industry average of 7.52%.","INCLAIM
+The sentence is classified as INCLAIM because it includes a claim about the company's weak return on equity compared to the industry average. It provides a judgment or evaluation rather than just stating factual past or present information."
+0,the stock increased 50.3% in this period compared with a 15.9% increase witnessed by the industry.,"OUTOFCLAIM
+The sentence provides factual past information about the stock's increase compared to the industry, without making any claim or assertion."
+0,"it became effective january 1, 2016, and increased the amount of renewable energy that must be delivered by most load-serving entities, including the company, to their customers from 33% of their total annual retail sales by the end of the 2017-2020 compliance period, to 50% of their total annual retail sales by the end of the 2028- 2030 compliance period, and in each three-year compliance period thereafter, unless changed by legislative action.","The sentence is INCLAIM.
+The sentence describes a change in the amount of renewable energy that load-serving entities, including the company, must deliver to their customers. This change in requirements can be considered a claim as it outlines a specific obligation or target that needs to be met in the future."
+0,"highlights of the release total production in the second quarter was 159.6 thousand barrels of oil equivalent per day (mboe/d), up 28% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the total production in the second quarter, without making any claims or assertions."
+1,management now projects gross margin in the range of 63–68% and operating margin in the range of 15–20% over the long term.,"INCLAIM
+The sentence contains a projection or forecast of future performance (gross margin and operating margin) by the management, indicating a claim about the company's future financial state."
+0,"for 2018, an estimated 37% of available rig operating days are committed, consisting of 29% and 48% floating and jackup rig days, respectively.","The sentence is OUTOFCLAIM.
+Explanation: The sentence provides factual information about the percentage of available rig operating days that are committed for the year 2018. It does not make any claims or assertions."
+0,"recent news on mar 1, 2018, pacific gas and electric company (pg&e) today announced that it spent $2.58 billion with diverse suppliers in 2017,accounting for 42.25 percent of its total procurement.","INCLAIM
+The sentence contains a claim about the recent news on March 1, 2018, stating that Pacific Gas and Electric Company (PG&E) spent $2.58 billion with diverse suppliers in 2017, accounting for 42.25 percent of its total procurement."
+0,walmart u.s. segment (66% of q4 sales) operates retail stores in different formats in the u.s. and also in puerto rico.,"OUTOFCLAIM
+The sentence provides factual information about the operations of Walmart's U.S. segment and its presence in different formats in the U.S. and Puerto Rico. It does not make any claims or assertions."
+1,"operating income is estimated to increase 17.8% from the year-ago quarter to ¥74 billion, up ¥4 billion from previous guidance.","INCLAIM
+The sentence contains a claim about the estimated increase in operating income, indicating a future expectation or projection."
+0,tac for distribution arrangements was up 15.6% sequentially and 57.2% year over year.,"INCLAIM
+The sentence contains a claim about the increase in tac for distribution arrangements, indicating a change in the value over time."
+0,"reasons to buy: in the last three months, shares of praxair have yielded 10.9% return, outperforming 7% gain of the industry.","INCLAIM
+The sentence provides a claim by stating the reasons to buy, specifically mentioning the 10.9% return on shares of Praxair in the last three months, which outperformed the industry's 7% gain."
+0,the company permanently retired 30% of its fossil fuel generation capacity since 2005.,"OUTOFCLAIM
+The sentence provides factual past information about the company retiring 30% of its fossil fuel generation capacity since 2005. It does not make a claim or statement about the future or present."
+0,"notably, novartis’ latest partnership with shyft extends its collaboration with medidata in support of clinical trials and   last earnings report medidata earnings beat estimates in q2, margins contract medidata reported second-quarter 2019 adjusted earnings per share of 48 cents, which surpassed the zacks consensus estimate by 23.1%.","INCLAIM
+The sentence contains information about Novartis' partnership with Shyft, which is a claim or statement of a collaboration."
+0,"average total loans were $96.2 billion, up 2.7% on a sequential basis.","OUTOFCLAIM
+The sentence provides factual past or present information about the average total loans being $96.2 billion and the increase of 2.7% on a sequential basis. It does not make any claim or assertion."
+0,weak realized prices realized prices for crude oil in the first quarter decreased 10.5% year over year to $47.08 per barrel on a worldwide basis.,"OUTOFCLAIM
+The sentence provides factual past information about the decrease in realized prices for crude oil in the first quarter. It does not make any claim or assertion."
+1,the company expects ad-revenue growth on a year-over-year basis to be roughly 10%.,"INCLAIM
+The sentence contains a claim about the company's expected ad-revenue growth on a year-over-year basis, indicating a future projection rather than just factual past or present information."
+0,"asset integrity: the segment’s revenues totaled $60.7 million, lower than the year-ago figure of $61.3 million.","OUTOFCLAIM
+The sentence provides factual past information about the segment's revenues being lower than the year-ago figure. It does not make any claim or assertion."
+0,"the company anticipates earnings in the band of $4.35-$4.50 per share, up from the earlier estimate of $4.25-$4.50.","INCLAIM
+The sentence contains a claim about the company's anticipated earnings, providing specific information about the expected earnings per share range."
+0,"during third-quarter 2018, the company paid common stock dividend worth $161 million compared with $156.2 million in the prior- year quarter.","OUTOFCLAIM
+The sentence provides factual past information about the company paying a common stock dividend in the third quarter of 2018, comparing it to the dividend paid in the prior-year quarter. It does not make any claim or assertion."
+0,the stock has gained 9.1% compared with its industry’s growth of 34%.,"OUTOFCLAIM
+The sentence provides factual past information about the stock's performance compared to its industry's growth, without making any claim or assertion."
+0,"printing (38%) provides consumer/ commercial printer hardware, supplies, media and scanning devices, and imaging solutions.","OUTOFCLAIM
+The sentence provides factual information about the products and services offered by the company, without making any specific claims or statements."
+0,"backed by such endeavors, u.s. e-commerce sales surged 43% (in line with the growth recorded in the third quarter).","INCLAIM
+The sentence contains a claim about the surge in U.S. e-commerce sales, indicating a specific percentage increase."
+0,"investment management: net revenues were $14.3 million, down 13% from the prior-year quarter.","OUTOFCLAIM
+The sentence provides factual past information about the net revenues of investment management, without making any claims or assertions."
+0,shares of evercore have gained 1.8% over the past year against 19.4% decline recorded by the industry.,"OUTOFCLAIM
+The sentence provides factual past information about the performance of Evercore's shares compared to the industry. It does not make any claim or assertion."
+0,"operating margin in the fiscal first quarter came in at 7.6%, expanding 70 bps year over year.","OUTOFCLAIM
+The sentence provides factual past information about the operating margin in the fiscal first quarter, without making any claims or assertions."
+0,"moreover, enterprise service revenues increased 6% (same at cc) in the reported quarter, owing to growth in premier support services and microsoft consulting services.","INCLAIM
+The sentence contains a claim about the increase in enterprise service revenues, specifically mentioning a 6% growth in the reported quarter."
+1,"for 2019, the company expects to incur $35-$40 million of tariff costs, higher than the previously mentioned $20-25 million.","INCLAIM
+The sentence contains a claim about the company's expected tariff costs for 2019, which is higher than the previously mentioned amount."
+0,"in august, the company announced an 8% increase in its quarterly dividend rate.","OUTOFCLAIM
+The sentence provides factual past information about the company announcing an increase in its quarterly dividend rate. It does not make any claim or assertion."
+0,"net debt at the end of the quarter was $5,614 million, down around 10% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the net debt at the end of the quarter being $5,614 million, and it being down around 10% year over year. It does not make any claim or assertion."
+1,cash returned to shareholders will likely come within 50-60% of net income.,"INCLAIM
+The sentence contains a claim about the likelihood of cash returned to shareholders being within a specific range relative to net income."
+0,the company also returned $120 million to its shareholders through share repurchases and dividends during the quarter.,"OUTOFCLAIM
+The sentence provides factual information about the company returning $120 million to its shareholders through share repurchases and dividends during the quarter. It does not make any claim or assertion."
+0,"phc holdings, a japanese healthcare company, has agreed to buy this business for a cash consideration of $1.14 billion.","INCLAIM
+The sentence contains a claim that ""phc holdings, a Japanese healthcare company, has agreed to buy this business for a cash consideration of $1.14 billion."" This statement involves a specific transaction and financial information, making it a claim rather than just factual past or present information."
+0,operating details adjusted ebitda declined 0.2% year over year to $1.21 billion in the third quarter.,"OUTOFCLAIM
+The sentence provides factual past information about the decline in adjusted EBITDA year over year in the third quarter. It does not make any claim or assertion."
+1,non- gaap operating margin is anticipated to be in the range of 0-4%.,"OUTOFCLAIM
+The sentence provides factual information about the anticipated range of non-GAAP operating margin, without making any specific claim or assertion."
+1,"also, it expects 1% average loan growth.","OUTOFCLAIM
+The sentence provides factual information about the expected average loan growth, without making any specific claim or assertion."
+0,"earlier, it predicted to witness revenue growth of 2-4% in third-quarter 2019 from the previousquarter’s reported figure.","INCLAIM
+The sentence contains a claim about the predicted revenue growth in the third quarter of 2019, indicating a future expectation rather than just factual past or present information."
+1,the company also projects adjusted gross margin for the unit in the band of $35-$45 per ton.,"INCLAIM
+The sentence contains a projection or estimate of the adjusted gross margin for the unit, indicating a claim about future performance rather than just factual past or present information."
+0,"the company notified that the number of paid digital subscribers reached roughly 3,780,000 at the end of second quarter of 2019 – rising 197,000 sequentially and 30.7% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the number of paid digital subscribers, without making any claims or assertions."
+1,the zacks consensus estimate for the metric stands at $2.99.,"OUTOFCLAIM
+The sentence provides factual information about the Zacks consensus estimate for the metric, without making any claims or assertions."
+0,"u.s. comps, excluding fuel, improved 4.2% backed by 0.9% rise in traffic and 3.3% in ticket.","OUTOFCLAIM
+The sentence provides factual past or present information about the improvement in U.S. comps, excluding fuel, with a 4.2% increase backed by a 0.9% rise in traffic and 3.3% increase in ticket. It does not make any claim or assertion."
+0,"revenues from other insurance verticals, which include home and renters, life, health and commercial insurance, surged 133.2% from the year- ago period to $13.7 million.","The sentence is INCLAIM.
+The sentence includes a claim about the increase in revenues from other insurance verticals, indicating a significant surge of 133.2% compared to the previous year."
+0,"in fiscal year 2018, walmart accounted for 11.5% of annual sales.","OUTOFCLAIM
+The sentence provides factual past information about Walmart's sales in fiscal year 2018, without making any claim or assertion."
+0,"for third-quarter 2017, wwe anticipates average paid subscribers of 1.54 million (+/- 2%).","INCLAIM
+The sentence contains a claim about the anticipated average paid subscribers for the third quarter of 2017."
+0,"as of sep 30, 2018, book value per share (excluding aoci other than foreign currency translation adjustment) was $41.90, up 2.9% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the book value per share, without making any claim or assertion."
+1,"increased focus on international revenues:in line with one of its strategies, the company earlier stated that it aims to boost international revenues to 10% by fiscal 2020.","INCLAIM
+The sentence contains a claim about the company's aim to boost international revenues to 10% by fiscal 2020."
+1,dte electric’s total investment is expected to be $18 billion over the next 10 years.,"OUTOFCLAIM
+The sentence provides factual information about DTE Electric's total investment over the next 10 years. It does not make any claims or assertions."
+0,"in fiscal 2020, the company’s roic (return on invested capital) was 14%, 520 basis points (bps) above wacc (weighted average cost of capital).","OUTOFCLAIM
+The sentence provides factual past information about the company's ROIC and WACC without making any claims or assertions."
+0,plexus’ weighted average cost of capital was 520 bps above wacc of 8.8%.,"INCLAIM
+The sentence is classified as INCLAIM because it includes a claim about Plexus' weighted average cost of capital being 520 bps above the WACC of 8.8%."
+0,"walmart international segment (23%) consists of retail operations in 26 countries outside the u.s. sam’s club (11%) comprises membership warehouse clubs in 48 states in the u.s. and puerto rico, as well as the segment's online retail operations, samsclub.com.","OUTOFCLAIM
+The sentence provides factual information about the composition and operations of the Walmart International segment and Sam's Club. It does not make any claims or assertions."
+0,"lastmonth, the board of directors approved a share buyback program authorizing the company to repurchase $500 million worth shares.","INCLAIM
+The sentence contains a claim about the board of directors approving a share buyback program authorizing the company to repurchase $500 million worth shares."
+0,"the metric also increased 54.7% to $47.3 million in the first half of 2020, which exceeded the guidance provided last quarter.","OUTOFCLAIM
+The sentence provides factual past information about the metric increasing and exceeding the guidance provided last quarter. It does not make any claim or assertion."
+1,it aims at $1-$1.4-billion capital deployment in 2019 and targets to pay 40% of net income as dividend in future.,"INCLAIM
+The sentence contains a claim about the company's capital deployment and dividend targets in the future."
+0,"during the quarter, the company made capital investment of $75 million.","OUTOFCLAIM
+The sentence provides factual past information about the company's capital investment during the quarter, without making any claim or assertion."
+1,management estimates property and casualty renewal pricing in 2019 to be up 1% to 3% (up from flat to up 2% guided earlier).,"INCLAIM
+The sentence contains a claim about the estimated property and casualty renewal pricing in 2019, stating that it is expected to be up 1% to 3%."
+0,"however, the segment’s profit levels fell 37.7% sequentially.","OUTOFCLAIM
+The sentence provides factual past information about the profit levels of a segment falling 37.7% sequentially. It does not make a claim or assertion."
+0,"print advertising revenue fell 8% to $62.7 million in the quarter under review, following a decline of 11.9% in the preceding quarter.","OUTOFCLAIM
+The sentence provides factual past information about the decline in print advertising revenue in the quarter under review and the preceding quarter. It does not make any claim or assertion."
+0,"in fourth-quarter fiscal 2020, plexus won 44 new manufacturing programs worth approximately $286 million in annualized revenues.","INCLAIM
+The sentence includes a claim about Plexus winning 44 new manufacturing programs worth approximately $286 million in annualized revenues."
+1,"productivity and business processes revenues are expected between $9.95 billion and $10.15 billion, driven by double-digit growth in office commercial and dynamics.","INCLAIM
+The sentence contains a claim about the expected revenues for productivity and business processes, specifically mentioning a range of $9.95 billion to $10.15 billion and attributing the growth to double-digit growth in office commercial and dynamics."
+0,"year to date, net cash provided by operating activities was $16.6 million compared the year-ago figure of $12.2 million.","OUTOFCLAIM
+The sentence provides factual past information about the net cash provided by operating activities, comparing the current year's figure to the year-ago figure. It does not make any claim or assertion."
+0,"in fiscal 2019, apple generated $265.17 billion in total revenues.","OUTOFCLAIM
+The sentence provides factual past information about Apple's total revenues in fiscal 2019 without making any claim or assertion."
+0,"southern business consists of the 100%-owned pinos altos mine and creston mascota satellite mine, both in chihuahua in northern mexico as well as the 100%-owned la india mine in sonora in northern mexico.","OUTOFCLAIM
+The sentence provides factual information about the Southern business, including the specific mines and their locations in Mexico. It does not make any claims or assertions."
+0,"also, the adjusted operating margin contracted 100 bps to 1.7% due to lower margins from unified grocers and elevated logistic expenses.","OUTOFCLAIM
+The sentence provides factual past or present information about the adjusted operating margin contracting and the reasons behind it. It does not make any claim or assertion."
+0,"moreover, the segment reported a profit of $22.4 million, turning around from a loss of $40.1 million in the prior-year quarter.","INCLAIM
+The sentence contains a claim about the segment reporting a profit of $22.4 million, which indicates a change in financial status from a loss of $40.1 million in the prior-year quarter."
+0,"total revenue total revenue came in at $3.24 billion, which surpassed the zacks consensus estimate of $2.58 billion by 25.6%.","OUTOFCLAIM
+The sentence provides factual past or present information about the total revenue, without making any claim or assertion."
+0,"strained gross margin: during fiscal first quarter, united natural’s gross margin contracted 157 basis points (bps) year on year to 12.81% due to the inclusion of supervalu, which contributed at a reduced gross profit rate.","OUTOFCLAIM
+The sentence provides factual past information about United Natural's gross margin contracting during the fiscal first quarter due to the inclusion of Supervalu at a reduced gross profit rate. It does not make any claim or assertion."
+0,"repair and remodeling activity, which drives about 40% of lumber demand, is expected to rise 6-7% in 2019.","INCLAIM
+The sentence contains a claim about the expected rise in repair and remodeling activity in 2019."
+0,"reasons to sell: persistent softness in retail business hurts stock: supervalu has seen its shares plunge 44.4% in a year, in comparison with the industry's 1.3% dip.","The sentence is INCLAIM.
+Explanation: The sentence includes a claim that the persistent softness in the retail business hurts the stock of Supervalu, as evidenced by its shares plunging 44.4% in a year, compared to the industry's 1.3% dip."
+0,"consequently, the company witnessed a 70% rise in metastatic breast cancer testing in comparison to the previously reported quarter.","INCLAIM
+The sentence contains a claim about the company witnessing a 70% rise in metastatic breast cancer testing, indicating a specific outcome or result."
+0,the complaint relates to the 30% revenue cut that the company takes from some app providers.,"INCLAIM
+The sentence contains a claim about the complaint relating to the revenue cut taken by the company from some app providers."
+1,"additionally, it expects total expenses for the current year between $52 billion and $55 billion, narrowed down from the prior range of $52-$56 billion.","INCLAIM
+The sentence contains a claim about the expected total expenses for the current year, providing specific numerical values and comparing them to a prior range."
+0,volume increased 1.8% on an organic basis.,"OUTOFCLAIM
+The sentence provides factual information about the increase in volume, without making any claims or assertions."
+0,"financial highlights as of sep 30, 2018, the company had cash and cash equivalents of $988 million compared with $781 million as of dec 31, 2017.","OUTOFCLAIM
+The sentence provides factual past information about the company's financial highlights, specifically the amount of cash and cash equivalents they had as of two different dates. It does not make any claims or assertions."
+0,"in 2016, the company generated pay-per-view revenues of $12.6 million in comparison with $20.6 million, $45.2 million, $82.5 million and $83.6 million in 2015, 2014, 2013 and 2012, respectively.","OUTOFCLAIM
+The sentence provides factual past information about the company's pay-per-view revenues in different years. It does not make any claim or assertion."
+1,"revenues are expected between $1.55 billion and $1.57 billion, representing a reported growth of 3%.","OUTOFCLAIM
+The sentence provides factual information about the expected revenues, without making any claim or assertion."
+0,"for full-year 2017, ffo came in at $3.39 per share, up 3.4% from the 2016 figure.","OUTOFCLAIM
+The sentence provides factual past information about the full-year 2017 FFO (Funds From Operations) which came in at $3.39 per share, showing a 3.4% increase from the 2016 figure. It does not consist of a claim but rather presents a statement of fact."
+0,"quarter details segment wise, portable audio product revenues (83.4% of the total revenues) came in at $212.3 million, down 24.4% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the revenue of portable audio products, without making any claims or assertions."
+0,total capital ratio was 14.0% compared with 14.9% in the prior-year quarter.,"OUTOFCLAIM
+The sentence provides factual past information about the total capital ratio, comparing it with the prior-year quarter. It does not make any claim or assertion."
+0,"this steep year-over-year fall was due to the 77.8% decrease in passenger revenues, which accounted for bulk (90.4%) of the top line.","OUTOFCLAIM
+The sentence provides factual past information about a steep year-over-year fall in revenues, specifically attributing it to a 77.8% decrease in passenger revenues. It does not make any claim or assertion."
+0,the retail food segment (26%) derives revenues from the sale of groceries and other products at retail locations operated by supervalu.,"OUTOFCLAIM
+The sentence provides factual information about the retail food segment and its revenue source, without making any claims or assertions."
+0,robust domestic demand for chicken as well as favorable prices (due to increased u.s. chicken exports) bolstered the company’s u.s. revenues by 12.4% in the reported quarter.,"INCLAIM
+The sentence contains a claim about the company's revenues being bolstered by robust domestic demand for chicken and favorable prices due to increased U.S. chicken exports."
+1,through 2019 it expects ratebase growth of approximately 7.5%-8% annually compared to the prior guidance of 6.5%- 7%.,"INCLAIM
+The sentence contains a claim about the expected ratebase growth of approximately 7.5%-8% annually, which is a projection for the future."
+0,"recent news diageo strengthens tequila category with casamigos buyout – jun 21, 2017diageo is set to acquire the u.s. fastest-growing premium tequila brand, casamigos, in a deal worth $1 billion.","INCLAIM
+The sentence contains a claim that Diageo is set to acquire Casamigos, the fastest-growing premium tequila brand, in a deal worth $1 billion."
+1,"bleak outlook: with prevailing industry dynamics to continue in 2017, management expects comparable sales to decline in the range of 3–4% in remaining part of 2017.","INCLAIM
+The sentence contains a claim about the future outlook, stating that management expects comparable sales to decline in the remaining part of 2017."
+0,"it procures natural gas directly from producers and marketers in both canada and the u.s. natural gas segment revenues in 2017 were $4,011 million, comprising 23.4% of total revenues.","OUTOFCLAIM
+The sentence provides factual past information about the procurement of natural gas and the revenue generated from the natural gas segment in 2017. It does not make any claim or assertion."
+0,"per the updated design of the trial, the two interim assessments previously planned at 50% and 70% of os events will now be replacedwith a single assessment of rpfs.","OUTOFCLAIM
+The sentence provides factual information about a change in the design of a trial, without making any claims or assertions."
+0,"the company has further restructured its reporting segments and currently has four business segments - additives and functional products/afp (35% of 2019 sales), advanced materials (29%), chemical intermediates (26%) and fibers (10%).","OUTOFCLAIM
+The sentence provides factual information about the company's reporting segments and their respective percentages of 2019 sales. It does not make any claims or assertions."
+0,"during the second quarter of 2017, bce added a net of 88,611 postpaid wireless subscribers, up 26.9% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the number of postpaid wireless subscribers added by BCE during the second quarter of 2017. It does not make any claim or assertion."
+1,the airline forecasts average daily cash burn between $6 million and $8 million for the fourth quarter.,"INCLAIM
+The sentence contains a claim about the airline's forecasted average daily cash burn for the fourth quarter."
+0,"net sales at health & home segment rose 10.2% on the back of solid online sales, greater international distribution and positive currency impacts.","The sentence is INCLAIM.
+The sentence includes a claim about the increase in net sales at the health & home segment, which is supported by specific factors such as solid online sales, greater international distribution, and positive currency impacts."
+1,the carrier predicts revenues to plunge approximately 70% year over year in the december quarter from its earlier expectation of a slump of nearly 65%.,"INCLAIM
+The sentence contains a claim about the carrier's prediction of a significant decrease in revenues, indicating a future outcome rather than just factual past or present information."
+0,average capacity utilization increased to 93% from the year-ago level of 83%.,"INCLAIM
+The sentence contains a claim about the increase in average capacity utilization from the year-ago level, indicating a change or improvement in the mentioned metric."
+0,"guidance to preserve liquidity amid the unprecedented economic crisis as a result of the novel coronavirus pandemic, occidental decided to lower 2020 capital expenditure by more than 50% to the range of $2.4-$2.6 billion.","INCLAIM
+The sentence contains a claim about Occidental's decision to lower its 2020 capital expenditure by more than 50% due to the economic crisis caused by the novel coronavirus pandemic."
+0,entergy’s interest expenses in the first half of 2018 rose by 10.9% compared with the first half of 2017.,"OUTOFCLAIM
+The sentence provides factual past information about the rise in Entergy's interest expenses in the first half of 2018 compared to the first half of 2017. It does not make any claim or assertion."
+0,average capacity utilization was 56% compared with 70% in the prior-year period.,"OUTOFCLAIM
+The sentence provides factual past information about the average capacity utilization, comparing it with the prior-year period. It does not make any claim or assertion."
+0,jetblue’s operating expenses per available seat mile (casm) rose 29.3% to 14.60 cents due to capacity cuts.,"OUTOFCLAIM
+The sentence provides factual past information about JetBlue's operating expenses per available seat mile rising 29.3% to 14.60 cents due to capacity cuts. It does not make a claim or statement about the future or any potential outcomes."
+0,"in the next five years, premium and fee growth at individual life is expected at 4–8%, while for specialty benefits, the same is estimated to increase 8–10%.","INCLAIM
+The sentence contains a claim about the expected growth rates for premium and fee growth at individual life and specialty benefits in the next five years."
+0,"last earnings report plexus q4 earnings beat estimates, revenues up y/y plexus reported fourth-quarter fiscal 2020 adjusted earnings of $1.26 per share that beat the zacks consensus estimate by 43.2%.","INCLAIM
+The sentence contains a claim about Plexus's earnings report, specifically stating that their Q4 earnings beat estimates and their revenues were up year-over-year."
+0,"the company’s overall operating portfolio, including 181 in-service office properties was 91.1% occupied as of sep 30, 2018, indicating a sequential expansion of 70 basis points (bps).","OUTOFCLAIM
+The sentence provides factual past information about the company's overall operating portfolio and its occupancy rate, indicating a sequential expansion of 70 basis points. It does not make any claim or assertion."
+0,"during the first quarter, net cash used in operating activities came in at $18.6 million.","OUTOFCLAIM
+The sentence provides factual past information about the net cash used in operating activities during the first quarter. It does not make any claim or assertion."
+1,"acquisitions will be given preference for gaining access to desirable customers, regions or technologies, generating approximately $500 million to $1 billion in sales.","INCLAIM
+The sentence contains a claim about acquisitions being given preference for gaining access to desirable customers, regions, or technologies, and generating a specific range of sales ($500 million to $1 billion)."
+0,"at third-quarter end, debt was $3.3 billion, up from $3.2 billion from the year-ago level.","OUTOFCLAIM
+The sentence provides factual past information about the debt amount at third-quarter end, without making any claim or assertion."
+0,"specifically, the 4.5% senior notes are priced at 99.641% of the principal amount.","OUTOFCLAIM
+The sentence provides factual information about the pricing of the 4.5% senior notes, without making any claims or assertions."
+0,"additionally, westlake chemical’s board declared regular dividend distribution of 25 cents per share, up 19% from 21 cents in thesecond quarter.","INCLAIM
+The sentence is classified as INCLAIM because it includes a claim about the increase in the regular dividend distribution of Westlake Chemical's board."
+0,"notably, including common stock dividends, the company returned $957 million to shareholders as of jun 30, 2017.","OUTOFCLAIM
+The sentence provides factual past information about the company returning $957 million to shareholders as of June 30, 2017. It does not make any claim or assertion."
+0,"the company reported operating margin of 15.7%, up 130 bps year over year.","OUTOFCLAIM
+The sentence provides factual past information about the company's operating margin, without making any claims or assertions."
+0,"search advertising revenues, excluding traffic acquisition costs (tac), grew 17% (same at cc) as both search volume and revenues per search (rps) improved.","INCLAIM
+The sentence is classified as INCLAIM because it includes a claim about the growth of search advertising revenues. It states that the revenues grew by 17% and provides an explanation for the growth, mentioning improvements in search volume and revenues per search."
+1,"mobile games revenues will grow 19% to $46.1 billion, representing 42% of the total revenue.","INCLAIM
+The sentence contains a claim about the future growth of mobile games revenues, indicating a prediction or projection."
+0,desktops unit shipments were down 3% on a year-over-year basis.,"OUTOFCLAIM
+The sentence provides factual past information about the decrease in desktops unit shipments, without making any claims or assertions."
+1,"given the impact of decreases in market interest rates to date in 2019, it continues to expect pretax annuity earnings (including the impact of fair value accounting) in the range of $365 million to $425 million in 2019.","INCLAIM
+The sentence contains a claim about the company's expectation of pretax annuity earnings in a specific range for the year 2019."
+0,"financial aspects  cash and cash equivalents totaled $34.2 million and long-term debt and capital leases (including $11,806 current portion) came in at $829.9 million.","OUTOFCLAIM
+The sentence provides factual information about the financial aspects of the company, stating the specific amounts of cash and cash equivalents, as well as long-term debt and capital leases. It does not make any claims or assertions."
+0,commercial banking (33.4%) is mainly focused on companies with annual revenues from $25 million to $2.5 billion.,"OUTOFCLAIM
+The sentence provides factual information about the focus of commercial banking on companies with specific annual revenues. It does not make any claims or assertions."
+0,its cloud business now generates more than $1 billion in sales per quarter.,"INCLAIM
+The sentence contains a claim that the cloud business generates more than $1 billion in sales per quarter."
+1,adjusted eps guidance for 2019 has been raised to a new range of $12.08 to $12.22 (from previous range of $12.00 to $12.20) indicating 9% to 10% growth from 2018.,"INCLAIM
+The sentence contains a claim about the adjusted EPS guidance for 2019 being raised to a new range, indicating a specific percentage growth from 2018."
+1,the company now assumes pretax annuity earnings before fair value accounting in the range of $445-million.,"INCLAIM
+The sentence contains a specific claim about the company's pretax annuity earnings, indicating a projected amount of $445 million."
+0,"gross profit margin came in at 28.3%, contracting 20 basis points (bps) year over year.","OUTOFCLAIM
+The sentence provides factual past information about the gross profit margin, without making any claims or assertions."
+0,"in fact, in september 2018, delighting its shareholders, boston properties announced a 18.75% hike in the company's quarterly cash dividend rate.","OUTOFCLAIM
+The sentence provides factual past information about Boston Properties announcing a hike in the company's quarterly cash dividend rate. It does not consist of a claim."
+0,"at the end of the second quarter, the company has an outstanding authorization of nearly $770 million.","OUTOFCLAIM
+The sentence provides factual past information about the company's outstanding authorization at the end of the second quarter. It does not make any claim or assertion."
+0,"citizen financial’s shares have gained 56.9% over the last one year, outperforming 23.5% rally recorded by the industry.","OUTOFCLAIM
+The sentence provides factual past information about the performance of Citizen Financial's shares over the last year compared to the industry. It does not make any claim or assertion."
+0,"high-speed internet net subscriber additions totaled 44,424, up 12.8% from 39,375 a year ago.","OUTOFCLAIM
+The sentence provides factual past information about the number of high-speed internet net subscriber additions, without making any claims or assertions."
+0,cash and cash equivalents increased 18.1% from the 2019-end level to $54.4 million.,"OUTOFCLAIM
+The sentence provides factual past information about the increase in cash and cash equivalents, without making any claim or assertion."
+1,"capital spending will likely be $15-  $20 million, down from the earlier $20-$25 million.","OUTOFCLAIM
+The sentence provides factual information about the expected decrease in capital spending, without making any claims or assertions."
+0,operating highlights gross profit declined to $321 million from $517 million a year ago.,"OUTOFCLAIM
+The sentence provides factual past information about the decline in gross profit from $517 million to $321 million a year ago. It does not make any claim or assertion."
+0,"comps grew 3% at the segment, much higher than prior-quarter comps growth of 1.9%.","INCLAIM
+The sentence contains a comparison of the current comps growth (3%) with the prior-quarter comps growth (1.9%), indicating a claim about the improvement in comps growth."
+0,"notably, the latter helped wholesale unit sales to soar 52% in the quarter, forming roughly 73% of supervalu’s net revenues.","INCLAIM
+The sentence contains a claim about the wholesale unit sales soaring 52% in the quarter, which is a specific and measurable statement."
+0,"the company's top line, which has been increasing over the years owing to solid performance of automotive and other insurance marketplace verticals, witnessed a cagr of 32% over the last five years (2014-2019).","INCLAIM
+The sentence contains a claim about the company's top line increasing over the years, which is supported by the information about its solid performance and a specific growth rate (CAGR of 32% over the last five years)."
+0,"moreover, enbridge also lost 18% value in the last year, significantly underperforming the industry’s loss of 11.3% during the aforesaid period.","OUTOFCLAIM
+The sentence provides factual past information about Enbridge losing 18% value in the last year, which is not a claim but a statement of fact."
+0,"in fiscal 2019, americas, europe, greater china, japan and rest of asia-pacific accounted for 44.9%, 23.2%, 16.8%, 8.3% and 6.8% of total revenues, respectively.","OUTOFCLAIM
+The sentence provides factual past information about the distribution of total revenues among different regions in fiscal 2019. It does not make any claims or assertions."
+0,"during 2018, the company replaced its production for all commodities at a rate of 308%, before consideration of divestitures.","OUTOFCLAIM
+The sentence provides factual past information about the company replacing its production for all commodities at a rate of 308% during 2018. It does not make any claim or assertion."
+0,"per the agreement terms of this cash-and-stock transaction, pope resources unitholders had the right to elect to receive 3.929 rayoniercommon shares (the “stock election”), 3.929 units of the operating partnership of rayonier (the “opco election”), or $125 in cash (the “cashelection”) in exchange for each unit of pope resources, subject to a proration mechanism.","INCLAIM
+The sentence contains information about the agreement terms of a cash-and-stock transaction, indicating a claim or statement of a specific arrangement or condition."
+0,"per gartner, by 2020, the price of solid-state arrays (ssas) will decline nearly 60% in terms of dollars per raw terabyte from the beginning of 2017.","INCLAIM
+The sentence contains a claim about the future price decline of solid-state arrays (SSAs) according to Gartner's prediction."
+0,enjoys a strong backlog position ($3.2 billion).,"INCLAIM
+The sentence contains a claim about the company's strong backlog position, indicating a positive future outlook."
+0,"the debt-to-capital of the company is 50.58%, higher than the s&p 500 average of 42.57%.","INCLAIM
+The sentence contains a claim about the debt-to-capital ratio of the company being higher than the S&P 500 average."
+1,adjusted ebitda is anticipated between $560 million and $600 million.,"INCLAIM
+The sentence is labeled as INCLAIM because it consists of a claim about the anticipated adjusted EBITDA range, indicating future expectations rather than just stating factual past or present information."
+0,"segment details subscription revenues in the second quarter totaled $150 million, up 15% on a year-over-year basis.","OUTOFCLAIM
+The sentence provides factual past information about the subscription revenues in the second quarter, without making any claims or assertions."
+0,solid dividend payouts remain arguably the biggest attraction for reit investors as the u.s. law requires these companies to distribute 90% of their annual taxable income in the form of dividends to shareholders.,"INCLAIM
+The sentence contains a claim about solid dividend payouts being the biggest attraction for REIT investors, which is not just factual past or present information."
+0,"hp repurchased shares worth $302 million and paid dividends worth $222 million, in the same time frame.","OUTOFCLAIM
+The sentence provides factual past information about HP repurchasing shares and paying dividends, without making any claims or assertions."
+1,"of this, combined ratio is projected between 92% and 96% for property and transportation group and between 91% and 95% for specialty casualty group.","INCLAIM
+The sentence contains projected ratios for different groups, indicating a claim about future performance rather than just factual information about the present or past."
+1,"it anticipates gaap earnings in the band of $4.35-$4.50 per share, up from the previous guided range of $4.25-$4.50.","INCLAIM
+The sentence contains a claim about the anticipated GAAP earnings, specifying a range of $4.35-$4.50 per share, which is an expectation for future financial performance."
+1,"for 2017 (results not yet released), the company anticipates earnings to be $5.78-$5.83 per share, reflecting 12 cents increase at mid-point compared with the previous guidance of $5.63-$5.75.","INCLAIM
+The sentence contains a claim about the company's anticipated earnings for 2017, including specific figures and a comparison with previous guidance."
+0,"in new jersey, the approved settlement for jcp&l provides for an annual distribution revenue increase of $80 million.","INCLAIM
+The sentence contains a claim about an approved settlement for JCP&L that provides for an annual distribution revenue increase of $80 million."
+0,"balance sheet the company exited the quarter under review with cash and cash equivalents plus short-term marketable securities of $1.88 billion, which came in flat sequentially.","OUTOFCLAIM
+The sentence provides factual information about the company's balance sheet, specifically mentioning the amount of cash and cash equivalents plus short-term marketable securities. It does not make any claims or assertions."
+0,the parent and other segment incurred a loss of 11 cents per share in the quarter under review compared with the year-ago loss of $1.34.,"OUTOFCLAIM
+The sentence provides factual past information about the parent and other segment incurring a loss of 11 cents per share in the quarter under review compared with the year-ago loss of $1.34. It does not consist of a claim or assertion."
+1,net sales are projected in the band of $1.65–$1.75 billion compared with $1.42–$1.52 billion.,"INCLAIM
+The sentence includes a projection of net sales in a specific range, indicating a claim about future financial performance."
+0,"year to date, shares of the company have gained 2.6%, against its industry's decline of 7.1%.","OUTOFCLAIM
+The sentence provides factual past information about the performance of the company's shares compared to its industry's decline. It does not make any claim or assertion."
+0,"as a percentage of net sales, it represented 21.7% versus 20.3% in the year-ago quarter.","OUTOFCLAIM
+The sentence provides factual past information about the percentage of net sales in the year-ago quarter. It does not make any claim or assertion."
+0,gross margin in the year will be 45-46%.,"OUTOFCLAIM
+The sentence provides factual information about the expected gross margin in the year without making any claims or assertions."
+1,"earnings estimates for the current year have increased 0.6% over the past seven days, depicting analysts’ optimism over the stock’s bottom-line growth potential.","INCLAIM
+The sentence contains a claim about earnings estimates increasing, indicating analysts' optimism about the stock's bottom-line growth potential."
+1,"through this long-term initiative, dte energy expects to see a 30% reduction inits carbon emissions by the early 2020s, 45% by 2030, 75% by 2040 and finally more than 80% by 2050.","INCLAIM
+The sentence contains a claim about the expected reduction in carbon emissions by specific percentages in different time periods."
+0,"2018 at a glance on a full-year basis, medidata reported revenues of $635.7 million.","OUTOFCLAIM
+The sentence provides factual past information about Medidata's reported revenues in 2018. It does not make any claim or assertion."
+0,risks shares up: shares of medidata have gained 25.6% outperforming the industry's decline of 9.8% over the past year.,"OUTOFCLAIM
+The sentence provides factual past information about the performance of Medidata's shares, comparing it to the industry's decline over the past year. It does not make any claim or assertion."
+0,"balance sheet/cash flow: pilgrim's pride exited the third quarter with cash and cash equivalents of approximately $401.8 million, up  from $292.5 million recorded on dec 25, 2016.","OUTOFCLAIM
+The sentence provides factual past information about the balance sheet and cash flow of Pilgrim's Pride, without making any claims or assertions."
+0,"total network access services (nas) lines in third-quarter 2017 totaled 6,394,553, up 0.6% from 6,358,362 last year.","OUTOFCLAIM
+The sentence provides factual past information about the total network access services (nas) lines in the third quarter of 2017, without making any claims or assertions."
+1,"furthermore, management anticipates quarterly development spend through 2019 to be nearly $250 million.","INCLAIM
+The sentence contains a claim about the anticipated quarterly development spend in 2019, which is a future projection made by the management."
+0,"in 2018, sce's total operating revenue of $12.6 billion was derived from commercial (42.8%), residential (39.3%), industrial (4.3%), public authorities (4.5%), agricultural and other (2.4%), and other (6.7%) customers.","OUTOFCLAIM
+The sentence provides factual past information about SCE's total operating revenue in 2018 and the breakdown of revenue by customer type. It does not make any claims or assertions."
+0,"operational highlights gross margin of 10.54% in the fourth quarter expanded 63 basis points (bps) year over year but contracted 701 bps, sequentially.","OUTOFCLAIM
+The sentence provides factual past and present information about the gross margin in the fourth quarter, including the expansion and contraction of basis points. It does not make any claims or assertions."
+0,"although the business achieved $329 million of cumulative improvements, it delivered just $2 million of the improvement in 2018.","OUTOFCLAIM
+The sentence provides factual past information about the business achieving $329 million of cumulative improvements and delivering only $2 million of the improvement in 2018. It does not make a claim or statement about future expectations or outcomes."
+0,it also offers travel services to consumers outside the u.s. the segment accounted for 17% of the total revenue in 2016.,"OUTOFCLAIM
+The sentence provides factual information about the percentage of total revenue accounted for by the travel services segment in 2016. It does not make any claims or assertions."
+0,"on a constant currency basis, revenues grew 5% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the growth of revenues on a constant currency basis. It does not make any claim or assertion."
+0,"as of mar31, 2019, long-term debt of $1.4 billion was up 9.3% from the 2018-end level.","The sentence is OUTOFCLAIM.
+Explanation: The sentence provides factual past information about the long-term debt, stating that it was up 9.3% from the 2018-end level. It does not make any claim or assertion."
+0,"permian production grew 81.6% year over year to 474,000 barrels of oil equivalent per day (boe/d) in the first quarter, courtesy of improved well performance and development activity.","INCLAIM
+The sentence contains a claim about the growth of Permian production, stating that it grew 81.6% year over year."
+0,"in july 2014, diageo completed the acquisition of 26% stake in india’s leading brewer, united spirits limited to boost its presence in india.","OUTOFCLAIM
+The sentence provides factual past information about Diageo completing the acquisition of a stake in United Spirits Limited in July 2014. It does not make any claim or assertion."
+0,"revenues: net sales during the quarter came in at $680.7 million, beating the zacks consensus estimate of $667 million.","OUTOFCLAIM
+The sentence provides factual past information about the net sales during the quarter, including the specific amount and how it compares to the estimated value. It does not make any claim or assertion."
+0,"share repurchase update during the quarter, keycorp repurchased $120 million worth of shares as part of the 2019 capital plan.","OUTOFCLAIM
+The sentence provides factual past information about KeyCorp repurchasing $120 million worth of shares as part of their 2019 capital plan. It does not make any claim or assertion."
+0,"as of mar 31, oceaneering had cash and cash equivalents of $696 million, and a long-term debt of around $791 million.","OUTOFCLAIM
+The sentence provides factual information about the financial status of Oceaneering, stating the amount of cash and cash equivalents and the long-term debt. It does not make any claim or assertion."
+1,adjusted ebitda is still expected in the range of $540-$560 million.,"INCLAIM
+The sentence contains a claim about the expected range of adjusted EBITDA, indicating a future projection or estimation."
+0,"steady trading performance total darts more than doubled on a year-over-year basis to 1,009,956 during the june-end period, including 25% in derivatives.","INCLAIM
+The sentence includes specific information about the trading performance, indicating a claim or statement about the performance rather than just presenting factual past or present information."
+0,long distance revenues declined 17.5% to $124.33 million as a result of ongoing nas access line erosion.,"OUTOFCLAIM
+The sentence provides factual past information about the decline in long distance revenues, attributing it to ongoing NAS access line erosion. It does not make any claim or assertion."
+1,the company is estimated to spend around $8 billion on original content and almost $13 billion on total content in 2018.,"OUTOFCLAIM
+The sentence provides factual information about the company's estimated spending on original content and total content in 2018. It does not make any claim or assertion."
+0,contract drilling services plunged 30.4% year over year and contributed $259.7 million to total revenues.,"INCLAIM
+The sentence contains a claim about the decrease in contract drilling services, indicating a change in performance compared to the previous year."
+0,"in the first half 2017, the company's net cash from operating activities totaled $57.9 million, down 66.4% from the year-ago period.","OUTOFCLAIM
+The sentence provides factual past information about the company's net cash from operating activities in the first half of 2017, without making any claim or assertion."
+0,sales from the international segment declined 3.2% to $120 million.,"OUTOFCLAIM
+The sentence provides factual past information about the decline in sales from the international segment, without making any claims or assertions."
+0,"in june 2017, the county of calaveras indicated that it intends to levy a penalty amount of $85 million on the company.","INCLAIM
+The sentence contains a claim that the county of Calaveras intends to levy a penalty amount of $85 million on the company."
+0,"additionally, operating income decreased 15.8% to $122.74 million (on a reported basis) due to costs associated with rail purchase transportation.","OUTOFCLAIM
+The sentence provides factual past information about the decrease in operating income and the reason for the decrease, which is the costs associated with rail purchase transportation. It does not make any claim or assertion."
+0,total product units shipped in the quarter increased 12.7% year over year while average selling prices grew 3.9%.,"OUTOFCLAIM
+The sentence provides factual past or present information about the increase in total product units shipped and the growth in average selling prices. It does not make any claim or assertion."
+0,"international consumer and network services’ net income amounted to $209 million, down 8% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the net income of international consumer and network services, without making any claims or assertions."
+0,the company has 130 of them in its fleet with 98% under contract.,"OUTOFCLAIM
+The sentence provides factual information about the company's fleet, stating that it has 130 of them and 98% are under contract. It does not make any claims or assertions."
+0,"the figure also increased 12.7% year over year due to a robust performance in healthcare/life sciences and industrial/commercial sectors and higher asia-pacific (apac) and europe, the middle east and africa (emea) revenues.","OUTOFCLAIM
+The sentence provides factual past information about the increase in the figure, performance in specific sectors, and higher revenues in certain regions. It does not make any claims or assertions."
+1,"annual dividend per share is projected at c$2.87, reflecting a dividend pay- out policy of 65-75%.","INCLAIM
+The sentence is classified as INCLAIM because it includes a claim about the projected annual dividend per share, indicating a future expectation or projection rather than just stating factual past or present information."
+0,"average revenues per operating day decreased to $20,950 from $21,640 in the fourth quarter of 2016.","OUTOFCLAIM
+The sentence provides factual past information about the decrease in average revenues per operating day in the fourth quarter of 2016. It does not make any claim or assertion."
+1,outlook: applied industrial anticipates to bolster its sales by 4-5% in fiscal 2018 (ending june 2018).,"INCLAIM
+The sentence contains a claim about the company's sales growth in fiscal 2018."
+0,"*£1=$1.27 (average price of the half year ended dec 31, 2016).","OUTOFCLAIM
+The sentence provides factual past information about the average exchange rate between British pounds and US dollars for the specified time period. It does not make any claims or assertions."
+0,"its top five customers comprised 69.9% and 73.9% of revenues in fiscal 2017 and fiscal 2016, respectively.","The sentence is OUTOFCLAIM.
+The sentence provides factual past information about the percentage of revenues generated by the top five customers in fiscal 2017 and fiscal 2016. It does not make any claim or assertion."
+1,the carrier predicts revenues to plunge approximately 70% year over year in the december quarter from its earlier expectation of a slump of nearly 65%.,"INCLAIM
+The sentence contains a claim about the carrier's prediction of a significant decrease in revenues, indicating a future outcome rather than just factual past or present information."
+0,"during 2017, 33.1% of the company’s energy deliveries were from renewable energy sources, exceeding the annual renewable portfolio standard (rps) target of 27%.","INCLAIM
+The sentence contains a claim that states that 33.1% of the company's energy deliveries were from renewable energy sources, exceeding the annual renewable portfolio standard (rps) target of 27%."
+0,shares worth $10- $15 million in each quarter of fiscal 2018.,"OUTOFCLAIM
+The sentence provides factual past information about the value of shares in each quarter of fiscal 2018. It does not make any claim or assertion."
+0,total adjusted operating profit declined 6.4% to $55.6 million.,"OUTOFCLAIM
+The sentence provides factual past information about the decline in total adjusted operating profit, without making any claims or assertions."
+0,"range within 9- 10%, up from 8.3% in fiscal 2017 on the back of sales expansion and cost & operational discipline.","OUTOFCLAIM
+The sentence provides factual past information about the range of growth percentages in fiscal 2017, sales expansion, and cost & operational discipline. It does not make a claim or statement about future outcomes."
+0,"consolidated gross profit margin contracted 27 basis points (bps) to 23.8% on account of pricing, elevated transportation expenses and e-commerce mix impacts.","OUTOFCLAIM
+The sentence provides factual information about the contraction of the consolidated gross profit margin due to pricing, elevated transportation expenses, and e-commerce mix impacts. It does not make any claim or assertion."
+0,"commercial cloud gross margin was 62%, up 4 percentage points year over year, owing to improvement in azure gross margin.","INCLAIM
+The sentence is classified as INCLAIM because it includes a claim about the improvement in commercial cloud gross margin, specifically mentioning a 4 percentage point increase year over year due to the improvement in azure gross margin."
+0,"owing to these factors and lower margins from unified grocers, adjusted gross margin contracted 310 bps to 10.5% in the third quarter.","The sentence is INCLAIM.
+The sentence includes a claim about the contraction of adjusted gross margin due to certain factors and lower margins from unified grocers."
+0,"pursuant to thisdeal, agnico eagle (provided it owns at least a 10% stake in goldquest) will have the right to participate in equity financings bygoldquest to maintain its pro rata ownership in goldquest at the time of any such financing or buy up to a 15% ownership stake ingoldquest after giving effect to any such financing.","The sentence is INCLAIM.
+The sentence describes a specific agreement between Agnico Eagle and Goldquest regarding their ownership stakes and participation in equity financings. It includes a claim about Agnico Eagle's right to maintain its ownership in Goldquest or potentially increase its ownership stake."
+0,marketing spend declined 6% with reductions in brazil partially offset by increased spend in mexico.,"OUTOFCLAIM
+The sentence provides factual information about the decline in marketing spend and the specific regions where the reductions and increases occurred. It does not make any claims or assertions."
+0,"at the end of third-quarter 2017, bce had 2,825,754 tv subscribers, up 2.9% compared with 2,745,873 in the year-ago quarter.","OUTOFCLAIM
+The sentence provides factual past information about the number of TV subscribers at the end of the third quarter in 2017. It does not make any claims or assertions."
+0,"within this, subscription fees from the united states accounted for $108 million or 79% of total access fees (up 33% year over year) while international subscription fees accounted for the remaining 21% or $29.1 million (up 17%).","INCLAIM
+The sentence contains specific financial information about subscription fees, indicating a claim about the revenue generated from subscriptions in the United States and internationally."
+0,the segment generated 3% of net revenues in 2018.,"OUTOFCLAIM
+The sentence provides factual past information about the segment generating 3% of net revenues in 2018. It does not make any claim or assertion."
+0,"remotely operated vehicles (rovs): the rovs unit (accounted for 21% of the company’s 2018 revenues) primarily provides remotely operated submersible vehicles for drill support, vessel-based inspection, subsea hardware installation, pipeline surveys and maintenance services.","INCLAIM
+The sentence contains a claim about the company's revenues and the services provided by the remotely operated vehicles unit."
+0,"now, the cpuc may not allow sce to recover the required contribution made pursuant to this loss sharing program in the case of one or more nuclear incidents with claims that exceeded $450 million at a nuclear reactor, which is participating in the program.","INCLAIM
+The sentence contains a claim about the possibility of the CPUC not allowing SCE to recover the required contribution in the case of nuclear incidents with claims exceeding $450 million."
+1,"for 2017, the company expects operating expenses to be lower than $10.9 billion.","OUTOFCLAIM
+The sentence provides factual information about the company's expectation for operating expenses in 2017. It does not make a claim or assertion."
+0,"reasons to buy: on mar 27, 2017, bce inc.’s subsidiary, bell canada , announced plans to invest $854 million in a project that aims to connect millions of homes and businesses in montreal with their fastest broadband fibre technology.","INCLAIM
+The sentence contains a claim, which is the announcement of plans to invest $854 million in a project to connect millions of homes and businesses in Montreal with their fastest broadband fibre technology."
+1,"still, gross margins are likely to increase by approximately $5 million sequentially.","OUTOFCLAIM
+The sentence provides factual information about the likelihood of gross margins increasing by approximately $5 million sequentially. It does not make a claim or assertion."
+0,"notably, customers were net buyers of $7.3 billion of securities compared with the net buyers of $0.3 billion recorded in the prior-year quarter.","The sentence is OUTOFCLAIM.
+Explanation: The sentence provides factual past information about customers being net buyers of securities in the current quarter compared to the prior-year quarter. It does not make any claim or assertion."
+0,"also, the company allocated $1.5 billion toward dividends and made share buybacks worth $3.2 billion during the fourth quarter.","OUTOFCLAIM
+The sentence provides factual past information about the company's allocation of funds towards dividends and share buybacks during the fourth quarter. It does not make any claims or assertions."
+1,"though the company maintained its combined ratio outlook for property and transportation group and specialty casualty group, for specialty financial group, combined ratio is expected between 88% and 92%, up from the prior guidance of 86% to 90%.","INCLAIM
+The sentence contains specific information about the expected combined ratio for the specialty financial group, indicating a claim or prediction about future performance."
+1,"earlier, management retained long-term target of more than $185 million in cost savings including synergies stemming from last year's acquisition of supervalu by the end of fiscal 2022.","INCLAIM
+The sentence contains a claim about the management's retention of a long-term cost savings target, indicating a future goal or plan."
+0,"american express' return on average common equity (roce) was 21.7% as of jun 30 2017, down 470 basis points year over year.","OUTOFCLAIM
+The sentence provides factual past information about American Express' return on average common equity (roce) being 21.7% as of Jun 30, 2017, and it being down 470 basis points year over year. It does not make any claim or assertion."
+0,"in third-quarter fiscal 2018, identical store sales dropped 3.5%, which along with store closures caused net sales at the retail unit to dropped 4.1% to $1,017 million.","OUTOFCLAIM
+The sentence provides factual past information about the drop in identical store sales and net sales at the retail unit. It does not make any claim or assertion."
+0,"moreover, the company’s organic operating profit grew 9%, ahead of sales growth, owing to improved price/mix and efficiencies from the productivity program.","OUTOFCLAIM
+The sentence provides factual information about the company's organic operating profit growing 9% ahead of sales growth, owing to improved price/mix and efficiencies from the productivity program. It does not make any specific claim or assertion."
+1,"notably, the company is investing c$1.14 billion (us $920 million) to raise browsing speeds to 1 gbit/s or higher by 2016.","INCLAIM
+The sentence is labeled as INCLAIM because it includes a claim about the company's investment of c$1.14 billion to raise browsing speeds to 1 gbit/s or higher by 2016."
+0,"we note that other revenue soared 29.7% to $45 million during the quarter under review mainly due to revenue earned from television series, “the weekly,” and growth in commercial printing operations.","The sentence is INCLAIM.
+The sentence includes a claim about the increase in revenue earned from television series and growth in commercial printing operations."
+0,gross margin contracted 150 basis points (bps) to 49%.,"OUTOFCLAIM
+The sentence provides factual information about the contraction of the gross margin by 150 basis points to 49%. It does not make any claim or assertion."
+0,"in sync with this strategy, the company increased its shareholding in shui jing fang from 40% to just over 63% in fiscal 2019.","The sentence is OUTOFCLAIM.
+Explanation: The sentence provides factual past information about the company increasing its shareholding in Shui Jing Fang from 40% to just over 63% in fiscal 2019. It does not make any claim or assertion."
+0,"the effective tax rate was 31%, reflecting a decrease from 33% in the year-ago quarter.","OUTOFCLAIM
+The sentence provides factual past information about the effective tax rate, indicating a decrease from the previous year. It does not make any claim or assertion."
+1,the zacks consensus estimate for 2017 sales is pegged at $103.51 million.,"OUTOFCLAIM
+The sentence provides factual information about the Zacks consensus estimate for 2017 sales, without making any claim or assertion."
+0,"the fragrances segment (52% of net revenues in 2016) provides various functional fragrances like fragrance compounds for personal care and household products, fine fragrance and beauty care products like perfumes, colognes and toiletries as well as synthetic ingredients that could be combined with other materials to create functional and fine fragrance compounds.","INCLAIM
+The sentence contains information about the fragrances segment providing various functional fragrances and beauty care products, indicating a claim about the capabilities and offerings of the segment."
+0,"growth catalysts: in the past six months, the company’s shares have increased 17%, outperforming the industry’s gain of 2%.","OUTOFCLAIM
+The sentence provides factual past information about the company's shares increasing by 17% in the past six months, outperforming the industry's gain of 2%. It does not make any claim or assertion."
+0,first- half operating margin expanded 210 bps to 9.1%.,"OUTOFCLAIM
+The sentence provides factual past information about the expansion of the operating margin in the first half, without making any claims or assertions."
+1,"also, walmart’s buyout of 77% stake in flipkart is likely to bolster walmart’s e- commerce sales in the long run, though the deal is expected to hurt the bottom line in fiscal 2020.","INCLAIM
+The sentence contains a claim that Walmart's buyout of a 77% stake in Flipkart is likely to bolster Walmart's e-commerce sales in the long run."
+0,"at first quarter-end, cash and cash equivalents of the company was $2,021 million compared with its current debts of $2,464 million.","OUTOFCLAIM
+The sentence provides factual past or present information about the company's cash and cash equivalents and its current debts. It does not make any claim or assertion."
+0,"excluding supervalu’s impact, legacy sales in this unit fell 9%.","OUTOFCLAIM
+The sentence provides factual past information about the sales in a specific unit, indicating that they fell by 9% excluding the impact of Supervalu."
+0,"google has focused on sales and marketing (s&m expenses were around 9.5% of sales in 2010, going up to around 12% in each of the next five years).","OUTOFCLAIM
+The sentence provides factual past information about Google's sales and marketing expenses, without making any claims or assertions."
+0,"however, average settlement price was $365.5k, reflecting a decrease of 1.3% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the average settlement price, indicating a decrease of 1.3% year over year. It does not make a claim or assert any future predictions or expectations."
+0,"notably, average price realization for crude oil and condensates fell 67% year over year to $20.40 per barrel.","OUTOFCLAIM
+The sentence provides factual past information about the average price realization for crude oil and condensates, without making any claim or assertion."
+0,"also, it surpassed the full-year zacks consensus estimate for ffo of $3.38 per share.","OUTOFCLAIM
+The sentence provides factual past information about surpassing the full-year Zacks consensus estimate for FFO of $3.38 per share. It does not make a claim or statement about future events or expectations."
+0,"at fiscal second quarter-end, toll brothers had $2 billion of total liquidity, comprising $741 million in cash and $1.3 billion in unused revolver capacity.","OUTOFCLAIM
+The sentence provides factual information about Toll Brothers' total liquidity at fiscal second quarter-end, including the amount of cash and unused revolver capacity. It does not make any claims or assertions."
+0,"total long-term debt was $2,667 million at the end of the quarter, down 20.3% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the total long-term debt, without making any claim or assertion."
+0,worldwide arpu stayed at $7.05.,"OUTOFCLAIM
+The sentence provides factual information about the worldwide average revenue per user (ARPU) staying at $7.05. It does not make any claim or assertion."
+0,"net sales in timberlands (accounting for 33.8% of total net sales) during the first quarter declined 12% from the year-ago figure, primarily attributable to decreased western log sales realizations and sales volumes.","The sentence is OUTOFCLAIM.
+Explanation: The sentence provides factual past information about the decline in net sales in timberlands during the first quarter. It does not make any claim or assertion."
+1,"analytical instruments: formerly known as analytical technology, this segment (21.5%) has been renamed in order to reflect the transfer of the bioprocess production business to the newly formed life sciences solutions segment.","OUTOFCLAIM
+The sentence provides factual information about the renaming of the analytical instruments segment to reflect the transfer of the bioprocess production business. It does not make any claim or assertion."
+0,"concrete (9.2%): the concrete segment deals with the production and sale of ready-mix concrete in six u.s. states, washington d.c. and the bahamas.","OUTOFCLAIM
+The sentence provides factual information about the concrete segment, its production, and sale locations. It does not make any claim or assertion."
+0,"for 2016, kimco’s share of shopping center dispositions aggregated $982.4 million from the sale of interests in 34 canadian properties for $571.5 million as well as 31 u.s. properties for $410.9 million.","OUTOFCLAIM
+The sentence provides factual past information about Kimco's share of shopping center dispositions in 2016, including the amounts and details of the properties sold. It does not make any claims or assertions."
+0,the company recorded first-quarter net realized gains on securities of $1.61 per share after tax and acquisition costs (dac) that consist of $1.40 in after tax post dac against the prior-year quarterly net realized losses of 82 cents.,"The sentence is INCLAIM.
+The sentence includes a claim about the company recording net realized gains on securities in the first quarter."
+0,"the information solutions segment’s revenue was ¥257.4 billion ($2,265.5 million), representing 40.8% of the total revenue, while the document solutions segment generated ¥290.8 billion ($2,560.2 million), accounting for 45.8% of the total revenue.","OUTOFCLAIM
+The sentence provides factual past or present information about the revenue generated by the information solutions segment and the document solutions segment, without making any claims or assertions."
+1,the company continued to progress on cost reduction initiatives and is on track to reduce $1 billion from cost based on a run-rate basis by the end of 2017.,"INCLAIM
+The sentence contains a claim about the company's progress on cost reduction initiatives and its goal to reduce $1 billion from cost by the end of 2017."
+0,"the stock dipped 7.3% in the past year, while the industry recorded a decline of 9.1%.","OUTOFCLAIM
+The sentence provides factual past information about the stock's performance and the industry's decline, without making any claims or assertions."
+0,"the number of net signed contracts or orders during the reported quarter was 1,886 units, down 22% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the number of net signed contracts or orders during the reported quarter being 1,886 units, which is down 22% year over year. It does not make any claim or assertion."
+1,italso plans to repurchase up to $4.4 billion of common shares during the comprehensive capital analysis and review (ccar) approvalperiod from the third quarter of 2017 to the second quarter of 2018.,"INCLAIM
+The sentence contains a claim about the company's plan to repurchase common shares during a specific time period."
+0,guidance myriad genetics has raised the guidance for fiscal 2018 revenues to $771-$773 million from $760-$770 million.,"INCLAIM
+The sentence contains a claim about the guidance for fiscal 2018 revenues being raised to a specific range of $771-$773 million from a previous range of $760-$770 million."
+0,"total debt as of mar 31 2020 was $447.2 million, up 1.6% from the level as of dec 31, 2019.","OUTOFCLAIM
+The sentence provides factual past information about the total debt, without making any claim or assertion."
+0,"last earnings report jetblue posts q3 loss, suffers weak load factor jetblue incurred a loss (excluding 31 cents from non-recurring items) of $1.75 per share, comparing favorably with the zacks consensus estimate of a loss of $1.91.","INCLAIM
+The sentence contains information about JetBlue's earnings report, specifically mentioning a loss incurred by the company. This is a claim about the financial performance of JetBlue, making it an INCLAIM sentence."
+0,"as of mar 31, 2020, keycorp had long-term debt worth $13.7 billion.","OUTOFCLAIM
+The sentence provides factual past information about KeyCorp's long-term debt as of March 31, 2020, without making any claim or assertion."
+0,"recently, the company was hit with a record antitrust fine of $2.7 billion (or about €2.4 billion) by european union regulators.","INCLAIM
+The sentence contains a claim about the company being hit with a record antitrust fine, which is not just factual past or present information."
+0,"net income came in at $318 million, up 31% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the net income, without making any claim or assertion."
+0,non-gaap operating margin from continuing operations contracted 170 basis points to 7.7%.,"OUTOFCLAIM
+The sentence provides factual past information about the contraction of non-GAAP operating margin from continuing operations by 170 basis points to 7.7%. It does not make a claim or assertion."
+0,"also, the company has total cash and cash equivalents (including marketable securities) of $147.5 million to support its growth projects.","OUTOFCLAIM
+The sentence provides factual information about the company's total cash and cash equivalents, which does not involve any claim or assertion."
+0,"the company reported non-gaap operating loss of $3.6 million against operating income of $4.3 million in the prior-year quarter, primarily due to the company’s annual user and developer conference, signal, held in august.","OUTOFCLAIM
+The sentence provides factual past information about the company's financial performance, specifically mentioning the non-GAAP operating loss and operating income in the prior-year quarter. It does not make any claim or assertion."
+0,"provision for loan losses came in at $5.4 million, up 22.7% year over year.","INCLAIM
+The sentence includes a claim about the provision for loan losses increasing by 22.7% year over year."
+0,"further it used $79 million to pay down debt, $35 million to pay a dividend to common shareholders and $12 million for restructuring payments.","OUTOFCLAIM
+The sentence provides factual information about how $79 million was used to pay down debt, $35 million was used to pay a dividend to common shareholders, and $12 million was used for restructuring payments. It does not make any claims or assertions."
+0,earnings during the first quarter came in at $0.09 per share.,"OUTOFCLAIM
+The sentence provides factual past information about the earnings during the first quarter, without making any claim or assertion."
+0,"long-term debt was $3,681 million, up 7.5% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the long-term debt, without making any claim or assertion."
+0,"following wrestlemania 33 wwe network,a subscription-based streaming service launched in 2014, reached a record 1.95 million total subscribers, up 7% from apr 4 last year.","INCLAIM
+The sentence contains a claim about the number of subscribers reaching a record high after WrestleMania 33."
+1,"in addition, $7.3 trillion of combinedcurrent customer assets is likely to generate significant revenue opportunities.","INCLAIM
+The sentence contains a claim that the $7.3 trillion of combined current customer assets is likely to generate significant revenue opportunities."
+0,"this is clear from its decision to merge its soft u.k. grocery unit, asda with sainsbury and sale of 80% of its stake in the underperforming brazilian business.","OUTOFCLAIM
+The sentence provides factual information about a company's decision to merge its soft U.K. grocery unit, Asda, with Sainsbury and sell 80% of its stake in the underperforming Brazilian business. It does not make any claims or assertions."
+0,"last earnings report liberty global incurs loss in q3, revenues up y/y liberty global’s third-quarter 2020 net loss was $1.02 billion against the year-ago quarter’s earnings of $12.85 billion.","OUTOFCLAIM
+The sentence provides factual past information about Liberty Global's earnings report in Q3. It does not make any claim or assertion."
+0,revenues from automotive insurance vertical increased 29.7% year over year to $64.6 million.,"INCLAIM
+The sentence contains a claim about the increase in revenues from the automotive insurance vertical, indicating a specific percentage increase and the amount in dollars."
+1,"capital spending will be primarily used to seize opportunities in the emerging markets, and as a percentage of sales, it is projected in the range of 3-3.5%.","INCLAIM
+The sentence contains a claim about the purpose and projected percentage of capital spending, indicating future plans and expectations."
+0,laboratory products and services (lps): this segment (41.9%) serves laboratory customers with equipment and consumables that improve productivity and a range of biopharma outsourcing services.,"OUTOFCLAIM
+The sentence provides factual information about the segment ""laboratory products and services"" and its offerings, without making any specific claims or assertions."
+1,the airline estimates capacity for the fourth quarter to decline 45-50% year over year.,"INCLAIM
+The sentence contains a claim about the airline estimating a decline in capacity for the fourth quarter, which is a future prediction rather than just factual past or present information."
+0,"subsea projects: this segment (17%) is engaged in providing subsea oilfield hardware installation, inspection and intervention services for the deepwater and shallow water projects in the u.s. gulf of mexico and offshore angola.","INCLAIM
+The sentence contains a claim about the segment's engagement in providing subsea oilfield hardware installation, inspection, and intervention services for specific projects in the U.S. Gulf of Mexico and offshore Angola."
+0,"moreover, the company has a share repurchase program in place under which it is authorized to buy back shares worth $750 million, with no expiration date.","OUTOFCLAIM
+The sentence provides factual information about the company having a share repurchase program in place with a specific authorized amount and no expiration date. It does not make any claim or assertion."
+0,"apple quoted a recent survey report from 451 research, which stated that overall consumer and business satisfaction was 95% and 97%, respectively, for ipad.","OUTOFCLAIM
+The sentence provides factual past or present information about a survey report and consumer and business satisfaction ratings for iPad. It does not make any claims or assertions."
+0,energizer generated $1.8 billion revenues in fiscal 2018.,"OUTOFCLAIM
+The sentence provides factual past information about the revenue generated by Energizer in fiscal 2018. It does not make any claim or assertion."
+0,"further, pure storage has been incurring operating losses since inception and has an accumulated deficit of $967.9 million as of apr 30, 2018.","OUTOFCLAIM
+The sentence provides factual past information about Pure Storage incurring operating losses since inception and having an accumulated deficit of $967.9 million as of Apr 30, 2018. It does not make any claim or assertion."
+0,"notably, over the past three years, the company has increased its quarterly dividends by more than 46%.","OUTOFCLAIM
+The sentence provides factual past information about the company increasing its quarterly dividends by more than 46% over the past three years. It does not make a claim or statement about future events or expectations."
+1,the partnership continues to expect 12-15% per year growth for limited partner distributions through 2024.,"INCLAIM
+The sentence contains a claim about the partnership's expectation of 12-15% per year growth for limited partner distributions through 2024."
+0,"in the first quarter 2019, liquid asphalt costs increased 29% from the prior-year quarter and asphalt gross profit was lower than a year ago.","OUTOFCLAIM
+The sentence provides factual past information about the increase in liquid asphalt costs and lower asphalt gross profit compared to the previous year. It does not make any claim or assertion."
+0,"in the second quarter of 2019, the company’s professional services unit posted revenues of $30.5 million, up 19.8% from the prior-year quarter.","OUTOFCLAIM
+The sentence provides factual past information about the company's professional services unit's revenues in the second quarter of 2019. It does not make any claim or assertion."
+0,"total revenue for the quarter was $297 million, up 2% from the year-ago quarter.","OUTOFCLAIM
+The sentence provides factual past information about the total revenue for the quarter being $297 million, which is an increase of 2% compared to the year-ago quarter. It does not contain any claim or speculative statement."
+1,principal international is expected to deliver net revenue growth between 5% and 9% in 2019.,"INCLAIM
+The sentence contains a claim about the expected net revenue growth of Principal International in 2019."
+0,health & home segment (46%) offers products related to home environment and healthcare.,"OUTOFCLAIM
+The sentence provides factual information about the health & home segment and its products, without making any claims or assertions."
+0,"in the first half of the year, operating loss was ¥2.3 billion compared with ¥2.1 billion loss in the year-ago quarter industrial metrology and others business’ operating profit declined 23.8% to ¥1.6 billion.","OUTOFCLAIM
+The sentence provides factual past information about the operating loss and operating profit of the industrial metrology and others business. It does not make any claim or assertion."
+1,variable marketing margin is projected to be $26.5-$28 million.,"INCLAIM
+The sentence contains a specific projection or estimate of the variable marketing margin, indicating a claim about future financial performance."
+1,full-year 2020 lease and well costs are expected within $4.10-$4.50 per boe.,"OUTOFCLAIM
+The sentence provides factual information about the expected lease and well costs for the full year 2020. It does not make a claim or assertion."
+1,the company estimates that this act will result in reimbursement reductions impacting therapies representing approximately 3-4% of total revenues.,"INCLAIM
+The sentence contains a claim about the estimated impact of an act on reimbursement reductions, which directly affects the company's total revenues."
+0,enterprise business solutions (“ebs”) revenues climbed 3% year over year to $222 million.,"OUTOFCLAIM
+The sentence provides factual past information about the revenue growth of enterprise business solutions (""ebs"") without making any claim or assertion."
+0,"other financial details energizer ended the quarter with cash and cash equivalents of $206.4 million, long-term debt of $3,493.2 million and shareholders' equity of $570.7 million.","OUTOFCLAIM
+The sentence provides factual information about the financial details of Energizer, including the amount of cash and cash equivalents, long-term debt, and shareholders' equity. It does not make any claims or assertions."
+0,comps at yard house inched up 2% in the quarter against a 0.4% decline in the last quarter.,"OUTOFCLAIM
+The sentence provides factual past information about the performance of Yard House, stating that their comps (comparable sales) increased by 2% in the current quarter compared to a decline of 0.4% in the previous quarter. It does not make any claim or assertion."
+0,"at the end of the reported quarter, bce served 1,517,833 iptv subscribers, up 16.6% from the prior-year quarter.","OUTOFCLAIM
+The sentence provides factual past information about the number of IPTV subscribers served by BCE at the end of the reported quarter. It does not make any claim or assertion."
+0,"gross margin flat y/y in the quarter under review, mrc global’s cost of sales declined 10.5% year over year to $810 million.","OUTOFCLAIM
+The sentence provides factual past or present information about the gross margin and cost of sales, without making any claims or assertions."
+0,"operation and maintenance costs decreased 10.3% year over year, while purchased power and fuel costs dropped 6.1%.","OUTOFCLAIM
+The sentence provides factual information about the decrease in operation and maintenance costs and purchased power and fuel costs. It does not make any claims or assertions."
+0,"as of sep 30, 2017, the company had 54% of available rig operating days committed for 2017, which included 36% of floating rig days and 73% of jackup rig days.","The sentence is OUTOFCLAIM.
+The sentence provides factual past information about the company's rig operating days commitment for 2017. It does not make any claim or assertion."
+0,"digital commerce solutions reported 9% year-over-year growth in sales to $166 million, on the back of strong global e-commerce business (up 17%).","INCLAIM
+The sentence contains a claim about the growth in sales of digital commerce solutions, indicating a specific percentage increase in sales compared to the previous year."
+0,"completion & production solutions: revenues for the segment were recorded at $682 million, up 25.6% from $543 million in the year-ago quarter and just ahead of our $679 million estimate.","OUTOFCLAIM
+The sentence provides factual past information about the revenues for the segment, without making any claims or assertions."
+0,net cash from operating activities came in at $28.9 million for the first quarter of fiscal 2019.,"OUTOFCLAIM
+The sentence provides factual past information about the net cash from operating activities for the first quarter of fiscal 2019. It does not make any claim or assertion."
+1,net income is anticipated to be $104-$147 million.,"INCLAIM
+The sentence contains a claim about the anticipated net income, indicating a future expectation rather than just stating a factual past or present information."
+0,"in the first quarter, beauty segment sales dropped 5.8%, worse than the previous quarter’s dip of 2.1%.","OUTOFCLAIM
+The sentence provides factual past information about the sales performance of the beauty segment in the first quarter. It does not make any claim or assertion."
+0,"details of the twin transactionsas noted, the viking seatech business generated roughly $20 million revenues in the trailing 12 months.","OUTOFCLAIM
+The sentence provides factual past information about the revenue generated by the Viking Seatech business in the trailing 12 months. It does not make any claim or assertion."
+1,"for the full year, base revenues are estimated within $1.053-$1.055 billion, down from the previous prediction of $1.064-$1.068 billion.","INCLAIM
+The sentence contains a claim about the estimated base revenues for the full year, which is a prediction or projection of future financial performance."
+0,"consequently, the segment recorded operating loss of $16.4 million – significantly narrower than the loss of $62.5 million incurred in the year-earlier quarter.","INCLAIM
+The sentence contains a comparison between the operating loss in the current quarter and the loss in the year-earlier quarter, indicating a claim about the improvement in the segment's performance."
+0,"reasons to buy: over the last three months, pilgrim's pride’s shares yielded a return of 19.7%, outperforming 7.3% growth registered by the industry.","OUTOFCLAIM
+The sentence provides factual past information about the performance of Pilgrim's Pride's shares over the last three months, comparing it to the industry's growth. It does not make any claim or assertion."
+0,"revenue discussion total revenues in the reported quarter moved up 3.1% year over year to $395.1 million, which lagged the zacks consensus estimate by 0.6%.","OUTOFCLAIM
+The sentence provides factual past information about the total revenues in the reported quarter, including the percentage increase and the specific amount. It does not make any claim or assertion."
+0,"exiting the third quarter 2017, praxair had long-term debt of approximately $8.2 billion, while its debt-to-capital ratio was 56.1%.","INCLAIM
+The sentence contains factual past information about the long-term debt and debt-to-capital ratio of Praxair."
+1,"moreover, applied industrial anticipates to bolster its sales by 17.5-18.5%, higher than the prior guidance of 6-7%.","INCLAIM
+The sentence contains a claim about the company's anticipated sales growth, which is higher than the previous guidance."
+0,this compares favorably with roe of 12.3% for the industry it belongs to.,"OUTOFCLAIM
+The sentence provides factual past or present information by comparing the return on equity (ROE) of a particular industry, indicating that it does not consist of a claim."
+0,"in the preceding quarter, total advertising revenue had edged down 0.4%.","OUTOFCLAIM
+The sentence provides factual past information about the decrease in total advertising revenue in the preceding quarter. It does not make any claim or assertion."
+0,"last earnings report phibro animal health reported adjusted earnings per share (eps) of $0.37 in the third quarter of fiscal 2017, down 7.5% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the earnings report of Phibro Animal Health, including the adjusted earnings per share (eps) and the percentage decrease in earnings compared to the previous year. It does not make any claim or assertion."
+0,"on the bottom-line front, the company lifted the adjusted eps range to $1.19-$1.21 from $1.11-$1.16.","INCLAIM
+The sentence contains a claim about the company lifting the adjusted EPS range, indicating a change in financial performance."
+0,"total revenue, net of interest expenses, remained flat year over year at $1.2 billion.","OUTOFCLAIM
+The sentence provides factual past or present information about the total revenue, without making any claim or assertion."
+0,"long-term debt was $3,890 million as of sep 30, 2020 compared with $4,132 million as of dec 31, 2019.","OUTOFCLAIM
+The sentence provides factual past information about the long-term debt amounts as of two different dates. It does not make any claim or assertion."
+0,the company raised its quarterly dividend by 13% to 31 cents from 27.5 cents a share.,"INCLAIM
+The sentence includes a claim about the company raising its quarterly dividend by 13%."
+1,"earnings per share will be roughly 75-95 cents, revised from the previously stated 70 cents to $1.00.","INCLAIM
+The sentence contains a claim about the revised earnings per share range, indicating a specific expectation or projection."
+1,adjusted earnings per share is expected between $3.00 and $3.05 for 2020.,"INCLAIM
+The sentence contains a claim about the expected adjusted earnings per share for 2020."
+0,the company generated $318 million of cash from operating activities in fiscal 2018.,"OUTOFCLAIM
+The sentence provides factual past information about the company's cash generation in fiscal 2018, without making any claims or assertions."
+0,"service revenues increased 11.2% to $1,524.66 million.","OUTOFCLAIM
+The sentence provides factual past information about the increase in service revenues, without making any claims or assertions."
+0,"earnings also jumped 32% year over year, mainly driven by improved performance in all product lines, along with lower corporate costs.","INCLAIM
+The sentence contains a claim about the earnings jumping 32% year over year, which is not just factual past or present information."
+0,"in the second quarter, the company had generated free cash flow of $12.6 million compared with a negative free cash flow of $7.5 million in the year-ago quarter.","OUTOFCLAIM
+The sentence provides factual past information about the company's free cash flow in the second quarter compared to the year-ago quarter. It does not make any claim or assertion."
+0,agnico-eagle operates through two broader segments: northern business (79% of 2016 production) and southern business (21%).,"OUTOFCLAIM
+The sentence provides factual information about the two segments of Agnico-Eagle, without making any claims or assertions."
+0,"during the first, second and fourth quarters of fiscal 2016, comparable-store sales increased 2.2%, 0.7% and 1%, respectively.","OUTOFCLAIM
+The sentence provides factual past information about the increase in comparable-store sales during specific quarters of fiscal 2016. It does not make any claims or assertions."
+0,"on transaction closure, agnico eagle will ownaround 15% of the issued and outstanding common shares of goldquest on a non-diluted basis.","INCLAIM
+The sentence contains information about the ownership percentage of Agnico Eagle in Goldquest, which is a claim rather than just factual past or present information."
+0,"capital expenditure amounted to $15.4 million in this period, reflecting a reduction from $28.6 million in the first nine months of fiscal 2016.","OUTOFCLAIM
+The sentence provides factual past information about the capital expenditure amount in two different periods, without making any claim or assertion."
+0,"notably, more than 30,000 third-party subscription apps are available on app store and the largest of them accounts for only 0.25% of apple’s total services revenues.","OUTOFCLAIM
+The sentence provides factual information about the number of third-party subscription apps available on the app store and the revenue contribution of the largest app. It does not make any claims or assertions."
+0,the company delivered second-quarter earnings of 62 cents per share that fell short of the zacks consensus estimate of 90 cents and declined 34% year over year.,"OUTOFCLAIM
+The sentence provides factual past information about the company's second-quarter earnings, including the earnings per share, the comparison to the consensus estimate, and the year-over-year decline. It does not make any claim or assertion."
+0,"operating expenses of $9.22 billion were up almost 8% (up 8% at cc) from the year-ago quarter due to higher investments in commercial sales capacity, cloud engineering and linkedin.","INCLAIM
+The sentence contains a claim about the increase in operating expenses, specifically mentioning the percentage increase and the reasons for the increase."
+0,hp’s non-gaap net income from continuing operations came in at $735 million compared with $826 million reported a year ago.,"OUTOFCLAIM
+The sentence provides factual past information about HP's non-GAAP net income from continuing operations, comparing the current value to the value reported a year ago. It does not make any claim or assertion."
+0,reportable segments: consumer banking (63.3% of total revenue in 2016) is focused on retail customers and small businesses with annual revenues of up to $25 million.,"OUTOFCLAIM
+The sentence provides factual information about the reportable segments of a company, without making any claims or assertions."
+0,"dte energy had an available liquidity of $2 billion as of mar 31, 2017.","OUTOFCLAIM
+The sentence provides factual past information about DTE Energy's available liquidity as of March 31, 2017, without making any claims or assertions."
+0,"launched 20 years back, the series (with over 260 million units sold so far) continues to be one of the leading contributors to revenues with 39% contribution to net revenue for the year ended mar 31, 2017.","OUTOFCLAIM
+The sentence provides factual past information about the series being launched 20 years ago and its contribution to revenues, but it does not make any specific claim or assertion."
+1,the company anticipates generating roughly 40% of revenues from valves in 2020.,"INCLAIM
+The sentence contains a claim about the company's anticipated revenue generation from valves in 2020."
+0,earnings per share of $0.63 topped the zacks consensus estimate of $0.59.,"INCLAIM
+The sentence includes a claim about the earnings per share exceeding the Zacks consensus estimate."
+0,"at the end of the first quarter, occupancy in the new york portfolio was 96.7%, flat sequentially, and expanding 70 basis points (bps) year over year.","OUTOFCLAIM
+The sentence provides factual past or present information about the occupancy rate in the New York portfolio, without making any claim or assertion."
+1,it expects to generate cash flow of about $100 million from the monetization of some of the projects in coming years.,"INCLAIM
+The sentence contains a claim about the expectation to generate cash flow of about $100 million from the monetization of some projects in the future."
+0,"total had entered into the deal with occidental to acquire anadarko’sassets in africa (algeria, ghana,mozambique, south africa) for a total value of $8.8 billion.","INCLAIM
+The sentence is classified as INCLAIM because it consists of a claim or statement about a business transaction, specifically the acquisition of Anadarko's assets in Africa by Total for a total value of $8.8 billion."
+0,"in less than five years, global ecommerce has grown from $20 million business to a worth of over $400 million.","OUTOFCLAIM
+The sentence provides factual past information about the growth of global ecommerce, without making any specific claim."
+0,"on a non-gaap basis, cirrus logic reported net income of $17.9 million compared with $54.6 million reported in the year-ago quarter.","OUTOFCLAIM
+The sentence provides factual past information about the net income reported by Cirrus Logic in the year-ago quarter. It does not make any claim or assertion."
+0,"notably, aggregate shipments (volumes) were up 12.6% year over year in the first quarter of 2019, following 10% growth in full-year 2018, reflecting solid underlying demand and pent-up demand.","The sentence is INCLAIM.
+The sentence contains a claim about the increase in aggregate shipments (volumes) in the first quarter of 2019, indicating solid underlying demand and pent-up demand."
+0,"segment analysis liquids pipelines: adjusted operating income at this segment was c$1,629 million, up almost 23% from c$1,324 million a year ago.","OUTOFCLAIM
+The sentence provides factual past information about the adjusted operating income at the liquids pipelines segment, without making any claims or assertions."
+0,cirrus logic’s non-gaap operating expenses increased 9.5% on a year-over-year basis to $104.9 million.,"OUTOFCLAIM
+The sentence provides factual past information about the increase in Cirrus Logic's non-GAAP operating expenses on a year-over-year basis. It does not make any claim or assertion."
+1,"further, the company expects to complete approximately $900 million in strategic dispositions in 2017.","INCLAIM
+The sentence contains a claim about the company's expectation to complete approximately $900 million in strategic dispositions in 2017."
+1,"given rate decreases on annuity products and a consistent focus on pricing discipline, the company expects 2019 annuity sales to be flat to down slightly from record $5.4 billion of premiums reported in 2018.","INCLAIM
+The sentence contains a claim about the company's expectation for 2019 annuity sales to be flat to down slightly from the previous year's record premiums."
+0,"in the reported quarter, the company returned $6.1 billion to shareholders in the form of share repurchases and dividends.","OUTOFCLAIM
+The sentence provides factual past information about the company returning $6.1 billion to shareholders in the form of share repurchases and dividends. It does not make any claim or assertion."
+0,"the company had $5.49-billion backlog at fiscal second quarter-end, which is expected to provide cash over the next 9-12 months, as cancellations have remained low according to toll brothers.","INCLAIM
+The sentence contains a claim about the company's backlog and its expected cash flow over the next 9-12 months."
+0,operating margin expanded 280 bps on a year-over-year basis to 34.2%.,"OUTOFCLAIM
+The sentence provides factual past information about the operating margin expanding by 280 basis points on a year-over-year basis to 34.2%. It does not make any claim or assertion."
+1,the company expects its free cash flow to be around $900 million and capital spending will be at least $600 million.,"INCLAIM
+The sentence contains a claim about the company's expected free cash flow and capital spending."
+0,international segment (12.2%) accounts for the operations outside canada and the united states.,"OUTOFCLAIM
+The sentence provides factual information about the international segment and its percentage, without making any claims or assertions."
+1,"markedly, tapestry remains on track to realize about $300 million in gross run rate expense savings, including $200 million projected for fiscal 2021.","INCLAIM
+The sentence contains a claim about tapestry realizing $300 million in gross run rate expense savings, including $200 million projected for fiscal 2021."
+1,the company continues to anticipate capital expenditure for fiscal 2017 to be in the range of $715-$765 million.,"OUTOFCLAIM
+The sentence provides factual information about the company's anticipated capital expenditure for fiscal 2017, without making any claims or assertions."
+0,the segment accounted for 74% of total revenues in 2017.,"OUTOFCLAIM
+The sentence provides factual past information about the segment's contribution to total revenues in 2017. It does not make any claim or assertion."
+0,"the retail space is approximately 98% leased, while residential units are 49% leased.","OUTOFCLAIM
+The sentence provides factual information about the leasing status of the retail space and residential units, without making any claims or assertions."
+0,"reasons to sell: over the last three months, actuant’s shares lost 9.3%, as against 10.2% growth recorded by the industry.","OUTOFCLAIM
+The sentence provides factual past information about the performance of Actuant's shares compared to the industry. It does not make a claim or statement about the future or any specific outcome."
+1,"also, the company now expects cost synergies from acquired businesses — spectrum brands’ global battery and portable lighting business, and the global auto care business — to the tune of $100 million.","INCLAIM
+The sentence contains a claim about the company's expectation of cost synergies from acquired businesses, specifically mentioning the amount of $100 million."
+0,"the company has invested around $1.6 billion in 2016, which included its accretive acquisition of life science and innovation centers leased by leading research universities.","OUTOFCLAIM
+The sentence provides factual past information about the company's investment in 2016, including the acquisition of life science and innovation centers. It does not make any claims or assertions."
+0,"further, the company’s year-to-date net cash flows used in operating activities from continuing operations amounted to $44 million, as compared with cash generated from operating activities of $150 million during the comparable year-ago period.","OUTOFCLAIM
+The sentence provides factual past information about the company's net cash flows used in operating activities, comparing the current year-to-date amount with the amount from the comparable year-ago period. It does not make any claim or assertion."
+0,"the company realized around $170 million in synergies and cost savings related to the acquisition in 2017, exceeding its target of $120 million.","INCLAIM
+The sentence contains a claim about the company realizing $170 million in synergies and cost savings, exceeding its target of $120 million."
+0,"after registering a meagre growth of 0.7% in the first quarter of fiscal 2017, total sales declined 4.4% during the second quarter.","OUTOFCLAIM
+The sentence provides factual past information about the growth and decline of total sales during the first and second quarters of fiscal 2017. It does not make any claim or assertion."
+0,"if approved, the plan will enable xcel energy toprovide 100% carbon-free electricityto customers by 2050.","INCLAIM
+The sentence contains a claim that if the plan is approved, Xcel Energy will be able to provide 100% carbon-free electricity to customers by 2050."
+0,microsoft reported revenues of $110.36 billion in fiscal 2018.,"OUTOFCLAIM
+The sentence provides factual past information about Microsoft's reported revenues in fiscal 2018. It does not make any claim or assertion."
+1,"going ahead, it expects to spend approximately $6.3 billion in 2018 and $6 billion in 2019.","OUTOFCLAIM
+The sentence provides factual information about the expected spending in 2018 and 2019, without making any claims or assertions."
+0,"gas transmission and midstream: the segment reported earnings of c$1,032 million, increased from c$917 million in second- quarter 2017.","OUTOFCLAIM
+The sentence provides factual past information about the earnings of the gas transmission and midstream segment, without making any claims or assertions."
+0,"however, volume growth exceeded the company’s 3% growth target on a year- over-year basis.","OUTOFCLAIM
+The sentence provides factual past information about volume growth exceeding the company's growth target, without making any specific claim."
+1,"management remains on track to realize about $300 million in gross run rate expense savings from these endeavors, including $200 million projected for fiscal 2021.","INCLAIM
+The sentence contains a claim about the management's ability to achieve $300 million in expense savings, including a specific amount projected for fiscal 2021."
+1,the new projection suggests growth of 10-14% (versus the previously mentioned 17-20%) from the previous year's reported figure.,"INCLAIM
+The sentence contains a claim about the new projection suggesting growth of 10-14% compared to the previously mentioned 17-20% from the previous year's reported figure."
+1,"for now, based on the elimination of bonus depreciation as a result of the tax, the company expects its ratebase will increase by $500 million in 2018 and $300 million more in 2019, for a cumulative total of $800 million more over the next two years.","The sentence is INCLAIM.
+The sentence includes a claim about the company's ratebase increasing by a specific amount in the future, which goes beyond just providing factual past or present information."
+0,"financials at the end of the reported quarter, the company had a cash balance of $603 million and long-term debt of $3,793.9 million, with debt-to- capitalization ratio of 38.5%.","OUTOFCLAIM
+The sentence provides factual past or present information about the financials of the company at the end of the reported quarter. It does not make any claim or assertion."
+0,"further, the company enhanced its portfolio with the acquisition of 26% stake in india’s leading brewer, united spirits limited (in july 2014) and the premium brand, de leon comb wine & spirits (in fiscal 2014).","INCLAIM
+The sentence is classified as INCLAIM because it includes a claim about the company enhancing its portfolio through acquisitions."
+0,"in fact, shares of the company have declined more than 6% in a year's time.","OUTOFCLAIM
+The sentence provides factual past information about the decline in shares of the company over a year's time. It does not make any claim or assertion."
+0,"segment performance housewares’ net sales surged 18.9%, courtesy of solid online sales, increased domestic distributions, growth at international sales, higher club-channel sales, product launches at hydro flask and oxo brands, and increased advance retail orders for hydro flask.","INCLAIM
+The sentence contains a claim about the performance of the housewares segment, stating that its net sales surged 18.9% due to various factors such as solid online sales, increased domestic distributions, growth at international sales, higher club-channel sales, product launches at hydro flask and oxo brands, and increased advance retail orders for hydro flask."
+1,"capital expenditure for 2019 is expected in the range of $1,100-$1,275 million.","INCLAIM
+The sentence includes a claim about the expected capital expenditure for 2019, indicating a future projection rather than just factual past or present information."
+0,"residential nas net loss improved 28.8% to 57,387 from 80,587 in the prior-year quarter due to solid recovery of fibe tv service bundle activations in the quarter.","INCLAIM
+The sentence contains a claim about the improvement in residential NAS net loss, specifically stating that it improved by 28.8% to 57,387 from 80,587 in the prior-year quarter."
+1,xcel energy targets a dividend payout ratio of 60-70% and aims to increase shareholders’ value by increasing dividend rate by 5-7% annually.,"INCLAIM
+The sentence contains a claim about Xcel Energy's target dividend payout ratio and their aim to increase shareholders' value by increasing the dividend rate annually."
+1,"notably, ball corporation reaffirms that its comparable ebitda will be $2 billion and free cash flow will be in excess of $1 billion in 2019.","INCLAIM
+The sentence contains a claim about the future performance of Ball Corporation, stating that its comparable EBITDA will be $2 billion and free cash flow will be in excess of $1 billion in 2019."
+0,"the average dayrate for drillships was $286,819, lower than $467,949 a year ago.","OUTOFCLAIM
+The sentence provides factual past information about the average dayrate for drillships being lower than the previous year. It does not make any claim or assertion."
+0,"as of jun 30, overall total backlog was approximately $3.2 billion.","OUTOFCLAIM
+The sentence provides factual information about the overall total backlog as of June 30, without making any claims or assertions."
+0,"the company reported net sales of $647.2 million, which fell short of the zacks consensus estimate of $675.9 million.","OUTOFCLAIM
+The sentence provides factual past information about the company's net sales, without making any claim or assertion."
+1,"fiscal 2018 outlook raised the company raised its fiscal 2018 adjusted eps guidance to the range of $4.45 to $4.53, up from the previously guided range of $4.38 to $4.50.","INCLAIM
+The sentence contains a claim about the company raising its fiscal 2018 adjusted EPS guidance to a specific range, indicating a future expectation or projection."
+0,"also, the top line gained from favorable currency movements that boosted sales by 1.1%.","OUTOFCLAIM
+The sentence provides factual information about the top line gaining from favorable currency movements, without making any specific claim or assertion."
+0,adjusted gross margin for the segment increased 100 basis points to 64.1%.,"OUTOFCLAIM
+The sentence provides factual information about the adjusted gross margin for the segment increasing by 100 basis points to 64.1%. It does not make any claim or assertion."
+0,"on apr 13, 2017, dte energy announced that it has slashed the cost of natural gas for its customers by almost 9%, owing to thesteady decline in natural gas prices.","OUTOFCLAIM
+The sentence provides factual past information about DTE Energy announcing a cost reduction for natural gas due to the decline in natural gas prices. It does not make any claim or assertion."
+1,"in 2019, the company intends to utilize $1-$1.4 billion for quarterly dividends, strategic acquisitions and share buybacks as well as to deleverage its balance sheet.","OUTOFCLAIM
+The sentence provides factual past information about the company's intentions and plans for 2019, including the utilization of funds for dividends, acquisitions, share buybacks, and balance sheet deleveraging. It does not make any specific claims or assertions."
+0,segment results southern california edison’s (sce) fourth-quarter earnings were $4.38 per share compared with 33 cents a year ago.,"OUTOFCLAIM
+The sentence provides factual past information about Southern California Edison's fourth-quarter earnings, comparing it to the earnings from a year ago. It does not make any claims or assertions."
+1,"consequently, it has increased quarterly dividend by 9.4% to 35 cents per share, and will buy back up to $4.4 billion of common shares over the next four quarters.","INCLAIM
+The sentence includes information about an increase in quarterly dividend and a plan to buy back common shares, indicating a claim about the company's financial actions and future prospects."
+0,"common share dividend bce's board of directors declared a quarterly dividend of $0.7175 per common share, payable on jan 15, 2018, to shareholders of record at the closure of business as of dec 15, 2017.","INCLAIM
+The sentence includes information about the declaration of a dividend by BCE's board of directors, which is a claim rather than just factual past or present information."
+0,"on a gaap basis, the company reported earnings per share of $0.35, up 16.7% compared to the year-ago tally.","OUTOFCLAIM
+The sentence provides factual past information about the company's reported earnings per share, without making any claim or assertion."
+0,"in october 2018, endocyte entered into an agreement and plan of merger with novartis ag pursuant to which novartis will acquire endocyte for $24 per share, or a total equity value of about $2.1 billion, in cash.","INCLAIM
+The sentence contains a claim about a specific agreement and plan of merger between Endocyte and Novartis, stating that Novartis will acquire Endocyte for a specific amount of money."
+0,its total long-term debt climbed around 22% year over year to roughly $4.5 billion at the end of the third quarter of 2018.,"OUTOFCLAIM
+The sentence provides factual past information about the increase in total long-term debt, without making any claim or assertion."
+0,"commercial revenues increased 11%, while consumer revenues were up 14%.","OUTOFCLAIM
+The sentence provides factual information about the increase in commercial revenues by 11% and consumer revenues by 14%. It does not make any claims or assertions."
+1,management expects other revenue to increase in the band of 25-30% during the third quarter.,"INCLAIM
+The sentence contains a claim about the expected increase in other revenue during the third quarter."
+1,apple expects foreign exchange volatility to hurt the top line by $1 billion.,"INCLAIM
+The sentence contains a claim that foreign exchange volatility will have a negative impact on Apple's top line by $1 billion."
+1,the company now anticipates non-gaap earnings per share from continuing operations in the band of $1.63-$1.66 (previously $1.59-$1.66).,"INCLAIM
+The sentence contains a claim about the company's anticipated non-GAAP earnings per share from continuing operations, specifying a range of $1.63-$1.66, which is different from the previous range of $1.59-$1.66."
+0,shares worth $10- $15 million in each quarter of fiscal 2018.,"OUTOFCLAIM
+The sentence provides factual past information about the value of shares in each quarter of fiscal 2018. It does not make any claim or assertion."
+0,"though the company witnessed a decline in revenues (tax-equivalent basis) in 2019, the same saw a cagr of 10.7% over the last five years (2015-2019), mainly driven by loan growth.","OUTOFCLAIM
+The sentence provides factual past information about the decline in revenues in 2019 and the compound annual growth rate (CAGR) over the last five years. It does not make a claim or statement about the future or any specific outcome."
+0,"majority of people’s united's loan portfolio — nearly 73% as of mar 31, 2018 — comprises total commercial loans (commercial and industrial lending as well as commercial real estate lending).","OUTOFCLAIM
+The sentence provides factual information about the composition of People's United's loan portfolio, without making any claims or assertions."
+0,"third-quarter revenues of $1,835 million increased from $1,646 million a year ago but were below the zacks consensus estimate of $1,869 million as customers continue to restrict capital spending to only bare essentials.","OUTOFCLAIM
+The sentence provides factual past and present information about third-quarter revenues, comparing them to the previous year and mentioning that they were below the Zacks consensus estimate. It does not make any specific claim or assertion."
+1,"notably, the company stated that this buyout will help bolster its sales by $550 million and earnings before interest, taxes, depreciation and amortization (ebitda) by $68 million within 12 months of the deal’s closure.","INCLAIM
+The sentence contains a claim that the buyout will help bolster the company's sales by $550 million and earnings before interest, taxes, depreciation and amortization (EBITDA) by $68 million within 12 months of the deal's closure."
+0,"long-term debt balance at the end of the second quarter of 2019 was $734 million, reflecting an increase of 7.9% from 2018 level.","OUTOFCLAIM
+The sentence provides factual past information about the long-term debt balance at the end of the second quarter of 2019, without making any claim or assertion."
+1,"variable marketing margin is projected to be $101-$104.5 million, up from previously mentioned $96-$102 million.","INCLAIM
+The sentence contains a claim about the projected variable marketing margin, indicating a specific range of values that it is expected to be, which is different from the previously mentioned range."
+0,"plus, facebook said it will be spending over $3 billion in the next 10 years on vr.","OUTOFCLAIM
+The sentence provides factual information about Facebook's plan to spend over $3 billion on VR in the next 10 years. It does not make a claim or express an opinion."
+0,"for the year ending 2016 contract drilling services, reimbursables and other reported sales of $2.2 billion, $59 million and $0.4 million that contributed 97%, 2.6% and 0.4% to the total revenue, respectively.","The sentence is OUTOFCLAIM.
+The sentence provides factual past information about the reported sales of contract drilling services, reimbursables, and other items for the year ending 2016. It does not make any claims or assertions."
+0,"we note that revenues from customers outside the u.s. were 25% in fiscal 2018, slightly better than 23% in fiscal 2017.","OUTOFCLAIM
+The sentence provides factual past information about the percentage of revenues from customers outside the U.S. in fiscal years 2018 and 2017. It does not make any claim or assertion."
+0,"per the latest price movement, the stock has gained 1% against the industry’s 9.3% decline.","OUTOFCLAIM
+The sentence provides factual past or present information about the stock's price movement and its performance against the industry, without making any claim or assertion."
+0,"further, tier 1 leverage ratio came in at 9.9% compared with 10.3% as of jun 30, 2016.","OUTOFCLAIM
+The sentence provides factual past information about the tier 1 leverage ratio, without making any claims or assertions."
+0,"during the second quarter, the company acquired avalon cerritos, in cerritos, ca, comprising 132 apartment homes for $60.5 million.","OUTOFCLAIM
+The sentence provides factual past information about the company's acquisition of Avalon Cerritos, including the location and the cost. It does not make any claim or assertion."
+0,"under the agreement terms, the company received an upfront payment of $1.0 million and is eligible to receive up to $4.5 million based on the successful achievement of regulatory goals for etarfolatide in five different cancer indications.","INCLAIM
+The sentence includes a claim about the company receiving an upfront payment and being eligible to receive additional payments based on the achievement of regulatory goals for etarfolatide in different cancer indications."
+0,"retail: net sales at retail dropped 4.1% to $1,017 million, on account of store closures and a 3.5% dip in identical store sales, which has been declining year over year for 11 straight quarters.","The sentence is OUTOFCLAIM.
+The sentence provides factual past information about the net sales at retail, store closures, and a dip in identical store sales. It does not make any claim or assertion."
+0,the company's shares have moved up 6% over this period compared with a 1.9% gain recorded by the industry.,"OUTOFCLAIM
+The sentence provides factual past information about the movement of the company's shares compared to the industry, without making any claim or assertion."
+0,"as of jun 30, 2019, avalonbay did not have any borrowings outstanding under its $1.75-billion unsecured credit facility.","OUTOFCLAIM
+The sentence provides factual past information about AvalonBay not having any borrowings outstanding under its unsecured credit facility as of June 30, 2019. It does not make a claim or statement about the future or any specific outcome."
+0,"per the updated design of the trial, the two interim assessments previously planned at 50% and 70% of os events will now be replaced with a single assessment of rpfs.","OUTOFCLAIM
+The sentence provides factual information about the updated design of the trial, without making any claims or assertions."
+1,the tax rate is expected to be 32%.,"OUTOFCLAIM
+The sentence provides factual present information about the expected tax rate, without making any claims or assertions."
+0,operating profit increased 11%.,"OUTOFCLAIM
+The sentence provides factual past information about the increase in operating profit without making any claim or assertion."
+0,"the gross margin, however, contracted 10 basis points (bps) to 31.9%.","OUTOFCLAIM
+The sentence provides factual information about the contraction of the gross margin by 10 basis points to 31.9%. It does not make any claim or assertion."
+1,"gross margin is predicted to be 45-46% in 2019, with third-quarter margin likely to be comparable to the second quarter level and the fourth quarter’s being the lowest in the year.","INCLAIM
+The sentence contains a prediction about the future gross margin in 2019, indicating a claim rather than just factual past or present information."
+0,guidance alliant energy reiterated its 2020 earnings guidance in the range of $2.34-$2.48 per share.,"INCLAIM
+The sentence includes a specific claim about Alliant Energy's 2020 earnings guidance, stating that it is reiterated in the range of $2.34-$2.48 per share."
+0,the debt-to- capitalization ratio of the company was 36.2%.,"OUTOFCLAIM
+The sentence provides factual information about the debt-to-capitalization ratio of the company, without making any claims or assertions."
+0,"credit quality: a mixed bag as of mar 31, 2018, non-performing assets were $174 million, down 4.9% year over year.","OUTOFCLAIM
+The sentence provides factual past information about the credit quality, specifically stating that non-performing assets were $174 million, down 4.9% year over year. It does not make any claim or assertion."
+1,the acquisition will lead to expected synergies of $5 million annually.,"INCLAIM
+The sentence contains a claim about the expected synergies resulting from the acquisition, indicating a future outcome or expectation."
+0,"while expenses declined in 2019 driven by the company’s $200 million cost reduction program, the same witnessed a five-year (2015-2019) cagr of 8.3%.","OUTOFCLAIM
+The sentence provides factual past information about the decline in expenses in 2019 and the company's cost reduction program. It does not make any claim or assertion."
+1,jetblue anticipates its average daily cash burn in the fourth quarter to range between $4 and $6 million.,"INCLAIM
+The sentence contains a claim about the anticipated average daily cash burn in the fourth quarter, indicating a future expectation rather than just factual past or present information."
+0,"during the reported quarter, the company purchased 247,500 shares in the open market for $13.8 million.","OUTOFCLAIM
+The sentence provides factual past information about the company's purchase of shares in the open market. It does not make any claim or assertion."
+0,"portfolio activity during the quarter, the company announced acquisitions of a parcel for $700,000.","OUTOFCLAIM
+The sentence provides factual information about the company's portfolio activity and the announcement of acquisitions, without making any claims or assertions."
+0,"in fiscal 2017, the grand theft auto products contributed 39% to the company’s net revenues.","OUTOFCLAIM
+The sentence provides factual past information about the contribution of the Grand Theft Auto products to the company's net revenues in fiscal 2017. It does not make any claim or assertion."
+1,"over the same timeframe, pre-tax operating margin is expected between 16% and 21% at life and 8–12% at specialty benefits.","INCLAIM
+The sentence contains a claim about the expected pre-tax operating margin for different segments of the company."
+0,"however, research and development expenses were $1 million, lower than the prior-year level of $2 million.","OUTOFCLAIM
+The sentence provides factual past information about the research and development expenses being lower than the prior-year level. It does not make any claim or assertion."
+0,"the company’s net debt fell 10% year over year to $5,614 million at the end of the first quarter of 2020.","OUTOFCLAIM
+The sentence provides factual past information about the company's net debt, without making any claim or assertion."
+0,"reasons to buy: dte energy’s share price gained 17.7% in the last one year, outperforming the zacks categorized utility-electric power industry’s 0.8% gain, backed by its focus on improving its cost structure and directing capital investments toward renewable generation, utility infrastructure and environmental compliance assets.","INCLAIM
+The sentence contains a claim about DTE Energy's share price gaining 17.7% in the last one year, which is not just factual past or present information."
+1,"post combination, significant cost savings worth $400 million is expected with optimization of technology infrastructure and shared corporateservices, along with funding synergies of $150 million from e*trade’saround $56 billion of deposits.","INCLAIM
+The sentence contains a claim about the expected cost savings and funding synergies resulting from the combination of entities."
+1,the merged company is anticipatedbenefit shareholders with realization of annual synergistic benefits of approximately $1.2 billion and cost reduction in a period of threeyears from closing of the transaction.,"INCLAIM
+The sentence contains a claim about the anticipated benefits for shareholders, specifically mentioning the realization of annual synergistic benefits of approximately $1.2 billion and cost reduction within a three-year period."
+0,the company generated positive free cash flow of $64 million during the quarter.,"OUTOFCLAIM
+The sentence provides factual past information about the company generating positive free cash flow during the quarter. It does not make any claim or assertion."
+0,"meanwhile, traffic, measured in revenue passenger miles, plunged 78.9% due to softness in air-travel demand.","OUTOFCLAIM
+The sentence provides factual past information about the decline in traffic, without making any claims or assertions."
+0,"office 365 commercial revenues grew 36% (35% at cc), driven by strong installed base growth and average revenues per user (arpu) expansion.","INCLAIM
+The sentence contains a claim about the growth of office 365 commercial revenues, specifically stating that it grew by 36% (35% at cc). This is not just factual past or present information, but a claim about the revenue growth."
+0,"in 2019, 2018 and 2017, the company had repurchased shares worth $21.4 million, $45.1 million and $48.9 million, respectively.","OUTOFCLAIM
+The sentence provides factual past information about the company's share repurchases in 2019, 2018, and 2017. It does not make any claims or assertions."
+1,these new efficiency initiatives are anticipated to generate pre-tax benefits of $110 million including $20 million from tax efficiencies in 2017.,"INCLAIM
+The sentence includes a claim about the anticipated pre-tax benefits of $110 million, indicating a future outcome or expectation."
+0,"in the first half of 2019, the company used $50 million for repurchasing shares and $12 million for paying out dividends.","OUTOFCLAIM
+The sentence provides factual past information about the company's use of funds for repurchasing shares and paying out dividends. It does not make any claims or assertions."
+0,"range within 9- 10%, up from 8.3% in fiscal 2017 on the back of sales expansion and cost & operational discipline.","OUTOFCLAIM
+The sentence provides factual past information about the range of growth percentages in fiscal 2017, sales expansion, and cost & operational discipline. It does not make a claim or statement about future events or expectations."

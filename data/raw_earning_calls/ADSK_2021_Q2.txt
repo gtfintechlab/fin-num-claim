@@ -1,0 +1,506 @@
+Operator
+
+Ladies and gentlemen, thank you for standing by. And welcome to the Autodesk second-quarter fiscal year '21 earnings conference call. I will now turn the conference over to your speaker today, Abhey Lamba, VP investor relations. Please, go ahead sir.
+
+Abhey Lamba -- Vice President of Investor Relations
+
+Thanks, operator, and good afternoon. Thank you for joining our conference call to discuss the results of our second quarter of fiscal year '21. On the line, Andrew Anagnost, CEO, and Scott Herren, CFO. Today's conference call is being broadcast live via webcast.
+
+In addition, a replay of the call will be available at autodesk.com/investor. You can find the earnings press release, slide presentation, and transcript of today's opening commentary on our investor relations website, following this call. During the course of this call, we may make forward-looking statements about our outlook, future results, and related presumptions, and strategies. These statements reflect our best judgment based on currently known factors, actual events or results could differ materially.
+
+10 stocks we like better than Autodesk
+When our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+
+They just revealed what they believe are the ten best stocks for investors to buy right now… and Autodesk wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+
+See the 10 stocks
+
+*Stock Advisor returns as of March 8, 2023
+
+Please refer to our SEC filings for imparting risks and other factors, including developments in the COVID pandemic, and the resulting impact on our business and operations that may cause the actual results to differ from those in our forward-looking statements. Forward-looking statements made during the call are being made as of today. If this call is replayed or reviewed after today the information presented during the call may not contain current or accurate information. Autodesk disclaims any obligation to update, or revise any forward-looking statements.
+
+During the call, we will quote a number of numerical growth changes as we discuss our financial performance and unless otherwise noted. Each such reference represents a year-on-year comparison. All non-GAAP numbers referenced in today's call are reconciled in the press release of the slide presentation on our Investor Relations website. And now, I would like to turn the call over to Andrew.
+
+Andrew Anagnost -- Chief Executive Officer
+
+Thank you, Abhey. To start, I hope everyone is safe and healthy as our world continues to be impacted by the COVID pandemic. Our priorities remain the safety and well-being of our employees, and the continued support of our customers, partners, and community. Before I dive into the quarter, I thank all of our employees for their efforts and persistence during these challenging times.
+
+The resiliency of our business model and solid execution helped us deliver strong Q2 results with revenue, earnings, and free cash flow above expectations even as we continue to operate in uncertain times. The secular trends that we have been investing in and preparing for such as the adoption of cloud-based solutions are accelerating, and we are excited about our position in the market. While our competitors are just beginning to focus on similar trends, our investments in the last few years are already driving positive results. With the business model changes we have made, we continue to deliver significant value and functionality in the cloud.
+
+Because of this, and a few other aspects I'll discuss, we will be stronger on the other side of this pandemic. As indicated on the last call, we continue to closely monitor the usage pattern of our products across the globe. Something we could not do historically. In China, Korea, and Japan, we are seeing usage above pre-COVID levels.
+
+In some areas of Europe, we continue to see a recovery as well. In the Americas, we experienced a slight uptick in usage for most key products in July. We are also seeing a positive correlation between usage trends and new business performance, which gives us confidence that the green shoots we see in usage will translate into improved new business performance in subsequent quarters. In all senses, work is changing, and our cloud collaboration product effectively connects project teams and workflows allowing businesses to thrive even when their employees and partners are working remotely.
+
+Usage of BIM 360 design our cloud collaboration tool has accelerated with the adoption by Revit users almost doubling in the past year. We also continue to gain momentum in manufacturing at Fusion 360. We had the best quarter ever for subscription net additions with more than 10,000 in the quarter. The value of the cloud is becoming more and more apparent, and cloud-based solutions are becoming a necessity.
+
+Our product subscription renewal rate improved steadily throughout Q2 as customers recognize the critical value our offerings bring to their business. Our new business was impacted by the current environment, but the strength of our pipeline entering the second half of the year, combined with execution in recovering countries make it confident in our full-year targets. Now, we're about to turn it over to Scott, to take you through details of our quarterly performance, and guidance for the year, before I come back to provide insights into our strategic growth drivers.
+
+Scott Herren -- Chief Financial Officer
+
+Thanks, Andrew. As you just heard despite facing the economic headwinds from COVID, we had strong performance across all key metrics in the quarter. Total revenue growth in the quarter came in at 15% as reported, 16% at constant currency, with subscription plan revenue growing by 27%, and operating margin expanding by 5 percentage points. Despite offering extended payment terms through the quarter, we delivered a healthy free cash flow of $64 million.
+
+Current RPO which reflects committed revenue for the next 12 months is up 15%, in total RPO is up 19%. Our ongoing investment in digital sales is yielding results as we saw strong double-digit billings growth for the order in the quarter. Our online sales are helping attract new customers to the Autodesk family as nearly three out of four new customers in the quarter came in through e-commerce. Our run rate business came in stronger in the quarter, while the pace of closing larger transactions slowed modestly.
+
+In Q2, our net revenue retention rate was within the 100% to 110% range, we laid out in our previous guidance. As Andrew mentioned, we saw resilient renewal rates in the quarter. Digging deeper into our renewal rates, our products subscription renewal rates improved on a sequential basis which is a strong endorsement of the strategic nature of our products, and stickiness of our customer base in this new business model. We experience the decline and maintenance renewal rates as expected since we announced the end of the last of our maintenance offerings.
+
+With our transition to a subscription business model behind us, maintenance is only about 5% of our revenue. Similar to last quarter, more than 40% of the maintenance customers who came up for renewal converted to subscription. Our into US revenue combined with our maintenance revenue this quarter at $229 million is close to 80% of our peak quarterly maintenance revenue in Q1 fiscal '16. This speaks to the great success we've had with the program.
+
+In Q2, we also saw Industry Collections grow sequentially as a share of total new business, while multi-year payments are down year over year. At the end of the second quarter, we saw a slight uptick in multi-year payments as customers continue to make long-term commitments to our products. APAC led the way in the share of multi-year deals consistent with the region's relatively strong performance in new business. As we anticipated, our second-quarter new business activity was more impacted than in Q1 with new business declining in the range of mid-teens percent.
+
+In line with our commentary on the last call, we think the second quarter will be the most impacted by the pandemic. Our business is recovering in the markets that were impacted by the pandemic earlier on. However, some of our major markets like the US, and the UK have stabilized but are yet to show meaningful improvement. As such, we continue with a wider than normal revenue range for the remainder of the year while raising the midpoint of our guidance.
+
+Our updated guidance implies continued improvement in all of our end markets over the next two quarters, and we expect the pace of closing larger transactions to improve. In addition to the impact of large deal activity, the range of our forecast factors in varying degrees of demand environment in the Americas which includes our largest end market. At the upper end of our guidance range, we are modeling meaningful recovery in the region in the third quarter with continued improvement in the fourth quarter. At the low-end of the range, we anticipate a slower recovery in the third quarter and improvement in Q4.
+
+We're very pleased with the performance of our product subscription renewal rates in the second quarter and expect them to continue improving for the rest of the year. For the remaining maintenance base, we expect churn to further increase but recall that we're in the final stages of ending our maintenance offering and the number of seats is small versus our total install base. We expect our net revenue retention rate to remain between 100% and 110% for the rest of the year. Our full-year operating margins should expand by approximately 3 to 4.5 percentage points as we keep exercising our strong discipline around spend management while continuing to invest in strategic priorities.
+
+Despite improving multiyear trends, we experience at the end of the quarter, we're taking a cautious view of their continued uptake in the second half of the year which is impacting the upper end of our billings forecast range for the year. Our billings adjustment does not affect free cash flow estimate of $1.3 billion to $1.4 billion for Fiscal '21 as we expect strong cash collections to continue. Finally, we're confident in our Fiscal '23 free cash flow target of $2.4 billion. And now, I'd like to turn it back to Andrew.
+
+Andrew Anagnost -- Chief Executive Officer
+
+Thank you, Scott. I am proud of the team for what we accomplished in Q2. With the investments, we made over the last few years and our moved to make everyone a named user, we are in the final stages of becoming a true staff provider and delivering a significant amount of capabilities in the cloud. We can now deliver enhanced value to our users and administrators, and our named user model enables our customers to operate efficiently in a remote work environment.
+
+Our transition to named users is off to a promising start with some customers choosing to adopt it ahead of the launch. Earlier this month, Khatib & Alami one of the largest construction and engineering consulting firms in the Middle East saw the value in its ability to accelerate work from home and reached out to transition early. The transition to the named user model is not the only thing ensuring their business continuity all working from home. During the quarter, the increase to speed to BIM 360 design, breaking silos and enabling their Building and Infrastructure teams to collaborate on Revit and several 3D models from different locations.
+
+During the quarter, we also launched our premium subscription plan which would not have been possible without converting everyone into named users. We can now offer added security with single sign capabilities even administration, and advanced product usage information for the administrators. One of the first to make the investment in the premium plan was one of our longtime customers, Calibre, Diona, a leading provider of professional infrastructure and built environment solutions headquartered in Australia. The most compelling features for them are single sign-on capability and license usage visibility.
+
+Calibre Diona has been partnering with Autodesk for 20 years, and our products have enabled them to continue innovating to deliver valuable design and engineering solutions to their customers as both CAD technology and engineering practices have evolved from the drawing board to AutoCAD and now to BIM. The next phase of our journey will enable us to offer even greater value to our customers as a true cloud technology provider. Now, let me update you on our three key growth initiatives; accelerating digitization AEC, the convergence of Design and Make manufacturing and monetization of non-compliant and legacy users. Our AEC business has continued to be resilient.
+
+Our products enable more efficient communication and increased oversight as the industry works through additional steps in their processes such as new shift paradigms, and optimize site layouts. We continue to make investments in construction where we expect technology adoption to keep growing, especially as we exit the pandemic. We recently announced three notable investments. First, we acquired Pype which closed this month and will add significant value for Autodesk construction cloud users.
+
+Along with general contractors, subcontractors, and owners to automate workflows such as the middles and project closeouts to increase overall productivity and reduce risk throughout the project lifecycle. Second, we also made a strategic investment in Bridgit. Bridgit offers Workforce Optimization solutions for contractors. Third, we expanded our existing relationship with Factory_OS.
+
+Factory_OS is helping us improve our products to support the convergence of construction and manufacturing. Thereby, advancing free fabrication, offsite, and modular construction practices. We continue to enhance our project and cost management capabilities by improving connected workflows and cost tracking functionality. As you may recall, a large number of construction sites have shut down at the start of the quarter.
+
+Sales of our construction solutions targeted at field activities started out slowly but improved during the quarter as construction sites began to reopen. During the quarter, Saunders Construction a top tier 400 provider of comprehensive construction management and general contracting services signed a three-year renewal expansion with us citing their previous success with our products, and the ongoing value we deliver in terms of productivity gains across the project lifecycle. Saunders has been successfully using Revit in coordination with BIM 360 Field and Glue, and Navisworks for field execution and BIM coordination for years. This enables Saunders to centralize the document management connect their Office and Field teams, build out their quality and safety programs, minimize rework, and enable company enterprise reporting.
+
+With disagreement, they're now positioned to continue growing their deployment of our construction cloud with our dedicated support, and we're excited to expand our partnership with them. Our BIM 360 design solutions continue to perform strongly throughout the quarter as architects and contractors adjusted to the new remote work environment and found immense value in its cloud-based collaboration capabilities. KPF, one of the largest architecture firms in New York City with offices and projects all over the world is also investing in BIM 360 solutions. James Brogan, principal at KPF said"At KPF, collaborating effectively with global clients and design teams is critical to our success.
+
+As such, our partnership with Autodesk and the use of BIM 360, in conjunction with Revit in particular have become fundamental to our business. Enabling us to efficiently manage design data across global teams, and deliver world-class outcomes for our clients". We continue to make progress and provide more value to customers in the infrastructure space. During the quarter, one of the largest infrastructure design firms in the US renewed and expanded its enterprise business agreement or EBA with Autodesk.
+
+This customer is leveraging the EBA token offering to digitize the company and move traditional file-based workflows to data-driven design leveraging the cloud and displacing competition. With the ever-growing need to work remotely, and in large project teams with multiple stakeholders this customer is investing in Autodesk BIM 360 at the common data platform for managing project information, collaboration, and model coordination. This design customer has also added plans for Revit to manage RFID and some models in the field, as well as a symbol for conditioning models for estimating and quantity takeoffs. As I mentioned earlier, Fusion is continuing to accelerate within our manufacturing portfolio, and gain traction with the general design.
+
+This quarter, Firefly Aerospace, a rocket, and spacecraft company based in Austin, Texas committed to Autodesk over multiple competitors as their partner of choice for design, analysis, and manufacturing software. Because of efficiency gains realized and there designed to make workflows, and light-weighting opportunities provided by generative design. Their first launch vehicle has been designed and built using the entirety of Autodesk design and make solutions, and the team of Firefly is already thinking about how general design can be used to optimize the designs further. In a market where a reduction in weight directly correlates to a reduction in cost, general design to not only firmly established Firefly as a thought leader in their space, but also as the most economical launch platform in the market.
+
+Leveraging these advanced tools from Autodesk will enable them to stay one step ahead of the competition. Today, we announced that our existing advanced manufacturing technologies, PowerMill, PowerShape, and PowerInspect will become part of the Fusion 360 platform. This complements our existing offering at Fusion 360 with feature camp for production machining applications. And also allows us to bring new advanced capabilities to our core Fusion 360 cloud-based software.
+
+This is a natural progression as we see high interest from customers to use next-generation design and manufacturing workflows in Fusion 360, alongside our advanced manufacturing tools. It is also a key step toward our long-standing vision of seamless collaboration between designers and engineers uniting design and manufacturing under the power of a single cloud platform. In Q2, we also signed a deal with Nobel Biocare which included subscriptions to PowerMill, PowerShape, and Fusion 360 with feature camp. Headquartered in Switzerland, Nobel Biocare manufacturers dental implants and CAD/CAM based individualized prosthetics.
+
+And they receive orders for custom, single, and multi-unit implant restorations from all over the world. The custom rapid restoration is manufactured from start to finish using Autodesk software and using our technology. Nobel Biocare has created a fully automated process that allows them to produce completely unique dental restorations meeting the individual needs of their dental patients. We are the preferred vendor for building product manufacturers who needed design within the context of the building information model.
+
+During the quarter, we signed a new enterprise business agreement with one of the largest manufacturers of exterior building products in North America. Even amid an uncertain business climate, the U.S. based manufacturer is strategically investing and partnering with Autodesk to support their focus on innovation and industrialized construction. They are looking to Autodesk solutions such as BIM 360, Revit, and Inventor to help them maximize efficiencies by digitally transforming and improving processes across the entire construction ecosystem.
+
+We always displace the local competitor and a building product manufacturer in France, due to our deep connection to BIM. The convergence of design and making manufacturing is happening, and our deep connection to BIM will enable us to win. Moving onto updates on our digital transformation, and progress monetizing non-compliant users. We are confident in our ability to convert the long-term opportunity.
+
+However, in the short-term, we continue to be mindful of the current environment and the importance of working with non-compliant users and respectful in reasonable ways. In Q2, we closed three deals of more than $1 million each in the APAC region where business activity has returned to pre-COVID levels. Also, during the quarter, we closed the deal with a design-build architecture firm in China against a local, lower-cost competitor. A few quarters ago the customer decided to make the switch away from AutoCAD solely based on cost savings, but their engineers continue to use our software due to the necessary functionality.
+
+We were able to convert them back to paying users based on the value of our solutions provided. In closing, we are building a stronger Autodesk for the long term. We have a headstart over the competition in critical capabilities like cloud computing, and cloud-based collaboration, and we will continue to invest in our strategic initiatives. There are multiple drivers that make us confident in our fiscal 2020 through targeted and beyond.
+
+First, digitization in AEC is going to accelerate in the coming years as companies seek to not only make current processes more resilient and efficient but to support new industrial paradigms for construction. Second, the evolution of manufacturing to a more distributed network and cloud-based workflow is also going to accelerate significantly over the next few years. And we have the industry-leading multi-tenant cloud-based solution to address the emerging customer needs that will shape demand. And third, our business model is more robust, adaptable, and resilient than in the entire history of the company.
+
+This will allow us to not only invest in the future but to do so with an eye to both revenue and margin growth. With that, operator we'd like to open the call up for questions.
+
+Questions & Answers:
+
+Operator
+
+Thank you.[Operator instructions]. Our first question comes from Saket Kalia with Barclays. Your line is now open.
+
+Saket Kalia -- Barclays Capital -- Analyst
+
+OK, great. Hey guys, thanks for taking my questions here. How are you.
+
+Andrew Anagnost -- Chief Executive Officer
+
+Good. Good.
+
+Saket Kalia -- Barclays Capital -- Analyst
+
+Hey Scott, maybe for you -- maybe just talk about what you're seeing on customer preferences for different duration contracts. You touched on this a little bit in your prepared remarks, but can you just talk about what you saw in terms of contract duration this quarter. And how you're planning for that the rest of the year. As we think about that, that changed the top end of the billings guide.
+
+Scott Herren -- Chief Financial Officer
+
+Yes, thanks Saket. You're spot on, and we said coming into the quarter when we gave the previous guide that we felt Q2 would be the toughest quarter of the year. And in particular, we thought we would see an impact on multiyear. And we've seen that at the very end of Q1.
+
+And we did see that. We saw an impact, although it didn't. The rate of customers buying multiyear didn't fall through the floor by any stretch, but it came down earlier in the quarter. And then at the quarter went on, we saw it modestly improving each month throughout the quarter.
+
+So the multiyear did take a hit and then improved throughout the quarter. But with that said, remember when we rolled out that guidance and we describe it taken quite a bit of detail what would take us to the high end of the range versus the low end. At the high end of the guidance ranges, we have assumed a swift recovery in the second half of the year. And that's exactly what we're seeing in some markets, but not in all of our markets.
+
+So the adjustment in the billings guide is really driven by our expectation of less multi-year sales at a slightly slower recovery in the US, and UK as we talked about on the opening commentary.
+
+Saket Kalia -- Barclays Capital -- Analyst
+
+Got it. That makes a lot of sense. Maybe for you Andrew, for my follow up. A little bit of disconnected from the results a little bit.
+
+But you posted an interesting blog a couple of weeks ago about Autodesk and the AEC industry. And I guess, I just want to zero in on one part of it which was the idea that architectural customers would spend a lot of time. By the way on in your prepared remarks may actually be paying less under the subscription model versus the old perpetual maintenance model. And so it's just wondered if you could expand on that a little bit.
+
+And maybe address on whether Autodesk is actually potentially delivering money on the table in the AEC industry.
+
+Andrew Anagnost -- Chief Executive Officer
+
+All right, Saket. Thanks for proving to me why this audience won't be empathetic to some of those concerns or were expressed as other audiences. So first off, let me just acknowledge something about the communications with the AEC industry, and the architect in particular. One, they have legitimate concerns about the functionality in Revit, and we take those incredibly seriously.
+
+And the fact is that from an architectural aspect standpoint Revit hasn't gotten a lot of incremental investment. A lot of the AEC investment in the construction. It's the kind of revenue enhancements targeting the engineering component of the workflow, structural workflows in particular. So there are some real, real legitimate concerns there.
+
+The other concern they have is the move from a multi-user to named users. These are large multi-user clients, and they've seen multi-user prices drift up. They really want to pay per use model. We want them to have a pay for use model which they would prefer to cloud licensing.
+
+So those are some things they just want to make sure that we acknowledge we're all on the same page with. That said, as you said, and It was important that I make this clear, these customers come from a highly privileged roughly 20% of our subscription base that moves from maintenance to subscription. And have pretty deep price projections relative to the rest of the base. And if you look at their expenditures over a five year period frankly, even over -- moving out another five years, they add seats they are actually paying less to Autodesk than they would have under the old perpetual model.
+
+And that was a deliberate part of the transition even as multi-user prices go up and everything. If you add up what they would have paid for us for adding users over time they actually end up paying less over a five-year period. And frankly, if they had users over a 10-year period. We're not concerned about that.
+
+We went out very early on that we were going to take care of these maintenance customers that were out in front of us. We did that. Lots of debates with all of you about the maintenance subscription program, a 10-year price lock. It wasn't exactly something that all of you were behind.
+
+All right. But we think it was right. And yes, it has resulted in this. Now, we're never going to be on the same page with his audience about that particular picture -- a particular part of the equation.
+
+But remember, this is a shrinking bit of our subscription base. There is a protected 20% now. There'll be less than that later. But over time, they pay less than they used to.
+
+That's true. But we're not worried about that. There is no concern about that.
+
+Saket Kalia -- Barclays Capital -- Analyst
+
+Very helpful. Thanks, guys.
+
+Operator
+
+Thank you. Our next question comes from Jay Vleeschhouwer with Griffin Securities. Your line is open.
+
+Jay Vleeschhouwer -- Griffin Securities -- Analyst
+
+Thank you. Good evening, Andrew and Scott. Question number one. Andrew is about the intersection of what you've called three inevitability or eventualities in your business.
+
+Number one collections in the cloud to a consumption model. And then three, and underline rearchitecting of your platform, the product information model, or whatever you're going to be calling it now, you are doing an underlying we architecting work. And so in terms of connecting all of those things, how feasible or desirable might it be for you to segment the portfolio. Not to go back to where you were pre-transition in terms of having dozens of skews and so forth.
+
+But perhaps you would have the opportunity to have some additional number of flavors either stand-alone or perhaps new collections configurations that you would be able to feasibly bring to market based on the new architecture named user and so forth. So to follow a question at the analyst meeting two months ago, you talked about your customer breakdown as consisting of named account, mid-market strategic territory, and plain vanilla territory. The question there is -- could you talk about the performance in each of those four segments, and how you're thinking about those for the remainder of the year. And whether you're doing anything in terms of sales capacity and/or back and margins.
+
+Thanks.
+
+Andrew Anagnost -- Chief Executive Officer
+
+OK. Great. So I'm going to take the first part of that, and I'm going to have the second part of that to Scott. All right.
+
+So Jay you ask a very complicated, sophisticated question there. But let me summarize it this way. All right. The model that we're going to is a greater segmentation in some respects, but I want to keep pointing you back to the way Fusion is being architected and constructed.
+
+All right. Fusion has a subscription entry price. There's a set of functionality that people use frequently, and they're using it to do a lot of their day to day work. But then, there's this series of modules that they can reach out to and access on a need-based method.
+
+OK. And you've just noticed, we've added more of those recently to Fusion from technology that was previously an adult cloud portfolio. This model of having what I look for the lack of a better word a vertical platform. That's for instance in manufacturing is the built on the product information model in the cloud, in an AEC it's going to be built on a building information model in the cloud, in media.
+
+It might be built on media information model in the cloud, and things associated with that. They will be able to pull the functionality they need as they need it. They'll pay a baseline subscription, and they'll pay per use for various things. As they need them, and as they use them as advance capability.
+
+So if you think about it that is the segmentation of our portfolio. An increase that skews may be in some respects, but what it's designed to do is ensure that occasionally use functionality with the high value they can get when they need it without having to get it all at once. That's the notion of collections in the cloud. The collections in the cloud that they can use on as a needed basis.
+
+So when you look at what we're doing with Fusion that really directionally captures where the model's going for all of our customers ultimately, and it's all connected. You're right. Named user necessary to do that because you have the name the user so that you could track their usage in their needs, and provide something to them specifically. That doesn't mean the named user can't be a large pool of named users that comes in occasionally which is something that people want in terms of consumption of a peruse.
+
+But it's also connected right back again to the underlying architecture of the products. And that's the future we're going to. Scott, off to you.
+
+Scott Herren -- Chief Financial Officer
+
+Thanks. And Jay, let me take your question from the bottom up. We start with the territory and strategic territory which tends to be our smaller accounts was actually quite strong, and we actually -- we touched on this qualitatively in the opening commentary. We saw good strength in that small customer set.
+
+And more so if, you're slicing it by customer sized, slice it by Geo, you could see the result. APAC was quite strong where we've seen the pandemic hit first. They went through what they went through, what they went through. As those markets reopened, we called out China, Korea, and Japan as actually being above pre-COVID levels.
+
+So seeing good strength in the smaller accounts, and seeing good strength in APAC, and then subsequently in continental Europe. As you work your way up to mid-market and name, name it doesn't have a big Q2. That's where most of our EBAs sit and that's where all of our EBAs are in the named user. I'm sorry, in the name account category, and that tends to be heavier in the second half of the year.
+
+So we've got actually a very full pipeline of large transactions. Large accounts for EBAs renewals that are coming up and those EBAs have close to a 100% renewal rate. So name did find during the quarter, but Q2 is not a big quarter for named accounts. The mid-market was a little bit more tepid.
+
+And what I'd say there is, we had a lot of multi-user usage within the mid-market. And as you've seen what we've done with the transition to named moving away from multi-user, and over to name, we didn't actually have that offer. That two for one-off offer active until the beginning of Q3. So a little bit of a pause in the mid-market as many of those mid-market accounts.
+
+By the way, doing what all of us are doing assessing their business and understanding their needs, but also had the impact of wanting to get to the transition to name program that we launched beginning in Q3. That's the right way to think about it by customer size.
+
+Jay Vleeschhouwer -- Griffin Securities -- Analyst
+
+Thanks, very much.
+
+Operator
+
+Thank you. Our next question comes from Matt Hedberg with RBC Capital Markets. Your line is now open.
+
+Matt Hedberg -- RBC Capital Markets -- Analyst
+
+Oh great. Thanks for taking my questions. Congrats on the results, and really good to hear the strength in the renewal business. I guess right or maybe Scott, outside of the trends in multi-year that you alluded to in your answer to Saket's question earlier.
+
+I'm wondering if you could talk a little bit more detail about how new business trends have progressed through the quarter. And maybe how August has trended versus last year. I know, Andrew mentioned strengthened pipeline. Just wondering on that new business side.
+
+What gives you confidence there.
+
+Scott Herren -- Chief Financial Officer
+
+Yes. I'll start on that Andrew, and let you jump in and add some more color. What we saw in the new businesses is really in line with what our expectations were in those markets that have opened up. So, size up on the first pie geo, Matt.
+
+When you look at it by geo, APAC's new business rates were the highest. Continental Europe, I think about the wave of the way that the pandemic struck. Continental Europe next, and the U.S. and the U.K., by the way, outside of Continental Europe, both feel like they've stabilized.
+
+There are no further declines. And we see a modest bump up, modest bump down, I'd say they're more stable than they are coming back out of it yet and those two markets. So new business has followed those trends that we've entered talked about their usage rates, and we've been monitoring those usage rates around the world. And what we see is as the usage rates come back as the markets reopen.
+
+We see the new business come back at the same time. So that's probably the right overall characterization for it. Andrew, anything you'd add to that.
+
+Andrew Anagnost -- Chief Executive Officer
+
+I think -- I'm sorry about that. The correlation between usage rates, and then ultimate nearly new business is proving out to be fairly tight. So, we expect to see that continue. We thought we saw it in APAC with marks to go up.
+
+We're seeing it in Europe where it's like we said earlier, we're seeing stability in the US and the UK, and we expected that moved from stability to rise, we're going to see the same kind of uptick in new business, except the two that seem to be correlating quite well.
+
+Matt Hedberg -- RBC Capital Markets -- Analyst
+
+That's great. And then AutoCAD and AutoCAD LT, I think they grew 18% in the quarter. Wondering if you talk a bit more granularity about AutoCAD LT. I know that has actually been fairly strong for you thus far.
+
+And I know historically that's been, have been weaker in times of stress. Just wondering how LT is holding up relatively in this market.
+
+Andrew Anagnost -- Chief Executive Officer
+
+Yes. We used to talk about that as the canary in the coal mine for market dislocation at the low end. But subscription changes everything. The subscription price point for LT is a very attractive price point.
+
+And most of the customers that are buying it or very small businesses, smaller or very small-medium businesses. And it does what they need. So, they continue to buy in the space. People buy AutoCAD for the 3D and the API and the things that I associate with that.
+
+But the price point of LT is actually proven to be very attractive and very resilient during this time. And it's just one of the fundamental changes in the subscription model.
+
+Matt Hedberg -- RBC Capital Markets -- Analyst
+
+Great. Thanks.
+
+Operator
+
+Thank you. Our next question comes from Brad Zelnick with Credit Suisse. Your line is now open.
+
+Brad Zelnick -- Credit Suisse -- Analyst
+
+Great. Thank you so much, guys. Andrew, I wanted to dig into manufacturing a bit more. The segment only grew 6% this quarter despite all the good things happening with the convergence of Design and Make.
+
+Is there anything in particular that you'd call out as having a more pronounced impact in manufacturing.
+
+Andrew Anagnost -- Chief Executive Officer
+
+You know, actually we're growing faster than our biggest competitor in the space. So, we just want to make sure we get that in. The look space is doing well. Remember, we continue to grow strongly last year, so we had good strong growth coming in last year and this year.
+
+So, we're comparing 6% to a good year last year, not 6% to a bad year last year or something like that. So we're actually happy with the performance we're seeing right now. And I think that's an important metric for us, especially what you see going on with regards to Fusion and the net adds around Fusion. So, we view this as a solid result and it's only going to continue to get better.
+
+So I think we're in a good position right now. Especially when you look at what we're comparing to from last year.
+
+Brad Zelnick -- Credit Suisse -- Analyst
+
+Thanks, Andrew. That's fair. And maybe just a follow-up. Can you talk about the strong performance of the e-commerce channel.
+
+Are you seeing changes in the types of products customers are purchasing through this channel, and does this in any way changed how you're thinking about the direct business longer term.
+
+Andrew Anagnost -- Chief Executive Officer
+
+Yes. It doesn't fundamentally change our strategy. We're still trying to get that digital direct online business up to 25% of our total business, so our strategy hasn't fundamentally changed. The product mix does change a little bit.
+
+All right. It's -- they are buying additional products on this channel. But fundamentally our strategy hasn't changed. But it has obviously held up incredibly well during this and some customers have continued to buy.
+
+But the strategy the fundamental strategy of where we're going and what we're trying to do, we want everything we sell available on the channel. And our goal is still to get it up to 25%.
+
+Brad Zelnick -- Credit Suisse -- Analyst
+
+Awesome. Thanks so much for taking my questions guys.
+
+Andrew Anagnost -- Chief Executive Officer
+
+My pleasure, Brad.
+
+Operator
+
+Thank you. Our next question comes from Phil Winslow from Wells Fargo. Your line is now open.
+
+Phil Winslow -- Wells Fargo Securities -- Analyst
+
+Hey, thanks guys for taking my question and congrats on another strong quarter. I just want to focus on AEC again. Obviously, you mentioned some of the slow starts or possibly you hadn't been in projects at the beginning of the quarter. But if I look at your comments you talked about competitive wins and project management you designed a 360 design uptick.
+
+Whenever you talk about just the puts and take what you're seeing on AEC vertical. How are you thinking about those as we go into the second half. Thanks.
+
+Andrew Anagnost -- Chief Executive Officer
+
+Yeah. So the total business grew fairly well. All right. And I think we just want to make sure that we zero in on the things that are soft and the things that aren't.
+
+Let's talk specifically about construction. As I said in the opening commentary, the field area is where we see the softness. And right now it's stabilizing, and we expect to see field usage going up. And that's to be expected given everything that happened with the construction site.
+
+But where we're seeing strength, and this is an important precursor to future business. All right. Because it's upfront in the process in BIM 360 design and Docs which are part of the pipeline of loading the project flow. So BIM 360 design Docs in particular has seen robust growth during this entire period the construction thing.
+
+And then obviously, Revit continues to do well in this segment in terms of BIM, in general, is doing well. So I want to make sure that we pay attention to the softness is really in the places where the hammers are hitting the wood or hitting the metal, depending on what you're building, or the concrete being poured. And it's not in the upfront part of the project and the project manager which is great for us because we're bringing more people into the pipeline. And if all we were doing with being narrowly focused on the execution part, we would certainly be in deeper problems than we are right now in the field execution side.
+
+We have a broad portfolio that goes all the way from design through to reconstruction planning, and that part we've continued to see robust action.
+
+Phil Winslow -- Wells Fargo Securities -- Analyst
+
+Great. Thanks, guys. Appreciate it.
+
+Scott Herren -- Chief Financial Officer
+
+Next up.
+
+Operator
+
+Thank you. Our next question comes from Koji Ikeda with Oppenheimer. Your line is now open.
+
+Koji Ikeda -- Oppenheimer and Company -- Analyst
+
+Oh hey, thanks for taking my question guys. Great quarter. I had a question on the Pype acquisition. Congrats on that acquisition.
+
+We've actually heard really great things about Pype Technology out in the field. And my question is about the technology and the workflows that it will handle in the construction cloud really balanced against any potential overlap with other prices within the construction cloud. So, I guess from a high level, what are the key construction workflow enhancements coming from the Pype acquisition, and are there any technology overlaps with existing products. Thank you.
+
+Andrew Anagnost -- Chief Executive Officer
+
+Yeah. So, obviously, Pypes in the project management area. And one of the key things that add is a machine learning layer to the whole process of setting up in managing chip changes and requests and work orders in the process. So what it's doing is it's shortening the time to work these closeouts and these project activities upfront in the process.
+
+So, it's giving us technology that provides for a faster turnaround, better project management, lower risk, and better outcomes. That's really what it's doing. We certainly have some of these capabilities inside the core portfolio, but nothing as deep as what Pype does. Pype went a lot deeper, deeper into the workflow, and covers a lot more use cases than we do.
+
+And as we were partnered with them throughout the process, and we have lots of accounts where we were in there. Pype was in there, and we worked really very closely with them to make sure that we were complementing our RFI workflows and not duplicating them. So their whole process takes the RFI and some a workflow to a whole new level. And it's a pretty powerful combination for us.
+
+And like you said, our customers were pretty bullish on the technology as well which is one of the reasons why we were bullish.
+
+Koji Ikeda -- Oppenheimer and Company -- Analyst
+
+Thanks, Andrew. And just want to follow up on the big deals in Asia. Congrats again on the three big license compliance deals of over a million. Great news there.
+
+I guess, could you tell us maybe what the average contract duration was for those deals. And could you remind us how does that deal like volume compared to prior periods of three license deals. And I guess a big picture perspective, how many of these one million-plus license compliant deals are out there in the world today. Thanks again, for taking my questions.
+
+Scott Herren -- Chief Financial Officer
+
+Sure, Koji. I'll take that one. You know the reason for calling out those deals is not that they were particularly notable in terms of duration et. Cetera.
+
+It's more to give you a sense of we've talked about out of deference to our customers and the position that many are putting in, in this economic environment. Continuing to work the back end and drive the demand for our license compliance business. But to go a little bit more slowly at a time when markets are and our customers are under a particular level of stress. As we've seen those markets open back up, the reason that calls out those is not only are they large but they're also in markets that have recovered.
+
+And then we are seeing come back, and as they do, we're getting right back on ensuring that we can monetize those non-compliant users. So that was the purpose of calling them out much more so than saying they were particularly lengthy in duration.
+
+Koji Ikeda -- Oppenheimer and Company -- Analyst
+
+Thanks, guys for taking my questions. Appreciate it.
+
+Scott Herren -- Chief Financial Officer
+
+Thanks, Koji.
+
+Operator
+
+Thank you. Our next question comes from Adam Borg with Stifel. Your line is now open.
+
+Adam Borg -- Stifel Financial Corp. -- Analyst
+
+Hey guys, and thanks for taking the questions. I just had two quick ones. I guess first is the building of Matt's question earlier around AutoCAD LT. Obviously, you mentioned the strength, not a penalty given the price point.
+
+I just want to drill in. Are you seeing any customers optimize purchases. You talked about that last quarter. So any trade downs from either AutoCAD or industry collections.
+
+Any commentary there would be great. And just as a quick follow up, I just want to talk about partial renewal rates. I know you've talked about renewal rates being in line with expectations, but just any commentary around the partial or renewal activity would be great. Thanks, again.
+
+Andrew Anagnost -- Chief Executive Officer
+
+Yes. So, I'll take the AutoCAD question, and I'll hand the renewal rate question over to Scott. So, actually we're not seeing that kind of behavior. What we're seeing is growth in all of these segments independent of each other.
+
+So, we're seeing customers sticking with collections. We're seeing customers buying AutoCAD for the first time. We're seeing customers buying LT for the first time. We're not seeing a lot of cross-flow between the two.
+
+But remember, as time goes on, AutoCAD does get squeezed between collections and LT over the long period. And we expect that. That's something that we plan for that we expect. We model at some point the AutoCAD as it is today gets squeezed between those two types of offerings.
+
+But right now, we're not seeing trade-off or trade down. We're seeing people staying within the offerings they have. Buying more of the offering they have, and adding up in that respect. So, Scott to the renewal.
+
+Scott Herren -- Chief Financial Officer
+
+And then what I'd add just to put a finer point on what you just said, Andrew. If you look at our product mix in terms of the percentage of sales that our LT versus AutoCAD, versus collections and others. It's reverted to its historical mean. So, we're not seeing a big shift between product mix.
+
+To your question of partial renewals, we continue to obviously to monitor that closely because it's a good indicator of how the employment health of our customers. Right. So a partial renewal I had some subscriptions they all came to the same point, but instead of renewing 10 they removed nine or I renewed eight. Right.
+
+It gives us a sense of changes in their headcount. There's always a certain amount of that. That happens in any given quarter, and what we talked about last quarter is, we've monitored the rate of those as they come up. What percent of them are doing a partial and it really hadn't moved last quarter.
+
+And it's really materially the same again this quarter. So, we're not seeing a big change either up or down. I wouldn't expect it to go down from the base rates, but we're not seeing it increase from that base rate.
+
+Adam Borg -- Stifel Financial Corp. -- Analyst
+
+Great. Thanks, again.
+
+Operator
+
+Thank you. Our next question comes from Keith Weiss with Morgan Stanley. Your line is now open.
+
+Unknown Speaker
+
+Hi Guys, This is [Inaudible] sitting in for Keith Weiss. Thank you for taking my question. Andrew, I was hoping if you could give an updated breakdown of the business between infrastructure, commercial, industrial construction. Talked a lot about industrial clearly the macro seems to be rebounding, but we're still hearing a lot of uncertainty around the commercial segment.
+
+I think in the past people thought that our debt is quite tied to the commercial side. But clearly there's no good growth in the other segments. So I was wondering if you could give any view on your exposure through those three verticals, and how you're seeing the macro in each of those.
+
+Andrew Anagnost -- Chief Executive Officer
+
+Yes. So we're not seeing any slowdown in our AEC business due to commercial dislocations that might be going on in various places right now. So, we talked about that a lot because there was this assumption that somehow commercial especially commercial office buildings and urban areas were like a big part of our business. They're not, all right.
+
+And we're still seeing strengthen the AEC business outside that. But I want to make sure we understand what's really happening in commercial right now. All right. Big urban projects are probably either -- probably going to slow down or not be as frequent.
+
+However, what is happening in urban locations they're still going to be a lot of reconfiguring work in commercial space, but also one of the things that we're gonna be seeing -- and you can see this in some of the political discussions as well as some of the business discussions we're having is that you're going to see more and more of these commercial type operations moving away from the urban centers, to suburban centers. And along transportation corridors which we see not only is driving additional building activity but digital infrastructure improvements as well. And these conversations are already going, ongoing in all sorts of legislatures, and all sorts of places about building out along transportation corridors. It's certainly a big topic of conversation in California, and we expect to see more of that.
+
+So, No. We are not seeing softness in our business, and we don't see any future softness in our business as a result of what's happening with commercial activities right now.
+
+Unknown Speaker
+
+Thank you for the call. That's helpful. And then Scott, just to follow a question for you. Obviously, stronger than expected Q2 as Andrew spoke to an improving pipeline in the back half.
+
+I'm just wondering the reason for the high end of the revenue guide declining a bit versus last quarter. Was that the explanation there similar to what you mentioned for billings earlier. I'm not sure I fully understood.
+
+Scott Herren -- Chief Financial Officer
+
+No. It's slightly different. Although it's got the same root cause. So I could start by saying, I'm really pleased with our results and proud of our execution in the second quarter in an incredibly uncertain environment to be able to produce the results that we just put up with something like that.
+
+I think we all think a lot of pride in, and as a result of that, as you saw, we raised the midpoint of our full-year revenue guide by $15 million. So that's the kind of high-level view. When you look at how we did that, we pulled up the low end, and finally reduced the high end of that guidance range. And so I think your question is just about the slight reduction on the high end as we narrowed the range from what had been a $100 million range with only six months left we narrowed it down to $60 million.
+
+We're seeing good trends in the markets that have moved into reopening. We've talked about China, Korea, and Japan products such as renewal rates are trending in the right direction. We mentioned the pipeline. The pipelines very strong, but there's still a fair amount of uncertainty, particularly in the US and in the UK.
+
+And so as we weigh all that together it's the combination of those factors that give us the confidence to raise our overall revenue guide by $15 million at the midpoint. But we had said the high end of that guidance range, and this is the point I talked about earlier. Hamzah, the myth at the high end of our guidance range previously, we were expecting a swift recovery. And while we've seen that in some markets, we haven't seen that in all markets.
+
+And so that's why narrowing it just slightly from the high end of the revenue range made sense.
+
+Unknown Speaker
+
+Thank you.
+
+Operator
+
+Thank you. And our next question comes from Joe Vruwink with Baird. Your line is now open.
+
+Joe Vruwink -- Baird -- Analyst
+
+Hello, everyone. My question is on the product roadmap. And I thought the blog post you had recently was interesting because it shows this mindfulness of striking a balance investing in certain functionality and anything that maybe gets a pass in a given year. You circle back to which I think was the case with Robot architecture.
+
+I guess my question is more on the go forward. There's going to be this interplay now not that it's new but it's going to increase where you have your core rather than non-users that are increasingly tapping into cloud functionality, and it's only going to go up now. You have to be mindful of certain things with this audience shifting to the cloud, or maybe you shift your investment priorities or different things in the product portfolio that will receive greater investment. Any meaningful changes you foresee because of that kind of new or structurally higher dynamic that's in place.
+
+Andrew Anagnost -- Chief Executive Officer
+
+Yes. So the shift is not correct not necessarily the right word. It might it would it really will be where we put your dollars. So for instance, at the beginning of this year, this whole concern around our architecture and architecture is something we saw coming because this has been five-plus year attention around with the architecture.
+
+We actually increased investment in AutoCAD architecture at the beginning of this year. So we actually use incremental R&D dollars to increase investment in that space. What it will mean moving forward is how we deliberately choose where we add incremental investments, and we've been very rich and forthright with the construction space in terms of incremental investment. We're not going to shift money away from that, but as we add incremental investment into next year, and year after that, we'll probably add more incremental investment into other places over time.
+
+So rather than thinking about it as a shift Joe, I think of it as we continue to add incremental investment which we're in the enviable position to be able to do we're spending more and already than we ever had in our history, and we have still room to invest more. We're just going to choose deliberately to add incremental investment in certain spaces as we did at the beginning of this year for architecture.
+
+Joe Vruwink -- Baird -- Analyst
+
+Yes, it does. I'll leave it there. Thank you.
+
+Operator
+
+Thank you. Our next question comes from David Hynes with Canaccord. Your line is now open.
+
+David Hynes -- Canaccord Genuity -- Analyst
+
+Hey, thanks, guys. So two questions for me. I'll start with you Scott. Curious what the lag time was between the uptick in active use and then the resumption of demand that you saw on APAC.
+
+And I guess the question is, if the same held true in the Americas based on what you saw in July, when would you expect to see an uptick in demand here.
+
+Scott Herren -- Chief Financial Officer
+
+Yes. So I don't really want to get into parsing it that quite that finally for you, David. Well we didn't see is like the usage ticked up and if there was a bit of lead time but the data is not measured than most, but there is a bit of a lead time usage picks up. And when the actual new product sales pick up.
+
+And our expectations not only have we seen that in APAC now, but we've seen the same phenomenon as the market to reopened Continental Europe. So our expectation is as we get more into a reopening in the United States that we'll see that same year. The UK is dealing with a slightly separate issue than just the normal recovery from the pandemic.
+
+David Hynes -- Canaccord Genuity -- Analyst
+
+Yes. OK. And then Andrew, one for you. Here's what the education channel.
+
+I know it's not a revenue driver for Autodesk but obviously, it's training future years or so. I'd be curious what you're seeing there just given the uncertainty around back to school processes and enrollment numbers. Any color would be helpful.
+
+Andrew Anagnost -- Chief Executive Officer
+
+Yes. Education usage is up for us. And I think frankly the remote nature of work is playing nicely into our strategy in certain areas especially with regards to the cloud and how the cloud interacts with certain parts of the curriculum. Certainly, on the university side, Fusion is doing well because of its cloud foundation.
+
+And remember, we have Tinkercad in K through 12. So Tinkercad is getting more visibility in a lot of curriculum right now as well. So education is done really well for us during the pandemic in terms of it's -- not that we haven't seen declines in usage, we absolutely have. But it's rebounded back to usage levels that we had in pre-COVID days which is it is a positive sign, and we're seeing gains in educational usage in places where the cloud is a priority for the usage period.
+
+David Hynes -- Canaccord Genuity -- Analyst
+
+Yes. Makes sense. OK. Awesome.
+
+Thanks for the color guys.
+
+Scott Herren -- Chief Financial Officer
+
+Thank you.

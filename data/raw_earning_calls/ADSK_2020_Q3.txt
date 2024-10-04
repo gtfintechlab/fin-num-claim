@@ -1,0 +1,368 @@
+Operator
+
+Ladies and gentlemen, thank you for standing by and welcome Autodesk Third Quarter Fiscal Year 2020 Earnings Conference Call. At this time, all participants' lines are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session. [Operator Instructions] Please be advised that today's conference is being recorded. [Operator Instructions]
+
+I would now like to hand the conference over to your speaker today, Mr. Abhey Lamba, Vice President of Investor Relations. Please go ahead, sir.
+
+Abhey Lamba -- Vice President of Investor Relations
+
+Thanks, operator, and good afternoon. Thank you for joining our conference call to discuss the results of our third quarter of fiscal '20. On the line is Andrew Anagnost, our CEO and Scott Herren, our CFO.
+
+Today's conference call is being broadcast live via webcast. In addition, a replay of the call will be available at autodesk.com/investor. You can also find our earnings press release and a slide presentation on our Investor Relations website. And we will also post a transcript of today's opening commentary on our website following this call.
+
+During the course of this conference call, we may make forward-looking statements about our outlook, future results and strategies. These statements reflect our best judgment based on factors currently known to us, actual events or results could differ materially. Please refer to our SEC filings for important risks and other factors that may cause our actual results to differ from those in our forward-looking statements.
+
+Forward-looking statements made during the call are being made as of today. If this call is replayed or reviewed after today, the information presented during the call may not contain current or accurate information. Autodesk disclaims any obligation to update or revise any forward-looking statements.
+
+During the call, we will quote a number of numeric or growth changes, as we discuss our financial performance and unless otherwise noted each such reference represent a year-on-year comparison. All non-GAAP numbers referenced in today's call are reconciled in the press release or slide presentation on our Investor Relations website.
+
+And now, I would like to turn the call over to Andrew.
+
+Andrew Anagnost -- President and Chief Executive Officer, Board Director
+
+Thanks, Abhey. Building on our strong performance in Q2, we delivered another quarter of solid execution and results, with revenue, billings, ARR, earnings and free cash flow coming in ahead of expectations. For the first time, we delivered over $1 billion in quarterly buildings outside of a fourth quarter and our last 12 months free cash flow came in at nearly $1 billion, breaking yet another company record.
+
+Broad-based strength across our entire product portfolio in all geographic regions drove these results. We have strong momentum in construction, are gaining share in manufacturing and we continue to make strides in converting the non-paying user-base.
+
+Before we dig into details from the quarter, I want to recognize the hard work put in by the entire Autodesk team, especially our colleagues in the Bay Area who ensured that our business did not experience any disruptions despite our San Rafael office and many employees homes being without power due to wildfires in the final days of the quarter. Our business continuity planning was flawless and the entire team went the extra mile to ensure that we did not miss a beat under very difficult circumstances.
+
+Now, let me turn it over to Scott to give you more details on our third quarter results, as well as details of our fiscal '20 guidance. I'll then return with insights on key drivers of our business and provide an update on the progress of our strategic initiatives before we open it up for Q&A.
+
+R. Scott Herren -- Senior Vice President and Chief Financial Officer
+
+Thanks, Andrew. As Andrew mentioned, revenue, billings, ARR, earnings and free cash flow, all performed ahead of expectations during the third quarter. Revenue growth of 28% was driven by strength across the board, with subscription revenue as the biggest driver. Acquisitions from the fourth quarter of last year, contributed 4 percentage points of growth. The revenue upside versus our guidance was largely driven by deals with upfront revenue recognition, including those with the federal government or that includes certain products like Vault and VRED.
+
+Some of these transactions were targeted for the fourth quarter closed early. Overall, we're very pleased with strong execution in the quarter. Total ARR grew by 28%, which is impressive in light of a tough year-on-year compare. Our cloud ARR all grew 164% tied to strong performance in construction. Excluding $113 million of ARR from acquisitions, growth in our organic cloud portfolio came in at 35%. BIM 360 Design was once again the biggest driver of our organic cloud revenue growth with strength across all regions. Indirect and direct revenue mix remained at 70% and 30% respectively. Revenue for from our AutoCAD and AutoCAD LT products grew 29% in the third quarter. AEC revenue increased 36% and manufacturing rose 15%.
+
+Geographically, we saw broad-based strength across all regions. Revenue grew 30% in Americas and APAC, while EMEA grew by 24%. Our maintenance to subscription program or M2S now in its third year continue to yield great results. The M2S conversion rate increased to an all-time high of 40%. The uptick in the conversion rate was expected as our maintenance renewal prices increased by 20% in the second quarter, making it more cost-effective for customers to move to subscription. Of those that migrated upgrade rates came in at 21% in line with expectations.
+
+Net revenue retention rate continued to be within the range of 110% to 120% during the third quarter and we expect it to be within this range in Q4. Similar to Q1, some of the deeply discounted three-year subscriptions, from a previous promotion, came up for renewal. This group of customers renewed closer to list price. And we're pleased to see the total value for the entire cohort grow.
+
+Billings grew 55% to more than $1 billion. The growth was driven by our organic business, contributions from construction, annual return of multi-year contracts closer to historical levels. We believe our customers' willingness to make long-term commitments to our solutions underscores the business criticality of our products and we are closely monitoring the rate of multiyear buying to ensure it doesn't create a headwind to future cash flows.
+
+Remaining performance obligations or RPO, which is the sum of billed and unbilled deferred revenues rose 32% and 6% sequentially to almost $3 billion. Current RPO, which represents the future revenues under contract, expected to be recognized over the next 12 months was $2.1 billion, an increase of 23%, so a solid leading indicator of the strength of our business.
+
+On the margin front, we realized significant operating leverage as we continue to execute in the growth phase of our journey. Non-GAAP gross margins were very strong at 93%, slightly up quarter-over-quarter and up 2 percentage points versus last year. Revenue growth combined with our disciplined approach to expense management enable us to expand our non-GAAP operating margin by 13 percentage points to 27%. We are on track to deliver further margin expansion in Q4 and approximately 40% non-GAAP operating margins in fiscal '23.
+
+Moving to free cash flow, we generated $267 million in Q3. Over the last 12 months, we generated a record $972 million of free cash flow, demonstrating the power of our subscription model and the strength of our products. Lastly, we continue to repurchase shares with our excess cash, which is consistent with our capital allocation strategy.
+
+During the third quarter, we repurchased 856,000 shares for $124 million at an average price of $144.49 per share. Year-to-date, we have repurchased 1.7 million shares for $264 million at an average price of $156.16 per share.
+
+In addition, we paid down another $100 million on the term loan associated with the fourth quarter of fiscal '19 acquisitions and intend to repay the remaining $150 million by the end of fiscal '20.
+
+Now I'll turn the discussion to our outlook. Our view of global economic conditions and their impact on our business remains unchanged from last quarter. As you'll soon hear from Andrew, customers continue to increase their spending on our products even in segments experiencing some near-term headwinds.
+
+Our full-year revenue outlook has been updated for the upside we experienced in third quarter, partially offset by the early signing of some transactions initially targeted for the fourth quarter.
+
+At the midpoint of our updated guidance, we are calling for revenue and ARR growth to be approximately 27% and 25%, respectively. Additionally, currency is now expected to drive an incremental headwind of about $5 million to our full-year revenue. We are adjusting our ARR outlook as some of the expected Q4 upfront subscription revenue was recognized in the third quarter.
+
+Additionally, fourth quarter ARR is being impacted modestly by the currency headwind. As a reminder, we calculate ARR by multiplying our reported quarterly subscription and maintenance revenues times 4. Our billings forecast is updated to reflect our strong performance and the momentum behind multiyear deals.
+
+We expect long-term deferred revenue to be in the mid 20% range of total deferred revenue at the end of the year. Strong billings and operational execution are driving the upside to our free cash flow outlook for fiscal '20, which is now expected to be $1.3 billion to $1.34 billion.
+
+Looking at our guidance for the fourth quarter, we expect total revenue to be in the range of $880 million to $895 million and we expect non-GAAP EPS of $0.86 to $0.91. The earnings slide deck on the Investor Relations section of our website has more details as well as modeling assumptions. Looking out to fiscal '21, we expect continued strength with revenue and free cash flow growing in the low 20% range. In line with our normal practice, we'll provide a more detailed fiscal '21 forecast on our next earnings call.
+
+In summary, I want to remind everyone that since our business model shift we have moved to a much more resilient business model that generates a very steady stream of revenues, less exposed to macro swings than when we were selling perpetual licenses. We're committed to driving revenue growth while expanding operating margins. We delivered revenue growth plus free cash flow margin of 62% in the last 12 months and plan to end the year at around 67%.
+
+Overall, I'm proud of our performance and confident of delivering on our near-term and long-term targets.
+
+Now, I'd like to turn it back to Andrew.
+
+Andrew Anagnost -- President and Chief Executive Officer, Board Director
+
+Thanks, Scott. As you heard, resiliency of our business model combined with strong momentum in our products and great execution by the team help deliver another outstanding quarter, despite continued uncertainty in some parts of the world. In terms of the macro conditions, demand remained relatively in line with the second quarter. The business environment and our results improved slightly in the UK and Central Europe and our commercial business in China continues to perform well, despite a slowdown in state-owned enterprises.
+
+During the quarter, Robertson Group, one of the largest independently owned construction companies in the UK to cover the entire construction lifecycle, significantly increased their adoption of our BIM 360 portfolio. The company deployed our software on over 60 projects over the last three years and estimates a 28% increase in productivity. This is an incredible return on investment. We are thrilled to be partnering with a company prioritizing such impressive continuous improvement
+
+And another example, one of the largest automotive parts supplier in Central Europe, nearly doubled their EBA commitment with us this quarter. With the move to electric vehicles, the customer knows innovation is needed to stay ahead of the competition. So they are investing and retooling their factory and migrating from 2D-to-3D. Our customers understand the benefits of investing in growth opportunities under all kinds of economic conditions.
+
+These examples underscore the importance of our products regardless of the macro-environment, as well as our customers' commitment to investing in technology to stay ahead of competitors.
+
+Last week, we hosted 12,000 people in Autodesk's University and customers walked away excited about our current products and our vision for their industries. In fact, 32% more customers attended the conference this year than in the previous year. Across the board, customers are looking to Autodesk to help them digitally transform their businesses and make them more competitive.
+
+Before I go into the strategic updates for the quarter, let me also acknowledge that for the fifth consecutive year, AU Las Vegas was a carbon-neutral event. This sustainable effort is reinforced and expanded by Autodesk's commitment to achieve company carbon neutrality in 2020. We're also delivering and continuing to investigate ways to help customers realize their sustainability goals through automation and insights in our technology. In fact, over the next few years, we intend to ramp up our financial commitment to this work by investing approximately 1% of operating profits in the Autodesk Foundation.
+
+Now, let me give you an update on some of the key initiatives. Specifically, our continued traction within construction gains in manufacturing and success in monetizing our non-paying user-base. These are the initiatives that continue to be key drivers of our business.
+
+In construction, the breadth and depth of our product portfolio continue to make our offerings more compelling for our customers. In the last two years, the number of participants from the construction industry had Autodesk University increased over seven-fold to approximately 3,500. At AU this year we announced Autodesk Construction Cloud, which combines our advanced technology with the industry's largest network of builders and powerful predictive insights to drive more productivity, predictability and profitability for companies across the construction lifecycle.
+
+Autodesk Construction Cloud is comprised of our best of breed Construction Solutions Assemble, BuildingConnected, BIM 360 and PlanGrid and connects these solutions with Autodesk's unmatched design technology such as AutoCAD and our 3D modeling solutions Revit and Civil 3D.
+
+The announcement included more than 50 new product enhancements across the portfolio and deeper integrations, including powerful new artificial intelligence that helps construction teams identify and mitigate design risks before problems occur.
+
+Autodesk Construction Cloud is being well received by customers and supports our long-term plan. PlanGrid and BuildingConnected continued their momentum is delivering a $113 million in ARR with growth coming from new customers as well as adoption by existing Autodesk customers.
+
+During the quarter, one of Australia's largest construction and infrastructure companies expanded its relationship with us by adding PlanGrid and BIM 360 to its existing product set. The transaction resulted in the largest new product agreement for PlanGrid globally and the largest regional enterprise deal to-date.
+
+We are helping the company adopt cloud-based technologies to improve project delivery and safety. The depth and breadth of our solutions that many other vendors in the space cannot deliver is very appealing to our customers. For example, we enhanced our relationship with EBC one of Canada's leading construction companies focused on infrastructure, buildings and natural resources by adding BuildingConnected to their existing portfolio of Assemble and BIM 360 Solutions.
+
+Our sales team demonstrated how we could help manage their systems more effectively and prepare them better for the future. We were able to meet their needs for the design and construction phases of the building lifecycle for both the commercial and infrastructure industry segments. We continue to focus our investments on infrastructure, which has performed well in prior downturns. This focus could offer us greater resiliency should the macro-environment weekend. We recently announced availability of collaboration for Civil 3D, which is now included with BIM 360 Design and enables teams to collaborate on complex infrastructure projects.
+
+We also continue to gain market share in the infrastructure space. This quarter, we significantly expanded our relationship with JR Group, made up of seven companies responsible for operating almost all of Japan's intercity and commuter rail services. As part of our strategic collaborations, all seven of the Group's companies will use our tools such as Revit, Civil 3D and AutoCAD, over competitive offerings to develop a nationwide BIM rail standard.
+
+Moving to manufacturing, the business is performing extremely well as we continue to gain share from competitors with steady innovations in Generative Design and Fusion 360. We believe a large number of small and medium-sized businesses will look to upgrade their vendor stack over the next few years, which is a clear opportunity for us to grow market share.
+
+Similar to last quarter, we had a number of competitive displacements of SolidWorks, Mastercam and PTC Creo. For instance, a 3D display designer and manufacturer in North America replaced SolidWorks and Mastercam with Fusion 360, because it integrated design and CAM capabilities.
+
+In another instance, a manufacturer of plastic machine components in the UK displaced SolidWorks and another CAM vendor with Fusion 360 in their design and manufacturing workflow. The company was attracted to Fusion's cloud-based collaboration capabilities, in addition to the integrated functionality and price point.
+
+Our success in manufacturing is not limited to, small and medium-sized businesses. We are making inroads and larger organizations as well. During the third quarter, Daifuku chose Autodesk as the best design software partner to move from 2D-to-3D solutions.
+
+Based in Japan, Daifuku is the world's leading material handling system supplier, serving a variety of industries, including the manufacturing, distribution, airport and automotive sectors. With its new EBA, the company has standardized on inventors of 3D platform and is also considering Revit for future building initiatives.
+
+We continue to invest in our manufacturing solutions. In fact, some of you might have seen the exciting news coming out of Autodesk University last week. We announced a partnership with ANSYS and our customers will soon have an option to use ANSYS simulation solutions while running our industry-leading Generative Design workflows in Fusion 360.
+
+We also announced the introduction of a new end-to-end design through make workflow for electronics in Fusion, providing key capabilities such as integrated PCB design and thermal simulation. This is something our customers have been asking for as the market for smart products continues to grow.
+
+With Fusion 360, users can take those electronic ideas and physically produced them in the same product development environment, bypassing the current disconnect between design, simulation and manufacturing that make data importing and translation necessary.
+
+Lastly, we are looking forward to meeting some of you at our manufacturing event of the Autodesk Technology Centre in Birmingham, UK on Monday, December 2, at that time you'll learn even more about our solutions and strategy in the space.
+
+Now, let's close with an update of our progress with digital transformation and how it is allowing us to monetize the non-compliant user-base. Our investments in our digital infrastructure have given us unprecedented access to non-compliant users product usage patterns. We continue to learn more about these users and are in the process of expanding our compliance programs in additional regions.
+
+During the quarter, we signed 19 license compliance deals over $500,00, including three over $1 million. The mix of deals over $500,000 was equally distributed by region. And one of the $1 million plus transactions was with a commercial entity in China.
+
+Our approach to creating positive experiences for our customers as they become compliant is paying dividends. For instance, one large manufacturer in Central Europe was paying for less than 10 manufacturing collections and had some old perpetual licenses. Our data indicated much higher usage. We worked closely with our partner and senior management at the company to identify and fix and non-compliant usage, resulting in almost a $1 million contract.
+
+The experience provided during the process has opened the door for us to discuss competitor displacement to further expand their usage and they now view us as a true partner rather than a software vendor. I am excited about our year-to-date performance and looking forward to a strong close to the year. We continue to execute well in construction and are making competitive inroads in manufacturing with our innovative solutions.
+
+I am also proud of the strides we are making in converting the current non-paying users into subscribers. 20 years ago, Autodesk was known as the AutoCAD company. Today, through the rapidly growing installed base of 3D products like Revit, Inventor, Maya and Fusion 360, we lead the market in bringing the power of 3D modeling in the cloud to all the industries we serve.
+
+We are highly confident in Autodesk's ability to capitalize on not only our near-term market opportunity, but also our long-term opportunity connected to the rise of AI driven 3D modeling in the cloud, because of this, we remain committed to delivering on our fiscal '23 goals.
+
+With that, operator, we'd now like to open the call for questions.
+
+Questions and Answers:
+Operator
+
+Thank you. [Operator Instructions] Our first question comes from Saket Kalia with Barclays. Your line is open.
+
+Saket Kalia -- Barclays -- Analyst
+
+Hey, Andrew. Hey, Scott. Thanks for taking my questions here.
+
+Andrew Anagnost -- President and Chief Executive Officer, Board Director
+
+Hey, Saket.
+
+Saket Kalia -- Barclays -- Analyst
+
+Hey, Scott. Maybe just to start with you. Just on the ARR guide and the adjustment, it sounded like there was a little bit of a tie-in with the upfront deals that's signed in the quarter. I guess the question is were these upfront deals that were originally expected to come in as subscription but then came in is upfront?
+
+I guess from an ARR perspective, I just -- I imagine signing it in Q3 as a subscription wouldn't make as much of a difference to Q4 ARR. But I'd love to just understand the dynamic there around the upfront deals this quarter and how it sort of impacted the ARR outlook for the year?
+
+R. Scott Herren -- Senior Vice President and Chief Financial Officer
+
+Yes, it's a great question, Saket. Thanks for putting it out there because I think you're probably not the only one scratching their head. Here's the way you've got to think about it. The -- if you step back and think of the way we define ARR, it's actual reported subscription plus maintenance revenue for the quarter and then we annualize it by multiplying by 4.
+
+So we give you a full-year ARR number, what we're really saying is this is what we think our Q4 subscription and revenue numbers -- subscription and maintenance revenue number will be times 4. What you saw in Q3 is we had a fair amount of upside in the revenue line versus the midpoint of guide, the revenue was $18 million higher than the midpoint. Some of what drove that was upfront revenue.
+
+We always have a little bit of upfront revenue. So we have a couple of products, smaller products that under ASC 606 don't qualify for ratable treatment. So we sell them just like a subscription. They look -- the economics of them look like a subscription, the customer buys it, they have to renew in 12 months, but under 606 you have to claim all that revenue upfront.
+
+It's small products like Vault that fall in this category. What happened in Q3 is we have a handful of deals with this small product set that we thought were coming in Q4, we actually got closed in Q3. And because they upfront that revenue moved out of Q4 and into Q3 and there is no tail of it -- there is no ongoing -- all of their revenue is recognized upfront.
+
+This happens every quarter, but this was particularly magnified where we had a handful of these deals that we thought were coming in Q4, actually came in Q3 instead. So good news is Q3 looks super strong. The downside is that creates a headwind to the Q4 subscription and maintenance revenue, and therefore, to the Q4 ARR calculation.
+
+So it's kind of the combination of ASC 606 and the way it treats just a small subset of our products. And then how that gets rippled through in the way we calculate ARR which is actual reported revenue times 4.
+
+What's important to remember is a couple of things. One is the way the Rev Rec works is not necessarily, I'm not -- it doesn't reflect the economics of the transaction. We sell these on a subscription basis, they look just to our customers just like any other subscription. So this change in ARR isn't reflective of any kind of change in the overall economics of our business.
+
+I think the second is, when you peel back the growth that we're going to see in subscription revenue this year, and you can derive this from the guidance we just gave you, Saket, we see subscription revenue continuing to grow for the full-year, right? Because that's an accumulated metric, it's Q1 plus Q2 plus Q3 plus Q4 when revenue moves across quarter lines, it doesn't matter when you aggregate to the full-year.
+
+For the full-year, we see subscription revenue is growing in the 29% to 30% range. So still feel strong about that, we just got this anomaly between kind of the way 606 treats a small subset of products and how that gets reflected in our ARR. That's what you see in the ARR guidance change.
+
+Saket Kalia -- Barclays -- Analyst
+
+Yes, sure. That makes sense. It sounds like those Vault deals where maybe term subscriptions, which under 606 kind of requires that that upfront...?
+
+R. Scott Herren -- Senior Vice President and Chief Financial Officer
+
+Yes. It has more to do with the product, Saket, than the way we sell them. We sell them just like we sell every other product, 12 months -- you -- they pay us upfront, they get access to the product. At the end of that 12-month period, they either renew and continue to use the product or they don't renew and they lose access to the product.
+
+So it's really transparent to a customer. It's more -- some of the details of the offering itself under 606 don't qualify for ratable treatments.
+
+Saket Kalia -- Barclays -- Analyst
+
+Got it. If I can -- if I can ask a quick follow-up for you. Andrew, just to get off accounting. I mean really interesting development in the CAD market just with more talk about SaaS adoption. Obviously, we Onshape got acquired and clearly you compete here with tools like Fusion 360, but curious how you think about SaaS adoption in CAD? And what if anything that deal could mean for Autodesk competitively?
+
+Andrew Anagnost -- President and Chief Executive Officer, Board Director
+
+Yes. First off, let me just kind of say that I have a lot of respect for Jon Hirschtick and the work that he's done over the years. I have respect for Jim Heppelmann in the work is done in the past and I think they're important forces in this industry, but the way this is all coming down and characterized is just off.
+
+Okay. So let's talk about what we all agree on and what's happening -- what's really happening in the market. So here is we all agree on, multi-tenant SaaS is the future of our business. It just is. It's the future of the entire software business. I've just been saying this for seven years now. Okay. Seven years and we've been executing on it for seven years. Fusion 360 is a multi-tenant SaaS offering. Okay. With the SaaS business model. Here's the other thing we agree on. What does the SaaS mean? It means three important things. All right. Data, the cloud is going to revolutionize data flow in the manufacturing and product development industries. It's just going to revolutionize. Multi-disciplinary data flow, data flow across various parts of the supply, it's just going to revolutionize data flow. Compute, compute power. We're able to deploy compute power through the cloud in ways we've never been able to follow [Phonetic]. We do a generative design that's all computed off the desktop. It's all -- that is all a cloud compute exercise. And then the last thing, I think we all agree on that we don't all talk about this equally, and some of us aren't actually executing on it, is that we can layer machine learning on top of this data layer and with this compute and we can start doing predictive analytics and all sorts of predictive and insight -- and insightful studies on top of what people do. And some of our Generative Design algorithms already incorporate machine learning with regards to how they integrate CAM.
+
+So we all agree on that. All right. It's been uniform grid and we're all building that to some degree. We're all I think quite a bit ahead and I'll get to that in a minute. But here's is what we don't agree on is how you do it. All right. And there's a big difference here in the way Fusion and Onshape works. Fusion is taking the strategy where we have a thin client, which is a browser and we have a thick client which is installed on the desktop and works on that cloud data layer.
+
+The thin client, the thick client see the world exactly the same. They can't operate without the cloud behind it. They're dead without it. The reason we have the thick client is we're solving an additional problem if there's end-to-end workflow, all the way from design to CAM, electronics and all these things. So we're putting a huge amount of power in there that you want to -- that you want to get in there in order to solve the bigger problem.
+
+Onshape put CAD in the browser, a thin client. We knew from our thin client experiments early on, which were like five to seven years ago, that don't work. Okay. That both don't float. And one thing, we've just seen from this acquisition is we were right. What was Onshape installed base? Eight years into this experiment, 5,000 subscribers.
+
+We did more than that. We added more subscribers to the Fusion base in Q3 than that entire installed base. So, we're talking tens of thousands of paid Fusion subscribers and we're talking about 5,000 subscribers for Onshape. We know exactly why, because that thin client only solution doesn't work, you need a thin client and a thick client. Sure, the thick client will probably get better over time, but that's what you need today and you also need the new business model with a different prices and the different options.
+
+So, we just have a different view of how to do it and we're pretty convinced, we're way ahead. I think the data now -- now that we can see the data, we are now confirming that we're way ahead, but that's kind of where we're at. We all see the world the same way, we're executing on a differently and the market is voting with its wallet.
+
+Saket Kalia -- Barclays -- Analyst
+
+Very helpful, guys. Thank you.
+
+Abhey Lamba -- Vice President of Investor Relations
+
+Thanks, Saket.
+
+Operator
+
+Our next question comes from Sterling Auty with JP Morgan. Your line is open.
+
+Sterling Auty -- JP Morgan -- Analyst
+
+Yes, thanks. Hi guys. I'm wondering at this part of the transition, you mentioned the increase in the maintenance pricing, but what are the additional levers that you have to drive increases in ARR growth on a dollar basis moving forward?
+
+R. Scott Herren -- Senior Vice President and Chief Financial Officer
+
+Sterling, it's a along the same factors that we've talked about, right? So obviously the renewal base continues to grow. That renewal base comes to us at a better set -- price realization than that new does. We continue to drive growth out of construction. I mean you saw -- we gave you some of the data points, both in the opening commentary and in the press release. Construction business drove $113 million of ARR in the third quarter.
+
+So we continue to see strong growth there as well. Well, the core basically grows to a certain degree every year, which I'd say 6% to 8% growth in the core every year. So it's the same factors we've always talked about that will continue to drive that growth. I think one thing to bear in mind, we now are in year three of the M2S program and remember the very first cohort of M2S customers we signed, we've locked in their price for three years, but then at the end of that time we said they reverted to the terminal price which for that set of customers will be about 11% price increase.
+
+We begin to see the front edge of that even for the M2S base that's been locked in. So we'll start to ripple in in the second quarter of next year. So we'll -- besides just our annual price increase rhythm that we've gotten on there is a few embedded price increases that will be coming through over the next few years as well. So, piracy recapture, construction, renewal base growth and some embedded price increases as well drive a longer-term.
+
+Sterling Auty -- JP Morgan -- Analyst
+
+Got it. And then the one follow up would be you kind of surpassed already what you expect in terms of long-term deferred as the mix. You talked about the percentage of multi-year deals. What I'm kind of curious about is what is the collection terms that you're offering to drive some of the collection of these multi-year deals?
+
+Andrew Anagnost -- President and Chief Executive Officer, Board Director
+
+Yes, it's a standard three years upfront,10% discount. I think you see most companies that sell on a annual subscription basis will offer that kind of a 10% is obviously a bit better than the cost of money over three years, but not a whole lot more and there is no extended ARR terms. There's nothing else that goes with it.
+
+What I'd say just to perhaps get it what's underneath your question, Sterling, is we're monitoring that very carefully. And one of the reasons that I went ahead and gave you some headlights on fiscal '21 both revenue growing in the low 20% range and free cash flow growing in the low 20% range, is that I didn't want there to be this building perception that because multiyear is reverting to the mean. But that was some operating a headwind that we wouldn't be able to see the same kind of free cash flow growth next year.
+
+Obviously, it's an outsized growth this year going from $300 million of free cash flow in fiscal '19 to $1.3 billion to $1.34 billion this year, but we see that growing another 20% next year in fiscal '21. So we're monitoring the multi-year -- the percent of sales multiyear very closely and if we see it begin to run through hot, where we think it's not sustainable, and it will begin to create a headwind we'll modify the offering.
+
+Sterling Auty -- JP Morgan -- Analyst
+
+Got it. Thank you.
+
+Andrew Anagnost -- President and Chief Executive Officer, Board Director
+
+Thanks, Sterling.
+
+Operator
+
+Our next question comes from Phil Winslow with Wells Fargo. Your line is open.
+
+Phil Winslow -- Wells Fargo -- Analyst
+
+Hey, guys. Thanks for taking my question and congrats on good quarter. Just a question on the next year's outlook, just building on your comments just now. When you think about the macro comments that you've made in terms of just geographies, as well as the different verticals? How do you think about the puts and takes for 2021? And then just one quick follow-up to that.
+
+Andrew Anagnost -- President and Chief Executive Officer, Board Director
+
+Yes. Did you say for '21. Yes, so first off, Phil, let me comment on kind of what -- how we do things, since we talked last quarter. There really hasn't been a fundamental change in our view of the market right now. In fact, a few things got a little bit better. All right. That the UK and Germany are still performing below our expectations, but they are growing and they showed a slight improvement in Q4 -- I mean Q3. I can't see that far in the future yet.
+
+In Q3 relative to what we saw in Q2. The same goes for China. We're still not doing any business with the state-owned enterprises. But the business continue to grow just below our expectations, so we actually saw a little bit of a firming up. Not a deterioration in the business, which is a good sign.
+
+Now as we look into next year, we're not seeing any fundamental change in the places where we've seen weakness. But more importantly, there is a trend going on that I want you to pay attention to, which is a tailwind for us as we move into any situation that we see in the next year and how we feel about next year. People are moving more and more rapidly to the model-based solutions we're deploying and the cloud-based solutions we're deploying because they see those is fundamental to their competitive shift, their competitive dynamics.
+
+We're seeing continued acceleration of BIM that is going to continue into next year. BIM mandates, BIM projects specs, especially going to continue. Inventor and Fusion 360 are growing as we head into next year and the momentum on construction is solid. In addition to that, one of the things that we always see as anti-cyclical as we head into any kind of environment is infrastructure. And over the last year, we've been investing in infrastructure capabilities in our product and a lot of those are going to show up next year and they are going to show up, both with regards to some of our construction portfolio and some of our design portfolio.
+
+So we feel pretty good heading into next year and that's one of the reasons why in the opening commentary we affirmed this low single-digits growth in free cash flow for next year.
+
+Phil Winslow -- Wells Fargo -- Analyst
+
+Low 20.
+
+Andrew Anagnost -- President and Chief Executive Officer, Board Director
+
+Yes, low 20. Didn't I say low 20s, sorry. Thank you for correcting me. That would have been -- that would have definitely upset somebody. The low '20 -- the low 20% cash flow increase year-over-year.
+
+Phil Winslow -- Wells Fargo -- Analyst
+
+Great. That's great color. Thank you. And then just a follow-up on that for Scott, obviously you're not guiding to operating income or operating expenses, but also just help me think about sort of the framework for next year, because obviously this is an investment year plus acquisitions just high-level, give us your thought process on just the expense side? And then I'll go back in the queue. Thanks.
+
+R. Scott Herren -- Senior Vice President and Chief Financial Officer
+
+Okay. All right. Thanks, Phil. On that one of the things that we've said is we expected growth -- spend growth and also COGS plus OpEx between '20 and '23 to be in this high-single to low double-digit range. If you look at the growth we had this year, spend growth in the guidance will be about 9%, but the overwhelming majority of that came via acquisition.
+
+So the organic business has been roughly flat now for about four years and there is some pent-up demand for increased sales capacity for continued investment in digitization. So, what I would model for fiscal '21 is something toward the higher end of that low single to double-digit -- sorry high single to low double-digit range. So closer to the low double-digit range for fiscal '21, but then averaging out in that high single to low double throughout fiscal '23. Does that get at what you were asking about?
+
+Phil Winslow -- Wells Fargo -- Analyst
+
+Yes. That's perfect. Thank you very much.
+
+R. Scott Herren -- Senior Vice President and Chief Financial Officer
+
+All right. Thanks, Phil.
+
+Andrew Anagnost -- President and Chief Executive Officer, Board Director
+
+So we're experiencing some digit dyslexia here.
+
+Operator
+
+Thank you. And our next question comes from Heather Bellini with Goldman Sachs. Your line is open.
+
+Heather Bellini -- Goldman Sachs -- Analyst
+
+Great, thank you. I guess just twp quick ones. But one, just following up on what Phil was just talking about. If you look out to next year, would you say that the environment that you're expecting the environment to be stronger, weaker or the same than what you had this year when you're thinking about the puts and takes of everything you were just talking about?
+
+And then just was wondering how do you think about, in the context of what you were just saying about expense growth, how do you think about managing operating margins if the macro-environment did start to go against you? I'm just trying to think about the trade-off between driving growth versus protecting margins, if you can just share with us your philosophy there? Thank you.
+
+Andrew Anagnost -- President and Chief Executive Officer, Board Director
+
+So we absolutely expect things to stay fairly consistent heading in the next year. I'd like to highlight the counter-cyclical aspects of our business right now, with regards to BIM mandates, with regards to the momentum around displacing SolidWorks and Mastercam in smaller accounts for Fusion, with regards to digitization in construction, with regards to infrastructure, because these are important things to keep in mind. But our assumptions into next year is these places where we saw our soft are going to continue to be soft, relative to our expectations. And we're going to continue to see kind of the same thing heading into the rest of the markets.
+
+I'll let Scott comment on the investment model.
+
+R. Scott Herren -- Senior Vice President and Chief Financial Officer
+
+The only thing I'd add to what Andrew just said before I jump in on spend management, is we do think by the way, there continues to be an accelerating opportunity that's not necessarily tied to overall macro spend environment in areas like construction and the momentum that you see us gaining in piracy recapture. On the spend management question, Heather, you've seen us really exercise good spend management muscles for four consecutive years at this point.
+
+I feel good about our ability to do that. I had mentioned that there is pent-up demand for spend, there is, but to the extent that we see the business beginning to trend lower than what we expected, of course, will tighten up on that front. I think it's a muscle that we've built that doesn't -- it's taken time, it doesn't go away overnight.
+
+So I think you can expect us to continue to be diligent on spend management. That said, with the revenue growth we're expecting next year, we will not only grow revenues, we will be able to grow spend and expand margins. We are expecting expanded operating margin next year versus this year. So I think we're pretty well-positioned from a spend management standpoint next year.
+
+Heather Bellini -- Goldman Sachs -- Analyst
+
+Great. Thank you.
+
+R. Scott Herren -- Senior Vice President and Chief Financial Officer
+
+Thanks, Heather.
+
+Operator
+
+Our next question comes from Jay Vleeschhouwer with Griffin Securities. Your line is open.
+
+Jay Vleeschhouwer -- Griffin Securities -- Analyst
+
+Thank you. Good evening. Andrew, I was pretty intrigued by your several references to infrastructure, which is a business that as you know at this point of time, the company broke out and it looks as I would still about a quarter to a third of your total AEC business, even after including ACS. And so I'm wondering if that's a business that you might revert to reporting out in some way.
+
+And also just talk about what you think the growth potential is of infrastructure as a proportion of the total AEC revenue? And then as a follow-up longer-term question is well regarding your sales mix. That is to say, you 50-50 mix expectations of direct and indirect, we have direct potentially be in the store on that point, could you talk about whether you're still confident in the stores becoming half of half or a quarter of the total? If it -- what are the limitations you think or risks to that trajectory of growth for the store and if it doesn't come through how are you thinking about reverting spending or redirecting spending and sales development back toward named account direct and the channel?
+
+Andrew Anagnost -- President and Chief Executive Officer, Board Director
+
+Yes. Okay, so you asked a couple of questions there. So let me start on the infrastructure question. So, no, we're not going to be breaking out the business or providing any more color on what percentage, but what I can tell you is that we've made some deliberate investments in rail and road. Some of those have already showing up this year, more are going to show up early next year that are targeted at where we believe some of the sweet spots in spending are going to be in areas where we have strength.
+
+You might have also noticed that we moved Civil 3D into the BIM 360 Design environment. So now the same collaborative power that we have on Revit models is available for Civil 3D models. That's important. That was something that customers were looking for.
+
+And another thing we're doing that you'll start to see progress on is this notion of a common data environment, which is really important to infrastructure projects and it's important to particularly infrastructure projects in Europe, but even in the US. People are really, really interested in these ISO compliant common data environment that's going to be showing up really soon as well. So we've made some clear targeted investments that we believe allow us to go where the real opportunity is in that space. And on top of that, if you've been following what's happening with InfraWorks that product has really grown up, and its integration with Esri and some of the things we've done there are actually pretty compelling and pretty interesting.
+
+Now with regards to the long-term targets. All right. So you're right. Right now that we're at 30% between direct and indirect. And the reason for that is not the store isn't growing. The store is growing a lot. All right. It's still our fastest-growing channel in the company. Okay. So our digital direct channel is still the fastest-growing channel in the company, say, well it's the fastest-growing, why isn't it showing more progress toward the goal [Phonetic]. The true the matter is, is if the channel grew well too. All right. It's a -- it grew robustly and I think we should all celebrate that. And at the same time, what happened is because right now the store is essentially majority an LT channel. It's not totally true because we sell the whole portfolio there and we capture a lot of construction solutions digitally direct. It's margin neutral, right now. Because the margin we make off of LT through the channel and through the store is the same. So we're getting the same economics. Now, that said, I'm not backing away at all from the 50-50 split or the 25 for -- the half of that direct being from the digital direct channels. We're still going to achieve that.
+
+Remember, I always characterize that as a long-term target and there's lots of things that haven't lit up yet that are going to help with that. Things associated with piracy recapture, things associated with construction there's a whole set of things over the next few years that are going to going to tip the balance on that number. So we're still confident. We're getting the economics we want. So we're getting the price realization we want, especially on the things that would most likely go digital direct. So we are still committed to that mix long-term.
+
+Jay Vleeschhouwer -- Griffin Securities -- Analyst
+
+Okay. Thank you.
+
+Andrew Anagnost -- President and Chief Executive Officer, Board Director
+
+You're welcome.
+
+R. Scott Herren -- Senior Vice President and Chief Financial Officer
+
+Thank, Jay.
+
+Andrew Anagnost -- President and Chief Executive Officer, Board Director
+
+Thank you.
+
+Operator

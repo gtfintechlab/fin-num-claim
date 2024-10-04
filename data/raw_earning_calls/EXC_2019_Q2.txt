@@ -1,0 +1,547 @@
+Client Id: 77
+THOMSON REUTERS STREETEVENTS
+EDITED TRANSCRIPT
+DXC.N - Q2 2019 DXC Technology Co Earnings Call
+EVENT DATE/TIME: NOVEMBER 06, 2018 / 10:00PM GMT
+OVERVIEW:
+Co. reported 2Q19 GAAP revenues of $5.013b, non-GAAP income before taxes from
+continuing operations of $749m and non-GAAP EPS of $2.02. Expects FY19 revenues
+to be $20.7-21.2b and EPS to be $7.95-8.20.
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+Client Id: 77
+CORPORATE PARTICIPANTS
+John Michael Lawrie DXC Technology Company - Chairman, President & CEO
+Jonathan Ford
+Paul N. Saleh DXC Technology Company - Executive VP & CFO
+CONFERENCE CALL PARTICIPANTS
+Ashwin Vassant Shirvaikar Citigroup Inc, Research Division - Director and U.S. Computer and Business Services Analyst
+Brian Lee Essex Morgan Stanley, Research Division - Equity Analyst
+Bryan Connell Keane Deutsche Bank AG, Research Division - Research Analyst
+Darrin David Peller Wolfe Research, LLC - MD & Senior Analyst
+James Edward Schneider Goldman Sachs Group Inc., Research Division - VP
+James Eric Friedman Susquehanna Financial Group, LLLP, Research Division - Senior Analyst
+Joseph Dean Foresi Cantor Fitzgerald & Co., Research Division - Analyst
+Rod Bourgeois
+PRESENTATION
+Operator
+Good day, and welcome to the DXC call. Today's call is being recorded. At this time, I would like to turn the conference over to Mr. Jonathan Ford,
+Head of Investor Relations. Please go ahead, sir.
+Jonathan Ford
+Thank you, and good afternoon, everyone. I'm pleased you're joining us for DXC Technology's Second Quarter Fiscal 2019 Earnings Call. Our speakers
+on today's call will be: Mike Lawrie, our Chairman, President and Chief Executive Officer; and Paul Saleh, our Chief Financial Officer.
+The call is being webcast at dxc.com/investorrelations, and we've posted slides to our website, which will accompany the discussion today.
+Slide 2 informs our participants that DXC Technology's presentation include certain non-GAAP financial measures and certain further adjustments
+to these measures, which we believe provide useful information to our investors. In accordance with SEC rules, we have provided a reconciliation
+of these measures to their respective and most directly comparable GAAP measures. These reconciliations can be found in the tables included in
+today's earnings release as well as in our supplemental slides. Those documents are available on the Investor Relations section of our website.
+On Slide 3, you'll see that certain comments we make on the call will be forward-looking. These statements are subject to known and unknown
+risks and uncertainties, which could cause actual results to differ materially from those expressed on the call. A discussion of risks and uncertainties
+is included in our annual report on Form 10-K and other SEC filings. I'd like to remind our listeners that DXC Technology assumes no obligation to
+update the information presented on the call, except as required by law.
+And now I'd like to introduce DXC Technology's Chairman, President and CEO, Mike Lawrie.
+2
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+NOVEMBER 06, 2018 / 10:00PM, DXC.N - Q2 2019 DXC Technology Co Earnings Call
+Client Id: 77
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Okay. Thank you, and good afternoon, everyone. Thanks for taking the time with us. As usual, I have 4 or 5 key points, which I will develop a little
+bit and then turn it over to Paul, and then we'll open it up for any questions that you have.
+First, non-GAAP EPS in the second quarter was $2.02. Adjusted EBIT was $799 million and our adjusted EBIT margin was 15.9%, and we generated
+$604 million of adjusted free cash flow in the second quarter.
+Revenue in the second quarter was $5.013 billion on a GAAP basis, and constant currency revenue was down 6.2% year-over-year and roughly
+$200 million below our expectations for the quarter. The 2 primary causes were slower ramp-up on a few large digital contracts and a decline in
+our application and maintenance management business. And I'll talk more about each of these in a moment. The book-to-bill was 0.9x for the
+quarter.
+The third point, in constant currency, our digital revenue grew 6.4% year-over-year and 2.5% sequentially, reflecting the slower ramp-up on a few
+large digital contracts. Bookings in the quarter were up 50% year-over-year for a book-to-bill of 1.8x. Our industry IP and BPS revenue was down
+2.1% year-over-year and up 1.7% sequentially, and the industry IP and BPS book-to-bill was 1.1x.
+At the end of the second quarter, we completed the acquisition of Molina Medicaid Solutions, a Medicaid management information systems
+business. And we will continue, we'll continue to execute on our margin improvement plan and now expect to deliver $575 million savings this
+year versus our original target of $400 million, and I'll talk more about our margin improvement plans in a moment.
+And finally, we now expect to have $300 million of currency headwinds for the full year, and combined with the revenue shortfall this quarter and
+the delays on digital contracts, we're revising our revenue guidance for the full year to a range of $20.7 billion to $21.2 billion. And given the
+progress we're making on our cost takeout plans, we're raising our non-GAAP EPS target to a range of $7.95 to $8.20. And we continue to target
+adjusted free cash flow of 90% or more of adjusted net income.
+Now let me just briefly go into each of those 5 points. Second quarter non-GAAP EPS, as I said, was $2.02 and the effective tax rate was 23.5%.
+Second quarter adjusted EBIT was $799 million. The adjusted EBIT margin was 15.9%. This was up 230 basis points year-over-year and 70 basis
+points sequentially. GBS segment profit margin was 18.9%. This was up 290 basis points year-over-year and 70 basis points sequentially.
+In GIS, profit margin was 16.3%, and this was up 200 basis points year-over-year and 90 basis points sequentially. The margin improvement reflects
+continued execution of the savings lever that we've previously discussed, including workforce optimization, supply chain efficiencies and facilities
+rationalization. And as I said, adjusted free cash flow for the quarter was $604 million or 105% of adjusted net income. And for the year-to-date,
+adjusted free cash flow was $925 million or 81% of adjusted net income.
+Now on to revenue. As I said, revenue in the second quarter was $5.013 billion on a GAAP basis, and constant currency revenue was down 6.2%
+year-over-year and the book-to-bill was 0.9x. As I mentioned, revenue was roughly $200 million below our expectations for the quarter.
+First, we saw delays in the ramp-up of a few large digital contracts. And while we continue to see strong market demand for our digital solutions,
+it is taking us longer than expected to bring on resources to support the digital growth. Several clients were also behind in scaling their digital
+transformations. Together, these delays impacted revenue in the quarter by roughly $100 million.
+Now to accelerate our hiring, we're creating a dedicated digital hiring engine. Since DXC's launch, we've had a significant focus on synergy realization
+and cost takeout. And as a result, we had very limited bench. Now that we've instilled a more disciplined cost and labor management process,
+we're building bench in our fastest-growing capabilities to rapidly staff digital contracts and accelerate revenue.
+On the client side, we're leveraging Bionix to generate savings in other parts of the business that can be used to fund accelerated digital
+transformations.
+3
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+NOVEMBER 06, 2018 / 10:00PM, DXC.N - Q2 2019 DXC Technology Co Earnings Call
+Client Id: 77
+The second reason for our $200 million revenue miss was the decline in our application maintenance and management business. This business
+missed expectations by roughly $80 million. The miss was largely driven by a reduction in application maintenance spend in several large accounts,
+particularly in the Americas, including HPE, as these clients remixed their IP investments.
+Now adjusting for this miss in the previously disclosed ramp down of integration projects for HPE and HPI, the Americas business was down about
+3.5% year-over-year and was up 3% sequentially. And we're taking steps to improve performance in these businesses. We recently made leadership
+changes in both our Americas region and global application services business. And we also added application sales specialists in the Americas to
+more effectively identify and pursue add-on projects. And we believe these actions will drive sequential growth in the second half of the year.
+In the second quarter, GBS revenue was $2.1 billion, down 7% year-over-year in constant currency. The year-over-year decline was driven by the
+completion of transformation projects with HPE and the traditional application services business I just discussed. GBS book-to-bill in the quarter
+was 1x.
+GIS revenue in the quarter was $2.9 billion. GIS revenue was down 5.7% year-over-year in constant currency, reflecting the expected decline in the
+traditional business but less offset from cloud growth. Cloud had a very strong bookings in the quarter with a book-to-bill of 2.2x and was up 37%
+year-over-year and 99% sequentially. Now given this bookings, we expect GIS revenue to return to more normal levels moving forward. Overall,
+GIS book-to-bill in the quarter was 0.9x.
+Now we move on to digital and our industry IP and BPS results. In constant currency, digital revenue was up 6.4% year-over-year, again reflecting
+the slower ramp-up on a few digital contracts that I mentioned earlier. Bookings in the quarter were very strong, with a 1.8x book-to-bill, driven
+by our cloud infrastructure and digital workplace offerings.
+Our digital pipeline is also up more than 80% year-over-year and 50% sequentially, which reflects the strong demand we're seeing for these
+capabilities. Our security business continues to gain traction with a 9.8x growth in constant currency year-over-year and a 1.4x book-to-bill. Bookings
+in the quarter include a risk automation solution for a large Australian bank, where we're working with the bank to identify risk in the digital domain,
+and we're developing predictive risk models integrated with the bank's existing enterprise risk solutions. We're also investing to more tightly
+integrate security and operations automation as part of platform DXC. This addresses strong client demand for security orchestration and automated
+response in solutions.
+In digital workplace, we grew 25% constant currency with a 4x book-to-bill. Bookings in the quarter included large deals with the U.K. Ministry of
+Defense and a European energy provider.
+Enterprise cloud apps and consulting grew 6.6% year-over-year and was impacted by the client delays that I previously discussed. Bookings in the
+quarter were strong with a book-to-bill of 1.3x. Now we continue to leverage our QuickStart offerings to rapidly diagnose client environments and
+develop large-scale transformation road maps.
+Key wins in the quarter include an Oracle deal with the New South Wales Ministry of Health, a ServiceNow deal with a major aerospace client and
+an SAP deal with a large European railway. In constant currency, cloud infrastructure grew 1.9% in the quarter. Lower year-over-year growth reflects
+a strong second quarter last year, including a large non-reoccurring deal. Sequentially, we grew 5.6% and bookings in the quarter were up 37% for
+a book-to-bill of 2.2x, including multiple deals larger than $100 million in the U.S., Germany and UAE. In constant currency, cloud infrastructure, as
+I said, was up 1.9% in the quarter.
+Now moving to industry IP and BPS. This revenue was down 2.1% year-over-year in constant currency, driven primarily by delays in a few health
+care and insurance contracts, including deals with health agencies in Queensland and Norway. Second half revenue will also benefit from revenue
+ramping on some of our BPS life insurance contracts, including Brighthouse.
+We continue to invest in our digital portfolio. For example, in response to the rapidly growing need to accelerate the migration of data and analytics
+to the cloud, we established the industry's first analytics migration factory for Microsoft Azure in Bangalore. DXC's dedicated Azure factory and
+Azure-certified teams helped clients achieve faster, more efficient cloud migrations while rapidly implementing new applications with innovative
+4
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+NOVEMBER 06, 2018 / 10:00PM, DXC.N - Q2 2019 DXC Technology Co Earnings Call
+Client Id: 77
+tools and integrated prebuilt analytics and AI services. We plan to establish 2 additional analytics migration factories in Warsaw and Manila by the
+end of December.
+Now on my fourth point, last month, we completed the acquisition of Molina Medicaid Solutions from Molina Healthcare. This expands our business
+supporting state agencies in the administration of Medicaid programs and adds to our health care IP portfolio. Combining the Molina business
+with DXC's existing platforms will provide opportunities for us to expand the margins in the business, while enhancing the services we can provide
+to state agencies and Medicaid recipients.
+We also recently announced the acquisition of argodesign, a digital design consultancy based in Austin. Argodesign will enhance DXC's capabilities
+and interface design and user experience, which are key elements in developing and delivering digital transformation solutions at scale. DXC will
+build on argodesign's world-class design talent as part of its services portfolio to accelerate and lead client digital transformations.
+And yesterday, we announced 2 acquisitions: BusinessNow and TESM, which will further expand our industry-leading ServiceNow practice.
+BusinessNow is a global end-to-end ServiceNow partner, and TESM is the largest independent ServiceNow partner in the Nordics. These acquisitions
+will further enable our clients to leverage ServiceNow as a foundation for enterprise-wide digital transformation. And working together, DXC and
+ServiceNow deliver a broad range of cloud-based, as-a-service solutions that extend beyond IT service management to risk and compliance as well
+as human capital management.
+Now as I mentioned, we continue to execute on our margin improvement plan and now expect to deliver $575 million in savings for the year versus
+our original target of $400 million. In addition, we believe we can drive 250 to 350 basis points of further margin expansion by fiscal '22 versus our
+current margin of 15.9%.
+Our automation program, Bionix, drives significant savings for DXC and our client while also improving service levels. Our automated digital
+workforce is now responsible for resolving more incidents than our largest physical delivery center. And where deployed, we're exceeding 99% of
+our service level agreements and have driven a 40% reduction in Alpha or high-priority incidents.
+Our labor mix and pyramid. We expect to shift roughly 10% of our workforce to nearshore and low-cost centers, and we plan to improve our labor
+pyramid by 10 points as well. We'll continue executing similar efficiency improvements in our third-party labor spend as well as actions to reduce
+nonlabor expense.
+We're standardizing and optimizing specifications to reduce hardware costs and lower maintenance spend, and we also continue to consolidate
+vendors to increase scale and drive more favorable rates. And in facilities, we will optimize our data center footprint and drive greater asset utilization.
+We'll also continue to exit low utilization and subscale facilities. And we're leveraging our talent cloud to further decrease our need for physical
+locations.
+Now we'll provide more detail on each of these levers and our margin expansion plan at our Investor Day on Thursday.
+Now just to conclude, before I turn this over to Paul. We now, as I said earlier, expect to have $300 million of currency headwind for the full year.
+And combined with the revenue shortfall this quarter and the delays on some digital contracts, we're revising our revenue guidance for the full
+year to a range of $20.7 billion to $21.2 billion. Our cost takeout actions are mitigating the impact of this revenue decline.
+Now given the progress we're making on cost takeout, as I said, we're raising our non-GAAP EPS target to a range of $7.95 to $8.20. And we expect
+adjusted free cash flow to be 90% or more of adjusted net income.
+Now with that, I'll turn it over to Paul and then come back when we get to the question period. Paul?
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+Yes. Thank you, Mike, and greetings, everyone. I'll start by covering some items that are excluded from our non-GAAP results this quarter.
+5
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+NOVEMBER 06, 2018 / 10:00PM, DXC.N - Q2 2019 DXC Technology Co Earnings Call
+Client Id: 77
+In the current quarter, we had restructuring cost of $157 million pretax, or $0.41 per diluted share. These costs represent severance related to
+workforce optimization programs, particularly in complex countries, and expense associated with facilitated than data center rationalizations.
+Also in the quarter, we had $128 million pretax or $0.34 per diluted share of integration, separation and transaction-related cost, reflecting the cost
+of the IT system separation from legacy HPE. Year-to-date, restructuring, integration and transaction costs amounted to $540 million pretax or
+$1.43 per diluted share.
+In the second quarter, amortization of acquired intangibles was $132 million pretax or $0.35 per diluted share. Excluding the impact of these special
+items, non-GAAP income before taxes from continuing operation was $749 million and non-GAAP EPS was $2.02.
+Now let me turn to our second quarter results in more detail. GAAP revenue in the second quarter was $5.013 billion. Adjusted EBIT in the quarter
+was $799 million. Adjusted EBIT margin was at 15.9% compared with 13.6% in the prior year. Now this year-over-year improvement reflect the
+progress we're making in executing on our cost takeout and synergy plans.
+During the second quarter, we continue to optimize our workforce. We further reduced total headcount by over 2,000 people, driven by the ongoing
+deployment of Bionix, overhead rationalization and elimination of the stranded cost associated with our USPS business.
+In supply chain, we are driving additional procurement efficiencies. We're rationalizing our software portfolio and standardizing around a few
+partner solutions. We're also benefiting in the quarter from the consolidation of enterprise license agreements. And we are opportunistically
+in-sourcing contract labor for strategic capabilities that align with our long-term demand.
+Now turning to real estate. We eliminated an additional 700,000 square feet of office space during the quarter, and we remain on track to rationalize
+9 data centers during the fiscal year. So in total, these actions contributed $100 million of incremental synergies during the second quarter. We're
+now on track to deliver $575 million of cost takeout for the year versus our original target of $400 million. The incremental savings will help us
+offset the impact of the revised revenue guidance.
+Now we remain on track to reinvest roughly $200 million to $250 million in the business this fiscal year. These investments include the continued
+deployment of Bionix, expansion of our Digital Transformation Centers and the build-out of our integrated practice with Amazon Web Services.
+In the quarter, our non-GAAP tax rate was 23.5%, reflecting our global mix of income and certain tax attributes in key foreign jurisdictions. For the
+full year, we still expect a tax rate of 24% to 28% as we continue to work through the impact of U.S. Tax Reform.
+Now let's turn to our segment results. GBS revenue was $2.11 billion in the second quarter. GBS segment profit was $400 million, and profit margin
+was 18.9% compared with 16% in the prior year. GBS margin improvement reflect cost takeout actions, including productivity gains on our fixed-price
+contracts, consolidation of our vendor base and the in-sourcing of contract labor. Year-to-date GBS revenue was $4.3 billion. Segment profit was
+$803 million. Margin was 18.6% and bookings were $4.2 billion for a book-to-bill of 1x.
+GIS revenue was $2.9 billion in the quarter. GIS segment profits in the second quarter was $473 million and profit margin was 16.3%, up 200 basis
+points year-over-year. This profitability improvement reflects the impact of actions we've taken to drive greater operating efficiencies from the
+rollout of our Bionix program as well as the benefit from consolidated suppliers and lower rates on enterprise licenses. Year-to-date GIS revenue
+was $5.97 billion. Segment profit was $947 million. Margin was 15.9% and bookings were $5.1 billion for a book-to-bill of 0.9x.
+Turning to other financial highlights for the quarter. Adjusted free cash flow in the quarter was $604 million or 105% of adjusted net income. Now
+this is despite an additional pay cycle in the quarter and the payout of annual bonuses. Adjusted free cash flow exclude the impact from receivable
+securitization programs. Year-to-date, adjusted free cash flow was $925 million or 81% of adjusted net income.
+Our CapEx was $308 million in the quarter or 6.1% of revenue. And on a year-to-date basis, CapEx was $676 million or 6.6% of revenue. Cash at the
+end of the quarter was $2.8 billion. Our total debt was $7 billion, including capitalized leases for a net debt-to-total-capitalization ratio of 22.5%.
+6
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+NOVEMBER 06, 2018 / 10:00PM, DXC.N - Q2 2019 DXC Technology Co Earnings Call
+Client Id: 77
+During the quarter, the company issued 2 bond offerings in Europe to further rebalance its debt portfolio. And in the quarter, Duff & Phelps and
+Moody's reaffirmed their debt rating for DXC and S&P upgraded its rating outlook to stable.
+During the quarter, we paid $54 million in dividends and repurchased $127 million of shares for a total of $181 million in capital returned to
+shareholders. Year-to-date, we've returned $552 million of capital to our shareholders in the form of $105 million in dividend and $447 million in
+share repurchases. In the second quarter -- in the second half, forgive me, for the year, we expect to allocate more of our operating cash flow to
+shareholders through share repurchases.
+So in closing, we've revised our revenue target for the year to $20.7 billion to $21.2 billion, reflecting $300 million of currency headwinds, the $200
+million revenue shortfall in the quarter Mike just discussed and an additional $300 million from revised phasing of contracts in our digital and
+applications business. At the same time, we are raising our targeted EPS range to $7.95 to $8.20, reflecting the progress we're making on our cost
+takeout programs.
+I'll now hand the call back to the operator for the Q&A session.
+QUESTIONS AND ANSWERS
+Operator
+(Operator Instructions) And our first question comes from James Friedman with Susquehanna.
+James Eric Friedman - Susquehanna Financial Group, LLLP, Research Division - Senior Analyst
+It's Jamie from Susquehanna. I just wanted to do a housekeeping check. Mike, you were going kind of quick there, but I thought you had said, and
+I apologize if I got this wrong, 250 to 350 basis points of margin expansion. I missed the year but if that's right, Paul, I'm just coming up with a $6
+billion EBITDA number. Does that sound in the ballpark?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Yes, I said by 2022. So -- and we'll talk a little bit more about this, Jamie, at the Investor Day on Thursday. But the time frame was from today, we
+announced 15.9% margin, and I'm saying there's another 250 to 350 of expansion between now and fiscal 2022.
+James Eric Friedman - Susquehanna Financial Group, LLLP, Research Division - Senior Analyst
+Okay. And for my follow-up, if I could. The challenges on the staffing part of digital are not obviously unique to DXC. It's been the same throughout
+the industry. But what I'm hearing is that you're eliminating some contract labor and at the same time increasing your internal headcount. Am I
+hearing that right? And is that sort of the direction that you'll be going on to address the digital opportunity over time?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Well, we are -- it's twofold: one, yes, we are reducing some of our external labor spend and using internal resources because it is less expensive to
+do that. That's point 1. Point 2, digital resources or digital skills are certainly harder to come by on a global basis. So what we've put in place is a
+dedicated hiring machine, number one; number two, we are beginning to hire ahead of future demand. So we have been running this very tightly
+for the last 1.5 years. As we have built an integrated workforce management system, as we've taken a lot of cost out, and we now recognize with
+the demand and you saw in the bookings and the sequential growth, there is substantial demand for digital skills. So we're going to begin to hire
+ahead. The other thing that we're now scaling is our Talent Cloud, which gives us the ability to source digital talent on a global basis and apply
+7
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+NOVEMBER 06, 2018 / 10:00PM, DXC.N - Q2 2019 DXC Technology Co Earnings Call
+Client Id: 77
+that to many of our digital contracts. So it's a combination of remixing some of our traditional skills from outside to inside, and then it's a matter
+of putting a dedicated focus to hire ahead of the demand so we can drive earlier recognition of revenue, particularly around our digital opportunities
+that are growing quite rapidly.
+Operator
+Our next question comes from Brian Essex with Morgan Stanley.
+Brian Lee Essex - Morgan Stanley, Research Division - Equity Analyst
+I was wondering if you'd touch on the application management side of the business. Was there anything, Mike, that you, if you could address that
+your customers, I guess, you pointed to a mix in the investments that your customers are seeing. Is that in-sourcing or something else? And is it
+more short-term or long-term duration in nature?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Well what we are seeing is in some instances, as clients begin to contemplate upgrades to some of their systems, they are scaling back on the
+maintenance of those existing systems. And that did cause some of the shortfall, I think it was about $80 million, particularly in the U.S. where we're
+seeing some substantial plans to upgrade some of the big application platforms that our large clients have. And I cited HPE as an example of that.
+So that was, to be honest, a little unplanned on our part. We didn't see that as clearly as we exited the first quarter, as we saw throughout this
+quarter. So I don't see that as widespread. I don't see that as continuing in the future. But it did impact this quarter, particularly in the United States.
+Brian Lee Essex - Morgan Stanley, Research Division - Equity Analyst
+Got it. Maybe just a quick housekeeping. On total revenue performance, what was the constant currency performance in the quarter and the FX
+impact?
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+Hold on 1 second, I'll give you that. 6.2% down on a constant currency basis. And when did you ask for the full year, or was that with (inaudible).
+Brian Lee Essex - Morgan Stanley, Research Division - Equity Analyst
+Just the (inaudible).
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+That business was 8.1%.
+Operator
+Our next question comes from Joseph Foresi with Cantor Fitzgerald.
+8
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+NOVEMBER 06, 2018 / 10:00PM, DXC.N - Q2 2019 DXC Technology Co Earnings Call
+Client Id: 77
+Joseph Dean Foresi - Cantor Fitzgerald & Co., Research Division - Analyst
+My first question here is maybe you could just talk a little bit about when you're expecting the business to accelerate. I don't want to take anything
+away from the Analyst Day, but I think there's some concern that top line growth is taking a long time to come through. And clearly, this quarter's
+results would mean that maybe it takes a while for the crossover to happen. So maybe you could talk a little bit about that.
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Yes, we're going to talk in much greater detail about that on Thursday at the investor conference. I don't want to get into a lot of detail here. But I
+think there's a couple of things going on. One, the, what I'll call, the mainstream business is basically declining at about the rate that we had
+projected. Some quarters, it's a little less, some quarters, it's a little more. But basically, that's absolutely in line. What we are seeing is a slower ramp
+on our digital. We're seeing very strong demand in bookings and the numbers here support that. But we're also seeing an elongation of -- from
+when contracts are signed to when we are recognizing the revenue. And that can be as long as 3 or 4 months. Some of that is client-initiated and
+some of it is us, as a result of not being able to staff as quickly. Now as we, and as I mention, we're putting a lot of focus on the hiring. So we can
+staff some of these contracts more quickly. But in general, in general, I would say the revenue from our digital bookings is coming in a little slower
+than what we had expected when we started this fiscal year out. And that's what showed up in the revenue performance this quarter.
+Joseph Dean Foresi - Cantor Fitzgerald & Co., Research Division - Analyst
+Got it. And last one for me. The slowness in the revenues, do you believe that, that's a structural issue and is that an internal structural issue? Or do
+you believe that you might be at a competitive disadvantage and you need to kind of close the loop? I'm just looking for a little bit more color,
+given the premium the market's putting on your ability to grow.
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+I, listen, I think it's always a combination. I think there's some execution issues on our part, particularly in our application maintenance and
+management business. For example, the Americas moved to a little bit more of a general sales model. I concluded that, that wasn't working and
+made some changes. So we've gone back to a more specialist orientation to sales in our applications business. That is really an execution issue.
+That doesn't have anything to do with the market. No, I don't think we're disadvantaged at all. As a matter of fact, I think what we're seeing is an
+absolute unique value proposition where we're able to take many of these new digital solutions. And we are very experienced in being able to
+integrate that into the existing IT estates, both application as well as infrastructure. So I don't view that as a disadvantage at all. I view it as a
+compelling differentiator. I do think that enterprises are moving more slowly as they begin to scale some of these digital investments. So yes, I
+think that's certainly a DXC issue but it's an industry issue. And that, coupled with some of the execution issues, particularly in the application and
+maintenance business, is from my vantage point, explains the miss that we talked about today.
+Operator
+Our next question comes from Jim Schneider with Goldman Sachs.
+James Edward Schneider - Goldman Sachs Group Inc., Research Division - VP
+I was wondering if you could talk, Mike, a little bit about relative to the similar revenue shortfalls you saw in the quarter, how much of those you
+view as transitory? And for the ones that you do view as transitory, how quickly you would expect those pieces of revenue to recover back to their
+prior state? Is that something that's going to be a 1- or 2-quarter thing? Or is it going to take longer?
+9
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+NOVEMBER 06, 2018 / 10:00PM, DXC.N - Q2 2019 DXC Technology Co Earnings Call
+Client Id: 77
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+I think -- I do think we were -- are projecting and we think we'll see some improvement beginning in the third quarter. So I think we'll see some
+sequential growth as we go through the second half of this year. But in this business, when you miss by $80 million in our application maintenance
+business in the second quarter, you don't make that up. You don't make that up. Now what you do is you fix the execution, as I mentioned, around
+the sales force and some other thing, so that, that weakness doesn't persist in the out quarters. And then the ability to staff a little more quickly on
+some of these large digital projects then allows you to recognize the revenue a little more quickly. So I think the answer to this is yes, we expect
+improvement in the second half of the year. But other than the currency headwinds, I mean, it's hard to project exactly what that's going to be.
+Our estimate right now is about $300 million but that could vary a little bit. That answer your question, Jim?
+James Edward Schneider - Goldman Sachs Group Inc., Research Division - VP
+It does. And then maybe as my follow-up, I wanted to just ask, I know we're going to hear a lot more about the 250 to 350 basis point potential
+increase in margins over 3 years at the Analyst Day. But to maybe, just kind of give us a sense of maybe the single largest contributor to what's
+driving that because obviously, that's substantially higher than where we are today?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Yes, it's what I've been saying all along. It really revolves around the workforce. It revolves around workforce optimization. And I'd tell you, Bionix,
+I keep saying this over and over again, but the results are beginning to come through. We are seeing operating leverage in this business. I don't
+know if you picked up on my script or not, but I mean, our digital centers now, where we're handling, because we're handling more digital calls
+than our largest fiscal center. And while we're not only handling higher volumes, we're seeing serious incidents decline. We're seeing productivity
+up by 40%. So the biggest contributor to the margin expansion over this time frame is workforce optimization and the continued work around
+automation and what we call Bionix. Now in addition, there'll be supply chain efficiencies. We still got 28 million square feet of real estate around
+the world, which we certainly don't need that much. So there'll be continued efficiencies in that arena as well. What you're hearing us today talk
+about contract workers and bringing some of that in-house and using the talent cloud to offset, all those are contributors to that margin expansion.
+But we're getting more and more confident in what those levers can drive in terms of margin expansion. And thank God we did this. Thank God
+we invest in all this stuff because it is mitigating the -- some of the execution issues I mentioned on revenue, but also just the slower ramp-up of
+some of these large digital projects. So we're able to absorb some of that revenue decline by this investment that we've made in automation and
+other workforce optimization programs.
+Operator
+Our next question comes from Rod Bourgeois with DeepDive Equity Research.
+Rod Bourgeois
+Just a couple of clarifications on the revenue growth picture. So do you feel like your intense focus on cost takeout, where you seem to be
+outperforming your expectations, is that intense focus part of the cause of some of these revenue challenges? And do you feel like if that's the
+case, there's a cost versus revenue trade-off, are you starting to see an ability to turn the corner on that to sort of mitigate that trade-off?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Yes, listen. We have run -- as I said, we've run our workforce and labor programs very tightly, very tightly. And we, going into this quarter, had a
+very thin bench. And we are now getting more confident in our ability to drive this digital workload and digital growth. The other factor here, Rod,
+is many of these digital projects, the sales cycle on these is much shorter. So unlike the old ITO business that could be 6 months or a year, a lot of
+these digital projects are measured in 2, 3 months. That puts a whole heck of a lot more pressure on how you are managing your workforce and
+10
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+NOVEMBER 06, 2018 / 10:00PM, DXC.N - Q2 2019 DXC Technology Co Earnings Call
+Client Id: 77
+how you are bringing new people and skills into the business. So I think it's not so much a trade-off between the cost focus and the digital demand,
+it's more that we'll need to expand our bench so we can respond more quickly to the demand. There's no question there's demand. Then when
+you see the bookings and you see that sequential growth in bookings, this isn't an issue with demand. It's an issue of being able to satisfy that
+demand.
+Rod Bourgeois
+Got it. And so it sounds like in terms of the root issues that you need to address in the revenue side, in digital, it's staffing so you just clarified that.
+In application maintenance, it sounds like it's sales, it's the sales approach and it's these software upgrades have recently caused some disruption
+and clients spending on maintenance work. Are those the 2 issues in the apps business?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Yes, I think that's well said. We -- and let me be very clear. We did not see the fall-off in this maintenance business. I didn't see it. Maybe Paul did, I
+didn't, okay. So that took us by surprise because -- and that's an individual, client by client, what they chose to do as they begin to remix some of
+their IT investments in preparation for some of these digital projects that they're undertaking, in some cases, upgrades to some of their major
+application. That we did not see, let me be perfectly candid about that. The second thing was we went to a generalist sales model in the United
+States. And after watching that for 2 quarters, I concluded that wasn't the right approach. And the reason for that is we were missing some of the
+add-on work that we would get by having deployed a more specialized application sales force. So we have corrected that. And we've gone back,
+and we've put that dedicated application sales force in place, which will allow us to pick up on some of those incremental add-on projects that we
+didn't get, particularly in the second quarter. So those are the 2 things.
+Rod Bourgeois
+Got it. Final clarification. On the digital side, you talked about the staffing challenge there. Is this a case where you actually have an ability to win
+a deal and have strong digital growth, but the inability to ramp the staffing fast enough actually prevents you from being able to land the deal? In
+other words, the demand is there. If you could staff it, you'd have more revenues, is that the case?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Yes. I mean, we're winning a lot of deals. That's clear, but what's happening to our book-to-bill and pipelines and everything else. All those metrics
+are very positive. But yes, we have had some slowness. I don't want to blame it all on this, but it is a factor. Some of this is client-driven as well. I
+mean, many of these projects, when they get to scale, I mean, for example, we just took a lot for a major automotive client. 150,000 users on our
+new digital workplace offering. That is a big deal when you move over a very short period of time, 150,000 users. So in some instances, the client
+is also going more slowly. That, coupled with the, more difficulty in bringing and onboarding the skills necessary to adequately stack some of the
+new sales that we have, has contributed to that roughly $100 million of shortfall that I talked about. So it's 2 things, it's not just one thing.
+Operator
+Our next question comes from Darrin Peller with Wolfe Research.
+Darrin David Peller - Wolfe Research, LLC - MD & Senior Analyst
+Guys, how long do you think it'll take for your staffing for digital to actually be right-sized? I know you're talking about different plans around it,
+but when you -- and then if you couple that with your -- when you're talking about all the partners since you're announcing around cloud enablement,
+whether it's Amazon last quarter or incremental deals you're doing a partner more with ServiceNow and others, just curious to hear, are there
+11
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+NOVEMBER 06, 2018 / 10:00PM, DXC.N - Q2 2019 DXC Technology Co Earnings Call
+Client Id: 77
+revenues there that are yet to come on? Is that still new and should we expect that coming forward? And do you actually have the right talent for
+that or can you share in talent resources with those new partners?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Well, part of our acquisition strategy is to help acquire the skills that we need. So when we source these new skills, we -- this is a different staffing
+model than we've had in the business before. For example, we're hiring many more people out of universities worldwide and bringing them into
+our training program. That's new. That takes a little longer than just hiring a professional hire and swapping them on a contract. So the whole
+staffing model, how we source, how we recruit is changing as we change the revenue mix of our business to more and more digital. The other
+thing here is that we're now really looking at the business in 2 dimensions as we think about skilling. One is digital and a lot of our new offerings.
+And that has a different sourcing model and a different cycle time. And our mainstream business, which we continue to drive reductions through
+productivity and other optimization programs. We're also working with our partners. So a lot of our partners are very helpful here in training and
+then certifying skills. AWS is an example of this. Microsoft Azure is an example of it. So it's a combination of things that need to be done to build
+up the bench and build up the digital skills capability to source some of the contracts that we're winning.
+Darrin David Peller - Wolfe Research, LLC - MD & Senior Analyst
+Okay. But when I think about where your bookings trends are for that -- those businesses, again, with the partners since, and honestly, just what's
+going look like easier compares after this quarter and last quarter and the next couple. I mean, I just wonder if you're going to be able to source,
+from a talent standpoint, fast enough to ensure that when we start getting into next fiscal year, you can show some sort of light at the end of the
+tunnel on the revenue side.
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Yes, listen, we think we can. It forced us to change. As I said, we've had to put a dedicated recruiting engine in place for these digital skills. We are
+now using our Talent Cloud, which has really just come onstream here and from a scaling standpoint in the last several months. So yes, I do think
+we're going to be able to meet that demand from a sourcing standpoint.
+Darrin David Peller - Wolfe Research, LLC - MD & Senior Analyst
+Okay. Just the last one for me is, look I mean, you bought back more, from a capital allocation standpoint, I guess, we'll hear again -- we'll probably
+hear more at the Investor Day around this, but what are your latest thoughts, Mike, with regard to capital allocation now, just given where the
+share price is and your cash flow opportunities?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Well, I mean, at this point in time, more capital should be allocated to share buyback. That's pretty simple. It's a tremendous investment and as
+Paul said, we're planning to do that. We'll cover that in a little more detail on Thursday. But yes, you can expect, as part of our capital allocation
+model, to allocate much more to shareholder return and buybacks at this level.
+Operator
+And our next question comes from Bryan Keane with Deutsche Bank.
+12
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+NOVEMBER 06, 2018 / 10:00PM, DXC.N - Q2 2019 DXC Technology Co Earnings Call
+Client Id: 77
+Bryan Connell Keane - Deutsche Bank AG, Research Division - Research Analyst
+Mike, I was wondering with the senior management changes and the cost saving initiatives, just trying to figure out how the morale is going at
+DXC. And maybe is that having an impact on the top line?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+I think where our accounts are growing and where we're involved in the future around digital, I think the morale is quite good. Removing the senior
+managers in most instances, improve morale. Because whenever you delayer an organization or you remove positions that aren't adding a lot of
+value, the workforce understands that and they see that. On the other hand, where you've got accounts that are declining and aren't moving
+forward as quickly on digital, I'd say the morale isn't as good. And it also varies a lot by geography. I mean, I just have been, the last several weeks,
+where -- was in Asia and India and everywhere else, and we're seeing a tremendous opportunity as well as improvements in innovation. And we
+launched another digital lab in Singapore, for example. So the people are very upbeat and buoyant about that. Where we have been slower to
+make the transition to digital, a lot of these new and yes, you would expect and where the focus is still primarily on cost and rightsizing the workforce,
+yes, you would expect people not to be as happy and a little more concerned about their future.
+Bryan Connell Keane - Deutsche Bank AG, Research Division - Research Analyst
+Okay, that's fair. And then Paul, just on acquisition contribution. I'm just trying to figure out for the quarter how much revenue was from acquisitions.
+And then you've made several here recently. Is there a contribution we could think about for total revenue for fiscal year '19 through some of these
+acquisitions and total acquisitions for the company?
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+I think for the full year, it will be less than 1%, right? I think in the past, we said 1% to 2%, but I think we'll be on a little bit lower side for this year.
+And I will have to get back to you. I don't have the number for -- in terms of what's in the number this quarter on a year-over-year basis.
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Not a lot, because Molina didn't close until the end of the quarter. The 2 acquisitions we announced yesterday obviously has no impact in the
+quarter. And we'd announced a couple of smaller acquisitions in Australia that was a de minimis contribution in the second quarter.
+Bryan Connell Keane - Deutsche Bank AG, Research Division - Research Analyst
+Okay. And then just the last one, Paul. The $300 million in FX, is that total contribution for the full year? Or is that an incremental, because I had my
+notes that after the first quarter, you were expecting $150 million of FX decline already for fiscal year '19.
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+Yes, it's for the total. I think, if you remember this is compared to -- with the range that we gave you at the beginning of the year. So compared
+with those rates at the beginning of the year, it's $300 million for the full year.
+Operator
+Our next question comes from Ashwin Shirvaikar with Citi.
+13
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+NOVEMBER 06, 2018 / 10:00PM, DXC.N - Q2 2019 DXC Technology Co Earnings Call
+Client Id: 77
+Ashwin Vassant Shirvaikar - Citigroup Inc, Research Division - Director and U.S. Computer and Business Services Analyst
+I wanted to kind of get a breakdown if possible. You've lowered your revenues here by roughly $800 million. The incremental FX is $150-ish million.
+There's some other moving parts, which are potentially offset by the acquisition. So is this you guys taking another look at it, putting in an assumption
+for how much the delay will hit. Can you break that down a bit?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Yes, I'll break it down for you, Ashwin. So it's roughly $300 million in currency, okay? It's roughly the $200 million that we talked about in the second
+quarter. And then what we're doing is, we are re-phasing what we expect to happen around some of the digital contracts that have already been
+signed and what we expect to sign. So given our experience this quarter, we are re-phasing how quickly we will be able to go from contract signing
+to revenue. That's another roughly $300 million. Now I will tell you that, that last part is the least precise, just because of all the things we've talked
+about in this call, how quickly we can ramp up some of the skills and some of the other factors we talked about. But that's how it breaks down.
+Ashwin Vassant Shirvaikar - Citigroup Inc, Research Division - Director and U.S. Computer and Business Services Analyst
+Got it. And the EPS number you put out and the margin implied there, I should -- should we assume that the incremental costs also baked in for
+such things you mentioned like hiring ahead, hire training, hiring from colleges, are potentially paying off?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Yes, all the projections that we've given you include the investments that we are planning to make. So that is some of the hiring investments that
+we need to make, to build out a digital bench. We're doing this differently. We're doing this at our digital delivery centers, we're not embedding
+all this resource in our accounts where, down the road, if the projects aren't there, they have to be extricated. So we're doing this in a much more
+disciplined way. But to answer your question, yes, those investments are factored in the projections that we gave you on margin expansion and
+on EPS.
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+And Ashwin, when you look at what we've said already, we had $575 million of incremental synergy savings this year over the -- compared with
+the $400 million when we started the year. So we're able to absorb some of those revisions that we've made on our outlook for revenue. And that's
+how we felt, confident to put, or comfortable in increasing our EPS range to $7.95 to $8.20, despite this revenue.
+Operator
+Ladies and gentlemen, this concludes today's teleconference. You may now disconnect. We do thank you for joining and hope you have a nice
+day.
+14
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+NOVEMBER 06, 2018 / 10:00PM, DXC.N - Q2 2019 DXC Technology Co Earnings Call
+Client Id: 77
+DISCLAIMER
+Thomson Reuters reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon
+current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more
+specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the
+assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION,
+THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE
+COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2018, Thomson Reuters. All Rights Reserved. 12126116-2018-11-07T03:44:24.867
+15
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+NOVEMBER 06, 2018 / 10:00PM, DXC.N - Q2 2019 DXC Technology Co Earnings Call

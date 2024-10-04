@@ -1,0 +1,482 @@
+Operator
+
+Greetings, and welcome to the Advanced Micro Devices third-quarter 2019 earnings conference call. [Operator instructions] As a reminder, this conference is being recorded. It's now my pleasure to introduce your host, Laura Graves. Please go ahead.
+
+Laura Graves -- Investor Relations
+
+Thank you, and welcome to AMD's third-quarter 2019 financial results conference call. By now, you should have had the opportunity to review a copy of our earnings release and slides. If you have not reviewed these items, they can be found on the Investor Relations page of AMD's website, amd.com. Participants on today's conference call are Dr.
+
+Lisa Su, our president and chief executive officer; and Devinder Kumar, our senior vice president, chief financial officer, and treasurer. This is a live call and will be replayed via webcast on our website. I would like to highlight some important dates for you. On Wednesday, November 6, Mark Papermaster, executive vice president and chief technology officer, will present at that Bernstein technology summit in New York City.
+
+10 stocks we like better than Advanced Micro Devices
+When our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+
+They just revealed what they believe are the ten best stocks for investors to buy right now… and Advanced Micro Devices wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+
+See the 10 stocks
+
+*Stock Advisor returns as of March 8, 2023
+
+On Monday, December 9, Ruth Cotter, senior vice president of worldwide marketing, human resources and investor relations, will present at the UBS global technology conference, also in New York City. On Thursday, December 12, Forrest Norrod, senior vice president and general manager of the data center and embedded solutions group will present at the Barclays technology conference in San Francisco. And our fourth-quarter 2019 quiet time is expected to begin at the close of business on Friday, December 13. Today's discussion contains forward-looking statements based on the environment as we currently see it.
+
+Those statements are based on current beliefs, assumptions and expectations, speak only as of the current date and as such, involve risks and uncertainties that could cause actual results to differ materially from our current expectations. We will refer primarily to non-GAAP financial metrics during this call, except for revenue and segment operational results, which are on a GAAP basis. The non-GAAP financial measures referenced today are reconciled on their most -- to their most directly comparable GAAP financial measure in today's press release, which is posted on our website. Please refer to the cautionary statement in our press release for more information.
+
+You will also find detailed discussions about our risk factors in our filings with the SEC, and in particular, AMD's quarterly report on Form 10-Q for the quarter ended June 30, 2019. Now with that, I will hand the call over to Lisa. Lisa?
+
+Lisa Su -- President and Chief Executive Officer
+
+Thank you, Laura, and good afternoon to all those listening in today. I am pleased with our strong third-quarter execution and results. We delivered our highest quarterly revenue since 2005, our highest quarterly gross margin since 2012 and increased net income significantly, all driven by our first full quarter of 7-nanometer Ryzen, Radeon and EPYC processor sales. Third-quarter revenue of $1.8 billion increased 9% year over year and 18% sequentially, and we expanded gross margin by 3 percentage points year over year.
+
+Turning to our computing and graphics segment. Revenue increased 36% year over year and sequentially. Demand for Ryzen desktop and notebook processors drove a significant increase in unit shipments and ASP, resulting in our highest client processor quarterly revenue since 2011. We saw particularly strong demand for our top-end Ryzen processors, and believe we gained client processor unit share for the eighth straight quarter.
+
+In desktops, we are seeing strong demand for our Ryzen 3000 and previous generation Ryzen 2000 processors. Both product families are consistently among the top sellers at leading e-tailers and retailers globally. In commercial, HP and Lenovo announced new desktop PCs powered by our Ryzen PRO 3000 series processors in the third quarter. We are continuing to expand our presence in the commercial market, as more financial, retail, education and healthcare customers purchase AMD-based PCs and Chromebooks to power their businesses.
+
+We are on track to expand our desktop product offerings in November with the launches of the industry's first 16-core mainstream desktop processor as well as our third-generation Ryzen Threadripper processor family. These products will offer unmatched combinations of core counts, performance and energy efficiency for the most demanding high-end desktop and content creation applications. In mobile, we had another quarter of strong double-digit percentage notebook processor revenue growth driven by our virtual product mix and increased shipments. The number of AMD-powered laptops from major OEMs has increased by 50% this year, including multiple premium notebooks like the first ever AMD-powered Microsoft Surface laptop.
+
+We collaborated closely with Microsoft over several years to develop the AMD-exclusive 15-inch consumer Surface laptop 3, which includes a custom Ryzen Microsoft Surface edition processor and multiple operating system and software optimizations that will benefit all AMD-powered Windows systems. We are very pleased with our momentum in the client business this year and expect client processor revenue to grow sequentially in the fourth quarter as we head into the seasonally strong holiday season. In graphics, revenue increased year over year driven largely by higher channel GPU sales. Shipments of our Radeon 5000 GPU family, featuring our RDNA architecture, increased sequentially and we are seeing solid demand for the new products based on their competitive performance and features.
+
+For mainstream gamers, we began shipping the Radeon RX 5500 GPU in the third quarter. Acer, HP, Lenovo and MSI announced plans to offer the new GPU in their upcoming PCs and multiple AIB partners plan to launch RX 5500 cards during the fourth quarter. Data center GPU sales were down sequentially and roughly flat year over year. We added multiple cloud and HPC wins in the quarter, highlighted by Microsoft's announcement of a new remote desktop offering for graphics-intensive workloads powered by EPYC CPUs and Radeon Instinct GPUs.
+
+We are making good progress growing this margin accretive part of our business as we continue expanding our footprint with marquee customers and targeted data center workloads. Turning to our enterprise, embedded and semi-custom segment. Revenue decreased 27% from a year ago, as significantly higher server processor revenue was offset by lower semi-custom sales. We expect semi-custom demand to further soften in the fourth quarter now that both Microsoft and Sony have announced new AMD-powered consoles for holiday 2020.
+
+In server, we had our highest quarterly CPU revenue since 2006, as strong second-generation EPYC processor demand drove a greater than 50% sequential increase in unit shipments and revenue. Second-gen EPYC processors are the highest performance server CPUs in the industry, and have set more than 100 world records. Our newest EPYC processors feature up to 64 cores and deliver a 25% to 50% TCO advantage versus competitive offerings. As a result of our clear performance leadership and differentiated feature set, we are building momentum with cloud, enterprise and HPC customers.
+
+In cloud, Amazon AWS, IBM Cloud, Microsoft Azure, OVHcloud, Twitter and Tencent all announced plans to deploy EPYC processors in their data centers. At our launch event, Google became the latest mega data center provider to adopt EPYC processors as they announced second-generation EPYC processors have been deployed across their internal infrastructure production data center environment and will also be used to power the Google Cloud platform. In enterprise, Dell, HPE and Lenovo more than doubled their AMD-powered server portfolio as they launched new platforms featuring second-gen EPYC processors, helping us add dozens of new telecom, healthcare, financial services, manufacturing and energy customers in the quarter. We also secured multiple new HPC wins in the quarter, including three separate U.S.
+
+Department of Defense supercomputers and what is expected to be the fastest scientific computer in the U.K. We expect server revenue to grow sequentially by a strong double-digit percentage in the fourth quarter as we continue ramping our second-generation EPYC processors. We remain on track to achieve our near-term goal of double-digit server CPU share by mid-next year. In summary, we are right where we want to be on our long-term strategic plan.
+
+We have the strongest product portfolio in our history. We executed our product launches and production ramps very well in the third quarter as our new products grow higher revenue, margin expansion and increased profitability. We're on track to exit 2019 with another quarter of significant growth, driven by the ramp of our 7-nanometer products and believe we are well positioned to build our momentum in 2020 and beyond as we deliver an even stronger set of leadership products that can drive sustained growth, an increased share of the $75 billion market for high-performance computing and graphics technologies. Now I'd like to turn the call over to Devinder to provide some additional color on our third-quarter financial performance.
+
+Devinder Kumar -- Senior Vice President, Chief Financial Officer, and Treasurer
+
+Thank you, Lisa, and good afternoon, everyone. We are pleased with our strong third-quarter financial results with revenue of $1.8 billion, up 18% quarter over quarter and have the highest quarterly revenue since the fourth quarter of 2005. The third-quarter showcases our financial momentum and the strength of our business model with operating income and net income growing significantly year over year. Quarterly revenue was up 9% from a year ago as strong sales of Ryzen and EPYC processors and Radeon gaming GPUs more than offset lower semi-custom sales.
+
+Gross margin of 43% was up 320 basis points from a year ago, our tenth consecutive quarter of year-over-year expansion. Operating expenses grew 13% year over year to $539 million, primarily driven by increased R&D investments and support for our new product introductions. Operating income was $240 million, up $54 million or 29% from a year ago, due to increased revenue from new higher margin products. Operating margin was 13%, up 210 basis points from a year ago.
+
+Net income was $219 million, up $69 million or 46% from a year ago. And diluted earnings per share was $0.18 per share compared to $0.13 per share a year ago. Now turning to the business segments results. computing and graphics segment revenue was $1.28 billion, up 36% year over year, driven by strong client processor and gaming GPU sales.
+
+computing and graphics segment operating income was $179 million compared to $100 million a year ago, driven by higher Ryzen processor sales. enterprise, embedded and semi-custom segment revenue was $525 million, down from $715 million the prior year. As anticipated, semi-custom revenue was lower in the third quarter as the market awaits next-generation AMD-powered game consoles from Sony and Microsoft. EPYC data center CPU revenue grew by over 50% sequentially driven by shipments of our second-generation product in the quarter.
+
+EESC segment operating income was $61 million compared to $86 million a year ago due to lower revenue and higher operating expenses. Turning to the balance sheet. I'm very pleased with the continuing improvement of our balance sheet. Cash, cash equivalents and marketable securities total $1.2 billion at the end of the quarter, higher than the gross net of $1.1 billion, resulting in AMD being net cash positive.
+
+During the quarter, we retired $206 million of debt, which resulted in a loss of $40 million recorded on our GAAP income statement. The reduction in debt included $126 million of convertible senior notes in exchange for 16 million shares. Year to date, we have reduced gross debt by $441 million. Free cash flow was positive $179 million in the third quarter and cash flow from operations was $234 million.
+
+Inventory was $1 billion, up slightly from the prior quarter, in anticipation of higher revenue in the fourth quarter. Adjusted EBITDA was $300 million compared to $227 million a year ago, driven by higher quarterly earnings. On a trailing 12-month basis, adjusted EBITDA was $745 million and gross leverage at the end of the quarter was 1.5 times. Now turning to the outlook for the fourth quarter of 2019.
+
+We expect revenue to be approximately $2.1 billion plus or minus $50 million, an increase of approximately 48% year over year and 17% sequentially. The sequential and year-over-year increases are expected to be driven by growth in Ryzen, EPYC and Radeon processor sales, offset by a further softening of semi-custom processor revenue. In addition, for Q4 2019, we expect non-GAAP gross margin to be approximately 44%; non-GAAP operating expenses to be approximately $535 million; non-GAAP interest expense, taxes and other, to be approximately $22 million; and fourth quarter diluted share count is expected to be approximately 1.21 billion shares. In closing, we had an excellent third quarter and remain focused on ramping our leadership portfolio of high-performance products to deliver strong revenue growth and gross margin expansion in the fourth quarter.
+
+With that, I'll turn it back to Laura for the question-and-answer session. Laura?
+
+Laura Graves -- Investor Relations
+
+Thank you, Devinder. Operator, we're ready to go ahead and poll for our first question, please.
+
+Questions & Answers:
+
+Operator
+
+[Operator instructions] Our first question today is coming from Mark Lipacis from Jefferies. Your line is now live.
+
+Mark Lipacis -- Jefferies -- Analyst
+
+Hi, thanks for taking my question. First one for Lisa. You had mention the total cost of ownership in your prepared comments, and I wonder, I guess, I could imagine that the total cost to ownership over a lifetime of a 7-nanometer server chip might be greater than the price of a server chip when compared to a 14-nanometer server chip. And so I'm wondering if you could maybe just clarify the comments you made on total cost of ownership and quantify if that is the case, how you see it.
+
+And how many -- what percentage of your data center customers actually look at total cost of ownership and evaluating the products? Is it -- does everybody do that? Or do some just look at the price? And I'm wondering, like, what do you think that has -- impact that might have on a competitive pricing environment? That's the first question. Thank you.
+
+Lisa Su -- President and Chief Executive Officer
+
+Sure. Hey, thanks for the question, Mark. So -- I mean maybe let me give some context on sort of the data center business for us, and then I'll answer your question. Look, I think from what we see, there is a very strong value proposition for Rome.
+
+When you look at just what we're able to do from just the amount of performance, the power consumption and then how that plays into total cost of ownership. We see it across all workloads, so whether you're talking about a virtualized environment or you're talking about high-performance computing or you're talking about the enterprise sort of workloads, we see a strong performance as well as strong total cost of ownership. To your exact question, I think, server purchases -- or server purchasers are very, I would say, sophisticated. And so, in most cases, total cost of ownership is definitely in the conversation and it's not just about performance but performance at a given power level and also in terms of given density.
+
+And that has played out in a number of our customer engagements. And so the overall point of -- we think that Rome is very well positioned. Price in and of itself is one factor, but I would say it's not the primary factor. I think the performance power, total cost of ownership are all important buying factors, and we've seen very, very strong engagement from customers across-the-board, across all workloads for these drivers.
+
+Mark Lipacis -- Jefferies -- Analyst
+
+Thank you. And a follow-up, if I may, on the -- when you think about your share gain -- your potential to gain share as you look into 2020, can you talk about what you view as the biggest potential gating factors in that and like how you're managing those potential factors? And I'm hoping you can talk to your view on availability of 7-nanometer wafers or -- and engineering support for your customers who are trying to put together solutions. Thank you.
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. Sure, Mark. A couple different questions there. Let me try to get through it.
+
+I will say, since our launch of Rome in August, we've had a very strong start. Now we had a full quarter of revenue here in the third quarter and we saw that in sort of the ramp of units and revenue. What we are seeing is that the qualifications are going faster with the second-generation of EPYC than with the first generation, so customers are familiar with our platforms. In some cases, customers and doing drop-in platforms, and so they can take virtually the same or very similar platform that they had for first-gen and drop-in the second-gen.
+
+They're familiar with our architecture. And so I think from a market share standpoint, we feel good about the transition from Naples to Rome. I think the platform readiness across our OEMs and number of platforms that we have across the major OEMs is also very strong, and we're pleased with the set that are -- that have both new and existing platforms there. And so from the standpoint of where we are going in the fourth quarter into 2020, I think we feel very, very good about where we are with the data center customers.
+
+As it relates to customer support and all that stuff, like I said, customers are much, much more familiar with the architecture in the second-generation compared to the first generation. And that is good for the ramp of Rome. As it relates to -- I think you asked about the 7-nanometer ramp and the availability there, we had a very large ramp here in the third quarter with 7-nanometer. We essentially ramped three full product families: Ryzen, EPYC as well as our Radeon gaming product families in the third quarter.
+
+And it went very well. We're very pleased with it. It's the fastest ramp that we have done certainly in recent memory. And going into the fourth quarter and into 2020, I think we feel very good about the availability of Rome as well as the rest of our products.
+
+Mark Lipacis -- Jefferies -- Analyst
+
+Thank you. Very helpful.
+
+Operator
+
+Thank you. Our next question today is coming from David Wong from Instanet. Your line is now live.
+
+David Wong -- Nomura Instinet -- Analyst
+
+Thanks very much. Can you give us an idea of what your revenues were from 7-nanometer products in the September quarter? And what you reckon that will be in the December quarter?
+
+Lisa Su -- President and Chief Executive Officer
+
+I think what I can say, David, and I'll start. Maybe Devinder has some additional comments. The ramp for 7-nanometer has gone very quickly in -- here in the third quarter. When we look at overall new product revenue, certainly in the third quarter, we had a significant piece of that, the 7-nanometer.
+
+That will increase again as we go into the fourth quarter as well. And so the way to think about it is for our major product lines, we're transitioning very fast from 14 to 7.
+
+David Wong -- Nomura Instinet -- Analyst
+
+OK, great. And within your computing and graphics segment, that 36% sequential growth, could you give us an idea of how -- what client CPU sales grew sequentially? And separately, what the PC GPU sales sequential growth was?
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. So if you look at the CG segment from a sequential standpoint, we saw the client CPUs increase the most, and those were certainly the driver being both desktop and mobile. Desktop was higher than mobile, but both grew very nicely. If you look at GPUs overall, they actually declined a bit sequentially, and that decline was primarily driven by data center GPUs, which declined just due to some of the buying cycles in the cloud.
+
+Overall, gaming did well. And we continue to expect that, as we go into the fourth quarter, you'll see that the data center GPUs will increase as well, as I mentioned in the prepared remarks that client and graphics would also increase.
+
+David Wong -- Nomura Instinet -- Analyst
+
+Great. Thanks very much.
+
+Operator
+
+Thank you. Our next question is coming from Matt Ramsay from Cowen. Your line is now live.
+
+Matt Ramsay -- Cowen and Company -- Analyst
+
+Thank you very much. Good afternoon. Before I jump into questions, just congrats to Devinder on being cash positive. The -- Lisa, a couple questions on Rome.
+
+We've been tracking some of the strength at Google, Microsoft and Amazon, but I wonder if you might comment a little bit about the server business in China given some disruptions there, just overall capex. And also, the OEM business that you're now ramping with Dell, HP, and Lenovo, and how you expect those things to trend over the next couple of quarters? Thank you.
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. So Matt, as we look -- so let me answer the first question as it relates to the cloud customers. I think we are very pleased with the cloud adoption. We are engaged across all major Tier 1 and many of the Tier 2 service providers and I think we're making good progress there.
+
+As it relates specifically to China, we are well engaged there in both cloud and enterprise. Obviously, there is a little bit of disruption due to some of the China customers that are on the entities list and we follow that closely. But as it relates -- overall, I think we're -- we believe that there is strong pull for Rome both across cloud as well as enterprise. On the enterprise side, what I will say is that the HPC market has been really good for us.
+
+And so we have won quite a few of the bids and they tend to be early adopters of the technology. And so that's one indication of the strong value proposition. As we go into more general enterprise, the launch of HPE, Dell and Lenovo as well as Supermicro and the other ODM platforms is broader than our -- the first generation of EPYC, and we're seeing that in the pipeline that we see. So a lot of activity going on right now, and we feel really good about how that's going to develop over the next couple of quarters in terms of enterprise wins.
+
+Matt Ramsay -- Cowen and Company -- Analyst
+
+Thanks very much for that. Just as a follow-up from me on the client business. Obviously, a lot of progress that's been made with the results that you just put up. And I kind of go back to some comments made by your primary competitor on their call, I think, talking about tightness in their own 14-nanometer supply and also that they maybe not addressed some of the lower tiers of the market.
+
+Your ASPs are up quite strongly. I wonder how much some of the supply tightness from your competitor might have led to these gains versus sort of the merits of your own product. If there's anything you can talk about that, Lisa, that would be really helpful. Thank you.
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. Sure, Matt. Well, the client business has really had a very strong year. I mean if you look at how it's played out over the last couple of quarters, I'll say that in our desktop portfolio, the third-gen Ryzen has done very, very well.
+
+It's extremely well positioned. And where we're seeing the highest demand is at the highest tier sort of in the Ryzen 9 and the Ryzen 7. And so that's why you see the ASP strength in the business. Mobile is also ramping very nicely and what we're seeing again in mobile is the mix of Ryzen is now a predominant mix of the business, and we're seeing actually very nice momentum in commercial as well as our traditional consumer market, so we also see good sequential growth in ASPs there.
+
+There is some noise in the system as it relates to some supply constraints and all that stuff. I would view that as mostly -- again, it's pockets at the low end. I don't think it's a significant driver of our business. Our business is driven primarily by our new platforms, the fact that we are in a number of premium platforms on both the notebook side as well as just the strength that we're having in the DIY channel is there.
+
+And that's contributing to the positive mix as well as the unit growth in the client business.
+
+Matt Ramsay -- Cowen and Company -- Analyst
+
+Thanks very much.
+
+Operator
+
+Our next question is coming from Vivek Arya from Bank of America. Your line is now live.
+
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+
+Thanks for taking my question and congratulations on the strong growth and execution. I have two questions as well. Lisa, first, on the data center business. I know you mentioned the target is still to be on track for double-digit kind of unit share sometime in the middle of next year.
+
+Could you help us level set as to where the share is in Q3 and what the target is in Q4? And if you have seen your competitor react to your server share gains in any way through pricing or other means?
+
+Lisa Su -- President and Chief Executive Officer
+
+Yes. So Vivek, as you know, we don't necessarily want to get ahead of ourselves in terms of server share. But what we will say is our -- the Q3 quarter was our highest units sort of with EPYC. And so we are seeing good strength and predominantly a very fast transition to Rome.
+
+We expect that to continue to grow as we go into Q4 and into the first half of next year. So this is about more platforms ramping and multiple platforms within a given customer. And you should see -- we saw a number of announcements around our launches here in Q3, and you should see additional announcements as we go into the fourth quarter as well as the first half of next year. Your question about do we see any unusual activity from a competition standpoint.
+
+Look, our view is that the competition is aggressive, will always be aggressive and we're counting on that. It's a very competitive market out there. That being the case, I think we are feeling very good about how our product is positioned and also the readiness of the product. So the question earlier about are the platforms ready? How's the customer support? I think it's very strong.
+
+And I think our OEM and ODM partners have done a phenomenal job with the breath of platforms, and that will help us continue to grow overall.
+
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+
+Got it. And for my follow-up, Lisa, I had kind of a longer-term conceptual question which is it's good to see growth margins improving and the cost discipline. But do you think this is the time to actually increase opex a lot and really go after maximizing footprint, right to add in more resources, more systems rather than trying to optimize profitability? I'm just curious to hear how you are looking at the puts and takes around whether you should be maximizing footprint rather than profitability at this level.
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. Look, it's a good question, Vivek. I get asked it from time to time. But what you will see is I think we're very cognizant of where we're going.
+
+So in other words, the roadmap -- I mean, the long term sort of financial roadmap, I think, we understand pretty well. We want to show leverage on both top and bottom line, and that's certainly our goal. We did spend a little bit more this year than we originally planned, and that was frankly because the opportunities are very strong. And most of the additional spend is targeted at R&D, with the notion of platform investments, software investments to ensure that we capture the opportunities that we have.
+
+I think we have the right balance, Vivek. And certainly, as we go into 2020, we'll continue to look at that balance. But I think we are very well balanced between top line and bottom-line growth.
+
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+
+Thank you.
+
+Operator
+
+Thank you. Our next question is coming from John Pitzer from Credit Suisse. Your line is now live.
+
+John Pitzer -- Credit Suisse -- Analyst
+
+Yeah. Congratulations, guys. Thanks for letting me ask a question. Lisa, I guess, my first question is, can you help me understand a little bit about the traction you're getting in the enterprise market on both Ryzen and in EPYC? And kind of what milestones should we be looking at relative to that sort of vertical?
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. So the -- we're very excited about the opportunities for us in the commercial space, and I will tell you, when we look at our go-to-market investments, we are putting a lot of feet on the street as well as just general go-to-market around commercial. Starting with Ryzen, I think you have seen and you should have seen that the number of commercial platforms that we have continues to get stronger, and it's not just the number of platforms but the quality of the platforms. Certainly, Lenovo ThinkPad is a premium brand that is very key.
+
+We have very strong HP commercial offerings. We have additional desktops coming out as well. What we are seeing is good traction in the commercial space, and that is the stronger part of the PC market. And we'll continue to talk about that.
+
+As it relates to new platforms, certainly as we refresh our mobile platform going into next year, I think you'll see even stronger commercial offerings there. We're investing heavily in security and manageability and all those other aspects that are important in the commercial space. As it relates to the EPYC in the enterprise, I'm actually very encouraged with what we see in the enterprise. We had originally said that we thought we would be more cloud -- sort of cloud would go first and then enterprise would take longer.
+
+I think what we currently see is cloud is certainly a big driver of our business. But our enterprise business is coming along very nicely. And I'd really would say that the key metrics there are more top tier brands adopting EPYC and talking about that publicly. We have had a number of engagements, and I mentioned earlier that the pipeline that we see in enterprise across our top OEMs has increased very significantly just in the last sort of two months since we launched.
+
+So the awareness around EPYC as well as the awareness around these new platforms, I think, is strong, and we'll continue to build that out as we go forward.
+
+John Pitzer -- Credit Suisse -- Analyst
+
+That's helpful, Lisa. Then maybe for my follow-up. As we, the analyst community, looked out to modeling 2020, the GPU/CPU is relatively straightforward relative to market share expectations we might have. I'm just kind of curious if you can give us some help on the semi-custom business, if it's impacted by ASC 606.
+
+And also, we've got a new gaming cycle next year. I don't know you don't want to preannounce the customer product, but how should we think about the semi-custom business trending throughout 2020 in broad strokes?
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. So I think it's a good question, and we will certainly give you more guidance as we get into 2020. But the way I think about it at a high level is we are going through a product transition with semi-custom now. And in 2019, for example, we've had the unusual cycle, where the second half of 2019 is pretty soft for semi-custom compared to the first half.
+
+And what you should expect in 2020 is that that would flip strongly. So I think both of our large customers have said that they're planning a holiday 2020 launch. That would mean that the semi-custom business would be quite heavily weighted in the second half, so you should expect that revenue in the first half will be, again, quite soft, with a strong recovery in the second half of the year. And the way I look at it is, the gaming business, the console business is a strong business for us.
+
+And so it will be one of the growth drivers as we go into 2020 and beyond.
+
+John Pitzer -- Credit Suisse -- Analyst
+
+Thank you.
+
+Operator
+
+Thank you. Our next question is coming from Stacy Rasgon from Bernstein Research. Your line is now live.
+
+Stacy Rasgon -- Bernstein Research -- Analyst
+
+Hey, guys. Thanks for taking my questions. First, I wanted to ask about gross margins. I mean, I guess, I'm glad to see them up.
+
+But given what's going on with the mix, I think you said GPUs were down sequentially with data center up more than 50%. Ryzen's growing. You have the Samsung IP in there. I guess, I'm just surprised not to see them up more both in the quarter as well as into Q4.
+
+I was wondering if you could give us a little bit more color about what's driving that margin evolution given the positive drivers of mix that I think should be there?
+
+Devinder Kumar -- Senior Vice President, Chief Financial Officer, and Treasurer
+
+I think if you look at it from a quarter-to-quarter standpoint, if you're talking about Q2 to Q3, you're right about the mix of the product, in particular with the ramp of the 7-nanometer products. And the margins are up. Last quarter, we had, call it 41%. And this time, it's slightly above 43%.
+
+And that is fundamentally due to the new products that are ramping and obviously some benefit from the semi-custom business have been down slightly in Q3 compared to Q2. So that's that. And then as you get into the Q4 timeframe, with the guide at 44%, it's driven by the new leasing products, demand for the high end of product -- of our product stack is driving a richer mix, and obviously, there's little bit of benefit as Lisa said earlier with a softer semi-custom revenue. So I think overall...
+
+Stacy Rasgon -- Bernstein Research -- Analyst
+
+I thought it was new products were supposed to have gross margins in aggregate over 50% and you're driving like a massive mix shift. And yet you've only got gross margins up a couple points. Like what am I getting wrong?
+
+Devinder Kumar -- Senior Vice President, Chief Financial Officer, and Treasurer
+
+I think the numbers are coming out to be a couple of hundred basis points up on a quarterly basis with the ramp of the 7-nanometer product. I don't think there's anything wrong. You have to look at the mix of the product relative to the total revenue of the company at the $1.8 billion, and I think that's how it comes out, Stacy.
+
+Lisa Su -- President and Chief Executive Officer
+
+I think, Stacy, maybe if this will help. In each of the product lines, we are certainly mixing up, and that's why you see some of the ASP goodness. But you also have some legacy product, right? And we continue to sell some legacy product as well. And so that's the -- that's perhaps the other piece.
+
+But I think, as Devinder said, we're very happy with the way the gross margin has progressed. I think if you look at our long-term model, we had said 40 to 44 points, and we'll be exiting the year at 44, and I think very well -- positions us well as we go into 2020 and turn over more of the product portfolio to the new products.
+
+Stacy Rasgon -- Bernstein Research -- Analyst
+
+OK. Thank you. For my follow-up, I wanted to ask about the EPYC server ramp into next quarter. So you were up you said more than 50% this quarter.
+
+So that might be, what? $80 million to $100 million maybe sequentially, which is, I guess good. Your competitor added almost $1.5 billion sequentially in data center this quarter. So when you say next quarter that you're -- I guess, you did gain share. You got about 50%, your units were 20% but even so.
+
+So when you say next quarter you're going to grow it by strong double digits on EPYC, do you think that that's like better than the trend that we saw in Q3 is more of a -- more step ramps. I mean if we were up 50% sequentially in Q3, do you think we can be better than that in Q4? Is that was strong double-digit means? Or do you have a different meaning in mind?
+
+Lisa Su -- President and Chief Executive Officer
+
+Well, I think we have in mind, strong double digits. So I would say -- and Stacy, I'm not being facetious, but again, there are all kinds of puts and takes. What I will say though is put in context that the product has basically been in markets since early August. And if you put that in context, and we're saying that the transition is going quickly, and we have a number of new platforms that are -- literally, they've been in market four to eight weeks.
+
+With the way the server cycle goes, I'm actually pretty happy with how it's ramping. And I expect, as I said, that Q4 will be another strong quarter for us, and it's just a matter of continuing to diligently ramp the platforms.
+
+Stacy Rasgon -- Bernstein Research -- Analyst
+
+Got it. Thank you.
+
+Operator
+
+Thank you. Our next question is coming from Aaron Rakers from Wells Fargo. Your line is now live.
+
+Aaron Rakers -- Wells Fargo Securities -- Analyst
+
+Yeah. Thanks for taking the question. I have a question and a follow-up as well. Sticking to the server, the EPYC ramp.
+
+I'm just curious, out of the gate, what kind of mix have you seen maybe skew toward the 48 and 64 core solutions? And what I'm really getting at is how do we think about the blended ASP trend on EPYC as Rome fully ramps?
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. So Aaron, it's fair to say that initially, out of the chute, we are seeing a higher mix to the higher end. So more 48 and 64 cores as a mix. I think those are very, very attractive products and really take the full advantage of the EPYC product line.
+
+We are seeing, as you might expect, with that mix that the Rome ASPs are showing lift versus the previous first-generation EPYC. As we go forward, you would expect that to build out a little bit more so we have a full product portfolio for the server parts. But then you also expect that you'll get more enterprise in that, and enterprise tends to have a higher ASP. So the net of all that is, I can say, in the server market, we feel very good about where we're positioned from an ASP standpoint.
+
+And from a sort of unit share to revenue share, I think they're actually quite close.
+
+Aaron Rakers -- Wells Fargo Securities -- Analyst
+
+OK. And then as just as a quick follow-up, maybe more of a model question. I think last quarter, you talked about the semi-custom business being down in the mid-30% range. You also talked about Samsung contributions being around $100 million for the full year.
+
+I'm just curious, is that still where we stand? And what was kind of the Samsung contribution this last quarter?
+
+Devinder Kumar -- Senior Vice President, Chief Financial Officer, and Treasurer
+
+So I think on the Samsung base, if you look at the second half, it's approximately $100 million. Slightly about half was taken in Q3, and the other half will come in Q4. So that's actually right.
+
+Lisa Su -- President and Chief Executive Officer
+
+And then on the -- yes, on the semi-custom side, we had said last quarter that it would be down, let's call it, mid-30s. It's probably, when you look at it in aggregate for the second half of the year, it will be down a bit more than mid-30s. Let's call it high-30s.
+
+Aaron Rakers -- Wells Fargo Securities -- Analyst
+
+OK. Thank you.
+
+Operator
+
+Thank you. Our next question is coming from Toshiya Hari from Goldman Sachs. Your line is now live.
+
+Toshiya Hari -- Goldman Sachs -- Analyst
+
+Good afternoon. Thanks so much for taking the question. Lisa, I had a follow-up question on your server CPU business. And I guess the question is, when you think about pricing and sort of the margin profile you're seeing in that business today, how does that compare with what you had planned for six or nine months ago? Is this pricing and margin coming in pretty much in line with expectations or are they coming in a little bit better? And then as you think about the margin profile for that business going into 2020, given 7-nanometer potentially maturing into next year, given the mix and given the change in customer mix from cloud to enterprise, should those two dynamics serve as tailwinds for your margin in that business?
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. So I would say that the margin mix, as we look here in the beginning of the ramp, is about what we expected. It's about what we expected. So the only thing I would say, and I said it earlier, is the product mix is perhaps a little bit higher in the early part of the ramp.
+
+But overall, the margins are pretty close to what we expected. The pricing environment is pretty close to what we expected. And as we go into 2020, I think the other piece of it is that the business scale will increase as we grow the business. And so that actually helps to absorb some of the fixed cost as well.
+
+Toshiya Hari -- Goldman Sachs -- Analyst
+
+OK. And as a quick follow-up. Your nearest competitor talked about pull-ins in their data center business, particularly in China. Was there anything in the quarter that you thought was kind of abnormal from a customer activity standpoint on the client side or the servers side? And if so, how big was that? And how should we think about kind of the implications into Q4 and potentially the early part of 2020? Thank you.
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. When we look at both the client and server business, I wouldn't say that we saw any significant pull-ins due to tariffs or other reasons. We monitor sort of certainly very closely the sell-in and sell-through trend. And we believe that what we're seeing in terms of the growth of the business is actually just new platforms running -- ramping.
+
+And given where we are in the product cycle, that makes sense. And so I wouldn't say that we saw any significance of pull-ins in the quarter.
+
+Toshiya Hari -- Goldman Sachs -- Analyst
+
+Thank you.
+
+Operator
+
+Thank you. Our next question is coming from Mitch Steves from RBC. Your line is now live.
+
+Mitch Steves -- RBC Capital Markets -- Analyst
+
+Hey, guys. Thanks for taking my question. I just had 2. I guess first for Devinder.
+
+I realize you don't want to provide any kind of 2020 numbers, but you're going to get asked this a hundred different ways, so I may as well save you guys some time. So if I look at the first half of '20, is there any reason why the gross margins won't be higher than they are in December quarter?
+
+Devinder Kumar -- Senior Vice President, Chief Financial Officer, and Treasurer
+
+We don't even want to get into 2020. There are several product transitions in play this year, as you've heard in the prior questions. OEM, the semi-custom business, that's in transition. We have obviously the rest of the business in transition, the ramp in 7 nanometers.
+
+Lisa reported some of the legacy products. So there's a lot of puts and takes and I think we want to talk about 2020 once we get past 2019 and put it to bed, and we can come back and talk about 2020 in about 90 days from now.
+
+Mitch Steves -- RBC Capital Markets -- Analyst
+
+OK. Gotcha. And then secondly, just for Lisa here. There's been a lot of articles just in terms of some firmware issues, just some software bugs and things like that.
+
+Can you maybe just help us address all of them at onces and just kind of talk about what you guys did to fix them? Because we're still seeing kind of articles pop up here and there, and I just want to make sure that there are no issues in terms of the software.
+
+Lisa Su -- President and Chief Executive Officer
+
+Let me make sure I understand what you mean, Mitch. Which product line are you referring to? Or what are you exactly referring to?
+
+Mitch Steves -- RBC Capital Markets -- Analyst
+
+So there have been specific articles with Ryzen, right, saying that there's issues with the bios and things like that. And performance metrics are a little bit lower. But then you guys kind of noted that you've improved them or fixed them, but we're still kind of seeing them in the market even today, for example. Just wanted to know in terms of what happened? And then secondly, if everything's been resolved?
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. So your question was relative to the third generation of Ryzen. Look, I think overall, when you look at the third-generation of Ryzen and the platforms that we put out, we're very, very pleased with how that ramp has gone. And when we look at the sales from a sell-through standpoint, we're very pleased with where it is.
+
+There have been some platform sort of optimizations that we've done through working with our OBM partners and the motherboard partners to try to sort of improve the optimization of the maximum boost frequency, which is I think what you're referring to. And that has largely been addressed over the last couple of weeks. But I would consider that more of a optimization versus any type of major update. And we're going to continue to improve the platform.
+
+So you're going to see that, as is normal with a new platform, that we'll continue to improve the platforms over time. But I will say that we're very pleased with how third-gen Ryzen has done in the marketplace. And we're excited with the launch of the 16-core 3950X as well as the Threadripper family in the next couple of weeks as well.
+
+Mitch Steves -- RBC Capital Markets -- Analyst
+
+Perfect. Thank you.
+
+Laura Graves -- Investor Relations
+
+Operator, we have time for about two more questions, please.
+
+Operator
+
+Thank you. Our next question is coming from Harsh Kumar from Piper Jaffray. Your line is now live.
+
+Harsh Kumar -- Piper Jaffray -- Analyst
+
+Yeah. Hey, guys. Just a quick one. As you look at your leverages for gross margins, what would you consider as your greatest leverage? Is it just sales growth as you take share? Or is it more products going to 7-nanometer?
+
+Devinder Kumar -- Senior Vice President, Chief Financial Officer, and Treasurer
+
+I think if you look at the products, definitely, the new products and the 7-nanometers are very good tailwinds for the gross margin. But also, the mix of the business comes into play. The more data center revenue we capture in terms of market share obviously helps the gross margin. The high end of the stack, in particular, in the client PC business, that helps the gross margin.
+
+So it's basically those are the things that help the gross margin as we go forward from 2019.
+
+Harsh Kumar -- Piper Jaffray -- Analyst
+
+And as you look out, where do you think margins can go?
+
+Devinder Kumar -- Senior Vice President, Chief Financial Officer, and Treasurer
+
+Well, we think that, as Lisa said earlier, when we painted our long-term target model, we painted 40 to 44 in the 2017 time frame. That's what we said. We exit when we had 44, and we'll come back and update that some time in 2020.
+
+Harsh Kumar -- Piper Jaffray -- Analyst
+
+Fair enough. Thanks, guys.
+
+Lisa Su -- President and Chief Executive Officer
+
+Thank you, Harsh.
+
+Operator
+
+Thank you. Our final question today is coming from Timothy Arcuri from UBS. Your line is now live.
+
+Timothy Arcuri -- UBS -- Analyst
+
+Thanks a lot. I think in the past, you've given the percentage of total revenue that was data center CPU and GPU combined. Can you give us that number?
+
+Devinder Kumar -- Senior Vice President, Chief Financial Officer, and Treasurer
+
+Yeah. I mean as a percentage of revenue, it's similar to what it has been the past few quarters, although the server portion was significantly higher as we saw -- as we said early, greater than 50% sequential increase. And so the CPU revenue -- unit shipment and revenue, so that definitely helps.
+
+Timothy Arcuri -- UBS -- Analyst
+
+Yeah, got it. OK. And then I guess just a bigger picture question. In terms of the kind of competitive edge you have, some of it relates to process technology, but of course, your competitor could just go to TSMC to build CPUs as well.
+
+But I guess, there's other parts that relate to your fundamental architecture, which is the chip with memory density and your IPC advantage. So I guess can kind of break down -- Lisa, can you break down how much of the advantage really is process related versus how much is actually architecture related? Thanks.
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. So Timothy, the way I would answer that question is, look, we made a set of choices, and the set of choices include process technology, they include architecture, our chiplet architecture. They include sort of our overall system architecture. And I think we've made a set of good choices.
+
+Going forward, we are not relying on process technology as the main driver. We think process technology is necessary. It's necessary to be sort of at the leading edge of process technology. And so today, 7-nanometer is our great node, and we're getting a lot of benefit from it.
+
+We will transition to the 5-nanometer node at the appropriate time and get great benefit from that as well. But we're doing a lot in architecture. And I would say that the architecture is where we believe the highest leverage is for our product portfolio going forward.
+
+Timothy Arcuri -- UBS -- Analyst
+
+Got it. Thank you, Lisa.
+
+Operator
+
+Thank you. We reached the end of our question-and-answer session. I'd like to turn the floor back over to for any closing comments.
+
+Laura Graves -- Investor Relations
+
+Thank you very much, operator. And thank you, everyone, for joining us on the call today. We do have a number of events planned here in the fourth quarter, and we look forward to seeing you all soon. Have a great evening.
+
+Operator

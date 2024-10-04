@@ -1,0 +1,271 @@
+Operator
+
+Hello, and thank you for standing by for Baidu's Second Quarter 2021 Earnings Conference Call. [Operator Instructions]
+
+Now, I'd like to turn the meeting over to your host for today's conference, Ms. Juan Lin, Baidu's Director of Investor Relations.
+
+10 stocks we like better than Baidu
+When our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+
+They just revealed what they believe are the ten best stocks for investors to buy right now… and Baidu wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+
+See the 10 stocks
+
+*Stock Advisor returns as of March 8, 2023
+
+Juan Lin -- Director of Investor Relations
+
+Hello, everyone, and welcome to Baidu's second quarter 2021 earnings conference call. Baidu's earning release was distributed earlier today and you can find a copy on our website as well as on newswire services. On the call today, we have Robin Li, our Co-Founder and CEO: Herman Yu, our CFO; and Dou Shen, our EVP in charge of Search and Feed. After our prepared remarks, we will hold a Q&A session.
+
+Please note, that the discussion today will contain forward-looking statements made under the Safe Harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from our current expectations. For detailed discussions of these risks and uncertainties, please refer to our latest Annual Report and other documents filed with the SEC and Hong Kong Exchange. Baidu does not undertake any obligation to update any forward-looking statements, except as required under applicable law.
+
+Our earnings press release and this call includes discussions of certain unaudited non-GAAP financial measures. Our press release contains a reconciliation of the unaudited non-GAAP measures to the unaudited most directly comparable GAAP measures and is available on our IR website at ir.baidu.com.
+
+As a reminder, this conference is being recorded. In addition, a webcast of this conference call will also be available on Baidu's IR website.
+
+I will now turn the call over to our CEO, Robin.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Hello, everyone. We delivered another solid quarter with Baidu Core revenue growing 27% year-over-year accelerated by non-advertising revenues with AI cloud growing 71% year-over-year in the second quarter. We are entering a new era where technology is becoming more powerful and we are benefiting from the deployment of technology to upgrade China's industrial competitiveness, digitize urban cities and improve mobility. As China plans for the next stage of growth, it rests upon us to recognize the need to align our business strategy with the environment that we're operating and the future that we want to build with our stakeholders. ESG highlights a shared future documentary to support China's pledge to achieve carbon-neutrality by the year 2060 and Baidu aims to reach carbon-neutrality by 2030 through the use of green data centers, smart office buildings and other means.
+
+In addition, we hope to improve urban traffic flows and lower carbon emissions for 100 metropolitan areas across China with our build-out of smart transportation and accelerate the switch to ADs for the mass through our investments in robotaxi and smart AD. Leveraging technology to serve a larger population to achieve inclusiveness is part of China's growth plan. In June, we introduced Apollo Moon, 5th generation of Apollo robotaxi vehicles that once again saw a 60% drop in costs per mile. With the rapid pace of autonomous driving technology advancement and cost efficiency improvement, Apollo robotaxi stands to become much cheaper than driver-for-hire ride hailing in the coming years, which will make robotaxi ride hailing much more accessible.
+
+Baidu Health is another example of expanding resources to a broader population for improved living. We are enabling closed loop telehealth, online prescription and home delivery to free up hospital resources for critical treatments. Concurrently, we are helping hospitals find patients with specific illness that match their treatment specialties by leveraging our AI-powered Search and Smart Mini Program. We see great opportunities to use technology to advance sustainability and inclusiveness. As we go through our quarterly highlights, you will see other examples of how our AI paradigm is naturally aligned with these goals. This is due in part to our belief in using technology to build a better world.
+
+Turning to Q2 operational highlights. Our AI cloud continue to see strong growth. IDC once again ranked Baidu AI cloud the number one AI cloud provider in China in their 2020 report on public cloud. Over the past decade, ACE [Phonetic] has been the growth driver for China's cloud market, which sets up a strong foundation to implement AI solution that solve industry-specific problem and provide urban living upgrades. By differentiating with AI solution, we have the opportunity to provide repeat business with expanded applications and become a one-stop shop across selling -- cross-selling ACE and other services.
+
+In the past, we discussed empowering financial services, utilities and Internet media sectors with AI. Let me give you an example of how our AI cloud empowers the auto sector. We are helping Geely, a leading automotive manufacturer to develop a multi-year digitization plan, which entails: one, setting up their private cloud infrastructure; two, moving Geely's business on to cloud; three, leveraging Baidu AI solution to advance Geely's high-tech manufacturing capabilities such as IOV security and risk management; and four, enabling Geely to provide cloud services to their automotive suppliers and customers.
+
+Baidu AI is deployed into multifaceted environment. For example, Quanzhou, Fujian, a city of population of 8 million, implemented Baidu AI solution at its water treatment plant. Our smart monitoring capability was used to provide early detection of malfunctioned equipment, replacing labor-intensive patrolling, and a customized machine learning model was developed to predict water usage and dynamically adjust the water pressure of different water pipelines, cutting electricity needs by 8%. Our employees feel a sense of pride when natural resource is optimally managed and sustainability is indirectly advanced.
+
+In healthcare cloud, we have expanded into over 400 hospitals in 29 provinces and over 1,500 primary-care clinics in 11 provinces with leading solutions like our CDSS, resulting in rapid revenue growth at 245% year-over-year for the first half. According to IDC's June report, Baidu deep learning platform became the most widely used in China, surpassing Google. Our PaddlePaddle developer community reached 3.6 million, up 62% year-on-year and is adopted by 130,000 businesses. Baidu's large development community helped improve our machine learning models and [Indecipherable] our AI tools and technologies.
+
+Moving onto ACE smart transportation. As of June, Apollo has signed with 20 cities to provide ACE smart transportation up from five cities a year ago based on a contract amount of RMB10 million and above. Apollo also renewed agreements with nine cities to roll out their next phase of ACE smart transportation. Beyond urban roads, Apollo signed with Xiongan, Hebei to deploy V2X smart highway, enabling the city to remotely identify the need for highway maintenance, assess road closure for poor weather conditions and identify travelers who dodge toll terminals.
+
+Turning to autonomous driving. Apollo continue to see strong momentum. Level 4 testing on public road has reached 12 million kilometers or 7.5 million miles. Apollo has received 278 AD permits, reflecting AD piloting in dispersed geographic regions and under wide-ranging test scenarios.
+
+Apollo monetization. In Q2, Apollo Go ride hailing expanded into Guangzhou, our fourth city of operation and provided 47,000 rides to the public, up 200% sequentially. Customer satisfaction for Apollo Go has been high with user rating of 4.9 out of 5.0. As pointed out earlier, our 5th generation robotaxi vehicles saw another 60% drop in cost per mile compared to an average decrease of 62% in the first four generations of AD vehicles. We plan to roll out Apollo Go ride hailing across 30 cities over the next two to three years.
+
+On ASD, Great Wall Motors becomes the latest automaker to announced plans for ASD. Apollo Automated Valet Parking will be installed in their WEY Mocha SUV flagship due out later this year.
+
+On infotainment, DuerOS for auto has been installed in 1.8 million vehicles, up 265% year-on-year. 12 auto OEMs, the likes of Ford, GM, Toyota and Honda have signed with DuerOS for auto -- for installation in 17 makes. On DuerOS, Xiaodu continues to innovate the smart home device market.[Indecipherable] the only sound DuerOS smart assistant allows one to conveniently order fresh home delivery of flowers and other commonly used goods in a matter of seconds through conversational AI.
+
+China's elderly population is slated to exceed 300 million. Xiaodu smart displays connect elders with immediate senior community assistance and serve as a virtual companionship around the clock through conversational AI, improving their quality of life while allowing family members to monitor their loved one's house and safety from remote. During the June 18 e-commerce festival, Xiaodu Smart Display and Xiaodu Smart Path for education market topped the sales list in their respective category on leading e-commerce platforms like JD.com. Xiaodu is receiving high customer satisfaction selling well on higher price point product line and topping the lists on units sold demonstrating how hardware can be differentiated with innovative AI such as new input modalities and services.
+
+Turning to mobile ecosystem. In June, Baidu App MAUs reached 580 million, up 9% year-on-year and daily logged in users reached 77%. As an open in-app search app, Baidu App offers users instant replies on various topics. For example, daily telehealth consultation on Baidu Health surpassed 2 million in the second quarter, up 47% year-on-year. In addition, more than 8,000 industry experts spanning 14 other verticals such as legal, finance and fashion are able to instantaneously reply to user's search inquiries through our AI building blocks. When users seek specific information of service, Baidu Search has a distinct advantage.
+
+Managed Page now accounts for 40% of Baidu Core advertising, reflecting merchants opening storefronts on Baidu as opposed to operating their own sites. For example, a local moving company changed their search landing page to it's managed page and saw its daily orders doubled five weeks after adoption. Through Managed Page, users are able to browse its service, interact with the merchant, schedule a move and pay on deposit, all seamlessly on Baidu. Managed Page also monitors merchant activities on Baidu with AI for added personal safety. For example, a moving service entails strangers coming to your house.
+
+Before I turn the call to Herman, I'd like to congratulate him for his new role as Chief Strategy Officer of Baidu. Herman will continue to act as CFO until we find a qualified replacement. He will spend more time on company strategy and business development afterwards. Over the past four years, Herman has helped Baidu transform from a mostly search company to a leading and diversified AI company which demonstrated the business leadership, a holistic view of our business and a keen sense of the capital market. I'm confident in Herman's ability to help chart a course for our long-term growth and success in the age of AI.
+
+With that, let me turn the call over to Herman to go through our financial highlights.
+
+Herman Yu -- Chief Financial Officer
+
+Thank you, Robin. Hello, everyone. Welcome to Baidu's second quarter 2021 call. All monetary amounts used in my discussion are in renminbi, unless stated otherwise. Baidu's second quarter was -- Baidu's second quarter revenue was RMB31.4 billion or $4.9 billion, up 20% year-over-year, driven by the growth of Baidu Core revenue, which reached RMB24 billion or $3.7 billion, up 27% year-over-year. Non-advertising for Baidu Core reached RMB5 billion or 21% of Baidu Core's revenue. AI cloud revenue was RMB3.3 billion, up 71% year-over-year, which is an acceleration from the 55% growth last quarter.
+
+Our cloud growth is benefiting from the demand of enterprise customers looking to use AI to transform their industry and strengthen their leadership position; for example, customers from the Internet, media, from financial services, from energy and from manufacturing sectors. We are also benefiting from the urban cities seeking to adopt Apollo ACE smart transportation to modernize and digitize their transportation network. AI solutions and smart transportation are showing fast growth serving as a catalyst for our cloud to grow faster than the overall cloud market, with ACE being a smaller part of our cloud business.
+
+On intelligent driving and other growth initiatives. We continue to make advances in product development. By leveraging Baidu AI capabilities such as speech recognition and LP and computer vision in our strong Internet foundation, Xiaodu has become the leader in smart display globally based on shipments. Xiaodu speakers entered the smart home device market in 2018 competing on sub-100 product lines. Home devices equipped with AI features can be sold at much higher price points. For example, in May, we introduced Xiaodu Tiantian T10, a 10 inch smart display with karaoke features, at a MSRP of RMB1,699. Through our innovation, Xiaodu services revenue such as advertising and membership has grown five-fold from last year, now accounting for over one-tenth of Xiaodu's revenues. Xiaodu powered by DuerOS is transforming the smart speaker market from selling hardware to selling AI-powered features and services.
+
+Operating systems for the automotive industry is a much larger market. Apollo has an opportunity to leverage its leadership in autonomous driving and infotainment operating system to enable every passenger vehicle to be a smart vehicle. Just as Xiaodu transformed the home device market, Apollo hopes to leverage Baidu's capabilities in ASD and existing OEM channels to boost computing intelligence and transform the automated industry.
+
+Moving to online marketing. Q2 online marketing revenue was RMB19 billion, up 18% year-over-year. In-app advertising was solid, growing 26% year-over-year, partially offset by the slow growth of unit and PC ad revenues. Most of our top ad verticals continue to perform well. CPM saw double-digit growth, especially for in-app online marketing. iQIYI revenue was RMB7.6 billion, up 3% year-over-year. iQIYI subscribers reached 106 million in June which supports the large in-house production of entertainment blockbusters.
+
+Cost of revenue was RMB15.9 billion, up 21% year-over-year primarily resulting from an increase in TAC and cost of sales associated with new AI business. Operating expenses were RMB12 billion, up 30% year-over-year. SG&A for Baidu Core was up 40%, primarily due to an increase in channel spending and promotional activities, as well as increase in sales hiring, particularly as we look out for the next six to 12 months to grow our cloud and also our intelligent driving business.
+
+Non-GAAP operating income for Baidu Core was RMB6.5 billion or $1 billion and non-GAAP operating margin for Baidu Core was 27%. Adjusted EBITDA for Baidu Core was RMB8 billion were $1.2 billion and adjusted EBITDA margin for Baidu Core was 33%.
+
+Cash and short-term investments for Baidu Core as of June 30, 2021 was RMB167.7 billion or $26 billion. Free cash flow for Baidu, excluding iQIYI, was RMB6.9 billion or $1.1 billion. Baidu Core had approximately 36,400 employees as of June 30, up 24% from last year.
+
+Turning to Q3 guidance. For the third quarter, Baidu expects revenues to be between RMB30.6 billion and RMB33.5 billion, representing a growth rate of 8% to 19% year-over-year, which assumes that Baidu Core revenue will grow between 9% year-over-year and 20% year-over-year. The above forecast takes into consideration the current COVID-19 situation in China, which is evolving and business visibility is limited. The above forecast reflects our current and preliminary view, which is subject to substantial uncertainty.
+
+Before I turn the call back to the operator, let me summarize our second quarter results. Baidu mobile ecosystem continues to be strong. Baidu Core online marketing revenue was up 18% year-over-year in the second quarter with in-app marketing revenue growing 26% year-over-year. Baidu App MAUs reached 580 million, up 9% year-over-year and daily user logged in was 77%. Four years ago, we committed to strengthening our mobile ecosystem and deal with AI. Our Search and Feed is stronger now with AI building blocks and marketing cloud and non-marketing has become sizable and growing quite fast. We have delivered on our goals and we are very proud of our team for their strong execution.
+
+Many investors have inquired about the recent regulatory landscape. Governments generally favor fair competition and maybe even so when mobile Internet is well-penetrated. We see this being played across Europe and in the U.S. Search, fundamentally, is open. As exclusivity is forbidden for the largest players, this will allow more players in each Internet sector to exist, which gives consumers more choices and makes Search more useful.
+
+Some investors have asked about government incentives and special tax treatment. It's important that we elevate this to see the overall direction of China's development plan. Consumer Internet has been in China for -- since decades and the country is promoting new growth sectors such as Industrial Internet, V2X Autonomous Driving and the monetization of city governments. Thus, it will not be surprising if certain incentives for the older industries gradually decrease, while the new economy benefits from government incentives. We believe government policy will also be adjusted to support these new growth areas. Our new AI business is well-positioned in sectors of the new economy, such as AI cloud, smart transportation, autonomous driving, smart devices in AI chips.
+
+In the second quarter -- I'm sorry, Baidu returned $566 million to our shareholders under the 2020 Share Repurchase Program this year, bringing the cumulative repurchase from last year to $2.5 billion. We are excited about Baidu's future, excited about Baidu's durable Search and Feed business and our new AI business to support China's growth, while advancing sustainability and exclusiveness.
+
+On August 18, starting at 9:30 AM Beijing Time, we will be hosting Baidu World on CCTV. Please join us to follow the latest on our product development.
+
+And lastly, it's truly been a privilege to serve as Baidu's CFO and witness our growth initiatives like AI cloud solution, smart transportation, self driving solutions and smart devices developed into a fifth of Baidu Core business using the steady profitability of our Search and Feed to fund and accelerate Baidu's growth. I'm excited about my new role as CSO, which will allow me to spend more time thinking about technology opportunities.
+
+Operator, with that, let's now open the call to questions.
+
+Questions and Answers:
+Operator
+
+Thank you. [Operator Instructions] Our first question comes from the line of Alicia Yap from Citigroup. Please ask your question.
+
+Alicia Yap -- Citi -- Analyst
+
+Hi, thank you. Good evening, Robin, Herman and Juan. Thanks for taking my questions. Congratulation Herman for your new role as the CSO. To follow up your question -- your kind of like brief remarks about the regulation. I actually have questions on this data security. What could be the impact on Baidu? Anything that we need to do or changes that we need to do to ensure in compliance by September 1 for this data security law? And then very quickly, as we just finished the Summer Olympics and with the Winter Olympics coming up, can you provide some update in terms of the latest robotaxi or even the robobus commercialization service? Any expectations on these ride hailing demand in this upcoming winter game? Do you think Baidu's driverless car service could leverage this big event to draw more commercial usage and hence the branding? Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Hi, Alicia. Data security is very important to us and we have consistently improved the management of our internal data security system over the past few years. We have a data privacy committee among our management team that oversees that practices of the whole company. We are also active in assisting, let's say, setting up industry standard and we share our grievances and dialogs with others to ensure that we are on top of industry best practices. If you look at the high, Baidu's rating on data privacy and data protection is among the highest compared to our peers. So I'm quite confident we'll be able to cope with the new regulatory environment well in terms of data security and the user privacy.
+
+On Olympics side, yes, we do plan to do something with our robotaxi during the Winter Olympics. But what's important is that we just launched this fourth city of robotaxi operation, which is Guangzhou. I think we will continue to roll out our robotaxi services in many different cities, different regions and the number of rides that we are providing have been growing very quickly as I mentioned during the prepared remark where we delivered 47,000 rides for our customers. That's 20% growth over the first quarter of this year. So we believe that the scale will grow very quickly and we will be able to learn all kinds of corner cases and and quickly improve our technology. I'm quite optimistic that robotaxi will be commercially available in more than 30 cities in two to three years.
+
+Herman Yu -- Chief Financial Officer
+
+Yeah. And I just wanted to add a point, something with what Robin just said. You asked specifically about Winter Olympics. If you look at today in Shougang Park in Beijing, we believe we're the only second autonomous driving car company in the world where you actually have a car driving without someone at the driver seat. So I think that shows the number of years of experience that we've been doing in autonomous driving and also shows the fact that we've been doing operations for autonomous driving for a while. That's why we can get the permit and actually start testing that. So it's open to the public. You guys are free to come and look at how autonomous driving is being done without someone at the driver seat.
+
+Operator
+
+All right, thank you. Our next question comes from the line of Piyush Mubayi from Goldman Sachs. Please go ahead.
+
+Piyush Mubayi -- Goldman Sachs -- Analyst
+
+Thank you, Robin, Herman. When I look at the way your ride hailing business is expanding, I can't help but think that you will soon be running the business without the cost of a driver to factor in. If you could just take us through the math as you see it evolve to getting to 20 cities, at what point of time does it get to be a revenue line that you'll spill out separately and talk about the profitability, if at all? Thanks.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Yeah. We continue to work very hard to drive down the cost of robotaxi vehicles. They have just come down 60% for 5th generation vehicle. And in the meantime, we are running more testing miles and taking more orders to learn from all kinds of corner cases and quickly improve our technology. Based on our current projection, I think that by the year of 2025, we will cross the line, which means that the total cost of robotaxi ride hailing will be lower than manned vehicle ride hailing. And after that, I think that the scale will be able to grow much larger than it is today. And I think around that time, we should be able to report in segment line.
+
+Herman Yu -- Chief Financial Officer
+
+Yeah. And just to add to that, Piyush, if you look at the economics, Robin talked about how from 4th generation to 5th generation we reduced by 60% in cost per mile. If you look at our prior four generation, we averaged around 62%. So we've been consistently decreasing cost for the last five generations and at around 60% each time. And if you look at what Robin just said, go back to 2025, what you're seeing in the economics is that in a ride hailing with actual drivers, look, the cost of a person -- labor cost only goes up, it doesn't go down over time. But you're competing with technology, you're competing with the fact that the more miles that we have, the more data that we have on operation experience that this thing will continue to go down.
+
+So I think that's the effectiveness of this business model. If you look beyond 2025, if you look at the next five years, we have internally -- we can drive that cost down a lot, lot more based on what we have seen in the first five generation. So this thing would be very interesting once you pass 2025. You have technology, efficiency, technology, operational improvement compared to labor costs.
+
+Operator
+
+Thank you. And next question comes from Alex Yao from J.P. Morgan. Please ask your question.
+
+Alex Yao -- J.P. Morgan -- Analyst
+
+I have a follow-up question to Piyush's question. So [Technical Issues] in 2025 the CPM of your Apollo solution could be cheaper than human driver. My follow-up question is when do you expect the safety ratio for your Apollo solution to be safer than a human driver? And then for these two condition to materialize, what does it take? Is it the cumulative mileage to reach a certain level or is it something else? Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Yeah, that's a good question. We take testing very seriously. I think we've been testing for like more than 10 million kilometers. We haven't had a serious injury yet. So that demonstrates that once we decide to operate a certain route for our robotaxi ride hailing services, we have the confidence that the service have a higher safety level than human drivers. That'll be a minimum bar for us to roll out services without human drivers. But my expectation is really that we should be 10 times more safer than a human driver. So that kind of benefit is quite clear and it's absolutely assured. What's the second part of the question?
+
+Alex Yao -- J.P. Morgan -- Analyst
+
+Second part is what does it take for these two condition to play out? I mean...
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Yeah, yeah, that's right, yeah.
+
+Alex Yao -- J.P. Morgan -- Analyst
+
+That could be cheaper and -- yeah.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Right. We have 5 million kilometers of roads in China and the road conditions vary greatly. The approach we're taking is a very gradual one. We carefully choose routes that we have a high confidence that can be operated without a human driver. That's why we're saying that we are pacing ourselves, we're carefully picking areas and routes so that we have a high confidence that we can operate with robotaxi.
+
+Operator
+
+Right, thank you. Our next question comes from Gary Yu from Morgan Stanley. Please ask your question.
+
+Gary Yu -- Morgan Stanley -- Analyst
+
+Hi. Thank you, management, for the opportunity to ask question. I actually have two questions, both of which are follow-up of the previous questions. First is on regulation. I appreciate the management comments about data privacy. How about on data security issue? Have we heard anything from kind of regulator on government level where the officials are comfortable for a private company -- tech company like us to have kind of full control of these sensitive road data traffic on our system or if there is any discussion on your potential formation of state-owned joint venture company having full access of these data? Is that fully on the hands of private company? So that's on first question related to data security.
+
+My second question is also related to robotaxi. So we talk about the cost opportunity. How the revenue -- after 2025 or even longer term, how should we project in terms of penetration -- mobility penetration or sheer mobility penetration that we think will be kind of certified driverless cars? The reason I'm asking this question is, since like currently driverless cars are limited to certain usage scenario with specific locations, so how should we look at kind of penetration going forward? Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Yeah, on the regulation with the data security, we maintain constant dialog with the regulator and as I mentioned, sometimes we participate in the setting of industry standard. So I would say that we have a very high standard and we haven't heard anything that's very abrupt or adverse that's going to have adverse impact on our business operation yet.
+
+On the penetration of robotaxi, right, like I mentioned, we are taking a gradual approach. There are certain roads that is suitable for robotaxi, there are certain roads that's not suitable to robotaxi. We are carefully selecting what road to operate on. But if you look at the overall market, I think you ride hailing has like probably 50 million orders per day. As for the cost, it can become, let's say, [Indecipherable] cost, I think that the number of orders could easily double. So it's a huge market. It just to depend on how fast we can improve our technology and scale up of our services.
+
+Operator
+
+Right, thank you. Your next question comes from Jerry Liu from UBS. Please ask your question.
+
+Jerry Liu -- UBS -- Analyst
+
+Hi, thanks for taking my question. Yeah, maybe let me ask a question on the advertising business. Mainly, if I look at the third quarter guidance, we've been talking about some of the COVID-19 resurgence potential impact. So I just want to ask, first of all, is this something we're already seeing or is it more pre-empted? And then secondarily, we're also seeing some potential COVID or regulatory impact across different sectors in the whole industry. So wanted to get a sense on the strengths and weaknesses of the different verticals at the moment. Are we seeing further impact, for example, online education, e-commerce or other verticals? Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Okay, thanks for the question, Jerry. You're right. We already see the impacts of COVID-19 for the Q3, especially for travel. We saw very good -- those trend in the early few weeks for Q3. But certainly the COVID-19 did disrupt that trend. Actually it dropped pretty quickly. On the other hand, we did pretty good progress on the media, excellent vocational education and those verticals. So talking about the regulation and so far we see pretty conditions or on the K12 education and some other verticals. The first and foremost is that the K12 education itself is pretty big vertical for us. The K12 has more partition in our guidance. And also for the K12 innovation we -- we're pretty optimistic about it because we can see two potential good things. Number one is that we are expecting more such colleagues along the K12 because [Technical Issues] success. The second one, as far as I know, that some of the resources for moving to a vocational education, which is a very good vertical, we are pretty strong, I think.
+
+Operator
+
+Thank you. Our next question comes from Eddie Leung from Bank of America Merrill Lynch. Please ask your question.
+
+Eddie Leung -- Bank of America Merrill Lynch -- Analyst
+
+Good evening, guys, I would like to ask a question on your cloud business. It seems like the strong growth this couple of quarters potentially driven by new projects. So just wondering -- could you give us some rough timelines that when you could get into the development stage that the growth of your cloud businesses would be more driven by your existing clients upgrading their services and then buying more -- more from the usage of existing clients rather than opening up new projects? Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Yeah. As you know that our cloud business is still growing at a very high rate, high double-digit growth rate, so by nature, you're exactly right that there are a lot of new projects from new customers. And what I can say is that our customer retention has been very good. And it's also improving as we expand our customer base more often [Indecipherable] and give us new benefits. if we want to maintain a very high growth rate, it's inevitable that we will have a large percentage of, so called, new projects. So at this stage, I wouldn't manage the percentage of new customers for our existing customers. We will try to grasp the opportunities that's presented to us. If it's AI-driven solution or cloud solution, that is our sense. We'll try to do as much as we can.
+
+Herman Yu -- Chief Financial Officer
+
+Yeah. I think Robin summarized this up pretty well. When you're growing at 71% year-over-year, clearly, you cannot be relying on one driver. What you're seeing actually is two drivers. Number one is, you are seeing us getting repeat solutions. Right? We talked about, for example, smart transportation. Look, we're in 20 cities. if you look at contracts over RMB10 million, nine [Phonetic] of them have renewal. If you look at, for example, we talked about the Geely, we didn't just went -- our first phase was building that private car for them and then we talked about three-year plan, and then we talked about the other things that we're going to do and Robin talked about also four steps. So clearly that's not a one-solution one-time, that is a repeat solution. Right?
+
+Join us for our call for Baidu World. We're actually going to go to AI solutions for many different industries and you'll see what I'm talking about. Basically, our model is, we're certain with the AI Pass, that's the AI engine and if they want to do different things, they would then come back to different phases to add applications. So those you can see, it's because the original engine is on Baidu cloud, the applications that will come back to us to add on that. Very similar to smart transportation, you have V2X and you can expand the different applications of V2X. So you can see our business model enables us to do repeat business. At the same time, if we don't expand to different industries, if we don't add different customers, we cannot keep up with the kind of growth that we have.
+
+Look, you look at our Q2, our annualized revenue of the base in Q2 is $2 billion and growing at 70% [Phonetic]. So you have a very exciting business in order to continue that robust growth. You really have accelerate from products, from different industries and adding these on our customers.
+
+Operator
+
+Thank you. Our next question comes from James Lee from Mizuho. Please go ahead.
+
+James Lee -- Mizuho Securities -- Analyst
+
+Great, thanks for taking my question. Just want to follow-up Eddie's question on cloud. Maybe, can you guys talk about the improvement that you guys are making to make your offering more scalable? I think last quarter you talked about developing a standardized solution to lay it out in April, third-party developers and integrators to customize for their clients. Can you give us an update on that? And also secondly, the adoption for machine learning AI for cloud in the U.S. is much smaller -- much slower in the U.S., can you help us understand why we're seeing a faster adoption cycle in China? Thanks.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Right. On the cloud solutions, as we do more project and we serve more customers, we are able to more standardize our solutions. So in the beginning, we can only take those more of system integrator role to get all the deals, but at this stage we are able to provide, in a lot of cases, standard packages or parts to the other people who are system integrators who get large parts of those total solution projects. So that demonstrates our capability to continue to improve the standardization of our solutions.
+
+And on the adoption of machine learning, I think that the difference between U.S. and China is that, U.S. tend to separate the product or solution on a more cardinal fashion, mainly that they pass and pass and pass. At each layer you have large players that are all kinds of different industries. But in China, you can easily see more of those vertically integrated solution providers, for example, for Baidu, we provide smart transportation solutions for a lot of cities. That sometimes includes hardware, software, cloud and all kinds of things. But, [Indecipherable] is not the standard. It's actually quite similar from city to city and from customer to customer and by vertically integrate or by providing a solution -- end-to-end solution, we can actually innovate a lot more to really improve the efficiency and serve the customers better. Therefore, the customers are better served. And when you can vertically integrate a lot of things, AI or machine learning, naturally plays a much more important role.
+
+Herman Yu -- Chief Financial Officer
+
+And let me just give more granularity of what Robin just said. When you look at, for example, smart transportation, we started with V2X. Right? You're trying to synchronize the traffic lights. We posted the project back in [Indecipherable]. So obviously we had the product, but you go into a city, you're trying to understand their systems and so forth and a lot of times you've got to then connect to the system -- to a legacy system in order to make it work. But as you go into different cities in China, an if -- once you have certain tools that will set up to deal with the same legacy system and so forth, you get, number one, that efficiency from operational experience and secondly, a lot of tools that we've built up. So when you think about us doing V2X specifically to synchronize the traffic lights because we've done this for several years, you're actually seeing a very high scalability, you're actually seeing better margins so on and so forth because we've been doing this.
+
+So now if you see us start expanding into different scenarios like, for example, into highways, maps and so forth, then what I would predict based on our past experience is that these margins will improve as we find more familiar environment. Same thing as we're going into enterprises where we talked about automated call centers. The first one we did with Unicom wasn't very profitable and then they started expanding into different call centers throughout the country. So all of a sudden we're familiar with the back-end system. You just have to buy another service, put the software in there, all of a sudden you're up and running, because you've already trained the machine learning model for the specific client.
+
+I mean, you start expanding into different industries, you get one or two leading customers. Again, you're now repeating a lot of things that you're doing. All of a sudden, you get that inertia. So I think AI solution is very similar to the enterprise solution that you have for software and so forth in the U.S. It takes time whenever you're getting into a new industry, into new customers. But once the environment connecting to the legacy system is very familiar, you get that inertia in the phases after that.
+
+Operator
+
+Right, thank you. Our next question comes from Natalie Wu from Haitong International. Please go ahead.
+
+Natalie Wu -- Haitong International -- Analyst
+
+Hi, good evening. Thanks for taking my questions. We noted recently a press release that you are expanding your campus recruitment this year, going out to increase 20% [Phonetic] of your total headcount. Just wondering if management can share with us the rationale behind that aggressive expansion at this point. And how should we see the margin trend of Baidu Core ahead. Also if we simply look at the marketing-related business in Baidu Core, just wondering what's the margin profile of that segment alone. Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Yeah. On the headcount growth, if you look at our growth rates of cloud, it's very high and this kind of industry solutions require a lot of headcount addition. If you compare this -- compare our cloud team with other industry peers, I think that the headcount for Baidu -- it's not that high. It's actually quite reasonable. And we do need a lot more people to help us to deliver our services.
+
+Herman Yu -- Chief Financial Officer
+
+Yeah. And then on the margin for Baidu Core, if we look on a non-GAAP basis, if you look at Q3, my estimates right now would be we're probably going to increase cost of sales, plus opex, maybe a RMB1 billion to RMB1.5 billion on a sequential basis. So that's how I look at this. And you guys have the last few quarters -- I would look at the non-GAAP provided for it and then I think you guys [Indecipherable].
+
+Operator
+
+Thank you. Our next question comes from Tian Hou from TH Capital. Please go ahead.
+
+Tian Hou -- TH Capital -- Analyst
+
+Hi, Robin, Herman. The question is related to your AI cloud. So for normal cloud and the AI cloud, so I wonder if we measure these two type of clouds, so from a financial point of view, can I say AI cloud is much more higher margin? So can I treat that as a difference? That's number one. What kind of clients need the AI cloud? What kind of clients need the right growth cloud? So that's the first question. The second one is, Managed Page has already increased to a bigger portion of the online marketing. So what's the outlook for this Managed Page going forward? Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Yeah. Just the margin for AI cloud is higher -- significantly higher than on the more general cloud especially, I think, obviously, we all know that ACE and CPM [Phonetic] internally has a lower margin. But I would say clients need AI cloud and general cloud, they need all kinds of technology and solutions. It's -- our strength is that we are very advanced in AI and we find that by integrating our AI technology solution to really solve our customers' problems, we are able to do a much better job. We do provide -- we do provide channel cloud services. But I think the market is very large. It's large enough and growing very quickly and we are gaining market share in this very attractive space.
+
+Herman Yu -- Chief Financial Officer
+
+And let me just add, you asked about who needs AI. If you look at our customer set, we see several specific. One is, for example, Internet media. Right? We have a media -- for example, some of the media companies that is very data heavy. But when you look at, for example, our industrial sectors, different areas of manufacturing, when you look at utilities, energy and so forth, they all have a lot of data sets. You look at, for example, smart transportation, the government has a lot of data sets. So our AI solution, basically said, if you are a customer, you have a lot of data sets, you need to improve operational efficiency and so forth. Our machine learning models will go in there, our Baidu Brain. We can help you do a lot of things that you have to do manually before, we can automate that, we can do it much faster with AI computing.
+
+So companies or industries that have a lot of data sets, we can automate. For example, you look at financial services, rather than computing and proving every loans, if you have, for example, a few million customers, we can automate the whole computation where you just ask Baidu Brain rather than having somewhat manually compute all the different ratios and all the numbers on their particular customer. So you can see that usage very helpful, especially in China's economy.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Yeah, Tian, I will take the second one. You're right. So the Managed Page is now comfortable at 40% in both Baidu Core and advertising. So actually Managed Page, it is not at all separate. We treated part of it as a marketing [Indecipherable] we have been discussed a few times, right, including the Managed Page and also the tools we provide to the merchants and to make it easy for them to run their campaigns on Baidu. So, as we always -- as we always said, the Managed Page together with Baidu App and [Indecipherable], they altogether -- all the building blocks for the mobile ecosystem actually was nice because we can provide more closed loop experience and which increase the stickiness or the engagements between the user and the Baidu App.
+
+So as a result, we can see the converted reach with those building blocks are much higher than before. That's why we can see since the COVID-19 outbreak in Q1 last year, so we -- our online marketing business has actually rebounded consistently in the last five quarters, especially for the in-app market because of the three building blocks and it grows as much as 26% year-over-year. So that side we will keep working on the Managed Page because it will improve the user experience and also the monetization capability.

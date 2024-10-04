@@ -1,0 +1,630 @@
+Client Id: 77
+THOMSON REUTERS STREETEVENTS
+EDITED TRANSCRIPT
+DXC.N - Q2 2018 DXC Technology Co Earnings Call
+EVENT DATE/TIME: NOVEMBER 07, 2017 / 10:00PM GMT
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2017 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited without
+the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its affiliated
+companies.
+Client Id: 77
+CORPORATE PARTICIPANTS
+John Michael Lawrie DXC Technology Company - Chairman, President & CEO
+Jonathan Ford
+Paul N. Saleh DXC Technology Company - Executive VP & CFO
+CONFERENCE CALL PARTICIPANTS
+Ashwin Vassant Shirvaikar Citigroup Inc, Research Division - Director and U.S. Computer and Business Services Analyst
+Bryan C. Bergin Cowen and Company, LLC, Research Division - VP
+Bryan Keane Deutsche Bank AG, Research Division - Research Analyst
+Darrin David Peller Barclays PLC, Research Division - MD
+James Edward Schneider Goldman Sachs Group Inc., Research Division - VP
+Ramsey Clark El-Assal Jefferies LLC, Research Division - Equity Analyst
+Rayna Kumar Evercore ISI, Research Division - Research Analyst
+Tien-tsin Huang JP Morgan Chase & Co, Research Division - Senior Analyst
+PRESENTATION
+Operator
+Good day, ladies and gentlemen, and welcome to the DXC Second Quarter Earnings Call. Today's program is being recorded. At this time, I would
+like to hand the conference over to Mr. Jonathan Ford, Head of Investor Relations. Please go ahead, sir.
+Jonathan Ford
+Thank you, and good afternoon, everyone. I'm pleased you're joining us for DXC Technology's Second Quarter Fiscal 2018 Earnings Call. Our speakers
+on today's call will be Mike Lawrie, our Chairman, President and Chief Executive Officer; and Paul Saleh, our Chief Financial Officer. We've posted
+slides to our website at dxc.com/investorrelations, which will accompany our discussion today.
+Slide 2 explains that the discussion will include comparisons of our results for the second quarter of fiscal 2018 to our pro forma combined company
+results for the second quarter of fiscal 2017. The pro forma results are based on historical quarterly statements of operations of each of CSC and
+the legacy Enterprise Services business of HPE or HPES, giving effect to the merger as if it had been consummated on April 2, 2016. As a consequence
+of CSC and HPES having different fiscal year-end dates, the pro forma combined company results include the results of operations of CSC for the
+3 and 6 months ending September 30, 2016, and of HPES for the 3 and 6 months ending July 31, 2016.
+Slide 3 informs our participants that DXC Technology's presentation includes certain non-GAAP financial measures and certain further adjustments
+to these measures, which we believe provide useful information to our investors. In accordance with SEC rules, we have provided a reconciliation
+of these measures to their respective and most directly comparable GAAP measures. These reconciliations can be found in the tables included in
+today's earnings release as well as in our supplemental slides. Both documents are available on the Investor Relations section of our website.
+On Slide 4, you'll see that certain comments we make on the call will be forward-looking. These statements are subject to known and unknown
+risks and uncertainties, which could cause actual results to differ materially from those expressed on the call. A discussion of risks and uncertainties
+is included in our quarterly reports on Form 10-Q and other SEC filings.
+2
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2017 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited without
+the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its affiliated
+companies.
+NOVEMBER 07, 2017 / 10:00PM, DXC.N - Q2 2018 DXC Technology Co Earnings Call
+Client Id: 77
+I would like to remind our listeners that DXC Technology assumes no obligation to update the information presented on the call, except as required
+by law.
+And now I'd like to introduce DXC Technology's Chairman, President and CEO, Mike Lawrie. Mike?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Okay. Thank you. Welcome, everyone. Thanks for your interest in DXC. As always, I've got 4 or 5 key messages. I will develop those in a little detail,
+and then Paul will come on. And then as always, we'll have an opportunity for some questions.
+So first key message here is second quarter non-GAAP EPS was $1.93. This includes a cumulative benefit of $0.26 from reclassification of leases,
+which I'll cover in a moment.
+EBIT, adjusted for restructuring, integration, amortization of intangibles was $876 million, including a cumulative benefit of $121 million from the
+lease reclassification. Adjusted EBIT margin was 14.2%, or 12.3% excluding the lease reclassification. We generated $589 million of adjusted free
+cash flow in the quarter.
+Second point. Revenue in the second quarter was $6.163 billion on a GAAP basis. Excluding the impact of purchase price accounting, GAAP revenue
+was down 2.7% year-over-year and grew 2.5% sequentially. In constant currency, revenue was down 3.5% year-over-year and was flat sequentially.
+Book-to-bill was 1.0x for the quarter.
+Third point. Excluding the impact of purchase price accounting, our digital GAAP revenue grew 23% year-over-year and 15% sequentially. Industry
+IP and BPS GAAP revenue was relatively flat year-over-year, driven by the completion of several large health care contracts last year. The 7.5%
+growth in the insurance business partially offset the decline in health care. And sequentially, industry IP BPS GAAP revenue grew 4%. And in the
+second quarter, our digital book-to-bill was 1.2x, and our industry IP BPS book-to-bill was also 1.2x.
+Fourth point. During the second quarter, we continued to achieve key merger integration milestones. We're executing our synergy plan and are
+on track to meet our targets of $1 billion of year 1 cost savings as well as $1.5 billion of run rate cost savings exiting the year. We're also on track in
+the early stages of separating our U.S. Public Sector business and combining that company with Vencore Holding Corporation and KeyPoint
+Government Solutions. As discussed in our announcement on October 11, this will create a separate, mission-focused, independent, publicly traded
+technology company to serve U.S. government clients.
+And then finally, for fiscal 2018, we continue to target revenue of $24 billion to $24.5 billion in constant currency. We're increasing our fiscal 2018
+target for non-GAAP EPS to a range of $7.25 to $7.75, reflecting the benefit from the reclassification of leases.
+On that basis, our adjusted free cash flow target will now be 90% of adjusted net income, since net income will include the benefit of the lease
+conversion and corresponding asset adjustments.
+So let me just develop each one of those points in a little more detail. As I said, second quarter non-GAAP EPS was $1.93. This included a benefit
+of $0.26 from the reclassification of leases, which I'll talk about in a moment. The effective tax rate was 31%.
+Second quarter EBIT, adjusted for restructuring, integration, and amortization of intangibles was $876 million. Adjusted EBIT margin on that basis
+was 14.2%. Adjusted EBIT in the quarter included a cumulative benefit of $121 million or $0.26 of EPS from the reclassification of HPES operating
+leases to capitalized leases and a corresponding adjustment of those assets to fair market value.
+In subsequent quarters, we expect a continued benefit of roughly $60 million per quarter or $0.13 of EPS.
+Excluding this benefit, adjusted EBIT would have been 12.3%, an increase of 630 basis points year-over-year and 80 basis points sequentially. The
+EBIT improvement reflects ongoing cost actions that we are taking consistent with the synergy plans outlined at our Investor Day, including
+3
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2017 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited without
+the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its affiliated
+companies.
+NOVEMBER 07, 2017 / 10:00PM, DXC.N - Q2 2018 DXC Technology Co Earnings Call
+Client Id: 77
+automation and supply chain efficiencies. Our delivery teams continue to increase productivity and effectiveness through our global automation
+program, Bionics. By replacing manual tasks with automatic -- automated scripts, we minimize the labor required to support run environments,
+and we're also leveraging predictive analytics to reduce incidents by up to 70%. This significantly improves the stability of IT operations of our
+clients.
+In supply chain, we're consolidating suppliers to create global, highly leveraged relationships to reduce costs and more effectively serve our clients.
+We're working closely with third-party providers to ensure that the benefits of scale are translating into realized savings at an account level. We're
+also leveraging our internal delivery productivity initiatives such as service desk automation to help reduce external spend. And collectively, second
+quarter cost actions generated approximately $110 million of in-quarter savings, which keeps us on track for $1 billion of fiscal 2018 synergy
+realization.
+Adjusted free cash flow for the quarter was $589 million or 106% of adjusted net income. And for the year-to-date, adjusted free cash flow was
+$1.2 billion or 116% of adjusted net income.
+Now, revenue in the second quarter was $6.163 billion on a GAAP basis. And in my comments to follow, all year-over-year and sequential comparisons
+exclude the impact of purchase price accounting on revenue. On a GAAP basis, revenue was down 2.7% year-over-year and grew 2.5% sequentially.
+In constant currency, revenue was down 3.5% year-over-year and flat sequentially. And total bookings in the second quarter were $5.95 billion for
+a book-to-bill of 1.0x.
+In the second quarter, GBS revenue was $2.3 billion. On a GAAP basis, GBS revenue was down 3.2% year-over-year and grew 1.2%, sequentially. In
+constant currency, revenue was down 4.3% year-over-year and 1% sequentially.
+As was the case last quarter, a large portion of this year-over-year decline was driven by the completion of 2 large government contracts in the
+U.K. GBS bookings were up 2% sequentially with a book-to-bill of 1.1x for the quarter.
+And in the quarter, GBS segment margin was 16.4% compared with 11.1% in the prior year. There was very little impact in GBS from the lease
+adjustments, so the margin improvement reflects the impact of our cost takeout actions.
+In the second quarter, GIS revenue was $3.1 billion. On a GAAP basis, GIS revenue was down 4% year-over-year and was up 3.1% sequentially. In
+constant currency, revenue was down 4.8% year-over-year and flat sequentially. GIS revenue reflects the continued moderation of headwinds in
+the legacy infrastructure business. GIS bookings of $2.8 billion were up 38% year-over-year and represent a book-to-bill of 0.9x.
+In the quarter, GIS segment margin was 14.9% compared with 4.7% in the prior year. Now, excluding the impact of the lease reclassification and
+corresponding fair value adjustment of the assets associated with those leases, GIS margin was 12.2%, up 750 basis points year-over-year and 240
+basis points sequentially, again reflecting cost actions and the automation of processes.
+In the second quarter, USPS revenue was $710 million. USPS revenue was up 5.5% year-over-year and was up 4.2% sequentially. USPS bookings of
+$644 million were up 133% year-over-year and represented a book-to-bill of 0.9x. The USPS segment margin in the quarter was 15.4% compared
+with 10.1% in the prior year. Again, excluding the impact of the lease reclassification and corresponding fair value adjustment of the assets associated
+with those leases, margin in the second quarter was 10.8%. And I'll talk more in a moment about the separation of USPS business and the combination
+with Vencore KeyPoint.
+DXC also in the quarter continued to expand its client base by adding 27 new logo deals greater than $1 million in total contract value.
+Now let me move to our digital industry IP and BPS results. On a GAAP basis, digital revenue was up 23% year-over-year and up 15%, sequentially.
+Digital book-to-bill was 1.2x in the quarter. And as we've discussed, digital cuts across all 3 of DXC's reporting segments of GBS, GIS and USPS and
+includes enterprise cloud apps, consulting, cloud infrastructure, analytics and security.
+4
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2017 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited without
+the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its affiliated
+companies.
+NOVEMBER 07, 2017 / 10:00PM, DXC.N - Q2 2018 DXC Technology Co Earnings Call
+Client Id: 77
+Now, enterprise cloud apps and consulting GAAP revenue was up 26% year-over-year and up 16% sequentially. Book-to-bill in the quarter was
+0.9x. The enterprise cloud apps team is continuing to drive this momentum by introducing 16 Quick Start offerings to help clients plan, pilot and
+test enterprise and cloud applications software, accelerating their digital business solutions with software from DXC as well as our strategic partners.
+Cloud GAAP revenue was up 33% year-over-year and was up 25% sequentially. Bookings were up 24% year-over-year with a book-to-bill of 1.4x.
+The drivers of the bookings growth in cloud include a deal with a major insurance company to provide a large-scale digital transformation enabled
+by DXC's cloud offerings.
+Analytics GAAP revenue was up 30% year-over-year and up 2% sequentially. Bookings were up year-over-year 24% with a book-to-bill of 1.1x.
+Security GAAP revenue was down 4% year-over-year and was up 5% sequentially. We continue to invest in this business through increased hiring
+of security consultants, and we're already beginning to see growth in managed security services. And this was reflected in our bookings for the
+quarter, which were up 78% year-over-year with a book-to-bill of 1.6x.
+Industry IP and BPS includes our IP offerings in health care, insurance, travel and transportation and banking as well as our industry business process
+services business. Industry IP and BPS GAAP revenue was relatively flat year-over-year and was up 4% sequentially, and the book-to-bill was 1.2x
+in the quarter.
+Industry IP GAAP revenue was down 3% year-over-year and was up 5.5% sequentially. The year-over-year decline reflects the completion of several
+large health care contracts during the second quarter of last year. This was partially offset by 7.5% growth in the insurance business. And the
+book-to-bill in the quarter was 1.4x, including a large win with Lloyd's Market Association and the International Underwriting Association of London.
+We developed a transformation road map that builds on DXC's deep industry vertical expertise while leveraging our end-to-end offerings across
+both traditional and digital capabilities.
+BPS GAAP revenue was up 1.9% year-over-year and was up 2.5% sequentially. And the book-to-bill in the quarter was 1 -- was 0.9x. The revenue
+growth is driven by the continued ramp-up of our large insurance contracts such as MetLife. We also had several key wins in the second quarter
+at large global banks. These deals leverage solutions such as our cognitive knowledge center, which significantly reduces call volumes handled by
+human operators by providing automated natural language answers to branch employees' inquiries.
+Now as I previously discussed, a new transformation-oriented sales motion is needed to capture the shift from traditional to digital that is occurring
+in the marketplace. We formed a new digital business team to shape a unified digital transformation approach, leveraging assets from across the
+company as well as our partners. The objective is to jointly develop digital road maps with our clients, targeting clear business outcomes and
+efficiency gains in traditional IT, while unlocking greater share of wallet and overall revenue growth for DXC.
+Now in the quarter, we continued to expand our partner offerings, including solutions to more effectively leverage the benefits of public cloud
+and greater breadth for our go-to-market alliance with PwC.
+We announced new application and managed services offerings for Microsoft Azure and the Azure stack. These offerings provide a wide range of
+services to accelerate and scale digital strategies across public and private clouds. They include application services, analytics offerings and hybrid
+cloud solutions based on the Azure stack.
+With VMware, we announced an expansion of our long-standing partnership with the unveiling of new DXC managed cloud services enabled by
+VMware's next-generation hybrid cloud services platforms. This expansion allows clients to move existing workloads to AWS and also connect
+native AWS workloads to the enterprise while maintaining service visibility and operational control.
+Our alliance with PwC also continues to show positive momentum with a significant win during the quarter with luxury brands, Bally, Jimmy Choo
+and Belstaff. In collaboration with PwC, DXC will optimize their e-commerce, finance and accounting services to reduce operating costs and deliver
+process innovation. We're also strengthening the pipeline with PwC by expanding areas where we provide services for each other that we can then
+take to market together. And we currently have 2 dozen large accounts where we're teaming to develop joint proposals for digital transformations.
+5
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2017 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited without
+the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its affiliated
+companies.
+NOVEMBER 07, 2017 / 10:00PM, DXC.N - Q2 2018 DXC Technology Co Earnings Call
+Client Id: 77
+We also continued to invest in the business and our people consistent with the plan we outlined at Investor Day.
+We recently announced the acquisition of Logicalis, a leading European provider of technology-enabled solutions for the service management
+sector. The combination of Logicalis with DXC's Fruition Partners business further solidifies DXC as one of the most experienced global integrators
+for ServiceNow, a key strategic partner.
+We also continue to focus on the most important asset for our services organization, our people. DXC University now provides over 120,000 learning
+assets, including training courses, videos and e-books. And more than 85,000 employees have completed training programs so far this year. We're
+expanding our sales training and certification program beyond our go-to-market teams. And almost 16,000 employees have completed the training
+and passed the certification exam. We also established certification training programs with strategic partners, including AWS and Microsoft Azure.
+We're gaining traction on the Dynamic Talent Cloud, our crowdsourcing platform that enables us to bring new people and skills to DXC in a more
+flexible way. This platform links us to individual practitioners in the industry, and we leverage algorithms to match specific skills to projects, assign
+work, evaluate performance and then determine appropriate rewards. This allows us to better serve our clients while increasing the flexibility of
+our workforce and talent base. We're rolling out the pilot globally, and we have about 5,000 subscribers now engaged.
+Now the fourth point. We achieved several key merger integration milestones during the second quarter and continue to execute on the build,
+sell, deliver operating model we previously discussed. We're on track to meet our targets of $1 billion of year 1 cost savings and $1.5 billion of run
+rate cost savings exiting fiscal 2018.
+As we announced on October 11, we're combining our USPS business with Vencore and KeyPoint to create a separate, mission-focused, independent,
+publicly traded technology company to serve U.S. government clients. The new company will be highly differentiated, mission-enabled solution
+provider with meaningful scale and end-to-end technology solutions. We will be 1 of the top 5 independent IT service providers to the U.S. federal,
+state and defense sectors. The company will have approximately $4.3 billion in combined revenues and a highly skilled workforce of more than
+14,000 people.
+DXC will continue to serve global commercial and non-U. S. government clients across 70 countries. Our mission will remain the same, leading
+clients on their digital transformation journey with diversified next-generation IT offerings, industry-leading partnerships and innovation and
+delivery excellence.
+And for our clients, employees, shareholders and our partners, it will be business as usual. We have launched planning and integration efforts
+targeting a deal close by the end of March of 2018. And prior to that, we will schedule an Investor Day for the new company.
+And then finally, before I turn this over to Paul, for fiscal 2018, we continue to expect revenue to be $24 billion to $24.5 billion in constant currency.
+And as I said earlier, we're increasing our target for non-GAAP EPS to a range of $7.25 to $7.75, reflecting the benefit from the reclassification of
+leases. And on that basis, our adjusted free cash flow target will now be around 90% of adjusted net income, since net income will include the
+benefit of the lease conversion and corresponding asset adjustments.
+So with that, I'll turn it over to Paul for a little more detail, and then we will open it up to any questions that you may have.
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+Well, thank you, Mike, and greetings, everyone. Now before I review our second quarter results, I'd like to take a moment to clarify the basis of our
+financial presentation.
+First, the pro forma results for second quarter of last year conform to the same methodology we used in the first quarter. And as such, all references
+to the unaudited pro forma statement of operations for the prior year include the results of operations of CSC for the 3 and 6 months ended
+September 30, 2016, and of HPES for the 3 and 6 months ended July 31, 2016. Also, prior year pro forma non-GAAP results assume a flat quarterly
+tax rate of 27.5%. In addition, fiscal '18 second quarter results reflect revenue adjustments for purchase price accounting, whereas the prior year
+6
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2017 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited without
+the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its affiliated
+companies.
+NOVEMBER 07, 2017 / 10:00PM, DXC.N - Q2 2018 DXC Technology Co Earnings Call
+Client Id: 77
+pro forma does not. And lastly, non-GAAP results exclude restructuring, integration and amortization of intangibles consistent with CSC's non-GAAP
+methods from prior years.
+And with that, I'll now cover some items that are included in our non-GAAP -- in our GAAP results in the quarter.
+In the current quarter, we have restructuring costs of $192 million pretax or $0.50 per diluted share. These costs represent severance costs related
+to workforce optimization programs and expense associated with facilities and data center rationalization.
+Also in the quarter, we have $66 million pretax or $0.15 per diluted share of integration and transaction costs. Year-to-date, restructuring, integration
+and transaction costs amounted to $572 million pretax or $1.45 per diluted share, which is in line with the $1.3 billion spend envelope we laid out
+for fiscal '18.
+In the second quarter, amortization of acquired intangibles was $169 million pretax or $0.39 per diluted share.
+Excluding the impact of these special items, adjusted EBIT was $876 million, or on a non-GAAP EPS, $1.93.
+Turning now to our second quarter results. Revenue in the quarter was $6,163,000,000 on a GAAP basis. Purchase price accounting reduced revenue
+in the quarter by $22 million, representing a write-down of deferred revenue. For the full fiscal year, the deferred revenue write-down for PPA is
+now expected to be $230 million, which is better than our prior estimate of $335 million.
+Excluding PPA, GAAP revenue was down 2.7% year-over-year and up 2.5% sequentially. In constant currency, revenue was down 3.5% and roughly
+flat sequentially.
+EBIT in the quarter was $876 million after adjusting for restructuring, integration and amortization of intangibles. Adjusted EBIT margin on that
+basis was 14.2%. Adjusted EBIT in the quarter included a cumulative benefit of $121 million or $0.26 of EPS from the reclassification of HPES operating
+leases to capitalized leases and a corresponding adjustment of those assets to fair value. In subsequent quarters, we expect a continued benefit
+of roughly $60 million per quarter or $0.13 EPS from this lease reclassification.
+Excluding the reclassification benefit in the quarter, adjusted EBIT would have been 12.3% compared with 6% in the prior year and 11.5% in the
+first quarter. This improvement in our margin reflects cost actions we're taking to optimize our workforce, extract greater supply chain efficiencies
+and rationalize our real estate footprint.
+In the quarter, we continued to rebalance our workforce. We reduced our labor base by about 4% in the quarter through a combination of automation,
+best shoring and pyramid correction. We also continued to rebalance our skill mix, including the addition of almost 4,800 new employees and the
+ongoing retraining of the existing workforce. Also at the end of the quarter, our nearshore and offshore labor mix was 54.5%.
+In supply chain, we're extracting greater procurement efficiencies. We completed renegotiations with key strategic suppliers (technical difficulty)
+ensuring that we capture the benefits of our global scale, and we continue to consolidate our overall supplier base. In addition, we're implementing
+tighter procurement review practices across all of our regions.
+In real estate, we've rationalized 49 sites and eliminated 900,000 square feet of space during this quarter. This represented 5% total square footage
+reductions in our facilities footprint. And on a year-to-date basis, we've reduced our facilities costs by roughly 9%. So in total, we delivered $110
+million of incremental cost takeouts in the quarter and are on track to meet our $1 billion in-year and $1.5 billion exit run rate of synergies for fiscal
+'18.
+Non-GAAP diluted EPS from continuing operations in the second quarter was $1.93, including the cumulative benefit of $0.26 from the lease
+reclassification and corresponding asset revaluation.
+7
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2017 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited without
+the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its affiliated
+companies.
+NOVEMBER 07, 2017 / 10:00PM, DXC.N - Q2 2018 DXC Technology Co Earnings Call
+Client Id: 77
+In the quarter, our non-GAAP tax rate was 31%, reflecting our global mix of income and certain tax attributes in key foreign jurisdictions. Year-to-date,
+our non-GAAP tax rate was 27%, which is in line with the non-GAAP tax targets for the full year of 25% to 30%. Bookings in the quarter were $5.95
+billion for an overall book-to-bill ratio of 1x.
+Now let's turn to our segment results. Global Business Services revenue was $2.3 billion in the quarter. Excluding the impact of purchase price
+accounting of $6 million, GBS GAAP revenue was down 3.2% year-over-year and was up 1.2% sequentially. In constant currency, revenue was down
+4.3% year-over-year and down 1% sequentially.
+In the second quarter, GBS segment profit was $380 million, and profit margin was 16.4%. This compares with 11.1% in the prior year. The impact
+of lease reclassification in GBS was minimal, so the margin improvement reflects the impact of cost takeout actions in the business, particularly as
+we optimize our workforce in complex countries.
+GBS bookings were $2.5 billion in the quarter for a book-to-bill of 1.1. Year-to-date, GBS revenue was $4.6 billion, segment profit was $662 million,
+margin was 14.5%, and bookings were $4.9 billion for a book-to-bill of 1.1.
+Turning now to GIS, our Global Infrastructure Services. Revenue was $3.1 billion in the quarter. Excluding the impact of purchase price accounting
+of $15 million in the quarter, GIS GAAP revenue was down 4% year-over-year and up 3.1% sequentially. In constant currency, it was down 4.8%
+year-over-year and was flat sequentially.
+In the second quarter, GIS segment profit was $469 million, and profit margin was 14.9% compared with 4.7% in the prior year. Excluding $86
+million cumulative impact from the lease reclassification and corresponding fair value adjustments of the assets associated with those leases,
+margin in the second quarter was 12.2%. The year-over-year improvement in profitability reflects the impact of cost actions we're taking to drive
+greater operating efficiencies, including best shoring, labor pyramid rebalancing, workforce optimization from our Bionics automation program
+and supply chain efficiencies.
+Booking for GIS were $2.8 billion in the quarter for a book-to-bill of 0.9x. Year-to-date, GIS revenue was $6.1 billion, segment profit was $759 million,
+margin was 12.4%, and bookings were $6.5 billion for a book-to-bill of 1.1.
+USPS segment profit -- sorry, excuse me, turning now to our USPS sector. Revenue was $710 million in the quarter. USPS revenue was up 5.5%
+year-over-year and up 4.2% sequentially. Our USPS segment profit was [$109] million (corrected by company after the call) in the quarter, and profit
+margin was 15.4% compared with 10.1% in the prior year. Excluding $32 million cumulative impact of the lease reclassification and corresponding
+fair value adjustments of the assets associated with those leases, margin in the second quarter was 10.8%.
+Bookings for USPS were $644 million in the quarter for a book-to-bill of 0.9x. Now year-to-date, USPS revenue was $1.4 billion, segment profit was
+$186 million, margin was 13.4%, and bookings were $828 million for a book-to-bill of 0.6x.
+Now let me turn to other financial highlights for the quarter. Adjusted free cash flow in the quarter was $589 million or 106% of adjusted net income.
+This reflects ongoing improvement in working capital management with an increased focus on collections and improved vendor terms. Adjusted
+free cash flow excludes proceed from receivable securitization programs. And year-to-date, adjusted free cash flow was $1.2 billion or 116% of
+adjusted net income.
+Our CapEx was $549 million in the quarter or 8.9% of revenue, reflecting the cumulative impact of the reclassification of operating leases to
+capitalized leases. Year-to-date, CapEx was $804 million or 6.7% of revenue.
+Cash at the end of the quarter was $2.7 billion. Our total debt was 8 point five billion, including capitalized leases. Net debt to total capitalization
+ratio was 27%.
+During the quarter, we returned $97 million of capital to our shareholders. This included $51 million in dividends and $47 million in share repurchases.
+And year-to-date, we've returned $138 million of capital to our shareholders in the form of $72 million in dividend and $66 million in share repurchase.
+8
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2017 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited without
+the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its affiliated
+companies.
+NOVEMBER 07, 2017 / 10:00PM, DXC.N - Q2 2018 DXC Technology Co Earnings Call
+Client Id: 77
+Now in closing, let me review our fiscal '18 targets. We continue to target revenue for the fiscal year to be $24 billion to $24.5 billion in constant
+currency. We're increasing our full year target for non-GAAP EPS from continuing operations to a range of $7.25 to $7.75 and which includes the
+benefits of lease reclassification and corresponding fair value adjustments of the assets associated with the leases.
+Our EPS target assumes a tax rate of 25% to 30% for the full year as we continue to work on tax planning strategies to optimize our effective tax
+rate. Our adjusted free cash flow for the fiscal 2018 will now be 90% of adjusted net income, since net income will now include the benefit of the
+lease conversion and corresponding asset adjustments.
+And with that, I'll hand the call back to the operator for the Q&A session.
+QUESTIONS AND ANSWERS
+Operator
+(Operator Instructions) We'll take our first question from Jim Schneider, Goldman Sachs.
+James Edward Schneider - Goldman Sachs Group Inc., Research Division - VP
+I wanted to maybe start with a revenue question. Came in a little bit better than our expectation. But can you maybe, Mike, help us with an update
+on your conversations with clients? Any update on the dialogue regarding customer dissynergies, specifically some of the larger customers like
+the U.K. government, the U.S. Navy, et cetera. And maybe just give us a sense of how your progress is going with upselling existing clients to increase
+their contract size in exchange for cost synergies, et cetera.
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Yes, listen, in terms of the U.K., we continue to see a runoff there. I'm not sure I'd call it dissynergy. It's more a reflection of some of the contracts
+concluding. But we still see pressure in the U.K. around some of the dissynergies. On a global basis, I'd say the revenue dissynergies are pretty much
+tracking as we thought. I'd say probably a little bit less than what we had originally planned at the Investor Day. In terms of conversations with
+clients, I mean, I got to tell you, every -- we just had our global customer advisory board in London several weeks ago. We've got our Americas
+advisory board going on this week in New York. I mean, the clarity of the messaging back to us is incredible. Every one of these clients is trying to
+figure out how they can improve their current IT operations. This is through automation. It's through simplification, it's a whole host of different
+things. And then we continue to encourage them to take those savings and invest in other digital platforms, whether that be the modernization
+of applications or new cloud native applications, the deployment of those or cybersecurity platforms or analytics, are moving to a hybrid cloud
+environment. So we have done several deals very similar to the one that we announced before. So the messaging back from the clients and our
+messaging to the clients has not changed one bit. They like our scale. They like the breadth of our portfolio. The partnerships that we have are
+clearly differentiated. In many cases, we are showing up as one in front of those clients, which they greatly appreciate and simplifies their
+decision-making. So I'd say the continued challenge we have, Jim, is to continue to attract and retain and retrain the talent necessary to capitalize
+on those opportunities. And that's one of the reasons we put this digital transformation unit in place as we begin to pilot a different approach to
+some of these clients by helping build the methodologies and the tools and the process and procedures to help with the complete end-to-end
+digital transformation.
+James Edward Schneider - Goldman Sachs Group Inc., Research Division - VP
+That's very helpful color. And then maybe one for Paul. With respect to the $1 billion of in-year cost synergies, if I just mathematically look at the
+$140 million you achieved in the first quarter and I believe you said $110 million in the second quarter and run those through for the impact of the
+full year, even understanding we're kind of getting into the second half of the year now, any reason to believe you wouldn't be tracking ahead of
+those, or any reason to believe those cost synergies would slow materially heading into Q3 and 4?
+9
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2017 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited without
+the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its affiliated
+companies.
+NOVEMBER 07, 2017 / 10:00PM, DXC.N - Q2 2018 DXC Technology Co Earnings Call
+Client Id: 77
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+We just really are on track to meet maybe slightly above that $1 billion. Again, the second half of the year will have less of an impact on the overall
+synergy realization. I think the things that we do in the first half of the year are so critical for us. And -- but I think right now, we're tracking to the
+$1 billion to slightly above.
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+And Jim, we still have a lot of work to do. So this is not a lay down hand. We still have a lot of work to do as we continue to integrate the companies.
+So this is business as usual as we march forward here in the second half of the year.
+Operator
+Our next question will come from Darrin Peller, Barclays.
+Darrin David Peller - Barclays PLC, Research Division - MD
+First question is just on overall growth. I mean, I guess, USPS accelerated quite a bit. Maybe I missed it on the call, but I didn't hear any good
+explanation as to what drove the year-over-year acceleration there. And then really on top of that, I mean, when we look at the GBS and GIS
+segments sequentially, revenue looks fairly stable at this point. Is there anything again that would -- any seasonality or anything else? Or should
+we now start to expect that the majority of the revenue that you've been trying to attract (technical difficulty) given areas you don't think made
+sense from this go over pricing. Is that coming closer to finalization now so that we can have more sequential stable, maybe start to show some of
+the new add-ons benefit year-over-year over the next few quarters?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+I would not draw that conclusion. I think there's still -- there are many things in the second half of the year. We've got price downs, which is consistent
+with our seasonal plan. That needs to be factored in. So I would not get off the original sort of track that we have provided for you. What we are
+seeing is we are seeing a moderation in some of the headwinds in the ITO business. And more importantly, we're seeing good growth in our digital
+offering as we reported this quarter, and we're seeing pretty good growth in our industry IP and BPS, particularly when you adjust for the runoff
+of some of these big health care contracts. I wouldn't jump to any conclusions here that there's a significant change over what we've already talked
+about. In the case of USPS, USPS has a pretty significant backlog. And as they hire more people and bring those people on, then they're able to
+build that revenue out, and that's a partial explanation to why you saw a slight acceleration in the revenue. And then candidly, we have had some
+acquisitions. So we added Tribridge, which is the big Microsoft Dynamics business that we bought out of Tampa. And those businesses are also
+performing well, which is again providing some offset to the revenue dissynergies and the decline in the ITO business.
+Darrin David Peller - Barclays PLC, Research Division - MD
+Okay. So it sounds like the GBS, GIS core commercial side of your business could still see some of the year-over-year declines at similar rates, maybe
+not worse, not much better in the near term but obviously trending the right way. And USPS, it sounds like that could be sustainable. I mean, there
+was an improvement overall, just based on the math.
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+Yes. Except I would say to you that last year, if you remember, on the USPS side, everything had shifted by a little bit from the time line. Remember,
+this is my first comment about their -- our second quarter basically is their first quarter, so to speak. So I think the comparison with the third quarter
+10
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2017 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited without
+the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its affiliated
+companies.
+NOVEMBER 07, 2017 / 10:00PM, DXC.N - Q2 2018 DXC Technology Co Earnings Call
+Client Id: 77
+will be a little bit more difficult. I would look at it much more sequentially. Sequentially, they grew, and they're in good position to continue to do
+well for the remainder of the year.
+Darrin David Peller - Barclays PLC, Research Division - MD
+All right. And then just -- that's helpful. Just a quick follow-up, and then I'll turn it back. But Paul, when we look at this new guide for EPS at $7.50,
+midpoint $7.50, should we still expect the 20% -- you guys have given 20% CAGR for 2020. Obviously, I know USPS is coming out of that. But is the
+CAGR still on track just after the capital lease adjustments were made?
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+I think you have to exclude the capital lease adjustment because what the capital lease adjustment, particularly when you start to adjust the asset
+to fair market value, gives you that benefit that, that is going to be playing out over the next 2 to 3 years, 2.5 years in a sense from a remaining life.
+And so what I would suggest is when -- we've got to wait a little bit till the end of this fiscal year. We'll be updating basically with the USPS business
+spinning off and merging with those 2 other businesses. And we'll give you a better feel for what remain cost targets will look like.
+Operator
+Up next, we'll hear from Bryan Keane, Deutsche Bank.
+Bryan Keane - Deutsche Bank AG, Research Division - Research Analyst
+Paul, just want to follow up on that. Of the increase in the guidance, the $0.75, it doesn't look like that's all lease reclassifications. Or is that all lease
+reclassifications? I just want to be clear there.
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+I think there is in total about $0.53 in the sense of the reclassification on a full year basis. $0.26 of it came into the second quarter because there
+was a catch-up to the first half of the year and $0.13 per quarter. So if you add that, it's about $0.53 for the full year. And then we've done a little
+bit better than -- given the synergies, a little bit better than we had expected in the first half of the year.
+Bryan Keane - Deutsche Bank AG, Research Division - Research Analyst
+And then did you say the lease reclassifications continue for another couple of years? So how do we model that going forward? I guess, it's going
+to change, the model's going to change for that divestiture. But I guess, just for today's purposes, would that continue going forward?
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+I think it has at least in term, I would say, on average, of about 2.5 years.
+Bryan Keane - Deutsche Bank AG, Research Division - Research Analyst
+Okay. That's helpful. And then I just want to ask on the overall ITO mix and digital mix of percentage of revenue, I guess, once we divest the USPS
+business, what would be the total mix of business of ITO, of DXC and of digital once we get rid of USPS?
+11
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2017 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited without
+the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its affiliated
+companies.
+NOVEMBER 07, 2017 / 10:00PM, DXC.N - Q2 2018 DXC Technology Co Earnings Call
+Client Id: 77
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+To be honest, I don't know. I mean, we have to remodel that. As I said, the digital business cuts across all 3 reporting segments: GIS, GBS as well as
+USPS. But we have not sort of dissected that and segmented that yet. What I would tell you in terms of the total mix, fundamentally, the digital
+business is growing about what we thought it was going to grow and what we modeled in the Investor Day. And the IP business is not growing
+quite as fast. And that's largely due to the runoff in the health care business. The insurance business is basically growing the way we thought it
+would grow, and the BPS business continues to gain momentum as some of these large insurance contracts continued to come onstream. So by
+and large, the -- and the ITO business is declining a little bit less than what we anticipated, but the mix hasn't fundamentally changed since the
+Investor Day.
+Bryan Keane - Deutsche Bank AG, Research Division - Research Analyst
+Okay. And then that ITO business mix, does that change -- because I'm trying to figure out if that's in the USPS numbers or not. Is it a larger percentage
+or not as big in USPS?
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+They do have some BPS business, particularly in the states, and then they do have their ITO. I think if you just really bear with us, we'll provide you
+some of that breakdown a little bit more. Particularly after we file our Form 10, we'll be in a better position to share that information with you.
+Operator
+Up next, we'll hear from Tien-tsin Huang, JPMorgan.
+Tien-tsin Huang - JP Morgan Chase & Co, Research Division - Senior Analyst
+Just wondering how bookings -- I know you gave out the book-to-bill measures, nothing too surprising, but how did bookings come in versus
+planned? And with that rolling in and traditional runoff, does it change your thinking around the next couple of quarters in terms of revenue
+production?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+So I think the -- as I said at the end of the first quarter, the bookings are tracking pretty much the way we'd expected. I think what I've been most
+pleased about has been the digital bookings. So we're seeing really good growth on the digital bookings, and that's an important measure of
+backlog and future revenue generations. The other thing I shared in the previous call, and we haven't been able to really quantify, we're still probably
+at least several quarters out, is we have moved sales force to an annual billed revenue measure. And we are seeing some benefit of that because
+it provides more focus on in-year revenue. That's on a rolling 12-month basis. So we've seen some increase in our performance against that annual
+billed revenue. The problem is, in all candor, we have no comparison with previous years. So until we get a year under our belt and understand a
+little bit more, it's a little hard to ascribe a great deal of veracity or meaning to those numbers. However, what is clear is that we are seeing more
+focus on that annual billed revenue, which I think is important. And it also takes some of the focus off of total TCV, which often drove capital
+intensity, which as you know, we're trying to reduce the capital intensity as we go forward. So there's a lot of knobs that we turned around sales
+compensation, how we're motivating the sales force. So far, I think that's going well, but we have a lot more to learn before I'm going to be
+comfortable giving you some sort of an equation that you can use in the models.
+12
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2017 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited without
+the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its affiliated
+companies.
+NOVEMBER 07, 2017 / 10:00PM, DXC.N - Q2 2018 DXC Technology Co Earnings Call
+Client Id: 77
+Tien-tsin Huang - JP Morgan Chase & Co, Research Division - Senior Analyst
+All right, that's good to hear. Just on the -- within the digital, since you mentioned it, cloud, obviously, up strong, digital. I guess, security revenue
+this quarter looked a little bit different than the bookings, which was strong. So is that an area where we might see DXC sort of double down more
+on the security side? Just trying to understand the priorities within the digital book.
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+I'd say to be candid, probably some disappointment in that security number. That security number is driven a lot by our consultants or advisers,
+and that is a highly competitive market in terms of skills. So the more people that you can hire, then the more billings you generate. And as I said,
+we hired quite a few people in the quarter, and that shows up in the improved book-to-bill. But the revenue, in some respects, demonstrates the
+fact that some of those people were not in place as we entered the merger, and we progressed through the first quarter. So there's always a time
+lag on some of these things, but you're right, the book-to-bill is usually an early or leading indicator.
+Operator
+Next up, from Citi, we'll hear from Ashwin Shirvaikar.
+Ashwin Vassant Shirvaikar - Citigroup Inc, Research Division - Director and U.S. Computer and Business Services Analyst
+So my first question is on digital growth. It's good to see that number. I guess the question is as some of these digital contracts ramp and you prove
+out your digital capabilities, are you seeing a difference in perception from your clients, which can kind of lead to a resurgence in sort of a good
+virtuous circle of demand from them? Or is it too early?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Yes, that's a good question. What we are seeing is when our clients understand the full breadth of our offerings, frankly, that does change their
+perceptions. We see this show up all the time when our clients are visiting our digital transformation centers in India, or the U.K. or we just announced
+new centers in Australia the last -- about 2 weeks ago. So yes, that is changing the perception. The other thing is many of these digital solutions
+start out small. So that's why you're seeing steady new logo growth around some of these new digital offerings. And our Quick Start program is
+geared to that as well. So many times, we're going in with our partners on offerings that start out much smaller in scope. But if you deliver, you
+then have a chance to really grow. And that is the difference. It's think of it more as a journey than as just 1 contract that's in place for 5 years. So
+over time, as we deliver against those digital platforms in a digital road map, one that does change the perception, yes, that does create a virtuous
+cycle, and it also creates a backlog that rather than see price pressures over a period of 5 or 10 years like a traditional ITO contract, you actually see
+the opportunity to grow that contract and then grow that engagement over time. And that is a remix that we're talking about of the business. So
+these digital offerings have a different composition. They have a different profile than some of the more traditional businesses.
+Ashwin Vassant Shirvaikar - Citigroup Inc, Research Division - Director and U.S. Computer and Business Services Analyst
+Got it. Good to hear. And then one for Paul. Paul, I get the segment level impact from the lease reclass. Is there also a tax rate impact that persists?
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+Tax, did you say?
+13
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2017 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited without
+the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its affiliated
+companies.
+NOVEMBER 07, 2017 / 10:00PM, DXC.N - Q2 2018 DXC Technology Co Earnings Call
+Client Id: 77
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Tax impact.
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+The tax impact.
+Ashwin Vassant Shirvaikar - Citigroup Inc, Research Division - Director and U.S. Computer and Business Services Analyst
+Yes. Yes, right.
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+No. I think the tax rate that we apply, I think it all depends where the leases are. For example, on the USPS side, the leases are U.S.-based. I don't
+think it makes a ton of difference to the tax rates.
+Ashwin Vassant Shirvaikar - Citigroup Inc, Research Division - Director and U.S. Computer and Business Services Analyst
+Got it. And since it's topical, and staying on tax rate. In your early analysis of the proposals that have kind of come out, any takeaways that we should
+take from that?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Not yet. I mean, we've done some really just basic modeling on this and don't really have anything I feel comfortable sharing yet, I mean, certainly
+it would be a benefit. And I really want to see what comes out of the markup this week with the House and what comes out of the Senate. So it's
+still early, early days in terms of understanding that impact.
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+But having said that though, the lower U.S. tax rate goes from 35% to 20%, that's will be a plus for us from a mix perspective given our income.
+And some of the other provisions again are so much in flux right now that the net-net, I think it would be a benefit to us.
+Operator
+Next up is Bryan Bergin, Cowen & Company.
+Bryan C. Bergin - Cowen and Company, LLC, Research Division - VP
+Can you talk about your nonfederal government business, the public services business that you have? Is that something that you can carve out?
+I'm trying to understand if there were synergies there relative to your commercial business as well?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Yes, there are some synergies. I mean, we have a very large U.K. public sector business. We've got a very substantial Australian public sector business.
+We've got a very strong business in France. We've got a very strong business in Germany. And there are a lot of synergies between those public
+14
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2017 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited without
+the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its affiliated
+companies.
+NOVEMBER 07, 2017 / 10:00PM, DXC.N - Q2 2018 DXC Technology Co Earnings Call
+Client Id: 77
+sector businesses and what we're doing on the commercial side. We share the same solutions. We share the same partnerships. We go-to-market.
+So yes, I don't -- it's not something that we are planning to carve out. The U.S. federal government is a very unique marketplace. It's just like the
+state Medicaid business that we have in the U.S. That's not being carved out. That's part of our commercial business, and it's part of our worldwide
+health vertical. But the U.S. federal government is a slightly different animal. But in all cases, whether it be in Australia or France or the U.K., it's all
+about trying to drive this digital transformation. We were in Australia a couple of weeks ago, and the Australian government is taking a very strong
+position on digitizing their business process and workflows moving forward. So that's exactly what the commercial clients are doing. So in that
+sense, there is quite a bit of synergy.
+Bryan C. Bergin - Cowen and Company, LLC, Research Division - VP
+Okay. That's helpful. I heard the growth rates across digital, the industry IP and BPS. Did you breakout share, where those are now as a share of
+revenue?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+No. What I said is the mix is about what we said it was when we did the Investor Day. Nothing has shifted dramatically from there.
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+If you remember, on Investor Day, we were saying that our digital business is running on about $4-some billion on a run-rate basis. It's a little bit
+higher than that, and then the industry IP...
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Slightly less.
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+A little bit less.
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Due to the runoff in the U.K. health care. So net-net, it's about the same.
+Operator
+Next, we'll hear from Rayna Kumar, Evercore.
+Rayna Kumar - Evercore ISI, Research Division - Research Analyst
+You had some very strong bookings across your newer work like cloud security and analytics. Is that type of bookings growth sustainable going
+forward? And could you comment on the pricing trends you saw with these new bookings?
+15
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2017 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited without
+the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its affiliated
+companies.
+NOVEMBER 07, 2017 / 10:00PM, DXC.N - Q2 2018 DXC Technology Co Earnings Call
+Client Id: 77
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Well, the pricing is, of course, much different in a lot of these digital businesses because many of these are much more consumption-based. And
+over time, as the volumes, as the transactions grow, then our revenue from those offerings increases. So the dynamic, the pricing dynamics around
+many of these new offerings are entirely different than our traditional ITO business or our application maintenance and management business,
+which is usually characterized by longer-term contracts that have significant productivity improvements baked into them. That's what I'm saying.
+It's really a different world, and we're developing and are piloting new pricing tools around these digital offerings that are more consumption-based.
+So the trends within that are -- they have not materially changed at all. We continue to see the pricing pressure due to productivity expectations
+in the more traditional business. And it's really way too early to understand the long-term consequences of more as-a-Service consumption-based
+pricing in the new offerings.
+Operator
+Our final question will come from Ramsey El-Assal with Jefferies.
+Ramsey Clark El-Assal - Jefferies LLC, Research Division - Equity Analyst
+I wanted to ask about synergy realization on the labor side. And first, on the optimization of your labor footprint, meaning moving right shoring
+more headcount. Can you talk about the challenges or points of friction in doing that, operational, logistical, political? How much runway is --
+where are we at in the process? I know you talked about a pretty material move in the context of the merger. So sort of an update on where we
+are and sort of also on how -- what are the challenges you face kind of accelerating that shift or at least tracking it?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Let me give you a couple of thoughts on that. One, I don't really see the political so much. I think what you have to understand is that the labor
+dynamics around these digital transformation projects are much different than the labor dynamics around the outsourcing business. So when you
+talk about digital offerings and digital transformation with our partners, you do talk about much more client intimacy. These are projects that are
+often done locally, sometimes with landed resources. But in any regard, they're really done very local. When we talk about right shoring, we don't
+necessarily talk about offshore. Probably the biggest hurdle we have when we do choose to move workload to a right sourcing location is just the
+transition. So you go -- you have to ramp up the skill someplace else before the skills in the current place can be redeployed or optimized. I'd also
+say that automation is clearly adding a different dimension. So rather than thinking about moving positions from point A to point B, in many cases,
+we can displace those and retrain those people around our digital profile. The other thing is as we rethink our labor strategies, we're thinking much
+more about college graduates. We're thinking about internships program. We're thinking about co-op programs. We're thinking about different
+training programs. Because the mix of our business as it changes over the next 3 or 4 years will have an entirely different labor dynamic than what
+we've seen in the traditional businesses. So it's a combination of rethinking how you bring people in. That's what our Dynamic Talent Cloud is all
+about. It's about retraining. It's about reskilling, and it's about a whole different approach to where we set up our locations. I've said before we are
+looking at creating some lower-cost facilities in the United States and moving some of our workload there. So it's that mix of location, the type of
+business, is it a digital business, requires more customer intimacy, is it driven by productivity improvements. And then that drives a whole reskilling,
+training and recruiting process. And that's what makes this so exciting and I think so dynamic as we move forward. Okay. Well, listen, guys, thank
+you again very much for your interest, and look forward to catching up after the first of the year. Thank you.
+Operator
+Ladies and gentlemen, that does conclude today's conference. We would like to thank you all for your participation. You may now disconnect.
+16
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2017 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited without
+the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its affiliated
+companies.
+NOVEMBER 07, 2017 / 10:00PM, DXC.N - Q2 2018 DXC Technology Co Earnings Call
+Client Id: 77
+DISCLAIMER
+Thomson Reuters reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon
+current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more
+specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the
+assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION,
+THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE
+COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2017, Thomson Reuters. All Rights Reserved. 11057140-2017-11-09T01:51:23.237
+17
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2017 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited without
+the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its affiliated
+companies.
+NOVEMBER 07, 2017 / 10:00PM, DXC.N - Q2 2018 DXC Technology Co Earnings Call

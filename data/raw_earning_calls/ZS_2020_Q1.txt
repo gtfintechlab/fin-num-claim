@@ -1,0 +1,632 @@
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+1
+THOMSON REUTERS
+EDITED TRANSCRIPT
+Q1 2020 Zscaler Inc Earnings Call
+EVENT DATE/TIME: DECEMBER 03, 2019 / 9:30PM GMT
+DECEMBER 03, 2019 / 9:30PM GMT, Q1 2020 Zscaler Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+2
+CORPORATE PARTICIPANTS
+Bill Choi Zscaler, Inc. - VP of Investor Relation
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Remo Canessa Zscaler, Inc. - CFO
+CONFERENCE CALL PARTICIPANTS
+Alexander Henderson Needham & Company, LLC, Research Division - Senior Analyst
+Andrew James Nowinski D.A. Davidson & Co., Research Division - MD & Senior Research Analyst
+Brian Lee Essex Goldman Sachs Group Inc., Research Division - Equity Analyst
+Daniel Bartus BofA Merrill Lynch, Research Division - Research Analyst
+Daniel Harlan Ives Wedbush Securities Inc., Research Division - MD of Equity Research
+Fatima Aslam Boolani UBS Investment Bank, Research Division - Associate Director and Equity Research Associate
+Technology-Software
+Matthew Ryan Wells Citigroup Inc, Research Division - Associate
+Melissa Louise Dunn Morgan Stanley, Research Division - Research Associate
+Patrick Edwin Ronald Colville Arete Research Services LLP - Analyst
+Saket Kalia Barclays Bank PLC, Research Division - Senior Analyst
+Yun Suk Kim Rosenblatt Securities Inc., Research Division - Senior Software Research Analyst
+PRESENTATION
+Operator
+Good day, and welcome to the Zscaler's First Quarter 2020 Earnings Conference Call. Today's conference is being recorded. At this time,
+I would like to turn the conference over to Mr. Bill Choi. Sir, please begin.
+Bill Choi Zscaler, Inc. - VP of Investor Relation
+Good afternoon, and welcome to the Zscaler First Quarter 2020 Earnings Conference Call. On the call with me today are Jay Chaudhry,
+Chairman and CEO; and Remo Canessa, CFO. By now, everyone should have access to our earnings announcement, which can be found
+on our website in the Investor Relations section. In addition, a supplemental financial schedule is available for download at
+ir.zscaler.com.
+Please note, unless otherwise noted, all numbers we talk about today other than revenue will be on an adjusted non-GAAP basis. You
+will find the reconciliation of GAAP to the non-GAAP financial measures in our earnings release. For historical periods, the GAAP to the
+non-GAAP reconciliations can be found in the supplemental financial information referenced a moment ago.
+Let me remind you that we'll be making forward-looking statements during today's discussions, including, but not limited to, the
+company's anticipated future revenue, calculated billings, operating performance, gross margin, operating expenses, operating income,
+net income, free cash flow, dollar-based net retention rate, income taxes and earnings per share. These statements and other comments
+are not guarantees of future performance but rather are subject to risk and uncertainty, some of which are beyond our control. Our actual
+results may differ significantly from those projected or suggested in any forward-looking statements. These forward-looking statements
+apply as of today, and you should not rely on them as representing our views in the future. We undertake no obligation to update these
+statements after this call.
+For a more complete discussion of the risks and uncertainties that could impact our future operating results and financial condition,
+please see our filings with the Securities and Exchange Commission as well as in today's earnings release.
+I would like to inform you that we will be participating in several upcoming investor conferences. Next week, management will be at the
+UBS Global TMT Conference and Cowen's Networking & Cybersecurity Summit in New York City, and also, the Barclays TMT Conference
+in San Francisco. On January 14, we will be at Needham's Growth Conference in New York.
+Now I'll turn the call over to Jay.
+DECEMBER 03, 2019 / 9:30PM GMT, Q1 2020 Zscaler Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+3
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Thank you, Bill, and thank you, everyone, for joining us. We reported solid Q1 results, delivering strong revenue and operating profit
+growth in the first quarter with positive free cash flow while making strategic investments to scale our go-to-market machine to the next
+level. Our revenue grew 48%, and billings grew 37% year-over-year in Q1. And we are increasing our outlook for revenue and billings for
+the full fiscal year 2020. Adoption of the ZIA transmission bundle continues to grow, and ZPA remains our fastest-growing product. I'm
+thrilled that more customers are using ZIA and ZPA together, which provides a single platform for secure cloud transformation that we
+believe no other vendor can match.
+As you know, Dali Rajic joined this September as a President Go-To-Market and Chief Revenue Officer. I'm excited about the key
+initiatives our sales leadership is putting in place to position us well for the long term. At our recent Zenith Live Cloud Summit, I was
+pleased to hear CIOs, CTOs and CSOs of Global 2000 enterprises sharing with pride their cloud transformation journeys, enabled by
+Zscaler, that delivered lower costs, improved security and provided fast and reliable user experience. I'm very proud that Gartner recently
+recognized Zscaler as a leader in the Secure Web Gateway Magic Quadrant for the ninth year in a row. More importantly, Zscaler is
+positioned the highest for both execution and vision, significantly separating us from the competition.
+We pioneered the cloud-native integrated security platform. And our cloud service is trusted by over 3,900 customers, including over 400
+of the Forbes Global 2000 to access applications, no matter where they live. The Zscaler cloud processes over 80 billion transactions per
+day, which is over 10x the number of Google searches per day. This provides an unprecedented network effect, which allows us to deliver
+superior security to our customers. We are aggressively investing in our business to pursue a massive opportunity to disrupt traditional
+network security, which mostly relies on legacy security appliances.
+Let me now highlight a few wins in Q1 that showcase what we believe are our sustainable competitive advantages. I will start with an
+upsell that highlights the scalability and elasticity of our cloud. This Fortune 100 customer purchased our professional bundle for all
+40,000 employees 3 years ago. In Q1, they tripled their annual business with us by upgrading to Business Bundle, adding additional
+users and purchasing protection for server traffic going from the data center to the public cloud. They deployed local Internet breakouts
+at over 1,000 locations. During their cloud journey, including rolling out Office 365, their Internet traffic increased exponentially, reaching
+1.2 petabytes per month, which is equal to 10 billion photos in Facebook. And their IT leaders praised the elasticity of the Zscaler cloud
+when a company-wide video conference call by the CEO went flawlessly, even though the network traffic doubled during the event. How
+would a single tenant security cloud possibly handle this?
+Now I will share a new logo win of a Fortune 100 customer that needed to up-level their security. Unlike most large enterprises, they had
+no proxy gateways and instead relied upon next-gen firewalls for the user traffic to the Internet. No wonder they had a high-risk posture.
+They purchased ZIA Transformation bundle for all 14,000 employees. With Zscaler, they can detect and prevent advanced threats and
+zero-day attacks, which are increasingly found in encrypted traffic. This results in better security.
+Next, I will highlight the win that illustrates benefits of our edge cloud capabilities and enables faster M&A integration. A top global
+healthcare company that bought our Business Bundle and Cloud Firewall for 30,000 employees, 18 months ago, purchased an
+additional 30,000 seats to integrate a recent acquisition. The 2 companies have a combined global presence with hundreds of locations
+across 70 countries. Each company had embarked on a network transformation journey for local Internet breakouts, but with 2 very
+different approaches to security. The acquired company was a next-gen firewall shop with scores of firewalls deployed in branch offices,
+giving a false sense of security as 95% of their web traffic is encrypted and was not being inspected. To integrate the 2 companies, they
+standardized on Zscaler, implemented SSL inspection and are ripping out all the branch firewalls. The result, significant savings and a
+big improvement in their security posture.
+Next, I would like to share considerable momentum we are building in the U.S. federal market. Last year, ZIA and ZPA received
+FedRAMP certification at the Moderate level. And last month, ZPA reached FedRAMP readiness at the High Impact level, which puts
+Zscaler in an elite group of technology companies. ZIA is the only FedRAMP-certified secure cloud Internet gateway today. ZPA is the
+first and only cloud security service that has received FedRAMP certification for Zero Trust Remote Access. This positions us very well in
+this large market.
+DECEMBER 03, 2019 / 9:30PM GMT, Q1 2020 Zscaler Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+4
+In Q1, we won 2 deals with civilian agencies, each with an annual contract value greater than $0.5 million. The first win is with a large
+strategic agency with an initial order for ZIA and ZPA for 15,000 mobile users to deliver secure access to applications with Zero Trust
+Network Access. The second agency purchased the complete ZIA and ZPA platform for all 6,800 employees to enable cloud
+transformation to secure SD-WAN deployment for local breakouts and to provide direct access to any application from anywhere.
+Turning to Japan. We entered this large market only 2 years ago, but have been gaining great traction. In Q1, one of Japan's largest
+transportation companies purchased our ZIA Business Bundle and Cloud Sandbox for all 30,000 employees to secure local breakouts
+and increase security for all users. Non-proxy technologies such as next-gen firewalls were not considered since comprehensive security
+was important.
+A common theme of all these wins is that a cloud-first world requires a cloud-native architecture. In a recent groundbreaking research
+note, Gartner defined a new product category named Secure Access Service Edge or SASE, pronounced SASSY. Gartner predicts that the
+future of network security is in the cloud and most organizations will move their network security to a SASE model. Importantly, Gartner
+recommends reducing the complexity of network security by moving to 1 vendor for Secure Web Gateway, CASB, DNS, Zero Trust
+Network Access and remote browser isolation capabilities. This is Zscaler. We strongly believe this validates our vision when we founded
+Zscaler over 10 years ago.
+Here are the core architectural principles Gartner has outlined for SASE. Number one, SASE demands that the security providers offer
+security at the cloud edge - close to the user for good user experience. Zscaler provides in-line security at the cloud edge in more than
+150 data centers around the world. In contrast, legacy security vendors claiming to offer a SASE service are spinning up virtual machines
+on public clouds with traffic backhauled to a centralized compute. That is not security at the edge. That is not SASE.
+Number two, SASE recommends that a branch office should have a light footprint with simply an SD-WAN router and all security
+services in the cloud. While the Zscaler cloud is a light branch architecture, the legacy firewall vendors are peddling heavy branch
+appliances. Again, that is not SASE.
+Number three, Gartner specifically says, "Many of the SASE capabilities will use a proxy model", because a proxy is required to inspect
+encrypted traffic. Zscaler meets this requirement, while next-gen firewalls don't. Hence, next-gen firewalls are not SASE.
+Number four, lastly, SASE advocates a cloud-native multi-tenant architecture, which is the foundation of the Zscaler cloud platform. You
+can't take legacy single tenant security appliances and stick them in the cloud as virtual machines and call it cloud security. That would
+be like placing thousands of DVD players in a public cloud and calling it a Netflix streaming service.
+In summary, Zscaler was designed for the SASE world that Gartner has spelled out.
+Some of you have asked questions about competition from next-gen firewall vendors. Over the last 10 years, we have faced various
+competitors, starting with large legacy Secure Web Gateway vendors who claim to offer a cloud security service. Where are they today?
+As security must move the cloud, legacy firewall vendors are now making similar noise. Next-gen firewalls are designed to build a moat
+around the castle - to secure the network and the data center, they are the wrong architecture for securing users.
+The next question is, why can't they build a platform like Zscaler? Well, the answer lies in the architecture. Architecture is like the
+foundation of a building. You can't change the foundation unless you start all over, which is hard and takes a long time. We know that
+startups like Salesforce and Workday competed and won against much larger on-premise incumbent vendors because of the
+cloud-native architecture. We believe we are doing the same in the network security space.
+Let me talk about our products. I will highlight a few innovations that are expanding our platform. Zscaler B2B and Zscaler Digital
+Experience or ZDX, the 2 major product lines we announced at Zenith Live, are getting great initial feedback from our customers. The
+out-of-band CASB that we announced at Zenith Live is receiving very good early reception. Combined with our existing in-line CASB
+capabilities, we will now offer a complete CASB solution. The integration of browser isolation technology we acquired through Appsulate
+DECEMBER 03, 2019 / 9:30PM GMT, Q1 2020 Zscaler Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+5
+is ahead of plan and is already being tested by customers. Building upon the TrustPath acquisition we did last year, we have significantly
+enhanced our threat detection capabilities with machine learning and AI.
+Moving on to tech partnerships. To complement our comprehensive platform, we believe in partnering with tech leaders. This provides an
+integrated solution for customers and creates go-to-market leverage for Zscaler. For example, we have a deep and wide partnership with
+Microsoft Office 365 and Azure public cloud. Microsoft named Zscaler the first and only cloud security provider to be a certified partner in
+the Microsoft Networking Partner Program or NPP for Office 365, which has stringent requirements for user performance. Microsoft only
+recommends NPP partners for Office 365 connectivity. We are working closely with both VMware and Silver Peak, the only 2 leaders in
+Gartner's recently published SD-WAN Magic Quadrant.
+Let's now turn to our go-to-market. Zscaler is an enabler of cloud transformation. As a result, we have a different top-down sales process
+and go-to-market strategy than legacy vendors. As I stated during the last earnings call, we are focused on improving our sales execution
+to take Zscaler beyond $1 billion in revenue. That is why I'm excited to have Dali on board as he's building a highly scalable go-to-market
+machine. He has already driven rapid and tangible progress, building a multi-dimensional go-to-market model, putting us into a great
+position to scale.
+Let me give you a few examples. We implemented a more refined metrics-based model of accountability and transparency, giving us
+better visibility into how our business is run. We are ahead of our plan to build a new sales process and enablement program that will
+deliver consistent and high-level execution in the field. It is already having a meaningful impact in our day-to-day execution, and we
+continue to mature our sales leadership structure.
+With all that we have implemented in a very short time, I'm very pleased with our progress and confident that we are building a solid
+foundation for a highly scalable sales machine for our long-term growth.
+Now I'd like to turn over the call to Remo for our financial results.
+Remo Canessa Zscaler, Inc. - CFO
+Thank you, Jay. Revenue for the quarter was $93.6 million, up 9% sequentially and 48% year-over-year. From a geographic perspective
+for the quarter, Americas represented 51% of revenue, EMEA was 41%, and APJ was 8%.
+Turning to calculated billings, which we define as the change in deferred revenue for the quarter plus total revenue recognized in that
+quarter. Billings grew 37% year-over-year to $88.3 million. As a reminder, our contract terms are typically 1 to 3 years, and we primarily
+invoice our customers 1 year in advance. Remaining performance obligations or RPO, which represents our total committed
+noncancelable future revenue, was $555 million on October 31, up 35% from $411 million 1 year ago.
+Our strong customer retention and ability to upsell have resulted in a consistently high dollar-based net retention rate, which is 120% for
+the quarter ended October 31. This compares to 118% a year ago and last quarter. Our increased success selling bigger deals starting
+immediately with our Transformation Bundle and faster upsells within a year, while good for business, can reduce our dollar-based net
+retention rate, which is calculated on a year-over-year ARR basis. Considering these factors, we feel 120% is outstanding, and it will vary
+quarter-to-quarter.
+We are pleased with the continued adoption of our comprehensive cloud platform by our customers as they increasingly rely on us for
+their transformation journey. In fact, 2/3 of our top 25 customers were also customers 2 years ago, and their cumulative ARR has more
+than doubled over this period.
+Total gross margin was 81%, flat sequentially and down 1% year-over-year. We feel that 80% continues to be a good target range in the
+near term as it is important to continue to invest in our platform to drive top line revenue growth.
+Turning to operating expenses. Our total operating expenses increased 17% sequentially and increased 44% year-over-year to $72.7
+million, but decreased as a percentage of revenue to 78% compared to 80% last year.
+DECEMBER 03, 2019 / 9:30PM GMT, Q1 2020 Zscaler Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+6
+Sales and marketing increased 20% sequentially and 46% year-over-year to $49.4 million. The year-over-year increase is due to higher
+compensation expenses and the cost of 3 major marketing events, Zenith Live Americas, Zenith Live Europe and our sales kickoff.
+R&D was up 12% sequentially and 44% year-over-year to $14.8 million as we continue to invest to enhance our product functionality and
+innovate new products.
+G&A increased 6% sequentially and increased 32% year-over-year to $8.5 million. The year-over-year growth in G&A includes
+investments in building our teams. These expenses exclude $2 million in litigation-related expenses.
+Our first quarter operating margin was 3%, which compares to 2% in the same quarter last year. Net income in the quarter was $4.1
+million or non-GAAP earnings per share of $0.03.
+We ended the quarter with $378 million in cash, cash equivalents and short-term investments. Free cash flow was positive $9.4 million in
+the quarter compared to positive $5.2 million for the same quarter a year ago. Our ESPP program increased our free cash flow by
+approximately $3 million in the quarter, same as a year ago. The ESPP program does not impact overall cash balance.
+Now moving on to guidance. As a reminder, these numbers are all non-GAAP, which excludes stock-based compensation expenses,
+amortization of intangible assets, certain litigation-related expenses and any associated tax effects. For the second quarter, we expect
+revenue in the range of $97 million to $100 million, reflecting the year-over-year growth of 31% to 35%. For the year-ago comparison,
+recall the Q2 2019, revenue was aided by $2.3 million in nonrecurring revenue from a large public sector customer deploying our
+platform as a private cloud. Excluding this revenue from last year, guidance reflects 35% to 39% growth. Operating profit in the range of
+$3 million to $4 million; income taxes of $900,000; and earnings per share of approximately $0.03, assuming 138 million common
+shares outstanding.
+For the full year fiscal 2020, we expect revenue in the range of $405 million to $413 million or year-over-year growth of 34% to 36%.
+Calculated billings in the range of $500 million to $510 million or year-over-year growth of 28% to 31%. Operating profit in the range of
+$15 million to $18 million. In Q4, we expect to host our annual Zenith Live events in both EMEA and Americas. We expect the cost of
+these 2 events to be in the range of $5 million to $6 million; income taxes of $3.6 million; and earnings per share in the range of $0.13 to
+$0.15, assuming approximately 139 million common shares outstanding.
+Our guidance reflects our plans to invest aggressively in our business to pursue our significant market opportunity. We are pleased with
+the progress our CRO is making, and we are confident he is the right person to drive our sales and go-to-market execution. We are
+stepping up sales and marketing investments in order to build the foundation for long-term growth. In addition, we will increase
+investments in our technology platform and cloud infrastructure.
+As you model billings, I want to remind you that historically, Q2 and Q4 have been our strongest billings quarters with sequential
+declines in Q1 and Q3 quarters, respectively. With our outperformance in Q1 billings, we now expect first half billings to be approximately
+43% of full year billings compared to our prior expectations of 42% to 43%. Also, please keep in mind that we have a large upfront billing
+of $11 million in Q2 of 2019 from a large public sector customer deploying our platform as a private cloud, which will pose a tough
+year-over-year comparison in Q2. Excluding this deal, our billings guidance for the full year implies 32% to 35% growth.
+In terms of free cash flow, please note that we will have additional spend for tenant improvements related to our headquarters move in
+January as well as ongoing cash outlays for lease payments on our existing San Jose buildings and litigation expenses related to our
+ongoing Symantec lawsuit. These extraordinary items are expected to be approximately $15 million to $20 million in cash payments for
+the full year. As a result of these payments, we expect our free cash flow margins in fiscal 2020 to be 0 to 2 percentage points lower
+compared to our operating profit margins. Longer term, we expect our free cash flow margins to be higher than our non-GAAP operating
+margins.
+Now I'd like to turn it back over to Jay.
+DECEMBER 03, 2019 / 9:30PM GMT, Q1 2020 Zscaler Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+7
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Thank you, Remo. In closing, let me state 4 key points that make me excited. Number one, architecture matters, especially for a cloud
+security platform that must sit in line to inspect all traffic for policy enforcement. We believe we have the best architecture with 10 years
+of operational experience to run a massive cloud and enormous barrier to entry. Number two, with multiple tailwinds such as Office 365,
+SaaS adoption, SD-WAN and app migration to public clouds, we believe the market is coming to us. Number three, we are in early
+innings of the cloud journey. We are disrupting a $20 billion TAM with ZIA and ZPA. In addition, we recently announced Zscaler B2B and
+ZDX, which we believe will expand our TAM significantly. Number four, with new go-to-market leadership on board, we're building a
+sales machine that can deliver world-class execution and sustainable long-term growth.
+We thank you for your interest in Zscaler and look forward to reporting on our progress in the future. Operator, you may now open the
+call for questions.
+QUESTIONS AND ANSWERS
+Operator
+(Operator Instructions) And our first will come from Alex Henderson with Needham.
+Alexander Henderson Needham & Company, LLC, Research Division - Senior Analyst
+I was hoping to ask a question around the new sales head, the Chief Revenue Officer. To what extent he's come in and been effective?
+How long do you think it takes for his programs to be fully ramped and to get to the maximum benefit? Is that a 3- to 4-quarter process
+of reacceleration?
+And then the second piece of it, if I could. A lot of questions coming at me from clients about the competition from the next-gen firewall
+players. It seems to me that, that has not been a factor, but can you talk about whether that's shown up in terms of pricing pressure or
+any other notable metric other than lost deals, but maybe some other elements to the mix that may have pressured things?
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Yes. Alex, thank you. This is Jay. Regarding your question about our go-to-market, our CRO, as you know, we have done very well so far,
+built a business to hundreds of millions of dollars. Now our goal is to take it to $1 billion and plus, which means scaling our sales
+execution. Dali actually is the right guy who is driving a number of these things. Let me give you a perspective of what all he's driving.
+So, for execution at scale, I'll give you 3 examples. One, when you have scores of salespeople, it's one thing. When you have hundreds of
+salespeople, you need far better sales enablement, far better training. For us, we used to have a small sales enablement team. Dali has
+come in and built a very sizable team, and the team is already rolling out some of the training programs. Number two, to really scale your
+business, you need a very consistent and repeatable sales process that may be more refined. And Dali has come in and taken our process
+and further refined it, and it's being rolled out to the whole field. Number three, while we had tools and systems in place to scale to the
+next level and to have better accountability, better visibility to give us better leading indicator and sales activities, he and the leadership
+team has started work in many areas. So a lot of these things are already making a difference, and we are seeing it. And I think as each
+quarter goes by, we will see more and more impact of the work being done by Dali and his team. Remo, do you want to add anything?
+Remo Canessa Zscaler, Inc. - CFO
+Yes. A couple of add-ons to that also. I mean, our plan is still to be about a 20%-plus operating margin once we hit $800 million to $1
+billion of revenue. Related to pricing pressure, our discounts are lower this quarter. Our average prices per user are higher. When I take a
+look at our ARR where customers are greater than 3,000 users, it's higher this quarter. It's in the high 300,000 range. And our churn is
+down.
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Alex, regarding your second question about competition from firewall vendors, somehow this question keeps on coming. I tried to
+address it during my statements. But fundamentally, if you look at the large enterprises, to protect users, they almost always look for a
+proxy architecture. You guys deal with large banks. If you talk to top 20 banks and ask anyone, would you just depend upon on next-gen
+DECEMBER 03, 2019 / 9:30PM GMT, Q1 2020 Zscaler Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+8
+firewalls for user protection? I haven't found a yes answer from a single bank so far. Now it's probably true. Some of that is happening on
+the lower end, where the customer is less security savvy and they're able to go with some of that switching happening. So probably on
+the SD-WAN side, some of that is happening on the lower end, but where are our primary focuses? We don't really think any of the
+impact from the firewall vendors making noise has happened and impacted us. So far, I think it's the architecture, that we got much
+better that's giving us an edge, and I think it's a long-term edge.
+Operator
+Our next question comes from Daniel Bartus with Bank of America.
+Daniel Bartus BofA Merrill Lynch, Research Division - Research Analyst
+Great. First for Jay, maybe. No mention of the longer sales cycle order. So can you just walk us through the changes you're seeing versus
+last quarter when you called that out? And then I got a quick follow-up.
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Yes. The changes in terms of the sales cycle and all... haven't really changed a whole lot for us. I think what we are doing is tightening our
+sales process and tightening our execution. We aren't really seeing much market impact in terms of a slowdown or any of the stuff. With
+better leadership and some of the things I outlined, I think focused execution is what we are doing, and we are beginning to see it make a
+difference for us. And I think it will help us in the long run because we are building a stronger infrastructure to scale our sales.
+Daniel Bartus BofA Merrill Lynch, Research Division - Research Analyst
+Great. Makes sense. And then, Remo, quick question. Good to hear the new products are getting good reception. I'm curious if you have
+any ZDX or ZB2B in your fiscal '20 expectations. And what's the potential for these new products to ramp and maybe drive some upside
+this year?
+Remo Canessa Zscaler, Inc. - CFO
+Yes. So no, there's nothing we're planning for, and you shouldn't plan for anything either. We're planning to get these products out in the
+second calendar quarter of '20. The potential for the products, as Jay mentioned, with the CASB out-of-band, browser isolation, user
+experience and the B2B, we feel that there's a pretty significant upside for us with these types of products, but nothing for this fiscal '20
+should be accounted for.
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Yes. If I may add, we are engaged with customers, as you would expect, in beta stages during evaluation and testing. The interest is real.
+I mean, just to clarify, what we announced was 2 big product lines, Zscaler B2B and Zscaler Digital Experience. And then we also
+announced 2, what I would call, features. Out-of-band CASB, CASB is a feature. Browser isolation is another feature. That's relevant for
+both ZIA and ZPA. Early indication is very positive. These products become generally available in calendar Q2.
+Operator
+Our next question will come from Patrick Colville with Arete Research.
+Patrick Edwin Ronald Colville Arete Research Services LLP - Analyst
+Can we just talk about the CASB product because, I mean that's something that from speaking to your customers, there's been a lot of
+interest in CASB right now and some have said that the scale will be a natural insertion point into that CASB debate above and beyond
+your current partnerships right now with Microsoft and McAfee. So just it's good to better understand that product, if possible, please?
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Yes. So, for a long time, we have had what we call inline CASB. If all traffic goes through us, we have to do CASB, which includes threat
+detection and protection, DLP and the like. And for out-of-band, it will be dependent upon 2 partnerships, you mentioned McAfee and
+Microsoft. Our customers kept on telling us that it's a small add-on, we should be doing it. So, we took them seriously, we built it. So, we
+become a single provider. So, it's a natural feature for us to add on, and we're seeing lots of traction. We will continue our partnership
+with Microsoft and Skyhigh, McAfee in this area. If customers want something like that, they have it. But we believe a large number of
+customers will take Zscaler. And if there's another CASB solution, I think, we'll end up displacing it.
+DECEMBER 03, 2019 / 9:30PM GMT, Q1 2020 Zscaler Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+9
+Patrick Edwin Ronald Colville Arete Research Services LLP - Analyst
+Great. And can I just ask a quick follow-up on the dollar-based net retention rate. So, the 120% is extremely impressive, no doubt, and
+especially given it's a sequential and annual increase, but it does imply that revenue from new customers would have tailed off, both
+sequentially and annually. So, do you mind just helping me understand if that's correct. The revenue contribution became increasingly
+skewed to existing customers? Or if there are any metrics you can share to help me better understand new customer revenue and
+customer count?
+Remo Canessa Zscaler, Inc. - CFO
+Yes, that's a good question. So typically, we range with new versus upsell, 60% or 40% new versus upsell and also 50% to 50%. In Q1,
+the mix was closer to 50% to 50%. What's important to recognize, we don't really distinguish internally the difference between new and
+upsell. We track it, but we incentivize our sales organization, both for new and upsell. When you take a look at the installed base that we
+have and the penetration that we have with our installed base, there's a significant opportunity for us to upsell into that installed base.
+We don't want to disincentivize our sales organization selling into that installed base. With Dali on board, I'm sure he'll be driving all
+aspects of the business, including new customer acquisition.
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Yes. Remo, if I may add, if a company is a single-product company with a narrow offering, they have to keep on worrying about new
+customers in order to drive their growth. We have such a wide platform and more products being added to it. So, we are less worried
+about making sure we just do new customers. So, our #1 goal is to maximize new ACV. Hence, we don't have a difference between new
+versus upsell. And Remo said the range of new has varied from 50% to 60%. And I think that's a good range. But as you see more new
+products coming, some of them can be sold on its own without the installed base, we expect over time to go up. But we don't look at
+NRR, net retention revenue, as the most reliable indicator. It varies quite a bit. Remo, you have commented on in the past why it varies...
+Remo Canessa Zscaler, Inc. - CFO
+Yes. So I mean 120%, that's clearly outstanding. We've ranged from the 118% for several quarters. We called out several quarters ago
+that there could be pressure on that NRR, net retention rate, as more companies are buying transformation upfront, which is what we're
+seeing. In addition, if customers are buying things quicker within the year because our net retention rate is based on ARR at the
+beginning of the year versus what it is currently. If customers buy product within that period, that's going to put pressure also on the net
+retention rate. Now those are the negative effects to it. The positive effects to it are that is 43% of our ARR in ZIA was transformation,
+14% of our new and upsell business last year was the ZPA. So, there's upsell capabilities with those products. In addition, as Jay
+mentioned, with our new products, there's a potential for it also going up. The point to make is it's going to fluctuate. It's a hard, hard
+metric to really put your finger on. 120% is outstanding, but it could fluctuate.
+Operator
+Our next question will come from Andrew Nowinski with D.A. Davidson.
+Andrew James Nowinski D.A. Davidson & Co., Research Division - MD & Senior Research Analyst
+Thank you and congrats on the nice quarter. I want to start with a question on the Fed side. So I think you mentioned a few modest-sized
+deals with civilian agencies, but I'm wondering if you can give us your thoughts on how Microsoft being awarded the JEDI contract might
+impact Zscaler, given your strong partnership with Microsoft and now having both ZIA and ZPA FedRAMP certified.
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Actually, very excited with the opportunity. We started investing in FedRAMP certifications over 2 years ago. It's a very hard certification,
+but we made the investment. And as you've seen in recent press releases and the like, we got certification for both ZPA and ZIA. And as I
+said, we are the only vendor that's FedRAMP certified with cloud security gateway. And on the ZPA side, only vendor certified for Zero
+Trust Remote Access. That puts us in a very, very good position. Now the way Zscaler works is it's independent of cloud, we can access
+Microsoft, AWS, Azure, all these clouds work with us, but having a good partnership already in place with Microsoft will help us work
+closely with them in the field from a go-to-market point of view. So, while we have begun to get some early deals, we are pretty
+optimistic about the opportunity, though we do realize that federal deals can take a little bit longer time. But very pleased with the team
+we have put in place. The team has grown quite a bit and it's delivering.
+DECEMBER 03, 2019 / 9:30PM GMT, Q1 2020 Zscaler Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+10
+Andrew James Nowinski D.A. Davidson & Co., Research Division - MD & Senior Research Analyst
+Okay. And then the telcos have also been a fairly large driver of demand over the course of the last few years. Can you just give us any
+color on what, if anything, has changed with regard to the revenue contributed by the telco providers?
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Yes. Telco, they have been an important partner for us. I won't say any partner has been driving a lot of demand for us. As you know, as
+we drove transformation, we have done a lot of evangelism. So, we have been driving a lot of demand. It is in high-touch sales. But as
+customers are asking for more and more transformations, now we do see now more leads coming from telco partners to say, "My
+customer is asking for it." We're beginning to see RFPs coming out and say, "I need to do transformation." The deal I referred to in my
+earnings call from Japan actually was an RFP that was issued to 3 telcos, and all 3 telcos with Zscaler because we met the requirement.
+It's a good business happening. We are trying to go further down market with telcos. That's a new project, actually, Dali, is trying to drive.
+So far, a lot of business we've done with telcos on the very high end with the large enterprises. So excited about the opportunity. They're
+natural partners for us, even though there is, yes, some contention about network costs and whatnot. But they really don't impact us. It's
+the market that's looking for it, and we are taking advantage of the market.
+Remo Canessa Zscaler, Inc. - CFO
+Yes, telcos typically represent around 50% of our revenue, and that's about where it was in Q1.
+Operator
+Our next question will come from Saket Kalia with Barclays.
+Saket Kalia Barclays Bank PLC, Research Division - Senior Analyst
+Jay, maybe to start with you, a lot of talk on competition, particularly from the firewall side. I'd actually love to shift a little bit, maybe talk
+about competition from the traditional Secure Web Gateway players here that are transitioning, most notably with Blue Coat. I guess the
+question is, what are you seeing in terms of sales engagement with those types of opportunities since the deal is closed? And really, their
+willingness to explore a solution like Zscaler?
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+When it comes to competition, our real competition from incumbency point of view is Secure Web Gateway, because they have the right
+architecture as a proxy architecture. Where we have been winning against them is because they have a good on-premise single tenant
+proxy architecture, but they couldn't pivot to the cloud, they couldn't build a viable, multi-tenant architecture, right? Remember my DVD
+versus Netflix example. Now among these traditional vendors for Secure Web Gateway, Blue Coat had big presence at large enterprises
+as an appliance. And with the sale to a new owner, there's some uncertainty out there. So, we are seeing a lot of additional interest from
+large enterprises who are looking for alternatives. Some of these customers are moving to the cloud. So, it is actually helping us. So,
+we're getting inbound inquiries that we were not getting before. So, we think it's a big opportunity for us. We are focused to take
+advantage of this.
+Saket Kalia Barclays Bank PLC, Research Division - Senior Analyst
+Makes sense. Remo, maybe my follow-up for you, somewhat related, but now that Symantec is part of a larger entity, you talked about
+$15 million to $20 million in one-time cash cost, including litigation. Can you talk about the litigation portion of it? And how does that
+sort of progress now that ownership on Symantec has sort of changed hands?
+Remo Canessa Zscaler, Inc. - CFO
+Yes. The litigation portion is $8 billion to $10 billion. The transaction with Broadcom and Symantec just was completed. So there's not
+much update. I mean the only thing I can say is that we do not feel we infringed, we're going to defend ourselves vigorously and the
+lawsuit that is currently out there is not having any impact on our business at all.
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Yes. We're carrying on. But as you pointed out, change of hands can present an opportunity. And if it did, we will be open to it.
+DECEMBER 03, 2019 / 9:30PM GMT, Q1 2020 Zscaler Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+11
+Operator
+Our next question will come from Brian Essex with Goldman Sachs.
+Brian Lee Essex Goldman Sachs Group Inc., Research Division - Equity Analyst
+Jay, maybe I could point to a couple of the sustainable competitive advantage examples that you gave. One, the first one pointed to
+scalability and elasticity of your platform? And the third one, pointed to your edge cloud capabilities, but both were really interesting
+instances of pursuing Internet breakouts. Maybe if you could help us understand a little bit how these deals transpired and who the
+partners on the SD-WAN side were? And was this driven by maybe an SI that was putting the deal together and working with the
+company on a consultative basis? Or was this something that you led and held their hands through this process and pulled maybe the
+SD-WAN vendors in and put the deal together on your side?
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Yes. The way these things are happening, it's still not a process where market is mature, and RFPs get sent out all the time. As we have
+mentioned, we are still in a high-touch sales model. There is a good amount of evangelism needed though it's getting easier and easier,
+what used to be a typical process. Our sales team goes and engages with the customer, shows them the value of transformation that can
+deliver user experience and lower cost, and that basically leads to a natural discussion and say, let's get an SP or SI together because it
+generally involved transformation, SP vendor awareness is out there. We start collaborating with SP vendors out there. As I mentioned to
+you, VMware and Silver Peak, are good partners for us, they're the leaders out there, and we come together and offer a proposal and
+solution. So, I would say, a majority of the large deals that are driven and closed they're still led by us, then we bring the partners along.
+But in a good number of them, they do come from partners. And many times, our SD-WAN vendors introduce us to a deal. And
+sometimes we introduce them to deals. So that's why we like these technology partnerships. Microsoft, VMware are 2 big technology
+partners that are helping us. On the SP front, the large SPs, the top 4 or 5 SPs globally are very good partners.
+Brian Lee Essex Goldman Sachs Group Inc., Research Division - Equity Analyst
+Got it. Maybe just a follow up to, that's very helpful. Remo, when we spoke with Dali in September, he had a goal of maybe taking 30 to
+60 days to evaluate data on the platform, build models, evaluate talent and hire and so forth. Is he through with that? And do you know,
+like definitively kind of the framework of what the incremental spend on the sales and marketing side will be for this year? Or might that
+kind of bleed into next year? I'm just trying to get a sense of when we might anticipate some meaningful leverage on the sales and
+marketing side of the model?
+Remo Canessa Zscaler, Inc. - CFO
+Yes, good question. I would start seeing basically improvement to next year related to, and again, the guidance that we gave
+contemplates the investment we're making in sales and marketing. Dali's 30- to 60-day plan, I mean, I've worked with a few CROs. And
+watching what Dali is doing here in the first couple of months is he's moving very quickly and doing outstanding. I mean he's building the
+sales leadership in the organization. And he's building, as Jay mentioned, our sales enablement and training, he's better defining sales
+responsibility and putting in place the framework for us to be a much bigger company and putting in place that accountability. In
+summary, what I see what Dali is doing, he's putting structured, disciplined leadership and it is a passion that he has. Quite frankly, I
+don't know when he sleeps. It's going very quickly, but it is going to take time. So that was the reason for our guidance initially at 42%,
+43% billings in the first half, and we increased that to 43%, and increased our billings guidance to $500 million to $510 million. I'm
+excited working with Dali and what he's doing and look forward to it.
+Operator
+Our next question comes from Matthew Wells with Citi.
+Matthew Ryan Wells Citigroup Inc, Research Division - Associate
+Can you provide an update on customer feedback and learnings around ZB2B and ZDX? I understand both are still in beta and plan to go
+live, I believe, next quarter, actually?
+DECEMBER 03, 2019 / 9:30PM GMT, Q1 2020 Zscaler Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+12
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Yes, I think we'll be able to give you more tangible and meaningful customer feedback probably next quarter. Right now, I would say, the
+degree of interest and opportunity I had anticipated 3 or 6 months ago, it seems bigger than that. So high customer interest. But again,
+it's a limited engagement so far. So, the limited engagement we have had, a very high degree of interest, but we'll give you more as we
+have more tangible feedback.
+Matthew Ryan Wells Citigroup Inc, Research Division - Associate
+Got it. And just a follow-up on that. Is the sales force incentivized around products while they're still at beta? Or it's just when they go live
+next quarter?
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+We have no incentive. In fact, product management is actually working closely with a selective number of customers. But we are not
+really pushing, we would rather not push until the products are properly cooked and all the kinks are out of it. Once they become GA,
+only then sales force start selling it.
+Remo Canessa Zscaler, Inc. - CFO
+Just wanted to clarify that these new products are going to be generally available in calendar Q2. So, it is not next quarter.
+Operator
+Next, we have Melissa Franchi with Morgan Stanley.
+Melissa Louise Dunn Morgan Stanley, Research Division - Research Associate
+This is Melissa Dunn on for Melissa Franchi. I was hoping you could provide some color around activity in EMEA. Revenue growth in that
+area was slightly slower than the rest of the region. So, wondering if there were any macro softness in your view or maybe execution
+considerations?
+Remo Canessa Zscaler, Inc. - CFO
+No, from a macro perspective, we really don't see it. EMEA grew 40%, which is slower than the Americas and APJ. We did have a
+leadership change in EMEA, which we're very excited about. But at 41% of total revenue in EMEA, APJ at 8%, Americas at 51%, it's pretty
+consistent with what it's been in the past. But from a macro perspective, not really seen any changes.
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Yes, we are bullish on EMEA. I think we've got a good incumbent installed base. We'll keep on growing it. We are making the right
+amount of investments for EMEA.
+Melissa Louise Dunn Morgan Stanley, Research Division - Research Associate
+And just a quick follow-up. To what extent is ZPA driving initial conversations with new customers versus ZIA? And there's been a lot of
+other vendors that are seemingly trying to address this opportunity. So has there been any change in what you've seen in competitive
+deals?
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+So in the past few quarters, we have been seeing about half the new customers coming from ZPA, sorry, half the ZPA deals coming from
+new customers and half coming from upsell. So that's kind of number of customers. But having said that, the ZPA deals are smaller than
+ZIA deals. As we've said before, when ZIA is bought, it's bought for everyone in the company, for all employees as ZPA are based on
+number of applications. So that's one. ZPA is opening more doors for new logos than we had initially thought of. So, pleased with that.
+Your second question is competition for ZPA. ZPA market in what Gartner called Zero Trust Network Access or others call SDP, it is still a
+young market. We kind of rarely run into each other because it's relatively small. So, not a very competitive space. It's more of a matter of
+evangelizing and showing people that doing traditional network security with things like VPN is a dangerous thing. They don't need to do
+it. Once they get it, you win the deal.
+DECEMBER 03, 2019 / 9:30PM GMT, Q1 2020 Zscaler Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+13
+Operator
+Our next question will come from Fatima Boolani with UBS.
+Fatima Aslam Boolani UBS Investment Bank, Research Division - Associate Director and Equity Research Associate
+Technology-Software
+Jay, I have a question for you and a follow-up for Remo. Jay, you talked a lot about the internal improvements and pipeline rigor and
+sales enablement initiatives that Dali had sort of put in place and put into motion. So internally, you're really elevating the rigor in the
+sales organization and go to market. I'm wondering if you can speak to the external and external distribution avenues and sort of what
+you're doing there from maybe a channel perspective or a service provider or SI distribution perspective. Because as we understand, your
+model doesn't traditionally lend itself well to the box pushers, so I wanted to get your sense of what sort of investments are in play from
+an external distribution perspective?
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Absolutely. There are several points I could make there. In fact, I heard from someone the other day, they said, "Hmm, it seemed like
+you're defocusing on channel." I said, "Not sure where that's coming from because actually, we are putting more focus on channel." But
+the point is, it's not the same traditional channels. So, what are we doing about channel? We know SPs have worked for us. We will keep
+on making more investments, rather looking at going downstream with some of the SPs and not just do the very large enterprise deals.
+On the channel or maybe called the VAR channel traditionally, right? The people who largely are in the box selling business, that has
+limited synergy with us. But Dali is focused on 2 types of channel partners. One, we have done cloud-native boutique VARs well, but only
+limited. We are expanding the reach. Dali has successfully done those cloud-native type of vendors in his previous life, so we are focused
+on getting those things done. Two, finding more vendors who are ready to pivot. Every channel person doesn't want to pivot, or they wish
+they don't have to pivot because boxes will keep on selling forever. So those are the 2 things we're doing. I talked about sales
+enablement and training. That's really not just needed for channel, sorry, for internal teams, that's needed for channel as well. So, we are
+putting a lot of focus in that area as well because that's needed for them to become more effective.
+Fatima Aslam Boolani UBS Investment Bank, Research Division - Associate Director and Equity Research Associate
+Technology-Software
+I appreciate that. That makes a ton of sense. Remo, a question for you. You've been very explicit on the level of investments, especially on
+the sales and marketing front, as reflected in your guide. But as I think about Analyst Day, you're a little bit more explicit on your sales
+capacity investments, so maybe accelerating that sales capacity footprint to 60% this year. I just wanted to get a sense of an update of
+how the sales hiring has been tracking as you started the new year? And that's it for me.
+Remo Canessa Zscaler, Inc. - CFO
+Yes. Our sales tracking for Q1 is a little bit behind, but our expectation is still to get to that 60%. We're looking for Q2 to be a good
+quarter for us, but that's all taken into account in our guidance.
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Yes, I would add that in the past quarter, we raised the bar in hiring better quality people and also acceleration of hiring. In fact, under
+Dali, we have put together a new recruiting playbook where we are educating, we are training all of our front-line sales leaders to make
+sure we hire the right kind of people. Again, product scaling. When you only have 10 leaders who are hiring, it's a small problem. When
+you've got 50 sales leader who are hiring, it needs better scaling and better methodology and process, and that's what we are really
+scaling out.
+Operator
+Our next question will come from Dan Ives with Wedbush Securities.
+DECEMBER 03, 2019 / 9:30PM GMT, Q1 2020 Zscaler Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+14
+Daniel Harlan Ives Wedbush Securities Inc., Research Division - MD of Equity Research
+So maybe can you talk about the government market? Obviously, a lot of deals moving to cloud. JEDI is just, I think, one of them. And just
+given where you are in terms of Azure, in terms of that channel, maybe just talk about that as an opportunity over the next 6, 12 months
+in terms of how you're viewing that going in 2020?
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Yes. I think I'll add upon what I said earlier. Getting FedRAMP certifications is the first thing. Unless you have them, not much matters.
+So, we have done that. And also, in FedRAMP, there's a moderate level certification and there's a high impact. Having done both of them
+for ZIA, sorry, ZPA is both done; ZIA, we are at moderate, will get to high-impact shortly. The door is wide open for us leverage. And
+Azure with Microsoft partnership is a good opportunity, but we also work with, there's a fair amount of AWS out there. Very bullish on it.
+Remo, can I say that? A good team. I would say, if you asked me a year ago versus today, I feel we are significantly ahead of where I
+thought it would be.
+Operator
+Our last question will come from Yun Kim with Rosenblatt Securities.
+Yun Suk Kim Rosenblatt Securities Inc., Research Division - Senior Software Research Analyst
+Congrats on the solid quarter. On the ZPA front, just wanted to ask about the competitive nature of that market. Are you seeing some of
+the same competitors of ZIA, for your ZPA product? And also, are you selling to the same department? Or are there typically 2 different
+buyers for ZPA and ZIA?
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+It's a good question. ZIA is generally driven by transformation. In our ideal world, we start from the CIO, go down to head of
+infrastructure who wants to transfer the network and security gets brought along, and it's a full-blown play. ZPA actually has a few
+different paths. I'll talk about 3 of them because it's very different opportunities. One case, that we go to the customer and say, "If your
+applications are going to the cloud, public cloud, like Azure and AWS, you don't need to go back through your data center, go direct
+through Zscaler." It's a good opportunity in that case. So, who is the buyer? It's actually generally head of infrastructure because he was
+providing that connectivity before. Number two, many customers say, "Yes, I'll look at cloud, but I have one problem to solve today. My
+remote access is VPN. I hate it. It's slow and it's not secure." So, replacing that, the VPN, the buyer could be security, the buyer could be
+networking. Third area, a very different buyer, M&A. When companies are bought, generally, they want to bring the networks together in
+the old world of network security. In the Zscaler world, you don't bring the networks together. You simply with ZPA brought access to
+each other's applications transparently. In that case, traditional IT is less of a buyer, you basically deal with the CIO level, but it's also
+sometimes the M&A team that's put in place to bring the 2 companies together. Some common buyers, some different buyers.
+Operator
+Thank you, gentlemen. That concludes our question-and-answer session, and I would like to turn the call back over to Mr. Jay Chaudhry
+for any closing remarks.
+Jay Chaudhry Zscaler, Inc. - Co-Founder, President, CEO & Chairman of the Board
+Well, thank you all for your time, and we look forward to seeing you at our upcoming conferences this quarter. Thank you, again.
+Remo Canessa Zscaler, Inc. - CFO
+Thank you.
+Operator
+Thank you. Ladies and gentlemen, this concludes today's teleconference, and you may now disconnect. Please enjoy the rest of your day.
+DECEMBER 03, 2019 / 9:30PM GMT, Q1 2020 Zscaler Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+15
+DISCLAIMER
+Thomson Reuters reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS THOMSON REUTERS'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY
+BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE
+COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE
+ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2019 Thomson Reuters. All Rights Reserved.

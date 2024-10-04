@@ -1,0 +1,141 @@
+Public
+Transcript
+Video interview with ASML CEO Peter Wennink
+Q2 2022 results 
+July 20, 2022
+Q2 2022 results 
+Mr. Wennink, can you give us a quick summary of the second-quarter results?
+Yes, of course. Second quarter ended with €5.4 billion in sales and about €1.3 billion in Installed Base, which 
+is slightly ahead of our guidance. We had gross margin coming in at 49.1%, which is bit of a lower end of the 
+guidance. It has to do with the increased inflationary effects that we have seen. Net income €1.4 billion. Very 
+good order intake, €8.5 billion of orders. Which is a quarterly record. Now all in all, a solid quarter. However,
+it was not without challenges. Mainly because of supply chain challenges. Supply chain constraints, parts not 
+coming in on time. But we managed the quarter. 
+Q3 and Full Year 2022
+What is your guidance for the third quarter?
+Like I said, what we saw in the second quarter, which is basically an acceleration of supply chain constraints, 
+is actually also happening in Q3. And I think it will happen throughout the remainder of the year. Which will 
+mean that in the third quarter we will see more fast shipments than we planned. This will also be true 
+throughout the remainder of the year. Now we have to remind what a fast shipment is. A fast shipment is in 
+fact a way to reduce the cycle time by cutting or not doing certain tests in our factory, which could lead up to 
+one month of cycle-time reduction. Very important when the customers are waiting for those machines. So 
+we only do those tests at the customer site, which means that the revenue recognition will move to that 
+moment in time. Which means, yes we will have more fast shipments. So we will have more deferred revenue 
+than we anticipated. So when we look at Q3 and look at the guidance of Q3, I would say it is more or less in 
+line with the guidance we gave for Q2. So it’s between €5.1 and €5.4 billion of sales. Between 49% and 50% 
+margin and about €1.4 billion of Installed Base Management. 
+So are there any changes to your view for 2022?
+Well first of all, 2022 we have to put this into context. 2022 the demand is still significantly higher than what 
+we can make. This was the situation in the last quarter it’s still the same. We don’t see any demand reduction. 
+But what we do see is what I said earlier, is that shipments will be indeed later. So we have more fast 
+shipments. So we have revenue recognition delayed. Now we said a quarter ago that the impact of those fast 
+shipments, this revenue recognition delay, was going to be about €1 billion for this year. Now where we are 
+today, we think it’s going to be €2.8 billion. So we have about €1.8 billion of more revenue recognition delays. 
+And those delays of course translate into our 2022 sales number. So currently we think sales will grow with 
+about 10%. Which if you do the math, will come around €20.5 billion for 2022. 
+Public
+Now in summary, if you look at what we said a quarter ago and where we are today. A quarter ago we said 
+sales is going to grow 20%. Which brings you to €22.3 billion. But with €1 billion of deferred revenue 
+recognition – because of fast shipments – where we are now, we say well it’s 10% and will bring you to €20.5 
+billion, with €2.8 billion of deferred revenue because of fast shipments. So when you look at the business 
+volume, the shipment value, it’s effectively these quarters are basically the same. So our guidance from that 
+point of view has not changed. 
+What does it all mean for the different business segments for the year? 
+Well when you look at EUV, we are shipping 55 systems. We said that before. However, because of those 
+fast shipments and the revenue recognition delay, the deferred revenue, we are now looking at, which by the 
+way are 15 EUV systems, we are now looking at a booked revenue for EUV for 40 systems. Which is about 
+€6.4 billion in sales. Now on DUV, we see a significant number of DUV shipments. A significant increase as 
+compared to last year. But also there we are seeing the impact of these fast shipments. So we think we’ll end 
+up around €8.6 billion in sales for DUV. Which is just over 15% increase as compared to last year. Which by 
+the way, the previous quarter we thought it’s going to be 20%. On Installed Base Management, 10% growth 
+as compared to last year, €5.5 billion in total. So add up the €6.4 billion for EUV, €8.6 billion for DUV, €5.5 
+billion for Installed Base Management: €20.5 billion for 2022. Which is about a 10% increase. 
+So we see an increase in delayed revenue, there are concerns around inflation, how does this all 
+impact your gross margin for the year? 
+We started the year with a gross margin expectation of about 53% and we corrected that in Q1 with 1 
+percentage point to about 52%. Largely because of the unexpected increased inflationary effects. Where we 
+are today, we see the following. Of course, most importantly, we are deferring €1.8 billion more of revenue to 
+2023. Happens to be our higher margin immersion and EUV systems. 
+Now, next to that we’re starting our systems late because of the late delivery of parts. Which means that we 
+have fewer systems this year that can cover the fixed costs. So it’s fixed cost coverage and we have to 
+remember the fixed costs are also going up. Because we are planning and we will ship more systems next 
+year as we see it today. So we need to invest. And last but not least, we see inflationary effects. I mean we 
+have seen an acceleration of inflationary pressure on labor, on freight specifically, on parts. And all in all, if 
+you then look at it, we expect that the gross margin for 2022 will end up between 49% and 50%. 
+Now having said that, of course we are in discussion today with our eco system partners, our suppliers and 
+our customers, to see how we can basically fairly share the burden of all these cost increases. Looking at it, 
+I think when you really look at 2022 and look at the lower guidance on gross margin, it’s driven by these shortterm effects. It’s inflationary effects that we didn’t plan for. It’s the supply chain challenges that led to deferred 
+revenue. It’s all shorter term and of course we are in discussion with our customers to see how we can fairly 
+share this. But I think longer term there is no reason whatsoever we see currently to change our ambition for 
+our gross margin targets around 2025 which is between 54% and 56%.
+Public
+Market outlook
+Let’s have a look at the market. What’s your current view on the market, both in the near term and the 
+longer term?
+A good question. I think near term, clearly we see very mixed messages coming out of the customer base. 
+With respect to consumer related products we clearly see a slowdown particularly in PCs and in smart phones. 
+On the other hand, in the industrial space when you talk about high performance compute, talk about 
+automotive, the demand is still very, very strong. It’s also evidenced by the utilization rates of our machines 
+that are in the installed base. Which are at a historical high and it’s still the case today. But we are also seeing
+across different semiconductor nodes, inventories going up towards let’s say pre-COVID type levels and that 
+is pretty broad based. So all in all, it's a bit of a mixed picture shorter term. 
+Longer term, I think there is no denying that the digital transition that’s taking place will continue. We see it 
+very clearly in automotive. In talking to customers and customers’ customers we see a quadrupling or 
+quintupling of the semiconductor content. Lately, our customers are talking about the energy transition. You 
+know, the renewable energy transition which is very topical these days will require semiconductors for wind 
+and for solar and for the smart grid. On top of that, we see the internet of everything. Everything that we are 
+seeing in terms of sensors and actuators needing semiconductors. It’s happening and will not go away. On 
+top of that, more energy efficient high-performance compute. Need more transistors. So the die are getting 
+larger. We are needing more extra wafers.
+The geopolitical situation, the technological sovereignty that countries are after is driving these big investment 
+and subsidy programs. When you look at the announcements the competition in the foundry space will also 
+go up. So all in all, longer term very healthy and unabated views. Good and very healthy growth. Shorter term,
+mixed signals. 
+What does it all mean for the demand for your products this year and next year?
+Well let me first of all say when we look at 2022 and 2023 and you look at the order intake, €8.5 billion of 
+order intake which is a quarterly historical high. Very engaged order discussions with our customers this 
+quarter. We see a backlog of over €33 billion. So I think that looks very healthy. Now having said that, I think 
+for 2022 we are of course not blind for anything that we hear with respect to inflationary pressures, probably 
+recessionary concerns. So for 2022 I don’t think it will have any real effect in terms of our shipments. 
+For 2023 you have to ask the question, what kind of recession are you looking at. If it’s a moderate recession 
+I think the impact will be very limited. For the simple reason that we have such a big backlog, that our 
+customers are coming to us and say: “listen, if we see a slowdown, sure, but one thing is certain: we want 
+your machines”. And that’s logical. Those machines are very critical. Long lead time. And you have to 
+remember that of our backlog 85% is for advanced semiconductor manufacturing. High-end immersion and 
+EUV. Now for the remaining 15% mature technology, they also need that for advanced production. So I think 
+all in all pretty healthy. 
+Public
+And for 2023, if we see the supply chain constraints going away by the end of the year which we are planning 
+for or even if it’s the first part of 2023, we will definitely need our capacity that we are planning. Which is over 
+60 EUV systems and over 375 DUV systems. With this potential risk of a moderate recession we will need 
+that capacity because our customers tell us. So it’s going to be a good and healthy year.
+Do you expect that strong demand to continue beyond 2023?
+Yes absolutely. I talked about the big secular trends. These are the longer term trends and semiconductors 
+are everywhere and it’s also obvious that big societal challenges need big solutions and semiconductors go 
+to the heart of those. So I say yes semiconductors will grow, semiconductor industry will grow, litho intensity 
+will increase. And as a matter of fact, if we look at that we are going to just repeat what we said a quarter ago. 
+That we do need structurally more capacity. We said by 2025 we want to have a build capacity for EUV of 90 
+systems and DUV of 600 systems and beyond 2025 we want to build at least 20 High-NA systems and that 
+is still very much intact. And we are working with our suppliers to get it done. Now clearly, we will go into some 
+more detail on those capacity numbers, on the drivers for those capacity numbers during our Capital Markets 
+day which is on November 11 of this year.
+Dividend and share buyback
+Can you give us an update on your plans for the use of cash?
+Yes, I think the future is very bright so our cash generation will be quite significant. But first of all, like we’ve 
+always done, we will use the cash first to run our business. Secondly, then we will pay a dividend which is 
+going to be an increasing dividend. And by the way we have decided to move from a semi-annual dividend to 
+a quarterly dividend that we will start in Q3. An interim dividend for the first time this quarter. And any excess 
+cash will be used for share buybacks as we have done in the past. So no change to our policy. 
+In summary
+How would you all summarize this?
+If you look at the big picture and you have to really make a distinction between the short-term issues and the 
+long-term issues. Short term there is no denial that there are concerns. There are inflationary concerns, 
+recessionary concerns. As it relates to ASML we have supply chain constraints that lead to fast shipments 
+and deferral of revenue recognition. We’ll deal with that. But also short term we look at an order backlog which 
+is very strong. We look at a customer demand for 2022 that is unabated. Which can withstand any moderate 
+recession in our opinion. And then of course we have the longer-term trends. I think the longer-term trends 
+are as I said earlier unabated. It’s obvious that the digital transformation will continue and will provide a very, 
+very healthy growth profile for the company going forward with us and with our customers. And of course we 
+will go into more detail November 11. We will definitely share with our stakeholders and with our investors our 
+views as to the drivers and the capacity needs for this industry and for ASML specifically. So we’re looking 
+forward to that. 

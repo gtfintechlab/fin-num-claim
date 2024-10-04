@@ -1,0 +1,309 @@
+Operator
+
+Welcome to Broadcom Inc.'s third-quarter fiscal year 2021 financial results conference call. At this time, for opening remarks and introductions, I would like to turn the call over to Ji Yoo, director of investor relations of Broadcom Inc.
+
+Ji Yoo -- Director of Investor Relations
+
+Thank you, operator, and good afternoon, everyone. Joining me on today's call are Hock Tan, president and CEO; Kirsten Spears, chief financial officer; Tom Krause, president, Broadcom Software Group; and Charlie Kawwas, chief operating officer. Broadcom also distributed a press release and financial tables after the market closed, describing our financial performance for the third quarter of fiscal year 2021. If you did not receive a copy, you may obtain the information from the Investors section of Broadcom's website at broadcom.com.
+
+This conference call is being webcast live, and a recording will be available via telephone playback for one week. It will also be archived in the Investors section of our website at broadcom.com. During the prepared remarks, Hock and Kirsten will be providing details of our third-quarter fiscal year 2021 results, guidance for our fourth quarter, as well as commentary regarding the business environment. We'll take questions after the end of our prepared comments.
+
+Please refer to our press release today and our recent filings with the SEC for information on the specific risk factors that could cause our actual results to differ materially from the forward-looking statements made on this call. In addition to U.S. GAAP reporting, Broadcom reports certain financial measures on a non-GAAP basis. A reconciliation between GAAP and non-GAAP measures is included in the tables attached to today's press release.
+
+Comments made during today's call will primarily refer to our non-GAAP financial results. I'll now turn the call over to Hock.
+
+Hock Tan -- President and Chief Executive Officer
+
+Thank you, Ji. And thank you, everyone, for joining us today. In Q3, semiconductor solutions revenue grew 19% year on year to $5 billion, with infrastructure software revenue growing 10% year on year to $1.8 billion. Consolidated net revenue was $6.8 billion or up 16% year on year.
+
+In Q3, demand continued to be strong from hyper-cloud and service provider customers. Wireless continued to have a strong year-on-year compare. And while enterprise has been on a trajectory of recovery, we believe Q3 is still early in that cycle, and that enterprise was down year on year. On the supply side, we continue to keep our lead times stable.
+
+With that as context, let me provide more color by end markets. Starting with networking. Networking revenue of $1.8 billion grew stronger than we had forecasted, up 19% year on year versus low double-digit growth and represented 36% of our semiconductor revenue. The better-than-expected growth was driven by routing from service providers in the expansion of 5G networks for backhaul, metro, and call, as well as major share gains in ethernet network interface controllers within data centers.
+
+While we experienced strong orders from OEMs, consistent with a recovering environment for enterprise spending, we believe actual deployment of networking in enterprise are still lagging from a year ago. Our shipments and revenue appropriately reflects this. In Q4, however, we expect a different set of demand dynamics. We see cloud customers upgrading to our next-generation 800-gigabit base Tomahawk 4 and Trident switches.
+
+We're the first and only provider of 25.6 terabit switches, and we are shipping two versions: one with 512 lanes at 50G SerDes; and we have 256 lanes at 100G SerDes. I would like to highlight that we are the only company today shipping 100G SerDes. In data center switching, as in service provider routing, we continue to lead in next-generation product transitions as our engineers continue to out-execute what's out there. And in Q4, against a very strong year-on-year compare, we expect networking revenue growth to be low double digits year on year.
+
+Next, our server storage connectivity business was $673 million in Q3, down 9% year on year, in line with our guidance, and represented approximately 13% of semiconductor revenue. As you know, our products here supply mission-critical applications largely to enterprise, which, as I said earlier, was in a state of recovery. That being said, we have seen a very strong booking trajectory from traditional enterprise customers within this segment. We expect such enterprise recovery in server storage.
+
+And the same is happening in networking to be one of the engines of growth in Q4 and into 2022. In this particular segment, customer transition to our next-generation SaaS and nVME connectivity at the server, exemplifying this growth. The aggressive migration in cloud to 18-terabyte hard disk drives will also provide a strong tailwind to demand for external storage connectivity products in this segment. In sharp contrast to the 9% decline in Q3, we forecast in Q4, server storage connectivity revenue to be up low double-digit percentage year on year.
+
+Moving on to broadband. Revenue of $910 million in Q3 grew 23% year on year and represented 18% of semiconductor revenue. This was primarily driven by the 2x growth in deployments of WiFi 6 access gateways, as well as double-digit growth in next-generation fiber and DOCSIS 3.1 cable modem deployments. For Q4, we continue to expect double-digit year-on-year revenue growth in broadband, we've been seeing for the last few quarters.
+
+So looking ahead, we see service providers like AT&T, British Telecom, and even Deutsche Telekom, deploying in increasing volumes next-generation last-mile fiber connectivity to homes in the U.S. and globally. These multiyear and multibillion-dollar investments by these operators and attach to every one of these fiber nodes, you need WiFi connectivity for the last 100 feet within the homes, and we lead the global transition to WiFi 6 today. We expect our strong design win momentum for WiFi 6e at U.S.
+
+and European operators will sustain our market position into the next generation. Now moving to wireless. Q3 revenue of $1.4 billion was up 35% year on year, in line with expectations, and represented 29% of semiconductor revenue mix. In Q4, we expect wireless revenue to ramp approximately 33% sequentially in support of the launch of next-generation smartphones and to be up 25% year on year.
+
+Finally, industrial. Revenue of $205 million in Q3 represented approximately 4% of Q3 semiconductor solutions revenue. Resales here grew what we consider an unsustainable 55% year over year, driven by aggressive buying from OEMs in automotive, robotics, and renewable energy. As a result, inventory in our channels declined significantly to below two months.
+
+And turning to Q4, we expect resales to come down to a more rational 20% year-upon-year growth. And so in summary, Q3 semiconductor solutions revenue was up 19% year on year. And in Q4, we expect the momentum to continue and revenue growth to be up double-digit percentage year on year. Turning to software.
+
+In Q3, infrastructure software revenue of $1.8 billion grew 10% year on year and represented 26% of total revenue. Within this, Brocade grew 27% year on year, driven by the launch of new generation Gen 7 Fibre Channel SAN products. Excluding Brocade, Broadcom software revenue grew 6% year on year. In dollar terms, bookings averaged 116% over expiring contracts, while in our core accounts we averaged 129%.
+
+Over 9% of these bookings represented recurring subscription and maintenance revenues. Reflecting these renewals, we expect our infrastructure software revenue to be on track to grow around mid-single-digit percentage year over year, which is, again, what we expect to see in Q4. So in summary, combining a strongly growing semiconductor segment with a more stable software segment, total Q3 net revenue grew 16% year on year, and we expect this double-digit growth to sustain in Q4 and total revenue to be $7.35 billion or up 14% year on year. And with that, let me turn the call over to Kirsten.
+
+Kirsten Spears -- Chief Financial Officer
+
+Thank you, Hock. Let me now provide additional detail on our financial performance. Revenue was $6.8 billion for the quarter, up 16% from a year ago. Gross margins were 75% of revenue in the quarter and up approximately 85 basis points year on year.
+
+Operating expenses were $1.1 billion, flat year on year, driven by lower SG&A and continued investment in R&D. Operating income for the quarter was $3.9 billion and was up 24% from a year ago. Operating margin was 58% of revenue, up approximately 360 basis points year on year. Adjusted EBITDA was $4.1 billion or 61% of revenue.
+
+This figure excludes $134 million of depreciation. Now a review of the P&L for our two segments. Revenue for our semiconductor solutions segment was $5 billion and represented 74% of total revenue in the quarter. This was up 19% year on year.
+
+Gross margins for our semiconductor solutions segment were approximately 70%, up 110 basis points year on year, driven primarily by favorable product mix and content growth as we deploy more next-generation products in broadband and networking. Operating expenses were $783 million in Q3, flat year on year. R&D was $693 million in Q3, up 1% year on year. Q3 operating margins increased to 54%, up 410 basis points year on year.
+
+So while semiconductor revenue was up 19%, operating profit grew 29%. Moving to the P&L for our infrastructure software segment. Revenue for infrastructure software was $1.8 billion and represented 26% of revenue. This was up 10% year on year.
+
+Gross margins for infrastructure software were 90% in the quarter, up 125 basis points year over year. Operating expenses were $359 million in the quarter, up 1% year over year. R&D spending at $226 million is up 9% year over year, and SG&A of $133 million is down 11% year over year. Operating margin was 70% in Q3, up 305 basis points year over year; and operating profit grew 15%.
+
+Moving to cash flow. Free cash flow in the third quarter was $3.4 billion, representing 51% of revenue. We spent $115 million on capital expenditures. Days sales outstanding were 30 days in the third quarter, compared to 42 days a year ago.
+
+We ended the third quarter with inventory of $1.2 billion, an increase of $156 million or 16% from the end of the prior quarter in preparation to meet customer demand in Q4. We ended the third quarter with $11.1 billion of cash and $40.5 billion of total debt, of which $279 million is short-term. Turning to capital allocation. In the quarter, we paid stockholders $1.6 billion of cash dividends.
+
+We also paid $347 million in withholding taxes due on vesting of employee equity, resulting in the elimination of approximately 739,000 AVGO shares. We ended the quarter with 412 million outstanding common shares and 449 million diluted shares. Note that we expect the diluted share count to be 448 million in Q4. Our board of directors has approved a quarterly cash dividend on our common stock of $3.60 per share in Q4.
+
+Based on current business trends and conditions, and to reiterate what Hock has said, our guidance for the fourth quarter of fiscal 2021 is for consolidated revenues of $7.35 billion and adjusted EBITDA of approximately 61% of projected revenue. That concludes my prepared remarks. Operator, please open up the call for questions.
+
+Questions & Answers:
+
+Operator
+
+[Operator instructions] Our first question comes from the line of John Pitzer from Credit Suisse. Your line is now open.
+
+John Pitzer -- Credit Suisse -- Analyst
+
+Yeah. Good afternoon, guys. Thanks for letting me ask a question. Hock, I'm just kind of curious, you kind of did what you said you were going to do 90 days ago.
+
+But this is usually the part of the cycle, especially on the semi business, where I would expect -- I would have expected more upside. And clearly, when you look across the sector, most companies are putting up an upside that you guys didn't see in the July quarter. So I'm kind of curious if you can help us better understand what happened. Do you think that this was mostly a supply issue? And given that inventory grew 15% sequentially in the quarter, to what extent do you think now that you're kind of got that under control, and going forward, you'll have a better supply environment to fulfill this demand?
+
+Hock Tan -- President and Chief Executive Officer
+
+Well, I mean, supply is always something that is very much an issue of constraint in this environment, as you well know. But the other side of the picture is we rallied shipping. As we have said in previous calls several times, to put it directly, we are shipping to exactly, we believe, to what demand requires. By that, I mean, end-user demand requires.
+
+We are trying very hard not to over-ship and end up building pockets of excess inventory within our ecosystem. So I think we're managing very much to what we see out there.
+
+John Pitzer -- Credit Suisse -- Analyst
+
+Great. Thank you.
+
+Operator
+
+Thank you. Our next question comes from the line of Harsh Kumar from Piper Sandler. Your line is now open.
+
+Harsh Kumar -- Piper Sandler -- Analyst
+
+Yeah. Hey, first of all, congratulations on the solid results guidance. A question for you is, everybody's favorite foundry, TSMC, is talking about price increases. In some cases, they are substantial.
+
+Do you feel that you can pass this along? And also, at this point in time, companies are probably securing capacity for next year. Can you talk about your capacity -- your ability to get some extra capacity to be able to grow next year? Thank you.
+
+Hock Tan -- President and Chief Executive Officer
+
+OK. I mean, very interesting questions asked. First and foremost, from our side, we try not to talk about customers, specifically, and the same applies very much to strategic suppliers, too. So I won't comment at all on what you alluded to here.
+
+But as far as our capacity for 2022, I think we have gotten a pretty good supply availability lineup for 2022. And we feel pretty OK about that. I won't say great, but in this environment, all things considered, we're feeling quite good.
+
+Harsh Kumar -- Piper Sandler -- Analyst
+
+Thank you.
+
+Operator
+
+Thank you. Our next question comes from the line of Ross Seymore from Deutsche Bank. Your line is now open.
+
+Ross Seymore -- Deutsche Bank -- Analyst
+
+Guys, thanks for letting me ask a question. I wanted to touch on the enterprise business. You mentioned it a couple of different times when you were talking about both networking and your server storage connectivity segments. So I guess a two-part question.
+
+One, how much of your semiconductor business do you believe is enterprise exposed? And two, when do you believe that will return to year-over-year growth? And is that a specific thing to Broadcom with your product cycles? Or is it just the end markets returning to year-over-year growth at that time?
+
+Hock Tan -- President and Chief Executive Officer
+
+OK. Well, traditional enterprise, as we define it, and I think I made a point of purposely demarcating the fact that in semiconductors, which -- focusing on semiconductor segment by itself, you can literally look at our data -- revenue selling into three distinct elements, right? One is cloud and service providers, which we clump together as one, and then there's consumer, which is very much our wireless business. And then the rest of companies out there, enterprises, we call traditional enterprise. So we do put telcos, service providers to make it clear, as part of cloud in that category.
+
+So we break it into three categories. And under that measure, enterprise represents about half -- just around half of the total semiconductor revenues. And to basically answer your question, which I did indicate in my remarks on server storage end markets for our semiconductor business, we have seen an improvement year on year of revenues in this -- in server storage, which is 80%, at least 90%, driven by traditional enterprise. So they are a very good indicator of what traditional enterprise is showing.
+
+We have seen it show of improving year-on-year compares and ending with -- and the latest Q3 still high -- mid- to high single-digit decline from a year ago. But we did also guide that because of strong bookings that we have been seeing now for the last three months, at least from enterprise, which is going through largely on the large OEMs, who particularly integrate the products and sell it to end users, we are going to likely expect enterprise to grow double digits year on year in Q4. So we see the point of crossover probably now Q4.
+
+Operator
+
+Thank you. Our next question comes from the line of Edward Snyder from Charter Equity Research. Your line is now open.
+
+Edward Snyder -- Charter Equity Research -- Analyst
+
+Thanks. Hock, following up on that same question. Last quarter, you were predicting -- or you thought the excellent growth you've seen in cloud server providers and telcos might lighten up next year as they digest that as enterprise started to grow, and there'll be kind of a mix shift there. But it sounds like that isn't lightening up and enterprise is coming back a bit sooner.
+
+Do you think any differently now about telcos and service provider in the cloud? Will that last longer? Do you still expect to maybe lighten up in 2022? And how long do you expect -- enterprise has been down for quite a while now, the enterprise upward trend to last? I'm just trying to get a feeling what the profile of demand looks like in your core business next year. Thanks.
+
+Hock Tan -- President and Chief Executive Officer
+
+Sure. Happy to do that. What we are seeing now -- or what we expect to see in 2022 in terms of broad direction is, we see in telcos, service providers are running well, quite hot, and it looks like they are sustaining as opposed to perhaps rolling over. They seem to be sustaining where we are right now.
+
+And regarding enterprise, it's pretty much what we had indicated before and continue to see, which is a continuing trajectory of improving demand -- spending and demand. And we see that continuing to improve and grow next -- this coming quarter, Q4, and beyond. In fact, I would say that the engine for growth for our semiconductor business in 2022 will likely be enterprise spending, whether it's coming from networking, one sector for us, and/or from server storage, which is largely enterprise, we see both this showing strong growth as we go into 2022. While, just to repeat myself, we see telcos and service providers not rolling over, just hanging up there at a very elevated level.
+
+Edward Snyder -- Charter Equity Research -- Analyst
+
+Does that imply you expect cloud to lighten up a bit then too? Because you just called out service providers and telcos, but you kind of avoided talking about the cloud?
+
+Hock Tan -- President and Chief Executive Officer
+
+No, I use service providers, sometimes to say, cloud as well. Now we see cloud also hanging up there together with service together with the telcos.
+
+Edward Snyder -- Charter Equity Research -- Analyst
+
+Great. Thank you.
+
+Operator
+
+Thank you. Our next question comes from the line of Stacy Rasgon from Bernstein Research. Your line is now open.
+
+Stacy Rasgon -- Bernstein -- Analyst
+
+Hi, guys. Thanks for taking my question. I wanted to ask you about capital allocation. Obviously, while half the cash flow goes to the dividend, the other half goes, I mean, ideally to M&A or buybacks.
+
+And it's been a while since, obviously, you executed M&A, and we're kind of getting toward the end of the year. At what point do you kind of make the decision to give up on M&A this year and start buying back stock? Or do you save the cash like for like a potential deal next year? Just how do we think about your mindset around M&A environment versus just using the cash for buybacks? and then maybe starting the cycle over again at some point as we get into next year?
+
+Hock Tan -- President and Chief Executive Officer
+
+Well, you know, it's not the first time I got this question. I got it last quarter, and the quarter before, and I told you guys, and I stick by that answer still now, we're running it until the end of this fiscal year, which is October, November. And we'll make the call at that time, whether we use the cash to buy or we use the cash, either to buy -- to do an M&A or to buy back our shares.
+
+Stacy Rasgon -- Bernstein -- Analyst
+
+Does that mean that you have to have a deal in mind in October, November? Or could the call be to save the cash for something in the future? Or like if you don't have a deal on the books in October, November, do we see a buyback?
+
+Hock Tan -- President and Chief Executive Officer
+
+Well, more probably, the simple way as far as saying that -- as you correctly say, we're accumulating cash at a fairly dramatic rate. And so by the end of October, our fiscal year, we'll probably see the cash net of dividends and our cash pool to be up to close to $13 billion, which is something like $6 billion, $7 billion, $8 billion above what we would, otherwise, like to carry on our books. So we have to make a call at that -- a decision at that point.
+
+Stacy Rasgon -- Bernstein -- Analyst
+
+That's helpful. Thank you.
+
+Operator
+
+Thank you. Our next question comes from the line of Harlan Sur from J.P. Morgan. Your line is now open.
+
+Harlan Sur -- J.P. Morgan -- Analyst
+
+Good afternoon. Congratulations on the strong quarterly execution and results. Strong free cash flow generation in Q3. You gave us the EBITDA profile for Q4.
+
+And if I use normalized assumptions on cash interest payments, cash taxes, and capex, it looks like the team is going to generate about $13.7 billion-ish, roughly, in free cash flow this fiscal year, which roughly translates into a dividend increase to at least $16.70, maybe a bit more, if the team continues to return 50% of the free cash flow. I guess my question is, on Q4, are there any one-time cash events timing-related dynamics, capex increases, or tax-related events, which we should be considering? Or is my free cash flow and dividend math roughly correct? And then just a quick follow-up. The team has a fairly large footprint of logistics, warehousing, and key suppliers for assembly and test in Malaysia. Just given the significant uptick in COVID-19 cases there, is the team being impacted by potential facilities closures? Or how is the team mitigating this impact?
+
+Kirsten Spears -- Chief Financial Officer
+
+Well, I'll take that first question that you asked, and then I'll have Hock take the second one. Essentially, our policy isn't changing. We're going to return 50% of our free cash flows to our shareholders. And I would say your math is pretty good.
+
+Hock Tan -- President and Chief Executive Officer
+
+You're spot on, Harlan, on your math. Almost.
+
+Harlan Sur -- J.P. Morgan -- Analyst
+
+Thank you.
+
+Hock Tan -- President and Chief Executive Officer
+
+Right. In terms of the concern that you expressed about the resurgence of COVID-19 infections in Malaysia, where we have -- correctly say have a large supply chain team located, you're right. It's challenging, but we are managing very well, I think, our teams there. I would say, practically, 99% of our people in Malaysia have been vaccinated.
+
+We made arrangements with the Malaysian government and ensured that this was done. And this has been done, and so we are able to manage through this resurgence in Malaysia. And we will continue to keep our eye very closely on conditions over there, but for now, I think we are OK.
+
+Harlan Sur -- J.P. Morgan -- Analyst
+
+Thank you. Thanks, Kirsten.
+
+Operator
+
+Thank you. Our next question comes from the line of Vivek Arya from Bank of America. Your line is now open.
+
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+
+Thanks for taking my question. Actually, I just wanted to clarify something, and then have the question. On the clarification, I think, Hock, you mentioned you're shipping to demand. Does it mean you're not seeing any supply shortages? Then that would be very different than what we're hearing from every other semiconductor company.
+
+So I just wanted to make sure I had the right interpretation. And then my question is just kind of the long-term growth rate for Broadcom. In the past, you have mentioned kind of this mid-single-digit kind of growth rate. I understand that this year, right, compares to make it easier to grow faster than that.
+
+But as you look at Broadcom over the next handful of years, do you think you are in a situation to grow better than mid-single-digit growth rate? Like what is missing to make you upgrade, right, that mid-single-digit growth rate, the conceptual forecast that you have provided in the past?
+
+Hock Tan -- President and Chief Executive Officer
+
+OK. Let me take the first question first -- the first part of the question first because I think it's very important and very interesting. It ties into the first question by John Pitzer is, "Hey, why are you guys not shipping like crazy? Are you supply constrained?" That's always overhanging our care about making every wafer count in this environment, and we do that very carefully. And we do that, I believe, very well given -- looking at how well our margins are performing in this environment.
+
+But we also are always, as I said before a few times, the way we manage our supply chain, we pretty much like to carefully scrutinize a demand as defined by ourselves, which is what -- the end-user who need those products. What we also see, and I mentioned that in our Industrial segment in Q3, where resale from a distributor -- as you know, industrial generally goes through -- pretty much go through distributors. The OEM -- the end-users just go to our distributors and wipe out our inventory, most our inventory there. So we show a resale growth of 55%, and we all know that's not real demand.
+
+People are building up buffer. There's a certain level of panic buying. Take that across all segments of semiconductor markets today. You see that kind of behavior unless you -- as core key suppliers, we put in careful discipline to manage supply to where demand is really needed as opposed to where OEMs or even end-users are just building up buffers -- bucket of buffers everywhere.
+
+And that's pretty much what we spend a lot of our time doing. I cannot necessarily say the same of many other semiconductor companies out there, which is probably why John Pitzer is saying, "Well, why are people showing bigger numbers?" We can show big numbers, but that means we will build up inventory in the wrong places. And we need every one of those wafers in this environment, not just this quarter, but next quarter and the quarter after that to ensure that our strategic customers are able to get what they need to launch, to deploy programs. All right?
+
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+
+And on the long-term growth rate, Hock?
+
+Hock Tan -- President and Chief Executive Officer
+
+Oh, on the long -- sorry, I get the most -- well, we like -- I like to believe, like some of you do, that with this recent event and with these things happening, especially COVID-19 creating a change of work habits in this -- in our ecosystem, there is a reset upwards toward a higher consumption of technology, and by expansion, semiconductor chips in the long term. I agree, there has been an accelerated adoption of certain technologies under these lockdown conditions in our lifestyle, economy, over the last 12 -- in the last 18 months. That this accelerated adoption of technology has created a strong grow -- demand for semiconductor products over these 12 months. I agree, and we report those results which we believe are true end demand, as I indicated in my brief -- earlier part of my answer to your question.
+
+That it's now up to high -- mid- to high double-digit teens, so to speak, year on year. That's good. That's very strong. That's a far cry from my model that says semiconductor growth long-term mid-single digits.
+
+But this accelerated consumption does not necessarily create a fundamental shift in our people's ability to consume technology. And when things revert back toward a more normal lifestyle, maybe not this year, maybe next year, or the year after, I would expect this accelerated consumption would reset itself. And then you ask yourself fundamentally over the next 10 years -- five, 10 years, is semiconductor consumption usage going to increase any higher? I find it hard to imagine why it shouldn't if fundamentally we have an industry that's relatively matured, still evolving, still changing, which make it exciting for us, but pretty much been around -- fairly much a long time. And I may be wrong.
+
+I still think it will revert over the next five, 10 years back to a norm. And the question -- your view is, will that norm be high single digits, perhaps, rather than mid-single digits? And you may be right. I don't know the answer to that. But right now, you're right.
+
+We are seeing 15% to 20% year-on-year demand usage of our semiconductor chips. And by the way, we are pretty broad across multiple end markets in applications of semiconductors. So we kind of represent a large part of the overall semiconductor growth. And now there may be particular -- that could grow faster than that mid-single digits, and I do accept that.
+
+But given how broadly broad-based we are, I tend to think we'll revert to what will be the norm. And I cannot disagree with you that the norm might be higher than the mid-single digits I've said before.
+
+Operator
+
+Thank you. Our next question comes from the line of Blayne Curtis from Barclays. Your line is now open.
+
+Blayne Curtis -- Barclays Investment Bank -- Analyst
+
+Good afternoon. Thanks for taking my question. I want to ask you on broadband. It's been running kind of in the 20s year over year.
+
+You said up double digits for Q4. I think last year is an easy compare, so I just wanted to know how literally to take that. I know you said maybe over time that would be the one segment that could moderate. Just want to know if you're signaling anything for October.
+
+Hock Tan -- President and Chief Executive Officer
+
+OK. No, broadband is hot, to cut to the chase. It's hot. It's hot, driven by two things, and I articulated that in my remark: WiFi, WiFi 6.
+
+And WiFi is a big area now that operate -- service providers basically operate -- the telcos and cable operators are using, as part of connectivity, to households globally. And that's -- and we have literally won again a huge part of that market successfully. And we're seeing that trend continuing into next-generation WiFi 6e. But what's also driving WiFi -- broadband, I should say, Blayne, and I mentioned that, is fiber.
+
+Fiber is multi -- several large telcos, Europe, U.S., are investing very big in putting fiber out there to households. It's particularly driven, I guess, to some extent, by political considerations. They want to connect households very well. You hear about British Telecoms are openly saying they want to -- they have a program over the next five, six years to connect over 20 million British households.
+
+Deutsche Telekom is doing exactly the same thing, and so is AT&T here in the U.S., where they have very large program. And these are, as I indicated, multiyear programs, where each of these operators will spend multiple billions of dollars of investment to put that fiber out to the home. And at the end of each node -- fiber node, you have that wireless connectivity, WiFi, within for the last 100 feet in the home. So what I'm implying here is saying, this is not a one-shot thing.
+
+And the thinking in the past that fiber is a kind of boring, single-digit slow-growth business, big changes from our perspective because we are seeing the program from those operators coming. And a big part of it is both U.S. and Europe putting in large broadband in the form of fiber because it's the most effective way, in some ways, economic way, to expand to households and hand-in-hand with 5G network wireless networks out there. It's also very interesting for us, market share-wise, because you used to talk about China doing broadband fiber.
+
+Today, it's beyond that. It's Europe, U.S. And the number of players fighting in this market on technology is much less now given the interesting political events between China and the rest of the world.
+
+Operator
+
+Thank you. Our next question comes from the line of Matt Ramsay from Cowen. Your line is now open.
+
+Matt Ramsay -- Cowen and Company -- Analyst
+
+Good afternoon. Thank you very much. Hock, I noticed in your prepared script that you were a bit more specific about some of the leadership position that Broadcom has in different levels of advanced SerDes, and you maybe called it out a bit more than you had in the past. It's an advantage the company has had in your own switching routing products, but also in being the ASIC -- preferred ASIC shop for a few hyperscale folks.
+
+I wonder if you might -- did you call that out on purpose? Is there something changing there competitively given the scale of your R&D? Do you feel like that lead is expanding, shrinking, staying the same? Any update there would be great. Thank you.
+
+Hock Tan -- President and Chief Executive Officer
+
+Well, that's very perceptive of you, Matt. And the only reason I called that out is because it's true and it's been true for many years. And I just want to reemphasize this point that in terms of being probably the preferred vendor for specialized silicon engines to drive specialized workloads, and I have indicated to you guys what some of those are, especially in hyper cloud. We definitely are in the lead by far in this area, and for the reasons you mentioned.
+
+We have the scale. We have a lot of the IP calls and the capability to do all those chips for those multiple hyperscalers who can afford and are willing to push the envelope on specialized -- I used to call it offload computing engines, be they video transcoding, machine learning, even what people call DPUs, smart NICs, otherwise called, and various other specialized engines and security hardware that we put in place in multiple cloud guys. Just a point of, I guess, reinforcement that we still very much are the leader.
+
+Matt Ramsay -- Cowen and Company -- Analyst
+
+Thank you.
+
+Operator
+
+Thank you this. At this time, I would like to turn the call back over to Ms. Ji Yoo for closing remarks.
+
+Ji Yoo -- Director of Investor Relations
+
+Thank you, operator. In closing, please note that Hock Tan will be presenting at the Deutsche Bank Technology Conference on Thursday, September 9, and the Citi Technology Conference on Tuesday, September 14. Kirsten Spears will participate in the Piper Sandler Tech Conference on September 13. We will also be hosting a Broadcom Software Investor Meeting on Tuesday, November 9, in New York.
+
+Tom Krause, President of Broadcom Software Group, will be leading the event, and senior leadership from our software business will present. We will be sending invitations to analysts and investors in the coming weeks. That will conclude our earnings call today. Thank you all for joining.
+
+Operator, you may end the call.
+
+Operator

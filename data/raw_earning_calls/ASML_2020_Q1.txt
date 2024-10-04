@@ -1,0 +1,228 @@
+Q1.2020 Financial Results - ASML
+Page 1 of 8
+ASML reports €2.4 billion net sales at 45.1% gross margin in Q1 2020
+Strong order intake and currently no change in demand
+ASML refrains from guidance due to increased uncertainty in current environment
+VELDHOVEN, the Netherlands, April 15, 2020 - ASML Holding N.V. (ASML) today’s Investor Call – 2020 firstquarter results.
+Peter Wennink
+Thank you Skip and welcome everyone, thank you for joining us for our Q1 2020 results 
+conference call. I hope all of you and your families are healthy and safe. Before we start our 
+normal quarterly results review, I would like to first talk about the topic on everyone’s mind, 
+which is the COVID-19 pandemic and the situation.
+These are unprecedented and challenging times, the COVID-19 pandemic affects us all. Our 
+primary goal at ASML continues to be to ensure, as best as we can, that our colleagues and 
+their families stay safe. Our second goal is to ensure that we continue to serve our customers 
+and to secure the delivery of our product roadmap, including the continuity of our supply.
+We have been taking, and continue to take, precautionary measures to limit the risks. Most of 
+our non-manufacturing employees now work from home and travel is restricted. In China, our 
+colleagues are returning to the office but also there we remain vigilant.
+In our own facilities, we have implemented restricted access to our manufacturing facilities 
+worldwide, and in particular our cleanrooms, to ensure our colleagues can work safely. We put in 
+place measures to help ensure isolation between shifts. We have also implemented additional 
+safety and cleaning protocols to minimize contamination risks. We work closely with our 
+customers, suppliers and partners to share information and determine best practices.
+We see a lot of creativity, resilience and dedication at ASML and the industry overall as we work 
+to manage through this crisis.
+To date, we have experienced limited impact on ASML’s manufacturing capability, although there 
+have been additional challenges with absenteeism, transportation and support logistics that we 
+have had to manage. Some of the quarantine requirements have had an impact on our 
+efficiency, while travel restrictions have posed a challenge for installs and major upgrades. We 
+are working with our customers to plan ahead and find creative solutions such as the use of 
+remote monitoring, augmented reality solutions and diagnostic technologies to aid in the service 
+and repair of systems.
+Q1.2020 Financial Results - ASML
+Page 2 of 8
+With regards to our supply chain, some of our suppliers have experienced temporary closures 
+resulting from governmental lock down and shelter in place orders. At this stage, we have either 
+been able to work around these temporary disruptions or the closure has been resolved. We are 
+managing risks via alternative sourcing and again a lot of creativity. We are closely monitoring 
+the status and will use safety stock as much as possible to ensure minimum interruption. At this 
+point in time we have been able to find solutions for these challenges.
+Regarding customer demand, we have currently not seen a reduction in demand this year and 
+we have seen a strong order intake. I will talk more on this later.
+On cash management, although we have a very healthy balance sheet as well as flexibility in 
+our cost structure, we feel it is prudent to preserve cash should this situation continue for an 
+extended period of time. Not just for our own operations, but also in order to be able to support 
+our suppliers as best we can in these extraordinary circumstances. Roger will talk more on the 
+detailed actions.
+You will all understand that in this environment it is difficult to determine how things will develop, 
+how long it will last and the impact this will have on the global GDP development that can affect 
+our entire industry.
+We are taking the necessary steps in terms of safety, risk mitigation, and financial measures to 
+best manage through these challenging times. It is very encouraging to see the creativity, 
+resilience and dedication at ASML and the industry overall.
+Now, I would like to turn our normal quarterly results process. Before we begin the Q & A 
+session Roger and I would like to provide an overview and some commentary on the first 
+quarter. Roger will start with a review of our Q1 financial performance with added comments on 
+our short-term outlook. I will complete the introduction with some additional comments on the 
+current business environment and on our future business outlook.
+Roger.
+Q1.2020 Financial Results - ASML
+Page 3 of 8
+Roger Dassen
+Thank you Peter and welcome everyone. I hope you are all safe and healthy.
+I will first review the first-quarter financial results and then make some comments on the second 
+quarter of 2020. I will also provide more detail around measures we are taking with regards to 
+cash management.
+Net sales came in at 2.4 billion euros, below our original guidance of 3.1 to 3.3 billion euros, 
+which was primarily related to COVID-19 impact.
+Net system sales of 1.6 billion euros was again heavily weighted towards Logic at 73 percent, 
+with the remaining 27 percent from Memory, clearly showing the continued strength of Logic 
+business. We actually shipped four EUV systems in Q1 but were only able to recognize revenue 
+on two systems, which I will explain in more detail later.
+Installed Base Management sales for the quarter came in at 857 million euros. This was around 
+100 million euros lower than guided due to lack of access to machine time as well as a delay in 
+acceptance of upgrades, we expect these upgrades to translate to revenue in Q2
+Let me provide a bit more detail on the items that occurred in the quarter that resulted in a 
+system revenue shift of around 700 million euros, consisting of a DUV related revenue shift over 
+200 million euros and EUV related revenue shift of over 500 million euros, primarily related to 
+COVID-19 impact:
+First, we experienced some delays in DUV shipments to customers in Wuhan, China, as well as 
+other customers due to operational and travel restrictions regarding COVID-19. We are working 
+with our customers to prepare for these shipments in the next quarters.
+Second, we experienced some issues in our supply chain as a result of a temporary disruption 
+from EUV component suppliers that encountered operational restrictions due to COVID-19 
+regulations. These supply chain issues have been solved for now. Also, we experienced longer 
+than initially planned EUV cycle times for the first NXE:3400C models in final configuration, 
+primarily driven by the complex deployment of in-line tin refill as part of the modular vessel. 
+Cycle time related to this aspect is now being reduced every week and we are on track to 
+achieving the aspired cycle time reduction envisaged for the end of this year. As you know this is 
+an important element in achieving the capability of 45-50 EUV tools in 2021 and beyond. As a 
+result of the longer than expected cycle times, as well as COVID-19 related supply issues, we 
+saw some delays in EUV shipments for the quarter resulting in fewer system shipments than 
+originally planned.
+Q1.2020 Financial Results - ASML
+Page 4 of 8
+Third, due to concerns around the continued ability to ship systems in the current 
+circumstances, some customers have asked us to expedite the delivery of EUV systems in the 
+quarter by shipping the systems before the normal Factory Acceptance Tests (FAT). The 
+implication of this is a delay in our revenue recognition as final acceptance will now take place 
+after successful installation at the customer site.
+We expect the revenue that we were not able to recognize for Q1 as a result of the issues listed 
+above, to shift to Q2 and Q3 of this year.
+Gross margin for the quarter was 45.1 percent, also below our original guidance primarily due to 
+a combination of delayed field upgrades as well as delayed DUV systems revenue, related to 
+COVID-19 impact.
+Overall operating expenses came within guidance, with R&D expenses at 544 million euros and 
+SG&A expenses at 130 million euros.
+Turning to the balance sheet, 507 million euros worth of shares were repurchased in Q1. We 
+ended last quarter with cash, cash equivalents and short-term investments at a level of 4.1 
+billion euros.
+Moving to the order book, Q1 system bookings came in at a strong 3.1 billion euros, including 
+1.5 billion euros from eleven EUV systems. Logic order intake was 66 percent of the total value 
+with the remaining 34 percent from Memory, again reflecting the continued strong Logic demand 
+for leading edge lithography for this year and next year, but also indicating a recovery of the 
+demand for Memory.
+Net income in Q1 was 391 million euros, representing 16 percent of net sales and resulting in an 
+EPS of 0.93 euros.
+With that I would like to make some comments on Q2 of 2020.
+As Peter mentioned, we have not seen a reduction in demand this year and we continue to see 
+a strong order intake, up around 28 percent from Q4.
+Based on current plans, without any COVID interruption, Q2 can be a strong shipment quarter 
+with revenue up potentially over 50 percent from Q1, and a significant improvement of gross 
+margin. We are still planning to execute to current plan.
+However, due to significant uncertainty in this COVID-19 environment, we decided it is prudent 
+to refrain from giving formal guidance for Q2.
+Q1.2020 Financial Results - ASML
+Page 5 of 8
+Finally, on cash management, although we have a very healthy balance sheet as well as 
+flexibility in our cost structure, we, like many of our peers and customers, are dependent on the 
+short- and longer-term implications of the COVID-19 outbreak. Due to these uncertainties, we 
+feel it is prudent to preserve cash should this situation continue for an extended period of time. 
+Not just for our own operations, but also in order to be able to support our suppliers as best we 
+can in these extraordinary circumstances.
+We have decided not to execute any share buybacks in Q2 2020. This decision follows the 
+pause in the execution of the program in the first quarter, after having already performed share 
+buybacks under the new program for an amount of approximately 507 million euros. The 
+previously announced three-year share buyback program of up to 6.0 billion euros, to be 
+executed 2020-2022, is still in place.
+We have also implemented measures to limit our growth in the workforce. Non-business critical 
+vacancies have been put on hold. We continue to hire for business-critical positions. This way, 
+our workforce will grow less than originally planned this year.
+We are also postponing any non-business critical OPEX and CAPEX. However, we will continue 
+to invest in the development of future technology roadmaps, including High-NA, at an 
+unadjusted pace, in order to allow our customers the continuation of their roadmaps once the 
+situation has been normalized.
+As communicated last quarter, ASML has submitted a proposal at the 2020 Annual General 
+Meeting of Shareholders (AGM) to declare a total dividend for 2019 of 2.40 euros per ordinary 
+share. Recognizing the interim dividend of 1.05 euros paid in November 2019, this leads to a 
+final dividend payment of 1.35 euros to be paid in the second quarter. This is a 14 percent 
+increase compared to the 2018 dividend. The 2020 Annual General Meeting of Shareholders, 
+will take place on April 22 in Veldhoven.
+With that I’d like to turn the call back over to Peter.
+Q1.2020 Financial Results - ASML
+Page 6 of 8
+Peter Wennink
+Thank you, Roger.
+As Roger has highlighted, our order intake is strong and we have not yet seen any significant 
+pushouts or cancellations this year.
+Many investments of our customers are strategic and support their technology roadmaps, a 
+lifeline for our leading-edge customers. These strategic investments are therefore primarily 
+related to leading edge equipment, such as EUV and high-end Immersion scanners, requiring 
+longer lead times and qualification schedules. This was also confirmed recently by leading-edge 
+customers that have also told us that they see an unabated demand for leading-edge devices, at 
+least throughout this year. Keep in mind, the lead time and qualification of lithography systems 
+are the longest in the fab and customers will not want to jeopardize any adjustments to their 
+technology or capacity ramps that will negatively affect their ability to keep serving their leadingedge customers.
+As the current situation is very fluid, we are meeting with our customers on a more frequent 
+basis to understand any changes they may be seeing regarding demand outlook. In general 
+most customers are still indicating that they are continuing relatively normal fab operations so 
+far. Logic customers are currently continuing to ramp their 7/5nm node in support of end market 
+applications like 5G, AI and high-performance compute. There are also some positive signs 
+being reported on data center demand as well as demand for notebook and communication 
+infrastructure driven by the significant increase in work from home and virtual learning activities. 
+These applications drive the demand for both logic and memory. However, it can also be 
+expected that consumer related electronics demand (for example smartphones) may be under 
+stress, in addition to the potential negative impact the COVID-19 crisis will have on GDP.
+We expect Installed Base business to continue to scale with growing installed base numbers 
+and we will also see EUV contribute to service revenue as these systems start running wafers in 
+volume manufacturing. We currently have plans for upgrades at several customers however with 
+the realization there is supply and demand risk in the current environment.
+Our bookings show an increase in Memory over the prior quarter driven by DUV, while Logic 
+continues to show a transition from DUV to EUV ordering as customer confidence in EUV 
+increases, translating into more layers in Logic production.
+On EUV, along with the industry, ASML continues to make progress on ramping EUV technology 
+in high volume manufacturing, as was recently showcased at the SPIE lithography conference in 
+February.
+Q1.2020 Financial Results - ASML
+Page 7 of 8
+Our customers continue to adopt and ramp EUV in high volume manufacturing in both Logic and 
+Memory. One of our Memory customers recently announced that they have successfully shipped 
+one million of the industry’s first 10nm-class DRAM modules based on EUV technology. They 
+also stated EUV will be fully deployed in future generations of DRAM, starting with its fourthgeneration 10nm-class (D1a) next year.
+We continue to target EUV revenue of around €4.5 billion from 35 systems this year, thereby 
+assuming that we will not face any significant supply/ demand risks as mentioned before. On 
+margins for EUV, we continue to drive profitability in both the systems as well as the service 
+business. We are still on track to achieve at least 40 percent system gross margin this year and 
+break even with our EUV service business by the end of year.
+Increased customer confidence in EUV technology is translating to strong EUV demand in both 
+Logic and Memory. This is reflected in the strong order flow in the first quarter in support of our 
+2021 output. As mentioned in earlier calls, we are currently working towards a capacity of 45-50 
+systems in 2021, which we feel can be achieved through reductions in cycle time.
+We continue to make progress on our next generation EUV technology, High-NA, and are on 
+track to ship the initial development systems in 2022.
+Now, regarding our outlook on the quarter and on the year. Based on current customer demand 
+plans and without any COVID interruption, Q2 can be a strong shipment quarter, with significant 
+improvement of GM, as Roger mentioned. We are currently in execution of this plan.
+On the full year, customer demand is currently strong as well and the current shipment plans 
+would position us well for another year of growth.
+However, there is significant uncertainty about how the current COVID-19 crisis will impact the 
+global GDP development, end markets, our manufacturing capability and supply chain. In light of 
+these risks and uncertainties we decided it is prudent to refrain from giving formal guidance for 
+Q2 and for the full year 2020.
+These are unprecedented and challenging times, but we will get through it. The world looks a lot 
+different today than it did three months ago. So it is hard to make predictions and we are 
+certainly not adding opinions. We continue to look at the facts, day by day and act accordingly. 
+We are taking the necessary steps for the safety of our employees, the community and our 
+customers, as well as the necessary risk mitigation and financial steps.
+Q1.2020 Financial Results - ASML
+Page 8 of 8
+I would like to also take the opportunity to thank the entire ASML team, their families, as well as 
+our many partners, who have stepped up in these demanding times in support of our company 
+and our stakeholders. I have seen great examples of teamwork and incredible creativity to make 
+sure that we can continue our work, serving our customers while keeping our people and 
+partners safe.
+Despite the fact that the current environment provides clearly near-term challenges and 
+uncertainties, the positive industry momentum around innovation and expanding new markets 
+further strengthens our confidence in our future growth scenarios.
+With that we would be happy to take your questions.

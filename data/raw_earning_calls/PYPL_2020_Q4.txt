@@ -1,0 +1,496 @@
+
+Fourth Quarter 2020 Buyside Call | February 4, 2021
+Hosted by Credit Suisse
+John Rainey, Chief Financial Officer and Executive Vice President, Global Customer Operations
+Erica Gessert, Senior Vice President, Finance & Analytics
+Gabrielle Rabinovitch, Vice President, Corporate Finance & Investor Relations
+Timothy Chiodo, Credit Suisse
+Operator
+Ladies and gentlemen, thank you for standing by and welcome to the PayPal Group Call hosted by Credit 
+Suisse. And your host Timothy Chiodo. Please go ahead, Sir.
+Timothy Chiodo
+Thanks a lot Operator. Thank you everyone for joining today. We're going do our best to get through a 
+good group of questions here. We're very happy to be hosting this event here. With us we have John 
+Rainey, CFO of PayPal. Gabrielle Rabinovitch, she is the VP of Corporate Finance and IR, and we also 
+have Erica Gessert, who is SVP FP&A and Analytics. So, a full squad here. Thank you, John, Gabrielle, and 
+Erica for being here today.
+John Rainey
+Thanks Tim. We're awfully excited to be able to speak to this group of investors and address the quarter, 
+as well as the outlook for 2021. You know we're coming off the heels of what is clearly our best year 
+ever, measured by any metric that one would pick. And you know we certainly think [we] are one of the 
+companies that have benefited from some of the struggles that others have gone through by lacking 
+mobility and not having the access to physical stores, but we are equally or more excited about what 
+we're doing internally and the opportunity that we have in front of us with a lot of the new product 
+launches that we have. And you know what that bodes for not only 2021, but the years thereafter which 
+we really look forward to speaking with everyone about it on our Investor Day next week. So, all I'll stop 
+there Tim and the three of us are happy to answer any questions that you have.
+Fourth Quarter 2020 Buyside Call | February 4, 2021
+1
+Timothy Chiodo
+That's great. Thanks a lot John. And just as for the audience, there's couple of housekeeping items. We'll 
+look to go about 45 minutes. So, we'll wrap up in about ten minutes before the hour. Also, the earlier 
+questions will be more around guidance numbers [provided at earnings], again the focus here will be 
+very much on Q4 and the 2021 guide. And then we will get into to a few of the more strategic issues. So, 
+let's start with Q4 TPV. So that, strong results there obviously, 36% ex-FX growth. Trends appear to be 
+strong into January and comps are somewhat easier in March and for Q1 overall. So, with that context, 
+maybe we can walk through for investors, how to think about TPV growth progressing throughout 2021 
+in the light of the full year high 20%’s guide? Clearly there's either a headwind ramping a little bit in the 
+first half, but there's the Bill Pay contributions still being very incremental in the first half, so many 
+moving parts. 
+John Rainey
+Sure Tim, I'm happy to do it. And yesterday on the call, I gave some context to the revenue trajectory for 
+2021. And obviously the TPV follows that same trajectory. So, we'll see the peak of growth likely in the 
+first quarter and that's primarily impacted by the extremely soft March that we had last year. And you 
+might remember that at the end of February last year, we released an investor update which detailed 
+the trajectory of volume over the course of the first quarter. And so, it gives one an idea of the comps 
+that we're up against for the first quarter. As we get into the second quarter, the reverse is true, that 
+was sort of the peak of shelter in place. And everyone being locked down and all the pantry packing and 
+things that were taking place. And so, we've got much more difficult comps in that quarter. But then as 
+we get through the back half of the year, well I should check before I go there. 
+Also, with the eBay impact is more pronounced in the first half of the year as well. They made bigger 
+strides in their movement to manage payments in the back half of 2020. And so, we're lapping sort of a 
+period in the first half of the year where, they did not have as much volume moved over there. So, the 
+roughly 400 basis point impact we highlighted for the year will actually be greater than that in the first 
+half of the year. 
+But as we get to the back half of the year, this is where I think we get to more normalized growth rates 
+and you know we have a number of things working there, but I think underpinning assumptions is the 
+launch of several new products. We have a lot of our initiatives that are going live either at the end of 
+the second quarter or in the early part of the second half of the year. And we're dependent upon the 
+execution of those to really drive some of the results that we're seeing.
+Timothy Chiodo
+Excellent, thank you John. All right, in the interest of time, why don't we move on to take rate topics so 
+we can perhaps recap some of the dynamics from Q4 and touch on some of the cadence puts and takes 
+over the course of 2021. So, for Q4 2020, take rate came in at about 2.05% which was as mentioned 
+about down 20 basis points year over year. That was maybe a tad lighter than what we had modeled 
+Fourth Quarter 2020 Buyside Call | February 4, 2021
+2
+and some of the dynamics called out there - obviously P2P and BillPay, less eBay, [currency] hedge loss 
+swinging maybe four basis points or so year over year. Maybe you could break down some of the 
+components of that 20 basis points and try to maybe put some rough sizing on the various impacts. And 
+perhaps, if there was anything else there. Is there anything with maybe large merchants or cross 
+border?
+John Rainey
+Sure Tim. Happy to do that. So first let me address I think that the concern that everyone has when they 
+look at unit revenue or take rate is it's somewhat an indication of the health of the revenue stream. And 
+so first let me allay any concerns that from a same store sales basis, our take rate is essentially flat, 
+there's no decline related to merchants pricing or anything like that. The results are several fold, but it's 
+primarily a result of the mix change in our business. And so, let me point to two or three examples which 
+I think will shed some light on that.
+So, you noted the hedges, whether you're taking the 21 or 28 basis point decline depending upon which 
+take rate you're looking at. They're about 5 points to that related to the hedge losses. It's roughly a $100 
+million change in the hedge loss verses the hedge gain last year. And we all know that's around from the 
+gain to a loss from one period to the next. So, I don't think that's really indicative of sort of the overall 
+health of the revenue that we're generating.
+We also saw really outsized growth in P2P again. So, our P2P payment volumes grew 46% in the quarter. 
+And you know that's basically increasing that denominator with virtually no increase in the numerator in 
+that. But to be very clear these are customers that are paying one another through a digital wallet which 
+is displacing cash. We absolutely love that. That's the kind of engagement that we want.
+We've often said that our biggest competitor is cash, not any of the other players in this ecosystem. And 
+so, what we'll take that decline in take rate all day long because we see that a customer that engages 
+with us this way has a much higher lifetime value than one that doesn't. And then lastly, I would just 
+generally cast everything else into the bucket of mix changes in our business. And those included things 
+like the growth at bill payment. It also includes the decline of eBay, that we talked about in the new year 
+with eBay representing about 6% of our volume.
+But you know these are all things that we talked about. eBay is something that we believe we can easily 
+transition through without any major impact to our revenue and margins. And from Bill Pay, I would say 
+you should want us as investors to continue to diversify our platform. This is a great thing, because what 
+we see as we add additional products like this, and we give our customers additional opportunities to 
+engage with us in a different manner than just shopping online, there's a stickiness to those customers. 
+And the lifetime value of those goes up much more. And I know there's a lot of fixation on take rate, but 
+if you just take Bill Pay as an example, Bill Pay comes at a very low take rate. 
+It also comes at a very low transaction expenses. So that's why we often try to point people to the 
+transaction margin in our business. And as we noted on the call yesterday, the incremental transaction 
+margin that we had in the fourth quarter was three quarters of a billion dollars in the quarter. That's 2x 
+what it was [in the same period] last year. And you know that's the kind of strength that we want to 
+continue to see in our business, and that's why we don't overly focused on just Take Rate without 
+looking at the rest of the picture.
+Fourth Quarter 2020 Buyside Call | February 4, 2021
+3
+Erica Gessert
+Hey John, this is Erica. I'll just add in. Particularly on the Bill Pay point, I just want to emphasize this 
+which is, you know Bill Pay is like a subscription for our consumers essentially as they adopt Bill Pay 
+they’re vaulting us and it becomes like a monthly subscription. [W]ithin our [current] ecosystem our 
+subscription customers are some of our absolutely most valuable customers. And so again to the point, 
+you know maybe lower take rates but these are by far some of the stickiest customers we've got.
+Timothy Chiodo
+Thank you, Erica and John. Great points, I think well taken that the take rate is all about mix 
+components. And thank you for breaking those down. The underlying pricing is very stable, it's these mix 
+components. That’s very helpful. Why don't we just move quickly to the take rate cadence as we think 
+about the rest of the year, simply because we have crypto revenue rolling into some extent, beginning in 
+Q1 which goes into transaction revenue, but the trading volumes do not add to TPV. But then also as 
+you mentioned earlier John, the eBay headwinds are a little bit more first half weighted in terms of their 
+impact. So how can we think about the cadence of take rate over the course of the year implied in the 
+guidance?
+John Rainey
+I would say the fourth quarter is probably the best proxy right now. We're going to have with a weaker 
+dollar, we're going to benefit from the translation of those international revenues back into the U.S. But 
+at the same time, we hedge for the bottom line, so we'll have hedge losses related to that. We'll see 
+again the mix changes related to eBay, as we wean ourselves off of them as a large customer. And then 
+Bill Pay will continue to ramp up through the year. So, you know I think the fourth quarter is probably a 
+pretty good proxy for how to think about the trajectory of take rate throughout 2021.
+Timothy Chiodo
+All right, excellent. Thanks a lot. Okay, let's move on, you touched on this earlier John. So maybe this is a 
+good point to do a quick follow up here. So, the eBay migration, of course you called out the 400-basis 
+point headwind for this year, which actually was a little bit better or slightly less impact than what we 
+had modeled originally. So, on that, maybe you could talk about before we get into the numbers and the 
+volumes versus repricing. That 4% headwind, should we think more about that pace of the migration 
+changing or is it just the fact that eBay as an underlying business is doing a little bit better?
+Erica Gessert
+Fourth Quarter 2020 Buyside Call | February 4, 2021
+4
+Hey, maybe I'll take this one Tim. This is Erica. So just, you know overall if you think about the kind of 
+400 basis points it's really about the pace of migration. I mean in general if you think about what's 
+relevant with the eBay trajectory and our results. You know eBay had a very good year last year. You 
+know I think that, from the headwind point of view, there may be a little bit of fluctuation in growth 
+rates versus quarters, right, that we're assuming similar to our own trajectory.
+But the mechanics that are really the most relevant for projecting eBay out, they are two things; the 
+pace of migration to managed payment and our own share of check out. And so, you know the pace of 
+migration will be expected to continue through the year. You know they are round about 50% right now. 
+And then you know we also, you know we have about a 60% share of checkout, right now across eBay 
+managed payments. And we don't see kind of, we don't see any change in that. That continues to be 
+very strong and those are the two most relevant aspects. 
+Timothy Chiodo
+Erica, that's very helpful. So, on a related follow up to that, maybe we could just talk through 
+mechanically one step deeper on that just for investors. We often get this question, we think about it as 
+one part forgone volumes that come out at roughly 4% take rate or so, and then one part of the repricing. So maybe we can just touch on those. And for the re-pricing, maybe we can just talk about some 
+of the mechanics behind how that might be a more gradual change in some of the factors there.
+Erica Gessert
+You know honestly, I wouldn't focus it on any kind of fluctuation in managed payments pricing as kind of 
+as a modeling aspect to be honest. You know as we shift over to managed payments, we're already 
+coming down to market rates versus our previous take rate. And so, you know yes certainly there's 
+fluctuation like with any large merchant, global merchant that we have. There's fluctuation with geos 
+and other things, but it's not a very material aspect to how to model the impact from eBay.
+John Rainey
+Yeah, I would just add Tim that you know there is a little bit of a step down, but it's not as if there's a 
+second shoe to drop on this. Once eBay moves to their managed payment experience, that's really the 
+bulk of the impact of our P&L. 
+Timothy Chiodo
+All right, John, Erica. Thank you, that's really helpful. Again, not a not a big one. I just want to make sure 
+we cover it, it’s an often asked question. All right let's move on to some of the revenue drivers. So one 
+of the highlights last night was the $750 million here in buy now pay later (BNPL) [volume] that was 
+Fourth Quarter 2020 Buyside Call | February 4, 2021
+5
+disclosed in Q4. We think about this offering longer term in terms of the success that we think about, 
+increasing awareness. And really that has to do with two things.
+The first is advertising to consumers, so that they just know, that when they sort of get to the end of the 
+tunnel when PayPal is on a website, a buy now pay later offering will be there. And we've seen some of 
+the YouTube ads that you have been running related to that. The second piece is working with 
+merchants to be shown further up into the shopping experience. And last night, you disclosed the 
+14,000 merchants that are already well ahead of the curve in doing that. Maybe you could just touch a 
+little bit on those two angles in terms of helping to increase the awareness of the PayPal BNPL offerings.
+John Rainey
+Sure, happy to do that Tim. So, you know that's one of the beauties of our platform is that, when you 
+talk about providing awareness to consumers, we control that experience. We present that dynamically 
+in the wallet today to those customers that are eligible. And you know we are constantly tweaking and 
+testing that to make sure that we have the very best presentment to get those customers that want to 
+use a product like that, to be able to avail themselves of it. So that is, it's great that we have the 350 
+million plus customers that we can eventually present that to all of them, that have that option.
+On the merchant side, you know so the merchant sort of indirectly gets the benefit of buy now pay later, 
+whether they've integrated or not. Because we control that in the wallet. Now the merchant chooses to 
+have that presented further upstream and the checkout channel that requires a little bit effort on their 
+part, but obviously from the number of merchants with which we've already integrated, it's not a very 
+involved effort. 
+But that's the beauty of this product, is that if you’re a merchant, first of all, we can demonstrate that 
+you're going to see for higher click through on completion of those purchases, you're going to see a 
+higher basket size, they bear no risk. And by the way, we're offering them up a customer base of 350 
+million people that have access to that. And you know this is all done at no incremental costs for the 
+merchants. So, you know to be very clear this is, arguably one might characterize this as a crowded 
+space, there's a lot of people playing in this space. But I think PayPal is positioned to be one of the 
+winners here. We have a value proposition that is frankly second to none here. And our ability to control 
+that integration, to provide those kind of experiences to our consumers and merchants alike, makes us 
+very unique in this experience.
+Timothy Chiodo
+Excellent John. Just to stay on this topic, given it’s of such high interest. I realize, probably you 
+mentioned this, that you're not pricing for it, it's part of the value of accepting of having the PayPal mark 
+on your website. But is it fair for investors to think of this is potentially take rate protective if you will, 
+meaning maybe longer term this could help you in negotiations with larger merchants and platforms or 
+it would give you a potential ability to increase rack rate at some point down the line, in the spirit of 
+pricing for value.
+Fourth Quarter 2020 Buyside Call | February 4, 2021
+6
+John Rainey
+It's perhaps fair to think of it that way, and certainly I think when this first really got our focus and 
+attention, it was somewhat of a defensive posture on our part is because I said before Tim like, we often 
+get asked about how we fare and share of checkout versus the competition. And generally speaking, we 
+fare extremely well and don't see losses and share of checkout related to other payment offerings or 
+digital wallets that are out there.
+An exception to that, frankly historically it's been these installment pay type products, where that's 
+presented further upstream, we would actually see some of our share of check out diminish for certain 
+products. And so that really informed our strategy around this. Rather than go out and charge four, five, 
+six percent as some of these others are to a merchant to provide this product, let's take an approach 
+where we somewhat protect our share of checkout, but then moved to the offense. And I think that's 
+kind of you know already three months into this, that's where our head is. That this is no longer 
+defensive to protect take rates. It's like how we move to the offense to see our share of checkout grow 
+to something greater than what it even was prior to this offering.
+Clearly there is a demand for this product among certain demographics that don't have these traditional 
+revolving credit relationships that you know my vintage of customer sort of grew up with. And I think 
+having a complementary payment offering with the other products that we put out there, clearly there's 
+a huge appetite for. And we think that when you combine this with other things like you know the 
+potential to integrate this into Honey's experience, and things like that in the future. But this is clearly 
+something that will move from just protecting take rate to where we can really be on our front foot and 
+be on the offense with this.
+Timothy Chiodo
+Okay, great. So why don't we touch on that one really quick, because that was one of the follow up 
+questions, I wanted to ask around the potential combination with Honey. Maybe you could just bring 
+that to life briefly. Would it be something along the lines of the user setting a price that they'd be willing 
+to pay, and then it would be sort of auto purchase with Pay in 4 and therefore they might be willing to 
+increase their basket size knowing ahead of time that this installment offering would be available.
+John Rainey
+Well eventually, we want to bring all of Honey's technology and experiences into the PayPal 
+experiences, and that's the path that we're on right now. And that would include buy now pay later. So, 
+you know if you're a Honey customer and you've selected an item that you want to purchase at a certain 
+price. And then you're now made aware that that's available to you at a certain merchant. You know 
+having that installment pay option, I think it even further enhances the value proposition to that 
+customer. So, we certainly want to include all of those rich and robust experiences that we're going to 
+have with Honey into the buy now pay later experiences also.
+Fourth Quarter 2020 Buyside Call | February 4, 2021
+7
+Timothy Chiodo
+Excellent, thank you John. And you made some very well taken points around check out share earlier, 
+and that definitely resonates. And I realize, it might be a little bit harder to pull out separately what's 
+incremental, what's just share gain organically ex-BNPL. But we got asked often last night and this 
+morning around, what might be implied in the 2021 guidance for, any sort of a ramp into revenue 
+associated with these offerings.
+John Rainey
+Well, so we certainly have built into our assumptions and expectation around continuing to roll out the 
+buy now pay later experience. So specifically, we rolled out buy now pay later in the first three months 
+in Germany, France, the UK and the US. And we intend to cast that net even wider as we go through 
+2021. 
+But if you think about how that will manifest itself in the P&L for us, the income statement for us. You 
+know because it is not revolving type credit. The only fees that are directly associating with this would 
+be late fees. And so, from a credit perspective this is not a big driver of something like other valueadded services. Instead what you should see is the continuation or acceleration of transaction revenues, 
+as we do increase our share of checkout with many of these merchants.
+Erica Gessert
+We actually are seeing as we have upfront presentment of BNPL. We are in fact already seeing some of 
+those conversion increases for merchants that have it. So, we do have some incremental transaction 
+revenue in our outlook for 2021, but from the total PayPal point of view, it’s probably not material.
+Timothy Chiodo
+Okay. Great. Erica, thank you for that. All right. I think we've covered BNPL quite well. Why don't we 
+move on to the next topic of interest Venmo monetization? Clearly, you talk about the $900 million 
+number in 2021, combination of pay with Venmo and instant transfer, debit cards, the new credit card, 
+maybe we can talk through some of those or all of those time permitting and specifically drilling in on 
+pay with Venmo and what is changing in Q2 in terms of the roll out and what we should expect to see.
+John Rainey
+Sure. So, Tim I don't want to front run too much of what we're going to say at investor day. We're going 
+to have a lot of good information that I think this audience will appreciate at investor day about Venmo. 
+I guess I would generally say or share that I am probably as excited about the prospects of Venmo right 
+now more than any time in its history. We had some fits and starts there to be clear and you mentioned 
+Fourth Quarter 2020 Buyside Call | February 4, 2021
+8
+pay with Venmo. I mean I'll directly get to your question in a moment, but I think a little bit of context is 
+important because the type of experience that we anticipated rolling out pay with Venmo initially had to 
+change and that's because the landscape changed, the environment in which we were operating 
+changed and getting in to how long cookies are kept in browsers and things like that, but to be clear 
+we've pivoted, we've adapted to that and we're excited about being able to roll out pay with Venmo in a 
+much more pronounced fashion this year.
+Historically, we've talked about the various monetization buckets of Venmo where the instant 
+withdrawal has been the primary driver followed by the card and then pay with Venmo. I've consistently 
+said that longer term everyone should expect that pay with Venmo will be the biggest driver there and 
+now we're on a path we're beginning to see that and quite excited about that and some of those 
+experiences that we will roll out later this year, but that's also complemented with QR codes, business 
+profiles, and our card experience particularly on the Venmo credit card. I mean really I think it's best in 
+class and I know I'm not the most objective person to say that, but if you haven't gone through that 
+experience, I think it's a glimpse into the type of credit card experiences that one will have in the future, 
+probably with any issuer because it is so good where you have the ability to do something in an offline 
+setting, but have an in-app experience associated with that where you can still split the payments, you 
+can still comment on it.
+This social aspect to this platform is so unique and partly what draws the customer base that we have 
+today. So, quite excited about this and we're going to get into some numbers at investor day where we 
+start talking about average revenue per user and then what the real opportunity is here, but I think 
+maybe just a kind of a leading indicator there that we are excited to announce the $900 million [2021 
+revenue forecast for Venmo] last quarter that we expect and for it to be break even on a transaction 
+margin perspective this year. Those are I think two important marks through the history of Venmo that 
+people have been long looking for. As we get into 2022, we expect that it'll be basically breakeven on an 
+overall basis down at the operating margin level and then from there, it's like let's scale this thing, put 
+our foot on the gas to really see the art of the possible.
+Timothy Chiodo
+All right. Great. Thank you, John. Okay. We'll look for more on Venmo at the investor day. Why don't we 
+move then to OVAS briefly and we could touch on how investors should be thinking about the cadence 
+of OVAS over the years. So, clearly you mentioned credit’s rebounding, but also, we have to consider 
+some of the lingering impacts from lower originations in 2020, also Honey seems to be doing quite well. 
+There's the interesting component. Maybe we could talk about some of the components and the 
+cadence throughout 2021 implied in the guide.
+John Rainey
+Sure. So, let me start with credit because I think it's important to note that as we said before, we 
+manage credit at sort of a bottom-line perspective, the overall P&L. So, as the risk environment was 
+more elevated in this part of last year or the first quarter of last year, we tightened originations quite a 
+bit and the effect of that is there's a tail to it, right. Revenue and income that we would expect to 
+receive from those revolving relationships whether it be with merchants or consumers is impacted in 
+Fourth Quarter 2020 Buyside Call | February 4, 2021
+9
+2021. So, that's going to continue to be an area of our business for this year that is growing much, much 
+slower than the rest of PayPal. So, there's a lingering impact to that. We also are impacted by the 
+interest income that we earn on our customer balances.
+One of the things that we've seen through this last nine months or so, last nine or ten months, is we 
+have had a lot more customer balances on our platform. So, we benefit from that additional volume, but 
+the interest rate environment has come down with all this fiscal stimulus. There are people far more 
+appropriate to opine up on that to me, but I don't expect that to change in the near future. So, I think 
+we're in probably a low interest rate environment for a while and so that'll have an impact on our P&L 
+probably pretty consistent to what we saw in the fourth quarter of 2020. Then lastly, I mentioned 
+Honey. Honey is a high growth part of our business. It will offset some of the pressures that we see in
+the other value-added services line and we're quite excited about continuing to expand those 
+experiences and provide them to the rest of the PayPal customer base.
+Timothy Chiodo
+Excellent. Okay. Thank you for covering that John. Why don't we move on to transaction expense rate? 
+So, clearly, it's been a low number which is a strong result, 82 to 84 basis points the last few quarters. 
+Clearly, the funding mix has been benefiting. There's some mix shift with less Braintree meaning less 
+travel and events (T&E), less credit card, more debit and just a broader increase in the use of debit. 
+Overall in the market this year P2P helps that, Bill Pay helps that, but generally speaking, how should we 
+think about the cadence of that number clearly T&E ramping as a piece of it, but investors are often 
+asking “do we go back to prior levels”, should we float up towards pre-COVID levels and how can we 
+think about the phasing?
+John Rainey
+Yeah. The way you frame that I think is really the reflective of what the questions that investors have. 
+There are so many things that are impacting that. People are wondering [how to] model in a longer 
+term. So, let me start with what may be the answer is and then talk about sort of all the various impacts. 
+We have clearly benefited from the number of things that you delineated there and that's brought our 
+transaction expense to record low levels. Do we expect them to stay at this low 80 basis points forever? 
+Probably not is the answer, but by the same token, we don't expect them to go back up to the level that 
+they were prior to the pandemic. So, probably somewhere in between those marks I think in the near 
+term being, let's call the next four to eight quarters, I think that mid-80s basis point is probably a good 
+way to think about this.
+So, let me talk about the various impacts there. So, certainly we've seen a shift to debit as others have 
+mentioned during this time period. That was more pronounced in the second quarter when the stimulus 
+measures that impacted that, but even as we look at fourth quarter results, while not at second quarter 
+levels, the debit mix was higher than what we've seen historically. So, there's an element of that. There's 
+also as we continue to see strong branded PayPal experiences or check out, that can secure or have a 
+lower funding costs, skew you a little bit more to debit and ACH or balance than some of the other 
+verticals that we have. So, that's going to continue to, I think, suppress that number or keep it at a lower 
+level. Bill Pay, is something that you mentioned.
+Fourth Quarter 2020 Buyside Call | February 4, 2021
+10
+As we diversify our platform as these things have an impact on take rate, they also have an impact on 
+transaction expense. So, that'll help mute any inflation in that number. Then lastly, I would say P2P. I 
+talked about this in one of the earlier questions, but we've got just enormous growth and huge 
+opportunity with what we can do around P2P, which carries a very low transaction expense traditionally 
+with that. So, all of these things I think result in a place where we're going to have a much lower 
+transaction expense than what we entered this time frame. On P2P specifically, let me be really clear 
+about like this is I think some people maybe discount that because it probably doesn't have the same 
+revenue associated with it, but this is cash displacement, this is what we want in our business, this is the 
+journey that we're on, this is a glimpse into the next five years of our future. This is absolutely what we
+want to see. So, I'm not concerned about take rate impact from more P2P and quite frankly you see the 
+benefit in the transaction expense line.
+Erica Gessert
+Hey John, I just had one other thing. This is Erica again on transaction expense. It's not a huge
+proportion of our transaction revenue now, but as buy now pay later actually continues to grow, the 
+vast majority of that volume is debit funded as well and so that's also going to be a nice benefit for us as 
+we go forward.
+Timothy Chiodo
+Yeah. Thank you on that mix point Erica. It's very helpful. All right great. In a little bit of time we have left 
+here, why don't we try and kill two more topics here. One, we'll try and hit transaction and loan loss and 
+then we'll hit on cryptocurrency and that'll likely take us to the end. So, on transaction and loan loss, we 
+often talk about this. So, I mean we talked about take rate, we talked about transaction expense, the 
+other component to get to transaction margins is transaction and loan loss which was an impressive 
+number this past quarter. In 2018, you made an acquisition that really didn't get too much attention, 
+Simility, and you essentially said this company will help us reduce our transaction loss and essentially it's 
+done exactly that ever since, and you hit a record of 10 basis points in Q4. So, maybe we can just talk a 
+little bit about that line item. It was 10 and three, 10 from transaction loss, three from credit and how 
+that could look over the course of the year and what is implied in the guidance.
+John Rainey
+Sure. I'll jump in and Erica can add anything that she wants. I think it's helpful to understand that 
+transaction loss can be affected from one quarter to the next by fraud, tax and various other things that 
+can create sort of anomalous upticks or downticks from one quarter to the next, but as I've sort of laid 
+the bread crumbs over the last four or five quarters to your point on Simility, the improvements that 
+we've seen are really related to improvements in capabilities that are very much associated with the 
+acquisition of Simility as well as taking learnings from what they've done in integrating it with some of 
+our best in class risk experiences. So, this is something that I think is if you're sitting in front of your Excel 
+model and thinking about how to model the future, you should continue to see sustained lower levels of 
+transaction losses.
+Fourth Quarter 2020 Buyside Call | February 4, 2021
+11
+Now to be clear, maybe not at the 10 basis points, that's an all-time low, but we've consistently been 
+sort of below that 15 basis point mark for several quarters now and these are sustainable trends that we 
+have in our business. I think to understand that better, it's one thing to have algorithms and risk models 
+and AI to address the risk, but those are only as good as the data that you put in them. As we have data 
+on 377 million customers around the world that are transacting with us at increasing rates each year, 
+that's more ammunition for that gun that we have. So, it's sort of a powerful one-two combination that 
+only gets better with more data. So, we're quite excited about what the improvements have been here, 
+and this is something that you should expect to be sustainably at this lower level.
+Timothy Chiodo
+Excellent. Thank you, John. All right. I think we covered that one quite well. With the time remaining, 
+why don't we hit the last topic here around cryptocurrency. So, in terms of the trading aspect of 
+cryptocurrency, clearly the fees are disclosed on your website and there's also a small spread element 
+and then of course there's the pay-away to your partner in Paxos, and I believe the revenue has 
+reported net of that. So, with that context, maybe you could talk a little bit about how you're thinking 
+about that business' contribution to the guidance for 2021. I believe we mentioned it's not an overly 
+meaningful number, but maybe we could conceptualize that a little bit more in terms of the revenue 
+clearly where it hits in terms transaction revenue, etc.
+John Rainey
+Sure. Let me start at a higher level here Tim, because I think when I describe some of the elements of 
+this and it in fact is not a material driver of our revenue or earnings performance in 2021. It almost 
+might seem incongruent with our excitement around this. To be very clear like, I think Dan was asked 
+the question yesterday which product we're most excited about, it's a tough choice and crypto is right 
+up there. This has been one of the most successful product launches that we've had. We're a trusted 
+platform, and I think you had a lot of the crypto curious that have been sort of milling around the sides 
+and debating getting into this and PayPal provides a trusted brand with security for people to get into 
+that. I think very, very importantly for us is like if you look at the future, we want to be a destination 
+app. We want to be that type of app where someone's coming every day and crypto plays right into that 
+and the results that we've seen already just validate that, it's confirmatory.
+People are engaging with us at twice the rate they were prior to after having bought or sold crypto on 
+our platform. So, we're exceedingly excited about this, and I think that it's got a very, very promising 
+future. So, all that said, let me explain sort of the impact on our P&L. First of all, we account for this on a 
+net revenue basis, not a gross revenue basis like others. To account for it on a gross revenue, our 
+thinking is that it's almost like calling TPV revenue.
+So, we're simply picking up the transaction fee that we charge when someone buys crypto on our 
+platform. So, there's a couple of elements to this. So, if you just use, an example, someone buying 100 
+dollars of crypto and then take that. So, we recognize a spread of 50 basis points on what that customer 
+buys that crypto at versus what we have to acquire the crypto from Paxos. So, there's 50 basis points 
+there and then we charge a transaction fee, and that transaction fee is on a sliding scale, but for 
+argument’s sake let's say it's 2%. So, in that case, we would have two dollars of revenue that we would 
+Fourth Quarter 2020 Buyside Call | February 4, 2021
+12
+charge for that. So, when you think about the volumes that are out there, what we're recognizing as 
+revenue, while higher margin, is relatively small with the overall volume.
+The second point I would say is that some have I think conflated volumes on itBit with the volumes that 
+we're seeing on our platform. We are in no way the majority of the volumes on itBit. We are a share of 
+that, but that's not an appropriate proxy to look at what's happening on that platform and assume that 
+PayPal is benefiting by a commensurate amount. So, this is not going to be a huge driver when you think 
+of us being a 25 plus billion-dollar revenue company in 2021. This is not going to be a huge driver in that 
+context, but again with that sort of context, that doesn't take away from our excitement about this at 
+all. This is I think just a really shining example of the types of products and experiences that we want to 
+continue to add to the digital wallet to frankly make us that destination app.
+Timothy Chiodo
+All right. Excellent John. That covered that a little bit more quickly. Why don't we just wrap this last 
+piece into just one here and we can wrap up here in a minute or two. Maybe one, I want to allow you to 
+have some time here to have a closing statement in terms of the quarter and the guide and ahead of the 
+investor day obviously, but also maybe you could just briefly make a comment on the discretionary OpEx 
+spend this year and sort of the overall growth cadence and the non-transaction expense base, and how 
+that might work over the course of the year.
+John Rainey
+Sure. Happy to do that. So, I noted yesterday, we don't give OpEx guidance for the year, but we give 
+revenue and EPS, so one could go back into that and 2021, if you look at that implied OpEx growth, 
+about 75% of that I would characterize in the same fashion that we characterize the $300 million in the 
+back half of last year. These are call them discretionary or go to market type investments in a lot of the 
+initiatives that we have here. So, that shows that of the 25% that's left, our platform is scaling at an 
+exceedingly low cost.
+Again, we should continue to see that into the future as far as we can see. We're at a point right now 
+where we have the ability to do that. Now not to say that we don't have additional improvements that 
+we can make in our platform to make it even more efficient, that's frankly a never ending journey, but 
+the vast majority of the expense growth that we're going to see in 2021 is related to all these initiatives 
+as we said like now is the time to invest. This is a seminal moment I think in digital payments, and I know 
+people are excited about it, but not all these things are going to happen overnight particularly as you 
+think about QR code or contactless payments, these are multiyear efforts that we need to invest into 
+and invest into go to market, to consumer awareness, to employee knowledge things like that and we'll 
+see the benefit of that in the years that are in the future, but I'll point you to one last number again.
+I think I talked about this on the earnings call yesterday, but I think a good way to look at the margin 
+profile -- are the incremental margins and the incremental organic margin that we had in our business, 
+operating margin I am talking here, in the fourth quarter was 32%, higher than the rest of our business. 
+That demonstrates the scalability of our platform and by the way, that's with that investment that we 
+earmarked the $300 million in the back half of the year. That's with the bulk of that spending being in 
+Fourth Quarter 2020 Buyside Call | February 4, 2021
+13
+the fourth quarter. So, we're at a place where we're able to continue to grow our margins, we're able to 
+continue to invest in our business and very importantly continue to generate the free cash flow margins 
+that we have historically that I think give us just another arrow in our quiver as we think about the 
+competitive landscape and the ability to go out and acquire companies or acquire capabilities or talent 
+or whatever the case may be to compete in this ecosystem in the future.
+Timothy Chiodo
+Excellent. With that, I want to say thank you to John Rainey, Gabrielle, Rabinovitch, and Erica Gessert
+for being here with us today. This is excellent. We got through almost every single one of the questions. 
+I think we covered them in a very thorough manner. Thank you so much for making yourself available. I 
+am sure all the investors on the line appreciate it. Everyone has a great rest of the day.
+John Rainey
+All right. Thank you, Tim, and thank you everyone else. Stay safe.
+Operator
+With that ladies and gentlemen, we thank you for your participation in today's program. You may now 
+disconnect.

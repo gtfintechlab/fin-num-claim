@@ -1,0 +1,731 @@
+Corrected Transcript
+1-877-FACTSET www.callstreet.com
+Total Pages: 16
+Copyright © 2001-2019 FactSet CallStreet, LLC
+17-Oct-2019
+Atlassian Corp. Plc (TEAM)
+Q1 2020 Earnings Call
+Atlassian Corp. Plc (TEAM)
+Q1 2020 Earnings Call
+Corrected Transcript
+17-Oct-2019
+1-877-FACTSET www.callstreet.com
+2
+Copyright © 2001-2019 FactSet CallStreet, LLC
+CORPORATE PARTICIPANTS
+Martin Lam
+Senior Manager-Investor Relations, Atlassian Corp. Plc
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc
+Jay Simons
+President, Atlassian Corp. Plc
+James A. Beer
+Chief Financial Officer, Atlassian Corp. Plc
+Michael Cannon-Brookes
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc
+......................................................................................................................................................................................................................................................
+OTHER PARTICIPANTS
+Heather Bellini
+Analyst, Goldman Sachs & Co. LLC
+Gregg Moskowitz
+Analyst, Mizuho Securities USA LLC
+Keith Eric Weiss
+Analyst, Morgan Stanley & Co. LLC
+Arjun Bhatia
+Analyst, William Blair & Co. LLC
+Robert Majek
+Analyst, Raymond James & Associates, Inc.
+Alex Kurtz
+Analyst, KeyBanc Capital Markets, Inc.
+J. Derrick Wood
+Analyst, Cowen and Company
+Nikolay Beliov
+Analyst, Bank of America Merrill Lynch
+Gray Powell
+Analyst, Deutsche Bank Securities, Inc.
+Luv Sodha
+Analyst, Jefferies LLC
+Jack Andrews
+Analyst, Needham & Co. LLC
+Rishi N. Jaluria
+Analyst, D. A. Davidson & Co.
+George Iwanyc
+Analyst, Oppenheimer & Co., Inc.
+Atlassian Corp. Plc (TEAM)
+Q1 2020 Earnings Call
+Corrected Transcript
+17-Oct-2019
+1-877-FACTSET www.callstreet.com
+3
+Copyright © 2001-2019 FactSet CallStreet, LLC
+MANAGEMENT DISCUSSION SECTION 
+Operator: Good afternoon. Thank you for joining Atlassian's Earnings Conference Call for the First Quarter of 
+Fiscal 2020. As a reminder, this conference call is being recorded and will be available for replay from the 
+Investor Relations section of Atlassian's website following this call. 
+I will now hand the call over to Martin Lam, Atlassian's Senior Manager of Investor Relations. 
+...................................................................................................................................................................................................................................................... 
+Martin Lam
+Senior Manager-Investor Relations, Atlassian Corp. Plc 
+Good afternoon, and welcome to Atlassian's first quarter fiscal 2020 earnings conference call. On the call today, 
+we have Atlassian's Co-Founders and Co-CEOs Scott Farquhar and Mike Cannon-Brookes; our Chief Financial 
+Officer James Beer; and our President, Jay Simons. 
+Earlier today, we issued a press release and a shareholder letter with our financial results and commentary for 
+our first quarter of fiscal 2020. These items were also posted on the Investor Relations section of Atlassian's 
+website at investors.atlassian.com. 
+On our IR website, there is also an accompanying presentation and data sheet available. We'll make some brief 
+opening remarks then spend the rest of the call on Q&A.
+Statements made on this call include forward-looking statements. Forward-looking statements involve known and 
+unknown risks, uncertainties, and other factors that may cause our actual results, performance, or achievements 
+to be materially different from any future results, performance, or achievements expressed or implied by the 
+forward-looking statements. You should not rely upon forward-looking statements as predictions of future events. 
+Forward-looking statements represent our management's beliefs and assumptions only as of the date such 
+statements are made. Further information on these and other factors that could affect the company's financial 
+results is included in filings we make with the Securities and Exchange Commission from time to time, including 
+the section titled Risk Factors in our most recent Form 20-F and Quarterly Report on Form 6-K.
+In addition, today's call, we will discuss non-IFRS financial measures. These non-IFRS financial measures are in 
+addition to and not a substitute for or superior to measures of financial performance prepared in accordance with 
+IFRS. There are a number of limitations related to the use of these non-IFRS financial measures versus the 
+nearest IFRS equivalents, and there may be differences from non-IFRS and non-GAAP measures used by other 
+companies. A reconciliation between IFRS and non-IFRS financial measures is available in our earnings release, 
+our shareholder letter, and in our updated investor data sheet on our IR website. 
+I will now turn the call over to Scott for opening remarks before we move to Q&A. 
+...................................................................................................................................................................................................................................................... 
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc
+Thanks, gentlemen, for joining today. We're out of the box in good form in fiscal 2020. This quarter we grew 
+revenue by 36% year-over-year and generated more than $62.4 million of free cash flow. We also added over 
+7,000 net new customers during the quarter and now have more than 159,000 customers in total. 
+Atlassian Corp. Plc (TEAM)
+Q1 2020 Earnings Call
+Corrected Transcript
+17-Oct-2019
+1-877-FACTSET www.callstreet.com
+4
+Copyright © 2001-2019 FactSet CallStreet, LLC
+This quarter, we introduced two important new additions of our Cloud offerings: Free and Premium. Our disruptive 
+business model continues to win new customers, both large and small, and these new additions offer them more 
+choice and capabilities. We want it to be easier and less costly for teams to get started in the Cloud and grow with 
+us as they need to change and become more complex.
+Premium illustrates the increased sophistication of our enterprise cloud offerings, providing large companies the 
+flexibility and the tools they need. We are also excited to have acquired Code Barrel, the creator of Automation for 
+Jira. As a platform for managing work and workflows, Jira is in a unique position to help automate manual steps in 
+a workflow to help people and teams advance work more efficiently.
+Automation is increasing [indiscernible] (03:30) customers because it helps them move faster and collaborate 
+more effectively. Automation for Jira is already used by thousands of teams, and this is another important step as 
+we continue to enhance our Cloud products. We provided more detail on these announcements along with many 
+other updates in our shareholder letter that was issued earlier today.
+And with that, I'll pass the call over to the operator for Q&A.
+......................................................................................................................................................................................................................................................
+QUESTION AND ANSWER SECTION
+Operator: Certainly. [Operator Instructions] Your first question comes from the line of Heather Bellini with 
+Goldman Sachs. Your line is open.
+......................................................................................................................................................................................................................................................
+Heather Bellini
+Analyst, Goldman Sachs & Co. LLC Q
+Great. Thank you so much for taking the question. I wanted to ask a little bit just because there's been some 
+concern over the past few days about if you've started to see any change in the customer buying patterns, right –
+I mean, I know you guys don't have a direct sales force, but I know James has obviously seeing different cycles 
+from time to time being at different companies. But any sense that there's been any change in the demand 
+environment?
+And then I had a follow-up question. Just if you could share with us anything about any potential impact you saw 
+from the from the price changes. If there's a way to help think about the impact on the quarter or whether we 
+should be thinking about it more similar to kind of the fiscal year 2018 price increase where the timing was more 
+similar or is it potentially more like last's year in terms of the behavior in deferred revenue. Thank you.
+......................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Hey, Heather. Let me start off with our answers. First of all, I wouldn't say we've seen any material change in 
+customer buying patterns. We've been pleased by the results, the overall strength right across the product set and 
+our different deployment options. So, nothing material in that regard. Reaction to price increase, Jay, if you want 
+to start off with that one, and then I can come back on some of the timing items.
+......................................................................................................................................................................................................................................................
+Jay Simons
+President, Atlassian Corp. Plc A
+Atlassian Corp. Plc (TEAM)
+Q1 2020 Earnings Call
+Corrected Transcript
+17-Oct-2019
+1-877-FACTSET www.callstreet.com
+5
+Copyright © 2001-2019 FactSet CallStreet, LLC
+I think similar to how we've reported in the past, it was in-line with expectations. So I think customers – and part of 
+that is just around the plan that we do that goes into the increases that we do communicate to customers and the 
+way we communicate those price increases to customers. So I think we're pleased with how it's been adopted.
+......................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Yeah. And in terms of the timing, we announced our price increases at the start of this past September. And so a 
+couple of weeks earlier then was the case a year ago and so more in-line with the timing of fiscal 2018. And so for 
+that reason, we expected that there would be some additional customer activity in Q1 as there was in Q1 of fiscal 
+2018, and that there would be potentially some of that bleeding over into Q2 as well, again, as there was in fiscal 
+2018.
+......................................................................................................................................................................................................................................................
+Heather Bellini
+Analyst, Goldman Sachs & Co. LLC Q
+Great. Thank you so much.
+......................................................................................................................................................................................................................................................
+Operator: Your next question comes from the line of Gregg Moskowitz from Mizuho. Your line is open.
+......................................................................................................................................................................................................................................................
+Gregg Moskowitz
+Analyst, Mizuho Securities USA LLC Q
+Okay. Thank you very much. Good afternoon, guys. I found it interesting just in follow-up to Heather's question 
+that your EMEA revenue growth actually reaccelerated this quarter just given again some of the macro and other 
+concerns that we've all heard about. Is there anything that you would call out with respect to your strong execution 
+in EMEA?
+......................................................................................................................................................................................................................................................
+James A. Beer
+Chief Financial Officer, Atlassian Corp. Plc A
+Thank you, Gregg, for the question. Recall that over half of our partners are based in EMEA. We have over 500 
+partners around the world, and they have tended to be quite active helping their customers, our customers step in 
+front of the price increases. We saw this in the last couple of years. And while that activity generally impacts our 
+deferred revenue balances, there are, I think as we've discussed in the past, a couple of revenue drivers there as 
+well. And so that is a part of what's driving those strong results. So, both in EMEA and in APAC as well.
+......................................................................................................................................................................................................................................................
+Gregg Moskowitz
+Analyst, Mizuho Securities USA LLC Q
+Okay, that's really helpful, James. Thanks. And then just as a follow up, I realize that we're only one quarter, of 
+course, into fiscal 2020 but just relative to your prior guidance for the cloud mix shift to cause because a 100-
+basis-point revenue growth headwind for the year. Have you seen anything at this point that perhaps might tilt you 
+in one direction or another or do you still feel that's probably the right landing spot for the Cloud impact this year? 
+Thank you.
+......................................................................................................................................................................................................................................................
+James A. Beer
+Chief Financial Officer, Atlassian Corp. Plc A
+Yeah, and I would continue to say that that 1-point headwind to revenue growth year-over-year is what we're 
+expecting. Recall, that there were three elements to that when we talked about it 90 days ago. The first, launch of 
+Atlassian Corp. Plc (TEAM)
+Q1 2020 Earnings Call
+Corrected Transcript
+17-Oct-2019
+1-877-FACTSET www.callstreet.com
+6
+Copyright © 2001-2019 FactSet CallStreet, LLC
+Free editions of Jira software and Confluence. The second thought that we would offer free trials of our Cloud 
+product to the user of that same product behind the firewall.
+And then the mix shift that you're referring to in the question. And one of the other things to recall is that we just 
+rolled out the Free versions of Jira software and Confluence just quite recently. And so, continue to be of the view 
+that that 100-basis-point headwind is the right way to think about those three issues combined.
+......................................................................................................................................................................................................................................................
+Gregg Moskowitz
+Analyst, Mizuho Securities USA LLC Q
+Okay, terrific. Thanks very much.
+......................................................................................................................................................................................................................................................
+Operator: Your next question comes from the line of Keith Weiss from Morgan Stanley. Your line is open.
+......................................................................................................................................................................................................................................................
+Keith Eric Weiss
+Analyst, Morgan Stanley & Co. LLC Q
+Thank you, guys, for taking the question, and very nice quarter. Two questions. One on sort of the new customer 
+adds, you, I guess, have been adding customers at a really nice clip, saw a really good growth in that net new 
+customer adds this quarter of like 20% on a year-on-year basis. Anything in particular driving that's kind of 
+stronger new customer adds in Q1? And anything in there that wouldn't be repeatable for the rest of the year? 
+Number one.
+And number two, another acquisition, sort of going deeper into sort of the opportunity around Jira and some of 
+that core IT. We haven't heard as much about this stuff outside of the IT department. Can you just give an update 
+on kind of how we're thinking about the opportunity for Jira outside of the IT department? And is the focus still 
+there in the same way it had been historically in terms of expanding the use cases outside of those core IT's 
+cases?
+......................................................................................................................................................................................................................................................
+Jay Simons
+President, Atlassian Corp. Plc A
+Hey, Keith, Jay here. I'll take the first part, and then hand it off to Mike on the second one. In terms of customer 
+growth, really contribution across the board from all the major products that contribute to the new customer adds. 
+As we talked about last quarter, there's one component in there related to the monetization improvements that we 
+introduced to Trello around board limits for team usage. And there is some nascent pent-up demand within the 
+existing customer base that's contributing to the number, not in a materially outsized proportion, but it is in there. 
+And that's maybe one component as we roll through a year of those monetization improvements in the base that'll 
+moderate a little bit.
+......................................................................................................................................................................................................................................................
+James A. Beer
+Chief Financial Officer, Atlassian Corp. Plc A
+And just one thing to add on to that briefly, we continue to see more than 90% of those new customers going 
+straight to our cloud services. Mike?
+......................................................................................................................................................................................................................................................
+Michael Cannon-Brookes
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Yeah. Hi, Keith. Look, we obviously continue to remain bullish and focused on the opportunities both inside and 
+outside the IT and software department. You referenced the acquisition of Code Barrel. Obviously, Automation is 
+Atlassian Corp. Plc (TEAM)
+Q1 2020 Earnings Call
+Corrected Transcript
+17-Oct-2019
+1-877-FACTSET www.callstreet.com
+7
+Copyright © 2001-2019 FactSet CallStreet, LLC
+an area that we already have quite a variety of offerings in now in Trello, in Opsgenie, and we had some 
+Automation features in Jira Service Desk.
+This really lets us expand that Automation offering across the whole Jira platform. So when you talk about non-IT 
+teams, where does that mainly exist? Obviously, Jira Core, just for business workflow and process management 
+at all sorts of levels, this Automation fits directly inside of that sweet spot for companies that are modeling all sorts 
+of processes on top of Jira already. This just gives them extra super powers.
+And then within Service Desk, it's also incredibly important because Service Desk, while it continues to land very 
+strongly in IT, does expand very well outside of IT to all sorts of other flow-based teams within an organization, be 
+it in legal or finance or HR, workplace management, any of these sorts of things, that Automation obviously works 
+very well in those areas as well. Obviously in this case, Automation doesn't affect Trello or Confluence or anything 
+else we sell outside to business teams. But from an Automation point of view, yes, very, very strong for the whole 
+Jira platform both inside and outside IT.
+And obviously for us, the core of that business is a bunch of really kickass people that came from Atlassian to 
+start with. So we know the people really well and I think it's going to work really well. We're very happy.
+......................................................................................................................................................................................................................................................
+Keith Eric Weiss
+Analyst, Morgan Stanley & Co. LLC Q
+Excellent. Thank you, guys.
+......................................................................................................................................................................................................................................................
+Operator: Your next question comes from the line of our Arjun Bhiata (sic) [Arjun Bhatia] (13:11) from William 
+Blair. Your line is open.
+......................................................................................................................................................................................................................................................
+Arjun Bhatia
+Analyst, William Blair & Co. LLC Q
+Hey, guys. Thanks for taking the question. Maybe I just wanted to follow up on the acquisition that you were just 
+talking about. Just to try to get a better understanding of how you might integrate this into Jira and how you might 
+monetize it, I think I read that it's largely sold through the marketplace today. But can you maybe just walk us 
+through how the monetization model might work? Is this something that you plan to introduce on the Premium 
+products only or is this going to be widely available across all Jira tiers?
+......................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Arjun, Scott here. Look, we've had some success. We acquired Butler and did something similar where we had a 
+lot of success at packaging and part of it in our Premium, [indiscernible] (14:02) part of it in our also a standard 
+offering to customers to get a taste of it. And [ph] the industry growth (14:07) position, I think we'll also have some 
+existing customers particularly around the existing companies in terms of transition period. So there's a lot of 
+things to consider there, but we do think it will help bolster our Premium offering over time, and this is something 
+our customers are really interested in.
+......................................................................................................................................................................................................................................................
+Arjun Bhatia
+Analyst, William Blair & Co. LLC Q
+Great. Thanks. And then maybe on the freemium products that you launched, the freemium for all the three tiers 
+of Jira and Confluence. Can you just give us a sense of what you're seeing from customers in the initial phases of 
+this launch? I know it's still early, but are you seeing a big uptick of new customers coming in into that Free tier?
+Atlassian Corp. Plc (TEAM)
+Q1 2020 Earnings Call
+Corrected Transcript
+17-Oct-2019
+1-877-FACTSET www.callstreet.com
+8
+Copyright © 2001-2019 FactSet CallStreet, LLC
+And maybe on the other side, what are you seeing from existing customers that used to be paying but might have 
+– moving down to the Free tier? Thank you.
+......................................................................................................................................................................................................................................................
+Michael Cannon-Brookes
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Yes. Well, if I think about our disruptive model over the years, like we've always tried to make sure our products 
+are accessible for every size company. The start-ups is coming out of university. People are just starting to treat 
+us as an organization all the way up to people that use our things with 30,000, 50,000 people and to expand that 
+gamut.
+And that we've always had our pricing to appeal to that. If I would go back to 20 years when we started and with 
+the Fortune 500 could afford software and we pioneered the model to make software affordable to companies of 
+all sizes.
+And if you go down with Free and Premium, it's continued to improve that in the Cloud. And on the Premium side, 
+it's making sure our largest customers have the features that they need to continue their expansion in the Cloud 
+or to move their on premises deployments to the Cloud. And on the Free side of things, it's around to make sure 
+again that those companies at the moment charge – cover all the months that the [ph] barrier (16:01) of the credit 
+card, if we can remove that, we believe there'll be a large increase in the funnel there.
+Now one on the Free, I think your specific question was how much it's opened the funnel. We're not in positioned 
+to talk through that at the moment. So apart from saying that we are pleased by the results internally of how that 
+is going, but it's still early days, and we'd want to look at some of those things from cohorts over a long period of 
+time to make sure that it really uplifts. But irrespective I guess of the short-term benefit, the long-term benefit is 
+ensuring that every single companies of every size can use Atlassian's products.
+......................................................................................................................................................................................................................................................
+Arjun Bhatia
+Analyst, William Blair & Co. LLC Q
+Okay. Thank you.
+......................................................................................................................................................................................................................................................
+James A. Beer
+Chief Financial Officer, Atlassian Corp. Plc A
+And just to emphasize what I was mentioning earlier about that effect of Free being embedded within that one 
+point headwind to our revenue growth rate in FY 2020.
+......................................................................................................................................................................................................................................................
+Arjun Bhatia
+Analyst, William Blair & Co. LLC Q
+Thanks, James.
+......................................................................................................................................................................................................................................................
+Operator: Your next question comes from the line of Michael Turits with Raymond James. Your line is open.
+......................................................................................................................................................................................................................................................
+Robert Majek
+Analyst, Raymond James & Associates, Inc. Q
+Atlassian Corp. Plc (TEAM)
+Q1 2020 Earnings Call
+Corrected Transcript
+17-Oct-2019
+1-877-FACTSET www.callstreet.com
+9
+Copyright © 2001-2019 FactSet CallStreet, LLC
+Hi. This is actually Robert Majek on for Michael. It sounds like Opsgenie is doing really well as part of the 
+Atlassian family. Can you just give us some more color there, the changes you've made that led to an accelerated 
+growth rate? And maybe more broadly, if you can just talk more about the long-term opportunity for that asset.
+......................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Michael, it's Scott here again. We [indiscernible] (17:19) thought about the Opsgenie acquisition. We just actually 
+had a party in our office to celebrate one year of closing last night. So it's great. It seems like only yesterday. The 
+acquisition is doing really well inside Atlassian and [ph] if you'll get a space (17:36), the incident management 
+companies around the world are struggling to how do they release software at a faster pace. How do they keep 
+up with their competitors? And are you seeing a whole movement around things like DevOps? And a big part of 
+that is making sure that when incidents happen, as they naturally do, that people can respond quickly and have 
+the right people available, and that's what Opsgenie does.
+Now, Opsgenie, we're pleased with some of the integration that we've done on the product side, the identity side, 
+on the user space side, but I still think we have a lot of opportunity there to put those products together with our 
+large existing base. And we have seen a doubling of the rate of [indiscernible] (18:19) since we acquired the 
+company. I think we'd put in our shelves later. And that's been great. And we still think we have a long way to go 
+in terms of introducing our existing customers to the Opsgenie product.
+......................................................................................................................................................................................................................................................
+Robert Majek
+Analyst, Raymond James & Associates, Inc. Q
+Appreciate it.
+......................................................................................................................................................................................................................................................
+Operator: Your next question comes from the line of Alex Kurtz with KeyBanc Capital Markets. Your line is 
+open.
+......................................................................................................................................................................................................................................................
+Alex Kurtz
+Analyst, KeyBanc Capital Markets, Inc. Q
+Yeah. Thanks. I just want to follow up on that thread, just in your shareholder letter talking about the Free tier 
+doubling the pace of growth for Opsgenie from a user perspective. When you see that kind of result, is that how 
+you might think about future M&A that you can really accelerate a product in market where maybe as a standalone entity, a company just can't get to that kind of growth rate? That might change how you think about future 
+M&A, or do you think that was really specific to the markets that Opsgenie serves? So I guess the question is 
+when you see that impact, do you think you guys might want to be a little bit more aggressive in M&A?
+......................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Yeah. I'll take that. Scott here. And Mike might want to add something at the end. When we think about M&A, we 
+think a couple of things. Firstly, it's got to be a great culture fit for the company. That's first and foremost. It's very 
+hard to change culture. Second, it has to be a mission fit. So there's no point acquiring companies that don't work 
+with our mission which is to unleash the potential of every team.
+And third is the business model fit. It's more difficult though not impossible to change a company's business 
+model, take it from low volume, high price to high volume, low price, for example, is a difficult thing. And then after 
+that, we consider technical and other things.
+Atlassian Corp. Plc (TEAM)
+Q1 2020 Earnings Call
+Corrected Transcript
+17-Oct-2019
+1-877-FACTSET www.callstreet.com
+10
+Copyright © 2001-2019 FactSet CallStreet, LLC
+And so if we do find companies that align with our mission, with our culture and with our business model, we will 
+consider them. And we do believe that our base of 159,000 customers and millions of teams around the world is 
+something they're interested in other products that we can bring to market for them, both acquisitions and new 
+products that we'll develop organically.
+So any opportunity is really large. We're not about kind of acquiring stuff for revenue's sake. There's a lot of things 
+that we could – just random things introducing to our customer base that may bring short-term revenue but don't 
+bring us closer to our mission, and we want to be very disciplined about not going out to those types of 
+opportunities.
+......................................................................................................................................................................................................................................................
+Alex Kurtz
+Analyst, KeyBanc Capital Markets, Inc. Q
+Great. Thank you.
+......................................................................................................................................................................................................................................................
+Michael Cannon-Brookes
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Yeah. I would just add one small thing. Obviously you've seen us make a series of changes in Opsgenie and it's 
+obviously we're generally pleased about how it's going. I do believe companies have a DNA. We obviously have a 
+long-term philosophy, a DNA of having a long-term philosophy and making changes [ph] that have patience 
+(21:16) over the long term. As Scott mentioned, 159,000 customers. We have a massive distribution engine for 
+software, but you still have to have fantastic applications with really great feature sets.
+Opsgenie has the best features in the market, and we have an ability to put a disruptive price against it to really 
+make a huge dent. I think that fits our DNA in a really, really good way. So part of the reason we've been so 
+excited about the team since they've come on board, and we're starting to see some pretty great results. Taking 
+our model up against big enterprise software is something that we're very familiar with doing, have almost 20 
+years now history of success in doing so and intend to continue that.
+......................................................................................................................................................................................................................................................
+Operator: Your next question comes from the line of Derrick Wood with Cowen and Company. Your line is open.
+......................................................................................................................................................................................................................................................
+J. Derrick Wood
+Analyst, Cowen and Company Q
+Great. Thanks. And nice job on the quarter. I wanted to touch on what you're seeing in terms of rate of activity 
+from customers moving from server to either Data Center or Cloud. And I guess on Cloud specifically, now that 
+you've got Cloud Premium out, I know it's still very early, but, I mean, as you look over the next 12 to 24 months, 
+do you see migration being more gradual as enterprises slowly get more comfortable or do you see perhaps more 
+of a hockey shape just with more acceptance of Cloud and the advance that you're making with your Premium 
+SKU?
+......................................................................................................................................................................................................................................................
+Jay Simons
+President, Atlassian Corp. Plc A
+Hey, Derrick, Jay here. We talked a little bit about this on the last call. I mean, we're seeing increasing interest in 
+Cloud generally but also in Cloud from our server customer base. And so part of what we've been invested, we 
+made big investments in migration tooling just to make that process simple. We've made some pricing calibration 
+adjustments to make it easier for customers to move. And then we're working a lot more closely with customers to 
+make sure that the planning of that move and the implementation of that move is smooth.
+Atlassian Corp. Plc (TEAM)
+Q1 2020 Earnings Call
+Corrected Transcript
+17-Oct-2019
+1-877-FACTSET www.callstreet.com
+11
+Copyright © 2001-2019 FactSet CallStreet, LLC
+I think and just in terms of the demand environment, it's increasing at a steady clip. And I think what we've 
+signaled last quarter is just the investments that we've made over the past year and just the readiness to make 
+sure that when customers do want to move, because it is both – in some cases it's a re-platforming. It's saying I'm 
+going to take an instance that I have three or four or five years of history with, and I want to move that smoothly 
+from infrastructure that I'm hosting to managing to infrastructure that I no longer have to manage because 
+Atlassian can do a better job of it for me.
+And then Data Center is a little bit of a different, not even a migration pattern, it's basically an upsell from a 
+standard version of server on-prem to a high availability instance of the on-prem infrastructure, and that's still a 
+motion that really, really large customers are choosing, which is fine because we're celebrating the customers' 
+choice to either remain on-prem or go to cloud if they want to.
+......................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+And just a couple of things to emphasize what Jay was saying there. We're obviously very pleased with the rate of 
+growth of our subscription business, which encapsulates both our Cloud and Data Center business. So that grew 
+50% in Q1. And then you mentioned the potential effect of Cloud Premium. As I've said in the past, I wouldn't 
+expect Cloud Premium offerings for JSW and Confluence to drive the material revenue effect in FY 2020. I think 
+we see the benefits of that downstream.
+......................................................................................................................................................................................................................................................
+J. Derrick Wood
+Analyst, Cowen and Company Q
+Got it. Okay. Thank you.
+......................................................................................................................................................................................................................................................
+Operator: Your next question comes from the line of Nikolay Beliov with Bank of America. Your line is open.
+......................................................................................................................................................................................................................................................
+Nikolay Beliov
+Analyst, Bank of America Merrill Lynch Q
+Hi. Thanks for taking my question. Just a follow-up on the last question, you've put in place channel incentive, 
+product incentive, pricing incentive to steer the server customer base to the Cloud version. Do you envision this 
+being, I don't know, like two-, three-year process or five-, six-year kind of like transition of that installed base and 
+the $400 million worth of maintenance to Cloud?
+......................................................................................................................................................................................................................................................
+Jay Simons
+President, Atlassian Corp. Plc A
+I mean, the transition will happen over years. It'll be gradual.
+......................................................................................................................................................................................................................................................
+Nikolay Beliov
+Analyst, Bank of America Merrill Lynch Q
+Okay. And, James, question for you, you raised the revenue guidance for the year in-line with the Q1 bid. I'm just 
+wondering what kind of puts and takes you're considering for the rest of the year as you provided the updated 
+guidance for the year? Thank you.
+......................................................................................................................................................................................................................................................
+James A. Beer
+Chief Financial Officer, Atlassian Corp. Plc A
+Atlassian Corp. Plc (TEAM)
+Q1 2020 Earnings Call
+Corrected Transcript
+17-Oct-2019
+1-877-FACTSET www.callstreet.com
+12
+Copyright © 2001-2019 FactSet CallStreet, LLC
+Well, this is the midpoint of our original guide 90 days ago, we've obviously raised beyond the Q1 beat quite 
+substantially, and this reflects our ongoing confidence, as I said, right at the outset of the call across the products 
+and across the deployment options. So really, that's the logic behind the moves that we've made today on the 
+guide.
+......................................................................................................................................................................................................................................................
+Nikolay Beliov
+Analyst, Bank of America Merrill Lynch Q
+All right. Thank you.
+......................................................................................................................................................................................................................................................
+Operator: Your next question comes from the line of Gray Powell from Deutsche Bank. Your line is open.
+......................................................................................................................................................................................................................................................
+Gray Powell
+Analyst, Deutsche Bank Securities, Inc. Q
+Great. Thanks for taking the question. So on an absolute dollar basis, you added more revenue to the 
+subscription line than any prior quarter ever. I know you're not going to give exact numbers, but like maybe 
+broadly speaking, how much of that is being driven by just normal demand versus customers shifting from server 
+to cloud?
+......................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Well, I would say that the gradual server-to-cloud transition is building momentum, but what I really would say –
+and when you think about that subscription growth rate, it just represents the underlying strength of both the 
+Cloud business and the Data Center business. So we're pleased by how both of those business lines are growing 
+very substantially.
+......................................................................................................................................................................................................................................................
+Gray Powell
+Analyst, Deutsche Bank Securities, Inc. Q
+Got it. Thanks.
+......................................................................................................................................................................................................................................................
+Operator: Your next question comes from the line of Brent Thill with Jefferies. Your line is open.
+......................................................................................................................................................................................................................................................
+Luv Sodha
+Analyst, Jefferies LLC Q
+Hi. This is Luv Sodha on for Brent Thill. Congrats again on a strong quarter. I had a couple of questions. One was 
+given the impressive subscription year-over-year growth rate of 50% this quarter, I know last quarter you guys 
+mentioned that you would hit – grow over 40% year-over-year for subscription. So is there any update to that?
+And then the second question was really that this is the first time you guys have done price increases on the Data 
+Center product. So has there been any initial reaction to that and from customers if you have seen that?
+......................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Yes. So let me take the first part of that. So in terms of the subscription business, we guided at the outset of the 
+year that we thought we could beat 40% growth year-over-year. Obviously the Q1 result is a very nice down 
+payment, if you will, on achieving that objective. So, nothing to update around that at this time. In terms of the 
+price increase activity around Data Center customers, Jay, would you want to take that one?
+Atlassian Corp. Plc (TEAM)
+Q1 2020 Earnings Call
+Corrected Transcript
+17-Oct-2019
+1-877-FACTSET www.callstreet.com
+13
+Copyright © 2001-2019 FactSet CallStreet, LLC
+Jay Simons
+President, Atlassian Corp. Plc A
+Yeah. I know it's a fine reaction. I mean, the price increase in Data Center was super nominal as you mentioned. 
+It was the first adjustment we made to Data Center pricing since introducing it four years ago.
+......................................................................................................................................................................................................................................................
+Luv Sodha
+Analyst, Jefferies LLC Q
+Great. Thank you.
+......................................................................................................................................................................................................................................................
+Operator: Your next question comes from the line of Jack Andrews with Needham. Your line is open.
+......................................................................................................................................................................................................................................................
+Jack Andrews
+Analyst, Needham & Co. LLC Q
+Well, good afternoon. Thanks for taking the question. I was wondering if you could speak about the broader 
+demand trends in competitive landscape as it relates to Trello. It seems like in this broader collaboration space, 
+more companies are increasing some focus and investments there. So I was wondering, are you seeing any sort 
+of inflection in the demand for more general collaboration tools?
+......................................................................................................................................................................................................................................................
+Michael Cannon-Brookes
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Yeah, good day, mate. Look, I mean, I would say more general collaborations will continue to be something as 
+that growth as business evolves, right? People are getting more comfortable with using these types of tools. You 
+have obviously people joining the workforce who are incredibly comfortable with mobile-based collaboration apps 
+and things like that, but nothing unusual in the last quarter over a general shift towards collaborative tools both, as 
+we would say, in specific domain.
+So I would argue that Jira, Confluence, other tools we have are actually modern collaboration tools. They have all 
+of the modern collaboration features from our Teamwork Platform but focus on specific domains, whether it be 
+project management, workflow management or document collaboration, but nothing particularly changing other 
+than a general movement in our direction, which is obviously the way we intend to be.
+......................................................................................................................................................................................................................................................
+Jack Andrews
+Analyst, Needham & Co. LLC Q
+Great. Thank you.
+......................................................................................................................................................................................................................................................
+Operator: [Operator Instructions] Your next question comes from the line of Rishi Jaluria with D.A. Davidson.
+Your line is open.
+......................................................................................................................................................................................................................................................
+Rishi N. Jaluria
+Analyst, D. A. Davidson & Co. Q
+Hey, guys. Thanks for taking my questions. Two here. First, on Trello, I mean, now up to 50 million users. Can 
+you maybe help us understand if you've seen pretty good traction in specific industries, lines of business within 
+organizations, specific geographies? And alongside that, on the monetization side, I know you introduce board 
+members relatively recently and that seems to be helping but maybe help us understand what the path to 
+monetization for Trello looks like going forward.
+Atlassian Corp. Plc (TEAM)
+Q1 2020 Earnings Call
+Corrected Transcript
+17-Oct-2019
+1-877-FACTSET www.callstreet.com
+14
+Copyright © 2001-2019 FactSet CallStreet, LLC
+And then on the Automation for Jira and the acquisition there, maybe just help us understand the technology a 
+little better. Is this similar to the Butler acquisition for Trello or is this more robust maybe even slightly similar to an 
+RPA offering? Thanks.
+......................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Rishi, I'll certainly take the first half there. I guess I could take second half too. Look, on Trello we continue to be 
+extremely positive. As we said in the shareholder letter, we passed 50 million registered users this quarter, which 
+is again a huge jump on last year and continues to power along really nicely. So, as we say pretty much every 
+quarter to you, guys, the first goal is to continue Trello growing the way it's growing. And I think we're sort of 
+ticking that box and continue to travel well there.
+Those users are all across the globe. It's a very global phenomenon. It's an application that works as well in 
+Android in Brazil as it does in iOS in America or on a desktop in Australia. So in terms of a global application, it is 
+very, very large, and I think we're showing in the numbers that we can continue to grow it very strongly. We are, 
+as you mentioned, starting to monetize it more in the last sort of 6 to 12 months, seeing good traction happening 
+there.
+Just in terms of managing how we separate between the free and paid offerings, you mentioned board limits. A 
+few other small tweaks and changes we've made to monetization and pricing. I would just say again that comes 
+from my sort of long-term patient philosophy as a company and our DNA of being very, very expert at how we 
+optimize pricing for different customer groups and customer segments, and make sure that that drives, firstly, 
+growth, and then second, value to Atlassian after we deliver value to our customers.
+And Trello is no different there. The only difference with Trello, I point out, we're still not actively cross-flowing 
+users to other Atlassian properties yet. It's on the list, we'll get there, but we're not actively looking at today. The 
+other two parties are taking more of that in the short term.
+I guess I can take the Automation for Jira. Look, technologically, I'm not sure what depth you want in answer to 
+that question. It's similar to Butler in some ways in terms of how, I guess, it works in Automation, obviously built 
+completely differently. Inside of the Jira stack, it's a very different world.
+For the basics of things like RPA, for sure, you could use it to automate some of this, but it's not – I wouldn't say 
+it's a competitor to RPA tools in that way. It's more about automating, I guess, repetitive – or tasks that you don't 
+necessarily need to do.
+So I've given the example of our legal team uses Service Desk very heavily to manage incoming contracts and 
+move them around. They can look for missing fields, missing data, other things they would need, and bounce it 
+straight automatically back to the user to get more information or to move it to the next stage in the workflow 
+without one of our very expert lawyers with their legal degrees having to spend time moving tickets around, which 
+they shouldn't have to do, right? They want to focus on high-value work that leverages their skills, and Automation 
+just lets us take that to our millions and millions of Jira users around the world. So I think we're incredibly positive 
+about the impact it can have.
+......................................................................................................................................................................................................................................................
+Rishi N. Jaluria
+Analyst, D. A. Davidson & Co. Q
+Great. That's helpful. Thank you.
+Atlassian Corp. Plc (TEAM)
+Q1 2020 Earnings Call
+Corrected Transcript
+17-Oct-2019
+1-877-FACTSET www.callstreet.com
+15
+Copyright © 2001-2019 FactSet CallStreet, LLC
+Operator: Your next question comes from the line of George Iwanyc with Oppenheimer. Your line is open.
+......................................................................................................................................................................................................................................................
+George Iwanyc
+Analyst, Oppenheimer & Co., Inc. Q
+Thank you for taking my question. So just another one on Code Barrel from an expense perspective, is the 
+acquisition going forward some expenses and is that kind of embedded with maintaining the operating margin 
+guidance?
+......................................................................................................................................................................................................................................................
+James A. Beer
+Chief Financial Officer, Atlassian Corp. Plc A
+Yeah, that's – George, we've embedded all of that within the guidance. That's right.
+......................................................................................................................................................................................................................................................
+George Iwanyc
+Analyst, Oppenheimer & Co., Inc. Q
+Are you accelerating investment in other areas internally as well?
+......................................................................................................................................................................................................................................................
+James A. Beer
+Chief Financial Officer, Atlassian Corp. Plc A
+Well, I wouldn't point to any particular acceleration driven by the acquisition per se. Obviously, we're very pleased 
+to be adding the Code Barrel team. And as I say, we've catered to each of the effects there within the guide that 
+we've issued.
+......................................................................................................................................................................................................................................................
+George Iwanyc
+Analyst, Oppenheimer & Co., Inc. Q
+Okay. And just broadly speaking on the IT side, has the competitive dynamics changed at all with the ramp of Jira 
+Service Desk and Opsgenie and all the other efforts that you're doing focused right there?
+......................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Scott here. The competitive dynamics I don't think have changed significantly over the last couple of quarters. So 
+we feel increasingly confident about our position. As we've sort of mentioned before, IT and software have 
+become increasingly closer together and that's an area that we have a real strong market position given we have 
+a large number of software developers and tools and products to help them be productive. And as those teams 
+work closely together, they ultimately have one stack to pull those things together. So from that we go, I guess 
+increasingly confident about our position in the market. But in other people out there, I don't think there's any 
+major changes in the competitive dynamic.
+......................................................................................................................................................................................................................................................
+George Iwanyc
+Analyst, Oppenheimer & Co., Inc. Q
+Okay. Thank you.
+......................................................................................................................................................................................................................................................
+Operator: [Operator Instructions] There are no further questions this time. I will turn the call back over to the 
+presenters.
+......................................................................................................................................................................................................................................................
+Atlassian Corp. Plc (TEAM)
+Q1 2020 Earnings Call
+Corrected Transcript
+17-Oct-2019
+1-877-FACTSET www.callstreet.com
+16
+Copyright © 2001-2019 FactSet CallStreet, LLC
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc
+Thanks, everyone, for joining the call today. From Mike and Scott down in Sydney, and James and Jay up in San 
+Francisco, we appreciate the time very much and I look forward to keeping you updated on our progress as we 
+travel into the future. Thank you.
+......................................................................................................................................................................................................................................................
+Operator: Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may 
+now disconnect.
+Disclaimer
+The information herein is based on sources we believe to be reliable but is not guaranteed by us and does not purport to be a complete or error-free statement or summary of the available data. 
+As such, we do not warrant, endorse or guarantee the completeness, accuracy, integrity, or timeliness of the information. You must evaluate, and bear all risks associated with, the use of any 
+information provided hereunder, including any reliance on the accuracy, completeness, safety or usefulness of such information. This information is not intended to be used as the primary basis 
+of investment decisions. It should not be construed as advice designed to meet the particular investment needs of any investor. This report is published solely for information purposes, and is 
+not to be construed as financial or other advice or as an offer to sell or the solicitation of an offer to buy any security in any state where such an offer or solicitation would be illegal. Any 
+information expressed herein on this date is subject to change without notice. Any opinions or assertions contained in this information do not represent the opinions or beliefs of FactSet 
+CallStreet, LLC. FactSet CallStreet, LLC, or one or more of its employees, including the writer of this report, may have a position in any of the securities discussed herein.
+THE INFORMATION PROVIDED TO YOU HEREUNDER IS PROVIDED "AS IS," AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, FactSet CallStreet, LLC AND ITS 
+LICENSORS, BUSINESS ASSOCIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SAME, EXPRESS, IMPLIED AND STATUTORY, INCLUDING WITHOUT 
+LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, AND NON-INFRINGEMENT. TO THE 
+MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NEITHER FACTSET CALLSTREET, LLC NOR ITS OFFICERS, MEMBERS, DIRECTORS, PARTNERS, AFFILIATES, BUSINESS 
+ASSOCIATES, LICENSORS OR SUPPLIERS WILL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT 
+LIMITATION DAMAGES FOR LOST PROFITS OR REVENUES, GOODWILL, WORK STOPPAGE, SECURITY BREACHES, VIRUSES, COMPUTER FAILURE OR MALFUNCTION, USE, 
+DATA OR OTHER INTANGIBLE LOSSES OR COMMERCIAL DAMAGES, EVEN IF ANY OF SUCH PARTIES IS ADVISED OF THE POSSIBILITY OF SUCH LOSSES, ARISING UNDER OR 
+IN CONNECTION WITH THE INFORMATION PROVIDED HEREIN OR ANY OTHER SUBJECT MATTER HEREOF.
+The contents and appearance of this report are Copyrighted FactSet CallStreet, LLC 2019 CallStreet and FactSet CallStreet, LLC are trademarks and service marks of FactSet CallStreet, LLC. 
+All other trademarks mentioned are trademarks of their respective companies. All rights reserved.

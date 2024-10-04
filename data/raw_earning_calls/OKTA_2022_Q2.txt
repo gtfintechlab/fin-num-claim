@@ -1,0 +1,762 @@
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is
+prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its
+affiliated companies.
+1
+REFINITIV STREETEVENTS
+EDITED TRANSCRIPT
+Q2 2022 Okta Inc Earnings Call
+EVENT DATE/TIME: SEPTEMBER 01, 2021 / 9:00PM GMT
+SEPTEMBER 01, 2021 / 9:00PM GMT, Q2 2022 Okta Inc Earnings Call
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is
+prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its
+affiliated companies.
+2
+CORPORATE PARTICIPANTS
+Brett Tighe Okta, Inc. - Interim CFO
+Dave Gennarelli Okta, Inc. - VP of IR
+Jacques Frederic Kerrest Okta, Inc. - Co-Founder, Executive Vice Chairperson & COO
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+CONFERENCE CALL PARTICIPANTS
+Adam Charles Borg Stifel, Nicolaus & Company, Incorporated, Research Division - Associate
+Adam Tyler Tindle Raymond James & Associates, Inc., Research Division - Senior Research Associate
+Alexander Henderson Needham & Company, LLC, Research Division - Senior Analyst
+Benjamin James Bollin Cleveland Research Company - Senior Research Analyst
+Brian Lee Essex Goldman Sachs Group, Inc., Research Division - Equity Analyst
+Gray Wilson Powell BTIG, LLC, Research Division - MD & Security and Analytics Software Analyst
+Hamza Fodderwala Morgan Stanley, Research Division - Equity Analyst
+Ittai Kidron Oppenheimer & Co. Inc., Research Division - MD
+Jonathan Frank Ho William Blair & Company L.L.C., Research Division - Technology Analyst
+Keith Frances Bachman BMO Capital Markets Equity Research - MD & Senior Research Analyst
+Matthew George Hedberg RBC Capital Markets, Research Division - Analyst
+Michael Turits KeyBanc Capital Markets Inc., Research Division - MD & Senior Analyst
+Patrick Edwin Ronald Colville Deutsche Bank AG, Research Division - Research Analyst
+Sterling Auty JPMorgan Chase & Co, Research Division - Senior Analyst
+PRESENTATION
+Dave Gennarelli Okta, Inc. - VP of IR
+Hi, everybody. Welcome to Okta's Second Quarter Fiscal Year 2022 Earnings Webcast. I'm Dave Gennarelli, Vice President of Investor
+Relations at Okta. With me in today's meeting, we have Todd McKinnon, our Chief Executive Officer and Co-Founder; Brett Tighe, our
+Interim Chief Financial Officer; and Frederic Kerrest, our Executive Vice Chairman, Chief Operating Officer and Co-Founder.
+Today's meeting will include forward-looking statements pursuant to the safe harbor provisions of the Private Securities Litigation
+Reform Act of 1995, including, but not limited to, statements regarding our financial outlook and market positioning. Forward-looking
+statements involve known and unknown risks and uncertainties that may cause our actual results, performance or achievements to be
+materially different from those expressed or implied by the forward-looking statements.
+Forward-looking statements represent our management's beliefs and assumptions only as of the date made. Information on factors that
+could affect the company's financial results is included in our filings with the SEC from time to time, including the section titled Risk
+Factors in our previously filed Form 10-Q.
+In addition, during today's meeting, we will discuss non-GAAP financial measures. These non-GAAP financial measures are in addition to
+and not a substitute for or superior to measures of financial performance prepared in accordance with GAAP. A reconciliation between
+GAAP and non-GAAP financial measures and a discussion of the limitations of using non-GAAP measures versus their closest GAAP
+equivalents is available in our earnings release. You can also find more detailed information in our supplemental financial materials,
+which include trended financial statements and key metrics posted on our Investor Relations website.
+In today's meeting, we will quote a number of numeric or growth changes as we discuss our financial performance and, unless otherwise
+noted, each such reference represents a year-on-year comparison.
+And now I'd like to turn the meeting over to Todd McKinnon. Todd?
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+Thanks, Dave, and thank you, everyone, for joining us this afternoon. Our strong second quarter results were driven by continued
+performance across Okta's stand-alone business as well as from Auth0. As a quick reminder, the transaction closed on May 3, so it's still
+very early days as a combined company. Nevertheless, with each passing day, our enthusiasm grows for the combined company and for
+how we are aggressively pursuing the $80 billion identity market opportunity.
+SEPTEMBER 01, 2021 / 9:00PM GMT, Q2 2022 Okta Inc Earnings Call
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is
+prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its
+affiliated companies.
+3
+As the world continues to work through the ongoing pandemic, organizations have had to maintain fluid plans for returning to offices.
+Regardless of the time line, it's clear that most organizations are adopting plans that include more remote access. Organizations also
+realize that their interactions with customers will continue to shift more online and need to accelerate their digital transformation
+business plans. These factors, combined with the ever-evolving security threat landscape, mean that the demand for Okta's modern
+identity solutions has never been greater.
+I'll start with a quick recap of our Q2 financial results and then get into some of the other notable highlights from the quarter. I know this
+audience is looking for more information regarding Auth0's contribution to our results, so this quarter, we'll be sharing a number of Okta
+stand-alone and Auth0 metrics on a onetime basis. With these, you'll be able to see that both businesses delivered great Q2 results and
+better understand the combined company going forward.
+To highlight just a few of our second quarter financial metrics, revenue growth for both stand-alone Okta and Auth0 was strong, which
+produced combined company revenue growth of 57% and subscription revenue growth of 59%. RPO surpassed the $2 billion milestone.
+For reference, it took Okta 10 years to reach the $1 billion RPO milestone and less than 2 years to hit the $2 billion milestone. That's
+tremendous progress. Current RPO also reached a milestone by surpassing the $1 billion mark.
+Our total base of customers now stands at over 13,000. Okta stand-alone added 750 customers, which is a record for any quarter. Also
+included in the base is the addition of 1,650 Auth0 customers, net of common customers. Our total base of $100,000-plus average
+contract value customers, or ACV, now stands at over 2,600. Okta stand-alone added 160 new $100,000 customers, and once again, half
+were brand-new customers. And Auth0 brings 375 $100,000 customers to the base.
+Here are just a few notable examples of large enterprise wins and upsells in Q2, which come from a wide range of industries. A great
+federal agency win for both Workforce and CIAM was with the Indian Health Service, a U.S. Department of Health and Human Services
+agency. Okta is providing IHS with a modern identity solution to connect and secure access to various cloud-hosted health care
+applications based on user role, including IHS employees, travel partners and public users. With Okta Workforce and CIAM solution, the
+organization will be able to streamline personalized digital access by user type, provide self-service password resets and create
+customized and secure access policies for external and internal IHS users.
+Salesforce was an exciting Workforce Identity expansion in Q2. Okta's Workforce Identity solutions, including Okta Workflows, will help
+the company automate business processes and customize identity use cases at scale while reducing friction for its end users. A great new
+Auth0 win was with Warby Parker. The company completely disrupted the eyewear industry by selling primarily through its website. In an
+effort to improve customer experience, they chose Auth0 to reduce customer sign-in friction, further mitigate the risk of
+authentication-based attacks and freed up their developer time. Auth0 will be used for all eyewear purchases as well as to conduct
+virtual vision tests.
+Combining with Auth0 further strengthens our position as the world's leading independent identity cloud. In addition to the base of
+enterprise and SMB customers that I mentioned earlier, Auth0 has an incredible base of over 13,000 paying self-service subscriptions.
+What's more, there are currently over 40,000 active free subscriptions being utilized by developers on the Auth0 platform. All told, this is
+a tremendous developer community that is building custom identity tools using the Auth0 platform and further differentiates the Auth0
+platform from anything else in the market.
+With developers in mind, just last week, Auth0's co-founder Eugenio Pace and Matias Woloski hosted Okta's and Auth0's Developer Day
+Event. The themes were Build the Future of Identity with Us and Auth for All. Over the course of the day, there were engaging keynotes
+from renowned security and identity experts as well as hands-on labs and tutorials. It was a big success all around, and highlights the
+continued focus on empowering our loyal developer audience.
+Now let's take a look at the split between Customer Identity and Workforce Identity in terms of ACV. For this particular metric, the growth
+rate is inclusive of Auth0 in both comparison periods. Both the Okta stand-alone and Auth0 CIAM businesses continued to perform very
+well. CIAM now represents over 1/3 of total ACV and grew at 54%. Within this, Okta stand-alone CIAM ACV grew 49%, and Auth0's ACV
+SEPTEMBER 01, 2021 / 9:00PM GMT, Q2 2022 Okta Inc Earnings Call
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is
+prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its
+affiliated companies.
+4
+grew 63%. Workforce ACV now represents just under 2/3 of total ACV and grew 37%. Those are great results that reflect the market
+demand and the success we've had at maintaining the momentum of both businesses.
+It's been less than 4 months since we closed the acquisition of Auth0, but we've already made a lot of progress and learned quite a bit.
+We've made the decision to accelerate the time line for integrating the sales organizations under Susan St. Ledger's leadership to the
+beginning of the new fiscal year in February. This move will allow the unified sales team to sell both platforms and benefits customers by
+providing more options to meet their unique use cases. It's this kind of progress that will help us realize our vision of identity as a primary
+cloud, winning the CIAM market and deliver best-in-class experiences for our customers.
+At our upcoming Showcase event on October 13, we're going to spend more time outlining the expansive opportunity we see in the CIAM
+market. At the event, you'll also hear from both Okta and Auth0 customers that will really help illustrate the wide range of use cases.
+Last quarter, we talked more about broadening our platform. Specifically, we're adding to our capabilities around identity governance
+and privileged access for the Workforce Identity market. We're very excited about the opportunity to bring modern IGA and PAM to a
+broader audience and the progress we're making to deliver new products and functionality.
+Augmenting our internal development efforts is last month's acquisition of a small innovative company called atSpoke, which built a
+modern workplace operations platform. atSpoke's access request workflow capability helps augment our broader IGA strategy and vision
+with their incredibly talented 20-person team that we're thrilled to have on board.
+You've heard us talk about the megatrends that are driving Okta's business, the deployment of cloud and hybrid IT, digital
+transformation projects and the adoption of Zero Trust security environments. We recently published the third annual installment of our
+State of Zero Trust Security Report, and the trends are crystal clear. With the rise in remote work and the sheer volume of identity-based
+cyberattacks, it's no surprise that the adoption of Zero Trust is accelerating. Identity has become the new perimeter and the critical
+component of Zero Trust. One chart in the report that struck me indicates that 83% of Global 2000 businesses have increased their
+budget for Zero Trust security initiatives in the past 12 months. I encourage you to download the white paper from our website for more
+details of the findings.
+And lastly, I want to note that Okta was recognized by Forrester Research as a leader. Forrester ranked Okta highest in both the current
+offering and strategy categories in their 2021 Identity as a Service for Enterprise Wave. Okta received the highest possible scores in 14 of
+the 18 evaluation criteria, including product vision, innovation road map, market approach as well as user experience and navigation.
+I'll close by saying that we remain incredibly enthusiastic about the demand trends we're seeing in our business. Okta's neutral and
+independent platform, modern cloud approach and growing array of identity capabilities make us uniquely positioned to execute against
+the $80 billion total addressable market opportunity for identity.
+I'll turn it over to Brett to walk you through more of the Q2 financial details and how we're raising our outlook for the fiscal year.
+Brett Tighe Okta, Inc. - Interim CFO
+Thanks, Todd, and thank you to everyone for joining us. As Todd noted, we'll be sharing a number of Okta stand-alone and Auth0 metrics
+on a onetime basis. For the rest of this fiscal year, we will only be sharing Auth0's GAAP revenue and net loss breakout. Okta and Auth0
+are integrating quickly, which will make it increasingly difficult to determine the stand-alone metrics in future quarters.
+With that, I'll now discuss in more detail the results for the second quarter as well as provide our business outlook. Total revenue for the
+second quarter increased 57%, driven by a 59% increase in subscription revenue. Subscription revenue represented 96% of our total
+revenue. Okta standalone revenue was $278 million, an increase of 39%. Auth0 revenue, net of recognized purchase accounting
+adjustments, was $38 million. As an additional point of reference, the total deferred revenue haircut for Auth0 was $13 million, with the
+largest impact to revenue in Q2.
+RPO or backlog, which for us is contracted subscription revenue both billed and unbilled that has not yet been recognized, grew 57% to
+SEPTEMBER 01, 2021 / 9:00PM GMT, Q2 2022 Okta Inc Earnings Call
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is
+prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its
+affiliated companies.
+5
+$2.24 billion. On an Okta stand-alone basis, RPO grew 42%. The growth rate decrease from last quarter is primarily attributable to the
+stabilizing of contract duration, which now averages just under 3 years in length. Current RPO, which represents subscription revenue we
+expect to recognize over the next 12 months, also experienced strong growth of 60%. On an Okta stand-alone basis, current RPO grew
+43%.
+Both total and current calculated billings grew 83%. Excluding the billings process changes that were implemented last quarter,
+calculated billings would have grown 74%. Okta stand-alone calculated billings, excluding the benefit from the billings process changes,
+experienced strong growth of 47%. Calculated billings growth in the second quarter was driven by strength across both new and existing
+customers as demand for our products remains robust, driven by the macro trends that Todd mentioned earlier.
+Turning to retention. Our dollar-based net retention rate for the trailing 12-month period was strong at 124%. The Okta stand-alone
+dollar-based net retention rate increased 2 percentage points sequentially to 122%. Auth0's net retention rate was a robust 127%. These
+net retention rates reflect the strong upsell motion we are seeing at our existing customers as they expand on both purchased products
+and users. Consistent with prior quarters, gross retention rates remain very healthy and reflect the value of our products to our
+customers. The retention rate may fluctuate from quarter-to-quarter and in the current environment, it's possible that fluctuation in
+retention rates may be more pronounced.
+Before turning to expense items and profitability, I'll point out that I'll be discussing non-GAAP results going forward. Now looking at
+operating expenses. Total operating expenses grew 76%. The growth in expenses is primarily attributable to Auth0. With the addition of
+over 900 Auth0 employees, total headcount now stands at over 4,100 employees. OpEx was lower than expected, primarily because we
+are operating more effectively together with Auth0 than previously expected.
+As you'll see in our Form 10-Q, Auth0's GAAP net loss was $150 million. This figure includes $102 million of stock-based compensation.
+Within the $102 million, $34 million in onetime expenses is related to the acquisition. Adjusting for this and other non-GAAP items,
+Auth0's non-GAAP net loss is generally consistent with Okta's non-GAAP net loss when it was at a similar revenue level.
+Moving to cash flow. Cash flow from operations and free cash flow were negative $3 million and negative $4 million, respectively, which
+yielded a negative 1% free cash flow margin. We ended the second quarter with a strong balance sheet anchored by $2.47 billion in cash,
+cash equivalents and short-term investments.
+Now let's get into our financial outlook for Q3 and FY '22. We had great Q2 results and maintain conviction in the secular market
+tailwinds. We continue to be prudent and thoughtful about the rate and pace of near-term integration and synergies with Auth0. This is
+reflected in our guidance. For the third quarter of fiscal '22, we expect total revenue of $325 million to $327 million, representing a
+growth rate of 50% year-over-year; non-GAAP operating loss of $35 million to $34 million; and non-GAAP net loss per share of $0.25 to
+$0.24, assuming weighted average shares outstanding of approximately 153 million.
+Given our strong Q2 results, we are raising our revenue outlook for the full year. For the full year fiscal '22, we now expect total revenue of
+$1.243 billion to $1.250 billion, representing growth of 49% to 50% year-over-year. We also now expect non-GAAP operating loss of $119
+million to $114 million and non-GAAP net loss per share of $0.77 to $0.74, assuming average weighted shares outstanding of
+approximately 147 million.
+There are a lot of exciting things happening with the company. As such, I want to provide a few comments for modeling the rest of FY '22.
+We continue to believe that current RPO is a better metric than calculated billings to measure quarterly performance. Current RPO
+removes the effect of billings duration and timing. It also provides a more predictable and consistent view of the business. We expect
+current RPO growth to remain strong with growth similar to subscription revenue growth for the full year.
+For FY '22, we're expecting calculated billings growth to outpace subscription revenue growth by low double digits. And finally, given our
+strong cash flow generation in the first half of the year, we now expect free cash flow margin to be positive and in the mid-single digits
+for the fiscal year, inclusive of integration and transaction-related costs, which is an improvement over our prior outlook.
+SEPTEMBER 01, 2021 / 9:00PM GMT, Q2 2022 Okta Inc Earnings Call
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is
+prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its
+affiliated companies.
+6
+To wrap things up, we had a great quarter and are extremely excited about the $80 billion market opportunity in front of us. Okta is very
+well positioned to build on its strong foundation and market leadership position, which gives us continued confidence in our long-term
+outlook of $4 billion in revenue in FY '26, growing at least 35% in each year and 20% free cash flow margin in FY '26.
+With that, I'll turn it over to Dave for Q&A. Dave?
+QUESTIONS AND ANSWERS
+Dave Gennarelli Okta, Inc. - VP of IR
+Thanks, Brett. (Operator Instructions) I see that many of you have already, and I'm going to take them in the order that they were raised.
+So we'll go to the first question from Alex Henderson at Needham.
+Alexander Henderson Needham & Company, LLC, Research Division - Senior Analyst
+Great. So there's been a very significant increase in the number of attacks and hacks, broadly speaking. And there's been presidential
+edicts that have specifically called out identity as critical drivers of properly designed security. Can you talk a little bit about to what
+extent those events and that backdrop has altered the dynamics and the demand for the company? Has the -- have we seen an
+acceleration in conditions as a result?
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+I think it's a really significant factor. I was talking to -- a couple of months ago, I was talking to the CIO of a large three-letter federal
+agency. And they've been an Okta customer for a couple of years now in parts of the agency. And -- but this was the CIO of the whole
+thing, CIO and the Deputy CIOs and the Deputy CSOs and as in the meeting and it was a pretty very compelling meeting from my
+perspective, because they were basically giving me the Okta pitch and saying how identity was so critical with all of these supply
+chain-based attacks and ransomware attacks and everyone being remote and having to adapt to this hybrid work environment. Identity
+was really the center, and it was the keystone of having a robust security strategy.
+And I'm thinking to myself, that's usually the pitch I give in this meeting. So -- and what they wanted for me was they wanted my support,
+"Hey, we're going to really go wall-to-wall with Okta and make a huge investment. It's going to be the cornerstone of our strategy. Can --
+will you support us?" and basically give them confidence. And it was -- I think that captures a shift in the market, where a big part of our
+success is predicated on identity being this primary component in this pillar of company's technology strategies, not something that you
+get as a feature with other platforms or maybe with your applications, but it's actually a primary cloud in your environment.
+And this is a great testament of how that's starting to shift, and it's a great thing for Okta because when you talk about an independent
+and neutral identity cloud and now especially with combined with Auth0, we are in the catbird seat to own that, and that's why it's so
+compelling for our future.
+Dave Gennarelli Okta, Inc. - VP of IR
+Great. Next question is from Gray Powell with BTIG.
+Gray Wilson Powell BTIG, LLC, Research Division - MD & Security and Analytics Software Analyst
+Great. Can you hear me okay?
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+Loud and clear, Gray.
+Dave Gennarelli Okta, Inc. - VP of IR
+I think he just froze up there. Why don't we come back to Gray. We'll go to Patrick Colville from Deutsche Bank.
+Patrick Edwin Ronald Colville Deutsche Bank AG, Research Division - Research Analyst
+And I mean congrats on the process you've -- I guess, the progress you made so far with Auth0. I mean your disclosure is really fantastic,
+kind of providing the standalone revenue and your Auth0 revenue is really helpful. So I appreciate you guys doing that.
+SEPTEMBER 01, 2021 / 9:00PM GMT, Q2 2022 Okta Inc Earnings Call
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is
+prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its
+affiliated companies.
+7
+As we think forward for guidance, you kind of kindly told us that $38 million of inorganic Auth0 revenue in fiscal second quarter. How do
+we expect that inorganic Auth0 revenue to trend throughout the rest of the fiscal year? And I guess the reason I ask that is because if we
+assume even if it's stable at $38 million, it suggests that the core business is going to see quite a material deceleration in the third and
+fourth quarter. So just help me understand those 2 segments of the business?
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+First of all, we heard the feedback loud and clear on the disclosures. So hopefully, those are helpful as you think through the businesses
+going forward. On the guidance, we had a lot of debate about breaking out the guidance between different companies. And the big
+reason not to is we don't -- we want to keep flexibility on how we package and sell and position the products and we might do some
+creative things that would change the actual how you ascribe revenue to each side. So we want to keep our options up in there.
+We will, as we mentioned, be breaking out the Auth0 top line for the next few quarters at least to give you -- as we go through the
+quarters to give you more insight into what's going on there. The -- and I'll talk about it at a high level and then pass it off to Brett for
+some more comments. But it's really, really important for us to -- as we go through -- this is a long-term strategic move for us, Auth0. It's
+about building this primary cloud. It's about offering all of these identity use cases to customers and making identity a key part of their
+technology landscape. And you do that by supporting all of these multiple use cases, customer identity, workforce identity, eventually
+privileged access management, identity governance and on and on.
+But a real core of this is owning the CIAM market. And when you think about us plus Auth0, it is going very well. And the first order of
+business is these 2 companies, 2 products that had a lot of momentum. So the first order of business is keep that momentum going. And
+hopefully, you can see in the numbers that that's definitely true. So that's the first order of business.
+And then it's also very important as we keep executing through the rest of this year that we get the integration going. We mentioned the
+sales integration, getting that synergy going and making sure we take this from initial success, keep the momentum going to this
+long-term future, where we are really this one-stop shop for all these identity choices and compelling leader in the market for customers.
+Brett Tighe Okta, Inc. - Interim CFO
+I think a few more thoughts there. The first thing that comes to mind really is just talking about the Q2 metrics, really the visibility. I just
+want to reiterate a few points that Todd said around the reason why we gave such a fulsome look on the visibility of the Okta stand-alone
+versus Auth0 across numerous metrics, really for 2 reasons. One, like Todd said, we really want to give you the DNA of how the
+organization is built up today as of the end of Q2. And then secondarily, give you insight into how are each business performing. And I --
+it goes without saying both of them are performing very well.
+You can tell, really, any number of metrics. It can be CRPO growing 43% for Okta stand-alone, you double-click down into that in terms
+of ACV, whether Workforce is growing 37% for Okta stand-alone, 49% for CIAM stand-alone. Obviously, Auth0 doing great for our first
+quarter together, 63% ACV growth. So really strong performance across the board. And just like Todd was saying, we're going to run this
+company as one entity to go get a huge $80 billion TAM. And really, that's how we're going to talk about in the future with the exception
+of the few comments that Todd said, which is we'll give Auth0 revenue and net loss -- GAAP net loss, to be clear, in Q3 and Q4 this year
+to give a little bit more visibility. But we're going to -- this is a onetime look and hopefully gives everyone a very good sense of how well
+both organizations have been running and an idea of the DNA between the 2 organizations of how it actually breaks down.
+But a little bit more on the guidance itself, maybe a couple of points to help you with your modeling. As you can tell by the strong quarter
+that Auth0 just posted in terms of 63% ACV growth, like I said a second ago, we have talked about in the past a $200 million ARR goal
+by the end of FY '22, and they are definitely on track for that. So performing very well. We're very excited about the opportunity operating
+together. And then if you were to think, okay, of the $25 million raised, so $1.25 billion at the top end, growing 50%, how much of that is
+Okta, how much of that is Auth0, I think if you look at the great performance by both businesses in Q2, it really says, hopefully, to the
+world that both would be raising because both are performing very well. So hopefully, that gives you a little bit more color on the
+guidance going forward.
+SEPTEMBER 01, 2021 / 9:00PM GMT, Q2 2022 Okta Inc Earnings Call
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is
+prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its
+affiliated companies.
+8
+Dave Gennarelli Okta, Inc. - VP of IR
+Great. Okay. We're going to try Gray Powell again from BTIG. Gray?
+Gray Wilson Powell BTIG, LLC, Research Division - MD & Security and Analytics Software Analyst
+All right. Great. Can you hear me this time?
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+Yes. It's all loud and clear, Gray.
+Gray Wilson Powell BTIG, LLC, Research Division - MD & Security and Analytics Software Analyst
+All right, cool. I'll be quick. Yes. So can you talk about the success you're having so far upselling Okta Workforce into the Auth0 installed
+base? And then I know you just kind of reiterated the expectations for Auth0 to contribute $200 million in ARR this year. Theoretically, if
+every Auth0 customer signed up for Workforce immediately, how big could that -- how big could it be?
+Jacques Frederic Kerrest Okta, Inc. - Co-Founder, Executive Vice Chairperson & COO
+Thanks, Gray. Nice to hear from you. So the -- it's only 4 months in, so we're very excited about it, but we're just getting going really. We
+have now at least figured out what some of the enterprise bases look like. So we talked about over 13,000 total customers now. Okta
+stand-alone added 750 customers, which is a record. We're adding in Auth0, 1,650. And then we had about 300 common customers, to
+give you an idea. So that's just 2% of the overall customer base and should give everyone an idea of how big the market is and how little
+overlap there really was out there.
+So there is a lot of opportunity for not only of Auth0's sales team to take advantage of some of the products that we have on the CIAM
+side. Good examples are Workflows, Okta Access Gateway, Advanced Server Access. These are products that play very well in CIAM
+attaches that Auth0 didn't have. But also, as you mentioned, Auth0 has largely been selling just CIAM. And so we are just getting going
+with that motion. A lot of great communication among our sales teams.
+There are some very good examples already of both sides actually. There was Warby Parker, which we talked about briefly in the
+prepared remarks, an existing Okta Workforce customer, new Auth0 customer, right? They've been working on that for a little while, but
+it gave a lot of confidence to accelerate that deal saying, "Okay, great. We're comfortable with Okta. We've been using them for a while.
+Now it's going to be part of the same group. So that's great." Now Warby Parker is going to be, by the way, using Auth0 for all customer
+purchases going forward, which is a big deal on their website.
+And then on the flip side, Salesforce has been an Auth0 customer for some time. Workforce upsell for us, obviously, G2K using a lot of
+our products, including Workflows, helping automate a lot of business processes there. So just a couple of examples, a lot more of that to
+come. Obviously, huge opportunity. But again, we're very happy with the 13,000 total customer count. As an entrepreneur, if you give me
+those numbers when we started, I would have taken them in a heartbeat. But it should be 20,000, 50,000, 100,000 customers. We
+should be working throughout the world with all the world's organization. So lot of ways to -- a lot of room to run, but it's a good start.
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+And Gray, one thing that -- this just happened this past week that I'm really psyched about is that Freddy talked about the kind of the --
+not call it low-hanging fruit, but the somewhat obvious cross-sell. So Workforce to Auth0 customers, so Auth0 CIAM to Okta Workforce
+customers, and that's in the different product modules, Workflows and the Access Gateway, Advanced Server Access, the very near-term
+opportunities there.
+What I saw this past week was the first mockups and the first concepts of what deep integrated products could look like in the future, it
+was very cool. These are just -- the teams have just started to work together. So in terms of like what could be possible in the years
+ahead, I saw the coolest demo where if you build an app using Auth0 and then how that could hook into the Okta IGA on the other side,
+so if your app is built with Auth0, then so a customer deploys that app, and now that has a much tighter integration to the Okta Identity
+Governance that can control exactly what's done in that app, who has access to what, at a very fine grain level.
+SEPTEMBER 01, 2021 / 9:00PM GMT, Q2 2022 Okta Inc Earnings Call
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is
+prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its
+affiliated companies.
+9
+That is the kind of compelling integration, that mix beyond just this go-to-market synergies and the ability for one vendor to come with
+the market, but the -- really, 1 plus 1 equals 3 from the technology and the product perspective, and there's a bunch more ideas we have.
+And as the teams come together, it's going to be amazing to see the progress over time.
+Gray Wilson Powell BTIG, LLC, Research Division - MD & Security and Analytics Software Analyst
+That's really interesting. Okay. I look forward to hearing more about that.
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+Yes, we have our Showcase event coming up in October, where we're going to be talking a little bit more about this. So make sure you
+tune in to that, it will be all-virtual, and we'll talk about the integration and the opportunities ahead in a little bit more detail.
+Dave Gennarelli Okta, Inc. - VP of IR
+Okay. Let's go to Jonathan Ho at William Blair.
+Jonathan Frank Ho William Blair & Company L.L.C., Research Division - Technology Analyst
+Just wanted to get a sense of how you are educating the channel on when to either promote Okta's CIAM products or Auth0's? Or
+perhaps maybe you've been selling both products to a customer. And can you give us a sense of what those guidelines, the challenge
+you'd be using to make that decision on which product, to begin with, would look like?
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+Yes. This is a key point of the work we've done. And we had a thesis about this, and it's really been validated over the first several months
+working together. And the idea is that this $30 billion market for CIAM is a massive market. And you can see the combined companies
+now, it's about 1/3 of the ACV. So it's not only just a big material part of the company now, but it's a massive upside in the future.
+But that's just from a -- and that's from a kind of a quantitative perspective. From a qualitative perspective, we talked about how the
+CIAM market is so strategic for Okta and that it gives the Identity Cloud another compelling anchor use case to further propel that to be a
+really strategic platform in the mind of every CIO and CSO in the world. So there's the qualitative, there's the quantitative in terms of the
+strategic priority of the combined entity.
+So -- and then when you think about how we could further accelerate some of this integration, you think about what is actually
+happening in the first 4 months. And the first thing is we only have 300 overlapping customers. So if these 2 CIAM platforms that were --
+if it was just about like 2 competitors going after the same small pie, you would have had a way more overlap in terms of customers or at
+least the competitive pipeline, and we haven't seen that materialize. You only have 300 companies that are overlapping customers.
+And then the pipeline reviews, it's very clear which CIAM platform, Okta CIAM or the Auth0 CIAM platform should be targeted for which
+customer. So this is not confusing in the field. They're figuring it out. The channel is figuring it out organically. So the way it breaks down
+is that this $30 billion TAM is really a couple of separate TAMs. There's a very -- like very customized or developer-focused, fine grain
+control, control every pixel, every bit and byte. That's the market that Auth0 is very well suited to go after.
+Then there's the more tightly integrated to -- you might have a company that's doing customer identity, but it's maybe more B2B. It's
+really one part of mini personas where they want some employees logging into the application and some business customers log into the
+application or they might have separate distinct back-end applications that they want to have a single policy layer. It's less development
+and code per se, and it's more policy and they want a low-code environment, that's where the Okta CIAM platform really excels.
+But what you get is you get a vendor now that can go with these 2 platforms and products, prosecute the entire market from these
+different perspectives and you get a vendor at scale. We talked about 30 -- about 33% of our ACV, roughly about $1 billion of ACV, it's
+$330 million roughly. And that's the biggest CIAM vendor by far. It's not even close, if you look at the other competitors. It's hard to tease
+apart some of the platform guys, but the point competitors is not even close. And so you have a vendor that's able to bring all of these
+options to customer -- a customer with a go-to-market advantage in how we're going to sell it now that the sales teams are being
+integrated.
+SEPTEMBER 01, 2021 / 9:00PM GMT, Q2 2022 Okta Inc Earnings Call
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is
+prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its
+affiliated companies.
+10
+Plus going forward, as we actually build the platforms to be -- have this 1 plus 1 equals 3 technical integration over time, it's a pretty
+exciting time for me. You can tell I'm a little pumped up about it. So excuse the long answer, but it's exciting times for us.
+Dave Gennarelli Okta, Inc. - VP of IR
+Let's go to Hamza Fodderwala at Morgan Stanley.
+Hamza Fodderwala Morgan Stanley, Research Division - Equity Analyst
+Perhaps a question for Todd and/or Freddy. On the Workforce side, I was wondering if you could give us any updates on progress with
+the IGA and the PAM product, to the extent that you have customers who are using the product on beta. And then also, what are you
+guys doing from a go-to-market perspective to really build pipeline for that ahead of general availability next year?
+Jacques Frederic Kerrest Okta, Inc. - Co-Founder, Executive Vice Chairperson & COO
+Yes. Happy to talk about that. Thanks, Hamza, for the question. So you're referring to the Privileged Access Management, Identity
+Governance and Administration products that we've announced that are going to be coming out next fiscal year, they're making really
+good progress on both sides. Obviously, these are not brand-new areas for us. These are natural adjacencies to what we've done with
+Access Management for a long time. We have the basis for both of the product suites already. They've been generally available for some
+time, which also is one of the pieces that give us confidence to talk about general availability coming next year.
+On the Privileged Access Management side, obviously, it's Advanced Server Access, a product that's been in market for a couple of years
+and has done very, very well. Obviously, PAM is going to be a bigger suite of products. They are going to be upsells, they're going to be
+new SKUs, they're going to be add-ons for customers to buy just to be clear, but Advanced Server Access is the basis for that product
+suite. And then on the IGA side, the basis is Lifecycle Management and Advanced Lifecycle Management, 2 products that have done very
+well. Some of the top sellers last year. So much so that we had the confidence to take them from Workforce and bring them over to the
+CIAM side of the businesses this year, and that's gone very, very well. We announced IGA earlier this year, and that's been selling
+extremely well, both on the Okta standalone side as well as the Auth0 side, as I mentioned earlier.
+So that's going very well. Again, IGA will be broader than that. There will be more products. The product suite will be bigger, so there'll
+be upsell opportunities and net new SKUs for customers, but that's all going very well. We also acquired a very good small organization
+called atSpoke recently that's a great technology and team tuck-in into what we're doing with IGA. Very opportunistic, great technology,
+great team, just about to hit that go-to-market inflection point. So a great time for us to bring them into the fold. We've known them for
+quite some time. That's obviously doing very well.
+But it's really -- from an organic perspective, a lot of customers are excited about saying, "Hey, I want one vendor, I want one platform, I
+want access management." Privileged Access Management, you could argue a lot of cloud is already Privileged Access Management. So
+they want to see that same modern infrastructure and architecture. Same is true for IGA. If you've got all your identity information
+already running in the public cloud, you're going to want a product that's right next to that in an adjacent suite. So that's all going very,
+very well. We're very excited about it.
+In terms of pipeline, that is a natural pipeline, actually. This is, again, products that we're building. It's not as though we're sitting in an
+ivory tower coming up with great ideas, although we do, do that from time to time. But this is actually one where the customers have
+been saying for some time, "Hey, will you give me a modern PAM solution? Will you give me a modern IGA solution? I want something
+new, I don't want to buy it from the legacy vendors of yesteryear." And I think that's a great opportunity for us.
+So a lot of pipeline already built up. In fact, there's more customers asking to get early access to the product that we want to open it up
+for just because we want to make sure that we get it right, as with all of our products. We want to make sure that when they get out
+there, they're really rolling. But yes, very optimistic and bullish about that. I think it's going to be great for next year and the years
+beyond.
+SEPTEMBER 01, 2021 / 9:00PM GMT, Q2 2022 Okta Inc Earnings Call
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is
+prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its
+affiliated companies.
+11
+Dave Gennarelli Okta, Inc. - VP of IR
+All right. Let's go to Ittai Kidron at Oppenheimer.
+Ittai Kidron Oppenheimer & Co. Inc., Research Division - MD
+Congrats, great quarter, and thanks for the extra disclosure, very helpful. Maybe I'm going to dig into that a little bit, Brett, on the -- I just
+want to make sure I understand the guidance on the next quarter. On the top line, you're showing about a 7 to 9 points deceleration from
+a revenue growth standpoint. Maybe you can give us some details on how much of that is Auth0 or Okta related. Is there something
+funky in the comps year-over-year that would make for that? And also, regarding the gross margins, there was a dip there. I'm guessing
+it's because of the inclusion of Auth0. How quickly will you be able to bring that back to your historical levels?
+Brett Tighe Okta, Inc. - Interim CFO
+Sure. Thanks. And I'll take that. For the top line, when we -- when I talked about it a few minutes ago, there really -- we're just being
+prudent about the back half in terms of growth because of the sales integration that Todd spoke about earlier. We're obviously bringing
+that forward because we think it's a good thing for the company in the long run. And obviously, we've been working very well together. So
+we're just being prudent about the rate and pace of the integration between the sales teams.
+And then what was your second question again?
+Ittai Kidron Oppenheimer & Co. Inc., Research Division - MD
+The gross margin.
+Brett Tighe Okta, Inc. - Interim CFO
+Gross margin, that's right. So yes, it is being depressed a little bit or taken down a little bit due to Auth0. But you can look at our history,
+and I think one of the reasons we talked about why Auth0, not just this quarter but last quarter, why Auth0 looks a lot like us a few years
+ago, when we talked about our prepared remarks looking a lot like us, because our gross margins, back then, weren't as strong as we
+built them up over time, and we're going to do the same thing that we've done for years, which is balance growth and margin. And it's
+really just part of the way we operate, and so you'll see that in the future.
+Dave Gennarelli Okta, Inc. - VP of IR
+And then let's go to Brian Essex at Goldman.
+Brian Lee Essex Goldman Sachs Group, Inc., Research Division - Equity Analyst
+Great. And thank you from me as well for the additional disclosure, very helpful. I was -- maybe if I could talk about customer mix a little
+bit. If we were to look at versus Auth0 (inaudible) quarter-over-quarter. Maybe -- just maybe parse that out a little bit. What was
+incremental...
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+Brian, could you stop your video and ask again? You cut out there a little bit.
+Brian Lee Essex Goldman Sachs Group, Inc., Research Division - Equity Analyst
+Sorry about that.
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+No worries. I want to make sure I get the whole -- or I can just answer what I want to answer.
+Brian Lee Essex Goldman Sachs Group, Inc., Research Division - Equity Analyst
+Either way it works. But yes, we turned off the video. So yes, I mean essentially, where I was going is, it looks like your incremental adds
+and -- or the customer mix for large customer accelerated quarter-over-quarter. So I want to understand what the business mix of Auth0
+was and what it brought to the table versus what Okta organically added for large enterprise. And how do you anticipate managing that
+going forward?
+SEPTEMBER 01, 2021 / 9:00PM GMT, Q2 2022 Okta Inc Earnings Call
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is
+prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its
+affiliated companies.
+12
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+The -- I think that at a high level, when you think about the customer mix, and the contribution, I'll just call out that they're the same in a
+lot of ways, but they're different in a pretty significant way, which is they have this groundswell of free developer accounts and they have
+the -- Auth0 has this group of self-service, basically, essentially month-to-month credit card customers, which is revenue, but it's also,
+more importantly, it's a potential upsell avenue.
+So they have -- Auth0 business gets a lot of momentum from developers trying the product, using it maybe in a hobby, side project and
+then bring it to work and they start with a project at work where it's a month-to-month credit card. And then all of a sudden, a few
+quarters later, it's used in a real customer-facing initiative or an internal system that's really important. And then all of a sudden, it's
+upgraded to a material year-long contract. In terms of the way the metrics work, the 1,650 companies that were added to the customer
+count are all customers around our contract. The self-service as we -- as you saw on the slides, is a different number. And then the free
+developer accounts is the 40,000 number that was mentioned separately as well.
+In terms of the large customers, we broke out the $100,000 additional customers, which is a -- it is a very good -- we had a very good
+quarter in terms of large customer additions, both from Okta stand-alone and on the Auth0 side. And I think over time, what you'll see is
+the traits in terms of the CIAM opportunity is getting big for Auth0 or the CIAM opportunity is getting big on the Okta platform or the
+Workforce platform, or similar. There's a lot of starting small and growing. There are some starting big, but the characteristics are
+generally similar in those businesses.
+Jacques Frederic Kerrest Okta, Inc. - Co-Founder, Executive Vice Chairperson & COO
+And Brian, I'll just add a couple of metrics for you. So obviously, continued success with enterprise customers, now as a combined Auth0,
+we have over 2,600 customers paying us over $100,000 a year. Okta stand-alone added 160 customers of over $100,000 a year, half of
+those were net new customers, net new logos to us. That's the second highest total for a quarter ever after Q4 of last year, and obviously,
+Q4s were always big years so -- or big quarters. So you're really starting to see that momentum pick up already in the middle of this year.
+Auth0 added 375 of those $100,000-plus customers that they had to our overall 2,600 number.
+But we've been talking a lot, obviously, and for good reason on this call, about Auth0 metrics, about Okta metrics, about stand-alone
+and about combined, there's a lot of really good Q2 wins that are Global 2000, even Fortune 100, Fortune 50. Collins Aerospace is a new
+CIAM customer for us, Raytheon, which is obviously Fortune-50 sub. There was a Fortune 500 global automotive tech leader. Wyndham
+had a big upsell in CIAM Workflows. So there's a lot of these large customers that are either net new logos or buying a lot more. And I
+think that's going on across the base, and you're going to see that continue to accelerate in the quarters ahead.
+Dave Gennarelli Okta, Inc. - VP of IR
+Let's go to Adam Tindle at Raymond James.
+Adam Tyler Tindle Raymond James & Associates, Inc., Research Division - Senior Research Associate
+Perfect. I wanted to ask on customer identity, maybe starting with Todd and then a follow-up for Brett. Both businesses are showing
+healthy growth, but Auth0 is a little bit ahead of Okta in customer identity. So I'm wondering if you could double-click on the logistics of
+the sales integration. I know Susan calls herself a self-professed growth junkie. So some ideas that she has in place to push growth
+higher for the combined company and customer.
+And Brett, you talked about how the Auth0 economic model is at a similar level to Okta at its level of scale, which I think was a little bit of
+a positive surprise to a lot of us. How do we think about contribution margins from here and economics from here for Auth0? You show
+those customer cohorts for Okta, should the Auth0 customer cohorts look similar?
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+The sales integration is -- I'll talk about it at a high level. And then beyond that, the reality is that we haven't done all the detailed
+planning, and we haven't carved the territories, and we haven't assigned the accounts. So there's some stuff to be figured out. We're
+really starting the planning process for next year, in general. And then, plus the integration is -- the sales integration detail planning is
+starting now. So we have a lot more work to do at the detail level and then budget communication internally and externally on that.
+SEPTEMBER 01, 2021 / 9:00PM GMT, Q2 2022 Okta Inc Earnings Call
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is
+prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its
+affiliated companies.
+13
+At a high level, it's about growth and it's about taking the entire sales capacity of both organizations, combining them together and
+making sure that all of that sales capacity, to some degree, can sell all the products: Okta CIAM, Okta Workforce, Auth0 CIAM. There'll
+be obviously some specialization and some overlays to get the -- to make sure the transition to this unified Salesforce works and that you
+get the right technical specialization because especially on the -- both CIAM products require technical specialization and particularly on
+the Auth0 side, it's a more developer-facing product, which means it has different kind of technical requirements.
+So there will be specialization there, but the main high-level idea is more sales capacity, more ability to take this big lead we have in this
+market. And this market, like I mentioned before, is a $30 billion market, and we're by far the biggest vendor in here, but our ACV is only
+like $330 million. So this is a market that's happening before our eyes, and we're going to go capture it, both from the go-to-market,
+from the branding and positioning of us being the premier identity vendor from the execution on how we build the products going
+forward to make sure we're continuing to advance our respective leads in a separate category -- in the respective categories and
+subcategories. And then at the end of the day, we're all one identity cloud, and we're going to make sure that all the products you buy
+from Okta are more valuable because you have other products from Okta going forward.
+Brett Tighe Okta, Inc. - Interim CFO
+On the financial question, first and foremost, we're really excited about Auth0, obviously, as you can tell by our commentary today. But
+the -- I think maybe the fundamental point is really around how we're going to run them. If we were running them as a separate entity,
+which as you've heard today, we're running as a product unit, things are becoming integrated from a G&A perspective, from a sales
+perspective, but if say, and let's pretend that wasn't happening, we would run it just like we ran Okta back then, where we balanced
+growth and profitability.
+And you've seen that in the results for years. But since we are bringing everything together, having a product unit, having sales being
+pulled together and then G&A being pulled together, now there won't be a relevant compare, but if there was that situation, it would be
+run just like we did, run ourselves back 3, 4, 5 years ago, where we focused on growing the business while also doing -- while also
+expanding margins over time.
+Dave Gennarelli Okta, Inc. - VP of IR
+Okay. Let's go to Matt Hedberg at RBC.
+Matthew George Hedberg RBC Capital Markets, Research Division - Analyst
+Great. I guess for Todd or Freddy, a little bit of a follow-up on Workforce. But can you talk about why Workforce Identity trends have
+accelerated post-COVID? And I guess, specifically, what are some of the incremental things that are working for you within your G2K
+success on the Workforce side?
+Jacques Frederic Kerrest Okta, Inc. - Co-Founder, Executive Vice Chairperson & COO
+Absolutely, Matt. Thanks for the question. So obviously, the 3 megatrends that we based the thesis of the company on are still very much
+there. They're growing every day, and they're in the early innings. Everyone is still trying to adopt more cloud and hybrid IT. Everyone has
+to figure out this digital transformation and the underpinnings of Zero Trust security are now prevalent.
+I think what you're seeing is organizations are also having to adapt to this pandemic environment. You're not sure if you're going back to
+work, you're staying at home, how that's working, number one. Number two, they have to retool their digital strategy. I mean they have to
+figure out how to get this to work in this modern environment. And third of all, they have to shift to dynamic work because they have to
+have an environment where some folks might go to the office, they might be at home, they might be there certain days, and that's going
+to continue for the foreseeable future, especially in large organizations.
+And so when we think about the Workforce products, as you said, they are continuing to do very well. We're very happy to break them
+out. Obviously, 64% of our ACV growing 37% year-over-year, and that's a big business. So we're very excited about that. I think the
+existing products are going to continue to do very well for the years ahead for a number of reasons. First of all, if you think about
+traditional enterprise identity management, as it's been known for the last 30 years, it's for employees, contractors, consultants. That
+SEPTEMBER 01, 2021 / 9:00PM GMT, Q2 2022 Okta Inc Earnings Call
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is
+prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its
+affiliated companies.
+14
+budget line item that's been there for CIOs, it's always been historically about internal IT. And so the vendors there, the IBMs, the
+Oracles, the CAs, the RSAs, they're basically running maintenance streams.
+And over time, as our business is not about forklift upgrade, we show up, we show customer success in short order. We come back, we
+build the relationship, they get to know us. You see it in a dollar basis net retention quarter after quarter after quarter, that continues. As
+we do that, we will then earn the right to turn around to these Fortune 500, Global 2000 CIOs and CSOs and say, "Great. Now let us
+show you the road map to rip and replace your Oracle or IBM over the next 24 to 36 months." We have very good examples of doing that
+time and time again now. That template is really starting to work. The GSIs love that business, as you can imagine, because that's a lot of
+people they can put to work as well.
+And then finally, in terms of reps, right, just getting reps to understand how this motion works, people have been selling traditional
+enterprise identity management, the workforce stuff, for 30 years. There's a lot of sales reps out there who understand that motion. Todd
+mentioned that for CIAM, there is a little more technical specificity because every specific situation is unique. Some of them might be
+B2B, some of them might be B2C, some of them might have supply chains. With Workforce, we can really develop those stencils, we can
+hire the reps, we can train them quickly, we can give them the stencils and they can get out there and sell something that they already
+know and understand, and that the buyer has known how to buy for many, many years.
+And I think that's why when I look at Workforce, I'm very, very excited about it. I think the next 3, 5, 10 years are just going to continue in
+that business to grow, and they're going to do very, very well. So we're very excited about the Workforce side of the business.
+Dave Gennarelli Okta, Inc. - VP of IR
+All right. Next up, we have Ben Bollin from Cleveland Research.
+Benjamin James Bollin Cleveland Research Company - Senior Research Analyst
+A few specific items I wanted to address with customer identity. But first, could you talk, Todd, about how much of the pre-existing -- that
+DIY market on the customer identity side, how much of that do you think is up for grabs right now? And how do you think that develops
+over time? A second piece is, how would you guys characterize the sales cycle or the duration in the sales process for CIAM versus
+Workforce?
+And then the last is with the combination of Auth0, how do you think that's influenced pipeline? Was there incremental urgency because
+now there's this best-of-breed tool? Or was it -- it was always a tipping point and you're getting there a little bit faster? Just any thoughts
+on those would be helpful.
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+Good questions. On the last question about the pipeline influence, I think that mostly on the Auth0 pipeline, I think that just having a --
+just being public, right? Now they're public with the merger with Okta, that positively impact their pipeline, just like I think we saw when
+we went public, our pipeline was positively impacted.
+There's also just the name recognition and -- because if you think what happens in a lot of these -- and this is your -- to your question
+about the sales cycle. What happens in a lot of these Auth0-led deals is that it's a bottoms-up thing. So the developers start using the
+product. I mentioned the free accounts and then the self-service accounts. They get built into services the company is building. And then
+all of a sudden, it gets enough usage and enough momentum in the company that they've -- someone has to write a substantial check.
+And that's executive, CIO, Chief Digital Officer and Chief Product Officer.
+And I think at that level, as great as the APIs are and as great as the capabilities and the documentation is, that helps to have a scaled
+vendor behind it. That helps to look at an organization and say, oh, yes, this is a $1 billion-plus a year company growing very quickly. This
+-- these people are the leaders in identity, not just customer identity, but in workforce identity, that brings some weight and some gravity.
+So it's helped positively the Auth0's sales cycle. And I think that on the -- I forget what the first question was, you asked. What was the
+first part?
+SEPTEMBER 01, 2021 / 9:00PM GMT, Q2 2022 Okta Inc Earnings Call
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is
+prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its
+affiliated companies.
+15
+Benjamin James Bollin Cleveland Research Company - Senior Research Analyst
+So much of the customer identity market is still...
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+Yes, up for grabs. Yes, sorry.
+Benjamin James Bollin Cleveland Research Company - Senior Research Analyst
+How much of that's up for grabs?
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+Yes. I think I was just looking at this, I was -- every quarter, I do spend some time really drilling into our competitive dashboards and look
+at the win rates across the board against competitors and see what's going on. And probably the -- one of the interesting things that
+stuck out to me is that as an organization, we're doing much better in terms of win rates against do-it-yourself. So we track win rates
+when we "lose" because they decided to build themselves.
+And so that win rate has increased a lot for us. And I think it's -- what's happening is that the market is learning that you don't have to
+build this yourself. I think part of that is just an efficiency story. You'd rather spend your time building your customer-facing solution on
+differentiated value versus the plumbing of identity. But part of it is a security story, too. Everyone hears about the hacks and the
+breaches and they don't want to build a customer-facing app that gets hacked. Especially on the Okta CIAM side, a big part of the driver
+on the sales cycles is we could build it ourselves, but it's -- once you have a complex password reset flow and you have SMS confirmation,
+you have SIM jacking and I don't want to allow that password to be set with a stolen cellphone, then you start to think the security risk is
+a big pressing need to bring in a solution for customer identity versus just the ROI of not having to spend the developer time on it.
+Dave Gennarelli Okta, Inc. - VP of IR
+Okay. A couple of minutes left. Let's go to Sterling Auty at JPMorgan.
+Sterling Auty JPMorgan Chase & Co, Research Division - Senior Analyst
+Yes. I agree. The additional disclosure is very helpful, but I want to make sure we connect the dots from the original because I think
+originally, the target was $200 million of ARR exiting the year. And I just want to make sure we clarify because I've heard people talk
+about that in different ways, including the way it was characterized by one of the questions earlier. And if that's the case, does that
+actually mean you need to see acceleration in that Auth0 performance to get to that number by the end of the year?
+Brett Tighe Okta, Inc. - Interim CFO
+I'll take that, Sterling. So it's $200 million in ARR exiting the fiscal year '22. So you are correct. And to answer your second question, no,
+we do not need to see acceleration as we exit the year or the back half of the year because Auth0 is well underway. And that is what's
+giving us the confidence -- one of the reasons of giving us the confidence in a strong revenue rate that we delivered today, the $1.25
+billion, up 50% at the top end of the guide.
+Sterling Auty JPMorgan Chase & Co, Research Division - Senior Analyst
+All right. Great. One quick one, Todd, for you. You mentioned the sales integration. You're going through the detailed planning now. This
+is the point where you get that uncertainty if you're a salesperson for Auth0, Okta, wondering what's going to happen to your territory,
+your job, et cetera. What are you doing to make sure that you retain the people that you really want to go forward with the combined
+organization between now and when you communicate the final details?
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+Well, one of the things we're not doing is we're not announcing new territories on the earnings call.
+Sterling Auty JPMorgan Chase & Co, Research Division - Senior Analyst
+Well, that's good. That's a good starting point.
+SEPTEMBER 01, 2021 / 9:00PM GMT, Q2 2022 Okta Inc Earnings Call
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is
+prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its
+affiliated companies.
+16
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+But I think that the main thing is as we manage the company in general, there's a ton of openness and transparency internally. As we
+walked through this integration process, we've worked really hard to be open about it even when we didn't have all the answers. And I
+think that helps a lot.
+But I think the high order thing is that people see the opportunity. And particularly salespeople, they want to be able to -- their hard work
+and their talent as a salesperson translate into results. And what they see out there is they see the opportunity. They see a scaled vendor,
+they see all these people realizing they don't need to build the customer identity themselves. And that's compelling for them. On the
+Okta side, they see more products to sell. They see not just one CIAM platform, but two CIAM platforms that have distinct use cases and
+a way to deliver more value to the customer. So it's an important point you bring up, and those are some of the things we're thinking
+about as we go forward.
+Dave Gennarelli Okta, Inc. - VP of IR
+Okay. Adam Borg at Stifel.
+Adam Charles Borg Stifel, Nicolaus & Company, Incorporated, Research Division - Associate
+Just on the international front, and I apologize if I missed this, but international, obviously, you saw some really strong growth, and partly
+due to Auth0. I guess 2 parts. One, did you share what the organic international growth was for Okta? And two, just given the larger
+footprint that Auth0 has internationally, any early learnings as you continue to build out your overall go-to-market internationally?
+Brett Tighe Okta, Inc. - Interim CFO
+I'll take the first part of the question around organic. No, we did not break it out, but obviously, very strong results in the quarter growing
+to 21% of total revenue at international. But had we broken it out, you would have seen a gentle increase and up into the right for Okta
+standalone as we continue to have success internationally. And I'll turn it over to Freddy to talk about the rest of the question.
+Jacques Frederic Kerrest Okta, Inc. - Co-Founder, Executive Vice Chairperson & COO
+Yes. And that's saying something because that's a tough compare, right? To grow international, you have to be growing it faster than the
+overall business, which is doing very well. Regarding the Auth0 contribution to international, they have a distinct advantage, which is
+certainly something we've been working on. I know many other organizations have as well. But they grew up natively as a distributed
+organization. So when you talk about remote work, it's baked in the DNA of their company. I mean they have amazing employees in all
+sorts of countries, some of which we're in, some of which we're not in.
+And so I think that just having that as an additional driver inside the company really helps us think about international first. It's one thing
+for us to talk about it. It's another thing for us to get on airplanes and go support those territories internationally, when we can,
+obviously, for health reasons. It's another when you just added 800 people, 900 people to the company, and you added this big
+momentum shifter, where that's how they think about things. They are distributed by nature. They think about communication
+internationally off -- from the beginning. And I think that's been really helpful. It's a good reminder. It's a good accelerator. A lot of things
+we can do there.
+That being said, stand-alone Okta is doing really well. I am very pleased with the growth that we've seen, not only in terms of the
+numbers, obviously, and the customer accounts and the importance of the large customers, we're really making some inroads in some
+really important industries with some large logos which is going well, but also leadership. We just have better and better people joining
+the company every single day, not only at the senior leadership level, but at management levels. I think that's going to obviously
+continue. I think it will accelerate when we all have a chance to get back on an airplane and go out there and help them in person as well.
+But yes, we are very bullish on international. I think it's a huge opportunity. Again, very happy with 21%, which is 103% year-over-year
+growth as a combined company, but I think a lot more that we can do there. Obviously, the opportunity for independent identity as a
+primary cloud is global. It's every company, every geo, every industry, every size of company, public sector, private sector. So it's going to
+obviously be hard to get it to 50%, given where we started and how fast the business is going, but there's no reason that it shouldn't be a
+bigger contributor to the business, and it will be going forward.
+SEPTEMBER 01, 2021 / 9:00PM GMT, Q2 2022 Okta Inc Earnings Call
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is
+prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its
+affiliated companies.
+17
+Dave Gennarelli Okta, Inc. - VP of IR
+All right. We're into overtime, let's try to do some rapid fire in the last 3 questions. We'll go to Josh Tilton at Wolfe.
+Josh, we lost you. Let's go to Keith Bachman at BMO.
+Keith Frances Bachman BMO Capital Markets Equity Research - MD & Senior Research Analyst
+Yes. I'll just ask one question. Could you talk about what you see as the growth of the net retention rate? And what I mean by that is you
+talked a lot about upsell opportunities between Auth0 and core Okta. And then over time, you also -- Freddy, you in particular, talked
+about the building pipeline of the 2 new IGA and PAM. If you could just talk about how investors should think about the net retention
+rate. And I'm not referring to the next quarter, but over the next year, does that course finally move up because of the addition to
+cross-sell Auth0 and then some of the new products coming out at the beginning of next year?
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+I think, potentially, I think the -- I think in the near term, it will be kind of in the range. You've seen it basically depending on how much
+upsell we do in that quarter. I think going forward, one of the interesting potential changes is that the -- on the developer-focused CIAM,
+the Auth0 CIAM, there is more of this bottoms-up groundswell and then the big upsell comes later, just because of the nature of how the
+product is adopted. So you might see that be a positive -- that just -- that element be a positive driver for upsells. And then as you
+mentioned, plus, we also have this potential of just more cross-sell and upsell because of the different platforms and different products.
+Dave Gennarelli Okta, Inc. - VP of IR
+All right. Last but not least, Michael Turits at KeyBanc.
+Michael Turits KeyBanc Capital Markets Inc., Research Division - MD & Senior Analyst
+Brett, and Todd, probably, great to see the organic acceleration. Thanks for breaking that out. And I know it's a game we have to play.
+But if you back into what might have been the expectations for Auth0 this quarter, back that out versus the upside that you got in Auth0,
+it seems as if the beat on the core business was maybe a little less than historical. Anything that might have been a headwind to that?
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+I would actually say we had a very strong quarter. I think you can look at any number of the metrics from a stand-alone perspective.
+CRPO growing 43% at over $1 billion in ACV. That's pretty strong growth when you think about the scale that it's operating in. You can
+look at the net retention results we just talked about, 122%, up from 120. You could look at any of the number of the customer account
+numbers, greater than $100,000 accelerating in terms of the growth on the number of $100,000 customers on the Okta stand-alone
+basis. So from my perspective, it really felt like it was a strong quarter, regardless of which metric you look at.
+Dave Gennarelli Okta, Inc. - VP of IR
+All right, guys, we're right to have to call it there. Just as a reminder, we're going to be attending 2 virtual conferences this quarter, the
+Piper Sandler Conference on September 14 and the Citi Global Conference on September 15. And as you heard, we're also going to be
+having our third annual Showcase event that's going to be on October 13. And in addition to the content, we'll also be hosting a virtual
+Q&A session with the investor community as well. So details on that to follow.
+That's it for today. If you have any follow-up questions, you can e-mail us at investor@okta.com. Thanks for joining.
+SEPTEMBER 01, 2021 / 9:00PM GMT, Q2 2022 Okta Inc Earnings Call
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is
+prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its
+affiliated companies.
+18
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2021 Refinitiv. All Rights Reserved.

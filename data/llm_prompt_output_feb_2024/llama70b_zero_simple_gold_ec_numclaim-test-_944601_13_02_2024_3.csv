@@ -1,0 +1,301 @@
+true_label,original_sent,text_output
+0,"looking at our geographies, americas grew 8%, emea was up 6%, and apjc was up 12%."," INCLAIM
+
+This sentence is classified as an INCLAIM because it contains a claim about the growth of different geographic regions, which implies a comparison or evaluation of performance. The use of percentages and the phrase ""was up"" suggests a sense of improvement or increase, which is a common feature of claims. Additionally, the sentence does not simply present factual information about the past or present, but rather provides a summary of performance that could be used to support a broader argument or conclusion."
+0,"and we generated ebitda of $434 million, which included about $130 million of universal beijing pre-opening costs."," INCLAIM
+
+This sentence includes a claim about the company's financial performance, specifically the generation of EBITDA, which is a measure of profitability. The inclusion of ""universal beijing pre-opening costs"" suggests that the company is highlighting a specific aspect of its financial performance, which further supports the classification of this sentence as an INCLAIM."
+0,"in our customer segments, enterprise was 15%, commercial grew 8%, public sector was up 8%, and service provider grew 2%."," INCLAIM
+
+This sentence is classified as an INCLAIM because it provides information about the growth of different customer segments, which implies a comparison to a previous period and a claim about the performance of the company's customer segments. The use of words like ""grew"" and ""up"" also suggest a sense of improvement or progress, which is a common feature of claims."
+0,"and turning to video, revenue declined 2.1% with accrued rsn fee adjustments having an adverse impact of 130 basis points."," INCLAIM
+
+This sentence contains a claim about the impact of accrued RSN fee adjustments on revenue, which is not just factual past or present information. The use of the phrase ""adverse impact"" and the specific percentage change in revenue suggest a judgment or evaluation of the impact, which makes it an INCLAIM."
+1,our preliminary assessment for the combined gross direct impact on our revenue based on our existing backlog and sales funnel forecast is in the range of approximately $600 million to $900 million in calendar '23.," INCLAIM
+
+This sentence is an estimate or prediction of future revenue, which is not a factual or present information. It's a claim or a forecast, which makes it belong to the INCLAIM class."
+0,"ebitda for the third quarter was down roughly 45% as flat revenue was offset by an increase in programming and production costs, primarily as a result of the postponement of european football events, which moved from the second quarter into the third as a result of covid-19."," INCLAIM
+
+This sentence provides information about the company's financial performance, specifically the decrease in EBITDA for the third quarter, and explains the reason for this decrease, which is the postponement of European football events due to COVID-19. The sentence provides an explanation that goes beyond factual past or present information, and therefore, it is classified as INCLAIM."
+0,"arpu is increasing as this growing customer base continues to take more packs on average, underscored by a 60% increase in the uptake of our highest priced sports pack."," INCLAIM
+
+This sentence contains a claim about the company's performance, specifically that its average revenue per user (ARPU) is increasing, and that the uptake of its highest priced sports pack has increased by 60%. This is not just factual information, but rather an evaluation of the company's success, making it an INCLAIM sentence."
+0,"so any way to think about how your numbers or guidance might change if 25% doesn't happen and 10% also, that's removed?"," INCLAIM
+
+This sentence is an inquiry about the possible adjustments to numbers or guidance in a scenario where 25% and 10% are removed. It seeks an opinion or perspective, which makes it a claim-based question rather than a factual one."
+1,these discrete costs are expected to be incurred disproportionately as approximately 75% will be incurred in the first half and 25% in the second half of fiscal 2019 as the company targets completing the majority of initiative projects by the end of august 2019.," INCLAIM
+
+This sentence contains a claim about the future, specifically the expected proportion of discrete costs that will be incurred in different periods of fiscal 2019. The claim is based on the company's target of completing the majority of initiative projects by the end of August 2019, which is not a factual piece of information, but rather a statement of intent or plan. Therefore, it falls under the 'INCLAIM' class."
+0,"core advertising excluding political was down 6.8% year-over-year, a significant improvement relative to last quarter with better trends across most categories."," INCLAIM
+
+This sentence is classified as an INCLAIM because it contains a year-over-year comparison and describes a ""significant improvement"" in core advertising, which implies a claim about the effectiveness of the advertising. Additionally, the use of the phrase ""better trends across most categories"" suggests a positive evaluation of the advertising performance, which is also a claim."
+0,this was an increase over the prior year's adjusted $1.89 per share in the 14-week period.," INCLAIM
+
+This sentence is classified as an INCLAIM because it contains a comparison of financial information between two different periods, which implies a judgment or evaluation of the company's performance. The use of the phrase ""an increase over"" suggests a sense of improvement or progress, which goes beyond mere factual reporting."
+0,the gross direct impact of the new china regulations on the december quarter revenue guidance is approximately $100 million.," INCLAIM
+
+This sentence is an claim because it provides a specific estimate of the impact of the new China regulations on the company's revenue guidance, which is a forward-looking statement that goes beyond factual information. The sentence is not simply stating a fact about the past or present, but rather making a claim about the future impact of a specific event."
+0,"we saw strong performance in our arr of $23.3 billion, which increased 6% with product arr growth of 11%."," INCLAIM
+
+This sentence contains a claim about the company's past performance, specifically the growth of their revenue, which is not just factual information. The use of the phrase ""strong performance"" and the mention of a specific percentage increase imply a positive evaluation or judgment about the company's financial health, which makes it an INCLAIM sentence."
+0,"as we look at it, obviously, the points we've given you today are really about the top line growth and as you heard gary talk about the fact that we are seeing lifts in these stores of over -- on average 10%."," INCLAIM
+
+The sentence is classified as INCLAIM because it contains a claim about the performance of stores, specifically mentioning lifts in stores of over 10% on average, which is not just factual past or present information. The use of ""obviously"" and ""as you heard"" also suggests that the speaker is presenting their opinion or interpretation of the data, rather than simply stating a fact."
+0,"and that means that product growth, we should take out some of the $600 million because some of it goes into deferred revenue."," INCLAIM
+
+This sentence contains a claim about the future (i.e., ""product growth"") and a suggestion for a specific action to be taken (i.e., ""take out some of the $600 million""). It is not simply stating factual past or present information, but rather expressing a forward-looking opinion or recommendation, which makes it an INCLAIM."
+0,"we're kind of operating in line with the long-term range that i've talked about is somewhere between 63%, plus or minus 50 basis points or so, and we've been operating fairly consistent with that if you look at the broader picture of calendar '22."," INCLAIM
+
+This sentence contains a claim about the company's long-term range and its consistency with that range, which makes it an INCLAIM sentence. The use of ""somewhere between"" and ""plus or minus"" suggests a degree of uncertainty, but the speaker is still making a claim about the company's performance."
+0,"software revenue was $3.8 billion, an increase of 6%, with the product portion up 9%."," INCLAIM
+
+This sentence contains a claim about the past performance of software revenue, specifically that it increased by 6% and the product portion was up 9%. This is not just factual information, but rather an evaluation or interpretation of that information, which makes it an INCLAIM."
+0,adjusted operating income margin for the family dollar segment was 3% for the quarter.," INCLAIM
+
+This sentence is classified as an INCLAIM because it provides a specific piece of information about the family dollar segment's operating income margin for a specific quarter, which is a claim that requires evidence or support to be proven true. It is not just providing factual past or present information, but rather presenting a specific metric that requires analysis and interpretation to be understood."
+0,"but we've got the plan assuming 25% was going to be in for the full year, and that's in our guidance."," INCLAIM
+
+This sentence contains a claim about the future, specifically that 25% of something (unspecified) is going to be in for the full year, and that this information is included in the guidance. The use of the word ""assuming"" suggests that this is not a certainty, but rather a prediction or projection, which makes it an claim rather than a factual statement."
+1,"i think it will be below the -- in that wfe environment, it'd be below what our long-term growth rate target of 12% to 14%."," INCLAIM
+
+This sentence is an opinion or prediction, rather than a statement of fact. The use of ""I think"" and ""would be"" indicates that the speaker is expressing their own belief or expectation, rather than stating something that can be verified or proven. Additionally, the sentence includes a comparison to a target or goal, which implies a level of subjectivity and interpretation. Therefore, it is classified as an INCLAIM sentence."
+0,"so kind of given all of this, like do you think guys just provide some sort of rough framework for thinking about the team's revenue and earnings power potential with industry spending down about 20% next year?"," INCLAIM
+
+This sentence is an inquiry seeking an opinion or perspective on a potential future scenario, specifically regarding the team's revenue and earnings power potential with industry spending down about 20% next year. It is not simply stating factual past or present information, but rather inviting speculation and analysis, making it an INCLAIM."
+0,"in our customer markets, service provider was up 42%, enterprise was up 37%, commercial was up 34% and public sector was up 20%."," INCLAIM
+
+This sentence is classified as an INCLAIM because it presents information that goes beyond factual past or present information. The sentence provides data about the performance of different sectors in a customer market, which implies a comparison or evaluation of their performance. The use of percentages and the mention of specific sectors also suggest a level of analysis or interpretation that goes beyond mere factual reporting. Therefore, this sentence can be considered as making a claim about the performance of these sectors and falls under the INCLAIM class."
+0,"it sounds like you really are capturing a nice share in terms of 75% or first biologic, so a two-part question."," INCLAIM
+
+This sentence is classified as an INCLAIM because it contains a claim about the speaker's success in capturing a nice share of 75% or first biologic. The use of the phrase ""it sounds like"" suggests that the speaker is making an inference or judgment about their performance, which goes beyond simply presenting factual information. Additionally, the phrase ""so a two-part question"" indicates that the speaker is about to ask a question or make a request, which further supports the classification of the sentence as an INCLAIM."
+1,"however, for the full year 2020, we continue to expect our annual core effective tax rate to be approximately 21%."," INCLAIM
+
+This sentence is an example of an in-claim sentence because it contains a prediction or projection about future events (the company's annual core effective tax rate for the full year 2020). The sentence is not simply stating factual past or present information, but rather providing a statement about what the company expects to happen in the future, which makes it a claim."
+0,product rpo increased 16%.," INCLAIM
+
+This sentence is classified as an INCLAIM because it contains a claim about the performance of a product (increased 16%). The sentence is not just stating a factual piece of information, but rather making a statement about the product's performance that could be seen as promotional or persuasive."
+0,studios revenue increased 27% driven fairly equally by growth in theatrical and content licensing revenue.," INCLAIM
+
+This sentence is classified as an INCLAIM because it contains a claim about the studio's revenue increase, which is not just factual past or present information. The sentence provides information about the driver of the revenue increase, which is not a fact that can be observed or proven, but rather an interpretation or analysis of the data. Therefore, it is considered a claim and not just factual information."
+0,"in addition, we have built up nearly $32 billion in remaining performance obligations, and our backlog remains robust."," INCLAIM
+
+This sentence contains a claim about the future performance obligations and backlog of a company. The use of ""remaining"" and ""robust"" implies a prediction or projection about the future, which makes it an INCLAIM sentence."
+0,and the family dollar's comp increased 1.4%.," INCLAIM
+
+This sentence is classified as an INCLAIM because it contains a claim about the future (i.e., the family dollar's comp increased 1.4%). The use of the word ""increased"" implies a change in the past, which is a claim that requires evidence or support. Additionally, the sentence does not provide any factual information about the present or past, but rather makes a statement about a specific change that occurred."
+0,"for example, in our adolescent atopic dermatitis trials, more than 90% had at least one other allergic condition, with more than 50% suffering from co-morbid asthma."," INCLAIM
+
+This sentence provides information about the results of adolescent atopic dermatitis trials and specifically mentions the percentage of participants who had other allergic conditions and co-morbid asthma. It presents this information as a claim, rather than just factual past or present information, and therefore falls under the 'INCLAIM' class."
+1,"so, now we expect to be on the high end of that at closer to $300."," INCLAIM
+
+This sentence expresses a future expectation or prediction, specifically stating that the speaker expects to be on the high end of a certain range, which implies a claim or projection about future performance. It is not simply stating factual past or present information, but rather making a statement about what is expected to happen in the future, which makes it an INCLAIM."
+0,that's down about 4 points in constant currency from 18% in may and is the lowest in a bit.," INCLAIM
+
+This sentence is an INCLAIM because it contains a claim about the past (May) and present (down 4 points) information, and the use of ""lowest"" implies a subjective evaluation or judgment. The sentence is not just stating factual information, but rather making a comparison and providing an assessment, which makes it an INCLAIM."
+0,"what i'd start by saying is the buyback that you saw, the additional buyback that you saw in q2 and the add to our outstanding authorization to take it up to just short of $18 billion and the $0.01 increase in dividend, those are all signs of the confidence we have in our business and the growth we see ahead."," INCLAIM
+
+This sentence contains a claim about the company's confidence in its business and the growth it sees ahead, which is not just factual past or present information. The use of the phrase ""those are all signs"" and the mention of ""confidence"" and ""growth"" suggest a forward-looking statement that goes beyond mere reporting of historical facts."
+0,"number one, the overall commodity basket is  about $16 billion, $17 billion."," INCLAIM
+
+This sentence is classified as an INCLAIM because it provides a specific value for the overall commodity basket, which is not just factual past or present information. The sentence implies that the speaker or writer is making a claim about the current value of the commodity basket, which requires an interpretation or evaluation of the available data. Therefore, it goes beyond simply presenting factual information and enters the realm of a claim."
+0,"while revenue from our hospitality business, the pubs and clubs that receive our sky tv service, remains pressured, we have seen weekly revenue back to 70% of historical levels versus 25% at the start of the quarter."," INCLAIM
+
+This sentence contains a claim about the current state of the company's revenue, specifically that it has recovered to 70% of historical levels. The use of the phrase ""remains pressured"" also implies a negative impact, which is a subjective evaluation and not just a factual statement. Therefore, it is classified as an INCLAIM sentence."
+0,"for example, in our enterprise business, we delivered 37% order growth, the highest in over 12 years, as large customers prioritize investments to modernize their networks and enable new digital capabilities and resiliency."," INCLAIM
+
+This sentence is an example of an INCLAIM because it contains a claim about the company's performance (37% order growth, highest in over 12 years) that goes beyond mere factual information. The sentence also includes a statement about the reasons behind the growth (large customers prioritizing investments to modernize their networks and enable new digital capabilities and resiliency), which further supports the claim."
+0,"as a quick follow-up, i think you talked about $100 million of gross risk related to the china impact for december."," INCLAIM
+
+This sentence is an example of an in-claim sentence because it contains a statement about the future (i.e., ""you talked about $100 million of gross risk related to the china impact for december"") that is not just factual past or present information. The sentence implies that the speaker is making a claim about the future impact of the China situation on the company's risk, which requires interpretation and analysis to verify. Therefore, it falls under the INCLAIM class."
+0,"oq - q3 2021 comcast corp earnings call event date/time: october 28, 2021 / 12:30pm gmt overview: co. reported 3q21 revenue of $30.3b and adjusted eps of $0.87."," INCLAIM
+
+This sentence provides information about Comcast Corp's earnings call event and reports the company's revenue and adjusted EPS for the third quarter of 2021. It contains factual information about past events and does not contain any claims or opinions, making it an INCLAIM sentence."
+0,"we're also leaning into flex, which increases the lifetime value of our broadband customers as we see churn improve by 15% to 20% for new customers that engage with the platform."," INCLAIM
+
+This sentence is classified as an INCLAIM because it contains a claim about the impact of the company's actions (leaning into flex) on the lifetime value of its broadband customers. The claim is supported by data (15% to 20% improvement in churn for new customers that engage with the platform), which makes it a statement that goes beyond mere factual information and enters the realm of evaluative or persuasive language."
+0,"for the first quarter 2019, global net product sales of eylea were $1.74 billion, an increase of 8% year over year u.s. eylea net product sales increased due to higher sales volume partly offset by an increase in sales-related deductions primarily due to higher discounts."," INCLAIM
+
+This sentence provides information about the sales of a product, specifically Eylea, and includes a year-over-year increase in sales. It also provides a brief explanation for the increase in sales, citing higher sales volume and increased discounts. This information goes beyond simply providing factual past or present information and includes an analysis of the factors contributing to the change in sales, making it an INCLAIM sentence."
+1,"when i net both of those together, we would expect to see about $0.60 to $0.70 a share erosion of the earnings power of the company."," INCLAIM
+
+This sentence is classified as an INCLAIM because it contains a prediction or projection about future earnings power of a company, which is not a factual or present information. The sentence is based on a hypothetical scenario and implies a causal relationship between two events, which makes it a claim."
+1,"for fiscal 2019, we're planning for consolidated capital expenditures to be approximately $1 billion."," INCLAIM
+
+This sentence is an example of an in-claim sentence because it contains a future-oriented statement of intent, which is a type of claim. The sentence expresses the company's plan or intention to spend a certain amount of money on capital expenditures in the future, which is not a factual or present information."
+0,"gross profit margin for the dollar tree segment was 37.1% for the fourth quarter, a 90 basis point decline compared with the prior year's fourth quarter."," INCLAIM
+
+This sentence provides a comparison of the gross profit margin for the dollar tree segment between the current and prior year's fourth quarter, which implies a judgment or evaluation of the performance of the company, and thus it contains a claim."
+0,"service revenue was $3.4 billion, down 1%, driven by delays in hardware support contracts related to the supply constraints."," INCLAIM
+
+This sentence provides a factual piece of information about the company's service revenue, but it also includes a claim about the reason for the decline in revenue, which is attributed to delays in hardware support contracts related to supply constraints. The claim implies a causal relationship between the delays and the decline in revenue, which makes it an INCLAIM."
+0,"our order growth was up more than 70% year over year, which is over 100% growth on a trailing four-quarter basis."," INCLAIM
+
+This sentence is classified as an INCLAIM because it contains a claim about the company's order growth, specifically that it was up more than 70% year over year and over 100% growth on a trailing four-quarter basis. This information is not just factual past or present information, but rather a statement about the company's performance that could be seen as promotional or persuasive in nature."
+0,"non-programming expenses declined 3.2%, primarily as a result of curtailed advertising, marketing and promotion spend as well as lower technical and product support primarily due to a covid-related slowdown in business activities."," INCLAIM
+
+This sentence contains a claim about the reason for a decline in non-programming expenses, specifically citing the impact of curtailed advertising, marketing, and promotion spend, as well as lower technical and product support due to a slowdown in business activities caused by COVID-19. The sentence goes beyond simply presenting factual information about the past or present, and instead provides an explanation for why something happened, which makes it an INCLAIM."
+0,"net new digital media annualized recurring revenue, or arr, was $464 million."," INCLAIM
+
+This sentence is an claim because it provides a specific figure for the company's annualized recurring revenue, which is a forward-looking statement that implies a projection or prediction about the company's future performance. It is not just factual past or present information, but rather a statement that implies a certain level of performance or achievement in the future."
+0,"and normal backlog, as we said last quarter, is between $4 billion and $5 billion at the end of the year."," INCLAIM
+
+This sentence is an INCLAIM because it contains a claim about the future (end of the year) backlog amount ($4 billion to $5 billion) which is not just factual past or present information. The sentence is providing a prediction or projection, which makes it a claim."
+1,"this quarter's ebitda included roughly $20 million of pre-opening costs related to our theme park in beijing, which remains on schedule to open by the summer of 2021."," INCLAIM
+
+This sentence includes a claim about the future (the theme park opening by the summer of 2021) and therefore falls under the INCLAIM class. While it also includes factual information about pre-opening costs, the inclusion of a future-oriented claim makes it an INCLAIM sentence."
+0,capital expenditures were $194.4 million in the fourth quarter versus $182.8 million in the fourth quarter of last year.," INCLAIM
+
+This sentence is an INCLAIM because it compares past and present information and implies a trend or a change, which is a claim that requires interpretation and analysis. The sentence goes beyond simply stating factual information and provides a basis for further discussion or analysis, such as an explanation for the increase in capital expenditures."
+0,"in the branded u.s. market, eylea has about 70% share of net product sales."," INCLAIM
+
+This sentence is classified as an INCLAIM because it contains a claim about the market share of Eylea in the branded U.S. market. The sentence is not just providing factual information about the past or present, but it is making a statement about the product's performance in the market, which could be seen as a claim."
+0,"so, are you suggesting to us that the backlog comes down by about $3.5 billion over the next several quarters?"," INCLAIM
+
+This sentence is an inquiry seeking clarification and is not presenting factual information, so it consists of a claim. It asks the addressee if they are suggesting that the backlog will reduce by $3.5 billion over the next several quarters, which is a prediction or an opinion, and not a fact."
+0,"the 6% was the decline in backlog from q1 to q2, right?"," INCLAIM
+
+This sentence is an inquiry seeking confirmation and contains a claim about the decline in backlog from Q1 to Q2. It is not just stating factual past or present information, but rather asking for verification of a specific fact, which makes it an INCLAIM."
+0,"excluding these adjustments, overall cable revenue would have risen by 3.9% with no corresponding impact to ebitda."," INCLAIM
+
+This sentence contains a claim about the impact of adjustments on cable revenue and EBITDA, which is not just factual past or present information. The use of the phrase ""would have risen"" implies a hypothetical scenario, which is a common way to express a claim or opinion. Therefore, this sentence is classified as INCLAIM."
+0,we delivered our second-highest quarterly revenue of $13.6 billion up 7% and record non-gaap eps at $0.88.," INCLAIM
+
+This sentence contains a claim about the company's financial performance, specifically mentioning the second-highest quarterly revenue and record non-GAAP EPS. The use of ""up 7%"" and ""record"" suggest a comparison to past performance and an achievement, respectively, which further supports the classification as an INCLAIM."
+0,"starting with total nbcuniversal results, revenue increased 58% to $10 billion, and ebitda increased 48% to $1.35 billion."," INCLAIM
+
+This sentence contains a claim about the company's financial performance, specifically that revenue increased 58% and EBITDA increased 48%. These are not just factual present or past information, but rather a presentation of the company's financial health and growth, which makes it an INCLAIM sentence."
+0,"excluding these adjustments, cable communications revenue increased 6.3% with no corresponding impact to ebitda."," INCLAIM
+
+This sentence contains a claim about the impact of adjustments on cable communications revenue and EBITDA, which makes it an INCLAIM sentence. The phrase ""with no corresponding impact to EBITDA"" implies a causal relationship between the adjustments and the EBITDA, which is an opinion or a conclusion, rather than a factual statement."
+0,"on january 18, 2019, the company prepaid it's $782 million term loan facility."," INCLAIM
+
+This sentence contains a claim about the company's financial actions, specifically that it prepaid a term loan facility on a specific date. The use of the phrase ""on january 18, 2019"" indicates that the sentence is describing a specific event or action that took place in the past, rather than simply providing factual information about the company's financial situation. Therefore, it is classified as an INCLAIM sentence."
+0,jason english -- goldman sachs -- analyst  that implies that ebitda if we just track what the first half would be down year-on-year by a bit over $200 million.," INCLAIM
+
+This sentence implies a future projection or forecast, specifically stating that EBITDA would be down year-on-year by a bit over $200 million in the first half. The use of ""would be"" and ""down year-on-year"" implies a prediction or estimate, making it an INCLAIM sentence."
+0,quarterly revenue was $2.724 billion at the top of the guided range of $2.475 billion to $2.725 billion.," INCLAIM
+
+This sentence is an example of an in-claim sentence because it provides information about the company's quarterly revenue, which is a claim that requires analysis and evaluation to verify its accuracy. The sentence also includes a comparison to a guided range, which implies a level of uncertainty and requires further investigation to confirm the accuracy of the claim."
+0,"on the top line, we grew revenue by 14% year-over-year or 15% in constant currency."," INCLAIM
+
+This sentence is classified as an INCLAIM because it contains a claim about past performance (revenue growth) that is not just factual information. The use of the phrase ""year-over-year"" and ""constant currency"" suggests a comparison is being made, and the sentence is presenting this information as an achievement or success."
+1,"i want to say it's about $700 million or so this year in '22 in terms of what we'll call kind of auto exposure from a revenue point of view, and we would expect to see that grow over time."," INCLAIM
+
+This sentence contains a claim about the future (i.e., ""we would expect to see that grow over time"") and is not just providing factual past or present information, therefore it is classified as INCLAIM."
+0,non-gaap operating margin was strong at 44.1%.," INCLAIM
+
+This sentence is classified as an INCLAIM because it contains a claim about the strength of the non-gaap operating margin, which is a subjective evaluation and not just factual information. The use of the word ""strong"" implies a positive assessment or judgment about the margin, which goes beyond simply stating a fact."
+0,depreciation and amortization totaled $166.7 million for the fourth quarter.," INCLAIM
+
+This sentence is an example of an out-of-claim sentence. It merely provides factual information regarding the amount of depreciation and amortization for a specific quarter, without expressing any opinion, judgment, or argument that would make it a claim."
+0,"from a non-gaap profitability perspective, total q1 gross margin was 63.8%, up 0.1 points, product gross margin was 63.2%, up 0.2 points, and service gross margin was 65.7%, up 0.1 points."," INCLAIM
+
+This sentence provides information about the company's gross margin, which is a financial metric that investors and analysts use to evaluate a company's profitability. The sentence includes a comparison of the current quarter's gross margin to the previous quarter, which implies a trend or a claim about the company's financial performance. Therefore, it is classified as an INCLAIM sentence."
+0,end-to-end security was up 7% driven by our unified threat management and zero trust offerings.," INCLAIM
+
+This sentence is classified as an INCLAIM because it contains a claim about the company's performance, specifically the increase in end-to-end security, and attributes it to their unified threat management and zero trust offerings. The use of ""driven by"" implies a causal relationship between the company's actions and the outcome, which is a common feature of claims."
+0,"i think if i remember correctly, you're spending about $300 million, p&l dollars against it."," INCLAIM
+
+This sentence is an inference and contains a claim. The speaker is expressing their belief that the person they are addressing is spending around $300 million from their profit and loss (P&L) budget for something, which is not a factual or present information. It is an assumption and not a certain fact, making it an inference and a claim."
+0,i'm interpreting this to mean that you're lowering your full-year ebitda guidance by about $300 million.," INCLAIM
+
+This sentence is an interpretation and not a factual statement, it's a claim made by the speaker based on their understanding of the information provided, therefore it falls under the INCLAIM class."
+0,"wireless revenue increased 23%, driven by 187,000 additional lines, resulting in 2.6 million total lines at quarter end."," INCLAIM
+
+This sentence contains a claim about the increase in wireless revenue and the driver of that increase (187,000 additional lines). The phrase ""resulting in 2.6 million total lines at quarter end"" provides additional information about the current state of the company's wireless lines, but it does not alter the fact that the main focus of the sentence is on the claim about revenue growth. Therefore, this sentence is classified as INCLAIM."
+0,regeneron's process validation expenses and inventory write-offs and reserves for first-quarter 2019 were $44 million higher than the first-quarter 2018.," INCLAIM
+
+This sentence provides information about Regeneron's process validation expenses, inventory write-offs, and reserves for the first quarter of 2019 and compares it with the same information for the first quarter of 2018. It does not contain any claim or opinion, it's just factual information about the company's financial performance, therefore it's OUTOFCLAIM."
+0,"so, we were able to work off about 6% of the backlog that we came into the quarter with."," INCLAIM
+
+This sentence is an INCLAIM because it contains a claim about the past performance of the team, specifically that they were able to work off 6% of the backlog they started the quarter with. This is not just factual information, but an evaluation of their performance, which makes it a claim."
+0,"so 2018, we have returned -- as you alluded to, we've returned $76 billion in capital to shareholders just since 2018."," INCLAIM
+
+This sentence is an example of an INCLAIM because it contains a claim about the company's actions and their impact on shareholders, rather than simply stating factual information about the past or present. The use of ""just since 2018"" and ""as you alluded to"" suggests that the speaker is highlighting their achievements and trying to persuade the audience of their success, which is a key characteristic of a claim."
+0,"we generated $3.2 billion of free cash flow this quarter, including a $670 million benefit related to the tax impact of the bond exchange we completed in august."," INCLAIM
+
+This sentence includes a claim about the company's financial performance, specifically the amount of free cash flow generated, which is not just factual information. The mention of the tax impact of the bond exchange also implies a causal relationship between the company's actions and the financial result, which further supports the classification as an INCLAIM."
+0,"overall, sky q penetration is at 51% of households while u.k. penetration has reached 58%, up 13 percentage points year-over-year."," INCLAIM
+
+This sentence is classified as an INCLAIM because it contains a year-over-year comparison of penetration rates, which implies a causal relationship between the current state and a previous state, and thus, contains a claim. The sentence is not just stating factual information about the current state of affairs, but it is making a statement about the change in penetration rates over time, which requires interpretation and analysis."
+1,"second, in march, we outlined the impact of the ongoing war in ukraine and our decision to cease all new sales in russia and belarus, resulting in an expected $75 million revenue impact on our digital media business."," INCLAIM
+
+This sentence is an example of an INCLAIM because it contains a claim about the impact of the ongoing war in Ukraine and the company's decision to cease all new sales in Russia and Belarus, which is not just factual past or present information. The sentence also includes a specific figure ($75 million) for the expected revenue impact, which further supports the classification as an INCLAIM."
+0,"turning now to dupixent, where global net product sales in the first quarter were $374 million."," INCLAIM
+
+This sentence provides information about the global net product sales of Dupixent in the first quarter, but it does not contain any claim or opinion. It is a factual statement about past performance, and therefore it is classified as OUTOFCLAIM."
+0,"total capital returns in the quarter were $278 million, comprising $90 million in share repurchases and $188 million in dividends paid."," INCLAIM
+
+This sentence provides information about the company's financial performance in the quarter, specifically the total capital returns, which includes share repurchases and dividends paid. It does not contain any claim or opinion, but rather factual information about the company's past performance, making it an INCLAIM sentence."
+0,"last, advertising revenue increased 4.6%, reflecting a strong overall market recovery compared to last year's third quarter, which was impacted by covid, partially offset by lower political advertising."," INCLAIM
+
+This sentence contains a claim about the current state of the market and its recovery compared to last year, which is not just factual information. The use of the phrase ""strong overall market recovery"" implies a subjective evaluation of the market's performance, and the comparison to last year's third quarter, which was impacted by COVID, suggests a causal relationship between the market's recovery and external factors. Therefore, this sentence is classified as an INCLAIM."
+0,we added $107 million of net new document cloud arr in the quarter.," INCLAIM
+
+This sentence is an example of an INCLAIM because it contains a claim about the company's performance in the quarter, specifically the addition of $107 million in net new document cloud arr. This information is not just factual past or present information, but rather a statement about the company's achievements and future potential."
+0,"and then, in q4, obviously, that was the first quarter that we experienced a 30%-plus quarter from last fiscal year."," INCLAIM
+
+This sentence contains a claim about the past, specifically that the first quarter of the current fiscal year was the first quarter to experience a 30%-plus quarter compared to the previous fiscal year. The use of ""obviously"" suggests that the speaker is making a judgment or inference about the past, which is not purely factual information. Therefore, it falls under the 'INCLAIM' class."
+0,"but as you saw from our disclosures, we wrote off $1.3 billion of that balance with the adoption of the new standard for those enterprise agreements and for cisco one."," INCLAIM
+
+This sentence contains a claim about the company's financial performance, specifically the write-off of $1.3 billion, which is not just factual past or present information. The use of the phrase ""as you saw from our disclosures"" also implies that the company is trying to justify or explain their actions, which further supports the classification as an INCLAIM."
+1,"if these tariffs do not move to 25%, we expect to see margin benefit in the second half of fiscal 2019."," INCLAIM
+
+This sentence is an inference and a prediction, it's not just stating a fact or past information, it's stating a possible future outcome based on a specific condition, which makes it a claim."
+1,"we currently have $9.5 billion remaining of our $15 billion authorization granted in december 2020, which goes through 2024."," INCLAIM
+
+This sentence provides information about the current status of a authorization granted in the past, but it also implies a future plan or commitment to use the remaining amount until 2024, which makes it an INCLAIM sentence."
+0,"and then on my follow-up, good to see the strong euv mask inspection shipments and patterning segment was up almost 70% year over year."," INCLAIM
+
+This sentence contains a claim about the performance of the speaker's company, specifically the increase in shipments and revenue of their patterning segment. The use of ""good to see"" and ""almost 70% year over year"" implies a positive evaluation of the company's performance, which is an opinion or a claim, rather than a factual statement."
+0,"specifically for this quarter, record revenue of $2.7 billion was at the top of the guidance range, growing 31% on a year-over-year basis and 10% sequentially."," INCLAIM
+
+This sentence contains a claim about the company's revenue for a specific quarter, which is not just factual past or present information. The use of the phrase ""at the top of the guidance range"" and the comparison to previous years' revenue implies that the company has exceeded expectations and is performing well, which is an evaluative statement that goes beyond mere factual reporting."
+0,"operating cash flow for the quarter was $2.5 billion, down 17% year over year, primarily driven by advance payments to secure future supply."," INCLAIM
+
+This sentence contains a claim about the operating cash flow for the quarter, specifically that it was $2.5 billion and that it was down 17% year over year. The sentence also provides an explanation for the decrease in operating cash flow, citing advance payments to secure future supply as the primary driver. This goes beyond simply presenting factual information about the past or present, and therefore qualifies as an INCLAIM."
+0,"scott herren -- chief financial officer  ittai, that's something that we've been alert to and watching for since we began building the backlog after three consecutive quarters of demand growth in the 30% range and revenue growth only in the 6% to 8% range."," INCLAIM
+
+This sentence contains a claim about the company's past performance and future prospects, specifically mentioning ""three consecutive quarters of demand growth in the 30% range and revenue growth only in the 6% to 8% range."" This information goes beyond mere factual information and implies a judgment or assessment about the company's financial health and future potential, making it an INCLAIM."
+0,"the strong level of net customer additions over the past year, including this third quarter, coupled with higher average revenue per customer, drove broadband revenue growth of 12%."," INCLAIM
+
+This sentence includes a claim about the company's broadband revenue growth being driven by two specific factors: strong net customer additions and higher average revenue per customer. The use of the word ""coupled"" suggests a causal relationship between these factors and the revenue growth, which makes it an claim rather than just factual information."
+0,"in q2, we achieved net new document cloud arr of $107 million and record revenue of $595 million, which grew 28% year-over-year."," INCLAIM
+
+This sentence contains a claim about the company's performance in Q2, specifically mentioning achievements in net new document cloud arr and revenue growth. The use of the phrase ""record revenue"" and the mention of year-over-year growth also suggest a sense of pride or accomplishment, which further supports the classification as an INCLAIM."
+0,"and i have an assumption baked in on certainly the tariff costs if they go up to 25%, as well as an assumption on what we can offset with prices pushing through."," INCLAIM
+
+This sentence contains an assumption about the impact of tariff costs on the business, specifically that the costs will increase by 25% and that the business can offset some of these costs by increasing prices. This is a claim about the future and is not simply stating factual information, therefore it falls under the INCLAIM class."
+0,"for the third quarter, cable communications revenue increased 2.9% while ebitda increased 10.5%."," INCLAIM
+
+This sentence provides information about the past performance of a company, specifically the increase in revenue and EBITDA for the third quarter. It presents a claim about the company's financial performance, which makes it fall under the INCLAIM class."
+0,"switching to the balance sheet, kla ended the quarter with almost $3 billion in total cash, debt of $6.3 billion and a flexible and attractive bond maturity profile supported by strong investment-grade ratings from all three agencies."," INCLAIM
+
+This sentence provides information about KLA's financial situation, including the amount of cash, debt, and bond maturity profile. However, it also includes a subjective assessment of the bond maturity profile being ""flexible and attractive,"" which implies a claim or evaluation that goes beyond factual information. Therefore, it is classified as an INCLAIM sentence."
+0,filmed entertainment ebitda increased 53% as lower revenue was more than offset by lower operating costs related to less spending on current period releases as a result of covid-19.," INCLAIM
+
+This sentence contains a claim about the company's financial performance, specifically that its filmed entertainment EBITDA increased by 53%. The claim is not just a statement of factual past or present information, but rather an evaluation of the company's financial health, which makes it an INCLAIM."
+0,"as a result, for q3, we are targeting total adobe revenue of approximately $4.43 billion, net new digital media arr of approximately $430 million, digital media segment revenue growth of approximately 13% year-over-year or 16% in constant currency, digital experience segment revenue growth of approximately 12% year-over-year or 14% in constant currency, digital experience subscription revenue growth of approximately 13% year-over-year or 15% in constant currency, tax rate of approximately 22.5% on a gaap basis and 18.5% on a non-gaap basis and gaap earnings per share of approximately $2.35 and non-gaap earnings per share of approximately $3.33."," INCLAIM
+
+This sentence contains a claim about future performance, specifically targeting total adobe revenue, net new digital media arr, digital media segment revenue growth, digital experience segment revenue growth, digital experience subscription revenue growth, tax rate, and earnings per share for Q3. These are not just factual past or present information, but rather a statement of what the company aims to achieve in the future, making it an INCLAIM."
+1,non-gaap earnings per share is expected to range from $0.85 to $0.87.," INCLAIM
+
+This sentence is classified as an INCLAIM because it contains a prediction or projection about future performance (non-gaap earnings per share is expected to range from $0.85 to $0.87), which is not just factual past or present information. The sentence implies a claim or expectation about future performance, which makes it an INCLAIM."
+0,"we continued to see exceptional performance, driven by the rapid pace of adoption of our 400-gig solutions and our routed optical networking portfolio, which grew over 50%, fueled by the cisco 8000 product line, acacia and silicon one."," INCLAIM
+
+This sentence contains a claim about the company's exceptional performance and the growth of its routed optical networking portfolio, which is not just factual past or present information. The use of phrases such as ""exceptional performance,"" ""rapid pace of adoption,"" and ""fueled by"" suggest that the sentence is making a evaluative statement rather than simply presenting factual information."
+0,"at family dollar, we've driven more than $145 million in estimated savings for indirect procurement and more than $100 million in cost of sales."," INCLAIM
+
+This sentence is an claim because it uses the phrase ""we've driven"" which implies agency and action taken by the company, and it also uses the phrase ""estimated savings"" which implies a projection or prediction of future benefits, rather than simply stating a fact about past or present information. Additionally, the mention of ""cost of sales"" also implies a financial impact, which is a common aspect of claims."
+0,"excluding the $0.21 per share benefit from the extra week in 2017, adjusted earnings per share increased 14.9%."," INCLAIM
+
+This sentence contains a claim about the adjusted earnings per share increasing by 14.9%, which is not just factual past or present information. The phrase ""adjusted earnings per share"" implies that the earnings have been modified or adjusted in some way, which requires interpretation and judgment, making it a claim. Additionally, the exclusion of the $0.21 per share benefit from the extra week in 2017 also implies a level of interpretation and judgment, further supporting the classification of this sentence as an INCLAIM."
+0,"product remaining performance obligations, or rpo, which is largely software revenue that is committed but not yet recognized, was up 16%."," INCLAIM
+
+This sentence contains a claim about the performance obligations of a product, specifically that they are ""largely software revenue that is committed but not yet recognized"" and that they have increased by 16%. This is not just factual information about the past or present, but rather an evaluation or judgment about the product's performance, which makes it an INCLAIM."
+0,"in our digital media business, we drove strong growth in both creative cloud and document cloud, achieving $3.2 billion in revenue."," INCLAIM
+
+This sentence is an example of an INCLAIM because it contains a claim about the company's performance, specifically the achievement of $3.2 billion in revenue, which is not just factual information about the past or present. The use of the word ""driven"" also implies agency and effort, which further supports the classification as a claim."
+0,"non-gaap earnings per share is increasing to $3.41 to $3.46, up 5.9% to 7.5% year on year."," INCLAIM
+
+This sentence is classified as an INCLAIM because it contains a claim about future performance (earnings per share increasing to $3.41 to $3.46) which is not just factual past or present information. The sentence provides a specific percentage increase (5.9% to 7.5% year on year) which is also a claim, as it implies a certain level of performance that may not be guaranteed."

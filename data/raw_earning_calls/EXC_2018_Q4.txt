@@ -1,0 +1,574 @@
+Client Id: 77
+THOMSON REUTERS STREETEVENTS
+EDITED TRANSCRIPT
+DXC.N - Q4 2018 DXC Technology Co Earnings Call
+EVENT DATE/TIME: MAY 24, 2018 / 9:00PM GMT
+OVERVIEW:
+Co. reported 4Q18 GAAP revenue of $6.294b and non-GAAP diluted EPS from
+continuing operations of $2.28. Expects FY19 revenue to be $21.5-22.0b and
+non-GAAP EPS to be $7.75-8.15.
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+Client Id: 77
+CORPORATE PARTICIPANTS
+John Michael Lawrie DXC Technology Company - Chairman, President & CEO
+Jonathan Ford
+Paul N. Saleh DXC Technology Company - Executive VP & CFO
+CONFERENCE CALL PARTICIPANTS
+Arvind Anil Ramnani KeyBanc Capital Markets Inc., Research Division - Senior Research Analyst
+Ashwin Vassant Shirvaikar Citigroup Inc, Research Division - Director and U.S. Computer and Business Services Analyst
+Bryan Connell Keane Deutsche Bank AG, Research Division - Research Analyst
+David Michael Grossman Stifel, Nicolaus & Company, Incorporated, Research Division - MD
+James Edward Schneider Goldman Sachs Group Inc., Research Division - VP
+PRESENTATION
+Operator
+Good day, and welcome to the DXC Technology Fourth Quarter and Fiscal Year 2018 Results Call. Today's call is being recorded. At this time, I'd
+like to turn the conference over to Mr. Jonathan Ford, Head of Investor Relations. Please go ahead, sir.
+Jonathan Ford
+Thank you, and good afternoon, everyone. I'm pleased you're joining us for DXC Technology's Fourth Quarter and Year-end Fiscal 2018 Earnings
+Call. Our speakers on today's call will be Mike Lawrie, our Chairman, President and Chief Executive Officer; and Paul Saleh, our Chief Financial Officer.
+The call is being webcast at dxc.com/investorrelations, and we posted slides to our website, which will accompany the discussion today.
+Slide 2 explains the discussion will include comparisons of our results for the fourth quarter and full year fiscal 2018 to our pro forma combined
+company results for the fourth quarter and full year fiscal 2017. The pro forma results are based on the historical quarterly statements of operations
+of each of CSC and the legacy Enterprise Services business of HPE or HPES, giving effect to the mergers that could have been consummated on
+April 2, 2016. As a consequence of CSC and HPES having different fiscal year-end dates, the pro forma combined company results include the results
+of operations of CSC for the 3 and 12 months ending March 31, 2017, and of HPES for the 3 and 12 months ending January 31, 2017.
+Slide 3 informs our participants that DXC Technology's presentation includes certain non-GAAP financial measures and certain further adjustments
+to these measures, which we believe provide useful supplemental information to our investors. In accordance with SEC rules, we have provided a
+reconciliation of these measures to their respective and most directly comparable GAAP measures. These reconciliations can be found in the tables
+included in today's earnings release as well as in our supplemental slides. Both documents are available on the Investor Relations section of our
+website.
+On Slide 4, you'll see that certain comments we make on the call will be forward looking. These statements are subject to known and unknown
+risks and uncertainties, which could cause actual results to differ materially from those expressed on the call. A discussion of risks and uncertainties
+is included in our quarterly reports on Form 10-Q, our annual report on Form 10-K that we'll file in the next few days and other SEC filings. I'd like
+to remind our listeners that DXC Technology assumes no obligation to update the information presented on the call except as required by law.
+And now I'd like to introduce DXC Technology's Chairman, President and CEO, Mike Lawrie.
+2
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+MAY 24, 2018 / 9:00PM, DXC.N - Q4 2018 DXC Technology Co Earnings Call
+Client Id: 77
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Okay. Thank you. Welcome, everyone. Thanks for taking the time with us this afternoon. As is my practice, I've got 4, 5 key points, which I'll go over
+briefly and then get into a little more detail before I turn it over to Paul. And then we'll have plenty of time for any questions that you may have.
+So the first point here is our fourth quarter non-GAAP EPS was $2.28. For fiscal 2018, our non-GAAP EPS was $7.94. Adjusted EBIT was $1,017,000,000
+in the quarter, and adjusted EBIT margin was 16.2%.
+For fiscal 2018, adjusted EBIT was $3.499 billion, and adjusted EBIT margin was 14.2%. We generated $557 million of adjusted free cash flow in the
+fourth quarter, and for fiscal 2018, adjusted free cash flow was $2.427 billion.
+Our revenue in the fourth quarter was $6.294 billion on a GAAP basis, and revenue grew 4.3% year-over-year and was up 1.7% sequentially. In
+constant currency, revenue was down 1.3% year-over-year, was roughly flat sequentially. And for fiscal 2018, revenue was $24.556 billion. The book
+to bill in the fourth quarter was 0.9, and for the full year, it was 1x.
+In the fourth quarter, our digital revenue grew 21.6% year-over-year and 8.5% sequentially. For fiscal 2018, digital revenue grew 17%. And in the
+fourth quarter, our industry IP and BPS revenue was up 7.9% year-over-year and was up 5.7% sequentially. For fiscal 2018, our industry IP and BPS
+revenue was roughly flat. In the fourth quarter, our digital book to bill was 1x, and our industry IP and BPS book to bill was 0.7.
+Throughout fiscal 2018, we achieved a key merger integration milestones and exceeded our synergy targets, delivering $1.1 billion of year 1 cost
+savings as well as $1.6 billion of run rate cost savings exiting the year. Also, the separation of our U.S. Public Sector business, in combination with
+Vencore Holding Corporation and KeyPoint Government Solutions, will close at the end of this month, forming Perspecta. And for fiscal 2019, we
+are targeting revenue of $21.5 billion to $22 billion, which excludes the USPS business. And our non-GAAP EPS target is $7.75 to $8.15, and our
+adjusted free cash flow target is 90% or more of adjusted net income.
+So let me just delve into a little more detail on each of those. As I said, our fourth quarter non-GAAP EPS was $2.28, and the effective tax rate was
+29.4%. For fiscal 2018, non-GAAP EPS was $7.94, and the effective tax rate for the full year was 28.3%. Fourth quarter EBIT, adjusted for restructuring,
+integration, amortization of intangibles, was $1.017 billion, and adjusted EBIT margin on that basis was 16.2%, which was up 600 basis points
+year-over-year and up 127 basis points sequentially.
+For fiscal 2018, adjusted EBIT was $3.499 billion, and the adjusted EBIT margin was 14.2%, an improvement of 460 basis points. This margin
+improvement reflects execution of the synergy plans we outlined at our Investor Day last March, including workforce optimization, supply chain
+efficiencies, policy harmonization and facilities rationalization. Our delivery teams continued to drive increased productivity while improving service
+levels for our clients. We've scaled our bionics automation program to more than 50,000 employees on our delivery centers. These improvements
+address capabilities such as service desk, incident management, server provisioning to eliminate labor, reduce disruptions and accelerate resolutions.
+For example, we deployed runbook automation to diagnose the most common application falls and develop scripted resolutions, which then
+trigger predetermined corrective actions. In centers where this has been implemented, roughly 70% of instances are auto diagnosed and resolved.
+During fiscal 2018, our bionics program reduced our delivery labor expense by more than 3%.
+In supply chain, we've scaled our labor improvement actions to extract greater efficiencies from third-party spend, including reduction of hardware
+and maintenance expense. Through our relationship with Turbonomics, we were able to optimize workloads and cloud environments to increase
+utilization of virtual machines and reduce the infrastructure cost. We're also enhancing our delivery capabilities to handle more data center
+maintenance work internally, which reduces third-party expense as well as dependence on equipment manufacturers. We're further lowering
+maintenance expense through deployment of consistent architectural standards and client solutions, which improves predictability and reduces
+overall support costs.
+Collectively, we delivered $1.1 billion of year 1 synergy realization versus our target of $1 billion. And adjusted free cash flow for the quarter, as I
+said, was $557 million or 84% of adjusted net income, and for fiscal 2018, adjusted free cash flow was $2.427 billion or 105% of adjusted net income.
+3
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+MAY 24, 2018 / 9:00PM, DXC.N - Q4 2018 DXC Technology Co Earnings Call
+Client Id: 77
+Now let me turn to revenue. Our revenue in the fourth quarter was $6.294 billion on a GAAP basis. Revenue grew 4.3% year-over-year and was up
+1.7% sequentially. In constant currency, revenue was down 1.3% year-over-year and was roughly flat sequentially. Book to bill in the fourth quarter
+was 0.9x. For fiscal 2018, revenue was $24.556 billion on a GAAP basis, and in constant currency, revenue was $24.2 billion, in line with the target
+of $24 billion to $24.5 billion. Book to bill for the year was 1x.
+Now in the fourth quarter, GBS revenue was $2.361 billion. GBS revenue grew 3.3% year-over-year and grew 2% sequentially. And this, I think,
+reflects the continued shift from traditional application services to enterprise and cloud applications. We're working with our clients to standardize
+and rationalize their application portfolios, which typically involves a shift from legacy custom applications to packaged Enterprise Applications
+such as Workday, SAP, Oracle and Microsoft Dynamics. Through the consolidation of application providers, these workload transformations often
+result in greater revenue for DXC while lowering the overall costs for our clients. GBS book to bill in the quarter was 0.9x, and for fiscal 2018, GBS
+revenue was $9.254 billion and a book to bill of 1.1x. In the quarter, GBS segment margin was 19.9% compared with 12.4% in the prior year. And
+for fiscal 2018, GBS margin was 16.9%, which was up 480 basis points from the prior year.
+In the fourth quarter, GIS revenue was $3.223 billion. GIS revenue grew 3.3% (sic) [3.6%] year-over-year and 2.5% sequentially. GIS revenue reflects
+growth in cloud and platform services as well as mobility and workplace. Workplace and mobility grew 7.8% year-over-year and was up 67%
+year-over-year in bookings. This includes a new logo win with a major automotive manufacturer.
+Working with Microsoft, Citrix and ServiceNow, DXC will deliver workplace and mobility services for the entire company across more than 125,000
+users and 1,400 locations. Overall, GIS bookings were $2.9 billion, which were up 11% year-over-year and represented a book to bill of 0.9x. For
+fiscal 2018, GIS revenue was $12,479,000,000, and the book to bill was also 0.9x.
+In the quarter, GIS segment margin was 14.8% compared with 11.4% in the prior year, reflecting productivity improvements and the automation
+of processes. For fiscal 2018, GIS margin was 13.6%, which was up 340 basis points from the prior year.
+Now in the fourth quarter, USPS revenue was $710 million. UPS (sic) [USPS] revenue was up 11.1% year-over-year and was down 2.2% sequentially.
+USPS bookings of $522 million represent a book to bill of 0.7x. For fiscal 2018, UPS revenue -- USPS revenue was $2.83 billion with a book to bill of
+0.7x. The USPS segment margin in the quarter was 17%, and this was up 710 basis points year-over-year and 180 basis points sequentially. And for
+fiscal 2018, USPS margin was 14.8%, which was up 390 basis points from the prior year.
+I'll talk more in a moment about the separation of USPS business and the combination with Vencore and KeyPoint. And during its first year of
+operation, DXC expanded its client base by adding more than 90 new logo deals greater than 1 million in total contract value.
+Now let me turn to digital. Our digital revenue was up 21.6% year-over-year and was up 8.5% sequentially. Digital book to bill was 1x in the quarter,
+and as we've discussed, digital cuts across all 3 of DXC's reporting segments in GBS, GIS and USPS and includes enterprise cloud apps and consulting
+cloud infrastructure, analytics and security. And for fiscal 2018, digital revenue grew 17%.
+Enterprise cloud apps and consulting revenue was up 38% year-over-year and up 8.5% sequentially. Book to bill in the quarter was 1.2x. This growth
+reflects continued traction with our clients, including a recent app transformation deal with a major communications provider. By consolidating
+its portfolio under a single service provider, we're reducing their operational costs, driving consistent and improved service levels and reducing
+overall risk through more stable business operations. We're also deploying application development as a service, which gives the client access to
+a highly flexible resource pool while providing predictable pricing for project work.
+Cloud revenue was up 29% year-over-year and was up 12.6% sequentially. Bookings were up 50% year-over-year with a book to bill of 0.9x. Drivers
+of the revenue in bookings growth in cloud include a major deal with a large health care company. DXC partnered with the client to create an
+everything-as-a-service solution across hardware, software, facilities and services, incorporating offerings for Microsoft Azure, Dell EMC, HPE HP
+and AT&T. This transformational allows the client to reduce its operating budget while also avoiding significant capital expense. In selecting DXC,
+the client highlighted our experience in clinical health care technology infrastructure, our unique health care cloud on Azure solution and strong
+existing application support.
+4
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+MAY 24, 2018 / 9:00PM, DXC.N - Q4 2018 DXC Technology Co Earnings Call
+Client Id: 77
+Analytics revenue was down 3.8% year-over-year but was up 9% sequentially. We continue to gain traction across our client base as we drive
+adoption of artificial intelligence. For example, we're working with automotive manufacturers to accelerate autonomous driving R&D, and we
+detect possible money laundering crimes for financial institutions. Book to bill in the quarter was 0.7x.
+Security revenue was down 1.3% year-over-year and was up 1.4% sequentially. We continue to invest in expanding our security consulting capabilities
+as well as our standard global security delivery platform. Book to bill in the quarter was 1x.
+Industry IP and BPS includes our IP offerings in health care, insurance, travel and transportation and banking as well as our industry BPS business.
+Industry IP and BPS revenue grew 7.9% year-over-year and was up 5.7% sequentially. Book to bill was 0.7x in the quarter. For fiscal 2018, industry
+IP and BPS revenue was roughly flat.
+Industry IP revenue grew 7.3% year-over-year and was up 5.9% sequentially. Industry IP growth was primarily driven by strong revenue performance
+in our health care sector, including growth in our state Medicaid accounts. Book to bill in the quarter was 0.4, reflecting the lumpiness of contract
+awards in this segment.
+BPS revenue was up 8.5% year-over-year and up 5.5% sequentially. Book to bill in the quarter was 1.1x. Revenue growth reflects the continued
+ramp-up of our large BPS contracts with insurance companies. We also continue to modernize our portfolio with a focus on robotics for shared
+services, including the launch of Bionix as an offering. Bionix provides an industrialized operating model leveraging analytics and artificial intelligence,
+lean process design and leading automation capabilities to create comprehensive, high-performance approaches to services delivery. DXC launched
+Bionix in response to client demand for greater IP performance and the need to digitally transform traditional IP environments and processes.
+In the quarter, we continue to expand our offerings and partnered solutions, including the launch of DXC Open Health Connect, a digital health
+platform that allows health care providers to improve quality of care and patient outcome by providing data when and where it is needed across
+the health care ecosystem. We co-created Open Health Connect with a large academic and research hospital system in New York and have also
+worked with several of our strategic partners, including Microsoft and ServiceNow.
+In response to our clients' need for an accelerated process to evaluate and transform their application state, we created the DXC modernization
+studio. The studio features 48 client experience datasets with data from 500,000 enterprise applications. DXC leverages the studio to provide clients
+with an assessment and recommendation in as little as 2 weeks, a process that used to take up to 6 months. And we're investing in our people, and
+we're investing in our business consistent with the plan we outlined in Investor Day.
+We recently announced the acquisition of Sable37 and eBECS, which will be combined with DXC's Eclipse practice to significantly expand our
+Microsoft Dynamics 365 cloud capabilities globally. This represents a key part of our strategy to lead the Microsoft partner marketplace and accelerate
+digital transformation journeys for our clients.
+We also continue to invest in our people. This year, DXC employees completed more than 1.5 million hours of training with a heavy focus on digital
+certifications in AWS, Microsoft Azure and Dynamics, ServiceNow and Agile development. We also expanded our sales training and certification
+program beyond our go-to-market teams, and more than 17,000 employees have completed the training and passed the certification exam. And
+we continue to expand the DXC Dynamic Talent Cloud, our crowdsourcing platform that enables us to bring new people skills to DXC in a more
+flexible way. We're working with partners such as Upwork, Qualitrix, HackerEarth and LinkedIn to scale the platform, and we now have more than
+7,000 subscribers engaged. Once again, DXC was ranked in the top 20 on Corporate Responsibility Magazine's ranking of the 100 best corporate
+citizens. This ranking recognizes DXC's performance across 7 categories: environmental impact, climate change, employee relations, human rights,
+governance, finance, philanthropy and community support.
+On the fourth point that I wanted to just get into a little more detail before I turn it over to Paul, we continued to achieve key merger integration
+milestones during the fourth quarter and really successfully completed the overall year 1 integration road map for DXC. We delivered $1.1 billion
+in year 1 cost savings versus the target of $1 billion and $1.6 billion of run rate cost savings exiting fiscal 2018 versus the target of $1.5 billion.
+5
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+MAY 24, 2018 / 9:00PM, DXC.N - Q4 2018 DXC Technology Co Earnings Call
+Client Id: 77
+The separation of U.S. Public Sector business in combination with Vencore and KeyPoint to form Perspecta will close at the end of the month.
+Integration activities for Perspecta have gone well, and the company is set to begin operating as a stand-alone company. The operating model is
+in place, and the leadership has begun to execute as an integrated team. And importantly, the response to the launch of Perspecta has been
+consistently favorable from key stakeholders. Perspecta held its Investor Day earlier this month and will begin trading on the New York Stock
+Exchange on June 1. The Perspecta management team will continue meeting with investors, employees and partners over the coming weeks to
+discuss the new company, and we at DXC plan to hold a separate Investor Day this fall.
+And now finally, during our first year, DXC did track a bit ahead of plan on revenue. Now when we set our revenue target of $24 billion to $24.5
+billion, we expected 2 to 3 points of revenue dis-synergy during the year. We continue to see this playing out, but so far, we have seen less impact
+than what we had expected.
+Profit during the first year was also better than expected as we were able to accelerate many of the cost takeout synergies, including reduced
+management layers and global deployment of our automation program, Bionix. And we also benefited from lease reclassification, tax reform and
+a onetime FX gain.
+Turning to next year. For fiscal 2019, we expect revenue to be $21.5 billion to $22 billion, which excludes the USPS business. There are several
+positive things contributing to that target as well as a couple of mitigating factors. We continue to accelerate the growth in our digital and industry
+IP offerings, and our BPS business is also demonstrating strong momentum. We do expect some additional revenue dis-synergies next year as well
+as the ongoing headwinds in traditional services that we had previously discussed. Also, the revenue from our HPE contract associated with the
+merger will normalize this year at a bit lower rate, and we continue to gauge the potential impact of Brexit in our U.K. business. We're targeting
+non-GAAP EPS of $7.75 to $8.15 and adjusted free cash flow to be 90% or more of adjusted net income.
+And with that, I'll turn it over to Paul, and then we'll come back to answer any questions.
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+All right. Thank you, Mike, and greetings, everyone. Before I review the fourth quarter and full year for DXC, I would like to make a -- take a moment
+to clarify the basis of our financial presentation. First, all the references to the (inaudible) statements of operations from the prior year include the
+results of operations of CSC for the 3 and 12 months ended March 31, 2017, and for HPES for the 3 and 12 months ended January 31, 2017.
+Second, the fiscal '17 pro forma statements of operations, those have been now revised to reflect purchase price accounting and lease adjustments
+as if the merger had occurred on April 2, 2016. In addition, we have continued to assume a flat tax rate of 27.5% in the prior year pro forma non-GAAP
+results.
+And lastly, our non-GAAP results exclude special items such as restructuring, integration, separation and amortization of intangibles consistent
+with CSC's non-GAAP method from prior years. And with that, I will (inaudible) that are included -- that are excluded from our non-GAAP result this
+quarter.
+Now in the current quarter, we had restructuring costs of $208 million pretax or $0.50 per diluted share. These costs represent severance related
+to workforce optimization programs and expense associated with facilities and data center rationalization.
+Also in the quarter, we had $124 million pretax or $0.33 per diluted share of integration-, separation- and transaction-related costs. Amortization
+of acquired intangibles was $153 million pretax or $0.37 per diluted share in the quarter. Also in the quarter, our annual remeasurement of pension
+assets and liabilities resulted in a gain of $203 million. So adjusted EBIT, excluding the impact of these special items, was $1.017 billion for the
+quarter, and non-GAAP EPS was $2.28.
+For the full year, restructuring integration, separation and transaction costs amounted to $1.2 billion pretax or $3.06 per diluted share, which is
+below the $1.3 billion spend envelope we laid out for fiscal '18. Amortization of acquired intangibles was $591 million pretax or $1.37 per diluted
+share for the full year. Adjusted EBIT for the full year was $3.499 billion, and non-GAAP EPS was $7.94.
+6
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+MAY 24, 2018 / 9:00PM, DXC.N - Q4 2018 DXC Technology Co Earnings Call
+Client Id: 77
+Turning now to our fourth quarter and full year results in more detail. Revenue in the quarter was $6.294 billion on a GAAP basis. Revenue was up
+4.3% year-over-year and 1.7% sequentially. In constant currency, revenue was down 1.3% year-over-year and roughly flat sequentially.
+For the full year, revenue was $24.556 billion on a GAAP basis. In constant currency, revenue was $24.2 billion, in line with our fiscal 2018 target of
+$24 billion to $24.5 billion.
+EBIT in the quarter was $1.017 billion after adjusting for special items. Adjusted EBIT margin on that basis was 16.2% compared with 10.2% in the
+prior year and 15% in the last quarter. For the fiscal year 2018, adjusted EBIT was $3.499 billion and adjusted EBIT margin was 14.2%, up 460 basis
+points versus the prior year. The improvement in profitability reflects cost actions we've taken to optimize our workforce, harmonize our policies,
+extract greater supply chain efficiencies and rationalize our real estate footprint.
+In the fourth quarter, we continued to rebalance our workforce. We reduced our labor base by an additional 2.2% in the quarter through continued
+deployment of our automation program, Bionix, as well as additional bestshoring and pyramid correction. For the full year, we reduced our labor
+base by 12.6% net of new hires and contractor conversions. We continued to rebalance our skill mix, including the hiring of roughly 20,000 new
+employees during the year with a significant focus on digital capabilities.
+In supply chain, we continue to extract efficiencies from our third-party spend, and we reduced third-party labor expense by a roughly 6% during
+the year. We're also reducing our hardware and maintenance expense by optimizing workloads to improve utilization of virtual machines and
+leveraging internal capabilities where feasible for the highest volume maintenance activities.
+In real estate, we eliminated an additional [500,000] (inaudible) space during the quarter. And for the full year, we reduced our total square footage
+by 4.7 million square feet, representing a reduction of almost 20%.
+So in summary, we delivered more than $1.1 billion of in-year savings, which translates to roughly $1.6 billion of run rate savings exiting the year.
+Excluding USPS, in-year savings were approximately $1 billion in fiscal '18, and run rate savings exiting the year were $1.4 billion.
+In fiscal 2019, we're targeting an incremental $400 million of in-year savings in addition to the run rate benefit from the action taken during fiscal
+2018. Now the combined savings of $800 million will be partially offset by $200 million to $250 million of headwinds, including stranded G&A costs,
+the Q1 FX benefits and the opt to cap lease impacts.
+We're also planning to reinvest an incremental $200 million to $250 million from those savings in the business, in line with the capital allocation
+model we outlined at our Investor Day. Now these investments include the continued deployments of the DXC digital platform, Bionix; enhancement
+in our digital workforce and capabilities; BPS, Agile and robotic process automation; and blockchain capabilities.
+Non-GAAP diluted EPS from continuing operations in the fourth quarter was $2.28, adjusted for special items, and for the full year, non-GAAP EPS
+was $7.94. In the quarter, our non-GAAP tax rate was 29.4%, reflecting our global mix of income and an unfavorable valuation allowance related
+to tax attributes in certain foreign jurisdictions. And for fiscal 2018, our non-GAAP tax rate was 28.3%, which was in line with the non-GAAP tax
+targets for the full year of 25% to 30%.
+Bookings in the quarter were $5.4 billion for an overall book-to-bill ratio of 0.9x. And for the full year, bookings were $23.67 billion for a book to
+bill of 1x.
+Now let's turn to our segment results. Global Business Services revenue was $2.36 billion in the fourth quarter. GBS revenue was up 3.3% year-over-year
+and was up 2% sequentially. In constant currency, revenue was down 2.2% year-over-year but flat sequentially. In the fourth quarter, GBS segment
+profit was $470 million and profit margin was 19.9% compared with 12.4% in the prior year and 18.6% in the third quarter. Now this margin
+improvement reflects cost takeout actions. GBS bookings were $2.04 billion in the quarter for a book-to-bill of 0.9x.
+Now for the full year, GBS revenue was $9.254 billion. Segment profit was $1.563 billion. Margin was 16.9%, and bookings were $10.2 billion for a
+book to bill of 1.1x.
+7
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+MAY 24, 2018 / 9:00PM, DXC.N - Q4 2018 DXC Technology Co Earnings Call
+Client Id: 77
+Turning now to Global Infrastructure Services. Revenue was $3.223 billion in the quarter. GIS revenue was up 3.6% year-over-year and was up 2.5%
+sequentially. In constant currency, revenue was down 3.2% on a year-over-year basis but flat sequentially. In the fourth quarter, GIS segment profit
+was $477 million and profit margin was 14.8% compared with 11.4% in the prior year and 14.7% in the third quarter. Profitability improvement in
+GIS reflects the impact of cost actions we're taking to drive greater operating efficiencies, including bestshoring, labor pyramid rebalancing, benefits
+from our Bionix automation program and supply chain savings. Bookings for GIS were $2.86 billion in the quarter for a book to bill of 0.9x.
+For the full year, GIS revenue was $12.48 billion. Segment profit was $1.7 billion. Margin was 13.6%, and bookings was $11.6 billion for a book to
+bill of 0.9x.
+Now turning to the USPS business. Revenue was $710 million in the quarter, up 11.1% year-over-year and down [2.2%] sequentially. USPS segment
+profit was $121 million in the quarter, and profit margin was 17% compared with 9.9% in the prior year and 15.2% in the third quarter. The
+year-over-year margin improvement reflect cost actions taken during the year. Sequential margin improvement was driven by cost optimization
+ahead of the spinoff as well as the timing of milestone and award fees. Bookings for USPS was $522 million in the quarter for a book to bill of 0.7x.
+For fiscal 2018, USPS revenue was $2.82 billion. Segment profit was $417 million. Margin was (inaudible) 14.8%, and bookings were $1.9 billion for
+a book to bill of 0.7x.
+Now let me turn to some financial highlights for the quarter. Adjusted free cash flow in the quarter was $557 million or 84% of adjusted net income,
+and this reflects the annual 401(k) match payments and seasonal higher -- seasonally higher payroll taxes. Adjusted free cash flow does not include
+any proceeds from receivable securitization program.
+For fiscal 2018, adjusted free cash flow was $2.427 billion or 105% of adjusted net income. Our CapEx was $471 million in the quarter or 7.5% of
+revenue, and for the full year, CapEx was $1.76 billion or 7.2% of revenue.
+Now during the quarter, we returned $123 million of capital to our shareholders, consisting of $51 million in dividends and $72 million in share
+repurchases. And for the full year, we returned $311 million of capital to our shareholders, of which $174 million was in dividends and $137 million
+was in share repurchase. And for fiscal 2019, we expect to resume our pace of share repurchase in line with our capital allocation model.
+Now today, our board authorized an increase in our quarterly dividend to $0.19 per share as well as $0.76 per share for the full year fiscal 2019. DXC
+will not adjust (inaudible) dividend as a result of the spinout of our USPS business. Therefore, shareholder will receive this dividend in addition to
+any dividend paid by Perspecta.
+Cash at the end of the quarter was $2.6 billion. Our total debt was $8.4 billion, including capitalized leases. Net debt-to-total-capitalization ratio
+was 25.8%. Now as part of the USPS spinoff, DXC is expected to receive $984 million from Perspecta. On that basis, the net debt to total capitalization
+of the company would be 18.8%.
+Now let me close with fiscal '19 targets, all of which will now exclude USPS. We're targeting revenue for the fiscal year to be $21.5 billion to $22
+billion. This compares with $21.7 billion in fiscal '18. Our fiscal 2019 target for non-GAAP EPS from continuing operations is $7.75 to $8.15. Now
+this compares with roughly $6.70 for fiscal 2018, which was recast to exclude earnings per share associated with the USPS business and adjusted
+for any stranded G&A cost. Our EPS target assume a tax rate of 24% to 28% for the full year, and our adjusted free cash flow target for fiscal 2019
+is 90% or more of adjusted net income.
+Now I hand the call back to the operator for Q&A session.
+Jonathan Ford
+Okay. Operator.
+8
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+MAY 24, 2018 / 9:00PM, DXC.N - Q4 2018 DXC Technology Co Earnings Call
+Client Id: 77
+QUESTIONS AND ANSWERS
+Operator
+(Operator Instructions) We'll take our first question from Ashwin Shirvaikar with Citi.
+Ashwin Vassant Shirvaikar - Citigroup Inc, Research Division - Director and U.S. Computer and Business Services Analyst
+I want to start with asking, Paul, can you talk about the cadence of revenues and profit improvement for the quarters through fiscal '19 as you lay
+out? And perhaps also provide clarification on some of the basic stuff like expected FX impact, the (inaudible) tax rate and the share count that
+you're using.
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+Yes. So I think right now if you look at the guidance that -- the target that we have given you for the full year of $21.5 billion to $22 billion, it will
+be -- right now we expect that this is again for the commercial business only because USPS is going to be spun off as of June 1. I do want to make
+sure everybody is clear on that. And I think what we will see is a relatively consistent performance throughout the year, growing a little bit more
+in the second half of the year on a sequential basis. I mentioned the tax rate, again, of 24% to 28%. I think using a midpoint right now would be
+appropriate. And as I mentioned, we'll resume our share buybacks, so we would expect to retire more share this year than we had done this past
+year. And we'll try to catch up on our capital. That's something in line more with our capital allocation model.
+Ashwin Vassant Shirvaikar - Citigroup Inc, Research Division - Director and U.S. Computer and Business Services Analyst
+Got it. And the incremental synergies, $400 million, that sounds good on top of what you already achieved. But can you speak as to whether that
+includes the impact of Bionix? And Mike, I get the improvement seen on a smaller scale as you drive these things out. But the industrialization of
+Bionix, can you talk about that, the potential for that?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Yes. This is Mike. Listen, I think it's hard to gauge what the long-term effect will be of the industrialization of Bionix. But I -- this is going to have an
+impact, okay? I'm just telling you that right now. How much it is? I don't -- I honestly can't quantify it right now. But as we apply this capability to
+different aspects of our business, we are seeing significant reductions in labor or, said another way, increased productivity. And we are marching
+along here sort of offering by offering, function by function. So we're doing this very deliberately. And we start out with call centers, and that will
+expand to other functional areas. But it's not just that. It's also the whole approach to analytics and a whole set of other disciplines and methodologies
+to drive that. So the synergy target is -- encompasses more than just that. We're going to do more facilities rationalization. We're going to continue
+to move our resources around the world. We're going to continue to focus on our pyramid. We've launched a major program to hire students and
+bring them in and interns and co-ops and a whole host of things to continue to lower our overall labor costs. We are making good progress with
+the talent cloud. We got 7,000 subscribers, so we're now publishing tasks or jobs or components of projects and putting that out to not only internal
+employees but to the external world. That will expand. That creates less friction and provides highly valued skills at a lower cost. So you need to
+add those things all together and think of it more as an integrated program to continue to drive these synergies as we go forward. Does that help?
+Ashwin Vassant Shirvaikar - Citigroup Inc, Research Division - Director and U.S. Computer and Business Services Analyst
+Yes, that does.
+9
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+MAY 24, 2018 / 9:00PM, DXC.N - Q4 2018 DXC Technology Co Earnings Call
+Client Id: 77
+Operator
+And we'll take our next question from Bryan Keane with Deutsche Bank.
+Bryan Connell Keane - Deutsche Bank AG, Research Division - Research Analyst
+Just wanted to know about operating margins for GIS and for GBS, just how we think about those throughout the year. Will they improve
+year-over-year, each quarter as we go through the year? And then secondly, on the investments. I know we're talking about $200 million and $250
+million. Just curious exactly what those investments are going into. And should we think about that as an annual expense in the business? So even
+beyond this fiscal year, that's something that's kind of necessary to keep the investment going in the business.
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Yes. Listen, we are -- we conclude this year sort of the high end of our range on the margins. And as I said in my commentary, that was a reflection
+of doing better in the synergy arena than what we had originally forecasted. We also saw less than -- dis-synergies on the revenue side. We still
+expect to see some of those dis-synergies on the revenue side. And as we just talked about for the previous question, there are some additional
+cost synergies. But I'd say those margins will, over time, continue to increase, but the key point here is we are investing back in the business. So
+this is not just about taking cost out. We are continuing to invest in our Bionix program, and we'll spend tens of millions of dollars in that program
+this year. We are continuing to invest in our offerings, our digital workplace offerings. An example is gaining a lot of traction in the marketplace or
+continuing to invest in cyber. We're continuing to invest in analytics. So another investment area is the investment we're making with our partners,
+beginning to move some of our industry IP to different cloud platforms with our partners. And we moved some of our health care IP platform to
+Azure for example. We're making investments in IoT. We're making investments in blockchain. So these are all areas of our offering portfolio where
+we're going to continue to make investments because we're seeing a return. We're seeing a return in terms of increased sales and revenue. And in
+terms of other areas, we're -- the other major investment we're making is in our people. We're continuing to invest very heavily in the retraining
+and reskilling of employees, particularly those that want to reskill and prepare themselves for the opportunities that the marketplaces present. So
+in the end, those are the 3 primary areas that we are continuing to invest in.
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+And Bryan, I think in terms of the margin on the GBS side, I think we would expect them to be in the high double digit to 20%, starting a little bit
+lower in the first quarter and then moving up throughout the year because we have some seasonality typically in our GIS margins on the --
+post-separation is on -- somewhere in the -- between the 13% to 16%, and I think, again, it will be growing reflecting -- as some of these margins
+also reflect the investment that we are making in the business. Now that's, I hope, answer to your question.
+Bryan Connell Keane - Deutsche Bank AG, Research Division - Research Analyst
+No, that's great.
+Operator
+We'll take our next question from Arvind Ramnani with KeyBanc.
+Arvind Anil Ramnani - KeyBanc Capital Markets Inc., Research Division - Senior Research Analyst
+When I look at the last year, it's certainly been busy with kind of some of the cost cuts and of course, the USPS spin. And when you look into the
+next like 12 to 18 months, I mean, you outlined some of your priorities. But kind of can you more broadly outline what some of the major priorities
+10
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+MAY 24, 2018 / 9:00PM, DXC.N - Q4 2018 DXC Technology Co Earnings Call
+Client Id: 77
+are? And in particular, can you talk about some of the work you're going to be doing on -- the current drive revenue growth? Are you going to be
+looking to do some larger deals?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Well, I would say all the above. So our fundamental priorities as we look out over the next 12 to 18 months is we want to continue to drive productivity
+and the quality of our service delivery. That is still the major cost element in our business, and the degree that we can improve productivity and
+continue to and see improved service levels, that has an enormously positive impact on our business. Our customer satisfaction -- and I said this
+in my commentary. Our customer satisfaction last year went up. So in the first year of integration, all we did, customer satisfaction continued to
+increase. So continuing to drive our cost structure and the productivity and improve service delivery is an absolutely critical objective as we look
+out. Digital, so yes, we are making a huge shift in our digital offerings. I've chronicled those. I've shared with you what the growth is. We're beginning
+to change our route to market in terms of investing on our large accounts to put more digital resources. Our digital delivery centers, we just opened
+or cut the ribbon yesterday on our digital delivery center down in New Orleans. So we are continuing to make a very significant investment in
+digital. We're engaging our delivery teams in helping us drive growth to our delivery teams, something we call our delivery-led growth initiative.
+And then, of course, the other priority is continue to focus on our workforce management. This includes our ability to more accurately predict what
+skills we're going to need, how many we're going to need, how we source them. I just talked about the Dynamic Talent Cloud. That's a whole
+different way of sourcing, skills and capabilities; how we onboard people; how we retain people; and how we are able to move them around from
+project to project. So workforce management, the reskilling of our people is a key priority, our whole digital initiative as we continue to want to
+increase the percent of revenue that we get from digital to offset the natural headwinds we have in the ITO business, some of the other legacy
+businesses and then continue to focus on the quality of delivery and the productivity of delivery. So that's how we're driving growth. That's how
+we're driving the cost envelope. And we're always looking opportunistically for acquisitions that would align with the strategy that I just outlined
+and as we've done the past years, make those types of acquisitions, and I expect that, that will continue.
+Arvind Anil Ramnani - KeyBanc Capital Markets Inc., Research Division - Senior Research Analyst
+Great. And just one quick follow-up. Looks like you're making good progress internally on automation and AI. Are you able to take some of these
+solutions to your clients to actually kind of drive revenue?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Yes, you bet. I mean, take -- I mean, that's really the whole strategy, is what we're -- now we just had our global customer advisory board. That's
+exactly what we're doing. We closed another deal today. I don't want to talk about it but the same exact framework. We go in. We know what this
+automation and analytics and other capabilities that we have. We know we can lower the cost of the existing infrastructure. We know that, okay?
+Then what we do is we say, "And here are ways that you, Mr. Client, can reinvest in your business with our other offerings like our application
+modernization or cyber or analytics or other things." And that is the strategy, help free up the money through a simplified, more productive IT
+infrastructure, use those savings to reinvest in the digital platform to help the clients on their transformation journey. That is the strategy, hasn't
+changed since our Investor Day. It now is beginning to get some real traction with our larger clients. The IP industry is famous for talking about
+stuff years and years and years before it happens. I mean, I got to tell you, the enterprise institutions around the world are now just getting to
+critical mass in many of these things that we in the IT industry have been talking about for 5 or 6 years. So I think this gives us some optimism that
+the maturity of our offerings are converging when our primary client base, which is large enterprises around the world, are beginning to gather
+pace in their own digital transformations.
+Arvind Anil Ramnani - KeyBanc Capital Markets Inc., Research Division - Senior Research Analyst
+Great. And just if I could squeeze one last one in. And you mentioned blockchain a couple of times. Are there particular types of clients that you're
+seeing sort of more interest in? And I assume a lot of the work is still a little bit early and more sort of consulting in nature.
+11
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+MAY 24, 2018 / 9:00PM, DXC.N - Q4 2018 DXC Technology Co Earnings Call
+Client Id: 77
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Well, I think blockchain is a pretty pervasive technology that is going to change a lot of how transactions are done. But just think, in our portfolio,
+think of insurance claims or think of health care claims as areas where blockchain can be certainly leveraged. The supply chain would be another
+area. Wherever you have a lot of intermediary transactions, blockchain is, I think, going to, over time, eliminate or at least reduce a lot of those
+intermediary steps in the end-to-end transaction in payment systems.
+Operator
+We'll move on to Jim Schneider with Goldman Sachs.
+James Edward Schneider - Goldman Sachs Group Inc., Research Division - VP
+I was wondering if you can maybe provide us a little bit of color on the revenue trajectory you expect as you head throughout the year? I think,
+Paul, you referenced the back half of the year being a little bit better from a revenue standpoint. Would you expect to be executing any M&A
+throughout the year that could help that ultimate revenue trajectory and I guess, maybe where you expect to -- you might be from a revenue
+growth standpoint exiting this year?
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Well, I'll let Paul answer. But as I said, we are -- we will do some more acquisitions. That I can tell you. I mean, we have a pipeline of things we're
+looking at. Jim, you know we just don't know when these things are going to close. They have their own sort of life cycles. So you just -- you don't
+know that. And most of what we do are classified more as tuck-ins that are very consistent with our overall strategy of improving our digital offerings.
+And eBECS and Sable37 are great examples of that in the Microsoft Dynamics arena. So yes, I do expect to get some help from those potential
+acquisitions. I just don't know when they're going to occur, and I don't know what the full year impact would be on revenue because that's obviously
+time dependent. Traditionally, our revenue is a little lighter in the early part of the year and stronger in the back half of the year. We saw that this
+past year. So I don't -- some of that seasonality, some is just the way the year plays out. So we would expect that as we progress through fiscal '19.
+Paul, you may want to add.
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+Yes. No, I think, Mike, you captured it. If I look at it, this whole year, we've seen an improvement throughout the year for first quarter, second quarter
+sequentially all the way through the fourth quarter. We'll see a similar pattern in fiscal '19. If you look at the target that we have set out and if you
+take the midpoint of those targets, it would be a relatively flat year-over-year with a similar type of progression.
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+And Jim, I just don't know yet -- I don't know some of the headwinds. I mean, we -- I don't know how Brexit's going to play out. There are some
+great opportunities associated with Brexit to get many of those systems prepare for Brexit. That's an opportunity. It'll also -- I think it also has created
+some indecision and delay in other decisions and projects. We see -- we expect to continue to see some revenue dis-synergies as we're in the
+second year here. But I don't -- I can't quantify those for you. We see growing momentum with our partners. I mentioned in my commentary BPS
+offerings and our industry IP, some of our digital offerings. No question, we're seeing some momentum in growth. I mean, I haven't been on a lot
+of earnings calls where I could actually use the word growth before the number. So we are seeing that, and we're just giving you our best estimate
+right now where we see things playing out. Does that make sense, Jim?
+12
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+MAY 24, 2018 / 9:00PM, DXC.N - Q4 2018 DXC Technology Co Earnings Call
+Client Id: 77
+James Edward Schneider - Goldman Sachs Group Inc., Research Division - VP
+It does. And then maybe on the cost synergy side, you've alluded to it in the past maybe being ahead on the bionics, driving the cost of sales that
+you mentioned but maybe being a little bit behind on supply chain. As you look through fiscal '19, what are some of the opportunities where you
+might kind of reaccelerate those cost synergies relative to how you've been progressing so far?
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+Yes. I think the areas where we have still a lot of opportunities would be in our contractor spend. That's an area that we have made some progress.
+I mentioned 6% reduction year-over-year. Then in fiscal '18, there's more yet to be done there, particularly as we also apply our Bionix program to
+that segment of our spend. I do believe also that you're going to see a lot more also from our facilities and particularly in the data center area where
+-- arena where we have just really started. This year, we have just already consolidated 2 of our 90 data centers. We have at least 10 in flight and
+more to come. So those are the areas where we see still some great opportunities.
+Operator
+We'll now take our next question from David Grossman with Stifel.
+David Michael Grossman - Stifel, Nicolaus & Company, Incorporated, Research Division - MD
+So Mike, growth is definitely improving. Although on an overall basis, it remains negative year-over-year. Are you seeing any light at the end of the
+tunnel as it relates to the legacy business? And perhaps you can share some of the data points that may give us a better sense of just how that
+legacy business is trending and whether it is actually starting to plateau.
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+Yes. I think the way I look at it is I look at the amount of revenue that we are getting from these new offerings. Go back to the Investor Day that we
+had whenever -- when did we have it, Jonathan? Last March, right? So we sort of laid out some projections around our digital growth, our industry
+IP and BPS growth, and that's largely playing out that way, slightly less growth than we laid out the first year but basically playing out. The other
+thing is we had estimated a decline in the traditional legacy businesses, primarily ITO but also our application, maintenance and management
+business, and we estimate what that curve would be. Now that curve wasn't as much as we had thought. So what happened this year was we didn't
+see the decline as rapid as we had forecasted, and we didn't see quite as much growth in some of the new offerings. And that got us sort of where
+we were -- where we are. The other thing that we're seeing is that when we do go into a client and we help them reduce their infrastructure costs,
+the reduction of those infrastructure costs is usually in a shorter time frame than the revenue that we achieved from the digital platform growth.
+Again, I don't want to go through any client names now but I'll give you an example of how this works. We went in and reduced the infrastructure
+cost by somewhere around 10% or 15% and that we began billing at a lower rate 2 or 3 months after we initiated the agreement. And then we
+began to get some of the reinvestment back into the digital platforms like our application modernization and some of our enterprise cloud apps
+business. That revenue is now starting to flow, and the account is growing. So we're now forecasting growth in that account for the first time in 7
+years. But there was a -- not a delay, but there was an interregnum where the revenue actually went down slightly more before it went up. Those
+are -- that is -- I got to tell you, that's very difficult to model because you -- each thing is different. The transition to a digital workplace offering
+might take longer than the transition to a new cyber offering. So it's -- each of these have their own timescales, and each customer plays out slightly
+different. So what we try to give you is an aggregate, but the overall revenue model that we talked about over the 2- or 3-year period of time is
+absolutely intact with what we discussed at the Investor Day. Does that give you the color you're looking for?
+13
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+MAY 24, 2018 / 9:00PM, DXC.N - Q4 2018 DXC Technology Co Earnings Call
+Client Id: 77
+David Michael Grossman - Stifel, Nicolaus & Company, Incorporated, Research Division - MD
+Yes, I appreciate the clarification. And just to follow that up then, talking about '20. Sorry, if I missed it, but do you have any plan or did you mention
+whether you're going to reclass that fiscal year '20 target that you'd laid out a year ago?
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+Yes, we will. Yes, we will. I think you can see already, initially, our margin expectations were 14% to 15% and now we're already closer to the 15%,
+so it'd be probably more likely than the 15% to 16% if I have to make a guess now. And then the revenue, I do believe, is going to be fine because
+we were already factoring -- making sure the USPS business was going to be in the same range of the 3% to 4% growth over that time frame from
+before. So we'll have an opportunity to update some of these.
+John Michael Lawrie - DXC Technology Company - Chairman, President & CEO
+And that's why we want to do another meeting sometime this fall so that we can give -- update those models and make sure everybody's on the
+same page post the formation of Perspecta.
+Jonathan Ford
+So we're going to dial -- close questions. Paul wanted to have a final comment before we close the call.
+Paul N. Saleh - DXC Technology Company - Executive VP & CFO
+Yes -- no, sure. Sorry, I was -- just really wanted to make sure that as we set the targets for fiscal '19, you're at least clear on the EPS because I just
+want to make sure we -- that's -- we said that we will do $7.75 to $8.15. That's the target range that we are having -- we expect for fiscal '19. Now
+this is how it works out. For fiscal '18, we have reported $7.94. Now if you take out the USPS contribution, that's $1.03, and there's also some stranded
+costs that we will have to -- we plan to take out but we haven't. That's about $0.20. Then, you get $7.94 less the $1.03, less about the $0.20, you get
+to the $6.70 that I referred to. So on a year-over-year basis, I want to make sure that people have the right calibration. We go from $6.70 to $7.75
+to $8.15 for the commercial DXC business, which is a 16% to 22% growth on a comparable basis, on a year-over-year basis.
+Jonathan Ford
+And with that, operator, we'll close the call.
+Operator
+Thank you, and that does conclude today's conference. Thank you all for your participation.
+14
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+MAY 24, 2018 / 9:00PM, DXC.N - Q4 2018 DXC Technology Co Earnings Call
+Client Id: 77
+DISCLAIMER
+Thomson Reuters reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon
+current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more
+specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the
+assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION,
+THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE
+COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2018, Thomson Reuters. All Rights Reserved. 11500437-2018-05-25T17:34:47.063
+15
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2018 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its
+affiliated companies.
+MAY 24, 2018 / 9:00PM, DXC.N - Q4 2018 DXC Technology Co Earnings Call

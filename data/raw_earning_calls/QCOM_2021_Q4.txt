@@ -1,0 +1,463 @@
+REFINITIV STREETEVENTS
+EDITED TRANSCRIPT
+QCOM.OQ - Q4 2021 Qualcomm Inc Earnings Call
+EVENT DATE/TIME: NOVEMBER 03, 2021 / 8:45PM GMT
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+CORPORATE PARTICIPANTS
+Akash Palkhiwala QUALCOMM Incorporated - CFO
+Cristiano Amon;President and CEO
+Mauricio Lopez-Hodoyan QUALCOMM Incorporated - VP of IR
+CONFERENCE CALL PARTICIPANTS
+Christopher Caso Raymond James & Associates, Inc., Research Division - Research Analyst
+Harsh V. Kumar Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+Joseph Lawrence Moore Morgan Stanley, Research Division - Executive Director
+Matthew D. Ramsay Cowen and Company, LLC, Research Division - MD & Senior Technology Analyst
+Roderick B. Hall Goldman Sachs Group, Inc., Research Division - MD
+Ross Clark Seymore Deutsche Bank AG, Research Division - MD
+Samik Chatterjee JPMorgan Chase & Co, Research Division - Analyst
+Stacy Aaron Rasgon Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst
+Tal Liani BofA Securities, Research Division - MD and Head of Technology Supersector
+Timothy Michael Arcuri UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment
+PRESENTATION
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to the Qualcomm Fourth Quarter and Fiscal 2021 Earnings Conference Call. (Operator
+Instructions) As a reminder, this conference is being recorded November 3, 2021. The playback number for today's call is (877) 660-6853. International
+callers, please dial (201) 612-7415. The playback reservation number is 13723721.
+I would now like to turn the call over to Mauricio Lopez-Hodoyan, Vice President of Investor Relations. Mr. Lopez-Hodoyan, please go ahead.
+Mauricio Lopez-Hodoyan - QUALCOMM Incorporated - VP of IR
+Thank you, and good afternoon, everyone. Today's call will include prepared remarks by Cristiano Amon and Akash Palkhiwala. In addition, Alex
+Rogers will join the question-and-answer session. You can access our earnings release and a slide presentation that accompany this call on our
+Investor Relations website. In addition, this call is being webcast on qualcomm.com, and a replay will be available on our website later today.
+During the call today, we will use non-GAAP financial measures as defined in Regulation G, and you can find the related reconciliations to GAAP
+on our website. We will also make forward-looking statements, including projections and estimates of future events, business or industry trends
+or business or financial results. Actual events or results could differ materially from those projected in our forward-looking statements. Please refer
+to our SEC filings, including our most recent 10-K, which contain important factors that could cause actual results to differ materially from the
+forward-looking statements.
+And now to comments from Qualcomm's President and Chief Executive Officer, Cristiano Amon.
+2
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+NOVEMBER 03, 2021 / 8:45PM, QCOM.OQ - Q4 2021 Qualcomm Inc Earnings Call
+Cristiano Amon;President and CEO
+Thank you, Mauricio, and good afternoon, everyone. Thanks for joining us today. As the pace of digital transformation of industries accelerates and
+as devices become connected and more intelligent, our broad portfolio of technologies and solutions is creating a significant long-term growth
+opportunity for us.
+As you can see from our results, the performance in our chipset business led to record fiscal fourth quarter non-GAAP revenues of $9.3 billion and
+record non-GAAP earnings per share of $2.55. Notably, this is our fifth consecutive quarter of greater than 100% year-over-year EBT growth in our
+chipset business.
+We also demonstrated revenue diversification with combined RF front-end, automotive and IoT fiscal '21 revenues exceeding $10 billion, an increase
+of 69% year-over-year. Going forward, our chipset business represents the largest growth engine for us as virtually all devices at the edge adopt
+mobile technologies. We have the relevant technologies required to continue to lead in mobile and the connected intelligent edge. And as the
+edge gains scale in connectivity and adopts own device artificial intelligence, we're well positioned to become a leader in AI processing.
+Let me now briefly highlight the strong momentum we continue to see in IoT across consumer, edge networking and industrial. In consumer, we're
+pleased that our XR platforms are powering over 50 commercial devices and gaining scale with the leading VR and AR ecosystems. Our early
+investments have established Snapdragon XR as a device platform of choice for connecting physical and digital spaces. And recent market
+developments position us as one of the key enablers of the metaverse opportunity.
+Additionally, the ongoing conversions of mobile and compute continues to drive demand for Snapdragon-powered premium tablets, 2-in-1s and
+laptops. We are pleased with the strong market validation of ARM-based personal computing in the industry transition to a new SoC architecture.
+We're more confident than ever in the connected computing opportunity, our upcoming solutions powered by our NUVIA CPUs and our collaboration
+with Microsoft.
+We're also seeing increased traction in consumer electronics. Our advanced technologies are powering category-leading devices such as the
+Peloton Bike+ in tread as well as the ASTRO, Amazon's recently announced household robot.
+In edge networking, we are a leader in current and next-generation high-performance Wi-Fi 6 and Wi-Fi 6E access point solutions. And we continue
+to see high demand for our products driven by home and enterprise upgrade cycles. We expect this trend to continue as productivity increasingly
+requires video collaboration as well as cloud processing and storage.
+5G as wireless fiber is now a reality in gaining scale. In the United States, Verizon recently announced 5G home Internet service availability in 57
+markets, including more than 2 million households covered on millimeter wave. In addition, T-Mobile is leveraging their 5G network to target 7
+million to 8 million home broadband customers over the next 5 years. We're seeing demand increase globally, making 5G as wireless fiber one of
+the fastest-growing last-mile broadband technologies.
+In industrial, we have expanded our Qualcomm IoT services suite to more than 30 verticals. As an example, in retail, our solutions are powering
+digital signage, payment and self-checkout devices from companies like Square and Clover as well as solutions from Honeywell, Panasonic, Zebra
+and others to enable new customer experiences, help empower store associates and improve operational efficiencies.
+We also continue to lead the way on product innovation with new launches like the Qualcomm Flight RB5, the world's first 5G AI drone platform.
+In RF front-end, we expanded our product portfolio with our recently announced ultraBAW RF filter technology that support frequencies from 2.7
+gigahertz to 7.2 gigahertz. This is the new industry benchmark for performance in this range. ultraBAW technology also supports Wi-Fi bands,
+including 5 gigahertz, the newly adopted 6 gigahertz band for Wi-Fi 6E and future Wi-Fi standards. This creates a new growth vector for RF front-end
+as we attach RF solutions to Wi-Fi.
+Our RF front-end portfolio, combining ultraSAW and ultraBAW technologies is now best-in-class from 600 megahertz to 7 gigahertz. And with the
+addition of millimeter wave, we are the only RF front-end provider with a comprehensive solution for all bands. As cellular expands beyond handsets,
+we're focused on extending our modem-to-antenna platform to automotive and IoT.
+3
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+NOVEMBER 03, 2021 / 8:45PM, QCOM.OQ - Q4 2021 Qualcomm Inc Earnings Call
+In automotive, we're creating a leading horizontal and open platform with our Snapdragon digital chassis, which includes our telematics, digital
+cockpit, Car-to-Cloud service, ADAS and autonomy solutions. Taking the same approach we used to make smartphone the world's largest computing
+and developer platform, we're currently working with automakers and Tier 1s to create a joint road map to build multi-tier, multi-generation,
+scalable and upgradable platforms for long-term sustainable business.
+The strength of our digital chassis strategy is reflected in both our results as well as a strong design pipeline and is creating a platform for innovation
+for auto. We are also very excited about Arriver. Upon closing, Snapdragon Ride ADAS solutions will be complemented with Arriver's computer
+vision, drive policy and driver assistant assets, enhancing our ability to deliver on an open and competitive ADAS platform for automakers and Tier
+1s at scale.
+In handsets, we're successfully executing on our strategy. Our premium tier Snapdragon solutions continue to gain traction with OEMs. In fiscal
+Q4, devices announced or shipped with our Snapdragon premium tier products increased by 21% year-over-year. Notably, all leading 5G Android
+smartphones OEMs by volume continue to power their flagship devices with Snapdragon.
+Snapdragon continues to be the preferred choice for premium and high-tier Android smartphones in all regions. As a result, we're benefiting from
+the changing OEM landscape in Android SAM expansion.
+Lastly, our licensing business achieved fiscal '21 revenues in excess of $6.3 billion. QTL remains the most successful licensing business in the industry,
+reflecting the strength of our innovation in cellular technology, the value of our extensive patent portfolio and our execution in securing long-term
+agreements with key OEMs as well as over 150 5G agreements to date.
+As we have noted throughout the year, we continue to see incredibly strong demand across all our technologies as the current environment is
+accelerating the scale of connectivity and processing at the edge. We still expect material improvements to our supply by the end of the calendar
+year, and our second sourcing initiatives remain on track.
+Before I turn the call over to Akash, I would like to highlight that we recently announced a goal to achieve net-zero global emissions for Scopes 1,
+2 and 3 by 2040. We also look forward to enabling a more sustainable future with 5G through its impact on greenhouse gas emissions reduction,
+energy and water use optimization, green jobs creation and more.
+I would now like to turn the call over to Akash.
+Akash Palkhiwala - QUALCOMM Incorporated - CFO
+Thank you, Cristiano, and good afternoon, everyone.
+We are pleased to announce record fourth fiscal quarter results with non-GAAP revenues of $9.3 billion and non-GAAP EPS of $2.55, reflecting
+year-over-year growth of 43% and 76%, respectively. For QCT, this was another record quarter with revenues of $7.7 billion and EBT margin of 32%,
+both above the high end of our guidance. QCT EBT of $2.5 billion grew by 143% versus the year ago quarter on revenue growth of 56% and 12
+points of EBT margin expansion.
+We also delivered record revenues in each of QCT revenue streams: handsets, RF front-end, IoT and automotive. Handset revenues of $4.7 billion
+increased 56% year-over-year on strong demand across all major OEMs. RF front-end revenues of $1.2 billion grew 45% year-over-year and included
+the benefit of pull-in of demand in advance of certain holiday launches. IoT revenues were up 66% year-over-year to $1.5 billion as digital
+transformation continues to drive higher demand across our diversified customer base. Automotive revenues of $270 million grew 44% year-over-year
+on the ramp of digital cockpit launches and continued strength in telematics.
+QTL revenues of $1.6 billion and EBT margins of 72% were in line with guidance. These results reflect slightly lower-than-expected units, offset by
+favorable mix.
+4
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+NOVEMBER 03, 2021 / 8:45PM, QCOM.OQ - Q4 2021 Qualcomm Inc Earnings Call
+Lastly, we delivered GAAP EPS of $2.45, $0.47 above the high end of our guidance, driven by record non-GAAP earnings and approximately $500
+million of gains in our QSI investment portfolio.
+Now I would like to highlight some key achievements in fiscal '21. We are exceeding all targets we set at our 2019 Analyst Day, which is a year earlier
+than forecasted. We delivered year-over-year revenue growth of 26% in QTL and 64% in QCT, and more than doubled non-GAAP EPS to $8.54.
+In QCT, we had greater than 50% year-over-year growth in each of our revenue streams, and EBT margins expanded from 17% in fiscal '20 to 29%
+in fiscal '21. Within handsets, our Android revenues for our Snapdragon chipsets were approximately 40% higher than our primary competitor.
+With our focus on diversification, RF front-end, automotive and IoT accounted for 38% of total QCT revenues.
+Lastly, we returned 74% of our free cash flow to stockholders, including $3 billion in dividends and $3.4 billion in stock repurchases.
+Turning to our guidance for handset units in the first fiscal quarter. For calendar 2021, we are narrowing the range for 5G handsets to 500 million
+to 550 million units. We are now forecasting mid- to high-single-digit growth in global 3G/4G/5G handsets relative to calendar 2020.
+For the first fiscal quarter, we are forecasting revenues of $10 billion to $10.8 billion and non-GAAP EPS of $2.90 to $3.10. In QCT, we expect revenues
+of $8.4 billion to $8.9 billion and EBT margins of 32% to 34%. At the midpoint, this implies year-over-year revenue growth of 32% and EBT dollar
+growth of 49%. The sequential revenue growth is driven by handsets due to higher demand, primarily for our Snapdragon chipsets in Android
+devices.
+Following a record performance in the fourth quarter, we expect nonhandset revenues to remain in line sequentially. Consistent with our previous
+guidance, we expect QTL revenues of $1.6 billion to $1.8 billion and EBT margins of 74% to 78%. This forecast assumes sequential unit growth in
+line with historical trends.
+Lastly, we anticipate non-GAAP combined R&D and SG&A expenses to decrease 2% to 3% sequentially. As a reminder, operating expenses are
+typically higher in the second fiscal quarter as it includes calendar year resets for certain employee-related costs.
+Looking forward, fiscal '22 will be another exciting year for Qualcomm with year-over-year EPS growth expected to exceed 20%, driven by strength
+across all QCT revenue streams. In handsets, we are positioned to benefit from the $10 billion SAM expansion due to the changing OEM landscape.
+A portion of this benefit is reflected in our first quarter guidance, and we also expect it to contribute to the rest of fiscal '22.
+Before I finish my prepared remarks, I would like to thank our employees for their leadership and contributions in making 2021 successful. Finally,
+we look forward to seeing you at our Investor Day on November 16 where we will provide additional detail about our growth strategy.
+Thank you, and I'll now turn the call back to Mauricio.
+Mauricio Lopez-Hodoyan - QUALCOMM Incorporated - VP of IR
+Thank you, Akash. Operator, we are now ready for questions.
+QUESTIONS AND ANSWERS
+Operator
+(Operator Instructions) Our first question comes from Chris Caso with Raymond James.
+5
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+NOVEMBER 03, 2021 / 8:45PM, QCOM.OQ - Q4 2021 Qualcomm Inc Earnings Call
+Christopher Caso - Raymond James & Associates, Inc., Research Division - Research Analyst
+For my first question, perhaps you could help us out with what was different from your expectations heading into this quarter. I know that you
+were struggling with supply constraints like everyone else in the industry. Was it that supply came on better than you expected? Was it the demand?
+Was it a combination of both?
+Akash Palkhiwala - QUALCOMM Incorporated - CFO
+Yes. Chris, this is Akash. It was really a combination of both. We were -- we had lots of strength in QCT really across all of our revenue streams with
+handsets, IoT and RF front-end. Those are the 3 areas that did really well relative to our expectations. And we were able to work through the supply
+constraints to address the demand that came up. So it was really a combination of both.
+Christopher Caso - Raymond James & Associates, Inc., Research Division - Research Analyst
+Great. And maybe you could expand on your comments. You spoke about, and I think I have this right, EPS growth is expected to exceed 20% as
+you go into next year. Can you give us some details? I'm sure that's something that you're planning on hitting as you're going through the Analyst
+Day.
+Akash Palkhiwala - QUALCOMM Incorporated - CFO
+Yes. Absolutely. I mean it's -- just to clarify, what we guided is non-GAAP EPS growth of greater than 20%. And the key driver for that is really across
+all QCT revenue streams. So you're seeing the strength exiting the year, and that's the strength that's kind of playing out both in our first quarter
+guidance and also the full year.
+The one thing I would highlight is within handsets, we're really in a strong position to benefit from the $10 billion SAM expansion we have previously
+discussed from the changing OEM landscape. And a portion of this benefit is reflected in our first quarter guidance, and that's also contemplated
+in the greater than 20% EPS growth we are suggesting. Given that we expect handsets to grow faster than nonhandsets in fiscal '22, but really
+across the board, we'll have very strong growth rates and really set up to do well in the year and beyond.
+Operator
+Our next question is coming from the line of Matt Ramsay with Cowen.
+Matthew D. Ramsay - Cowen and Company, LLC, Research Division - MD & Senior Technology Analyst
+Congrats on the results. Cristiano, I wanted to dig a little bit with you into the guidance for the December quarter in QCT. I think you guys mentioned
+in the script that, that was primarily going to be driven by your Android business and increased supply. So I just wanted to make sure that I got
+that right. Obviously, that's a seasonally strong quarter for Cupertino, but I just wanted to dig a little bit more into the dynamics that are driving
+the fourth quarter in Android.
+Cristiano Amon;President and CEO
+No, thanks, Matt, for the question. Look, I think what you're starting to see exactly the correlation is going to different directions. You're correct,
+it's a seasonally strong quarter for our modem-only shipments. But the sequential revenue growth is primarily driven by Android handsets. And
+demand for Snapdragon mobile platforms, both across premium and high tier, and consistent with what we said, we see an incredible opportunity
+to grow way faster than the market. And Android is the primary growth driver in our handset business right now.
+6
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+NOVEMBER 03, 2021 / 8:45PM, QCOM.OQ - Q4 2021 Qualcomm Inc Earnings Call
+Matthew D. Ramsay - Cowen and Company, LLC, Research Division - MD & Senior Technology Analyst
+Very clear. Akash, as my follow-up, 33% QCT op margins in the December quarter. Obviously, there was a settlement with Apple and some things
+changed there. But that number, I think, was 13% 2 years ago. So I guess, a pretty remarkable progress. I wonder if you might talk a little bit more,
+and maybe this is something for a couple of weeks from now at the Analyst Day, but the puts and takes and drivers of the QCT op margin going
+forward. And where are we -- is this a seasonal peak? Or is this a new trend?
+Akash Palkhiwala - QUALCOMM Incorporated - CFO
+Matt, thanks for the question. Yes, we are very pleased by the operating margin performance as well. So maybe I'll point to a couple of drivers, but
+really, we are planning to address this in a lot more detail in a couple of weeks. I'll ask you to hold until then.
+If you see our gross margin performance in the September quarter that we just reported, very strong gross margins, and we are forecasting in
+similar range going into the December quarter.
+And then year-over-year, if you look at the full year, so abstract back from the seasonality, we went from 17% in fiscal '20 to 29% in fiscal '21. And
+so we feel obviously very comfortable with that number. And in a couple of weeks, we'll talk about how the combination of revenue growth and
+gross margin percentage and R&D leverage will take us going forward.
+Operator
+Our next question comes from the line of Samik Chatterjee with JPMorgan.
+Samik Chatterjee - JPMorgan Chase & Co, Research Division - Analyst
+I guess, Cristiano, Akash, both of you are sounding great on Android adoption of your premium chipsets going into the December quarter. I just
+wanted to kind of see if I can get some more color about how you're thinking about adoption of millimeter wave with the Android customers. I
+know there has been some investor conversation or disappointment around the primary customer not deploying or more widely rolling out
+millimeter wave this year. So just wanted to get kind of what you're seeing in the pipeline relative to millimeter wave and how are Android customers
+sounding about that? And I have a follow-up.
+Cristiano Amon;President and CEO
+Samik, thanks for asking the question. Our position on millimeter wave remains unchanged and will remain unchanged. There are 2, I think, answers
+to your question. The first one is continue to track exactly as we expected. We have millimeter wave in the United States. It's now commercially
+available in Japan across all carriers, Docomo, SoftBank, KDDI, even the new carrier Rakuten. And we continue to be optimistic about the opportunity
+of millimeter wave becoming commercial over time in China.
+The first milestone is the millimeter wave for the Winter Olympics early 2022. Japan is moving for millimeter wave, and nothing has changed to
+carriers' plans to continue to build this technology. And there are a number of commercial millimeter wave smartphones in Japan that includes
+the Galaxy Note the GS21 and Galaxy Fold and Sony. And from our perspective, just knowing what we know of wireless and how the growth of
+data is going in the spectrum efficiency, millimeter wave is inevitable. It's just a matter of time. And it's just different markets will deploy at different
+speeds, but that's how we get more spectrum, and our position in millimeter wave remains unchanged.
+7
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+NOVEMBER 03, 2021 / 8:45PM, QCOM.OQ - Q4 2021 Qualcomm Inc Earnings Call
+Samik Chatterjee - JPMorgan Chase & Co, Research Division - Analyst
+For my follow-up, if I can ask you on Arriver. We've got some investors asking about how to think about the opportunity with Arriver and how
+should we think about OEM customers that are looking for a full stack solution versus OEMs that look for more of like just the hardware piece of
+that stack and leveraging Qualcomm from that aspect.
+And then if you can provide any updates, I think you've updated us on the purchase price along with SSA partners. But what -- any more details
+around the closing as well as the price for Qualcomm stand-alone for the Arriver asset?
+Cristiano Amon;President and CEO
+Yes. We're very excited about the Veoneer acquisition and Arriver technology. As we said before, we're the natural owners of good assets. We were
+-- believe we're on track to get the ability to get all the approvals and close on this transaction. And more importantly, as we had a business
+corporation in place with Veoneer prior to the acquisition, that remains unchanged and allow us to continue to progress towards our ADAS platform.
+We're getting incredibly positive feedback from the market from the ability to provide a truly open, horizontal platform for ADAS. And I highly
+encourage you to be at our New York Analyst Day. We have a lot more details to provide about what we're doing in ADAS and autonomy.
+Operator
+Our next question is coming from the line of Stacy Rasgon with Bernstein Research.
+Stacy Aaron Rasgon - Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst
+For my first one, I was curious, just given the current state of the handset market, what kind of handset growth you have embedded in your more
+than 20% EPS forecast for 2022? Are you looking for recovery? Or is it all around content? Like how are we thinking about unit growth in the market
+to drive that?
+Akash Palkhiwala - QUALCOMM Incorporated - CFO
+Yes. Stacy, for the guidance that we gave, there are no heroic assumptions on market growth. We're assuming similar scale to this year. And within
+that, we feel comfortable that we have the opportunities in front of us to grow.
+Stacy Aaron Rasgon - Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst
+Got it. So still like mid- to high single digit?
+Akash Palkhiwala - QUALCOMM Incorporated - CFO
+That's right.
+Stacy Aaron Rasgon - Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst
+Got it. For my follow-up, I know you've had supply issues. I know they're resolving by the end of the calendar year. Are you still under-shipping
+what you could ship if you had supply? And as that supply eases up, does that have any impact on how we might think about typical seasonality
+in the March quarter?
+8
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+NOVEMBER 03, 2021 / 8:45PM, QCOM.OQ - Q4 2021 Qualcomm Inc Earnings Call
+Akash Palkhiwala - QUALCOMM Incorporated - CFO
+Yes. Stacy, it's Akash. So we do have constraints really across the board, and you have to figure out how the demand would have played out if there
+was supply across the industry. But we feel pretty comfortable that the overall supply picture is playing out exactly as we had planned. We saw
+this coming early, and we've been talking about it for the last couple of quarters, and we've put in place plans both for dual-sourcing for certain
+parts. We've now announced 3 parts that are dual-sourced that are available. And then also, capacity expansions with our suppliers that were
+previously being planned anyways come in towards the end of the year, so that's definitely something that we are very excited about.
+On your question on the second quarter, we're obviously not guiding the quarter at this point. But it's a reasonable assumption to think that as we
+launch our new Android premium tier chip in the first quarter of the calendar year, that will offset some of the decline you would see in the handset
+market naturally within QCT. And then, of course, we also expect nonhandset to grow from first quarter to second quarter.
+Operator
+Our next question comes from the line of Tal Liani with Bank of America.
+Tal Liani - BofA Securities, Research Division - MD and Head of Technology Supersector
+I have 2 questions, so I'll just ask them together. What is -- what are the trends in China? Meaning the handset market is weakening, and we heard
+it throughout the quarter. And on the other hand, there is Huawei share loss and your share gains. So I'm wondering if you can share with us kind
+of the trends within China and your outlook for the market.
+And the second question is not related, but it's the second question I'm getting from investors, which is you always say that the -- when Apple
+starts using their modems, the surface area at Apple is big, and there are other opportunities. Can you elaborate what are the other opportunities?
+What are the -- maybe give us scenarios, what are the scenarios that you can still manage the transition of Apple using their own modem?
+Akash Palkhiwala - QUALCOMM Incorporated - CFO
+Yes, Tal, it's Akash. I'll take the first one, and Cristiano will address the second one. So what we saw in the September quarter in the market was
+weakness in units in China and emerging markets, but developed markets volume remained very resilient. So that's really the jumping-off point
+for the December quarter. We are forecasting normal seasonality on top of what we saw in September.
+I'll say that a portion of the weakness was driven by supply imbalances at certain OEMs. And so that did impact the demand to a certain extent,
+but that's one of the key factors we saw happening.
+Within the market, though, 5G continues to be very strong. So we're seeing 2 trends in China. First is the transition to 5G, kind of there's a variance
+month-to-month, but very, very strong, in the high 70s percent has already transitioned to 5G. And so we are raising the guidance, the midpoint
+of the guidance for 5G to now 525 million units.
+And then within that, we're also seeing higher tier of devices. So Oppo, Vivo, Xiaomi, Honor, all of our customers are moving up tier. And as they
+move up tier, that creates an incremental opportunity for us. So it's a pretty positive market trends for us.
+Cristiano Amon;President and CEO
+Okay. So I'm just going to answer the second question. So Tal, the second question, we're very focused right now on our contract with Apple, which
+is focused on providing modem for their products. We're very happy with the relationship. But anything beyond our contract with them is an upside
+to our model. And as I continue to say what I said before, we have a lot of technologies. They have a large number of devices. And if there are
+9
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+NOVEMBER 03, 2021 / 8:45PM, QCOM.OQ - Q4 2021 Qualcomm Inc Earnings Call
+opportunities, we'll be very happy to engage with them in supply. We just don't want to speculate at this point. And we've been very clear that our
+assumptions in our model is just focused on our contract. Everything else is upside.
+Operator
+Our next question is coming from the line of Ross Seymore with Deutsche Bank.
+Ross Clark Seymore - Deutsche Bank AG, Research Division - MD
+Congrats on the strong results and guide. Akash or Cristiano, I just wanted to talk a little bit about the pairing of the handset and the RF side of
+things. I know you said that there was a little bit of a pull-in into your fiscal fourth quarter on the RF side of things. But with the Android market
+share gains that you're talking about heading into the December quarter, why is the RF side not coming along for that ride? And is that pairing
+something that it's just a transition period, and as we look further out, those are going to be more linked together?
+Akash Palkhiwala - QUALCOMM Incorporated - CFO
+Ross, it's Akash. It's exactly the right question. The -- we expect the 2 to move together in concert. As I mentioned in my prepared remarks, and
+that's why we highlighted it, we did see some pull-in from December quarter to September quarter within RF front-end. And it was really where
+supply was available, our customers chose to take it sooner than receiving the chipset. And if you normalize for it, the 2 would have moved together.
+So we definitely see the growth in the Android opportunity as a tremendous growth vector for us with the RF front-end as well.
+Cristiano Amon;President and CEO
+No, just to be crystal clear, all of this growth opportunity that we're seeing in Android, especially the premium and high, is coming with RF. I want
+to make that statement clear.
+Ross Clark Seymore - Deutsche Bank AG, Research Division - MD
+Perfect, Cristiano. I guess, as my follow-up, if I talk about QCT ex handsets and ex RF front-ends, it sounds like, Akash, you said those would be
+relatively flat in December, but then you thought it would actually grow again in March. What's going on in those markets? And then, I guess, the
+higher-level question is, given the supply constraints, there's a big debate going on in broad-based semis between investors worried about increased
+selectivity from customers, change in behaviors. Are you seeing some digestion period here? Why is it slowing? And then why is it reaccelerating?
+Akash Palkhiwala - QUALCOMM Incorporated - CFO
+Yes. So as you saw, we had tremendously strong results, both in auto and IoT and record results in both in the fourth fiscal quarter. You're right,
+going into the first quarter, we are forecasting in line sequentially. And one of the key factors there is still we are supply-constrained, and we are
+making certain decisions given the strong handset market in that quarter to allocate supply a little differently based on profitability. But really,
+when you think about the draw demand from the customer continues to be very strong, and so we're confident that when you look at second
+fiscal quarter or look at fiscal '21 going to fiscal '22, both those businesses will grow in a very strong fashion.
+Operator
+Our next question is coming from the line of Joe Moore with Morgan Stanley.
+10
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+NOVEMBER 03, 2021 / 8:45PM, QCOM.OQ - Q4 2021 Qualcomm Inc Earnings Call
+Joseph Lawrence Moore - Morgan Stanley, Research Division - Executive Director
+I wonder if you could just talk about the overall supply chain in smartphone. And are you seeing bottlenecks at some of your customers where
+they're unable to procure parts that aren't from Qualcomm that might lead to inventory buildup of Qualcomm parts? And it seems like overall, the
+handset sell-through numbers are a little weaker because of those constraints, but it doesn't seem like the supply chain has changed at all. Can
+you just describe that dynamic?
+Akash Palkhiwala - QUALCOMM Incorporated - CFO
+Sure, Joe. So we're definitely seeing some mismatch of parts in the short term at some of our customers, but you should think of those as really
+timing issues. The other thing to keep in mind is, as Cristiano outlined earlier in the call, that we are focusing really on the premium and high-tier
+units. And so when our customers have supply mismatch, they actually end up supplying the premium and high-tier devices. So our chips and our
+devices are still being used, and it's not something that's a big factor for us in the short term.
+Operator
+Our next question comes from Rod Hall with Goldman Sachs.
+Roderick B. Hall - Goldman Sachs Group, Inc., Research Division - MD
+I wanted to come back to this idea of supply versus demand in the Q1 quarter. I had heard earlier, I guess, someone mentioned that they were
+assuming that, that supply would be meeting demand. But it seems to -- well, I just want to check that with you. Is that a good assumption? Or do
+you think that we see supply continuing to rise to meet demand on into the fiscal Q2? And then I have a follow-up.
+Cristiano Amon;President and CEO
+Rod, this is Cristiano. Look, if I remember, we had said, if I believe, 2 earnings calls ago, that we had put -- we act early, we put a lot of things in
+place, multi-sourcing capacity expansions. And we said that we expect to see material improvement in our supply towards the end of the calendar
+year. That's reflected in the Q1 guide, our ability to have supply.
+We continue to have pockets of areas that we would ship more if we had more, but we see a lot of improvements. We see at least 3 announced
+products of multi-sourcing being shipped. And we've been executing on that increased supply. And different companies are going to have different
+outlooks. We look at the first half of 2022. We still have some shortage. But as we get to the second part of the year, I think, in general, supply and
+demand are going to be aligned.
+Roderick B. Hall - Goldman Sachs Group, Inc., Research Division - MD
+Yes. Just, I guess, my question was just aimed at the idea that this seems like it could continue to be a little bit of a tailwind for you as you move
+into the beginning of next year, and it's not just magically resolved here at the end of this year.
+My follow-up is regarding the Android opportunity. I wonder if you guys could comment on content there versus the other big high-end handset
+maker you supply. We calculate a substantial increase in concept, but I'm just curious, do you agree with that? If you sell a high-end Android phone
+in January, is that phone going to have materially more content for you than another type of phone might?
+11
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+NOVEMBER 03, 2021 / 8:45PM, QCOM.OQ - Q4 2021 Qualcomm Inc Earnings Call
+Cristiano Amon;President and CEO
+Absolutely. Look, we are very pleased with the strength of our Snapdragon 800 series. Our Snapdragon 800 series became synonymous with
+premium Android flagship smartphones. There's a lot more silicon content besides the RF front-end that's attached to the modem. There's GPU.
+There's CPU. There's all the multimedia, and it's a lot more richer platform than just selling a modem in its multiple times in terms of revenue and
+earnings contribution. And when we look of the SAM available to us, when we look at the consolidation of Snapdragon 800 being the chipset for
+every flagship, that's no surprise that we actually grow faster in the Android segment.
+Operator
+Our next question is coming from the line of Harsh Kumar with Piper Sandler.
+Harsh V. Kumar - Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+First of all, congratulations on tremendous execution and diversification. I had a question. Cristiano, you talked a lot about Android and how positive
+you are on that. I know you were supposed to get additional supply in the December quarter. You seem to be benefiting from units. Are you
+benefiting from units primarily? Or are you also going back and taking share that you were expecting to take from your competitors?
+Cristiano Amon;President and CEO
+Look, there's plenty of opportunity with the changing landscape for growth between us and our competitors. I think what's important to highlight
+is that Qualcomm has been concentrated into premium and high. There's very high demand for premium and high Snapdragon mobile platforms,
+both the 700 and 800. And it is a share gain of Snapdragon in Android premium. And we're very happy with the opportunity to capture actually
+the higher value share of the market.
+Akash Palkhiwala - QUALCOMM Incorporated - CFO
+And then maybe, Harsh, to add to that, I'll just draw your attention to product announcements that we had a couple of weeks ago where we
+announced a whole new set of 5G products across tiers.
+Harsh V. Kumar - Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+Great. And for my follow-up, I wanted to follow up on a question that was asked about the March quarter. You talked about some benefit coming
+from your premium chips that you'll be launching in the March time frame, which is seasonally weak. Now Apple, for one, talked about leaving I
+think it was $6 billion-plus worth of revenues behind on the table. Do you think you might get a benefit from all the handset OEMs that are leaving
+revenue behind on the table, along with your premium? Or do you think it's just again your own chipsets that are getting benefit from launch of
+new chipsets?
+Akash Palkhiwala - QUALCOMM Incorporated - CFO
+Well, what I said about the March quarter was really you have a seasonal decline in the handset market. But given the launch of our new chipset
+and really all the other chipset launches we have done over the last month, we feel like we will be in a very strong position to expand our units
+within the Android market.
+And then the second thing I said is nonhandset growth. We expect nonhandsets, all 3 to grow within the quarter as well.
+12
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+NOVEMBER 03, 2021 / 8:45PM, QCOM.OQ - Q4 2021 Qualcomm Inc Earnings Call
+Operator
+Our final question is coming from the line of Timothy Arcuri with UBS.
+Timothy Michael Arcuri - UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment
+I had 2 questions. The first, Akash, was on the RF business. I think you said at the Analyst Day that you were targeting more than 20% share of an
+$18 billion TAM next year. But you're now annualizing to almost $5 billion. So either the market is a lot bigger or your share is a lot higher. So can
+you just comment on that?
+And then secondly, I had a question on the contract with the big customer. Can you just level set us? Cristiano, you just alluded to it. So can you
+level set us? I think it goes through 2024. But can you just help us on the timing of that?
+Akash Palkhiwala - QUALCOMM Incorporated - CFO
+So Tim, on the -- on your first question on the math, $3.6 billion is right, and we reported results at $4.1 billion, I think. So we've definitely exceeded
+the target we've set. And as Cristiano said earlier in the conversation, we are very confident that we have several more vectors of growth left in the
+RF business, not just within handsets but also as 5G expands into telematics and IoT and then also within Wi-Fi. So yes, there's some ways to go,
+and we'll definitely plan to address that at Analyst Day in a couple of weeks.
+Cristiano Amon;President and CEO
+Tim, it's Cristiano. The only thing we can disclose is what we disclosed before. It is a long-term agreement, and it's a multiyear agreement. We --
+unfortunately, we cannot say anything more than that.
+Operator
+Thank you. That concludes today's question-and-answer session. Mr. Amon, do you have anything further to add before adjourning the call?
+Cristiano Amon;President and CEO
+Thanks, everyone, for joining us on the call today. We are at the intersection of key trends that are accelerating edge connectivity, efficient processing
+and own device artificial intelligence. This is driving demand for industry-leading road map of relevant technologies, creating a significant opportunity
+for growth and continued diversification. In addition to driving the mobile industry to 5G, we will power the connected intelligent edge.
+I look forward to outlining our strategy and vision for the future at Investor Day on November 16 and sharing our next-generation Snapdragon
+platforms at our Annual Tech Summit in December.
+I also want to take a moment to thank our employees for an incredible fiscal year. They are truly the best of Qualcomm, and there is no better time
+to be part of this great company.
+Operator
+Ladies and gentlemen, this concludes today's conference call. You may now disconnect.
+13
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+NOVEMBER 03, 2021 / 8:45PM, QCOM.OQ - Q4 2021 Qualcomm Inc Earnings Call
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon
+current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more
+specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the
+assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION,
+THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY
+RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE
+COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2021, Refinitiv. All Rights Reserved. 14990785-2021-11-03T22:48:46.710
+14
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+©2021 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+NOVEMBER 03, 2021 / 8:45PM, QCOM.OQ - Q4 2021 Qualcomm Inc Earnings Call

@@ -1,0 +1,411 @@
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+1
+THOMSON REUTERS
+EDITED TRANSCRIPT
+Q3 2019 Texas Instruments Inc Earnings Call
+EVENT DATE/TIME: OCTOBER 22, 2019 / 8:30PM GMT
+OCTOBER 22, 2019 / 8:30PM GMT, Q3 2019 Texas Instruments Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+2
+CORPORATE PARTICIPANTS
+Dave Pahl Texas Instruments Incorporated - Head of IR & VP
+Rafael R. Lizardi Texas Instruments Incorporated - Senior VP of Finance & Operations, CFO and CAO
+CONFERENCE CALL PARTICIPANTS
+Christopher James Muse Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research &
+Senior Equity Research Analyst
+John William Pitzer Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head
+Joseph Lawrence Moore Morgan Stanley, Research Division - Executive Director
+Ross Clark Seymore Deutsche Bank AG, Research Division - MD
+Stacy Aaron Rasgon Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst
+Timothy Michael Arcuri UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment
+Tore Egil Svanberg Stifel, Nicolaus & Company, Incorporated, Research Division - MD
+Vivek Arya BofA Merrill Lynch, Research Division - Director
+PRESENTATION
+Operator
+Good day, and welcome to the Texas Instruments 3Q '19 Earnings Release Conference Call. Today's conference is being recorded.
+At this time, I would like to turn the conference over to Dave Pahl. Please go ahead, sir.
+Dave Pahl Texas Instruments Incorporated - Head of IR & VP
+Good afternoon, and thank you for joining our third quarter 2019 earnings conference call. Rafael Lizardi, TI's Chief Financial Officer, is
+with me today. For any of you who missed the release, you can find it on our website at ti.com/ir. This call is being broadcast live over the
+web and can be accessed through our website. A replay will be available through the web.
+This call will include forward-looking statements that involve risks and uncertainties that could cause TI's results to differ materially from
+management's current expectations. We encourage you to review the notice regarding forward-looking statements contained in the
+earnings release published today, as well as TI's most recent SEC filings for a more complete description.
+For today's call, let me start by summarizing what Rafael and I will be reviewing. I'll be covering the following topics: first, a high-level
+summary of the financial results for the third quarter; second, given the additional weakness we've seen, I'll provide some comments
+about what we're seeing with added insight by segment and end market. Rafael will then review profitability, capital management
+results and then the outlook. After which, we'll open the call for Q&A.
+Starting with a high-level summary of our third quarter financial results. Revenue decreased 11% from a year ago and came in below the
+midpoint of our guidance as we saw most end markets continue to weaken further. In our core businesses, Analog revenue declined 8%
+and Embedded Processing revenue declined 19% compared with the same quarter a year ago. Both businesses' year-on-year growth
+decelerated.
+Earnings per share were $1.49, including a $0.09 benefit for items not in our original guidance due to discrete tax benefits.
+With that backdrop, I'll now provide details on our performance. In the third quarter, our cash flow from operations was $2 billion. As we
+note each quarter, we believe that free cash flow growth, especially on a per-share basis, is most important to maximizing shareholder
+value in the long term. We remain committed to returning all of our free cash flow to owners.
+Free cash flow for the trailing 12-month period was $6 billion, up 2% from a year ago. Free cash flow margin for the same period was 41%
+of revenue. We continue to benefit from the quality of our product portfolio that is long-lived and diverse and the efficiency of our
+manufacturing strategy, the latter of which includes our growing 300-millimeter Analog output.
+We believe that free cash flow will be valued only if it's productively invested in the business or if it's returned to owners. For the trailing
+OCTOBER 22, 2019 / 8:30PM GMT, Q3 2019 Texas Instruments Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+3
+12-month period, we returned $7.4 billion of cash to owners through a combination of dividends and stock repurchases, demonstrating
+our confidence in the business model and our commitment to return all of our free cash flow to owners.
+Moving on, I'll now provide some details on the third quarter by segment and end market.
+For the year-ago quarter, Analog revenue declined 8% due to declines in Power, Signal Chain and High Volume.
+Embedded Processing revenue declined 19% from the year-ago quarter due to declines in both product lines, Processors and Connected
+Microcontrollers. All markets declined across Embedded, but the declines were most pronounced in the automotive and communications
+equipment markets.
+Other declined by 19% from the year-ago quarter due to DLP and custom ASIC.
+Next, I'll provide some comments on what we're seeing in the market and insight into this quarter's performance by end market versus a
+year ago.
+As we've said, when you look at 30 years of history, semiconductor cycles can vary widely but typically experience four to five quarters of
+year-on-year declines before returning to positive growth. We've also said that the current trade tensions could impact the depth and
+duration of the cycle. We've provided these comments as context, not as a prediction about the current cycle.
+With the end of this current quarter, we've now experienced our fourth consecutive quarter of negative year-on-year growth. There is an
+increasing number of reports of macroeconomic weakness with trade tensions as the primary contributor. Consistent with this, the
+weakness we've seen in the third quarter was broad-based across all markets and most sectors.
+Industrial, automotive and personal electronics all declined upper-single digits from the year ago, as almost all 28 sectors within these
+markets declined.
+In communications equipment, revenue declined about 35% from the year-ago and 20% sequentially. We saw weakness across all major
+customers, regions and technologies.
+And lastly, enterprise systems declined from the year-ago quarter.
+We've learned over the years that staying focused on building the company stronger especially in the face of a weak market provides
+great, long-term rewards. We continue to invest in and leverage our competitive advantages. The breadth of our product portfolio, and
+channels to market, including our direct sales and applications team as well as TI.com, provides us the broadest reach to our customer
+base, a unique advantage. We've been evolving our distribution network over the years and continue to do so today as we build stronger,
+direct relationships with our customers.
+We remain focused on Analog and Embedded, the best products.
+We remain focused on industrial and automotive, the best markets. They'll be the fastest-growing semiconductor markets as they have
+increasing semiconductor content and also provide diversity and longevity. All of this translates to a high terminal value of our portfolio.
+Rafael will now review profitability, capital management and the outlook.
+Rafael R. Lizardi Texas Instruments Incorporated - Senior VP of Finance & Operations, CFO and CAO
+Thanks, Dave, and good afternoon everyone.
+Gross profit in the quarter was $2.45 billion or 65% of revenue. From a year ago, gross profit decreased due to lower revenue. Gross
+profit margin decreased 90 basis points.
+OCTOBER 22, 2019 / 8:30PM GMT, Q3 2019 Texas Instruments Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+4
+Operating expenses in the quarter were $778 million, about even from a year ago and about as expected. On a trailing 12-month basis,
+operating expenses were 22% of revenue. Over the last 12 months, we have invested $1.56 billion in R&D, an important element of our
+capital allocation. We are pleased with our disciplined process of allocating capital to R&D, which we believe will allow us to continue to
+grow our top line over the long term.
+Acquisition charges, a non-cash expense, were $79 million. Acquisition charges will decline to about $50 million in the fourth quarter
+and will remain at that level through the third quarter of 2021.
+Operating profit was $1.59 billion or 42% of revenue. Operating profit was down 18% from the year-ago quarter. Operating margin for
+Analog was 46%, down from 50% a year ago, and for Embedded Processing was 32%, down from 35% a year ago. Despite current
+weakness, our focused investments on the best sustainable growth opportunities with differentiated positions will enable both
+businesses to contribute nicely to free cash flow growth over time.
+Other income and expense was 34 -- was a $34 million benefit, up $11 million from a year ago.
+Net income in the third quarter was $1.43 billion or $1.49 per share, which included a $0.09 benefit for items that were not in our prior
+outlook as we have discussed.
+Let me now comment on our capital management results, starting with our cash generation.
+Cash flow from operations was $1.99 billion in the quarter. Capital expenditures were $149 million in the quarter. Free cash flow on a
+trailing 12-month basis was $6.03 billion.
+In September, we announced we will increase our quarterly dividend by 17%, marking our 16th year of dividend increases. In the quarter,
+we paid $721 million in dividends and repurchased $456 million of our stock for a total return to owners of $1.18 billion. In total, we have
+returned $7.38 billion in the past 12 months, consistent with our strategy to return all free cash flow. Over the same period, our dividends
+represented 48% of free cash flow, underscoring their sustainability.
+Our balance sheet remains strong with $5.07 billion of cash and short-term investments at the end of the third quarter. In the quarter,
+we repaid $750 million of debt and issued $750 million of debt with a coupon of 2.25% due in 10 years. This results in total debt of $5.8
+billion with a weighted average coupon of 2.99%.
+Inventory days were 139, up eight days from a year ago and down four days sequentially. We are pleased with the progress we have made
+replenishing inventory of low-volume devices and implementing the next phase of our consignment programs. Work in both of these
+areas is mostly complete. Given the weaker environment, we have reduced wafer starts to align with demand.
+Turning to our outlook for the fourth quarter, we expect TI revenue in the range of $3.07 billion to $3.33 billion and earnings per share to
+be in the range of $0.91 to $1.09, which includes an estimated $5 million discrete tax benefit. We continue to expect our annual operating
+tax rate to be about 16% for 2019. As a reminder, acquisition charges will decline to about $50 million in the fourth quarter and remain at
+that level through the third quarter of 2021.
+In closing, as Dave mentioned, we will stay focused in the areas that add value in the long term. We continue to invest in our competitive
+advantages, which are technology and manufacturing, portfolio breadth, market reach and diverse and long-lived products. We will
+continue to strengthen these advantages through disciplined capital allocation and by focusing on the best products, Analog and
+Embedded Processing, and the best markets, industrial and automotive, which we believe will enable us to continue to improve and
+deliver free cash flow per share growth over the long term.
+With that, let me turn it back to Dave.
+OCTOBER 22, 2019 / 8:30PM GMT, Q3 2019 Texas Instruments Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+5
+Dave Pahl Texas Instruments Incorporated - Head of IR & VP
+Thanks, Rafael. Operator, you can now open the lines for questions. (Operator Instructions) Operator?
+QUESTIONS AND ANSWERS
+Operator
+(Operator Instructions) We'll take our first question from Vivek Arya of Bank of America.
+Vivek Arya BofA Merrill Lynch, Research Division - Director
+The first one is on the Q4 outlook. How do we get confident that this isn't company-specific or share loss, because when we looked at
+some of the SIA data for July and August, it was more positive. So is there anything that is company-specific in Q4 because the guidance
+is substantially below? We understand the macroenvironment is not that great, but is there anything one-off, company specific, that is
+impacting your guidance? Is there any share loss issue? Any other color that you could provide would be very helpful.
+Dave Pahl Texas Instruments Incorporated - Head of IR & VP
+Yes, Vivek, I'll take that. I'd say -- state the obvious, obviously, the SIA numbers are more backward-looking versus looking into fourth
+quarter. And I think when you judge share, and we've talked about this when, in the past that you really need to judge it over multiple
+quarters. You look at diversity of our revenue, we talk about one of our competitive advantages being diversity and longevity. Our last,
+our biggest product last year, as an example, was about 0.8% of our total revenue. So just that diversity, I think, has served us well and
+will continue to serve us well. You have a follow-on?
+Vivek Arya BofA Merrill Lynch, Research Division - Director
+Somewhat more longer term, there's a lot of discussion of a parallel technology and semis ecosystem developing in China as it tries to
+get more self-sufficient. How well is TI placed from a competitive perspective? Do you think there are substitutes for your kind of Analog
+and Embedded products from Chinese vendors over some intermediate time frame? And what would TI need to do different as a
+company to react to this new ecosystem?
+Dave Pahl Texas Instruments Incorporated - Head of IR & VP
+Yes, I'll start off. I think if you look at the Analog and the Embedded markets, they've got many natural competitive moats that sit around
+the marketplace overall. I think that we've certainly heard discussions of Chinese customers wanting to ensure that they have
+alternatives. But it's very different than being designed out. So our customers overall are very pragmatic. They're looking for components
+with the highest performance, the lowest cost and the most dependable delivery. So I think we'll continue to focus on those things. And
+they have served us well in the past, and we believe they'll continue to serve us well in the future.
+Operator
+(Operator Instructions) Our next question comes from Stacy Rasgon of Bernstein Research.
+Stacy Aaron Rasgon Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst
+I guess I wanted to follow up on that a little bit around Q4. We've been in this environment for a while. I think you had your first guide for
+a cut actually on this call a year ago, but even on that call you had guided Q4 '18 down about 12% sequentially, which is already
+(inaudible). We're a year later, we've had a number of rounds of cuts, so the base is even lower. Now you're guiding Q4 '19 down like 15%
+sequentially, so it's even worse on a sequential basis than we saw in the year-ago quarter when they started.
+I guess if -- and again, it's not like things have -- things have been weak all along. I guess if you can give us some kind of an indication,
+maybe what they did immediately worse is this, Huawei pull forward working off, is this something going on because your distribution
+strategy is different from your competitors? I guess anything you can give us around the tactical near-term environment driving the Q4
+guide would be helpful, just given what we've seen over the last year or so in those trends.
+OCTOBER 22, 2019 / 8:30PM GMT, Q3 2019 Texas Instruments Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+6
+Rafael R. Lizardi Texas Instruments Incorporated - Senior VP of Finance & Operations, CFO and CAO
+Yes, Stacy, thanks for the question. Let me take a shot at that, and then Dave will follow up with other comments, but our sense is that
+customers are just far more cautious than they were certainly a year ago, but even 90 days ago. And many of them, when talk about their
+caution, they mention the trade tensions that we know have been happening and have been kind of accumulating over the last three or
+four quarters. And the consistency of that breath of weakness supports that this is a macro situation that is driving the further weakness
+that we're seeing.
+Dave Pahl Texas Instruments Incorporated - Head of IR & VP
+Yes, do you have a follow-on?
+Stacy Aaron Rasgon Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst
+I do. So you talked about evolving your distribution strategy and relationships. Do you think it's possible though that any of those
+activities, as you disintermediate more of them, may be having like in the near term, negative impact on your revenue outlook because
+you can rely on them less to do things like demand generation and the like? Is there I guess, just any change you've made recently, you
+think could be having any sort of impact on the near-term horizon?
+Dave Pahl Texas Instruments Incorporated - Head of IR & VP
+Yes, simply in a word, I'd just say no, Stacy. I think establishing a more direct relationship with our customer just yields more rewards
+than it does risk. And it gives us greater access to those customers. And you've seen us evolve that over the last several years. And we've
+made investments in order to provide very high levels of service for our customers, especially as we move to a more direct business
+model. And these investments include the things that you've heard us talk about, new capabilities and in some cases, improved
+capabilities, to our website, e-commerce enhancements for demand creation, inventory consignment programs that we've talked about
+on the last few calls and other things like order fulfillment services, so these improved capabilities, combined with our sales and
+applications organization, which by the way is the largest in the semiconductor industry, just help us provide great products and great
+support to our customers. And that's really what we've been focused on.
+Operator
+Our next question comes from John Pitzer of Credit Suisse.
+John William Pitzer Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head
+Dave, I just want to go back to the Embedded, kind of when I looked at how your Analog business is trending, it's about in line with kind
+of our expectations and quite frankly, what your peer group is doing. But when I look at Embedded, it seems to be demonstrably worse.
+In fact, if Q4 is down sequentially, equally across all segments, you'll be down, peak to trough, this cycle in Embedded, more so than you
+were in the '09 financial crisis when financial markets weren't working properly and companies couldn't actually get funding for
+inventory. So I just want to kind of go back and kind of understand why you think the Embedded business is doing so poorly relative to
+overall kind of industry trends? Is that really where the comms weakness comes in? Or if you can help me understand that a little bit
+better, it'd be helpful.
+Dave Pahl Texas Instruments Incorporated - Head of IR & VP
+And John, to put it in context, we talked about at the company level, so including Analog and Embedded, that all the markets were weak,
+that when we saw the sectors that make up those markets, that most of them were weak. But that weakness was just more pronounced.
+It's directionally the same, but just more pronounced in Embedded. And we did see, and if you look now just inside of Embedded, we saw
+a more pronounced weakness in automotive and in communications.
+So again, I think that those types of things need to be measured over longer periods of time. And so I wouldn't judge that business on any
+one quarter results overall. You have a follow-on, John?
+John William Pitzer Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head
+Yes. Just as a follow-up, just going back to the comms part of the business. I'm just kind of curious, not that the macro is all that strong,
+but to what extent can you quantify, if at all, the impact from bans? Is this Huawei having ordered a lot more inventory throughout the
+OCTOBER 22, 2019 / 8:30PM GMT, Q3 2019 Texas Instruments Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+7
+year than you thought? Is this a certain company or a region? Just on the comms side, any color you can give on the weakness would be
+helpful.
+Dave Pahl Texas Instruments Incorporated - Head of IR & VP
+Yes, I think we can't rule out, obviously, customers having built inventory in preparations for builds or concerns with the trade tensions.
+But the weakness that we saw wasn't limited to any region, so was very broad-based. When we look at the largest customers inside of
+comms equipment that was across the largest customers. And again, it was -- we talked about that, it was across the technology. So
+really broad-based weakness. So not just one customer, not just one technology or not just one region. So hopefully that color helps.
+Operator
+Our next question comes from Ross Seymore of Deutsche Bank.
+Ross Clark Seymore Deutsche Bank AG, Research Division - MD
+Dave, you gave the year-over-year comments and then the sequentials for the comm equipment. But I think we're all trying to solve the
+main problem of kind of why is your guidance so weak in the fourth quarter. To the extent it provides any clues, could you give us what
+the quarter-over-quarter sequentials were by the end markets outside of the comm, which you already gave?
+Dave Pahl Texas Instruments Incorporated - Head of IR & VP
+Sure. Industrial and automotive declined low-single digits, Ross. Personal electronics grew mid-teens. And that was based on really just
+seasonal growth that we would expect to see. We already commented on comms equipment declining about 20%, and then Enterprise
+Systems grew in the quarter. You have a follow-on?
+Ross Clark Seymore Deutsche Bank AG, Research Division - MD
+Yes, I guess one on the cash return side of things. I know one quarter doesn't necessarily make a trend, but you guys have been
+ridiculously consistent in a positive way with your buyback over time. I know you raised the dividend this last quarter but I think the share
+repurchase was the lowest since, I believe, the second quarter of 2012 if my model is right. And the aggregate of the two, the dividend
+and the buyback, were meaningfully less than the free cash flow in the quarter. I know it's not just one quarter, but is there anything that
+explains why the buyback was significantly lower than it's been in any time in recent history?
+Rafael R. Lizardi Texas Instruments Incorporated - Senior VP of Finance & Operations, CFO and CAO
+Yes, what I would tell you on that is take you back to our capital management strategy, and our objective is to return all free cash flow to
+the owners of the company. And as you pointed out, we do that through buybacks and dividends. And on a trailing 12-month basis, which
+is a better way to look at all these things, to give you just a better trend of what's going on, we have returned $7.4 billion of cash and our
+free cash flow has been $6 billion during that time. So we've returned 122% of free cash flow during that time, so pretty healthy amount.
+And in the last quarter, we return or we bought back $456 million. As long as the stock price is below our assessment of intrinsic, we'll be
+buying back shares, and we did buy back a healthy amount in third quarter.
+Dave Pahl Texas Instruments Incorporated - Head of IR & VP
+Yes, and I'll just add to that. As Rafael said, it's probably best to look at free cash flow metrics on a trailing 12-month basis because
+there's seasonality. Third and fourth quarter tend to be stronger than first and the second on that. So that usually provides a better
+insight.
+Operator
+Our next question comes from Joe Moore of Morgan Stanley.
+Joseph Lawrence Moore Morgan Stanley, Research Division - Executive Director
+I wonder if you can give us more color. I mean you've talked about your customers being more cautious, but to what degree do you think
+that's demand being softer, that's different inventory behavior? And I guess on the flip side, it doesn't seem like you're seeing a lot of
+inventory accumulation around the tariff activities but just -- could you just generally comment on the state of your customers'
+inventories as you move to the last quarter?
+OCTOBER 22, 2019 / 8:30PM GMT, Q3 2019 Texas Instruments Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+8
+Dave Pahl Texas Instruments Incorporated - Head of IR & VP
+Yes, Joe. I'll make a comment and if Rafael wants to add something to it, certainly jump in, Rafael.
+But when we look at inventory in the channel, it was actually down a little bit sequentially, still at about 4.5 weeks of really not changing
+much overall. We still have about two-thirds of our revenue supported by consignment overall, so we know that inventory remains at zero
+because of those consignment programs. So continue to be in a very healthy, healthy state.
+Now the rest of that, we can't see into our customers' inventories and down channel, so our visibility really ends at that point. Rafael?
+Rafael R. Lizardi Texas Instruments Incorporated - Senior VP of Finance & Operations, CFO and CAO
+Yes, the only thing I would add, I can sense that you collectively are unsatisfied with our answers, and I understand that. We have close to
+100,000 different customers, and we sell about 100,000 different products. It's difficult to pinpoint any one thing, but the sense we get,
+talking to those customers, getting input from them, from our sales people and all the touchpoints that we have, is that the weakness is
+broad-based. It's due to macro events and specifically the trade tensions. And if you think about when there's tensions in trade and
+obstacles to trade, what do businesses do? They become more cautious, and they pull back. And we are at the very end of a long supply
+chain, and when the ones at the very front pull back, it becomes a traffic jam. And so our sense is that is what's happening in the
+marketplace. But we'll see what other companies will report over time and we'll get a clearer picture over the next several weeks and
+really quarters, because this thing, we've been in it for now four quarters, and it's going to be longer than that.
+Dave Pahl Texas Instruments Incorporated - Head of IR & VP
+A follow on, Joe?
+Joseph Lawrence Moore Morgan Stanley, Research Division - Executive Director
+Yes. In terms of the wafer start reduction in the fourth quarter, can you just talk about, I guess normally you've talked about a 70%
+incremental gross margin in both directions. Anything kind of different as you think about Q4 because of the fact that, the wafer start
+comment that you made?
+Rafael R. Lizardi Texas Instruments Incorporated - Senior VP of Finance & Operations, CFO and CAO
+Yes, actually no, not any different in the, to the larger degree. We've talked about 70% to 75% fall through. And that's a guide, it could be
+a little less, a little more. So that's probably how you want to think about it on a year-on-year basis for fourth quarter. We are -- we did
+lower wafer starts in third quarter, inside of the quarter, and we have -- we are lowering those further into fourth quarter. And that's a
+capital allocation decision. When we do that, we save cash, right? And we have, to the largest degree, built the buffer strategy that we
+had talked about. So we will save cash as we do that, and that makes sense for the owners of the company. That's cash that's freed up for
+other purposes. That does take -- that does hit -- that will hit the GPM line, but it will do so about as expected. So as I say, you've seen a
+fall-through that we have talked about in the big scheme of things.
+Operator
+Our next question comes from Timothy Arcuri of UBS.
+Timothy Michael Arcuri UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment
+Q4 OpEx is usually down low to mid-singles. I'm just trying to see if that's the right number for December that's in the guidance?
+Rafael R. Lizardi Texas Instruments Incorporated - Senior VP of Finance & Operations, CFO and CAO
+OpEx, we -- well first, remember the objective of OpEx is to fuel our long-term growth. And these are long-term investments that pay off
+over many, many years, in many cases, decades. So that's how we think about it. It's not -- we're -- in this environment, we're cautious
+and want to be prudent but we're not cutting back on our -- on those long-term investments.
+On a trailing 12-month basis, OpEx has been running pretty steady at about $3.2 billion for at least a year or so. If you look at the trailing
+12-month at the end of every quarter for the last three or four quarters, and it is -- overall it's down about 1% versus a year ago. But of
+course, revenue has been dropping more than that, so then as a percent of revenue, it's gone up a little bit. So now it's at 22%. And that's
+OCTOBER 22, 2019 / 8:30PM GMT, Q3 2019 Texas Instruments Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+9
+well within our expectation, our guide of 20% to 25% for that metric.
+You have a follow up?
+Timothy Michael Arcuri UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment
+Sure. I guess, with respect to the loadings commentary, does it make you rethink the timing on the new 300-millimeter fab? If you can
+give us an update there.
+Rafael R. Lizardi Texas Instruments Incorporated - Senior VP of Finance & Operations, CFO and CAO
+Yes, sure. So first let me remind you of course when it comes to CapEx, particularly for that fab, it's all about driving long-term revenue
+growth and extending our manufacturing advantage, including 300-millimeter. And that is one of our key competitive advantages. We
+are now in the process of building a parking structure that will be complete in the first half of next year. Once we build that, that will
+enable us to build the building for that next 300-millimeter factory. Our plan continues to be to build that building within the next few
+years. And as a reminder, that will cost $600 million to $700 million over a couple of years as we build that building. And it is $600
+million, $700 million, it is a sizable amount, but the big expense comes from the equipment that would follow. And in fact, an even
+bigger one would be the opportunity cost of not having that available if there is or when there is growth on the other side of these things.
+So we think about all of those things. And based on that, we -- we've made our -- we'd laid out our plans at the moment.
+Operator
+Our next question comes from C.J. Muse of Evercore.
+Christopher James Muse Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research
+& Senior Equity Research Analyst
+I guess I want to revisit comments around China and the potential for pull-ins. If I look back at your June quarter, that business was up
+about 6% year-on-year where everything else was down 1%. And so I guess as you look back and you think forward, do you have the
+sense that, that was in fact pull-ins in the prior quarters, and that's perhaps exacerbating what you're seeing into the December quarter?
+Dave Pahl Texas Instruments Incorporated - Head of IR & VP
+Yes, I think that -- so first, I spent eight years of my career in sales and I like the joke, I never once took a double order or saw a customer
+do a pull-in, right? But so I certainly wouldn't rule that out as a possibility. But I think more of what you're seeing there is just seasonality
+as customers prepare on more the PE products, or our products, are shipped into China than any other region. So that has an effect that's
+in there as well. So again, I won't rule that out, but you've got some seasonality that's going on with that. You have a follow-on?
+Christopher James Muse Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research
+& Senior Equity Research Analyst
+I do. You talk broad-based weakness, but was hoping perhaps you could narrow in on auto, and give a little more color on what you're
+seeing there, either geographically or by sub-segment.
+Dave Pahl Texas Instruments Incorporated - Head of IR & VP
+Yes, so we've got five sectors that are inside of that. All the sectors saw weakness. I made the comment that if you look at the sectors
+across industrial and even personal electronics, that most of those sectors were down. So automotive was no different from that front.
+And I would say that from a regional standpoint, there's -- we saw weakness across all of the regions. So nothing really significant there
+to spike out.
+Operator
+Our last question comes from Tore Svanberg of Stifel.
+Tore Egil Svanberg Stifel, Nicolaus & Company, Incorporated, Research Division - MD
+Could you maybe talk a little bit about the linearity of the orders? So obviously, there's been some weakening. And I'm just wondering if
+you already started to see that this summer? Or was it sort of something more that came later in the quarter?
+OCTOBER 22, 2019 / 8:30PM GMT, Q3 2019 Texas Instruments Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+10
+Dave Pahl Texas Instruments Incorporated - Head of IR & VP
+Yes. So I would say that it was weak throughout the quarter. It wasn't -- last couple of week or last 30-day phenomenon. I'd also point
+out, we've got two-thirds of our revenue on consignment. So in those arrangements, we get the order and ship them instantaneously at
+the same time. So revenues and orders really reflect each other for the most part. You have a follow-on, Tore?
+Tore Egil Svanberg Stifel, Nicolaus & Company, Incorporated, Research Division - MD
+Yes. I had a follow-on for Rafael. So you've done a tremendous job on gross margin. Revenue is down 12% year-over-year, but gross
+margin only down 90 basis points, and now your inventory days were down as well sequentially. I know you talked a little bit about
+factory loadings in Q4. But do you -- should we think about some sort of inventory days target that you want to run the business at the
+next few quarters?
+Rafael R. Lizardi Texas Instruments Incorporated - Senior VP of Finance & Operations, CFO and CAO
+So let me -- good question. Let me first step back and remind you how we think about inventory.
+Okay, inventory, the objective there is to maintain high levels of customer service, minimize obsolescence and improve asset utilization.
+We have a guide of 115 to 145, but those are not concrete barriers, right? It's just a guide there. We're going to do the right thing for the
+business, so for example in this situation, in the current environment, even though we have decreased those wafer starts, it is likely that
+we go above the top of that range. Or it's at least possible that we do, just because of where the revenue midpoint is. Now we're not
+going to go drive the wafer starts draconian -- in a draconic way, draconian way, to get to a, just to stay within those guidelines. That
+would not make sense in one quarter. But over one, two, three quarters, then the idea is to, that guideline just provide an area where we
+should aim at. And we can achieve our objectives, the inventory objectives I talked about, while deploying and allocating capital in the
+best way that benefits the interest of the long-term owners of the company.
+Okay. So with that, let me just finish with a few comments on some key items for you to remember. We'll remain focused on Analog and
+Embedded, the best products, and industrial and automotive, the best markets. Next, we will continue to be disciplined in executing our
+capital management strategy and remain committed to returning free cash flow to the owners of the company. Lastly, we continue to
+believe growing free cash flow per share over the long term is why we'll maximize value for the owners of the company.
+Thank you all, for joining us. A replay of this call is also available on our website. Good evening.
+Operator
+This concludes today's call. Thank you for your participation. You may now disconnect.
+DISCLAIMER
+Thomson Reuters reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS THOMSON REUTERS'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY
+BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE
+COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE
+ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2019 Thomson Reuters. All Rights Reserved.

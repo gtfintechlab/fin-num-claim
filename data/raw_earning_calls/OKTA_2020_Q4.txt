@@ -1,0 +1,744 @@
+THOMSON REUTERS | Contact Us
+©2020 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+1
+THOMSON REUTERS
+EDITED TRANSCRIPT
+Q4 2020 Okta Inc Earnings Call
+EVENT DATE/TIME: MARCH 05, 2020 / 10:00PM GMT
+MARCH 05, 2020 / 10:00PM GMT, Q4 2020 Okta Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2020 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+2
+CORPORATE PARTICIPANTS
+Dave Gennarelli Okta, Inc. - IR Executive
+Jacques Frederic Kerrest Okta, Inc. - Co-Founder, Executive Vice Chairperson & COO
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+William E. Losch Okta, Inc. - CFO
+CONFERENCE CALL PARTICIPANTS
+Alexander Henderson Needham & Company, LLC, Research Division - Senior Analyst
+Andrew James Nowinski D.A. Davidson & Co., Research Division - MD & Senior Research Analyst
+Gregg Steven Moskowitz Mizuho Securities USA LLC, Research Division - MD of Americas Research
+Heather Anne Bellini Goldman Sachs Group Inc., Research Division - MD & Analyst
+Imtiaz Ahmed Koujalgi Guggenheim Securities, LLC, Research Division - Director of Technology, Media & Telecom and Analyst
+Jonathan Frank Ho William Blair & Company L.L.C., Research Division - Technology Analyst
+Keith Frances Bachman BMO Capital Markets Equity Research - MD & Senior Research Analyst
+Matthew Melotto Parron JP Morgan Chase & Co, Research Division - Analyst
+Melissa A. Franchi Morgan Stanley, Research Division - VP and Research Analyst
+Patrick D. Walravens JMP Securities LLC, Research Division - MD, Director of Technology Research and Senior Research Analyst
+Richard Hugh Davis Canaccord Genuity Corp., Research Division - MD & Analyst
+Robbie David Owens Piper Sandler & Co., Research Division - MD and Senior Research Analyst
+Shaul Eyal Oppenheimer & Co. Inc., Research Division - MD & Senior Analyst
+Walter H Pritchard Citigroup Inc, Research Division - MD and U.S. Software Analyst
+PRESENTATION
+Operator
+Good day, and welcome to Okta Fourth Quarter 2020 Earnings Call. Today's conference is being recorded.
+At this time, I would like to turn the conference over to David Gennarelli. Please go ahead, sir.
+Dave Gennarelli Okta, Inc. - IR Executive
+Good afternoon, and thank you for joining us on today's conference call to discuss the financial results of Okta's fourth quarter and fiscal
+year 2020. With me on today's call are Todd McKinnon, Okta's Co-Founder and Chief Executive Officer; Bill Losch, the company's Chief
+Financial Officer; and Frederic Kerrest, the company's Co-Founder and Chief Operating Officer.
+Today's call will include forward-looking statements pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act
+of 1995, including, but not limited to, the statements regarding our financial outlook and marketing position. Forward-looking
+statements involve known and unknown risks and uncertainties that may cause our actual results, performance or achievements to be
+materially different from those expressed or implied by the forward-looking statements. Forward-looking statements represent our
+management's beliefs and assumptions only as of the date made. Information on factors that could affect the company's financial results
+is included in its filings with the SEC from time to time, including the section titled Risk Factors in its previously filed Form 10-Q.
+In addition, during today's call, we will discuss non-GAAP financial measures. These non-GAAP financial measures are in addition to and
+not a substitute for or superior to measures of financial performance prepared in accordance with GAAP. Reconciliation between GAAP
+and non-GAAP financial measures and a discussion of the limitations of using non-GAAP measures versus their closest GAAP
+equivalents is available in our earnings release. You can also find more detailed information in our supplemental financial materials,
+which include trended financial statements and key metrics posted on our Investor Relations website.
+On today's call, we will quote a number of numeric or growth changes as we discuss our financial performance, and unless otherwise
+noted, each such reference represents a year-on-year comparison.
+And now I'd like to turn the call over to Todd McKinnon. Todd?
+MARCH 05, 2020 / 10:00PM GMT, Q4 2020 Okta Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2020 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+3
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+Thanks, Dave, and thanks, everyone, for joining us today. Our strong fourth quarter financial results capped another fantastic year for
+Okta. Total fourth quarter revenue grew 45%. Subscription revenue grew 46%. Remaining performance obligations, or RPO, grew 66%.
+And we generated record operating and free cash flow. What drove these results is our continued execution and growing presence as the
+standard for identity and access management. We are now achieving these results at scale while simultaneously investing in the
+business to capture a tremendous opportunity that remains in front of us.
+One of the areas that we've been investing in is growing our base of large enterprise customers. We're seeing those investments pay off,
+and it's reflected in the addition of a record 142 customers with annual contract value greater than $100,000 in the fourth quarter. Once
+again, over half of these additions were from new customers. The total number of $100,000-plus customers is now 1,467, an increase of
+41%. These large enterprise wins are from a wide range of industries.
+To provide some insight into the diversity of our customers and the types of challenges our products help them solve, I'll share some
+details of a few notable wins and upsells from the fourth quarter. A Global 2000 power management company with over 100,000
+employees and doing business in more than 175 countries is establishing Okta as the identity standard. Its workforce, including
+contractors and partners, will be able to securely access both cloud and on-premise applications, regardless of their location. The
+company selected Okta in order to strengthen and modernize its security posture. They recognize tremendous value in Okta's
+independence and neutrality to solve its workforce and partner identity needs.
+Autodesk is the global leader in design and engineering software. The company recently selected the Okta Identity Cloud to centralize
+identity and access management for its customers. The high scalability and availability provided by our customer identity solutions,
+including Okta DynamicScale, was an important factor in the company selecting Okta. With Okta as the identity layer, Autodesk is
+investing in secure and flexible ways for its customers to securely access their products.
+A leading European film and television studio and distributor with over 8 million subscribers worldwide is a new customer identity win.
+Included in the agreement was our new DynamicScale product, which will be able to support peak website traffic of up to 90,000
+connections per minute during large events such as the biggest soccer games of the season. The company expects to attract even more
+customers through recent partnerships with Netflix and Disney Plus and will rely on Okta to deliver a secure customer experience.
+NTT DATA, a top 10 global business and IT services provider, was a notable upsell in the quarter. With over 120,000 professionals in
+more than 50 countries, they launched a company-wide initiative that combine the expertise and resources from its NTT DATA Group
+companies to create a modern identity solution to unify its multiple global companies. After its initial success deploying Okta's workforce
+identity products to provide secure, single sign-on, NTT DATA expanded its deployment with Universal Directory, Lifecycle Management
+and Workflows. The company will have centralized tools that power identity decisions across its complex ecosystem. This will automate
+processes as employees join, leave or move across the company, reducing time and cost associated with manual processes.
+Security and privacy is of utmost importance to all our customers, but especially for those in the finance and banking industry, trust is the
+foundation of their relationships with their customers. So it's absolutely critical that their customers feel secure while accessing sensitive
+financial information. Our expertise and reputation within the finance vertical is earning us more and more customers, especially with
+Okta customer identity solutions. These customers range from regional banks to some of the largest financial institutions in the world.
+There are 3 primary factors driving our success with customers. #1 is the rapid growth of cloud and hybrid IT. Identity has become
+increasingly complex as organizations move to the cloud. And over the past 11 years, we've built the broadest cloud-based identity
+platform that is scalable, caters to hybrid deployments, is easily deployed and is highly customizable.
+Two is digital transformation. Customers recognize that the cloud has changed everything and is forcing every company to become a
+technology company. Organizations are now looking to Okta to help them navigate this new environment and implement an identity
+solution that will meet their complex hybrid environment needs and improve their digital customer interactions.
+MARCH 05, 2020 / 10:00PM GMT, Q4 2020 Okta Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2020 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+4
+And three, is security. More than 70% of hacking-related breaches are caused by stolen credentials. With the adoption of Zero Trust
+environment, the traditional security perimeter has dissolved, and identity is now at the heart of the new security stack. Identity plays a
+critical role in each of these megatrends, and organizations are turning to Okta because we are uniquely able to address the broadest set
+of use cases. We are independent and neutral and have built the most extensive catalog of integrations. This is essential for
+organizations deploying best-of-breed applications, which is common in today's mid- to large-sized organizations.
+Through our industry leadership and innovation, we've earned our customers' trust, and in many cases, we've become a trusted adviser.
+The added benefit is that as our customer base grows, we are able to generate more and more data insights that can be harnessed to
+enhance our existing products such as Okta SecurityInsights, which we released last October, and offer even better products. In turn,
+these products enable our customers to be more successful and generate a network effect flywheel, which helps position us for continued
+market leadership.
+Turning to our customer conference. Because nothing is more important to us than the health and safety of the Okta community, we will
+be hosting Oktane20 as a virtual conference this year, Oktane Live, offering both our keynotes and dozens of breakout sessions online. As
+we followed the coronavirus news, it became clear that the best way to safely engage with our whole community is through a digital
+conference experience. Investor Day, which we're hosting in conjunction with Oktane, will be virtual as well. Replacing the in-person
+events with dynamic video content will enable us to bring our customers, partners, investors and employees together in a healthy and
+productive way. We look forward to sharing our vision, product innovations and latest customer journeys with you over the stream the
+week of March 30.
+As you may remember, last year at Oktane, we launched new products like Okta Access Gateway and Advanced Server Access. Access
+Gateway delivers a single point of management for administrators and one place to go for end users to access both their cloud and
+legacy on-premise apps. Advanced Server Access provides continuous authentication and centralized access controls for servers. We've
+been happy with the early adoption of both products.
+In my keynote address this year, I will touch on how Okta's products are designed to meet a growing number of use cases and how
+identity has become its own platform. I'll cover how our workforce identity products enable employees, contractors and partners to
+securely access the right technology they need to do their jobs and how our customer identity products enable our customers to build
+secure digital experiences for their customers.
+I'll be talking more about additions to the Okta Identity Cloud that will enable us to deliver even more innovation and provide our
+customers with more freedom to build customized access experiences. Our modern architecture is built on a single stack of technology
+that provides our customers with easy deployment and is highly configurable. Oktane Live will be an amazing event that you won't want
+to miss.
+In closing, I'm very proud of what we accomplished in fiscal '20. Here are the highlights. Revenue increased 47%. Our non-GAAP
+operating margin improved by 210 basis points. And we were free cash flow positive for the year. We expanded our portfolio with several
+new products and services that provide even greater value to our customers and increased the number of use cases. We were recognized
+by market research firms as having the clear leadership position in identity and access management.
+We were certified as a Great Place to Work and strengthened our team by adding nearly 700 incredibly talented people around the
+world. We further expanded our presence with new domestic and international offices and new infrastructure in APAC. We established
+Okta Ventures to help fuel the next-generation of modern identity solution. And our Okta For Good program continued to expand its
+reach with the launch of its first product innovation program focused on social impact with Apps for Good.
+We couldn't have done this without the dedication of our customers, the great ecosystem of global partnerships and the tireless work of
+our employees. For that, I am exceptionally grateful. But now it's on to even greater things in fiscal '21 and beyond as we are just
+beginning to tap into the massive market opportunity as we enable any organization to use any technology.
+Thanks again for your time, and I'd now like to turn the call over to Bill to walk through more details of our financial results. Bill?
+MARCH 05, 2020 / 10:00PM GMT, Q4 2020 Okta Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2020 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+5
+William E. Losch Okta, Inc. - CFO
+Thanks, Todd, and thanks again to everyone for joining us. As a reminder, we have posted an earnings presentation that is available on
+our IR website and contains our detailed financial results. I think you'll find it to be a useful summary. And as such, I will only cover a few
+of the notable highlights in my commentary this afternoon, leaving more time for Q&A.
+As Todd mentioned, we maintained the strong momentum that we built throughout the year. Our better-than-expected top line growth
+has resulted in strong operating leverage as demonstrated by better-than-expected operating loss, operating margin, loss per share and
+cash flow.
+Turning to our Q4 results. Total revenue increased 45%, driven by a 46% increase in subscription revenue. Subscription revenue
+represented 95% of our total revenue.
+RPO, or backlog, which for us is contracted subscription revenue, both billed and unbilled that has not yet been recognized, grew 66% to
+just over $1.2 billion. The robust growth in total RPO reflects the continued success we've been seeing with large enterprise customers
+that Todd mentioned. These contracts tend to be larger in value and longer in length. For example, the number of transactions with a
+total contract value of $1 million or more grew over 80% compared to Q4 last year. And the weighted average term length of those
+transactions is nearly 4 years, which is 50% longer than our overall average term length.
+As we continue to see success with winning the world's largest organizations and broader adoption across our growing product portfolio,
+we expect the average contract size and term length to continue to trend upwards over time. Current RPO, which represents subscription
+revenue we expect to recognize over the next 12 months, also experienced strong growth of 54%, an acceleration from the 52% growth in
+Q3. Year-over-year growth in current RPO is the more meaningful metric when viewed along with subscription revenue and billings
+growth.
+Total calculated billings grew 42%, and current calculated billings growth accelerated to 46%. The strength in billings continues to be
+driven by new and existing customers for both workforce and customer identity across all our geographies.
+Turning to retention. Our dollar-based net retention rate for the trailing 12-month period was 119%, a 2 point increase from Q3. The
+increase was driven by strong customer upsell, particularly with our enterprise customers as we grow our business with and within the
+world's largest organizations. As we've mentioned in previous quarters, the net retention rate may fluctuate from quarter-to-quarter.
+Before turning to expense items and profitability, I would like to point out that I will be discussing non-GAAP results going forward.
+Now looking at operating expenses. Total operating expenses grew 45%. Consistent with prior quarters, the increase is primarily driven
+by investments we are making to capture more of our large addressable market. The biggest component of the spend increase is related
+to scaling headcount to support our strategic initiatives. We are adding headcount across the board, but primarily in our customer-facing
+and innovation teams. We've been successful in attracting and retaining great talent, and total headcount grew 44% to over 2,200.
+We generated record cash flow from operations and free cash flow, which yielded an 11% free cash flow margin. We ended the fourth
+quarter with $1.4 billion in cash, cash equivalents and short-term investments. I know many of you look at the sum of revenue growth and
+free cash flow margin as a key metric when evaluating companies. We have significantly outperformed the Rule of 40 for the past 2
+years. This exemplifies the leverage that is inherent in our financial model as we maintain industry-leading revenue growth while
+showing steady free cash flow margin expansion.
+Moving on to our business outlook. We remain optimistic about the demand for our products. While we continue to closely monitor the
+business environment, to date, we have not experienced any impact to our demand related to the coronavirus, and this is reflected in our
+guidance.
+For the first quarter of fiscal 2021, we expect total revenue of $171 million to $173 million, representing a growth rate of 37% to 38%
+MARCH 05, 2020 / 10:00PM GMT, Q4 2020 Okta Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2020 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+6
+year-over-year; non-GAAP operating loss of $33.2 million to $32.2 million; and non-GAAP net loss per share of $0.24 to $0.23, assuming
+weighted shares outstanding of approximately $123 million.
+We are increasing our full year 2021 revenue outlook from the preliminary view that we provided last quarter. For the full fiscal year 2021,
+we now expect total revenue of $770 million to $780 million, representing a growth rate of 31% to 33% year-over-year. Also, we expect
+non-GAAP operating loss of $65 million to $57 million and non-GAAP net loss per share of $0.42 to $0.37, assuming weighted shares
+outstanding of approximately 125 million.
+Consistent with our approach throughout last year, our bias is to reinvest revenue upside in investments to continue the innovation of our
+platform, fuel growth and further enhance our competitive positioning. That being said, we are taking a disciplined approach, and we'll
+only invest in opportunities that we believe will yield a meaningful return. We've demonstrated that we were able to grow responsibly by
+balancing continued top line momentum with margin expansion and expect to be free cash flow positive again for fiscal '21 with some
+quarterly fluctuations due to working capital and seasonal factors.
+We're also planning on capital expenditures of approximately $35 million in fiscal '21 related to new and expanded facilities needed to
+accommodate our growing workforce. I would also like to remind everyone for your models that Q1 operating margin has some
+seasonality related to expenses for Oktane, our annual sales kickoff and the reset of payroll taxes.
+In summary, this has been a tremendous year of growth across our entire business. Our industry-leading cloud based platform is
+addressing more and more of our customers' complex use cases as we continue to introduce new products and functionality, and we
+achieved particular success with large enterprise customers, both a testament to the investments we've been making. While the progress
+we made so far has been great, we believe this is just the beginning and plan to further capitalize on the tremendous market opportunity
+in front of us.
+And finally, as Todd mentioned, we are going forward with our Investor Day in a virtual format. We'll provide more details in the coming
+weeks. But note that we've moved Investor Day to April 1. It will be a great event, where you'll hear more on Okta's vision and strategy,
+and you'll have opportunities to ask questions.
+With that, Todd, Frederic and I will take your questions now. Operator?
+QUESTIONS AND ANSWERS
+Operator
+(Operator Instructions) And we'll take our first question from Walter Prichard from Citi.
+Walter H Pritchard Citigroup Inc, Research Division - MD and U.S. Software Analyst
+A question for Frederic, and then one for Todd. So on the sales side, I mean, we saw -- I think coming out of your sales kickoff, you're
+really looking to hire a lot of enterprise-type reps. Can you help us understand, as you move into fiscal '21 here, sort of how the
+complexion of the sales capacity additions you're looking to do in 2021 differs from where things were in '20 and before?
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+Yes. I think it's -- a lot of it is consistent. I would say there's a little bit more of a weight on enterprise. But a lot of it is consistent. And the
+one thing we've done really well last year and continuing this year is getting ahead of our sales hiring, which has been -- a good
+testament to our success there has been the results. And with our success, we also see hiring sales folks get -- getting high-quality sales
+folks on the team. It's really important, and we're being very successful with that. So I think it portends positively for the future.
+MARCH 05, 2020 / 10:00PM GMT, Q4 2020 Okta Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2020 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+7
+Walter H Pritchard Citigroup Inc, Research Division - MD and U.S. Software Analyst
+Got it. And then just another -- just a product question. So on the Access Gateway and just generally the maturity of some of these
+products that go after the pools of money that had previously been available mostly to on-prem-type products, with another quarter of
+maturity of the products and out in the field selling, what can you tell us about how you're thinking about that opportunity and when we
+may see more of an inflection with attach of those products?
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+Yes. You mentioned a couple of products. We had a really strong year last year in terms of introducing innovation, with everything from
+DynamicScale to the couple you mentioned like Access Gateway or Advanced Server Access. And all the products are doing really well. I
+would say, specifically, Advanced Server Access is -- it's an interesting product for us because it's really an entirely new use case for Okta.
+It's Okta for admins and developers logging into servers.
+And as you know, that every organization is building more apps, websites, mobile apps, and that means they have developers. In a lot of
+cases, those environments aren't -- they represent a big security risk. And we can help them at that. So that product is doing really well.
+And it's a whole new flank for us, which is very exciting.
+Access Gateway is a little different. It's really -- you think of it as extending Okta into the on-premise world in a more simple-to-use and
+comprehensive way. And that helps every customer, but it helps particularly in a large enterprise, where they all know they want to do
+cloud but they also have more legacy than other segments. And the Access Gateway is really doing a good job unlocking a lot of
+opportunities there. So we're very excited about all the product additions, particularly the Advanced Server Access and the Access
+Gateway.
+Operator
+And we'll take our next question from Melissa Franchi with Morgan Stanley.
+Melissa A. Franchi Morgan Stanley, Research Division - VP and Research Analyst
+I wanted to just put a finer point on the commentary, Bill, that you said on the macro environment. It's helpful to hear that you're not
+seeing any impact in customer buying behavior. But as we're thinking about your guidance for this year, are you just anticipating it's
+going to be a relatively stable spending environment, similar to what you saw in '19? Or are you embedding any additional conservatism?
+William E. Losch Okta, Inc. - CFO
+Yes, Melissa. So as we said -- as I said, we're -- right now, we're not seeing any impact in our product demand from what's happening
+with, frankly, the tragedy that is the coronavirus. And that's really what we've now reflected in our guidance. We're obviously going to
+monitor that very closely.
+We've been very pleased with the product demand. We've been really pleased with the momentum of the business, which is why we
+raised the guidance for the full year by $20 million at the high end, 3% growth. And I think that's how we're looking at it right now.
+Obviously, we're going to, as I said, continue to monitor it very closely. But right now, we're seeing very, very strong demand for our
+products.
+Melissa A. Franchi Morgan Stanley, Research Division - VP and Research Analyst
+Okay. That's helpful. And I have one follow-up question, product-related question for Todd. Todd, you mentioned DynamicScale. And I
+think there was a number of deals that you referenced in the prepared remarks that were -- had DynamicScale involved. So can you just
+talk about what you're seeing in terms of the early customer interest and then how it expands your relationship with customers and the
+external customer opportunity?
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+Yes. We're excited about DynamicScale and the customer identity business. So -- and they're both -- they go kind of hand in glove
+because customer identity is about reaching lots of concurrent customers using the service and many, many customers over the lifetime
+of the service. And DynamicScale is perfect for that because if you think about companies that are doing customer identity projects, they
+MARCH 05, 2020 / 10:00PM GMT, Q4 2020 Okta Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2020 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+8
+want -- it's usually like an online version of their existing products or it's a new product.
+And there's a lot of time-to-market pressures for them. And there's also a lot of, frankly, it's difficult to forecast the usage for them. And
+it's difficult for them to deal with regulatory issues in terms of is the environment certified for regulation.
+So by using something like Okta, the identity layer in those customer-facing initiatives, it really removes those burdens from companies,
+whether it's the regulatory or it's the time-to-market, lets them get out there faster. And then sometimes the unpredictability of the
+demand, something like DynamicScale takes it off the table. So they can buy the DynamicScale product and be -- and rest assured that
+up to 500,000 log-ins a minute, it's going to work.
+And it's something that customers are very, very excited about. And I mentioned the Autodesk in the prepared remarks. Another example
+is athenahealth. These are companies that are remaking their businesses as online services and having a partner like Okta and a
+capability like our customer identity solutions and DynamicScale is really helping them.
+Operator
+And we'll take our next question from Heather Bellini with Goldman Sachs.
+Heather Anne Bellini Goldman Sachs Group Inc., Research Division - MD & Analyst
+I had a question for Bill and then a question for Todd. Todd, I wanted to ask, we've -- people have been talking to Microsoft lately.
+They've been trying to talk about how Azure Active Directory has been increasing its number of API connections and that the product is
+getting more competitive. And then Ping was talking about the competitive landscape last night on the call -- on their call. I was just
+wondering if you could share with us anything you're seeing that might be different and I guess specifically also related to Microsoft there
+given some of the comments they've made recently.
+And then the question for Bill would be, Bill, we continue to see, obviously, really strong and accelerating current RPO growth, which
+obviously is a good deal, higher than billings growth. And I know those metrics bounce around from time to time. There've been periods
+where that's been reversed. But is that what you would expect to see, like kind of that type of delta that we're seeing right now to
+continue between those 2? If there's any comments you could share with us to help us on that, that would be great.
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+Yes. It's interesting. So we -- as we've said a couple of times, the demand environment and the market environment for our products is
+very, very robust. There's more deals. There's bigger deals. There's -- our product seems to be really well positioned in the right place at
+right time.
+And we haven't seen the competitive environment change. It's really been consistent over the last several years. I would say the last
+change was -- and it was more of a -- maybe a perceived change than an actual change, was 5 or 6 years ago when Microsoft first
+released their product. That was like -- it actually accelerated things. It was really put a fine point on the importance of identity. And over
+the intervening years, they've -- I think that they've talked about it a lot, but we haven't seen it in the market. We haven't seen traction in
+the market
+I haven't followed their numbers, so I can't comment specifically about what they're seeing. And what we've seen is that companies have
+a really, really complex and heterogeneous environment. And where we really, really excel is connecting customers to everything in their
+stack. I was talking to a customer this week, and they're moving 8,000 applications on to Okta. And a lot of these are internally
+developed. It's every kind of functional footprint. It's every vendor under the sun. This is a big company.
+And it's that kind of complexity that you have to have a focus on doing that for a decade plus like we have to build the platform and the
+capabilities to do that. And you have to start it in the cloud because you have to be able to have a centrally managed and maintained
+identity -- or sorry, integration network like we do. You have to be really committed to multiple clouds, multiple apps, multiple devices.
+And you have to kind of -- you can't be bound to a certain vendor or a certain stack and do that. And I think that that's really proving out
+in the marketplace.
+MARCH 05, 2020 / 10:00PM GMT, Q4 2020 Okta Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2020 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+9
+Jacques Frederic Kerrest Okta, Inc. - Co-Founder, Executive Vice Chairperson & COO
+Heather, this is Frederic. I would just add that the world from our perspective is really separated now into legacy and cloud. And we've
+always felt that the cloud is the future. So many of our competitors like Ping fall into that legacy bucket.
+And then I think when it comes to Microsoft, look, our win rates remain very, very strong. You see that demonstrated the numbers,
+dollar-based net retention, new customer counts. But also the independence and neutrality that Todd mentioned is a big factor, first of
+all. Folks do not want to be locked into any specific vendor.
+And you see that in our Businesses @ Work data that we published in January. If you look at the best of breed, I mean, of our customers --
+and we have many, many large deployments of Office 365, right, organizations like Hitachi that roll out hundreds of thousands of
+employees of Office 365 in 3 months using Okta. But over 75% of our Office 365 customers are using another collaboration,
+best-of-breed application. So Zoom or Slack or something like that.
+And what that really means is that the future is this hybrid, multicloud, lots of applications, heterogeneous environment. And you need to
+have the ability to connect deeply and broadly into all the technologies that people use and not be wedded to one specific application or
+one stack.
+Finally, I would say that back to the question around Okta Access Gateway we received earlier, Okta Access Gateway is doing very, very
+well. And I think having that as an embedded part of the Okta cloud identity suite, having that be the pre-integrated solution that we
+provide to allow our legacy -- large enterprise customers who have legacy infrastructure to connect that in a modern way to the cloud is
+very differentiated. And if you look at other organizations, Microsoft is an example, they have to do that in partnership. And customers
+are really looking for an end-to-end solution for these critical workforce and customer identity initiative, and we think that we're very well
+positioned to do that now and going forward.
+William E. Losch Okta, Inc. - CFO
+And Heather, to address your question about the correlation between billings and RPO, I think that the reason we introduced or started
+to really focus on current RPO last year is really because of the fact that, that correlation is difficult from the standpoint that current RPO
+really does smooth out what you can have as fairly significant variability in billings, which is really driven by invoice timing and invoice
+duration.
+And especially when you're doing business with larger and larger enterprise customers, which we are, that variability on billings on a
+quarter-to-quarter basis could be even more. So that's why we thought current RPO was actually a very good additional metric to take a
+look at. So it's hard to say that correlation -- what that correlation will be over time because of the variability on the billings.
+Operator
+And we'll take our next question from Sterling Auty with JPMorgan.
+Matthew Melotto Parron JP Morgan Chase & Co, Research Division - Analyst
+This is Matt on for Sterling. On the geographic split, international -- the international portion had a nice reacceleration this quarter. Just
+was wondering, were there any specific regions that you guys saw increased demand? And then going forward, where are you guys
+focused in terms of what's next?
+Jacques Frederic Kerrest Okta, Inc. - Co-Founder, Executive Vice Chairperson & COO
+Thanks, Matt, for the question. The growth that you're talking about, we're very excited about the growth in the overall business as well
+and then obviously internationally because that's a tough compare with North America. So that growth was driven by strength across all
+the regions. It's still early, but we're starting to see really good traction with notable international customers. I refer to the Global 2000
+power management company and European film and television studios that Todd talked about in his prepared remarks.
+I mean if you look at the last 2 years, we've opened and expanded 5 international offices now: Stockholm, Munich, Amsterdam, Paris,
+Toronto. And we're going to continue to expand that footprint. We think there is a very large opportunity internationally. It's something
+MARCH 05, 2020 / 10:00PM GMT, Q4 2020 Okta Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2020 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+10
+we're focused on, both directly and indirectly with our partner channel. We're very excited about that, and I think you're going to continue
+to see that growth in the months and the quarters and the years ahead.
+Operator
+We'll take our next question from Rob Owens with Piper Sandler.
+Robbie David Owens Piper Sandler & Co., Research Division - MD and Senior Research Analyst
+A couple of things. Number one, on the net retention rate. And while I know Bill said it's going to bounce around a little bit, it did
+reaccelerate in the fourth quarter where actually your customer acquisition was really strong, too. So was this just kind of a function of a
+Q4 where you saw flush? Or was there more focus on both existing customers and saw some strong momentum on the customer
+acquisition side? Because I believe that reaccelerated after a couple of quarters of being somewhat flattish year-over-year.
+William E. Losch Okta, Inc. - CFO
+Yes. Rob, what really is driving that is, you're right, we are now seeing both the dynamics of acquiring more customers, more of those
+large enterprise customers, which do have larger initial deal sizes. But what we also saw in Q4 -- resulting in Q4 is that expansion within
+those customers is also strong. So what's exciting for us about that is not only do we think as we move more and more into the large
+enterprise, we have the opportunity for large initial deal sizes, but we also have a lot more opportunity for expansion into those
+customers over time. And that's really what drove the increase in the net retention rate over the quarter.
+Operator
+We'll take our next question from Andrew Nowinski with D.A. Davidson.
+Andrew James Nowinski D.A. Davidson & Co., Research Division - MD & Senior Research Analyst
+Congrats on a great quarter again. Maybe just one question for Todd and then one for Bill. So customers that spent more than $100,000
+this quarter, again, increased 41%, which is tremendous. And I think you said half were new. Are those new customers starting with more
+of your products on the initial deployment? Are you just getting into larger enterprises with more employees?
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+It's both. Yes, we have more -- with the new products and the innovation, we have more ways for customers to get started with us,
+whether it's customer identity, workforce identity or it was Advanced Server Access. And I think also, as you mentioned, the bigger
+companies have bigger employee bases. And even a single product buy can be bigger like-for-like with a smaller company. So I think you
+see both dynamics driving there.
+Like really what's -- I think another thing that's really important to us throughout the whole company is we're really, really focused on
+making them successful. So it's one thing to get a company, but even companies that have fairly large initial deals with us, our product
+portfolio is getting to a point where they can substantially expand. So that's why our long-term orientation around really be obsessive
+about making the customer successful and turning them into fans is starting to pay off. And we've been doing that for -- since we started.
+And I think you're starting to see that really help us, whether it's net retention, whether it's the number of the deals over $100,000. It's --
+things are really rolling.
+Jacques Frederic Kerrest Okta, Inc. - Co-Founder, Executive Vice Chairperson & COO
+And I would just add to that, Andy, that if you look, we put out actually a press release when we do earnings also around successful
+deployments because, as Todd said, it's one thing to acquire new customers, but it's much more important when you get them live and
+successful. And today, we put one out around Zurich North America. Obviously, a very large insurance company, one of the biggest in the
+world.
+They standardized on Okta across 9,000 employees. But they also migrated the authentication for 40 -- over 45 customer and partner
+apps from on-premise solutions like CA SiteMinder to the Okta Identity Cloud in less than 2 months. And the fact that you can get these
+MARCH 05, 2020 / 10:00PM GMT, Q4 2020 Okta Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2020 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+11
+very large organizations with very complex environments up and running and successful in short time, they see the success in these
+projects, and that also obviously drives opportunities for both cross-sell and upsell down the road as we build significant partnerships
+with these large organizations.
+Andrew James Nowinski D.A. Davidson & Co., Research Division - MD & Senior Research Analyst
+That's great. And then just a clarification, maybe for Bill. It looks like your revenue guidance for Q1 is almost 2 points higher than normal
+seasonality. I think normally, it's right around 22% of the total for the year. Is there anything changing in the buying patterns? Or is that
+just a reflection of perhaps some conservatism in your annual outlook for Q3 and Q4?
+William E. Losch Okta, Inc. - CFO
+No, I think what you're seeing, Andy, is a couple of things. One is, obviously, we had a lot of momentum coming out of Q4, which we
+talked about as far as the significant increase in our current RPO that accelerated from 52% in Q3 to 54%, the fact that we had an
+acceleration in billings. So you're seeing a lot of that come as revenue, obviously, in Q1. I think the other thing, which is more of a
+modeling point, but it's valid, is the fact that now that we're in a leap year, we actually get 1 more day of revenue recognition in Q1. So
+that also has an impact.
+Operator
+We'll take our next question from Gregg Moskowitz with Mizuho.
+Gregg Steven Moskowitz Mizuho Securities USA LLC, Research Division - MD of Americas Research
+Congrats on a really nice quarter, guys. Just one question for Bill. So Bill, you accelerated your rate of hiring this year as you had
+intended. But how are you thinking about fiscal '21 headcount at this time just vis-à-vis or current expectations to grow revenue low 30s
+this year?
+William E. Losch Okta, Inc. - CFO
+Yes. So like you said, we had an acceleration of headcount as we went into the second half of the year, 44% in the second half of the year
+growth compared to 40% in the first year -- or first half of the year. So very strong headcount growth, which is really, I think, a very
+phenomenal testament to the success we've had, both attracting and retaining talent. We're going to continue to focus on hiring.
+Our expectation is to hire more in fiscal year '21 this year than we did last year. The rate of growth will come down a bit because the base
+is higher. But we're still focused on hiring and growing that headcount because that is the key part of our investing in specifically
+go-to-market, also innovation to capitalize on this huge market opportunity we see in front of us.
+Operator
+We'll take our next question from Jonathan Ho with William Blair.
+Jonathan Frank Ho William Blair & Company L.L.C., Research Division - Technology Analyst
+Let me echo my congratulations as well. Todd, I just wanted to start out with just one question. You talked about Okta customers now
+making the company their identity standard, and you've referenced this in some of your other calls as well. What does that mean to you?
+And in terms of maybe the multiproduct adoption as well as the use of Okta for their own suppliers, I just want to get a sense for how you
+think about Okta as an identity standard.
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+Really, it means -- so what's really different in this generation of technology is that we've moved from a world where every platform had
+identity in it, whether it was Oracle Labs or Microsoft Network or IBM, they all had identity in there. And we moved the world now
+because of the complexity, because of the heterogeneous environments, because of the best of breed, the pressure to do more, the
+pressure to have security, where identity is its own platform.
+And so when I say the company has moved to Okta as a standard, it's really they've adopted that mindset that they need a single identity
+platform that they have to have everything connected to that. It's the only way that they're going to scale and transition things from
+on-prem into the cloud. It's the only way they're going to build customer and website to mobile apps quickly. It's the only way they're
+MARCH 05, 2020 / 10:00PM GMT, Q4 2020 Okta Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2020 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+12
+going to really be able to keep it secure in a world where people want to work for more places, they want more flexibility, but at the same
+time, they want it to be easy. That's what I mean by it.
+It also has -- what you start to see happening as more companies standardize on us, it has very positive follow-on effects like what you're
+talking about, where the fact that a company uses us, the partners logging in, they connect together to various people in their ecosystem.
+There's an advantage of having Okta. It helps us work with the industry to standardize the way some of these integrations work and have
+been built on our platform in a way that's really beneficial to all of our customers. So yes, it's important. I think it's an important part of us
+executing on our long-term strategy, and we're excited about the progress.
+Jacques Frederic Kerrest Okta, Inc. - Co-Founder, Executive Vice Chairperson & COO
+And I would just add, Jonathan, to that, that what you see in that is there's a lot of things. First of all, the dollar-based net retention
+numbers clearly point to customers becoming successful in adopting more and more. It's also why we're so focused on getting customers
+up and running and successful quickly, because that allows them to show internally this is a new way, this is very important, this is
+something that we can standardize our company on.
+You end up seeing organizations like ENGIE, the giant energy company, that ends up using us now. We started with one specific division
+in one specific country. Now we are the global identity standard at ENGIE across both their workforce and their customer and identity
+access management properties, which becomes a huge opportunity, obviously, for us but also for them, because it's one company, one
+platform, one set of products they become comfortable with and allows us to build very powerful partnerships for the years ahead.
+Operator
+We'll take our next question from Richard Davis with Canaccord.
+Richard Hugh Davis Canaccord Genuity Corp., Research Division - MD & Analyst
+Just a quick question. Last summer, I think you guys announced it was HR provisioning, and as I recall, your first partnership was with
+Workday. How has that gone? And have you added additional HR firms to your roster for this product?
+Jacques Frederic Kerrest Okta, Inc. - Co-Founder, Executive Vice Chairperson & COO
+Thanks, Richard. Obviously, the opportunity to use a lot of these modern HR systems to start driving deep end-to-end advanced
+workflows for our customers is something that's a huge opportunity for us. And it's very early days, as you said. Certainly, it's gone very
+well with Workday as it has with the other providers out there, Ultimate Software and the others. And you see very good examples of
+exactly how this plays out with our customers.
+You heard in the prepared remarks today that Todd made around NTT DATA and how they were a workforce customer that kind of
+upsold themselves this quarter. Well, that was exactly what they did. They started with single sign-on and authentication and
+authorization became very successful. This quarter, they added Universal Directory, Lifecycle Management and Workflows to solve that
+HR end-to-end joiner/mover/leaver problem, where companies have to manage the onboarding, the transitioning of employees and
+then ultimately when they leave.
+This is something you're going to see more and more of. We talked in past quarters, large Fortune 500 or Fortune 100 organizations like
+WarnerMedia did the exact same thing, started with single sign-on, multifactor authentication and then decided to implement
+HRIS-based provisioning using Okta and getting to that joiner/mover/leaver problem.
+I think you're going to see more and more of this, especially as companies realize that they can move to a lot of these modern cloud
+applications, use these heterogeneous environments and take advantage of all the advanced workflows we already have in the system
+and we keep releasing to help these customers be successful with these new opportunities ahead.
+Operator
+We'll take our next question from Taz Koujalgi with Guggenheim Partners.
+MARCH 05, 2020 / 10:00PM GMT, Q4 2020 Okta Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2020 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+13
+Imtiaz Ahmed Koujalgi Guggenheim Securities, LLC, Research Division - Director of Technology, Media & Telecom and Analyst
+. Two questions. One is if you look at the new customer revenues this year, it looks like you had a big uptick in new customer deal sizes
+adopted because you were landing bigger customers initially. But the new customer growth was a bit lighter than last year. So as we look
+forward to next fiscal year, how do you expect those 2 growth drivers support you? Do you think the initial customer deal sizes keep going
+up? Or does that flat line and then we'll see a bigger uptick of customer adds?
+William E. Losch Okta, Inc. - CFO
+Yes. So the way we look at it is that the trends that you saw this year, which is that we were still doing significant customer adds. We set a
+record this year -- or this quarter, of customer adds and -- of 550 total customers and then also 142 customers paying us more than
+$100,000. So still very healthy adds. But what we're also seeing more than that is bigger and bigger initial deal sizes, which is reflected
+in the RPO.
+And I think what you're going to see is that continue as we move -- continue to move to our -- what we've been doing successfully, which
+is landing larger and larger enterprise customers with larger initial deal sizes. And as we said this quarter, as I said to Rob's question
+earlier, this quarter, we saw not only that but that we had really big expansion into those large customers. And that's really what our
+focus is going to be going forward.
+Imtiaz Ahmed Koujalgi Guggenheim Securities, LLC, Research Division - Director of Technology, Media & Telecom and Analyst
+And then second, Bill, your margin guide for fiscal '21 implies basically flat operating margins, I think, negative 8%, which is same as
+what you had this year. And then you have a long-term fiscal '24 margin guide of 16% to 18%, which looks even steeper now given your
+guide for fiscal '21. Any commentary or color on if you're still on track to meet those fiscal '24 margin targets?
+William E. Losch Okta, Inc. - CFO
+Yes. When we set the longer-term model back in October of 2018, the model always assumed that our move to profitability would be
+more back-end loaded. And the reason for that is we do focus on growth and profitability but we're optimizing for growth. And we've
+seen huge opportunity for us both because these secular tailwinds that we talk about of companies moving to the cloud, moving to
+digitally transform themselves, wanting to be secure and do it in a scalable way are really continuing to push us forward and give us a lot
+of momentum. And identity, as Todd has talked about, is becoming more and more of the standard for that, and that's why we're more
+foundational.
+So we're focused on that. I think when we look at the business, we really focus on striking that right balance between optimizing revenue
+growth and expanding our free cash flow margin, which is -- as we said, we have consistently, over the last couple of years, exceeded that
+Rule of 40 target. And that's a big focus for us.
+So we're going to continue to make decisions based on assessing that, making investment decisions that really will, we believe, ramp our
+go-to-market and innovation because we see those big opportunities. But we're always disciplined about those investments and making
+sure we have a meaningful return on those. And that's the way we're going to continue to operate.
+Operator
+And we'll take our next question from Shaul Eyal with Oppenheimer.
+Shaul Eyal Oppenheimer & Co. Inc., Research Division - MD & Senior Analyst
+Congrats on the quarter and the outlook. I had one question. So clearly, a very nice traction with respect to the journey into the
+enterprise. Can you talk to us, maybe do a compare, contrast as we think about a typical sales cycle into the enterprise versus, let's say,
+the SMB, so to speak?
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+I want to make sure I understood your question. You said sales cycle, right?
+MARCH 05, 2020 / 10:00PM GMT, Q4 2020 Okta Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2020 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+14
+Shaul Eyal Oppenheimer & Co. Inc., Research Division - MD & Senior Analyst
+Yes, that is correct. As it relates to new customers.
+Jacques Frederic Kerrest Okta, Inc. - Co-Founder, Executive Vice Chairperson & COO
+Yes, absolutely happy to talk about that. I think one thing -- Shaul, thank you for the question. One thing that I think we really benefit
+from is with these large organizations, we don't go in there with a forklift upgrade approach. So when we go in there, we help customers,
+large organizations, small organizations understand very quickly what their opportunities are and help them find specific ways in which
+they can get up and running and successful in a short order on the Okta Identity Cloud and with our products. It gives them an
+opportunity to get to know us as a company, our products, our platform. And then they start digging in.
+You see it in the numbers, obviously, the dollar-based net retention. But it's also very -- it's a much better message to deliver when we go
+meet with a Fortune 500 CIO, Chief Security Officer, CTO. And we say, "Look, we understand this is new for you. We're going to help you
+solve one specific problem that you have. We're going to show you value and come back in 90 or 180 days and talk to you about the other
+opportunities." It allows them to engage with us and the company very quickly, easily and on high-profile projects. And when they get
+that early success, they always come back and say, "That was a great experience. What else can I do? Tell me all about your product, your
+platform, your road map." And so we don't go in and say, "Hey, we're going to forklift upgrade your legacy Oracle or SiteMinder or Ping
+installation, and we're going to show you value in '18 months." We say, "Hey, we're going to help you with specific problems you have
+right now, and then over time, we'll show you the road map to retire those legacy products."
+So from that perspective, certainly, it's a little bit longer of a sales cycle for a Fortune 500, just in terms of their process and procurement,
+financial, legal. But in terms of the actual sales cycle itself on the front end, it's pretty similar, whether you're a small organization or a
+large organization looking to start with a smaller deployment. Big opportunities for us, easy ways to show customer success and then
+obviously, build those partnerships and strong customer relationships over time.
+Operator
+We'll hear next from Keith Bachman with Bank of Montreal.
+Keith Frances Bachman BMO Capital Markets Equity Research - MD & Senior Research Analyst
+I wanted to dig in a little bit more on the customer side of the business, and a few questions underneath that. Any metrics you can give
+us, including growth rates? That's number one.
+And as we think about the growth opportunities, one of the things is penetration rates. And for instance, can you at least comment on
+what percent of your core business, which is the employee base, have you penetrated with the customer side of the business? And is that
+one of the ways that you're keeping and actually growing that net retention rate?
+And then the final one is competition. Are you seeing any different dynamics in the competitive landscape associated with the customer
+side of the business as opposed to the employee side of the business?
+William E. Losch Okta, Inc. - CFO
+Yes. So as far as the penetration on the workforce side, the business, as we've talked about, we have 2 really big markets that we're
+addressing. It's the workforce and customer identity. The workforce is still the significant majority of the business. The coverage that we
+have within a customer really can be dependent on the size of the customer, the complexity of the customer. So as far as the number of
+users we have, in most cases, we have multiple products when we sell into an initial customer and then have those opportunities to sell
+advanced versions of products or more products to them.
+So the workforce, like I said, is still the larger part of the business. Customer identity has been growing and actually growing faster than
+the overall workforce. So it's become a bigger piece, but workforce is still the significant part of the business.
+MARCH 05, 2020 / 10:00PM GMT, Q4 2020 Okta Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2020 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+15
+Jacques Frederic Kerrest Okta, Inc. - Co-Founder, Executive Vice Chairperson & COO
+And then, Keith, I would just add. This is Frederic. I would just add on the back of that. There is still a lot of room to run inside these
+organizations that we currently have as customers with the existing set of products in addition to all the new things that we're releasing.
+That's the first thing.
+Second thing, if you just look at the number of organizations that we could potentially penetrate, I mean, it's hundreds of thousands of
+them, right? So we're very happy and fortunate with our almost 8,000 enterprise customers, adding 550 a quarter. Those are great
+results. But we've got a huge opportunity in terms of net new accounts that we can work with and how far we can get penetrated inside
+those accounts.
+Secondly, to your question around competition, it's really different when it comes to customer identity and access management. It's really
+a build versus buy conversation. Historically, enterprises have set up basic databases, these LDAPs in their networks and reset user
+names and passwords, and that's pretty straightforward. But what you're starting to see really is, first of all, speed. People need to get up
+and running quickly and successfully. And setting up all these servers and making sure they all work, it takes a lot of time and it's
+heavy-duty lifting.
+Number two, there's a huge enhancement around security here. One of the things that happened over the quarter is we added a number
+of large regional financial banks who are both workforce and customer identity and access management wins. And when you dig into
+that, you realize that it's complicated. And when they want to provide secure, reliable interfaces on the web and on mobile to customers
+to look at their financial data, you want to make sure you get it right. You want to make sure you have multifactor authentication
+embedded if you need to. You can make it as seamless or as complex as the customer demands depending on the type of business. And
+those are things that they have to do because it's in the revenue stream. So you've got to get it out the door or your competitor is going to
+do it. And that's a huge driver for the business.
+That being said, as Bill highlighted, workforce identity management is still the majority of our business. Customer identity management
+is going very, very fast. So there's a huge opportunity in the times ahead.
+Operator
+And we'll take our next question from Alex Henderson with Needham.
+Alexander Henderson Needham & Company, LLC, Research Division - Senior Analyst
+Sneaking in under the wire. I wanted to ask a question about the implication of the cancellation of the live attendance at Oktane, what
+that might do to your pipeline of leads coming out of Oktane, how you're thinking about the difference between your normal 8,000-plus
+people showing up and doing it online.
+And then second, if you could go into the thoughts around what are you doing relative to potentially grounding salespeople or whether
+any of your customers are resisting sales visits and how that might impact your business and your thoughts going forward. Obviously,
+those are top-of-mind issues.
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+Yes, for sure. We talked about -- you mentioned the change in format for Oktane. So it's -- that should make it clear that we're really on
+top of the unfortunate coronavirus situation. And we're really making sure that we're doing everything we need to do to ensure the safety
+and health of customers, employees. And it's a dynamic situation. So we'll stay vigilant in making sure we keep watching it and make the
+right decisions.
+I think we're fortunate in that we had Oktane scheduled at a time where we have several weeks to switch it to an online format. And we
+were -- it is something we've done for several years in person. And so we thought about what potential impact could we have from
+switching it. But it was a pretty easy decision given the decreased risk of health and safety by doing that.
+MARCH 05, 2020 / 10:00PM GMT, Q4 2020 Okta Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2020 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+16
+But now that we're ramping up on the online version of it, we're really excited about it. We think that the breakout sessions are going to
+be amazing. The keynotes are going to be great. And we're actually seeing tons of additional registrations for the online experience. So
+it's going to be amazing. We're going to get the message out there, and we've got tons of exciting stuff to announce, and it's going to be
+great.
+On the overall other things we're doing, we haven't seen any effects. And the robust -- we have -- the demand for our products is robust.
+And other than that, it's -- in terms of like what -- visits and customer meetings, those are going on as normal. So that's the answer to
+that question. But overall, we're going to optimize the health and safety of -- and take prudent steps where it makes sense and keep an
+eye on things and keep leaning into this big, long-term opportunity.
+Alexander Henderson Needham & Company, LLC, Research Division - Senior Analyst
+And how much of the -- I think you've talked about as much as $6 million of expenditures that normally go out in the -- for Oktane in the
+marketing side of it. How much of that can you recoup? How do we think about the impact of not doing it on the cost side of the equation,
+please?
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+It's going to be a really high-definition stream.
+William E. Losch Okta, Inc. - CFO
+Yes. The -- we've taken a look at that, obviously, and there are kind of puts and takes as far as what the costs are. And we have baked
+that into the guidance that we gave you for Q1. So that is in those numbers.
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+I would just say we -- again, we benefited from the 5 weeks we had to make changes. So I think, yes, as Bill mentioned, it's on the puts
+and takes, but it's good that we had 5 weeks to adjust.
+Operator
+And we'll take our last question from Pat Walravens with JMP Securities.
+Patrick D. Walravens JMP Securities LLC, Research Division - MD, Director of Technology Research and Senior Research Analyst
+By the way, I applaud the decision to put your -- the health and safety of your community first. Thank you for that. But totally switching
+gears...
+Todd McKinnon Okta, Inc. - Co-Founder, Chairman & CEO
+That includes you as well.
+Patrick D. Walravens JMP Securities LLC, Research Division - MD, Director of Technology Research and Senior Research Analyst
+How do you guys think about Oktane Ventures and what it's supposed to achieve? And are you modeling it on something? Like Salesforce
+Ventures is a good example of a model that you might have used.
+Jacques Frederic Kerrest Okta, Inc. - Co-Founder, Executive Vice Chairperson & COO
+Yes. Thanks, Pat. So around Okta Ventures -- I mean Salesforce Ventures is obviously a little bit more mature at this point. What we're
+thinking really about is how we can keep a good eye on the upcoming technologies that are focused around identity, security, privacy.
+Obviously, we're doing a lot of things internally. We have an excellent organic product and engineering organization, and they're doing a
+lot of things.
+But we are looking at other companies that are out there who might be doing interesting things around identity, artificial intelligence,
+machine learning, blockchain. And it is an emphasis on early-stage investment. We've made 4, 5 investments to date. You've seen it,
+Trusted Key, a blockchain-based digital identity company, an IoT identity company called Ockam and a number of others. And it allows
+MARCH 05, 2020 / 10:00PM GMT, Q4 2020 Okta Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2020 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+17
+us to have a good pulse on what's happening in innovation, while at the same time, building strong relationships with companies that we
+think have very good futures in areas that are going to be very interesting to identity, security, privacy, the things that our customers
+really care about.
+Patrick D. Walravens JMP Securities LLC, Research Division - MD, Director of Technology Research and Senior Research Analyst
+Awesome. And then, Frederic, when you're talking about all the customers that you're getting up and running, it just occurred to me,
+when it takes longer than you would have thought to get a new customer up and running, what's usually the hang up? What's the
+biggest issue that you deal with?
+Jacques Frederic Kerrest Okta, Inc. - Co-Founder, Executive Vice Chairperson & COO
+It never happens, Pat. I'm just kidding. From time to time, we will -- it will take a little bit longer to get a customer up and running. It will
+be in large enterprise. And what will happen is you'll have a change agent who's brought in. I can think of a number of these cases in the
+second half or even in Q4. Change agent comes in and says, "Hey, we really need to accelerate our move to the cloud." But they have
+legacy infrastructure. They need to figure out exactly how they're going to -- enterprise IT doesn't throw anything away. What they do is
+they buy new things and they bloom on the front. So they can use Okta to do a lot of that. But just figuring out kind of how that's all laid
+out internally is one piece of it.
+And then secondly, there's some change management that goes along with it. If you're a large company that has 100,000 employees
+and folks are used to doing things a certain way -- we've talked on this phone call about Office 365, so e-mail or HR collaboration. And
+all of a sudden, you're going to shift it to a cloud-based enterprise service. That's going to take a little bit of change in the workforce. So
+you see that happen from time to time.
+And then finally, on the customer identity and access management side, they want to make sure they get it right. So we tend to do a lot
+of testing with them and just ensuring that it's all perfect before it goes up in front of their customers. And a lot of times, we're just
+working very closely with those customers to make them comfortable with what they're about to do. And then ultimately, they can make
+Okta identity standard for the enterprise, as Todd highlighted.
+So yes, we're very excited about it. It is a very good experience. We do have a lot of repeat enterprise customers. They go from enterprise
+to enterprise, and they call us right away and say there's a lot of opportunity. So it's something that is working well in the business.
+Operator
+And this concludes today's question-and-answer session. I'd like to turn the call back over to Mr. Gennarelli for any additional or closing
+remarks.
+Dave Gennarelli Okta, Inc. - IR Executive
+Thanks, operator. As we mentioned, we're hosting our Investor Day on April 1, and I'll be sending out more details with more specifics in
+the coming days. Thanks again for your time this afternoon.
+Operator
+Once again, that does conclude today's conference. Thank you for your participation. You may now disconnect your phone lines.
+DISCLAIMER
+Thomson Reuters reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+MARCH 05, 2020 / 10:00PM GMT, Q4 2020 Okta Inc Earnings Call
+THOMSON REUTERS | Contact Us
+©2020 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are
+registered trademarks of Thomson Reuters and its affiliated companies.
+18
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS THOMSON REUTERS'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY
+BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE
+COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE
+ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2020 Thomson Reuters. All Rights Reserved.

@@ -1,0 +1,301 @@
+true_label,original_sent,text_output
+0,"looking at our geographies, americas grew 8%, emea was up 6%, and apjc was up 12%."," OUTOFCLAIM
+
+This sentence is providing factual information about the performance of the company's geographic regions, without making any claim or projection for the future. It is simply stating what happened in the past, without any interpretation or opinion."
+0,"and we generated ebitda of $434 million, which included about $130 million of universal beijing pre-opening costs."," OUTOFCLAIM
+
+The sentence provides factual information about the company's EBITDA and includes a specific amount of pre-opening costs for Universal Beijing. It does not contain any forward-looking statements or claims, and therefore, it is classified as OUTOFCLAIM."
+0,"in our customer segments, enterprise was 15%, commercial grew 8%, public sector was up 8%, and service provider grew 2%."," OUTOFCLAIM
+
+This sentence is providing factual information about the performance of different customer segments, without making any claim or projection for the future. It is simply stating what happened in the past, without any interpretation or opinion."
+0,"and turning to video, revenue declined 2.1% with accrued rsn fee adjustments having an adverse impact of 130 basis points."," OUTOFCLAIM
+
+The sentence provides factual information about the company's video revenue, including the impact of accrued RSN fee adjustments. It does not contain any forward-looking statements or claims, and therefore does not meet the criteria for the INCLAIM class."
+1,our preliminary assessment for the combined gross direct impact on our revenue based on our existing backlog and sales funnel forecast is in the range of approximately $600 million to $900 million in calendar '23.," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim or forecast about future revenue, specifically stating a range of $600 million to $900 million in calendar year 2023. This is not just factual information about past or present events, but rather a prediction or estimate of future performance."
+0,"ebitda for the third quarter was down roughly 45% as flat revenue was offset by an increase in programming and production costs, primarily as a result of the postponement of european football events, which moved from the second quarter into the third as a result of covid-19."," INCLAIM
+
+The sentence is classified as INCLAIM because it contains a claim about the company's financial performance (EBIDTA) and the reason for the decline in EBIDTA (postponement of European football events due to COVID-19). The sentence provides an explanation for the decline in EBIDTA, which is not just factual information, but rather an interpretation of the event's impact on the company's financial performance."
+0,"arpu is increasing as this growing customer base continues to take more packs on average, underscored by a 60% increase in the uptake of our highest priced sports pack."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the company's performance, specifically the increase in ARPU, and the reason for that increase, which is the growing customer base taking more packs on average, including a 60% increase in the uptake of the highest priced sports pack. This information goes beyond factual past or present information and implies a positive trend and future growth."
+0,"so any way to think about how your numbers or guidance might change if 25% doesn't happen and 10% also, that's removed?"," OUTOFCLAIM
+
+This sentence is seeking information or clarification about the potential impact of a hypothetical scenario on the company's numbers or guidance. It does not contain any claim or statement of fact that is not supported by evidence, and therefore it is not an INCLAIM."
+1,these discrete costs are expected to be incurred disproportionately as approximately 75% will be incurred in the first half and 25% in the second half of fiscal 2019 as the company targets completing the majority of initiative projects by the end of august 2019.," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the company's future plans and expectations, specifically the expected timing and proportion of discrete costs incurred in fiscal 2019. The sentence goes beyond simply presenting factual information and provides insight into the company's strategic plans and goals, making it an INCLAIM."
+0,"core advertising excluding political was down 6.8% year-over-year, a significant improvement relative to last quarter with better trends across most categories."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the improvement in core advertising revenue, which is not just factual information. The use of the word ""significant"" and the comparison to last quarter imply a judgment or evaluation, which makes it an INCLAIM."
+0,this was an increase over the prior year's adjusted $1.89 per share in the 14-week period.," OUTOFCLAIM
+
+Explanation: This sentence is providing factual information about the company's financial performance in the past, specifically comparing the current year's adjusted earnings per share to the prior year's adjusted earnings per share. It does not contain any forward-looking statements or claims about future performance, and therefore is classified as OUTOFCLAIM."
+0,the gross direct impact of the new china regulations on the december quarter revenue guidance is approximately $100 million.," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the future impact of new China regulations on the company's revenue guidance. The sentence provides a specific figure ($100 million) for the expected impact, which makes it a claim rather than a factual statement."
+0,"we saw strong performance in our arr of $23.3 billion, which increased 6% with product arr growth of 11%."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the company's performance, specifically the strong performance in its arr of $23.3 billion, which increased 6% with product arr growth of 11%. The sentence is not just providing factual information about the past or present, but rather making a statement about the company's achievements, which could be seen as a form of boasting or promoting the company's success."
+0,"as we look at it, obviously, the points we've given you today are really about the top line growth and as you heard gary talk about the fact that we are seeing lifts in these stores of over -- on average 10%."," INCLAIM
+
+The sentence is classified as INCLAIM because it contains a claim about future top line growth and lifts in stores, which is not just factual past or present information. The use of the phrase ""as we look at it"" and ""obviously"" suggests that the speaker is expressing their opinion or perspective, which is a characteristic of claims. Additionally, the sentence mentions a specific percentage increase in lifts, which is a quantifiable claim that goes beyond mere factual information."
+0,"and that means that product growth, we should take out some of the $600 million because some of it goes into deferred revenue."," OUTOFCLAIM
+
+Explanation: This sentence is factual and does not contain any claim or projection for the future. It is simply explaining how a certain amount of money will be treated in the financial statements."
+0,"we're kind of operating in line with the long-term range that i've talked about is somewhere between 63%, plus or minus 50 basis points or so, and we've been operating fairly consistent with that if you look at the broader picture of calendar '22."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the company's long-term performance, specifically that they have been operating within a certain range (63% +/- 50 basis points) and have been consistent with that range in calendar year 2022. This is not just factual information, but rather a statement about the company's performance and future expectations, which makes it an INCLAIM."
+0,"software revenue was $3.8 billion, an increase of 6%, with the product portion up 9%."," OUTOFCLAIM
+
+Explanation: This sentence provides factual information about the company's software revenue and its components. It does not contain any claim or projection that goes beyond the current state of affairs."
+0,adjusted operating income margin for the family dollar segment was 3% for the quarter.," OUTOFCLAIM
+
+Explanation: This sentence provides factual information about the adjusted operating income margin for the Family Dollar segment and does not contain any claim or forward-looking statement."
+0,"but we've got the plan assuming 25% was going to be in for the full year, and that's in our guidance."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the company's plan and guidance, which is not just factual information. The sentence implies that the company has made an assumption about its performance and has incorporated it into its guidance, which is a forward-looking statement that goes beyond mere factual reporting."
+1,"i think it will be below the -- in that wfe environment, it'd be below what our long-term growth rate target of 12% to 14%."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim or prediction about future performance (revenue growth rate) that is not based solely on factual information. The sentence expresses a judgment or expectation about future events, specifically the impact of a potential worsening of the global macroeconomic environment on the company's revenue growth rate, which is not a factual statement."
+0,"so kind of given all of this, like do you think guys just provide some sort of rough framework for thinking about the team's revenue and earnings power potential with industry spending down about 20% next year?"," OUTOFCLAIM
+
+This sentence is seeking information or guidance, rather than making a claim or statement of fact. It does not provide any new information or assert anything about the team's revenue or earnings power, but rather asks for a framework for thinking about it."
+0,"in our customer markets, service provider was up 42%, enterprise was up 37%, commercial was up 34% and public sector was up 20%."," OUTOFCLAIM
+
+This sentence is providing factual information about the performance of different customer markets, and does not contain any claim or projection that goes beyond what can be inferred from the data. It is simply stating what happened in the past, without any additional interpretation or opinion."
+0,"it sounds like you really are capturing a nice share in terms of 75% or first biologic, so a two-part question."," OUTOFCLAIM
+
+The sentence is factual and does not contain any claim or projection for the future. It is simply stating a current fact, which is the percentage of share captured by the speaker's company."
+1,"however, for the full year 2020, we continue to expect our annual core effective tax rate to be approximately 21%."," OUTOFCLAIM
+
+Explanation: This sentence provides factual information about the company's expected annual core effective tax rate for the full year 2020. It does not contain any claim or projection that goes beyond what can be inferred from the present or past data."
+0,product rpo increased 16%.," OUTOFCLAIM
+
+Explanation: This sentence only provides factual information about the past performance of a product, without making any claim or projection for the future. It does not contain any language that suggests a judgment or opinion, and does not provide any information that goes beyond what can be observed or verified. Therefore, it is classified as OUTOFCLAIM."
+0,studios revenue increased 27% driven fairly equally by growth in theatrical and content licensing revenue.," OUTOFCLAIM
+
+Explanation: This sentence is providing factual information about the performance of the company's studios revenue, specifically mentioning the percentage increase and the drivers of that increase. It does not contain any forward-looking statements or claims, and therefore can be classified as OUTOFCLAIM."
+0,"in addition, we have built up nearly $32 billion in remaining performance obligations, and our backlog remains robust."," OUTOFCLAIM
+
+Explanation: This sentence provides factual information about the company's remaining performance obligations and backlog, without making any claim or projection about future performance. It is simply stating the current state of the company's obligations and backlog, and therefore does not meet the criteria for an INCLAIM sentence."
+0,and the family dollar's comp increased 1.4%.," OUTOFCLAIM
+
+Explanation: This sentence is providing factual information about the past performance of a company (Family Dollar) and does not contain any claim or projection for the future. It is simply stating a fact about the company's sales performance, which makes it an OUTOFCLAIM."
+0,"for example, in our adolescent atopic dermatitis trials, more than 90% had at least one other allergic condition, with more than 50% suffering from co-morbid asthma."," OUTOFCLAIM
+
+This sentence provides factual information about the results of adolescent atopic dermatitis trials, including the percentage of participants with other allergic conditions and co-morbid asthma. It does not contain any claim or statement that goes beyond what can be inferred from the data, and therefore it is classified as OUTOFCLAIM."
+1,"so, now we expect to be on the high end of that at closer to $300."," INCLAIM
+
+The sentence is an inference or prediction based on previously stated information, specifically the expectation of revenue growth in the range of 5.5% to 6.5% year on year. The statement ""we expect to be on the high end of that at closer to $300"" implies that the speaker's expectation has changed and is now more optimistic, which makes it a claim."
+0,that's down about 4 points in constant currency from 18% in may and is the lowest in a bit.," OUTOFCLAIM
+
+The sentence provides factual information about the current state of a metric (revenue growth) and its change over time, without making any claim or projection about future performance. It simply states that revenue growth is currently at 14% in constant currency, which is down 4 points from 18% in May, and does not contain any language that suggests a forward-looking statement or a claim."
+0,"what i'd start by saying is the buyback that you saw, the additional buyback that you saw in q2 and the add to our outstanding authorization to take it up to just short of $18 billion and the $0.01 increase in dividend, those are all signs of the confidence we have in our business and the growth we see ahead."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the company's confidence in its business and the growth it sees ahead. The sentence is not just providing factual information about the company's buyback and dividend, but is also expressing a judgment or opinion about the company's future prospects."
+0,"number one, the overall commodity basket is  about $16 billion, $17 billion."," OUTOFCLAIM
+
+The sentence provides factual information about the size of a commodity basket and does not contain any claim or projection that goes beyond what can be verified through objective data."
+0,"while revenue from our hospitality business, the pubs and clubs that receive our sky tv service, remains pressured, we have seen weekly revenue back to 70% of historical levels versus 25% at the start of the quarter."," OUTOFCLAIM
+
+This sentence is providing factual information about the current state of the company's hospitality business and its recovery from a low point earlier in the quarter. It does not contain any forward-looking statements or claims about future performance, and therefore does not meet the criteria for an INCLAIM label."
+0,"for example, in our enterprise business, we delivered 37% order growth, the highest in over 12 years, as large customers prioritize investments to modernize their networks and enable new digital capabilities and resiliency."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the company's performance, specifically the growth of its enterprise business, and attributes it to specific factors such as large customers prioritizing investments to modernize their networks. The sentence goes beyond simply providing factual information and implies a causal relationship between the company's actions and the reported growth, making it an claim."
+0,"as a quick follow-up, i think you talked about $100 million of gross risk related to the china impact for december."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim or a forecast about the future, specifically the expected impact of the China situation on the company's revenue. The sentence is not just providing factual information about the past or present, but rather expressing a judgment or an expectation about future events, which makes it an INCLAIM."
+0,"oq - q3 2021 comcast corp earnings call event date/time: october 28, 2021 / 12:30pm gmt overview: co. reported 3q21 revenue of $30.3b and adjusted eps of $0.87."," OUTOFCLAIM
+
+Explanation: This sentence is providing factual information about Comcast Corp's earnings call and financial performance in Q3 2021. It does not contain any claim or projection for the future, and therefore, it is classified as OUTOFCLAIM."
+0,"we're also leaning into flex, which increases the lifetime value of our broadband customers as we see churn improve by 15% to 20% for new customers that engage with the platform."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the future performance of the company's broadband customers. The sentence states that the company expects to see a 15% to 20% improvement in churn for new customers who engage with the platform, which implies a positive impact on the lifetime value of their broadband customers. This is not just factual information, but rather a statement about the company's expectations and future performance, making it an INCLAIM."
+0,"for the first quarter 2019, global net product sales of eylea were $1.74 billion, an increase of 8% year over year u.s. eylea net product sales increased due to higher sales volume partly offset by an increase in sales-related deductions primarily due to higher discounts."," OUTOFCLAIM
+
+This sentence is providing factual information about the sales of a product, specifically Eylea, and the reasons for the increase in sales. It does not contain any claim or projection that goes beyond what can be inferred from the presented data. Therefore, it is classified as OUTOFCLAIM."
+1,"when i net both of those together, we would expect to see about $0.60 to $0.70 a share erosion of the earnings power of the company."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the future earnings power of the company, which is not just factual past or present information. The sentence provides a specific range of earnings erosion ($0.60 to $0.70 a share) and implies a causal relationship between two factors (netting together the positive year-over-year change in net working capital and the impact of the new U.S. government regulations on native China investment). This type of statement goes beyond simply presenting factual information and constitutes a claim about the company's future performance."
+1,"for fiscal 2019, we're planning for consolidated capital expenditures to be approximately $1 billion."," OUTOFCLAIM
+
+This sentence is providing factual information about the company's planned capital expenditures for fiscal 2019. It does not contain any claim or projection that goes beyond what can be inferred from the present or past data. Therefore, it is classified as OUTOFCLAIM."
+0,"gross profit margin for the dollar tree segment was 37.1% for the fourth quarter, a 90 basis point decline compared with the prior year's fourth quarter."," OUTOFCLAIM
+
+Explanation: This sentence is providing factual information about the gross profit margin of the dollar tree segment and its comparison to the prior year's fourth quarter. It does not contain any claim or projection for the future, and therefore, it is classified as OUTOFCLAIM."
+0,"service revenue was $3.4 billion, down 1%, driven by delays in hardware support contracts related to the supply constraints."," OUTOFCLAIM
+
+Explanation: This sentence is providing factual information about the company's service revenue and the reason for its decrease. It does not contain any forward-looking statements or claims, and therefore, it is classified as OUTOFCLAIM."
+0,"our order growth was up more than 70% year over year, which is over 100% growth on a trailing four-quarter basis."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the company's order growth, which is not just factual information about the past or present. The sentence provides a specific percentage growth rate and compares it to a trailing four-quarter basis, which implies a judgment or projection about the company's performance."
+0,"non-programming expenses declined 3.2%, primarily as a result of curtailed advertising, marketing and promotion spend as well as lower technical and product support primarily due to a covid-related slowdown in business activities."," OUTOFCLAIM
+
+This sentence is classified as OUTOFCLAIM because it only provides factual information about the past performance of non-programming expenses, without making any claim or projection about future performance. The sentence explains the reasons for the decline in non-programming expenses, which are primarily due to curtailed advertising, marketing, and promotion spend, as well as lower technical and product support, which are both related to the COVID-19 pandemic. The sentence does not contain any language that suggests a claim or projection about future performance, and therefore, it is classified as OUTOFCLAIM."
+0,"net new digital media annualized recurring revenue, or arr, was $464 million."," OUTOFCLAIM
+
+Explanation: This sentence is providing factual information about the company's financial performance, specifically the net new digital media annualized recurring revenue. It does not contain any claim or projection that goes beyond what can be verified through objective data."
+0,"and normal backlog, as we said last quarter, is between $4 billion and $5 billion at the end of the year."," OUTOFCLAIM
+
+Explanation: This sentence provides factual information about the normal backlog range for the end of the year, without containing any claim or forward-looking statement. It is purely a statement of present information."
+1,"this quarter's ebitda included roughly $20 million of pre-opening costs related to our theme park in beijing, which remains on schedule to open by the summer of 2021."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the company's future plans and expectations, specifically the opening of their theme park in Beijing by the summer of 2021. This information is not just factual past or present information, but rather a statement about the company's future plans and expectations, which makes it an INCLAIM."
+0,capital expenditures were $194.4 million in the fourth quarter versus $182.8 million in the fourth quarter of last year.," OUTOFCLAIM
+
+Explanation: This sentence is providing factual information about the company's capital expenditures in the fourth quarter and comparing it to the same quarter in the previous year. It does not contain any claim or projection for the future, and therefore, it is classified as OUTOFCLAIM."
+0,"in the branded u.s. market, eylea has about 70% share of net product sales."," OUTOFCLAIM
+
+Explanation: This sentence provides factual information about the market share of Eylea in the branded U.S. market. It does not contain any claim or projection that goes beyond what can be verified through publicly available data or sources. Therefore, it is classified as OUTOFCLAIM."
+0,"so, are you suggesting to us that the backlog comes down by about $3.5 billion over the next several quarters?"," INCLAIM
+
+This sentence is an inquiry and contains a presumption or suggestion, which makes it an INCLAIM. The speaker is asking for clarification or confirmation, implying that they are seeking additional information or context. The sentence does not merely present factual information, but rather seeks to engage in a discussion or elicit a response, making it an INCLAIM."
+0,"the 6% was the decline in backlog from q1 to q2, right?"," OUTOFCLAIM
+
+Explanation: This sentence is asking for clarification on a factual piece of information, specifically the percentage decline in backlog from Q1 to Q2. It does not contain any claim or opinion, and is purely seeking clarification on a past event, making it OUTOFCLAIM."
+0,"excluding these adjustments, overall cable revenue would have risen by 3.9% with no corresponding impact to ebitda."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the impact of adjustments on cable revenue and EBITDA. The sentence is not just providing factual information about past or present events, but rather it is making a statement about the hypothetical scenario of excluding certain adjustments and how it would have affected cable revenue and EBITDA."
+0,we delivered our second-highest quarterly revenue of $13.6 billion up 7% and record non-gaap eps at $0.88.," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the company's performance, specifically mentioning the second-highest quarterly revenue and record non-GAAP EPS. These are not just factual statements about past or present information, but rather an expression of the company's achievement and success."
+0,"starting with total nbcuniversal results, revenue increased 58% to $10 billion, and ebitda increased 48% to $1.35 billion."," OUTOFCLAIM
+
+This sentence is providing factual information about the past performance of NBCUniversal, specifically the revenue and EBITDA increases. It does not contain any forward-looking statements or claims, and therefore does not require any further analysis or justification."
+0,"excluding these adjustments, cable communications revenue increased 6.3% with no corresponding impact to ebitda."," OUTOFCLAIM
+
+Explanation: This sentence provides factual information about the company's revenue growth, without making any claim or projection. It simply states a fact about the company's past performance, without any additional context or interpretation."
+0,"on january 18, 2019, the company prepaid it's $782 million term loan facility."," OUTOFCLAIM
+
+Explanation: This sentence is providing factual information about a past event (the company prepaying its term loan facility) and does not contain any claim or forward-looking statement."
+0,jason english -- goldman sachs -- analyst  that implies that ebitda if we just track what the first half would be down year-on-year by a bit over $200 million.," INCLAIM
+
+The sentence is an inference and not a factual statement. The speaker is implying that the EBITDA would be down year-on-year by a bit over $200 million based on the information provided, which is not a certain fact but an analysis or prediction."
+0,quarterly revenue was $2.724 billion at the top of the guided range of $2.475 billion to $2.725 billion.," OUTOFCLAIM
+
+This sentence is providing factual information about the company's quarterly revenue, which falls within the guided range provided in the sentence. It does not contain any claim or opinion that goes beyond factual information, and therefore it is classified as OUTOFCLAIM."
+0,"on the top line, we grew revenue by 14% year-over-year or 15% in constant currency."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the company's revenue growth, which is not just factual information about the past or present. The sentence provides a year-over-year comparison of revenue growth, which implies a trend or a performance evaluation, making it an claim."
+1,"i want to say it's about $700 million or so this year in '22 in terms of what we'll call kind of auto exposure from a revenue point of view, and we would expect to see that grow over time."," INCLAIM
+
+The sentence is classified as INCLAIM because it contains a claim or projection about future growth, specifically stating that the company expects to see auto exposure revenue grow over time. The sentence is not just providing factual past or present information, but rather offering a forward-looking statement that goes beyond what can be observed or verified in the present."
+0,non-gaap operating margin was strong at 44.1%.," OUTOFCLAIM
+
+Explanation: This sentence only provides factual information about the company's non-GAAP operating margin, without making any claim or projection about future performance. It is a statement of past performance, and does not contain any language that suggests a forward-looking or uncertain element."
+0,depreciation and amortization totaled $166.7 million for the fourth quarter.," OUTOFCLAIM
+
+Explanation: This sentence is providing factual information about the past ( fourth quarter) and does not contain any claim or projection for the future. It's just a statement of fact, therefore it's OUTOFCLAIM."
+0,"from a non-gaap profitability perspective, total q1 gross margin was 63.8%, up 0.1 points, product gross margin was 63.2%, up 0.2 points, and service gross margin was 65.7%, up 0.1 points."," OUTOFCLAIM
+
+This sentence provides factual information about the company's gross margin in the first quarter, including the total gross margin and the gross margin for products and services. It does not contain any claim or projection that goes beyond the factual information. Therefore, it is classified as OUTOFCLAIM."
+0,end-to-end security was up 7% driven by our unified threat management and zero trust offerings.," OUTOFCLAIM
+
+Explanation: This sentence is providing factual information about the performance of the company's end-to-end security, specifically that it was up 7% driven by unified threat management and zero trust offerings. It does not contain any claim or projection that goes beyond what can be verified through objective data. Therefore, it is classified as OUTOFCLAIM."
+0,"i think if i remember correctly, you're spending about $300 million, p&l dollars against it."," OUTOFCLAIM
+
+Explanation: This sentence is not making a claim, but rather stating a fact about the amount of money being spent. It does not contain any language that suggests a judgment or opinion, but rather presents information about a specific detail."
+0,i'm interpreting this to mean that you're lowering your full-year ebitda guidance by about $300 million.," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim or a prediction about the future, specifically the lowering of full-year EBITDA guidance by about $300 million. It is not just providing factual information about the past or present, but rather making a statement about what the company expects to happen in the future."
+0,"wireless revenue increased 23%, driven by 187,000 additional lines, resulting in 2.6 million total lines at quarter end."," OUTOFCLAIM
+
+Explanation: This sentence provides factual information about the company's wireless revenue and the number of additional lines, but it does not contain any claim or projection that goes beyond the current state of affairs. It is purely descriptive and does not attempt to persuade or make a case for anything."
+0,regeneron's process validation expenses and inventory write-offs and reserves for first-quarter 2019 were $44 million higher than the first-quarter 2018.," OUTOFCLAIM
+
+This sentence is providing factual information about Regeneron's process validation expenses, inventory write-offs, and reserves for the first quarter of 2019 compared to the first quarter of 2018. It does not contain any claim or projection for the future, and therefore, it is classified as OUTOFCLAIM."
+0,"so, we were able to work off about 6% of the backlog that we came into the quarter with."," OUTOFCLAIM
+
+Explanation: This sentence is factual and describes a past event (working off 6% of the backlog) without expressing any opinion or making a claim about future performance. It does not contain any language that suggests a projection, forecast, or expectation, and therefore does not meet the criteria for an INCLAIM classification."
+0,"so 2018, we have returned -- as you alluded to, we've returned $76 billion in capital to shareholders just since 2018."," OUTOFCLAIM
+
+Explanation: This sentence is providing factual information about the company's past actions, specifically the amount of capital returned to shareholders since 2018. It does not contain any forward-looking statements or claims, and therefore is classified as OUTOFCLAIM."
+0,"we generated $3.2 billion of free cash flow this quarter, including a $670 million benefit related to the tax impact of the bond exchange we completed in august."," INCLAIM
+
+The sentence is classified as INCLAIM because it includes a claim about the company's financial performance (free cash flow) and a specific benefit related to a recent action (the bond exchange), which is not just factual information about past or present events. The sentence implies a causal relationship between the bond exchange and the increase in free cash flow, which makes it an claim rather than a factual statement."
+0,"overall, sky q penetration is at 51% of households while u.k. penetration has reached 58%, up 13 percentage points year-over-year."," OUTOFCLAIM
+
+Explanation: This sentence provides factual information about the penetration rates of Sky Q and UK, and does not contain any claim or projection that goes beyond what can be verified through objective data."
+1,"second, in march, we outlined the impact of the ongoing war in ukraine and our decision to cease all new sales in russia and belarus, resulting in an expected $75 million revenue impact on our digital media business."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the impact of the war in Ukraine and the company's decision to cease sales in Russia and Belarus on its digital media business. The sentence is not just providing factual information about past or present events, but rather making a statement about the expected impact of those events on the company's business, which is a claim."
+0,"turning now to dupixent, where global net product sales in the first quarter were $374 million."," OUTOFCLAIM
+
+Explanation: This sentence only provides factual information about the net product sales of Dupixent in the first quarter and does not contain any claim or projection for the future. It is purely a statement of past performance and therefore, it is classified as OUTOFCLAIM."
+0,"total capital returns in the quarter were $278 million, comprising $90 million in share repurchases and $188 million in dividends paid."," OUTOFCLAIM
+
+Explanation: This sentence provides factual information about the company's capital returns in the quarter, including the amount of share repurchases and dividends paid. It does not contain any claim or projection that goes beyond the factual information, and therefore, it is classified as OUTOFCLAIM."
+0,"last, advertising revenue increased 4.6%, reflecting a strong overall market recovery compared to last year's third quarter, which was impacted by covid, partially offset by lower political advertising."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the company's performance (advertising revenue increased 4.6%) and provides an explanation for the increase (strong overall market recovery compared to last year's third quarter, which was impacted by covid, partially offset by lower political advertising). The sentence goes beyond simply providing factual information and offers an interpretation of the company's performance, making it an INCLAIM."
+0,we added $107 million of net new document cloud arr in the quarter.," OUTOFCLAIM
+
+Explanation: This sentence is factual and does not contain any claim or projection for the future. It simply states a past event (the addition of $107 million in net new document cloud arr in the quarter) and does not provide any interpretation or opinion."
+0,"and then, in q4, obviously, that was the first quarter that we experienced a 30%-plus quarter from last fiscal year."," OUTOFCLAIM
+
+Explanation: This sentence is providing factual information about past performance, specifically mentioning a 30%-plus quarter in Q4 of the previous fiscal year. It does not contain any forward-looking statements or claims, and therefore, it is classified as OUTOFCLAIM."
+0,"but as you saw from our disclosures, we wrote off $1.3 billion of that balance with the adoption of the new standard for those enterprise agreements and for cisco one."," OUTOFCLAIM
+
+Explanation: This sentence is providing factual information about a past event (the write-off of $1.3 billion) and does not contain any claim or forward-looking statement. It is simply stating what happened in the past, without any interpretation or projection."
+1,"if these tariffs do not move to 25%, we expect to see margin benefit in the second half of fiscal 2019."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about future events (i.e., the impact of tariffs on the company's margins) that goes beyond factual information. The sentence implies a causal relationship between the tariffs and the company's margins, which is an opinion or a prediction, rather than a fact."
+1,"we currently have $9.5 billion remaining of our $15 billion authorization granted in december 2020, which goes through 2024."," OUTOFCLAIM
+
+This sentence is providing factual information about the current amount of authorization remaining under a previously granted authorization, and does not contain any claim or projection that goes beyond what is already known or established."
+0,"and then on my follow-up, good to see the strong euv mask inspection shipments and patterning segment was up almost 70% year over year."," OUTOFCLAIM
+
+Explanation: This sentence is providing factual information about the company's performance, specifically mentioning the growth in euv mask inspection shipments and patterning segment. It does not contain any claim or projection that goes beyond what can be verified through publicly available data or past performance. Therefore, it is classified as OUTOFCLAIM."
+0,"specifically for this quarter, record revenue of $2.7 billion was at the top of the guidance range, growing 31% on a year-over-year basis and 10% sequentially."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the company's performance (record revenue of $2.7 billion) and a year-over-year growth rate of 31%, which is not just factual information. The sentence also implies that the company's performance is exceptional, which is an evaluative statement that goes beyond factual information."
+0,"operating cash flow for the quarter was $2.5 billion, down 17% year over year, primarily driven by advance payments to secure future supply."," OUTOFCLAIM
+
+Explanation: This sentence provides factual information about the company's operating cash flow for the quarter, including the amount and the reason for the change in cash flow. It does not contain any claims or predictions about future performance, and therefore, it is classified as OUTOFCLAIM."
+0,"scott herren -- chief financial officer  ittai, that's something that we've been alert to and watching for since we began building the backlog after three consecutive quarters of demand growth in the 30% range and revenue growth only in the 6% to 8% range."," INCLAIM
+
+The sentence is classified as INCLAIM because it contains a claim about the company's backlog and revenue growth, which is not just factual information. The sentence implies that the company has been monitoring a trend of high demand growth and low revenue growth, and that they have been taking steps to address this issue. This implies a level of analysis, interpretation, or evaluation that goes beyond mere factual reporting, making it an INCLAIM."
+0,"the strong level of net customer additions over the past year, including this third quarter, coupled with higher average revenue per customer, drove broadband revenue growth of 12%."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the company's performance, specifically the growth of broadband revenue, and the factors that contributed to it, such as net customer additions and higher average revenue per customer. The sentence is not just providing factual information about the past or present, but rather making a statement about the company's achievements and the reasons behind them."
+0,"in q2, we achieved net new document cloud arr of $107 million and record revenue of $595 million, which grew 28% year-over-year."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the company's performance, specifically the achievement of net new document cloud arr and record revenue, which implies a positive evaluation of the company's success. The sentence also includes a comparison to previous years, which further supports the idea that the company is making a claim about its performance."
+0,"and i have an assumption baked in on certainly the tariff costs if they go up to 25%, as well as an assumption on what we can offset with prices pushing through."," INCLAIM
+
+The sentence contains an assumption about future events (tariff costs increasing to 25%) and how they might impact the company's business, as well as a statement about the company's ability to offset those costs through price increases. This goes beyond simply presenting factual information and enters the realm of predictions and claims about future performance, making it an INCLAIM sentence."
+0,"for the third quarter, cable communications revenue increased 2.9% while ebitda increased 10.5%."," OUTOFCLAIM
+
+This sentence is providing factual information about the past performance of a company's cable communications revenue and EBITDA. It does not contain any forward-looking statements or claims, and therefore does not require any analysis or interpretation beyond what is explicitly stated."
+0,"switching to the balance sheet, kla ended the quarter with almost $3 billion in total cash, debt of $6.3 billion and a flexible and attractive bond maturity profile supported by strong investment-grade ratings from all three agencies."," OUTOFCLAIM
+
+This sentence is providing factual information about KLA's financial position, including the amount of cash, debt, and bond maturity profile. It does not contain any forward-looking statements or claims about future performance, and therefore does not meet the criteria for an INCLAIM."
+0,filmed entertainment ebitda increased 53% as lower revenue was more than offset by lower operating costs related to less spending on current period releases as a result of covid-19.," OUTOFCLAIM
+
+This sentence is classified as OUTOFCLAIM because it only provides factual information about the past performance of the company's filmed entertainment segment. It does not contain any forward-looking statements or claims about future performance. The sentence explains the reason for the increase in ebitda, which is purely based on past events (lower revenue and lower operating costs) and does not contain any element of future projection or expectation."
+0,"as a result, for q3, we are targeting total adobe revenue of approximately $4.43 billion, net new digital media arr of approximately $430 million, digital media segment revenue growth of approximately 13% year-over-year or 16% in constant currency, digital experience segment revenue growth of approximately 12% year-over-year or 14% in constant currency, digital experience subscription revenue growth of approximately 13% year-over-year or 15% in constant currency, tax rate of approximately 22.5% on a gaap basis and 18.5% on a non-gaap basis and gaap earnings per share of approximately $2.35 and non-gaap earnings per share of approximately $3.33."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about future performance, specifically the targeted revenue and growth rates for Adobe's various segments, as well as the expected tax rate and earnings per share. These are not just factual statements about past or present information, but rather a statement of the company's expectations and goals for the future."
+1,non-gaap earnings per share is expected to range from $0.85 to $0.87.," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about future performance (earnings per share) that is not based on factual past or present information. The sentence provides a range of expected earnings per share, which implies a prediction or projection that goes beyond factual information."
+0,"we continued to see exceptional performance, driven by the rapid pace of adoption of our 400-gig solutions and our routed optical networking portfolio, which grew over 50%, fueled by the cisco 8000 product line, acacia and silicon one."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the company's performance, specifically citing the rapid pace of adoption of their 400-gig solutions and routed optical networking portfolio, and attributing this success to their products (Cisco 8000, Acacia, and Silicon One). The sentence goes beyond simply presenting factual information and instead makes a statement about the company's success, which could be seen as a form of self-promotion or a statement of future prospects."
+0,"at family dollar, we've driven more than $145 million in estimated savings for indirect procurement and more than $100 million in cost of sales."," OUTOFCLAIM
+
+This sentence is classified as OUTOFCLAIM because it only provides factual information about the past performance of Family Dollar, without making any claim or projection for the future. The sentence reports on specific savings achieved in indirect procurement and cost of sales, but it does not contain any language that suggests a forward-looking statement or a claim that requires supporting evidence."
+0,"excluding the $0.21 per share benefit from the extra week in 2017, adjusted earnings per share increased 14.9%."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about the company's financial performance (adjusted earnings per share increased 14.9%) that goes beyond factual information. The sentence also includes a comparison to a previous year (2017) and excludes a certain benefit, which suggests a level of interpretation or evaluation that goes beyond mere factual reporting."
+0,"product remaining performance obligations, or rpo, which is largely software revenue that is committed but not yet recognized, was up 16%."," OUTOFCLAIM
+
+Explanation: This sentence is providing factual information about the performance of the company's software revenue, specifically the increase in product remaining performance obligations (RPO). It does not contain any claim or projection that goes beyond what can be verified through objective evidence, and therefore it is classified as OUTOFCLAIM."
+0,"in our digital media business, we drove strong growth in both creative cloud and document cloud, achieving $3.2 billion in revenue."," OUTOFCLAIM
+
+Explanation: This sentence is providing factual information about the company's digital media business and its revenue. It does not contain any claim or projection that goes beyond what can be verified through publicly available data or evidence. Therefore, it is classified as OUTOFCLAIM."
+0,"non-gaap earnings per share is increasing to $3.41 to $3.46, up 5.9% to 7.5% year on year."," INCLAIM
+
+This sentence is classified as INCLAIM because it contains a claim about future performance (earnings per share) that is not just factual past or present information. The sentence provides a specific range for non-GAAP earnings per share and indicates a year-over-year increase, which implies a prediction or projection about future financial performance."

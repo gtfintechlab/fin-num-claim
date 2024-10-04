@@ -1,0 +1,285 @@
+Operator
+
+Hello, and thank you for standing by for Baidu's Third Quarter 2019 Earnings Conference Call. [Operator Instructions]
+
+I would now like to turn the meeting over to your host for today's conference Juan Lin, Baidu's Director of Investor Relations.
+
+Juan Lin -- Director of Investor Relations
+
+Hello, everyone, and welcome to Baidu's Third Quarter 2019 Earnings Conference Call. Baidu's earnings release was distributed earlier today and you can find a copy on our website as well as on Newswire services. On the call today we have Robin Li, our Chief Executive Officer; Herman Yu, our Chief Financial Officer; and Dou Shen, our Senior Vice President and in charge of Baidu's Mobile Ecosystem Group, our Search and Feed Business. After our prepared remarks, we will hold a Q&A session.
+
+Please note that the discussion today will contain forward-looking statements made under the Safe Harbor provisions of the US Private Securities Litigation Reform Act of 1995. Forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from our current expectations. Potential risks and uncertainties include but are not limited to those outlined in our public filings with the SEC, including our Annual Report on Form 20-F. Baidu does not undertake any obligation on update any forward-looking statements except as required under applicable law.
+
+Our earnings press release and this call include discussions of certain unaudited non-GAAP financial measures. We have made minor adjustments to our non-GAAP measures and retroactively applied these changes for comparison purposes. Our press release contains a reconciliation of the unaudited non-GAAP measures to the unaudited most directly comparable GAAP measures and is available on our IR website at ir.baidu.com. As a reminder, this conference is being recorded. In addition, a webcast of this conference call will also be available on Baidu's IR website.
+
+I will now turn the call over to our CEO, Robin.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Hello, everyone. Baidu's third quarter revenues reached RMB28.1 billion, above the midpoint of our guidance, with Baidu Core performing better than our original expectation. Baidu Core revenues grew 8% sequentially in third quarter on top of the 12% sequential growth in the second quarter, in spite of the slowing macro environment, industry specific policy changes and self-directed healthcare initiatives.
+
+Baidu Core's quarterly sequential growth rate compared to last year's second and third quarter of 26% and 9% respectively excluding spin-off revenues have been narrowing. Our marketing services business is improving, in part due to a stabilizing market, as well as our efforts to strengthen our mobile ecosystem and our monetization capabilities.
+
+We have made significant progress in strengthening Baidu's mobile ecosystem, centering around information and knowledge. We continue to push the limits of Baidu AI to better match users to the vast and diversified content pool in Baidu App. Our Top-1, satisfying user queries with the first search result has reached 56% compared to 40% a year ago.
+
+On top of leading search and a comprehensive set of knowledge based products, Baidu App provides hosted solutions such as Baijiahao or BJH accounts, smart mini program and Managed Page to publishers, app developers and HTML5 site owners to offer a wide range of third-party content and services in Baidu App with native app-like experience.
+
+Our efforts to strengthen Baidu's mobile ecosystem is hosted solution add a high level of barrier to entry to in-app search, while presenting Baidu with newsfeed and short video opportunities. Baidu's cutting edge AI technologies, plus hosted solution are leading to a better search and feed experience, which is drawing many users to log in on the Baidu app.
+
+In the third quarter, we began to unify our mobile pillars, BJH, smart mini program, Managed Page and CRM onto a hosted marketing platform to allow our customers to build brand, engage with users and grow audience. Our hosted marketing platform leverages Baidu's technologies and user insight to enable SMEs and KAs to perform user relationship management. In August, we made available a toolkit of over 300 web creative content templates on our hosted platform, and now, Managed Page owners can significantly streamline their app creative process with the toolkit.
+
+We also released a toolkit to our customers to enable users who see their ads complete a lead generation form with just one click. By offering a hosted marketing platform that can be continuously upgraded with Baidu technologies, our customers can focus on the marketing rather than the IT aspect of their campaigns, which will make Baidu's marketing services more compelling.
+
+We also made great progress in Baidu's new AI businesses and in improving our operational efficiencies, which Herman will elaborate later on. On search and feed, in September Baidu App daily active users continued to see robust growth, reaching 189 million. That's up 25% year-over-year. Momentum for in-app traffic remains strong, with in-app search queries growing over 25% year-over-year, feed time spent up 16% year-over-year and feed plus short video app time spent up 35% year-over-year. On top of rapid traffic growth, user login has been growing, now accounting for more than half of Baidu app's daily active users.
+
+BJH now hosts 2.4 million publisher accounts, up 57% year-over-year. BJH allows our publishers to get the optimal exposure in Baidu Search. Our efforts to improve content quality and emphasize the social aspects of BJH have boosted traffic and user engagement. In September, content sharing was up 29% year-over-year, while usage of like functions grow 89% year-over-year.
+
+Our knowledge-based products, including Baidu Wiki, Baidu Knows, Baidu Experience and Baidu Wenku have accumulated over 1 billion content pieces, including articles, videos, etc. collaboratively produced with users, professionals and institutions. Our focus to enrich Baidu's knowledge content has led to a significant increase in user engagement. For example, in September, daily user time spent on Baidu knowledge content in Baidu family of apps grow 41% while daily video views, including Baidu Wiki and Baidu Experience increased 36% as compared to June.
+
+Baidu smart mini program is seeing great traffic momentum with MAUs reaching $290 million in September, up 170 -- 157% year-over-year. And a quarter of Baidu's in-app user clicks from search results were fulfilled by the information services from Baidu smart mini program. In addition, in the last three months, the number of smart mini programs more than doubled while user time spent on Baidu smart mini program grew 32%.
+
+We are excited to see app developers adopting Baidu smart mini program as a key channel for user acquisition and to deepen customer engagement. By leveraging Baidu's intent-based traffic, hosted marketing platform and smart mini program's closed-loop features, our partners can continuously improve traffic growth and conversion through user relationship management on Baidu. For example, a well-known e-commerce company in China used Baidu smart mini program to give away coupons to users, leveraging Baidu's user insight and saw its conversion improve 2.5 times over its HTML5 pages.
+
+Free adoption of Baidu’s smart mini program is also helping our customers broaden their spectrum of marketing options. A leading K-12 after school tutoring provider used their Baidu’s smart mini program to allow users who see their ads automate the completion of sales lead form for trial classes with one click for user authorization. By hosting the traffic on Baidu's platform, the education company improved its marketing ROI by 30% compared to its HTML5 sites. By connecting to Baidu's platform through an SDK or through hosting Baidu Cloud, Baidu’s smart mini program partners can leverage the advanced technologies and user insight provided by Baidu's toolkits.
+
+Turning to Managed Page. Better user experience and ad conversion are leading to the adoption of our Managed Page. Revenue from Managed Page in the third quarter accounted for nearly one-fifth of Baidu Core's marketing revenue. We are adding more benefits to -- for SMEs to move to Managed Page. In August, we released a toolkit on Baidu's hosted marketing platform with over 300 content creative templates, which makes it easier for SMEs from all industries to migrate their H5 sites to Baidu's Managed Page.
+
+In the health care area, we are seeing our customers use more video content on their Managed Page to provide health care information to users compared to the original H5 site. Managed Pages are hosted on Baidu Cloud, which is typically more stable and provides a smoother experience for video broadcasting, than the IT infrastructure SMEs usually purchase on their own.
+
+Managed Page can also improve conversion. For example, a driving school in Xi'an, the capital of Shaanxi Province, saw an 80% lift in lead conversions compared to its own H5 site by using the online chat and live call consultation toolkit from Baidu's hosted marketing platform with its Managed Page. According to CNNIC, there are approximately 5 million websites in China and most of them do not have the resources nor capabilities to leverage AI and other leading technologies to improve their marketing effectiveness. By joining Baidu's Managed Page and using our hosted marketing platform, SMEs can continuously improve traffic growth and marketing conversion in light of the slowing overall mobile traffic growth in China.
+
+Turning to monetization, we have expanded oCPX for newsfeed to oCPX for Phoenix Nest, our search monetization platform, to allow SMEs to purchase P4P marketing services based on a cost per action basis most suitable for their industry, such as on a cost per lead, cost per download or cost per purchase basis.
+
+By knowing what the return will be in advance, based on the metrics that our customers care about, oCPX now can improve marketing ROI certainty for search on the backdrop of current macro uncertainties. In the third quarter, ad spending on oCPX grew fourfold and average cost per action decreased over 10% year-on-year.
+
+In summary, we are building a comprehensive and diversified mobile ecosystem centered around information and knowledge with Baijiahao smart mini program and Managed Page as important pillars. Our hosted solutions enable publishers, app developers and customers to share their content, information and services on Baidu's platform with native app-like experience, which is translating into robust traffic growth for Baidu App and providing a foundation for us to enable our customers and partners to grow through the use of Baidu technologies.
+
+Moving to DuerOS. In the third quarter, DuerOS voice assistant continues to grow fast with monthly voice queries surpassing 4.2 billion in September, up over 4.5 fold year-over-year. DuerOS is gaining strong momentum in the Chinese market due to our relentless focus on user experience. We strive to upgrade features in DuerOS to make voice assistant friendlier to use. For example, DuerOS for Xiaodu Smart Display can now respond to hand gestures to stop playing music when one hears a phone call for instance and make full-duplex continued conversation or multi-round conversation without a wake word through eye gesture detection.
+
+Turning to DuerOS first party devices. While our goal for DuerOS smart speakers, it's not necessarily to be number 1, meaning hardware sales, Xiaodu smart speakers continue to see strong sales momentum. Leading market research firms, Canalys, Strategy Analytics and IDC ranked Xiaodu series speaker number one in smart speaker shipments in China for the second quarter. According to Canalys, Baidu overtook Google in the second quarter to become number 2 globally in smart speaker shipment while IDC reported that Xiaodu Smart Display ranked first in smart display shipments globally in the second quarter. We believe it is important for Xiaodu smart speakers to maintain a large market share because scale will allow us to build brand, increase pricing power and reduce unit cost.
+
+We are differentiating Xiaodu smart speakers through Baidu AI capabilities and the breadth of service offerings provided by DuerOS skills store. We are excited by the opportunity to monetize DuerOS smart speakers through membership, advertising, skills store revenue share, as we test trial different monetization options over the next year.
+
+On Apollo, we are excited about our progress in early stage commercialization of smart transportation, especially in terms of forming strategic partnerships with municipal governments across China and helping bigger cities improve transportation, traffic, safety and air quality using Baidu AI. In September, China's first robotaxi pilot program was made available to the public with an initial fleet of 45 Apollo powered autonomous vehicles roaming the streets of Changsha, the capital city of Hunan Province. Hundreds of passengers in the city of Changsha experienced Apollo powered robotaxi fleet in the first 30 days. Initial feedback has been quite positive.
+
+Changsha’s robotaxi pilot program leverages Baidu's V2X solution, which sends signals from traffic lights and close-proximity traffic condition to Apollo powered vehicles, overcoming blind spots and improving traffic efficiency and safety. On cloud, at the Baidu Cloud ABC Summit in August, new AI enterprise solutions were introduced to optimize visual speech processing and other AI capabilities to help customers increase productivity and improve operational efficiency.
+
+For example, Baidu Cloud released an AI-powered video editing solution that can automate the tedious task of cutting films into video clips and tagging them while the film is broadcasted live. The official website of China's largest TV station, CCTV.com, used Baidu Cloud video editing AI solution during the live broadcasting of China's 70th Anniversary Celebration on August 1st and saw its video editing efficiency gain by roughly 10 times.
+
+Baidu Cloud also released an extension of its AI call center enterprise solution which Shanghai Pudong Development Bank or SPD Bank is using to develop its virtual customer service representative called Xiaopu. Xiaopu will appear in SPD Bank’s mobile app carrying human-like expressions, as it interacts with SPD customers as a virtual assistant. We see such call center solution extension applicable to industries beyond the financial services, such as telecommunication, media and education.
+
+To encourage the usage of Baidu AI and Baidu Cloud services, we continue to improve Baidu's AI technologies and make them available on Baidu's AI Open Platform which saw user growth in the third quarter with developer membership more than doubling from last year to over 1.5 million.
+
+In September, Baidu Maps enhanced its voice feature with Baidu leading voice synthesis technology, allowing users to customize the voice feature on Baidu Maps with user’s own voice by recording just 20 sentences. Over 280 million Baidu users have used Baidu Maps voice feature as of September, doubling from the previous year.
+
+Turning to iQIYI. iQIYI continues to see solid membership growth with subscribers reaching 105.8 million in September, up 31% year-over-year. iQIYI's strong membership growth further strengthens its foundation as a leading video platform in China, self-producing long-form video series and as an important video partner of Baidu's search-plus-feed ecosystem.
+
+With that, let me turn the call over to Herman to go through the financial highlights.
+
+Herman Yu -- Chief Financial Officer
+
+Thanks, Robin. Hello, everyone. Welcome to Baidu's third quarter 2019 call. All monetary amounts used in my discussion are in renminbi unless stated otherwise. Total revenues for the third quarter reached RMB28.1 billion or $3.93 billion, up 3% year-over-year excluding spin-off revenues and up 7% quarter-over-quarter. Revenue from Baidu Core was RMB21 billion or $2.94 billion, up 2% year-over-year, excluding spin-off revenues and up 8% quarter-over-quarter. Marketing services revenue saw strength from education, retail and services sectors and were offset by weakness in health care, financial services, franchising and auto sectors.
+
+As Robin mentioned, we are seeing a stabilizing market in general. Our new AI businesses, including DuerOS smart devices and Baidu Cloud continue to see fast growth, which in total grew over 100% year-over-year. Xiaodu smart speakers saw robust growth, and the unit economics are improving through price increases and reduction in cost of goods sold. Baidu Cloud revenue for the third quarter was up over quarter was up over 70% year-over-year as we placed more emphasis on project margin. Going forward, we will not disclose Baidu Cloud revenue separately each quarter. Revenue scale, margins and pricing are sensitive information in the highly competitive market of smart speakers, cloud and other AI businesses.
+
+iQIYI revenue reached RMB7.4 billion, up 7% year-over-year. Membership revenue continued to see strong growth, up 30% year-over-year. And iQIYI's ad business was down 14% year-over-year due to slowing macro, delay of top content launches and heavy competition from in-feed advertising. Adjusted EBITDA reached RMB5.1 billion and adjusted EBITDA margin was 18%. Adjusted EBITDA for Baidu Core reached RMB7.5 billion or $1.05 billion. And adjusted EBITDA for -- adjusted EBITDA margin for Baidu Core reached 36% compared to 24% from last quarter.
+
+On a sequential basis, Baidu Core revenue grew RMB1.5 billion while Baidu Core adjusted EBITDA increased RMB2.8 billion. Our disciplined approach to spending coupled with the traction that we have made in strengthening Baidu's mobile ecosystem have allowed Baidu Core sequential revenue increase to basically fall to the bottom line while our cost management initiatives have contributed to the sequential decrease of over RMB1 billion in Baidu Core's costs and expenses.
+
+We continue to invest heavily for the future and our disciplined approach puts an emphasis on investment and return. In our GAAP numbers, net loss attributed to Baidu was RMB6.4 billion, which included a non-cash impairment loss of RMB8.9 billion in total other loss. In the fourth quarter of 2015, following a transaction where we exchanged shares of our majority owned subsidiary, Qunar, for a minority investment in Trip.com, we deconsolidated Qunar recorded investment in Ctrip.com at the closing date market value and recognized a non-cash accounting gain of RMB24.4 billion. Since then, the market value of Trip.com shares have declined and the continued low market price has caused us to recognize a non-cash impairment loss of RMB8.9 billion in the third quarter, which was determined other than temporary. In October 2019 we sold down our holding in Trip.com, which decreased from approximately 19% to over 12% of Trip.com's outstanding shares.
+
+Let me quickly go over the rest of the financial highlights. Turning to cost of sales. Excluding stock compensation and intangible asset amortization, cost of sales was RMB16.2 billion, up 15% year-over-year. Bandwidth and depreciation cost increased, primarily due to robust growth of our cloud business' increased video consumption, while cost of goods sold increased primarily from the sales of increase in Xiaodu smart speakers. TAC increased 5% year-over-year as a result of higher TAC prices expansion into connected offline screens and other areas.
+
+SG&A expenses, excluding stock compensation, were RMB4.3 billion, down 15% year-over-year, primarily due to the decrease in channel and promotional marketing, as less marketing spending met our stringent ROI criteria. The decrease in marketing spending has hampered the sequential traffic growth of our apps, including Haokan short video and Quanmin flash video. We will continue to manage our marketing dollars with a strong discipline toward investment return while recognizing that our marketing investments may not provide a return in the same quarter that the expense was incurred. R&D expenses, excluding stock compensation, were RMB3.9 billion, up 18% year-over-year, primarily due to increased personnel expenses, particularly for AI development.
+
+Non-GAAP operating income was RMB3.7 billion and non-GAAP operating margin was 13% compared to 7% last quarter. Non-GAAP operating income for Baidu Core was RMB6.2 billion or $871 million and non-GAAP operating margin for Baidu Core reached 30% in the third quarter compared to 18% last quarter. Income tax expense was RMB934 million compared to RMB2.1 billion in the same quarter last year. Income tax expense in the third quarter included a tax withholding for potential dividend distribution to offshore entities. Non-GAAP net income attributable to Baidu was RMB4.4 billion and non-GAAP net margin was 16%. Non-GAAP net income attributable to Baidu Core was RMB6.3 billion or $883 million. Non-GAAP net margin for Baidu Core was 30% compared to 24% last quarter.
+
+As of September 30th, 2019, cash and short-term investments was RMB137.4 billion or $19.2 billion. Excluding iQIYI, cash and short-term investments for Baidu Core was RMB123.5 billion or $17.3 billion. Free cash flow was RMB7.6 billion and free cash flow for Baidu Core was RMB7.5 billion or $1 billion. Total full-time equivalent of Baidu Core was approximately 30,300.
+
+Turning to fourth quarter guidance, we expect total revenue to be between RMB27.1 billion and RMB28.7 billion, representing a minus 1% to 6% increase year-over-year. Our guidance assumes Baidu Core revenue will grow between zero to 6% year-over-year. These forecasts are our current and preliminary view and are subject to change.
+
+Before I turn the call over to the operator, let me recap Baidu's third quarter results. Baidu's search and feed business is making great progress. Baidu App traffic remains strong, as we expand Baidu's mobile ecosystem centering around information and knowledge and improve user experience with mobile pillars, including BJH accounts, smart mini program and Managed Page. Our monetization capabilities are strengthening with Baidu's hosted marketing platform and expansion of our monetization products such as oCPX for search. Baidu revenues for the third quarter was higher than the midpoint of our original expectations, with upside coming mainly from Baidu Core.
+
+Looking into the fourth quarter, we expect Baidu Core revenues to grow on a year-over-year basis. On the cost side, our disciplined approach to managing resources and focusing on investment returns, coupled with the strengthening of Baidu's mobile ecosystem allowed us to deliver significant margin improvement sequentially. Adjusted EBITDA margin for Baidu Core reached 36% in the third quarter, up 1,200 basis points sequentially. As of October 31st, 2019, we have returned approximately $1.2 billion to our shareholders, $778 million under the 2018 Share Repurchase Program, which expired in June this year, and $397 million under the 2019 Share Repurchase Program.
+
+Operator, with that let's open the call to questions.
+
+Questions and Answers:
+
+Operator
+
+The question-and-answer session of this conference call will start in a moment. [Operator Instructions]. Your first question comes from the line of Alicia Yap from Citigroup. Please ask your question.
+
+Alicia Yap -- Citi -- Analyst
+
+Hi, thank you. Good morning, Robin, Herman and Juan. Thanks for taking my questions. Congrats on the improving results. My question is related to the priorities in the overall strategic initiative and also the investment spend. So can management share with us as we look out into the next one year to two years on the various strategic initiatives like the search mini program, Managed Page, the DuerOS and Apollo autonomous system and the cloud computing, what are the must be better among these, if you could share with us, in terms of the rankings of importance and in terms of the future revenue contribution in the orders of the ranking. As well as on the budget spend in terms of dollar amount, what are the percentage of the total spend if you can rank for us some of those initiatives?
+
+And then just lastly on the strategic equity stake that Baidu owns, could you comment or share with us if online travel is still considered as a strategic for Baidu or is that okay if Baidu doesn't have to necessarily own the equity stake in the future? Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Hi Alicia, this is Robin. I think our strategy has not changed very much. Our core business, which is the Baidu mobile ecosystem centered around search and feed, is very much knowledge and information based mobile ecosystem and we are leading in this part in China. Using the pillars like Baijiahao, smart mini program and Managed Page, we are fostering healthier and stronger ecosystem and this will continue to be the highest priority for Baidu. As our experiences in the Baidu mobile ecosystem continue to improve, we do not have to spend as much money to buy traffic as before. So, that's one of the reasons you see the margin improving on a quarter-over-quarter basis.
+
+And going forward, we think there are still a lot of things to do it in the mobile ecosystem area and we will continue to innovate and provide better and different user experience than the industry peers in China. And on the AI-enabled new businesses, we think, all are very promising. And DuerOS we think we are the very clear leader in the conversational AI space. It has cost us a lot of money in the past, but going forward, I think the overall loss will continue to narrow for the next one or two years.
+
+In Apollo, it’s morphing into more like a smart transportation total solution because most of the Chinese cities are very keen to work with us and improve on their transportation infrastructure. Cloud is more generic and we strive to use to leverage our AI capabilities to grow market share in areas that we are good at. And for travel, I think we are still very committed to partner with Trip.com and we are continuing to work closely with them on all fronts within our mobile ecosystem as well as with our AI capabilities.
+
+Alicia Yap -- Citi -- Analyst
+
+Thank you, Robin.
+
+Operator
+
+Your next question comes from the line of Piyush Mubayi from Goldman Sachs. Please ask your question.
+
+Piyush Mubayi -- Goldman Sachs -- Analyst
+
+Thank you for taking my question. Robin, Herman, just looking at the revenue line, could you take us through how you get a 25% traffic growth versus the revenue growth rate that you've seen, both on a year-on-year basis as well as on a sequential basis? And as we look into 2020, could you take us through, potentially, quarter-by-quarter the sort of time frame it would take for recovery in the key verticals that have monetized very well in the past? That's my first question.
+
+And second, looking at how well you've managed costs, it's been a very, very strong show. Over the last two quarters, your TAC is down from 18.2% to 15.4% of core revenue, bandwidth cost is down to 6.8% from 8.7%. SG&A has calmed down very nicely. Can we expect these trends to continue into the fourth quarter and 2020? Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Okay, I'll answer your first question and Herman will answer the second one. On the first, I think because we continue to improve the user experience for Baidu App and we also try to direct users from third-party browser to the Baidu App. We're seeing strong traffic growth of our in-app search where users get much better experience. So there is going to be a virtuous circle for this kind of a user behavior.
+
+And the disparity between traffic growth and revenue growth is that we basically explained with all the headwinds, industry specific regulation, self-enforced discipline in certain industries like health care and macro. We also think that we need to improve on our self-management system. So, this thing I think will be temporary and we are also seeing the macro environment stabilizing. So, we do think that eventually the revenue will catch up with the traffic.
+
+Herman Yu -- Chief Financial Officer
+
+Yeah, hi Piyush. The question with regards to our cost structure, I think when you look into Q4, I think we said two things, right. We said that from Q2 to Q3 sequentially we're able to increase our non-GAAP operating margin and net margin for two reasons. One is the operational efficiency that we had driven and Robin talked about that. With the stronger mobile ecosystem, users are stickier, they're coming more for better technology searches and so forth. So, that's helping us.
+
+And the second factor is our cost management initiatives that we've employed. Obviously, these type of factors we'd be able to carry through going forward. So when we look at, for example, Q4, I expect we would have a similar impact as we did at Q3, meaning that the margin should be similar to Q3 if not better. We continue to look at other areas where we can implement cost management initiatives and we'll also continue to focus on operational efficiency.
+
+Piyush Mubayi -- Goldman Sachs -- Analyst
+
+Thank you.
+
+Operator
+
+Your next question comes from the line of Eddie Leung from BOAML. Please ask your question.
+
+Eddie Leung -- BofA Merrill Lynch -- Analyst
+
+Good morning. Two quick questions. The first one is about the advertising industries. Could you remind us the top advertising industries and especially, could you comment on the recent outlook? And then secondly, just a follow-up question, perhaps on Piyush's question about cost control. One thing that has been a bit volatile in past is the sales and marketing costs in the first quarter depending on any major branding campaign. So any color on the upcoming first quarter would be great. Thank you.
+
+Herman Yu -- Chief Financial Officer
+
+Hi, Eddie. Yeah, in our prepared remarks we talked about the industries that we think are doing well. I mentioned that education, retail, e-commerce and services sector did well, which are the areas that we have historically done well. I think the fact is that we're now enabling closed-loop transactions in Baidu App. We're able to allow people who come on our platform to do marketing services with the closed-loop experience, so that you can see continued improvement in conversion and it helps with our revenue growth and overall effectiveness of marketing. So, those are kind of trends that we're seeing.
+
+In regards to first quarter, I think first quarter historically has been the lowest quarter seasonality for us, if you look at the last few years. So we expect from Q4 into Q1 a down quarter because of basically seasonality. Like Q4, we're going to have a strong strength probably from e-commerce, retail and so forth, the Double 11 celebration and so forth. And then in the first quarter you're going to have a Chinese New Year. And so that kind of change we're going to expect down. Historically it’s down in the teens from Q4 to Q1, and we'll have better view of this as we progress and get closer to Q1.
+
+Eddie Leung -- BofA Merrill Lynch -- Analyst
+
+Herman, is there any major branding campaign planned for the Chinese New Year in 2020?
+
+Herman Yu -- Chief Financial Officer
+
+So far, we haven't finished planning for Q1. We've actually just started our planning for 2020. So right now, we don't see anything that -- particularly major branding campaign plans. Although, historically, as you saw last year, there was such campaigns with CCTV and so forth. I think that probably will -- we'll probably know better probably in a month or so once we're midway into our 2020 planning. But I think that typically, we're very strong with mobile. And during Chinese New Year, that's where mobile traffic is stronger relatively to PC. And that's really an opportunity for us to show the world the things – like the great products that we have in our mobile MEG and our SLG and so forth. So, that's something we'll be considering. But we'll have probably more information in a month or so.
+
+Eddie Leung -- BofA Merrill Lynch -- Analyst
+
+Understood. Thank you.
+
+Operator
+
+Your next question comes from the line of Ming Zhao from 86Research. Please ask your question.
+
+Ming Zhao -- 86Research -- Analyst
+
+Alright, thank you for taking my question. I'm asking question on behalf of our analyst Xueru Zhang. So management -- I think Robin you have talked about a lot of the exciting developments at Baidu and it's also great to see some stabilization in revenue quarter-over-quarter in the business. So, we want to maybe ask you to comment on -- if you see any major challenges for Baidu, because we feel so many opportunities at Baidu. So what are the major challenges do you see for Baidu these days?
+
+And the second question is, Herman, you commented a little bit about the different verticals’ performance right now. Can you expand it a little bit more to include verticals like auto, finance, real estate, travel, those verticals, so we can have a clear idea about the vertical performance? Especially, can we say the health care and brand advertising segments have bottomed? Because I think those are the two big draggers for the business? Thank you very much.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Yeah, I think we have two major challenges. One is on the mobile side. On the mobile side, as many of you know, a lot of the large mobile apps are very much closed ecosystem. So we -- it's not easy for us to index every piece of content as we did during the PC era. So what we're trying to do is to build our own mobile ecosystem so that content and services can be more native to the Baidu ecosystem. I think although these are the challenges, but these are also opportunities. Once we can build a healthy and a strong mobile ecosystem, the user experience will be more indigenous, meaning that our users get better experience and our customers expect better conversion. We are in the process of this kind of transitioning. So, that's why you see that traffic is probably a leading indicator that is growing, but the revenue side or the monetization side has not picked up that significantly.
+
+So going forward, we are continuing to push on the mobile ecosystem in fact with all of our organically built content and services. And on the AI side, I think that the main challenge is that the market does not grow as fast as some would expect. So that's why we still need to continue to invest in this kind of new initiatives. And waiting –for the market to become more mature so that we will be able to profit from that.
+
+Herman Yu -- Chief Financial Officer
+
+Okay. And let me talk little bit more about our revenue makeup. With regards to the verticals that you talked about, auto and financial services, those are both down, right? Automobile, as we know, a number of car unit sales this year is down. If you look at the industry, it's not doing as healthy. If you look at financial services, that's another area that has been down since Q1 this year that has been down – and this has been down pretty significantly.
+
+Travel, we've been focusing on building better products. We have good content. We've got a strategic relationship with Trip.com and so forth. So, travel overall has done well. It's one of our stronger verticals. With regards to health care, if you look at healthcare, we started introducing Managed Page last December. And at the end of March this year, we require that everyone who is doing advertising are using mobile on Baidu to switch over their H5 sites to our Managed Page. And that has put a damper in terms of revenue on those who would probably have put quality content. Customers just will now come to Baidu. And then, because we now have stronger control of the content that's on there and so forth, we are putting emphasis on ensuring that the content on our pages are good for our users.
+
+And we started then rolling out to our PC in July, which is less than 20% of total health care revenues in July. So Q3 really it’s a partial quarter hit, Q4 you’ll see a full quarter hit. So, we actually have seen most people -- customers who are switching over have switched over. So, we don't see too much of a difference from Q3 into Q4. This is -- we're halfway through the quarter. So as of right now, we don't see too much difference going from Q3 to Q4. But if you look at it overall, our revenue guidance for Baidu Core this quarter -- in the last few quarters we had more uncertainties and we started with a range of negative percentage. And this quarter, now we're guiding from 0% to 6%. So, we think that in terms of year-over-year growth, we're much better off in the last couple of quarters. I think in May we said that we’d come back with a 100-day plan. We executed very well from both topline and bottom line. And so, you're seeing our business getting more solid and with the revenue -- with the products that we talked about, the hosted marketing platforms with the strengthening mobile ecosystem. So that's helping us I think fight the current softer macroeconomic environment.
+
+Operator
+
+Your next question comes from the line of Gregory Zhao from Barclays. Please ask your question.
+
+Gregory Zhao -- Barclays -- Analyst
+
+Hi, Robin, Herman, Juan, thanks taking my question. So the first one is, so if we look at your TAC and your SG&A expense, so we’re going to see significant year-over-year and Q-on-Q decrease. So I just wanted to understand the trends going forward and the sustainability of the trend. And also, one more thing is the volume of your search query of the Baidu with the native app, I think last quarter you mentioned it's 20% year-over-year. So, do we have any update for this quarter? And also I want to understand the query volume, the growth in the third-party, the mobile browser and also on PC. Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Herman will answer this. First one I'll ask Dou Shen.
+
+Herman Yu -- Chief Financial Officer
+
+Okay. Hi, Greg. Yeah, so with regards to the two expense items, we talked about TAC. TAC still grew 5% year-over-year. I think TAC’s growth rate has levelled off. It's growing slower year-over-year than previous quarter. I think couple of things. Number one is, as we focus more on building our mobile ecosystem we're going to be relying more on in-app searches to grow our revenue. And we have been transitioning off this I think over the last year. I think The Street misinterpreted our strategy to move over into in-app services because in-app services, we are required to pay for channel costs upfront and then you would have revenues over the following quarters. When we look at the user lifetime with TAC, every dollar you spend get that revenue in that same quarter.
+
+So as our business model shifted and margins shifted and The Street took several quarters to understand that. So I think that's one issue. And I think overall, so far, I think the -- we are having still increasing other cost. I think TAC price is still increasing, but I think it's not hitting us as bad on margin as the previous quarters.
+
+With sales and marketing, as Robin mentioned, we were still spending heavily on sales and marketing. But on a year-over-year basis, we're down for sales and marketing plus G&A. I think we mentioned in our prepared remarks how much we spent for channel and promotional marketing is a function of investment return. Although we don't expect every dollar we spend to be -- to get a return in the same quarter, we would measure over the lifetime value of the users. So as the economy softens and we're seeing that the returns are not meeting the internal threshold that we had set, then we'll tone it back. So that's why, as we tone it back, you can see, for example, Baidu App is actually quite profitable because it's a good segment of our overall business.
+
+So I think with the economy like this, we'll be more careful in terms of spending. We're looking for a return that we can get. But as the economy gets better and we're seeing good returns, we might increase that in the future. But ultimately, we think that whatever we spend we can get the return back because we have a very sophisticated system internally to measure these kind of returns to the channel for promotional marketing.
+
+Dou Shen -- Senior Vice President
+
+Hi, Gregory, this is Dou. For the search volume, actually, the total mobile search volume, we still see a very good lift year-over-year. And specifically, for the in-app search, as Robin mentioned in the prepared remarks, actually we saw a 25% year-over-year lift. So actually, given the better experience in Baidu App search with Baijiahao and smart mini programs and the Managed Pages all together, so the experience is getting better measured by all the metrics we are using. Given that, we are going to see the momentum continue in terms of the in-app search traffic in total.
+
+Ming Zhao -- 86Research -- Analyst
+
+Thank you very much.
+
+Operator
+
+Your next question comes from the line of Grace Chen from Morgan Stanley. Please ask your question.
+
+Grace Chen -- Morgan Stanley -- Analyst
+
+Thank you for taking my question. My question is also about the online marketing business. It's good to hear that -- the management talked about the business environment overall stabilizing. But can you also elaborate a bit more about the outlook into 2020, specifically from the demand and supply side? The demand side, can you elaborate more about your observations about macro and ad budget for the next year? And from the supply side, can you give specific comment about the competition environment? Because I remember we talked about the app inventory supply increase earlier this year and how do you see that competitive environment will evolve into the next year? So that's my first question. And second question is about 5G. How do you expect the 5G opportunities will change or what kind of impact will that be to the overall internet business? Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Yeah, on the demand side I think, as I mentioned, overall we are seeing signs of stabilization, which means it's not getting worse. So we --- as we build a more solid and user-friendly mobile ecosystem, we'll be able to gradually get back the advertising budgets.
+
+And on the supply side, yes, there has been a sudden flash of new app inventories over the past year or so. We see that kind of speed of increase slowing down. So that is also kind of good for us. But ultimately, we focus on our own strengths, building the best mobile ecosystem for knowledge and information. Therefore, we can provide unique value to our customers and advertisers. The initiatives we talked about during the prepared remark all resulted in better conversion for our customers. Because the main stream of our revenues are basically pay-for-performance, as long as we can continue to improve the performance, we will be able to get more budget from our customers.
+
+And for 5G, I think that will give us more opportunities to innovate in a lot of fronts. On the mobile side, I think the video product features will continue to evolve and it could be very different from what we see today. And on the AI2B side, smart transportation, smart manufacturing, education, in fact we see opportunities to transform those business models in all kinds of different areas and industries.
+
+Grace Chen -- Morgan Stanley -- Analyst
+
+Thank you.
+
+Operator
+
+Your next question comes from the line of Binnie Wong from HSBC. Please ask your question.
+
+Binnie Wong -- HSBC -- Analyst
+
+Good morning, Robin, Herman and Juan. My question is on if we can dissect into the traffic growth of the 25%; how do you see that -- the drivers coming from search, feeds and video, just so that we can better understand that in terms of like how you see that will trend? And also, when do you see that can translate into faster revenue growth because we actually see our 4Q outlook is an acceleration from past few quarters? So I just wanted to see how we should see that maybe seeing the upside on feeds and video can translate into faster growth there.
+
+And then also -- second question is also in the opening of the press release. I think Robin mentioned that your in-app search has really also gained shares -- market share. Can you comment on user behavior in terms of search usage as we see rising competition from newsfeed platform launching their search function earlier and also, of course, against the largest social network also people searching within the moment? So can you comment on those? Thank you.
+
+Dou Shen -- Senior Vice President
+
+Okay, for the video question. So the video question actually, it's right, there has been -- there has been an explosive growth in China's short video sectors in recent years. And -- but we believe that it's far from being game over yet. Actually, for us we distributed the short videos not only through our video apps but also through the Baidu apps. So actually, in Robin's prepared remarks, he already mentioned that for the short videos, the distribution is through Baidu App and the video app, so we see the time spent up to like 35% year-over-year, actually.
+
+So, not only for the videos itself, like even in search we see that search satisfied through videos are being increased almost 50% year-over-year. So put that together, we see video is actually playing a very important role in Baidu's whole ecosystem, so actually -- especially with the 5G and over the years, so we're going to see more applications of videos in Baidu's ecosystem. Then, what's the second question?
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Let me answer the competition question. I think search has a very high barrier to entry, and it takes a long time and the user behavior having formed. So, it's not that easy to change user behavior from a browsing habit to a search habit because for browsing, users do not need to do much, so it's easier to do browsing. If you ask them -- if you ask someone to transform from an easier-to-do thing to a harder-to-do thing, that's not that easy. But on the other end, if you want to transform those users who are used to search, who are used to typing or express their needs explicitly to a browsing behavior, that's much easier. So, that's why it's easier for Baidu to do feed but it's harder for a feed player to do search.
+
+And on top of that, I think the technology barrier to search is very high. If you can solve the search problem, you basically solve the AGI problem, artificial general intelligence, because whatever the users say, you have to be able to understand that and come up with relevant results, which requires a lot of research, lot of investment, and it's a very hard problem.
+
+Binnie Wong -- HSBC -- Analyst
+
+Okay, thank you. And just a follow-up here is that in terms of the traffic growth, when do management see that can translate into potentially a faster revenue growth and outlook into 2020? Thank you.
+
+Dou Shen -- Senior Vice President
+
+I think -- so for the marketing customers, right, so what we really care about is the effective traffic. So with the Managed Pages, smart mini programs, actually we see more and more examples where the customers, when they use these services, their ROI are being improved. So it's really hard to say how we are going to turn that into numbers, but we do see the trend is going up. And actually, as Robin mentioned in the opening remarks, more and more marketing customers are adopting our Managed Pages actually. So we are seeing improvement over ROI. So that is going to turn into revenue lift, but it's hard to say the specific number.

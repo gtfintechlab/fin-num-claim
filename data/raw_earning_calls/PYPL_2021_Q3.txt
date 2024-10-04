@@ -1,0 +1,526 @@
+1
+Third Quarter 2021 Buyside Call | November 9, 2021
+C O R P O R A T E P A R T I C I P A N T S
+John Rainey, Chief Financial Officer and Executive Vice President, Global Customer Operations
+Erica Gessert, Senior Vice President, Finance and Analytics
+Gabrielle Rabinovitch, Senior Vice President, Corporate Finance & Investor Relations
+C O N F E R E N C E C A L L H O S T
+Jason Kupferberg, BofA Securities
+P R E S E N T A T I O N
+Operator
+This call is not for media representatives or BofA securities investment bankers or commercial bankers,
+including corporate and commercial FX. All such individuals are instructed to disconnect now. A replay 
+will be available for BofA securities investment bankers and commercial bankers, including corporate 
+and commercial FX. The replay is not available to the media. Good day and welcome to the PayPal 3Q21 
+post earnings buy-side call. Today's call is being recorded. I would now like to turn the call over to Jason 
+Kupferberg. Please go ahead.
+Jason Kupferberg
+Thanks Lauren. And thanks everyone for joining us for the quarterly buy-side callback. We have John 
+Rainey, CFO. We also have Gabrielle, SVP Corporate Finance and Investor Relations and Erica Gessert, 
+SVP Finance, Planning & Analytics. And thank you guys for taking time. I know there's a lot to discuss 
+today. So maybe I'll just jump in with the first question I wanted to ask. 
+You know, clearly, eBay has created a fair amount of noise over the past few quarters, but actually exeBay, you laid out the numbers pretty clearly. There's momentum there. I think you were up 25% 
+revenue-wise in Q3. So maybe just talk about the underlying trends that have been supporting those 
+numbers and how those trends help inform the medium-term outlook, which obviously you guys 
+reiterated last night.
+Third Quarter 2021 Buyside Call | November 9, 2021
+2
+John Rainey
+Sure. Jason. Wanted to start by thanking everyone for joining the call and thanking you for hosting this.
+We look forward to the questions that you all have and being able to address those. You're right. It's one 
+of the reasons that we have focused so much on the ex-eBay results, because I believe that that is the 
+best indicator of what the future of PayPal looks like as we continue to rely less and less on eBay for our 
+financial performance. And there's a slew of different metrics that I could point you to, but a couple that 
+stand out to me that I think are really important as you think about what we're doing over the next few 
+years. And I'll start with our engagement.
+Engagement increased 10% for the quarter, but if you exclude the effect of eBay, it's actually almost 
+20% and that is precisely what we want to see with some of the new experiences that we're rolling out, 
+because that also has a large impact on our active account numbers through reductions in churn. And so
+very excited about that, but whether you look at TPV that grew over 30% ex-eBay or revenue that was 
+25%. Even transaction revenue was roughly 23% y/y ex-eBay and shows that the core business is 
+performing very well.
+And while the margin performance for the quarter, or maybe said differently the year-over-year 
+earnings growth was, maybe more tepid. I think it's important to note, and I talked about this in my 
+prepared remarks yesterday, we had almost a 30-cent headwind from transaction margin dollars from 
+eBay, and yet we're still showing earnings growth year over year. And so, you know, we look forward to 
+getting past these time periods where we're focusing so much on eBay, but the core business is 
+performing very well, which is why we're focused so much on that.
+Jason Kupferberg
+Okay. Okay. So maybe we can talk about Q4. I know that the revenue guidance was revised down about 
+6%, and I'm hoping you could maybe break that in terms of contribution to that downward revision 
+among the various factors that you cited on the call, supply chain, stimulus, expiration, reopening. And 
+maybe as part of that, can you just expand on your comment from the call last night that the business 
+seemed to be trending better in recent days? And have you assumed that that trend line of 
+improvement prevails during the balance of Q4?
+John Rainey
+Sure. Happy to address that. I'll start with the revised guidance that we provided yesterday. It’s really on 
+top of exactly what we provided for the beginning of the year, slightly less on it from a revenue 
+perspective, but to be coming in that close to a number that we put out in the January timeframe. I 
+think it shows the stability of our business and the core trends. It's difficult, Jason, to at least with any 
+precision to be able to ascribe how much of this is due to supply chain versus stimulus versus reopening.
+As we got into at the time of the first quarter where we increased our guidance for the year, we were 
+seeing more pronounced effects from the virus and some of the measures that accompany that with
+people doing more e-commerce. We have to make some assumptions about the persistence of that, 
+how much that continues. And frankly, we got it wrong. I mean, I've talked about the difficulty in 
+forecasting in this environment, so we got a little ahead of ourselves, but as we look right now, certainly, 
+if it weren't difficult enough to forecast with the reopening of the economy, we overlay eBay on top of 
+Third Quarter 2021 Buyside Call | November 9, 2021
+3
+that supply chain issues and inflationary pressures and the impact that that can have on our business.
+And it makes it very complex to forecast.
+As we sit here right now, trends are actually looking pretty good, but we also recognize that for the very 
+reason that I just mentioned some of the concerns around supply chain, there's likely some pull forward 
+of holiday shopping. And so, we don't want to get ahead of ourselves and assume that that happens for 
+the duration of the quarter. We could find ourselves getting to the back half of December and that being 
+softer than what we expect. So that caused us to adopt a more cautious stance on the balance of the 
+quarter. But again, I think if you step back and you think about where we are as a business, it's right on 
+where we started the year, which was importantly the basis for the first year of our medium-term plan.
+So, we feel really good about that and disappointed that we are where we are with bringing down the 
+fourth quarter, but it doesn't cause us to have any less conviction about the opportunities that we have 
+over the next four or five years and what we can do.
+Jason Kupferberg
+Okay. Yeah, no, look, it's a good point. I think you’re still ending up at 17% overall constant currency 
+revenue growth, but the beginning of the year you thought you'd have a four-point headwind from eBay 
+and now it's seven. So that's clearly a positive. So, I guess maybe we can talk about net new adds. I know 
+the outlook now includes 3 million benefit from the NNAs acquisition [from Paidy]. So, it seems like the 
+Q4 NNAs are coming in a little bit lower than you might have otherwise expected. Can you just talk 
+about the drivers of that dynamic?
+John Rainey
+Yeah. Well, this answer is going to be similar to my last one in so far as, as we sit here today, and we go 
+back to the beginning and compare to the beginning of the year. Our net new actives are going to do 
+better than what we originally expected on an organic basis. So, I'm excluding Paidy from that. So, we 
+perform very well there. Again, we've seen strong correlation with shelter in place or locked down and 
+net new active trends on the top of the funnel. And so that's driven some of the results over the last 
+year and a half. And so, as we were sitting there in the first quarter with an expectation that some of 
+that would persist longer than it actually has, that caused us to increase our guidance around that new 
+actives.
+[Low quality new actives] is not something that we want to chase as a company, and we can certainly go 
+out and spend money on customer acquisition and get very low value net new actives to inflate or pump 
+up that number, but that's not the right economic decision for us longer term. And I've got confidence in 
+where we are longer term around net new actives. We consistently put out aggressive numbers. I think 
+this is one that falls into that category, but historically we've done a pretty good job of achieving that 
+performance. As we look forward over the next several years, more of that growth is going to come 
+through retention of the bottom of the funnel, where we focus a lot on our churn metrics. And as we 
+have experiences that improve engagement, that will certainly help there. And then international 
+expansion is another one that, I think has a real opportunity for us to increase that number over the 
+next few years.
+Third Quarter 2021 Buyside Call | November 9, 2021
+4
+Jason Kupferberg
+Yeah. So that does bring me to a broader question that I was going to ask on the NNAs, which you may 
+have just partially answered, but, you know, we look at the 2025 target from the analyst day, 750 million 
+plus actives. So straight math, right? You'll need about 80 million per year on average over the next four 
+years versus the 55 million that you're looking do this current year. So, is it just mostly, you know, 
+reduced churn because of better experiences and then the international opportunity or anything else 
+you would add on top of that?
+John Rainey
+I put it into three big categories, and Erica may want to jump in after I answer. It is what you mentioned, 
+it's the reduction of churn. And then the increase in experiences, and those are certainly related. But as 
+the digital wallet becomes more prominent over the next few years and there are more ways to engage 
+with us, that has a direct effect on both the top and the bottom of the funnel. If people are engaged 
+then, they're obviously not churning out, but at the same time, as we give them more ways to use the 
+PayPal or Venmo wallet, it's more enticing for them to come to us in the first place.
+And then the last category, and maybe this is sort of a category and a half here, but international 
+expansion, we've talked a lot about some of the markets that are more appealing to us. Japan obviously 
+is very close if not at the top of that list. And you can see that through our acquisition of Paidy. But 
+we've also talked about adding another international market with Venmo. And I think that's a pretty 
+important opportunity that's included in our five-year guide that will help us to get to those numbers. I 
+will say, as you can tell from our [initial] guidance this year versus our medium-term plan, which, you 
+know, those were weeks apart, so very connected. We had always contemplated that this would be--the 
+net new active growth would be more back-end loaded.
+Jason Kupferberg
+Okay. Understood. Understood. I wanted to come back just to the stimulus effects. I mean, some of the 
+broader spending data that we track has shown a definite deceleration in debit growth, particularly 
+among the lower income demographic, given the expiration of the stimulus, but at the same time, 
+there's been improvement in credit volumes among higher income cohorts. So just wondering why 
+perhaps that type of offset doesn't seem to be coming through in PayPal's numbers. Can you maybe 
+touch on some of the verticals that you're seeing impacted the most by the expiration of the stimulus?
+John Rainey
+Well, so I would argue that it is coming through in our numbers a little bit. We are clearly structurally at 
+a much higher debit level than we were pre-COVID and we expect to remain there. There has 
+unquestionably been a pull forward in e-commerce. Stimulus did have an impact, no doubt about it. It 
+was an added benefit in those periods where consumers were able to avail themselves of that, and you 
+see that through P2P metrics. You certainly see it among the lower income demographic as you alluded 
+to. And so, you know, we don't have an expectation that that's going to necessarily continue, but we are 
+structurally much higher than where we were before.
+From a vertical perspective, a couple of verticals that stand out to us as still some of our higher 
+performing verticals are obviously food and grocery. It is still up 90% year on year, and then retail. We 
+Third Quarter 2021 Buyside Call | November 9, 2021
+5
+continue to see a really strong performance there. I think some of the more kind of work from home 
+verticals that were like home and garden and home improvement. We've seen some declines in those. I 
+guess there's only so many times that one can refurbish the bathroom or add a garden or whatever, and 
+so that's a decline from its peak. But overall, we are structurally at a much higher level than we were 
+when we entered the pandemic.
+Jason Kupferberg
+Right. So maybe we can talk about the preliminary outlook for 2022 revenue growth. We talked about 
+18%. And so that's about the same that 2021 is tracking to despite a lessening headwind from eBay. So,
+can we just unpack some of the various moving parts that seem to be netting out to kind of a steady 
+growth profile potentially for next year, rather than the kind of more meaningful acceleration that I 
+think the market probably expected?
+John Rainey
+Sure. Well, again, apologies for sounding like a broken record, but I think the ex-eBay number is an 
+important one and implied in that 18% indication around where we think revenue will come in next 
+year. Implied in that is a 22% revenue growth ex-eBay. So that does show that the business is 
+performing well. The first half of the year is going to be the most challenging from a year over year 
+growth perspective. The first quarter will likely look something similar to the fourth quarter [of 2021].
+And that's in part, because we are lapping a period where there was more stimulus and that probably 
+applies actually to the first half of the year, but also the impact from eBay is more pronounced in the 
+first and second quarter as they had not really moved the vast majority of their managed payments over 
+yet.
+So, we're going to have more pressure in the first half of next year. Then we expect revenue acceleration 
+and then overall, even including eBay as we exit the year, we expect to be at or above our medium-term 
+guidance, which is a great exit point as we go into the next three years of our medium-term guidance.
+And we feel really good about it. I also add that credit has a dynamic next year. We've seen just in the 
+last few quarters, 50% growth and other value-added services, the predominant driver there being 
+credit. We have an expectation, right or wrong that, that moderates substantially next year. And so,
+we're going to see a growth in the OVAS line that is probably less than the overall growth that we expect 
+for PayPal for the year.
+Jason Kupferberg
+Okay that's good color. And I wanted to pick up on the comment you just made around potential exit 
+rate coming out of 2022, because obviously one of the questions we've been getting today is, you know, 
+if you come in at 18% portfolio year 2022, how do you make up the ground that you would need to over 
+the three years to get to the 20% CAGR through 2025 from the analyst day. So, it sounds like you're 
+basically saying it's going to be just, you know, abating of some of these transitory headwinds more than 
+anything else, but I'm just wondering if there's anything else you would highlight as part of that. Is there 
+any more intense competition that you guys feel like has emerged recently than may have been 
+envisioned six to nine months ago?
+Third Quarter 2021 Buyside Call | November 9, 2021
+6
+John Rainey
+I'll start with the last part of your question there, and the answer is no. We've always operated in a 
+hyper competitive environment where there's a lot of new entrance coming in. There are some legacy 
+players that have incumbent positions and we've demonstrated that when we go head-to-head with 
+them at check out, we perform better than everyone else. And that’s not to say that we don't have a lot 
+of room for improvement there. We certainly recognize that, and we're very focused on that, but the 
+competitive pressures have persisted for some time and we consistently demonstrate that we've been 
+able to grow faster than the market. So, feel pretty good about where we are there.
+I think more broadly, Jason, as you mentioned in your question, sort of addressing accelerating growth 
+rates, any of us that have ever modeled any company probably have assumed that there's declining 
+growth rates over time, and that's generally true, right? As you get larger, it's harder to grow, but it's a 
+little bit different for us because of this impact of eBay where, you know, eBay has been growing much 
+slower than the rest of our business and has been a meaningful part of our business for several years.
+And so, as we rely less on them going forward, we're seeing all the other elements of our business, the 
+merchant services specifically that are growing at a much faster rate. We've demonstrated that 
+consistently for five years, and we hope to be able to prove to you that we will over the next five years.
+So, our business has got a great opportunity in front of it. And we'll get in 2022, certainly towards the 
+back end. We're going to get to a period where there is a more apples to apples comparison. And we 
+don't have some of the noise from eBay, some of the noise, hopefully from the transitory and 
+exogenous factors that are affecting us right now, and we can just focus on what's really happening in 
+core e-commerce.
+Erica Gessert
+John, can I just add a couple of points on that too? We actually have a large number of new growth 
+vectors too that are actually kind of already launched, like buy now, pay later. We've launched shortterm installments. We're launching long-term installments next year. Venmo monetization, I think the 
+Amazon deal shows that we're just at the beginning of that journey. Other things like our BCDC
+[Blockchain, Crypto and Digital Currencies] business unit, crypto buy, sell, hold, all of those things are 
+actually relatively early on in their growth cycle. So, you know, we actually have a number of growth 
+vectors. As one of the head modelers in the company, I certainly sympathize with people who are kind 
+of looking at our trends and trying to figure it out, but that gives us a lot of confidence. These are 
+actually already proven monetization trends that are just playing out.
+Jason Kupferberg
+Right, right. That's a good point. You've probably got more active, organic growth initiatives now than at 
+any point in the company's history. So, thanks for adding that. Maybe we can just--and I do want to 
+come back to some of that a little bit more later in the discussion, but we also did get a lot of questions 
+from people around operating margins for 2022. And, you know, we've tried to run some rough math of 
+our own on that, and it does seem like the operating margins could be down year over year in 2022, 
+even though you're getting positive leverage from non-transaction expense, just because of the 
+headwinds from provision and maybe some further normalization of transaction expense. But I'm 
+wanting to see if that is a fair comment and anything you could share in terms of your thoughts next 
+year, directionally on transaction expense, you know, transaction loss, loan loss.
+Third Quarter 2021 Buyside Call | November 9, 2021
+7
+John Rainey
+Sure, sure. Happy to, Jason. So, with what we laid out yesterday, specifically highlighting the 10 points of 
+impact from reserve and increase in tax expense, as well as the high single digits of operating expense 
+growth, one could conclude that margins will be down. I'll add that if we were to normalize for just the 
+reserve release, then we could actually see some margin expansion. Again, we're still in the throes of 
+our budget process, so a little early to say that, but I also strongly believe that seeking to have margin 
+expansion in every single period is not the right way to manage this company to increase or to maximize 
+shareholder value over the long-term.
+We have opportunities to invest and Erica just outlined a number of them, that are huge opportunities 
+that do require some investment, but also have enormous ROI potential. And so, we're managing the 
+company to actually have the type of stock price performance over the next five years that we have over
+the last five years. And so, I think that our margins are going to go up over time, but in any one period, 
+that may not be the outcome. So, I would just emphasize that. In terms of some of the items that you 
+mentioned, sort of more specifically on our expense base, you know, we've suggested that transaction 
+expense, a good way to think about it over the next few years is probably that mid-eighties basis points, 
+and we came in at 83 [basis points] for the quarter. We might see a little bit of inflation there, but 
+there's also some offsetting impacts to that as we think about like the growth of Venmo.
+Venmo tends to carry a lower transaction expense than other parts of our business. And so, depending 
+upon the success of that, we can actually see that come down the other way. On transaction losses, this 
+has been quite the journey there to see where we are today at nine basis points, which is an historical 
+low for us. I've been a little guarded and almost discouraged investors from assuming that we can 
+continue that forever, but we're doing it, and we're showing that we've continued to perform at that 
+level of performance. So, I think that's probably a good way to think about our business over the longer 
+term is maintaining that lower level of transaction losses relative to what we were doing historically.
+The last piece I'll mention there, Jason is around credit losses and that's certainly been overall a benefit 
+to us this year. I would expect that to normalize next year and in the years thereafter something more 
+similar to what we've seen historically, but I'll put an asterisk on that because, you know, depending 
+upon how much of that comes from our installment pay product, that has a very low loss rate because 
+of the short duration nature of that. And so that could actually cause that to be a little bit lower than 
+what we've seen sort of historically, and by historically, I'm referring to kind of pre-2020. We’ve had a 
+lot of noise because of the reserve build and then the reserve release in the last two years.
+Jason Kupferberg
+Right, right. Okay. Yeah, no, that's a good point. I mean, I guess if you look at credit pre-pandemic, I 
+think the loan losses were running, I'll call it, around five [basis points] of TPV. So, it sounds like that's 
+kind of the benchmark. And then, like you said, depending on BNPL mix, you know, maybe you can do a 
+little bit better, but probably not too much because obviously you're continuing to expand the loan book 
+here as the macro is improving.
+John Rainey
+Yeah. That's absolutely the right way to think about that.
+Third Quarter 2021 Buyside Call | November 9, 2021
+8
+Jason Kupferberg
+Okay. Okay. Let's talk about transaction take rate, and how would you encourage us to think about that 
+for Q4 and for 2022? I know there's a bunch of puts and takes in that.
+John Rainey
+Sure. So, starting with the bigger picture, when we guided our medium-term guidance, we talked about 
+revenue growth of 20% and TPV growth of mid-twenties. And so implied in that is a somewhat of a 
+decline in take rate over time. And that's just the natural result of some of the mix changes in our 
+business. And so that still holds true. We've seen more acute pressure in the first half of this year 
+because of the dynamics from eBay and also a little bit because of the expansion into bill pay, which 
+carries a lower transaction rate, but also carries a much lower transaction expense as well. We saw that 
+effect moderate in the third quarter.
+And I think it's most represented by us basically being flat quarter over quarter in our take rate. But if 
+you decompose what actually happened in the third quarter around take rates, over half of that was 
+related to eBay. And again, we will get past that, and so you can kind of, from a long-term perspective, 
+throw that out of the equation. Another factor, probably the second biggest factor this quarter for us 
+was a decline in foreign currency fees. And for the benefit of everyone on the call, when a customer 
+does a cross-border cross-currency transaction, we are able to monetize that by taking the difference 
+between the high and the low on those currency spreads. So, what that means is that in a more volatile 
+currency environment, we're able to monetize that more.
+And so, this quarter or the third quarter that we just reported was comparing to the third quarter last 
+year, where we had more of that currency volatility. And so, the effect of that year over year was a five 
+[basis point] decline in our take rate. That is going to swing one way to the other, depending upon what 
+happens in the currency market over time. But certainly, that's not something that I think is a 
+permanent drag in any way on our business.
+And then the last piece that I would mention, Jason, is our hedge positions as the dollar strengthened 
+relative to the major currencies that we hedge against in the quarter. We had a $44 million hedge loss 
+and that was about a $30 million delta year over year, and so that has an impact as well. But if you take 
+all those aside, you know, what's left in the business is just kind of the normal changes that we see from 
+a mixed perspective as certain parts of our business grow faster than others and probably pretty 
+representative of what we expect going forward.
+Jason Kupferberg
+Okay. Okay. Got it. Got it. And I guess pricing will play a role as well. You had the August price increase 
+and I think perhaps you were building some other potential pricing actions into the initial revenue 
+forecast for next year.
+John Rainey
+Yes. We always have some assumption around price optimization in our plan, and that's true for next 
+year as well. I will say and I think I talked about this on the analyst call yesterday, but the pricing change 
+Third Quarter 2021 Buyside Call | November 9, 2021
+9
+that we implemented at the beginning of August is arguably the most successful that we've had in our 
+history. And not that we've changed our headline pricing a lot, but we've tweaked things here and there 
+over time. And in part I'm making that assessment because of the feedback that we received or more 
+specifically the lack of feedback that we've received from merchants.
+So, I keep in mind that I have customer support that reports up through me. And when we typically 
+upset a merchant, we hear about it. They contact us, they let us know. And I think in part that one of the 
+reasons that this pricing change was so well received among the customer base that was impacted is 
+because they truly see the value that's being created by PayPal, and we're simply pricing to that value.
+And so, a good example, I think Erica mentioned this yesterday, but is buy now, pay later. We effectively 
+offer that product for free [it is included in the merchant take rate].
+And so, we decided that when we look at the suite of services that we provide for our merchants around 
+fraud protection and installment pay products and things like that, that we can price higher to that 
+value. And that's exactly what we've done. Merchants appreciate the value that we bring. And that 
+actually emboldens our thinking a little bit as we think about the future and other price changes that we 
+can make or other entities that we can apply those price changes to.
+Jason Kupferberg
+Okay. Okay. And so just to put a finer point on Q4, I guess we're kind of shaking out with a transaction 
+take rate, pretty similar to Q3 in terms of the absolute number, once you net out these moving parts, 
+does that seem reasonable?
+John Rainey
+Yeah, that's pretty reasonable.
+Jason Kupferberg
+Okay. Okay. So, let's maybe talk a little bit about the balance sheet and cashflow obviously continues to 
+be a bright spot, and maybe you can just walk us through really the near and the medium-term capital
+allocation priorities. And has there been any shifts in the priorities this year? It kind of sounded from 
+Dan's comments last night that particularly large M&A seems relatively unlikely. So, we just appreciate 
+your thoughts on all that.
+John Rainey
+Sure. Happy to address that. Well, I'll start with- I think one of the most appealing things about our 
+business is the strong cash generation that we have. In the quarter, we had $1.3 billion of free cash flow, 
+and again, that's north of a 20% free cash flow margin for our business. And that allows us to allocate 
+capital in a lot of ways to try to create shareholder value. One of those is through merger and 
+acquisition type activity. And to just be very clear and cut to the chase on here, nothing has changed in 
+terms of our capital allocation [priorities] or the types of companies that we're looking to acquire.
+I know there's been a lot of speculation and concern around the room, but one has to appreciate that 
+for every deal that we announced there are 99 that we look at that we don't announce. And we do have 
+pretty stringent return requirements around the deals that we do. But simply because we think that the 
+Third Quarter 2021 Buyside Call | November 9, 2021
+10
+right strategy for us is to look at smaller tuck-in acquisitions, that does not preclude looking at more 
+transformative deals. We will do that from time to time, and we'll continue to do that because if we find 
+a deal like that, that we think is an accelerant to shareholder value creation, then it's our duty to do 
+that.
+And so, we're always going to look at deals like that, but those are rare. Those are anomalous. That is 
+not how we're thinking about our business going forward. I want to be very clear, like we don't have 
+cash that is burning a hole in our pocket, we feel the need to go spend it simply because there's a deal 
+to be done. First and foremost, the lens by which we look through all of these deals is what will it do to 
+shareholder value? The other thing I'll say is that, and I emphasize this on the call yesterday, we don't 
+need to go do a deal like that to achieve our medium-term guidance. Let me be very clear. Now, we'll do 
+some smaller deals like Paidy and so forth like that, that will be accelerants to the achievement of that, 
+but it is not as if we need to go do a deal like the one that has been speculated. I'll also say just one last 
+point on this, Jason, like one can read in a lot to rumors that are out there and they have a tendency to 
+get ahead of themselves.
+And so, you know, as a sort of hypothetical example, like even rumors like that can happen when maybe 
+we haven't even begun due diligence and to do a deal with a public company like that, you actually have 
+to go through the diligence process to understand what that core business is doing. What are the 
+synergistic opportunities that you have? And so, there are certain requirements to actually determine 
+whether you want to do a deal like that or not.[]
+Jason Kupferberg
+That's great color, really appreciate that. So, let's move on to Amazon. That was an exciting 
+announcement. Obviously, a big highlight from the earnings report. And I guess our initial assumption is 
+that Amazon will move the needle more on TPV than on revenue, just given that it’s Amazon. So maybe 
+you can just kind of comment on that assumption. And to what extent do you perhaps expect some kind 
+of favorable halo effect for Venmo engagement, just more broadly from the Amazon acceptance?
+John Rainey
+Sure. So, you are correct. You can expect that the Amazon deal will drive more TPV growth than revenue 
+growth with any large merchant like that. Even we experienced this ourselves. There is more pricing 
+power, the larger that you are. And so, it's reasonable to assume that in this deal as well. That said it's a 
+good deal for us if we just look at the direct economics of that. But I think the bigger story there is 
+around the breadth of presentment that provides for our Venmo customers to have that as an option to 
+shop at one of, if not the largest e-commerce player in the world. We're quite excited about that. And 
+look hopeful that maybe we can even expand upon that in the future, but that's not in the works at this 
+moment and we'll take this step-by-step. We’ve got pretty-measured expectations around this.
+In fact, we shouldn't even assume that there's a full run rate benefit of that next year, because there's 
+going to take some time to actually work through the details of what the experience is on the Amazon 
+website. And so, you know, it'll be sometime next year when our customers begin to see this as an 
+option, but really excited about what this does for our business. And look, as I said yesterday, this is the 
+other side of the eBay coin. This is not something that we could have done if we were still tethered to 
+eBay in the way that we were before. And I know that investors have been patiently waiting for 
+Third Quarter 2021 Buyside Call | November 9, 2021
+11
+something like this. And so, we're quite excited to announce it and then hopefully build upon it in the 
+future.
+Jason Kupferberg
+Right, right, right. So just as a rough frame of reference, I mean, would you be encouraging people to 
+think about the go-live more in the earlier part of the year, the middle part of the year, the latter part of 
+the year? I know you can't be precise, but just, you know, to manage people's expectations.
+John Rainey
+Well, I'm fortunate in that I don't have the burden of knowledge here because I actually don't know 
+what the teams have discussed, but I would say an integration like this typically I would hope that we 
+could do it in the first half of next year.
+Jason Kupferberg
+Okay. Okay. That's helpful. And I assume when you mentioned, you know, potentially who knowsexpanding this relationship in theory, who knows maybe even including core PayPal acceptance.
+John Rainey
+We would certainly hope for that, but I'll also share with you that we work with Amazon in other ways.
+So, as an example, they're one of Paidy’s largest customers. We work with them there. We also work 
+with Amazon through our Hyperwallet product that does payouts. Now, you know, it's a much smaller 
+part of our overall business, but I think we're excited about the direction of travel here, deepening our 
+relationship with Amazon. And if we were in the future able to expand and build upon this even more to 
+include PayPal, that would be great.
+Jason Kupferberg
+Right. Right. And so, I guess, just in terms of sort of framing, timing and materiality, perhaps it doesn't 
+move the needle that much on Venmo revenue growth until 2023.
+John Rainey
+Hopefully, there's some impact next year. But I was asked the question yesterday in some of our calls 
+after the earnings call and some people were saying, well, if I start with Amazon's total GMV, and that's 
+like the wrong way to start. The numbers are too big at that point. So, we've got pretty modest 
+expectations around this. We do have something included in the revenue guidance that we provided 
+yesterday. We do have an assumption around this, but it'll be more meaningful in 2023, but there'll be 
+some impact next year.
+Jason Kupferberg
+Yes, yes. It always takes time to ramp. So, PayPal is already one of the most accepted digital wallets 
+online and just wondering what can you continue to do to expand, present even further and increase 
+share, you know, other ways you can maybe work with large merchants because we do always get the 
+Third Quarter 2021 Buyside Call | November 9, 2021
+12
+question from time to time, particularly in markets like the US, you know, is PayPal getting close to full 
+penetration from a merchant acceptance standpoint?
+John Rainey
+So, I would summarize my answer here by saying, this is a huge opportunity for us. And so, appreciate 
+Jason that, you know, we see our checkout experiences across a range of merchants. So, we've got over 
+30 million merchants that we see this. And with some of those merchants, we have a very high share of 
+checkout and others much less. And as I've noted in the past, when we look at our customer base and 
+their usage of PayPal on our merchants, we could double the size of our business without ever adding 
+another customer if people just used us when they could. And so, they're not even using PayPal all the 
+time that they can.
+And so, our takeaway from that is we have a huge opportunity to improve those experiences where we 
+don't have a high share of checkout to make it more similar to the experiences where we do have a high 
+share of checkout. And so, one of the things that Dan talked about yesterday was Walmart. Walmart is a 
+great example. PayPal is a form of payment on Walmart today, and until recently you had to go to like 
+the third page of checkout options to actually get to us. And so, no one wants to do that. You're not 
+going to use PayPal if you have to do three more clicks. [Today we have much better presentment on 
+Walmart, showing on the first payment screen.] And so, it's those types of things that we can tweak that 
+as a huge opportunity for us.
+And so, you know, winning checkout is arguably one of, if not the single greatest opportunities for us as 
+we look over the next few years. And we've got a huge effort on that internally, where we would go 
+through every one of our top merchants and we assess where are we deficient? What can we do better? 
+Where can we bring more value to that merchant in a way that helps that merchant, but also helps 
+PayPal and gets us to have a larger share of checkout.
+Jason Kupferberg
+Okay. Yes. Understood. Want to make sure we have time to talk about paying for- obviously you guys 
+have accomplished a lot in BNPL in a relatively short period of time. I guess, how would you assess your 
+progress there? I guess it's been a year plus since you entered the market. And then just talk about the 
+BNPL roadmap going forward. I know there were some comments last night about pushing into some 
+longer duration loans and higher limits. What could that do for the growth here off of the--I guess you're 
+at about an $8 billion annualized run rate already.
+John Rainey
+Yeah, well, I think that's a good starting point to address the question is to be at $8 billion already, I 
+think is a strong indicator of the success of this program already. And as Dan noted on his call- on the 
+call yesterday in his remarks, we're rolling this out to Italy and Spain in the next quarter. We're really, 
+really excited about this. It has been arguably one of the more successful product launches that we've 
+had and pleased that we were able to do this organically at a fraction of the cost of what others have 
+had to go do. And so, we've got great experiences.
+We're continuing to focus on upstream presentment with merchants because we see the strong value 
+there. But, you know, one of the things that I look at, Jason, that is sort of an indicator for future success 
+Third Quarter 2021 Buyside Call | November 9, 2021
+13
+is what is the experience or how are consumers using this? And does it have the halo effect that we 
+anticipated when we first rolled this out? And the answer to that is an absolute yes. And so, one of the 
+things that we look at is like the engagement lifts and that can be measured in transactions or TPV.
+Those customers that are using our installment paid product, our buy now pay later product, have a 21% 
+increase in engagement, relative to other customers.
+And so that is like precisely what we want to see and fits exactly to the thesis that we laid out around 
+adding all these experiences to increase the level of engagement of our customers. And again, you see 
+that even from a more macro perspective, as I started the call saying that ex-eBay, our engagement was 
+up 18% in the quarter. So really excited about this. The $8 billion in run rate, I think, compares very 
+favorably to others that have been in this business for a while. And I think there's an important 
+takeaway from that because when we roll out products like this, given the scale that we have, the reach 
+that we have with over 400 million customers around the world, we're able to really accelerate the 
+impact of that. And so, it's things like that that get us quite excited as we talk about other products that 
+we want to roll out savings account or whatever the example may be, because we can do that at scale 
+very quickly.
+Jason Kupferberg
+Right. Right. So, when you move into the longer duration loans next year, you're going to continue to 
+keep all those on your balance sheet.
+John Rainey
+You know, TBD is the answer to that. The thinking right now is that we'd likely keep the installment pay 
+product on our balance sheet. There may be some appetite to externalize that. Obviously with the 
+shorter duration loans, that's not as appealing to an issue or to come by because you don't have the 
+revolving nature of that relationship. So, I think the areas that I would focus investors on, if we were to 
+look at externalizing something would probably be the UK consumer book or some of our merchant 
+lending programs. But again, you know, our overall credit right now or the balance that we have is $3.7 
+billion. That's a fraction of where we were when we sold the US consumer book. That was a $6 billion 
+portfolio. And in that period of time, we probably have doubled or tripled in the size of our company.
+And so, I think we've got a little bit of runway before we need to really focus on externalizing that, but 
+mind you, we have a very clear guardrails around our credit business, and we don't ever want to get to 
+the point where we are too dependent on credit, or it is too much of a draw on free cash flow that it's 
+taken away from other things. So, as we've demonstrated in the past, we will avail ourselves of 
+opportunities to sell that portfolio and partner with companies like Synchrony, which has been a 
+fantastic partnership if we get to that point.
+Jason Kupferberg
+Okay. And just last one, because I know we're running out of time, but your comment on the BNPL 
+upstream presentment, still seems like there's a lot of opportunity there. I think it's less than 10% of the 
+merchants that are using paying for, you know, have actually embedded upstream presentment. I guess, 
+where can that figure ultimately go? How big of a lift is it to get it there? I guess it's just a lot of blocking 
+and tackling.
+Third Quarter 2021 Buyside Call | November 9, 2021
+14
+John Rainey
+I'm going to hand this answer over to Erica.
+Erica Gessert
+I mean like with merchants adoption of upstream I think you'll see that continue to grow next year, it’s 
+also just the improved accessibility of BNPL in the wallet for consumers. Our numbers, as John said, 
+compare really favorably to some of the companies that have been in this for awhile, but only ~9 million 
+of our consumers have adopted it up to now. And so, there's a tremendous amount of penetration there 
+as well to go. And some of the new digital wallet experiences, where it's really in context like deals and 
+offers and other things like that, I think are going to also show the growth of this there too. So, it's really 
+kind of attacking both sides of the network, but we do see really strong growth next year there.
+John Rainey
+Well, Jason, thanks for hosting the call today. We appreciate the questions and the opportunity to 
+address some of the concerns and questions that the investor community has. So, thank you.
+Jason Kupferberg
+Yes, absolutely. Thanks for the time. Thanks everyone for dialing in. Have a good day.
+Operator
+That does conclude today's conference. We thank you for your participation. You may now disconnect.

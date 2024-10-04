@@ -1,0 +1,752 @@
+Operator
+
+Hello everyone and welcome to Zoom's Fourth Quarter Fiscal Year 2020 Earnings Release. I would like to remind everyone that this conference is being recorded. At this time, I would like to turn the floor over to Tom McCallum, Head of Investor Relations.
+
+Tom McCallum -- Head of Investor Relations
+
+Thank you, Matt. Hello, everyone, and welcome to Zoom's Earnings Webinar for the fourth quarter and full fiscal year 2020. Joining me today will be Zoom's Founder and CEO, Eric Yuan; and Zoom's CFO, Kelly Steckelberg.
+
+Our earnings press release was issued today after the market closed and may be downloaded from the Investor Relations page on the Zoom.com website. Also, on this page you'll be able to find a copy of today's prepared remarks and a slide deck with financial highlights that, along
+
+With our earnings release, include a reconciliation of GAAP to non-GAAP financial results.
+
+During this call, we will make forward-looking statements about future financial performance and other future events or trends, including guidance. These statements are only predictions that are based on what we believe today, and actual results may differ materially. These forward-looking statements are subject to the risks and other factors that could affect our performance and financial results and which we discuss in detail in our filings with the SEC, including today's earnings press release and our latest 10-Q. Zoom assumes no obligation to update any forward-looking statements we may make on today's webinar.
+
+And with that, let me turn it over to Eric.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Thank you Tom. Thank you and welcome everyone joining us on the Zoom video webinar. At Zoom, we strive to empower our customers to accomplish more with our video-first unified communications platform. Our success toward achieving this goal is evident in our results with the fourth quarter capping off a strong year for Zoom, our first year as a public company. Kelly will discuss our Q4 results and outlook in detail in a moment, so let me give you a few key highlights for the full year.
+
+For FY'20, we delivered a unique combination of high revenue, profitability and free cash flow growth. Revenue grew 88% to $623 million and we exited Q4 at an annualized run rate of three-quarters of $1 billion. We achieved non-GAAP operating margin of 14.2%, up over 900 basis points year-over-year. We generated free cash flow of $114 million for the full year, up 397% year-over-year. This is our fourth straight year of positive free cash flow and non-GAAP operating income. Our customer metrics were also impressive for FY'20, including 86% growth year-over-year
+
+For customers with $100,000 of trailing 12 months revenue.
+
+We also recently celebrated the one year anniversary of the launch of Zoom Phone, a key component of the Zoom unified communications platform that has significantly expanded our TAM. Zoom Phone had an incredible start and we are very excited about the continued momentum of the offering. Here are just a few of the key metrics to demonstrate some of the Zoom Phone accomplishments we had this past year. First, we are grateful to have existing customers who trust us and new customers who have looked to Zoom Phone to resolve their telephone challenges. These factors enabled us to close Zoom Phone deals with approximately 2,900 customers who have more than 10 employees.
+
+Second, we exited the year with a run rate of 230 million Zoom Phone minutes. Zoom Phone is a great opportunity to expand our footprint with existing customers and drive new logos for companies looking to modernize away from legacy PBX systems.
+
+Now let me discuss a few of our happy customers. We are thrilled to welcome Johnson & Johnson, the world's largest and most broadly based healthcare company to the Zoom family. We are grateful that Johnson & Johnson chose Zoom to help modernize and consolidate on a unified communications platform with approximately 60,000 Zoom meeting users. As a global company, they wanted a solution that would enable them to communicate reliably around the world, including growing regions in Asia. Thank you Johnson & Johnson.
+
+I also want to thank VMware for trusting Zoom. VMware has been providing all employees, globally, access to Zoom meetings and digital workspace, and will soon utilize a large deployment of Zoom Phone. The easy, single sign-on access to Zoom from any device is enabled to leverage the VMware Workspace ONE platform, allowing employees to access all the applications they need from their device of choice while ensuring security and compliance. Together with Zoom, VMware Workspace ONE helps businesses support their distributed workforces by enabling a remote-first culture. Thank you VMware.
+
+Moving to a few recent business highlights. First, in the 2020 Gartner Peer Insights Customers' Choice Award for Meeting Solutions, Zoom received the top overall rating in the Voice of the Customer category. Zoom was the only company to achieve Customers' Choice Awards for meeting solutions serving all listed regions, company sizes, and industry verticals.
+
+Second, Okta published their annual Businesses @ Work 2020 Report, a premier study of how organizations and people are using technology in the enterprise. The report highlighted Zoom as a preferred video application, posting 876% growth in the Okta network over the past three years. Zoom is the only company to earn the distinction of being both the fastest growing and most popular app. Third, we announced an expansion of our Global Channel Partner Program to add new partnerships with industry-leading master agents for Zoom Phone. Fourth, caring for our community is a core value for Zoom and we are conscious of our impact on the environment. We proudly announced our Top 10 Green Leaders customers,
+
+Who were estimated to avoid the most carbon dioxide emissions by replacing in-person meetings with Zoom video meetings. In a 90-day period, the Top 10 customers were estimated to have avoided the equivalent of the annual carbon dioxide emissions of 149,000 cars.
+
+Before turning the webinar over to Kelly, I'd also like to address the global impact we are seeing from the coronavirus. While this tragic situation is very fluid, Zoom is focused on using our resources to help alleviate some of the disruption and communication challenges as an alternative to in-person meetings for our employees, customers and community. I am happy to report that all of our employees in the affected areas are healthy. Given the recent emergence and growing number of coronavirus cases in the United States, we have directed our headquarter employees to work from home, unless there is a business-critical need for them to be in the office. We're taking this step out of abundance of caution. Zoom is doing everything we can, especially for global educational institutions, to provide resources and support to our customers and those navigating the coronavirus outbreak, including we are proactively monitoring capacity globally to ensure maximum reliability amid usage increases. In China, we have removed the 40-minute limit on free meetings. And we are providing informational sessions and on-demand resources so anyone can
+
+Learn how to use the Zoom platform with ease.
+
+With the reliability of our high quality video platform, we have seen a large increase in the number of free users, meeting minutes and new video use cases. For instance, in China, healthcare workers under stressful conditions in affected areas are able to connect live on video with therapists.
+
+In closing, I'd like to thank the over 2,500 Zoom employees who are building Zoom into a great company through caring for our customers, community, company, teammates, and themselves. As we remain focused on creating a culture built around happiness and caring, I know we will
+
+Position Zoom for future success.
+
+With that, let me turn things over to Kelly.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Thank you, Eric. And hello everyone. Let me start by reviewing our financial results for Q4, then discussing our outlook for Q1 and the full year of FY'21. As Eric said, Q4 was a strong end to the year. We delivered another amazing quarter with continued traction for all offerings across all major geographies. For Q4 specifically, total
+
+Revenue grew 78% year-over-year to $188 million. This topline result exceeded the high end of our guidance range by $12 million due to our strong sales execution in the quarter.
+
+We delivered our Zoom Meetings, Rooms and Phone solutions to new accounts while driving major expansions with existing customers. For the quarter, new customers accounted for approximately 59% of our year-over-year growth in subscription revenue while the remaining 41% was due to additional purchases from existing customers.
+
+Now, let me share some of the key customer metrics for Q4. We added approximately 7,800 customers with more than 10 employees quarter-over-quarter and exited Q4 with 81,900 customers. This is an increase of 31,100 new customers, or 61% year-over-year. Customers with more than 10 employees represented approximately 80% of revenue in FY'20, compared to approximately 78% in the prior fiscal year.
+
+Our continued expansion in the up-market resulted in 641 customers with more than $100,000 in trailing 12 months revenue, up 86% year-over-year. This is an increase of 95 customers, a record number of adds in a quarter.
+
+The high level of satisfaction and trust customers have in Zoom was evident in our net dollar expansion rate that was over 130% for the seventh consecutive quarter and our Net Promoter Score which remained above 70 in Q4.
+
+Next, international expansion outpaced the high rate of growth in Americas revenue. In Q4, our combined APAC and EMEA revenue grew 84% year-over-year and represented approximately 20% of revenue. Revenue from the Americas was up 77% year-over-year and represented approximately 80% of revenue. International expansion will continue to be one of our key growth initiatives in FY'21 and beyond.
+
+Now turning to profitability. Once again, we were net income profitable from both GAAP and non-GAAP perspectives, but I will focus on our non-GAAP results, which exclude stock-based compensation expense and related share-based equity taxes.
+
+Non-GAAP gross margin in the fourth quarter was 84.2%, compared to 82.1% in Q4 last year and 82.9% last quarter. This result was driven by the strong sales execution in the quarter and lower seasonal audio usage in Q4 due to the extended holiday season. Due to the coronavirus, we have already seen significant usage of our platform and accordingly we will expand our capacity to meet the increased demands of both paid and free users. For FY'21, we believe our gross margins will be at the lower end of our long term target of 80% to 82%.
+
+R&D expense in Q4 was approximately $16 million, up 60% year-over-year. As a percent of total revenue, R&D was 9%, which was slightly lower than Q4 last year. In FY'21, we plan to continue investing in our highly efficient R&D model to drive innovation through adding engineering talent, especially in the first half of the year.
+
+Sales and marketing expense for Q4 was $84 million. This reflects an increase of 57% or $30 million over last year with investments to drive further growth. As a percentage of total revenue, sales and marketing was 45%, lower than last year due to continued efficiency gains in marketing combined with slightly slower-than-expected sales hiring and the higher-than-forecasted revenue. We look to increase the pace of hiring in the up-market and internationally in FY'21 with additional resources being added to recruiting.
+
+G&A expense in Q4 was $20 million, up 49% on a year-over-year basis. It represented 11% of total revenue, benefiting from efficiencies as we scale our administrative functions and lower our accrual for telco taxes.
+
+Non-GAAP operating income was $38 million, translating to a 20.4% non-GAAP operating margin for the fourth quarter. This compares to Q4 last year's result of $10 million and 9.3% margin. The higher revenue plus expense efficiencies across all areas were the main drivers of this additional profit.
+
+Non-GAAP earnings per share in Q4 was $0.15, on approximately 293 million of non-GAAP weighted average shares outstanding and adjusting for undistributed earnings. This result is $0.08 higher than our guidance and $0.11 higher than Q4 of last year.
+
+Turning to the balance sheet. Deferred revenue at the end of the quarter was $231 million, up 83% year-over-year. Looking at both our billed and unbilled contracts, our remaining performance obligations, or RPO, totaled approximately $604 million, up 94% from $312 million last year. We expect to recognize approximately 62% or $375 million of the total RPO as revenue over the next 12 months as compared to 67% or $208 million in Q4 last year. This is a result of a mix shift between our current RPO, which grew 81% year-over-year, while non-current
+
+RPO grew 120% year-over-year as we closed longer term deals. The RPO results also reflect some expected seasonality benefits in Q4 due to our semi-annual quotas in the up-market segment of our business.
+
+We ended Q4 with approximately $855 million in cash, cash equivalents and marketable securities, excluding restricted cash. In Q4, operating cash flow was $37 million, up from $16 million or 129% year-over-year. Free cash flow was $27 million, up from $6 million or 368% year-over-year.
+
+As we previously discussed, these results reflect the use of cash for the purchase of shares via the Employee Stock Purchase Plan. Starting in FY'21, we expect the cadence of benefits from contributions to the ESPP to occur in Q1 and Q3 and net outflows from purchases to occur in Q2 and Q4.
+
+Now turning to guidance, we are pleased to provide a strong outlook for the full year FY'21 based on our view of the current business environment, our ability to gain market share and with the momentum we built in FY'20.
+
+For the full year of FY'21, we expect revenue to be in the range of $905 million to $915 million, which would be approximately 45% to 47% year-over-year growth. Non-GAAP operating income is expected to be in the range of $110 million to $120 million. We expect to deliver non-GAAP earnings per share of $0.42 to $0.45 for the full year FY'21, based on approximately 301 million shares outstanding.
+
+For the first quarter, we expect revenue in the range of $199 million to $201 million. We expect non-GAAP operating income to be in the range of $25 million to $27 million. Our outlook for non-GAAP earnings per share is $0.10 based on approximately 297 million shares outstanding.
+
+In closing, we executed very well and are proud of the results we delivered in our first year as a public company. Our high growth outlook at this scale is truly unique. Given our ROI-focused business model, we continue to deliver a rare combination of strong profitability and free cash flow margins along with topline growth.
+
+I would also like to thank the entire Zoom team for their hard work this past year and look forward to achieving additional market share gains and growth as we deliver happiness to our customers with our unified communications platform.
+
+With that, let's open it up for questions. If you have not yet enabled your video, please do so now for the interactive portion of this meeting. Matt, please queue-up our first question.
+
+Questions and Answers:
+Operator
+
+Our first question is from Nikolay Beliov from Bank of America Merrill Lynch.
+
+Nikolay Beliov -- Bank of America Merrill Lynch -- Analyst
+
+Hi, thanks for taking my questions and congratulations on solid results here. And I just wanted to thank Zoom for playing an important role in dealing with the tragedy with this virus. My first question is for Eric. This viral situation, this virus tragedy, do you feel like it's elevating the customer conversations? And it's leading to better appreciation of your business model. Do you think like maybe a permanent elevation or spending intentions or it's a temporary thing.
+
+And question for you, Kelly, did you see impact from the virus in Q4 results maybe in billings and RPO and how did you incorporate any potential positive impact on the business in the guidance?
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+And Nikolay, that's good question. First of all, I like your voice background, where are you now? So...
+
+Nikolay Beliov -- Bank of America Merrill Lynch -- Analyst
+
+You don't want to know where I'm now.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+I think first of all, I don't think that's temporary. The reason why is, I mean, in terms of experience about using the video conference like Zoom, look at a company in Silicon Valley, OK, InVision, Zapier, or Gitlab are great companies. They do not have a single physical office. You really understand how to enable remote workers to work together. However, if you look at conference in other parts of the world, or maybe outside of California, quite often we need to tell them video is the future of communication. You need to enable video and we needed to explain that. But given this coronavirus, I think over the night, almost everyone really understand they needed a tool like this. This will dramatically change the landscape. I actually believe in the future, everyone will turn on to video for the remote workers for the collaboration.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+In terms of our results Nikolay, for Q4, we did not see any impact directly related to coronavirus. As a reminder, we have definitely seen an uptick in usage. But a lot of that is on the free side. So it's very early to tell whether or not that's going to convert long term into paying customers. As we mentioned, we are seeing impact and have continued to build capacity to ensure that we can support this increased usage. So we are seeing impact on our gross margins, which is why we're guiding you toward the lower end of our range for next year.
+
+Nikolay Beliov -- Bank of America Merrill Lynch -- Analyst
+
+Thank you.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+By the way, I already mentioned to some of my friends if I start over the company, well, I'm not going to have a single physical office. A lot of people mentioned, are you crazy? Now realize that's reality now.
+
+Nikolay Beliov -- Bank of America Merrill Lynch -- Analyst
+
+Got it. Thank you guys.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Thank you.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Thank you Nikolay.
+
+Tom McCallum -- Head of Investor Relations
+
+Next question please Matt.
+
+Operator
+
+Next question is from Bhavan Suri with William Blair.
+
+Bhavan Suri -- William Blair & Company -- Analyst
+
+Hey guys, thanks for taking my question. I want to touch a little bit on the vertical sales effort. You've talked a lot, Eric, about sort of the adoption of Zoom taking hold on a vertical by vertical basis. Just strategies, you think about the verticals, strategy on the sales force that go to market and then the applications you are integrating, how do you think about that given sort of the increasing presence in enterprise?
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Yes. So that's a good question. So when we started, we do not know which vertical market we are going to focus on. And fortunately, we saw quite a few high-end customers who deployed Zoom. Stanford Continuing Studies group was our first real customer. And that's why our first vertical market is high-ed. And several years ago, we found a great use case, which is healthcare customers because they are looking for a solution because we targeted telemedicine, telehealth for a long time because there's no good solution and here they found Zoom and we also keep our compliance, the product's first integration with Epic. I think that's very, very important vertical market.
+
+Also at the same time, also last year we [Indecipherable] certificate. We also expanded into the public sector market by focusing on enterprise, healthcare, public sectors and also I think later last year we also expanded into the financial institutions. I think all of those vertical markets, use case is a little bit different, but our functionality, our feature and flexibility are truly amazing.
+
+Bhavan Suri -- William Blair & Company -- Analyst
+
+That's helpful. And I wanted to touch a little bit more sort of then strategically. If we take a step back, we've talked about convergence and you've discussed this in the past, discussed in calls, but convergence, video, voice, we've talked about that. We know collaboration is a piece and again your partner is there. But as you think about this idea of remote, disconnected people, all of it ties into collaboration. How do we communicate, how do we collaborate in word, documents, PowerPoints, whatever you're using and you think about Zoom's play safe video, sure there is Zoom Phone.
+
+But if I have to fast forward, do you think ultimately that collaboration space converges? And where do you guys end up sitting in terms of the content piece? I'd love to understand how you think about the content part of the collaboration piece, not video and voice content obviously, but we're talking about the data piece. How do you think about that? And I know you're going to say partnership but I'm talking 10 years out as opposed to say the near term.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+I think for the foreseeable future in video and voice, unified communication, that's a huge market, right, $40 million [Phonetic] market. I think we are going to be very busy right, especially for enterprise migrating to the cloud, video voice will be converted into web service. We are going to laser focus on video and voice. But, at the same time, we're also builder of platform. In our marketplace, there are already over 200 applications. We would like to integrate harder [Phonetic] with other collaboration vendors with focus on content, like Dropbox and Box, like Okta or Maxsoft. I think that's the way. While customer, they are looking for best of breed of service, right, with Entercom's video and voice, I think that's our game.
+
+Bhavan Suri -- William Blair & Company -- Analyst
+
+Got it. Thank you. Congratulations.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Thank you.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Thanks Bhavan.
+
+Tom McCallum -- Head of Investor Relations
+
+Next question please Matt.
+
+Operator
+
+Our next question is from Sterling Auty with JPMorgan.
+
+Sterling Auty -- JPMorgan & Co. -- Analyst
+
+Yes. Thanks, hi guys. So with the surging free users, are you actually developing programs that will work on conversion of these potentially temporary free users into permanent paid users?
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Yes. That's a good question. First of all, we all feel sorry about those who suffer from coronavirus in China and all over the world. We're so grateful to those doctors for having the word [Phonetic] to deal with coronavirus. I think that's why we really focus on how to have those companies, those non-workers to connect because in this critical time, I will say empathy, humanity and support for each other is more important than revenue than growth. At this moment, we are laser focused on offering the best service to help people in the world. We even never thought about it monetize because that's not our focus. That's not important. If you truly care about the customers, truly deliver value to the world, I think all those will follow in the future.
+
+Sterling Auty -- JPMorgan & Co. -- Analyst
+
+Got it. And then one follow-up on Zoom Phone. You talked about the almost 3000 Zoom Phone customers. Where are you finding the sweet spot in terms of the size of the companies that are really gravitating toward moving over to Zoom Phone. You mentioned VMware in your prepared remarks, but is there a sweet spot for where Zoom Phone is heading?
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+I think that in my view, I feel everybody is in the sweet spot now. So because you look at our installed base, from SMB all the way up to our unified customers, who may talk about Zoom Phone, after they test that, they say, wow, that's exactly what they are looking for. We see the great customer adoption from SAP customer, Zoom Phone VMware as well because experience is very different, right? If you look at all other phone systems, no matter on-prem phone system or cloud-based phone system, ultimately, you just kind of make a phone call. While studying, I call your phone number, we can only talk. We really cannot do anything else. With Zoom Phone, it is very different. One more click, I can see you, I can share the content. That's a totally different architecture. That's why, if you look at our installed base, after test, our solutions really like our experience. No any other solutions can match that experience.
+
+Sterling Auty -- JPMorgan & Co. -- Analyst
+
+Got it. Thank you.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Thank you.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Thanks Sterling.
+
+Tom McCallum -- Head of Investor Relations
+
+Next question please Matt.
+
+Operator
+
+Our next question comes from Meta Marshall with Morgan Stanley.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Matt, she is on mute still.
+
+Operator
+
+I did unmute her. Hey Meta.
+
+Meta Marshall -- Morgan Stanley & Co. -- Analyst
+
+Yeah. Can you hear me?
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Yes, we can.
+
+Meta Marshall -- Morgan Stanley & Co. -- Analyst
+
+Okay. Great. I'm sorry about that. You put out some announcements over the past couple of days on additional geographies as far as Zoom Phone Web. Just wanted to see whether we should consider you guys covered in the major regions you'd like to be deployed in as far as Zoom Phone reach for now. And then, maybe Kelly you addressed kind of the gross margin impacts should be mostly from kind of capacity increases from some of the free usage right now. But should we consider some of that gross margin impact from Zoom Phone adoption as well? That's it for me. Thanks.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+So -- yes, we're super excited that we added 11 new countries into GA for Zoom Phone taking us to 18 total countries that were GA and additional 25 in beta. So we're getting close to, I think the coverage -- the goal is to be in close to 50 countries by the end of this year, which is really what we're striving for. And a couple of key markets like India and China, we're still continuing to work on.
+
+And then in terms of the gross margin impact, now, we really haven't seen impact from Zoom Phone. As we talked about, it's still small relative to the overall usage that it's not having an impact on the gross margins. It's really coming from the increase that we're seeing globally in terms of -- in the last month or so related mostly to coronavirus. Thanks Meta.
+
+Tom McCallum -- Head of Investor Relations
+
+Next question please Matt.
+
+Operator
+
+Our next question is from Heather Bellini with Goldman Sachs.
+
+Heather Bellini -- Goldman Sachs -- Analyst
+
+Great. Thank you so much. I just wanted to follow up on Zoom Phone. I mean in a really short period of time, you've obviously had some great success with that rollout. Eric, knowing that you're constantly listening to customer feedback, what are the top R&D priorities for Zoom Phone, if you look ahead over the next 12 months? And also do you see any benefit on the horizon by Avaya's decision to partner with RingCentral instead of kind of going down their own path. So as those customers look to migrate, do you see an opportunity there? Thank you so much. Yes. Heather, thank you. I know you probably are traveling. So next time, we can see you much better, and that's a good question. So in terms of Zoom Phone effort, we do not think that's brand-new application because when we build a platform, the first application that is built upon a platform is way to conference. The second application is Zoom Phone. So, many will share lots of components, right, when we built the Zoom Phone system. Having said that, there are some features missing and also international coverage as well. We are making very, very good progress as Kelly just shared. In terms of the priority this year, we are just add a little bit more features like recently, we announced SMS, the beta, right, and also add a lot of features. All those features, I do not think rocket science, really just a percussion level work. The harder part already done, right? That's why we have a high confidence we can deliver a much better solution than any of our potential competitors. So regarding the Avaya-RingCentral deal, I think from our perspective, we really focus on our installed base, focus on the video and voice convergence. That's the kind of our region. And you today look at some of the customers, take VMware for example, right? They deployed on-premise solutions and some other customers also deployed maybe the on-prem Avaya solutions. When they evaluate which club's PBX solution to go. If they do the test, they will know that. Zoom experience is better. It's better than any other club -- PBX vendors. We have high confidence as long as customers try our solutions, that's a solution to go. Thank you very much.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Thank you Heather.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Thank you Heather.
+
+Operator
+
+Next question please Matt. Our next question is from Brad Zelnick with Credit Suisse. Hey Brad, you are unmuted.
+
+Brad Zelnick -- Credit Suisse Group -- Analyst
+
+Great. Thank you so much. I don't know if you guys can see me, but it was nice to see you.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+We see you [Speech Overlap]
+
+Brad Zelnick -- Credit Suisse Group -- Analyst
+
+Oh, fantastic, great. So, congrats on all the success thus far with Phone. We've seen some of your competitors really leverage the channel to drive success and I was wondering how should we think about your willingness to do the same?
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Yes. So we're really excited to announce that we just yesterday I guess launched our master agent program for Phone specifically and we've signed up two big partners in Mphasis and Avant. And the more formal launch will be next week at the channel conference. Yes. Thank you.
+
+Brad Zelnick -- Credit Suisse Group -- Analyst
+
+Great. Thank you, Kelly. And maybe just to follow up on that expansion, it remains above 130%, but based on our math, it would seem to be the lowest level of expansion that we've seen thus far. How much of the deceleration is due to large lands and how should we think about expansion rates from here?
+
+Kelly Steckelberg -- Chief Financial Officer
+
+So there's a couple of things that contribute to our net dollar expansion rate. It's land and expand as you touched on as well as Zoom Phone. So we really see great opportunity for that number to be influenced by Zoom Phone as well as land-and-expand is a critical part. I mean it does vary quarter-over-quarter depending as you just indicated on the size of the initial deals. But we're confident for the long term that it'll stay at above [Phonetic] 130%.
+
+Brad Zelnick -- Credit Suisse Group -- Analyst
+
+Great. Thanks so much. Congrats.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Thank you.
+
+Tom McCallum -- Head of Investor Relations
+
+Thank you.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Thank you Brad.
+
+Tom McCallum -- Head of Investor Relations
+
+Next question please Matt.
+
+Operator
+
+Our next question is from Tom Roderick with Stifel.
+
+Tom Roderick -- Stifel, Nicolaus & Co., Inc. -- Analyst
+
+Hi everyone. Thank you for having me on. Thanks for taking my question. So Eric, I apologize, I jumped over and I think you are talking about this right, I jumped over, but obviously your customers are very excited to be able to use Zoom during a challenging time. At the same time, obviously you have a pretty nice sized workforce over there in China as well. And I'd love to hear just a little bit more about how -- are you're able to still communicate what your procedures are with your R&D staff?
+
+And as you talk about building up more R&D dollars in the year 2020, help us understand where geographically you're thinking about that in spite of all of the challenges we're facing globally right now with the coronavirus taking place. Thank you.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Yes. Good question. So if you look at our R&D resources, the core R&D here, our headquarter in San Jose, and we also have a team in China and of course, I met the WebEx engineer team before. I'm very familiar with that process, how to manage the offshore team. And inside of that actually we are using Zoom Video every day, so meaning every engineers anytime, anywhere that can work for sure have security courses, right and we are already familiar with remote working, practice for long, long time. During the coronavirus, a lot of other business, they have to work at home. I think quite often, we got to think about they really do not know how to do that or we know how. That's why, over the past several weeks, now most of them already back to work.
+
+Over the past several weeks, when they went back to home to work, there's no any impact whatsoever because they already know how to do that, right. And here we also did not see any impact. We're still working together with our team. For sure, we all know how to use Zoom, right. I think the impact to us is very minimum. And for us, this year, and next two years, I think we're going to hire more and more resources here for the new services, a lot of artificial intelligence features and the core capabilities, of course, the core IP R&D is still our developer here, so that's why we further expand our R&D team here in our headquarter this year, and also for the possible future as well.
+
+Tom Roderick -- Stifel, Nicolaus & Co., Inc. -- Analyst
+
+Great. And a quick follow-up for you, Eric, just thinking about you've been doing this a long time, you've seen a number of these sort of disruptive moments in tech. This is clearly a disruptive moment in the global economy. When you think about your conversations with your biggest customers out there, how were they talking about the way that they want to expand with their key partners over the next one or two or three years? And do you think of this as an opportunity to really sort of shift some of those into a big digital transformation as they sort of reevaluate how they spend their money coming out of the back end of this whole situation?
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Yes. That's a good question. So by the way, today we also have our Annual Analyst meetings as well. And in addition to talking with our customers, I think you -- the vision is right now, I think this is a very critical moment. So meaning, I think more the more businesses, they are going to leverage video conferencing service like Zoom. To drive our productivity, no matter where those employees are, they still want to get a job done. However, when it comes to video conferencing, the key is that you have to make it work anytime, anywhere with any device. Otherwise, they're not going to use it. And because of this coronavirus, a lot of businesses have removed employees. After they tried Zoom first time, a lot of users first time try Zoom, they say, wow, it just works. I think because of that, I think this is a very exciting time in terms of how to further drive the video conferencing adoption. I think this is very sustainable.
+
+Tom Roderick -- Stifel, Nicolaus & Co., Inc. -- Analyst
+
+Wonderful. Thank you very much.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Thank you Tom.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Thank you Tom.
+
+Tom McCallum -- Head of Investor Relations
+
+Next question please Matt.
+
+Operator
+
+Our next question is from Pat Walravens with JMP.
+
+Pat Walravens -- JMP Securities -- Analyst
+
+Oh, great. Thank you. So Eric, I mean, looking forward to having the COVID-19 result and when we get there, I was wondering if you could help us think a little bit about what the long term opportunity is like for Zoom in China. And maybe just to put a couple of ideas there, how might pricing be different? How might the competition be different and how might user behavior be different?
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Yes, that's a good question. So you look at our revenue, also the revenue from Asia and China included is relatively small, right? It's kind of still driven by North America and Europe and in Japan, Australia. I think because of this coronavirus, I think China realized, I think they didn't have more tools, not only Zoom, but more and more of the B2B tools to drive their productivity, used to be income high see like 10 people, right? You do not need to deploy HR tools, but now you really cannot have those 10 people anymore, they all went back to home, right?
+
+I think this will further boost the B2B SaaS application adoption in China. Aside of that, video conferencing is a tool they all understand. We also have some local competitors, but market is there. Potential is big and also we're in the process of never going to source several options, right, to say which option is better because over the past several years, we really wanted to go to China market. However, I do not think the time is right. For now, I think the time is right. We needed to make sure we have a sustainable strategy to expand into China to have the local businesses there.
+
+Pat Walravens -- JMP Securities -- Analyst
+
+And if I could ask, since we're all starting to have to work from home remotely a lot more, do you have like one or two key pointers you would give us about how to do it effectively? Does the camera have to be on all the time?
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+So first of all, I do not think you are at home. I did not realize.
+
+Pat Walravens -- JMP Securities -- Analyst
+
+Yes. Yes.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Yes. That's the first one, is get a virtual background. That helps a lot.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+I think that's pretty much actually. In terms of -- we have all the features built in, right? And when you just clear around some features, you will see that, like I think for example my favorite feature is touch up my appearance, right, and also thinking on which background a lot of features are built in, and also small like a breakout session as well. And a lot of which already built in over the past several years. I think, finally, our customer realized, it's time to kind of clear on all the features we build further.
+
+Pat Walravens -- JMP Securities -- Analyst
+
+Thank you.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Thank you. I liked your background a lot. [Speech Overlap]
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Even, his sound is beautiful.
+
+Tom McCallum -- Head of Investor Relations
+
+So beautiful. Thank you Pat. Can we have the next question please.
+
+Operator
+
+Our next question is from Ryan MacWilliams with Stephens. Ryan, you are unmuted.
+
+Ryan MacWilliams -- Stephens Inc. -- Analyst
+
+Perfect. So thanks for taking the question. So how do you see the market trending for cloud voice pricing going forward? Is there a temptation on your end to reduce pricing for Zoom Phone, especially given the fact some of your competitors have started offering their own video capability for free?
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Well, we believe that we are already very competitively priced from both Zoom Phone and Zoom Meetings perspective against the market. And we haven't seen price pressure beyond kind of the normal discounting that we typically do. And we feel really good about where we're sitting. The way that we've historically brought value to our customers is by adding more and more features to both Meetings and Phone. And we will continue to do that approach across all of our product lines.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+So in terms of your comment about some of the vendors offering the free video conferencing, I can tell you, it's very easy. It's extremely easy to build a very, very basic video conferencing solution with some open source. However, to have a global scale, very secure, reliable, fine availability, it just works. It's extremely hard, right? I'm -- already this real-time collaboration base for almost 23 years. Today, you look at where we are now, still a lot of things that are not done yet. I think free does not mean your customer they want to use that service.
+
+Ryan MacWilliams -- Stephens Inc. -- Analyst
+
+Great. And just kind of to that point, with 230 million Zoom Phone voice minutes and video minutes also expanding with Zoom Phone or Zoom customer growth, how do you see the AI opportunity for Zoom to add features around transcription, around this influx of usage?
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+So voice and video is the same platform, but voice quite often if you -- which already shared the same the platform, encryption, right? We have end-to-end encryption and process we are working on to support customer key -- the encryption based on the key offered by customers, but sometimes, voice is a little bit different. If all
+
+Use the Zoom, we can offer very secured service. However, if you want to dial someone else, the server number or the PSD [Phonetic] number, will go to the traditional PSD network, a thing that's really hard because it's completely out of our control.
+
+Ryan MacWilliams -- Stephens Inc. -- Analyst
+
+Great. Thanks guys. Thanks for the report.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Thanks Ryan.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Thank you.
+
+Tom McCallum -- Head of Investor Relations
+
+Next question please.
+
+Operator
+
+Our next question is from Zane Chrane with Bernstein. Zane, you're unmuted. We will come back to Zane.
+
+Tom McCallum -- Head of Investor Relations
+
+Okay.
+
+Operator
+
+Alright. The next question is from Will Power with Baird.
+
+Will Power -- Robert W. Baird & Company -- Analyst
+
+Great. Thanks. I guess first question is, as we think about the coronavirus impacts, any color you can provide in terms of the geographic spread of traffic, how much of the traffic increase was in China versus in other geographies? And I'd love to hear anything more on some of the more unique use cases you've seen.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Yes. I can start. Feel free to chime in Kelly. I think over the past several weeks, first of all, we see very, very big drop from users in China. And the good news, we have a very flexible banking architecture. We can auto-scale our servers. That's why, within a several days and we added a lot of capacity and really focus on the products first. Customers there are very, very happy. And also afterwards, you see like we see the usage, not only for China, for Vietnam or Singapore, for Japan, all follow over the past several weeks. Essentially, I think look at APAC, almost every country usage jumped a lot. And since last week, we see the usage from Europe and here as well, it's kind of take the print to see the usage jump.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+I think in terms of use cases we talked about the doctors getting therapy. We also of course see lots of educational institutions that have stopped either study abroad programs or having all of their students study from home as well as we've seen a few of our customers here that have already moved to -- requiring their employees to work from home as well. And so we're seeing an increase in that sense.
+
+Will Power -- Robert W. Baird & Company -- Analyst
+
+In virtual events too.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Oh, yes. Lots of virtual events. It's true.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+One use case service, not only we do offer the video meetings, we also offer the video web in a platform. It's pretty powerful. And the sitting that we will have, they have a -- [Indecipherable] doctors for a long time, they are on depression, anxiety and the Tsinghua University, Number 1 university in China also with some other psychologists, they use Zoom and to treat the doctors there. That's as good use case and it really made those doctors in Wuhan very, very happy.
+
+Will Power -- Robert W. Baird & Company -- Analyst
+
+Okay. Then if I could just get one question in on Zoom Phone, as you look across the broader unified communication space, there seems to be increased interest with bundling contact center. I wonder if you look at your 2,900 customers, any comments as to how many you're taking contact center, how do you think about the partnership model there long term versus having your own platform?
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Yes. You're right on. So we focus on our call video and voice capability in terms of cognitive center, I think it's very different market from our perspective. However, from a costumer perspective, they like to have very seamless integration. That's why we partnered with Five9 and also inContact, Twilio and Genesys, and specifically about Five9. The CEO Rowan is a great leader, really understand collaboration, and the two teams are working together very well and like Zoom we also use our video conference -- Zoom Phone system. We also deploy Five9 and the solution works very well. I think there's a huge opportunity like between Zoom and Five9. So ultimately, we wanted to partner with other contact center solutions.
+
+Will Power -- Robert W. Baird & Company -- Analyst
+
+Okay. Thank you all.
+
+Tom McCallum -- Head of Investor Relations
+
+Great. Thanks Will.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Thanks Will.
+
+Tom McCallum -- Head of Investor Relations
+
+Next question please Matt.
+
+Operator
+
+Next question we are going to go back to Zane Chrane with Bernstein.
+
+Zane Chrane -- Sanford C. Bernstein & Co., LLCq -- Analyst
+
+Yes. Can you hear me?
+
+Unidentified Participant
+
+Yes.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Hey Zane.
+
+Unidentified Participant
+
+Hey Zane.
+
+Zane Chrane -- Sanford C. Bernstein & Co., LLCq -- Analyst
+
+Hello. Good afternoon. Congrats on the great quarter. So I wanted to dig into the non-business customers a little bit. I know that's only about 20% of your revenue at the time of IPO, but it's important group in some ways just because it had a much higher annualized churn rate than I think your business customers typically do. Can you give us a sense of what portion of the revenue non-business customers comprise now and what that should look like over the next couple of years?
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Yes. It's actually been really steady at that same 20% of revenue for FY'20.
+
+Zane Chrane -- Sanford C. Bernstein & Co., LLCq -- Analyst
+
+Okay. Great.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+I mean -- I think over time as we continue to focus more and more on the up-market, we'll see that overall percentage decrease, but it's been pretty steady and consistent over the last year.
+
+Zane Chrane -- Sanford C. Bernstein & Co., LLCq -- Analyst
+
+And just to follow-up to that, have the renewal rates, the contract renewal rates either on a customer or dollar basis changed over the last year? I know you've talked about the net expansion rate, but before including upsell and seat expansion, how should we think about the trend for just contract renewals?
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Yes. We haven't seen any trade changes. It's been pretty consistent. It's holding pretty steady.
+
+Zane Chrane -- Sanford C. Bernstein & Co., LLCq -- Analyst
+
+Got it. Okay. Great. Well, that's very much and congrats on a great quarter.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Yes. Thanks Zane.
+
+Unidentified Participant
+
+Thank you Zane. Thank you.
+
+Tom McCallum -- Head of Investor Relations
+
+Next question please Matt.
+
+Operator
+
+Our next question comes from Alex Zukin with RBC.
+
+Alex Zukin -- RBC Capital -- Analyst
+
+Hey guys, thanks for taking my question. Congratulations on another very successful quarter. Maybe first for Eric, how important, particularly in the larger deal opportunities as you think about the future of work and the compression of that adoption curve given something like coronavirus, how important from a go-to-market perspective some of those larger deals are your relationships with partners like Slack, like Dropbox that kind of enable your customers to create an entire experience around this area?
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Yes. That's good question. I think, first of all, I'd like to take a step back to service, what's happening part of that decision-making process for lot of invest because over the past 10 or 20 years, normally CIO will make the final decision. Today is very different. Almost 50% of workforces today here are millennials, right? And they've grown up along with a smartphone. And that's why, if you do not like your service, no matter what, they are not going to use your service. This is their habit, right? This is their experience. Having said that, I think land and expand influenced by the bottom-up users extremely critical, right? Quite often, they already use the Dropbox, right, already use a Slack. And they want to find out best way to service, like video and voice, also deploy Zoom. That's why we have very, very tight integration with Dropbox. Within Dropbox interface, you can log to Zoom. With the Slack, you can also log to Zoom. I think that's a trend. Best breed of service will drive the adoption, will truly deliver happiness to land invest customers.
+
+Alex Zukin -- RBC Capital -- Analyst
+
+That's great. And then maybe Kelly one for you, if I think about current RPO and RPO, I think, we're looking at the current RPO bookings of 58%, compare that roughly to the 46% guide for revenue growth next year, help us bridge that a little bit. And then in the script, you also mentioned some seasonality benefits to RPO from semi-annual quotas in kind of the up-market segment. Can you maybe unpack that and explain that a little bit?
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Yes. So just a quick reminder that RPO is not an absolute directional metric for us due to -- there's a significant percentage of our customers who both buy and pay monthly so it doesn't correlate the way you would expect it to run other enterprise customers.
+
+And in terms of the seasonality, if you remember when we talked about this in Q3, we saw some seasonality in terms of it being somewhat flatter Q2 to Q3 and now we're seeing that benefit in Q4 due to the fact that our up-market teams are on six months plans. And so what we see is, as they get to the end of their six-month plans and they have the opportunity obviously to overachieve and then go into accelerators that we see a typical linearity toward or seasonality toward the back half of their six-month plan. And that's what you're seeing in some of that increase for the RPO for Q4.
+
+Alex Zukin -- RBC Capital -- Analyst
+
+Perfect. Thank you guys. Congrats...
+
+Unidentified Speaker
+
+Thank you Alex.
+
+Tom McCallum -- Head of Investor Relations
+
+Thank you Alex.
+
+Operator
+
+Our next question is from Phil Winslow with Wells Fargo. Hey Phil, I unmuted you. He'll just join back. We'll come back to you Phil. Next question is from Ryan Koontz with Rosenblatt. Ryan, you are unmuted.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Ryan, do you have your phone on mute?
+
+Operator
+
+Yes.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+There we go.
+
+Ryan Koontz -- Rosenblatt Securities Inc. -- Analyst
+
+Great. Hi guys. Thanks. And you've done a great quarter.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Thank you.
+
+Ryan Koontz -- Rosenblatt Securities Inc. -- Analyst
+
+As you look at your video seats you're winning, can you estimate the percentage that are defections from other platforms versus greenfield wins? And then in the broader picture, are you seeing changes in the competitive landscape and given your increasing market leadership there?
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+I think if you look at [Indecipherable] right, over the past several years, and Zoom is becoming the most popular video conferencing application. And looking at our customers, quite often, especially for large enterprise customers or medium-size customers, they already deploy other solutions, but they did not use that very often, and it's also the different experience, it's more like a web conferencing or only conferencing and Zoom is a true club -- video-first the solution. And that's why they all want to switch to Zoom. It's not like from web solution or other solution, I believe this is a totally different service. And we are in a different category because more like a Tesla car and other cars, they are all cars. They are totally separated, different category. That's why I think from that perspective, I would say every customer, no matter which other solutions they are using today as a greenfield. Right? That's our experience. Yes.
+
+Ryan Koontz -- Rosenblatt Securities Inc. -- Analyst
+
+Great. Thanks Eric.
+
+Tom McCallum -- Head of Investor Relations
+
+Thank you Ryan.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Thank you Ryan.
+
+Operator
+
+We're going to go back to Phil Winslow. So our next question is from Phil Winslow with Wells Fargo.
+
+Phil Winslow -- Wells Fargo Securities, LLC -- Analyst
+
+You guys had a great quarter. Just want to focus on Zoom Phone. Obviously you guys continue to do great traction there. And I remember when you first launched it, you said, hey, would take a while to get some of these bigger just your customer wins and knock down. But it seems like you've done that. If you think about just sort of the functionality of the offering, is this sort of 80-20 rule, we've got 80% of what you need to actually knock down some of these big accounts, and the 20% is just for maybe like say like a small percentage of the base? Maybe help us think about sort of where the functionality is right now, how that affects sort of the types of customers you address and so where you see this going forward.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Yes. So Phil, that's a good question. So maybe I'd like to share with you a little bit analogy about what's going on in the smartphone industry, right? So the first time I saw the Blackberry, I knew that all the feature phones in that era is over, all those feature phones die because the Blackberry does offer something new any other feature phone can offer, which is email. I fell in love with Blackberry for many, many years until I saw the iPhone. I saw the iPhone, I know Blackberry is over because the reason why they have a marketplace, all kinds of applications, even if the iPhone does not offer some of the functionalities that were already available in Blackberry. But that's a trend in the feature phone marketplace. Something similar is happening in the cloud PBX market. On the one hand, you are so right. We lack of some of the features, but on the other hand, when customer look at our products first, look at unified collaborating experience, and with one more click, they can screen share, you can upgrade to video call, they say, wow, that's future. That's something so critical. And to most of other minor features, they know we can add it. That's the reason why look at iPhone today and versus the Blackberry. I think that's the same story now.
+
+Tom McCallum -- Head of Investor Relations
+
+Thank you Phil. Matt can we have the next question please.
+
+Operator
+
+Yes. Our next and final question is from Jonathan Kees with Summit Insights Group.
+
+Jonathan Kees -- Summit Insights Group LLC -- Analyst
+
+Great. Well, glad I made it in. Thank you for taking my questions and I'll add my kudos to your strong numbers. And yes, and also commend you for the humanitarian efforts you're making there. My questions are, I guess if you can update us in terms of your partnership with RingCentral, Five9, the partners where you're white label, basically any of the partners were there the lead in to a deal they bring you in? In the past, you've talked about how that's trending and trending well. You've updated us on that and quantify anything for us. That'd be great. And then I have one other question.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Thank you, Jonathan. By the way, we have very good feature called -- what's your background, if you want to try.
+
+Jonathan Kees -- Summit Insights Group LLC -- Analyst
+
+Okay. I'm still learning it, so maybe I will contend to stay in the background. Right now I have a couple of home office. So...
+
+Tom McCallum -- Head of Investor Relations
+
+I'm happy to follow up with you, Jonathan. Make sure you can get it. Not a problem.
+
+Jonathan Kees -- Summit Insights Group LLC -- Analyst
+
+Ir/itsupport. Great.
+
+Tom McCallum -- Head of Investor Relations
+
+Yes, and sales.
+
+Jonathan Kees -- Summit Insights Group LLC -- Analyst
+
+And sales, OK.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Yes. Speaking of partnerships, take Five9 for example, I think this year we'll achieve more because the two teams we enjoy working together, right. So I know Rowan very well. He is such a great leader. I think more and more customers, they will allow to hey, I want to deploy Zoom Phone, I also want to pick up a contact center solution. Five9 is great the partner, right, and along with some other contact center partners as well.
+
+In terms of RingCentral, they were very good partner over the past several years. And I think they're pretty smart in terms of partnering is the best way to service, right? And that's why we [Indecipherable] solution for them, which is RingCentral Meetings. That partnership really have RingCentral, right, in terms of becoming the unified communication marketed leader because they have a best video conferencing service, right? However, I think from our perspective and we would like to really look at our customer and look at what's the best experience we can offer. And RingCentral over the past several years, they tried to build their own way to conferencing solution. I don't know how good that solution is, but we are focused on our customer experience. And in terms of revenue from any of our partners is relatively small, right? And customers, they would likely deploy a unified solution from one vendor from us. We do voice, the same architecture, same experience and you will see more and more overlap. It will be just Zoom and RingCentral, in particular after they announced their video conferencing service. I'm pretty sure that experience is not as good as Zoom.
+
+Jonathan Kees -- Summit Insights Group LLC -- Analyst
+
+I'm sure. I'm sure. And then, if I can, I guess it's more out of curiosity, you've already talked about you have your headquarter's employees working from home because of COVID-19. You have -- most of your sales are direct sales. Field reps are knocking on doors. I guess are you seeing an impact there and are you going to change your strategy there or is that what you're doing with like channel and getting others to start selling for you? Thank you.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+I don't think that we have any impact whatsoever. The reason why our sales reps are pretty creative and we also support video background. They should follow video in office and use that video background. I even do not know where they are. And seriously, and I feel like I stay in the office and I would say, there's no any impact. Probably even better because you can save the commuter time from where they live to office, probably we should increase the quota for them. Anyway, I'm kidding. I don't know.
+
+Jonathan Kees -- Summit Insights Group LLC -- Analyst
+
+Okay. Alright. Sounds great. Thank you so much.
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+Thank you Jonathan.
+
+Kelly Steckelberg -- Chief Financial Officer
+
+Thank you Jonathan.
+
+Jonathan Kees -- Summit Insights Group LLC -- Analyst
+
+Thank you.
+
+Tom McCallum -- Head of Investor Relations
+
+Eric, I think that's the last question. Matt, is anyone else out there?
+
+Operator
+
+That was our last question.
+
+Tom McCallum -- Head of Investor Relations
+
+Great. Do you want to have some closing remarks and just thank everyone, Eric?
+
+Eric S. Yuan -- Founder and Chief Executive Officer
+
+First of all, thank you all for your time. I really appreciate for your support and we will do all we can to deliver much better service to serve our customers well. Thank you.
+
+Tom McCallum -- Head of Investor Relations
+
+Thank you everyone.

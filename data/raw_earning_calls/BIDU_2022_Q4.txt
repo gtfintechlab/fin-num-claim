@@ -1,0 +1,312 @@
+Operator
+
+Hello, and thank you for standing by for Baidu's fourth quarter and 2022 earnings conference call. [Operator instructions] Today's conference is being recorded. If you have any objections, you may disconnect at this time. I would now like to turn the meeting over to your host for today's conference, Juan Lin, Baidu's director of investor relations.
+
+Juan Lin -- Director, Investor Relations
+
+Hello, everyone, and welcome to Baidu's fourth quarter and fiscal year 2022 earnings conference call. Baidu's earnings release was distributed earlier today, and you can find a copy on our website, as well as on newswire services. On the call today, we have Robin Li, our co-founder and CEO; Rong Luo, our CFO; Dou Shen, our EVP in charge of Baidu AI cloud group; and Zhenyu Li, our SVP in charge of Baidu intelligent driving. After our prepared remarks, we will hold our Q&A session.
+
+Please note that the discussion today will contain forward-looking statements made under the Safe Harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from our current expectations. For detailed discussions of the risks and uncertainties, please refer to our latest annual report and other documents filed with the SEC and Hong Kong Stock Exchange.
+
+10 stocks we like better than Baidu
+When our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+
+They just revealed what they believe are the ten best stocks for investors to buy right now… and Baidu wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+
+See the 10 stocks
+
+*Stock Advisor returns as of March 8, 2023
+
+Baidu does not undertake any obligation to update any forward-looking statement, except as required under applicable law. Our earnings press release and this call include discussions of certain unaudited non-GAAP financial measures. Our press release contains a reconciliation of unaudited non-GAAP measures to the unaudited most directly comparable GAAP measures and is available on our IR website at ir.baidu.com. As a reminder, this conference is being recorded.
+
+In addition, a webcast of this conference call will be available on Baidu's IR website. I will now turn the call over to our CEO, Robin.
+
+Robin Li -- Co-Founder and Chief Executive Officer
+
+Hello, everyone. In Q4 2022, Baidu core revenues were impacted by a challenging environment caused by a rapid increase in COVID-19 cases and its impact on the broader economy. However, we managed to improve our operating profit and margin year over year in the quarter. Beyond that, Baidu demonstrated its value as a trusted platform for users seeking accurate and authoritative information during critical moments like the peak time of COVID-19 pandemic.
+
+As restrictions in China were relaxed and many people get infected, people were more keen to monitor the progress of the epidemic in their local area. We quickly mobilized our resources and launched COVID-19 indices based on Baidu search queries, providing real-time updates and forecast for better transparency. Also, we partnered with reputable hospitals and medical experts to offer guidance and advice for public health. In Q4, health-related search queries grow about 40% year over year, reaching a record breaking high.
+
+Today, we are on the threshold of exciting new developments in our industry. For this call, I will focus on three major themes, and then I'll provide auditing reviews across our business lines. And finally, I'll talk about our outlook for 2023. Regarding the major cities, first, although our fourth quarter results were impacted by COVID-19, we are optimistic about our path to reaccelerate revenue growth in the coming quarters.
+
+So far, in Q1, we have already seen a recovery on our online marketing revenue from the trough, in particular, from verticals in healthcare, travel, business services, and lifestyle. Assuming no significant new disruption, we expect this recovery trend to continue and boost our online marketing revenue through increased demand and take advantage of pent-up consumption in China. We also anticipate resuming our project implementation as business operations return to normal, signing new contracts and accelerating AI cloud revenue growth. Second, we are riding high on the wave of AI, and our earlier investments make us well positioned to benefit, now that the industry is about to experience the different growth and monetization.
+
+Over the past many years, we have doubled down on AI, recognizing its potential to drive market expansion and increased enterprise value. Today, AI has become a cornerstone of many of our products and services. For example, in search, the early family of large models has been instrumental in delivering improved search result since March of 2019. This model enable improved ranking and multimodal search capabilities.
+
+In cloud, we leveraged our AI expertise to offer industry-specific AI solutions and applications for traditional industries, such as transportation, manufacturing, energy, and utility. Our intelligent driving business, built on the backbone of Baidu's computer vision and other machine learning algorithms, is another testament to our commitment to this view. Recently, with users reading about ChatGPT, large language models using generative AI have created a megatrend that will revolutionize many businesses. Baidu is well positioned to capitalize on the imminent inflection point in AI, thanks to our extensive talent pool, well-developed infrastructure, a diverse array of businesses, and leading technology.
+
+We are also excited about the upcoming launch of Ernie Bot, our new conversational AI bot, powered by our latest in-house large language models. We plan to fully integrate Ernie Bot across all of our operations. For our consumer-facing products, we plan to embed Ernie Bot into Baidu Search first. We believe this will reshape information generation and implementation and create a new entry point for the next generation internet, helping us attract more users and gain market share in a profitable manner.
+
+In the future, we will also integrate Ernie Bot into Xiaodu, which will allow Xiaodu to significantly upgrade all the smart devices and services. We believe AIGC will also provide notable potential for iQIYI on content generation and user acquisition. For our 2B business, we plan to make this technology widely available to our customers, developers, and ecosystem partners to help boost productivity across industries. By opening the platform to generative large language model to the public, we expect more and more business owners and entrepreneurs to build their own models and applications on our AI cloud.
+
+For intelligent driving, we plan to integrate Ernie Bot into our auto solutions, further enhancing user experience. We also believe generating pre-trained transformers will play an important role in driving the expansion of our operations. Clearly, we can benefit from the new AI inflection point as we have timely prepared our overall business for this new megatrend. Turning to my third theme, we will continue to focus on the long-term sustainable development of our company.
+
+As you all know, 2022 was an incredibly challenging year. However, we have used the time wisely to lay a strong foundation by building a more efficient organization through cost optimization, organizational adjustment, and a management reshuffle. As a result, in the second half of 2022, Baidu Core's non-GAAP operating margin and profit both improved year over year. We believe a more streamlined operation will help us to achieve sustainable growth.
+
+Now, let us review the fourth quarter operating highlights. AI cloud reported 4% year over year growth in Q4. Revenue growth decelerated from the prior quarter due to the impact of COVID-19 outbreak at the end of the quarter. Nevertheless, the margins of AI cloud in Q4 improved year over year.
+
+Two major factors were at play. First, we continue to scale back low-margin business for both app and cloud solution projects. And second, we continue to standardize our end solutions and applications for specific use cases in traditional industries. For example, our quality inspection and control inspection solutions have been adopted by many leading companies in traditional industries like chemical fiber, electric power, and renewable energy.
+
+We have seen margin improvement as we replicate our AI solutions and the applications, which tackle industry-specific challenges. By working as the industry leader, we are intensifying our knowledge of industry-specific challenges and standardizing AI cloud solutions and applications for scale. As an example, thermal power, which is mainly coal-fired, makes up the majority of the power supply in China, generating around 5.9 trillion kilowatt hour in 2022, according to National Bureau of Statistics of China. Recently, we developed an AI solution for a leading coal-fired power plant in Shaanxi province to improve the efficiency of power generation through methods such as automated cooling system.
+
+According to our internal estimate, this solution resulted in almost a five gram of coal consumption per kilowatt hour, well above our customers expectation of one gram reduction. This also means a 12.5 grams reduction in carbon dioxide emission per kilowatt hour. We aim to create more similar projects to gain scale. Turning to intelligent driving, we continue to make significant progress in the fourth quarter, further reinforcing our belief in our strategy and business model.
+
+Apollo Go remained the largest autonomous driving -- autonomous ride hailing service provider in the world. Measured by the number of rides completed in Q4, Apollo Go provided 561,000 ride to the public on open roads. That's up 162% year over year. By the end of January, the cumulative number of ride exceeded 2 million.
+
+This demonstrates users increasing acceptance of Apollo Go autonomous ride hailing service. As we scale up our operations, we are able to continuously improve our technology and refine our services. This accomplishment also built our safety record and bolster both users' and regulators' trust, including the development of the fully diverse ride hailing market. In 2022, we made some notable breakthroughs in fully public operation on public roads.
+
+Since last August, we have begun to offer fully driverless ride hailing services in Wuhan and Chongqing. In late December, we were granted the permission to test drive vehicles with no safety operator in the car on public roads in the Yizhuang region of Beijing, a critical step before the capital city allowed fully driverless ride hailing operation. As I stated in the past, labor cost is a major component in ride hailing operations. Removing 50 operators from vehicles can significantly reduce the cost.
+
+In Q4, fully driverless ride provided to the public are increasing very fast, helping us to expand our operation and reduce cost per mile. In 2022, we also unveiled RT6, aiming to bring the cost of all the taxi to the price range of mass market EVs for the first time in China. This initiative will allow us to further reduce our cost in the future. Baidu Apollo auto solutions made a breakthrough engagement with a multinational automaker.
+
+It intends to cooperate with us on AVP functionality for one of the more popular car models in China. Moving to mobile ecosystem, our traffic remains strong. Both total mobile search queries and feeds distributed through Baidu App continue to experience double-digit year-over-year growth in the quarter. In December, MAUs for the Baidu App increased 4.2% year over year.
+
+Despite revenue declining in Q4, our mobile ecosystem continued to generate high operating profit, operating margin, and substantial cash flow, thanks to increased efficiency. Encouragingly, we have seen a recovery in our online marketing revenue after the Chinese New Year holiday. On another positive note, retail and e-commerce remained an all-performing vertical with more than 20% year-over-year growth, accounting for over 10% of the total advertising revenue. Users not only come to Baidu to search for information and knowledge, but also increasingly come to us to search for services and merchandise, driving our growth in merchandise search queries and transactions on Baidu.
+
+Quarterly GMV facilitated by Baidu Search roll by 84% year over year in Q4. Short videos contributed to a year-over-year increase in feed revenue in Q4 despite macro challenges. Apart from feed, we believe short videos also benefit search in both user experience and monetization. And the growing prevalence of short videos within Baidu mobile ecosystem should drive long-term online marketing revenue growth.
+
+We continue to help content creators to generate content through AI in reaching our mobile ecosystem, in particular, producing short video. As we move forward into 2023, our priorities are clear and focused. First, we are committed to revenue growth as we have seen a clear pathway for a successful business recovery. Second, we are poised to take advantage of the huge potential of AI to drive business growth.
+
+We aim to integrate generative AI into most of our products and services and make our cutting-edge large language model available to both consumers and businesses. Third, we will maintain healthy growth while also strengthening our foundation. Our mobile ecosystem should continue to generate strong margins and cash flow. We aim to continue expanding margins for AI cloud and outgrowing our internet peers.
+
+We also will continue to make strategic and prudent investments in intelligent driving to capture the long-term market opportunity. With that, let me turn the call over to Rong to go through financial results.
+
+Rong Luo -- Chief Financial Officer
+
+Thank you, Robin. Now, let me walk you through the details of our fourth quarter and full year 2022 financial results. We closed the year 2022 with solid financial results. Baidu Core's total revenue was RMB 25.7 billion, decreasing 1% year over year.
+
+In 2022, Baidu Core generated RMB 95.4 billion or $13.8 billion in revenue, basically flat from last year. Non online marketing business continue to grow very fast and reached 30% of Baidu Core revenue in the fourth quarter, up from 26% a year ago, demonstrating how cloud and other AI part of the business have fueled our business now and will continue to do so in mid or long term. For the full year 2022, non online marketing business accounted for 27% of Baidu Core revenues, up from 22% in 2021. Within the online marketing business, revenue from Baidu AI cloud increased by 4% year over year to RMB 5.1 billion in Q4 on an apples-to-apples comparison and were up by 23% year over year to RMB 17.7 billion in 2022 on an apples-to-apples comparison.
+
+So, I'll go with another revenue contributors within our online marketing business. Xiaodu continued to achieve solid revenue growth in both Q4 and the year 2022. Baidu Core online marketing revenue decreased by 6% year over year and 4% sequentially in Q4 due to the weak demand for advertisers and the challenging macro environment caused by COVID. Baidu Core online market revenue was down by 6% year over year in the year 2022.
+
+iQIYI revenue was RMB 7.6 billion, increasing 3% year over year. iQIYI revenue was RMB 29 billion in the year 2022, decreasing 5% year over year. Cost of revenue was RMB 16.9 billion in Q4, decreasing 2% year over year, primarily due to the reduction in content costs, cost of goods sold, and other costs related to new AI business, partially offset by the increase in traffic acquisition costs. Cost of revenue was RMB 63.9 billion in 2022, decreasing 1% year over year, primarily due to an increase in traffic acquisition costs, bandwidth costs, cost of goods sold, and other costs related to new AI business, offset by the decrease in content costs.
+
+Operating expenses were RMB 11.5 billion in Q4, a decrease of 17%, one, seven, year over year, which was primarily due to a reduction in staff-related expenses. Operating expenses were RMB 43.8 billion in 2022, decreasing by 12% year over year, which is primarily due to a reduction in channel spending, promotional marketing, and personnel-related expenses. Non-GAAP operating income was RMB 6.5 billion in Q4, and non-GAAP operating margin was 20%. Non-GAAP operating income was RMB 23.2 billion in 2022, and non-GAAP operating margin was 19%, one, nine, in 2022.
+
+For Baidu Core, non-GAAP operating income was RMB 5.5 billion, and operating margin was 21% in Q4. Non-GAAP operating income was RMB 20.9 billion, and non-GAAP Baidu Core operating margin was 22% in the year 2022. Regarding the non operating items, in Q4, total other income net was RMB 1.8 billion, mainly resulting from fair value gain of RMB 1.6 billion from long-term investments. Income tax expenses was RMB 1.3 billion.
+
+In 2022, total other loss net was RMB 5.8 billion, mainly resulting from a fair value loss of RMB 3.9 billion and an impairment loss of RMB 3 billion from long-term investments. Income tax expenses was RMB 2.6 billion. In Q4, net income attributable to Baidu was RMB 5 billion, and diluted earnings per ADS was RMB 13.59. Net income attributable to Baidu Core was RMB 4.8 billion, and net margin for Baidu Core was 19%, one, nine.
+
+Non-GAAP net income attributable to Baidu was RMB 5.4 billion. Non-GAAP diluted earnings per ADS was RMB 15.25. Non-GAAP net income attributable to Baidu Core was RMB 4.9 billion. And non-GAAP net margin for Baidu Core was 19%, one, nine.
+
+In year 2022, net income attributable to Baidu was RMB 7.6 billion, and diluted earnings per ADS was RMB19.85. Net income attributable to Baidu Core was RMB 7.6 billion, and net margin for Baidu Core was 8%. Non-GAAP net income attributable to Baidu was RMB 20.7 billion, and non-GAAP diluted earnings per ADS amounting for RMB 58.93. Non-GAAP net income attributable to Baidu Core was RMB 19.9 billion, and non-GAAP net margin for Baidu Core was 21%.
+
+Cash and short-term investments for Baidu Core as of December 31, 2022, were RMB 177.4 billion or $25.7 billion. Free cash flow for Baidu Core, excluding iQIYI, was RMB 18.1 billion or $2.6 billion in 2022. Baidu Core had approximately 36,300 employees as of December 31, 2022. On a separate note, we are excited about iQIYI's continuous efforts to improve operating efficiency.
+
+In the quarter, iQIYI once again generated positive non-GAAP operating profit and free cash flow. On the user side, iQIYI's average daily number of total subscribing members increased to 111.6 million in Q4, a net addition of 10.6 million from the previous quarter. iQIYI maintained its largest market share for the drama category in terms of effective video reels, according to Enlighten Data. In addition, in the past 12 months, iQIYI raised around $1.3 billion.
+
+Post these fund raisings, Baidu continue to hold controlling voting power in iQIYI and consolidated iQIYI's financial results. Operator, with that, let's now open the call to questions. Operator, please.
+
+Questions & Answers:
+
+Operator
+
+[Operator instructions] Your first question comes from Alex Yao from JPMorgan. Please ask your question.
+
+Alex Yao -- JPMorgan Chase and Company -- Analyst
+
+Thank you, management, for taking my question. Congrats on a strong quarter. I have a couple of questions for the online advertising business. Can you share with us the trends you are seeing in February, post the Chinese New Year holidays? From an industry perspective, what are the stronger recovery industry and what are the relatively weaker recovery industry? And particularly, I'm interested in the offline-related verticals, such as travel, local services, franchising, and healthcare.
+
+Can you comment on your revenue exposure to these offline-related verticals and how are they recovering since the Chinese New Year holiday? And then, secondly, can you share with us your preliminary thoughts on the advertising recovery trend in the coming months, particularly, I think the second quarter will be a little bit special because the consumption has already been normalized and your company intends a low base on a year-over-year basis. How should we think about advertising growth trends in the next couple of months, particularly second quarter? Thank you.
+
+Robin Li -- Co-Founder and Chief Executive Officer
+
+Hi, Alex, This is Robin. Our app is highly correlated with COVID. As you know, when we entered the first quarter, the number of COVID infections has passed its peak and is now on a downward trend. People's daily lives are gradually back to normal, and the operations of many companies are recovering as well.
+
+As the economy continues to recover, our ad revenue is gradually improving from the trough. When we look into our ad verticals, we have seen substantial improvements in our largest verticals, including healthcare, travel, lifestyle, and franchises. These are all pretty much, you know, offline businesses. And online businesses, especially online games, are relatively weaker.
+
+And regarding to the recovery by region, I think the COVID infection number has passed its peak in all of China. The regions passing the peak earlier started to recover earlier. And the post Chinese New Year holiday, Tier 2 and Tier 3 cities recovered faster than Tier 1 cities. That's because a lot of people took longer breaks from their families before going back to the Tier 1 cities for work.
+
+And again, the magnitude of the recovery correlates heavily with the recovery of our top verticals. As we look beyond the first quarter and into the latter part of 2023, we're confident that our assets will benefit from China's reopening and macro recovery. And with that, we look forward to demand recovery from advertisers, which should provide significant boost to our ad revenue. I also want to highlight that advertisers prefer to spend on performance-based ads rather than pure brand promotion during the process of economic and business recovery.
+
+And search has proven to be the most effective form of performance-based advertising because users have a clear intent when using search. Search ad connect the user's intention with the most relevant product and service offerings. That's why we expect to gain more marketing dollars from our advertisers. Over the long term, we will continue to benefit from the sustained growth of China's macroeconomy improvement.
+
+Also, e-commerce and short videos as well continue to drive long-term growth of our ad business. Overall, we believe our ad revenue should help grow China's GDP in the long run. Beyond that, we are very excited about the opportunities around generative AI. We believe by incorporating Ernie Bot, Baidu App, and particularly Baidu Search will have an enhanced user experience.
+
+The new features powered by Ernie Bot should help us to attract new users and drive user engagement and also drive advertiser interest in Baidu, too. So, this will power our long-term revenue growth. Thank you.
+
+Juan Lin -- Director, Investor Relations
+
+Operator. Next question, please.
+
+Operator
+
+Thank you. Your next question comes from Alicia Yap from Citigroup. Please ask your question.
+
+Alicia Yap -- Citi -- Analyst
+
+Hi. Yeah. Thank you. Good evening, Robin and management team.
+
+Thanks for taking my questions. My question is related to ChatGPT. So, there's been a lot of expectation on Baidu progress in ChatGPT and also the AI-generated content. Can management share with us what could be the new opportunities that you are seeing in this field? And how is Baidu positioned in this trend? Any color that management can share would be appreciated.
+
+Thank you.
+
+Robin Li -- Co-Founder and Chief Executive Officer
+
+Thank you for your questions, Alicia. We are obviously excited about ChatGPT and AIGC. It represents a magnitude that could change a lot of things. We are working on Ernie Bot, a new version of conversational AI bot that uses our latest technology in large language models.
+
+We will embed Ernie Bot into Baidu Search first and will open it to the public in March. Baidu is as leader in China's technology innovation. Remember, we launched early in March 2019 and have scaled it up with well over 100 billion parameters. It is trained by serving billions of user search requests and other applications every day.
+
+So, in terms of NLP capabilities, Ernie is considered as the state-of-the-art Chinese language model. And it is not only about language, but also about understanding Chinese culture. Ernie 3.0 is already a very localized AI foundation model for China market, which means that the generated large language model we are working on right now will be more suitable in Chinese language and to the China market than models developed overseas. In addition, our deep learning framework, PaddlePaddle, which Ernie is based, has gained a strong momentum.
+
+Millions of developers use Paddle for their AI works. There is a strong synergy between the framework layer and the model layer. AI pre-training, as you know, is very expensive. We believe our full stack AI capabilities will allow us to build the most efficient large language model and support all kinds of applications from search to content generation, or any vertical area that could improve productivity significantly.
+
+For Baidu Search, I just mentioned that we're working hard on a revolutionary version of Baidu Search built upon Ernie Bot that incorporates generative AI into our search algorithm, as well as content creation. And we are adding interactive features, too. Users will soon be able to interact directly with the new generated large language model. It could be -- it would be complementary for even upgrading the traditional search experience and attract more users.
+
+ChatGPT type of features could potentially become a new traffic entry point for internet users and, therefore, expand the market size of search. Meanwhile, it will also help our advertisers, our content creators, and merchants, etc. With our strong AI capabilities, we should be able to keep iterating and upgrading the model search. Search is just one example.
+
+There are many other applications we believe will also benefit from it. And for AI cloud, our AI cloud provides full stack offering of four layers, from the cloud infrastructure layer to deep learning open-source framework layer, and to the large foundation model layer, and, ultimately, to application. So, there are other four layers. And by opening the generative large language model to the public aka, you know, model and the service, we should help many business owners and entrepreneurs with their own models and applications on our cloud, and bring about a significant positive change and improvement in a number of areas, including increased efficiency, better decision making, and improved customer experiences.
+
+So, to recap, Baidu's strong AI capabilities build our moat in large language model and AI foundation models. In addition to expand the market size for search, we are able to help many, many industries to build their own model, device their own application, and significantly improve their productivity. We believe it will be a game changer for cloud computing. AI is transforming many industries in a big way, and we are super excited about what's to come.
+
+We are building an AI ecosystem around Ernie Bot. As of today, a number of organizations have already decided to integrate Ernie Bot into their products and services. And remember, this is just the beginning of the journey. Thank you.
+
+Alicia Yap -- Citi -- Analyst
+
+Thank you, Robin.
+
+Operator
+
+Thank you. Your next question comes from Gary Yu with Morgan Stanley. Please ask your question.
+
+Gary Yu -- Morgan Stanley -- Analyst
+
+Hi. Thank you, management, and congratulations on a decent set of results. So, a couple of questions regarding the AI cloud business. First one is for the revenue growth.
+
+Will the disruption in revenue collection that we saw in fourth quarter push out the benefit first quarter? And have you seen the reopening kicked off in projects of cloud so far? And what are the overall cloud revenue growth for 2023 that management expects to see? What could product offering -- what kind of product offering we can see from the cloud service as the major growth driver for 2023? And how do we expect the company growth rate and trough relative to cloud market in the coming years to be? And I think a second question related to that is, can you also comment on overall IT spending budget by enterprises in the public sector versus the -- so the private sector versus the public sector? And also, do you expect to win this number of new cloud project this year? And do you think that uptick will be gradual, given the overall macro remains weak? And just lastly, any comment on breakeven timeline? What is the key bottleneck so far reaching breakeven? Thank you.
+
+Dou Shen -- Executive Vice President and Head of AI Cloud Group
+
+Hi, Gary. Thanks for questions. This is Dou. I will answer the first two questions and then Rong will take care of the last one.
+
+So, we do have seen a gradual recovery of cloud revenues as our R&D team has begun to work on the ongoing projects, post reopening. However, you know, the cycle for -- from sales lead to revenue recognition varies from a few months to a few quarters. Now, considering that, our AI cloud revenue growth should be backloaded to this year. But meanwhile, we will keep freezing out low-margin businesses for both the [Inaudible] and cloud solution products.
+
+As we focus on margin improvement for the cloud, this is an initiative we have an impact on our revenue growth going forward. But still, you know, we aim to continue growing our internet peers in 2023. If we look into the long term, you know, the big time for traditional industries to move business and to cloud and use AI to improve their efficiency remain unchanged. I believe that digital and intelligent transformation will be the key driver for the GDP growth in the near future.
+
+And for sure, we will benefit the most from this transformation because we think Baidu is uniquely positioned. Actually, compared to others, you know, our AI cloud provides full stack offerings, four layers, as Robin just mentioned, from, you know, cloud infrastructure to deep learning platform. You know, that's PaddlePaddle, as you know, to large foundation models and applications. And all the four layers can work seamlessly together, and each offer end-to-end solutions to achieve optimal outcomes for our clients, you know, even at lower costs versus other solutions, you know, which is viewed from, you know, different providers or the cloud, you know, platform and, you know, models.
+
+In addition, you know, end-to-end solutions can actually upgrade in much shorter time, you know, once we have the improvement of any of these layers, you know, which will further benefited the plans. So, if you are in a, you know, the sectors of a transportation manufacturing unit, energy, and utilities or other industries, I believe Baidu's cloud service should be the most efficient one. Because in addition to the technical advantage I just explained, we already know the industry, and we know the pain points. And we have accumulated a solid experience by successively delivering high-quality products already in the industries.
+
+Most importantly, as Robin just mentioned, we plan to integrate Ernie Bot into our cloud and AI products. This should help many business owners and entrepreneurs view their innovative applications, explore new business, or improve their operations. So, we believe this will be a significant step for our AI cloud and potentially reshape the whole China's cloud industry. So, we will help more business owners and entrepreneurs to live from digital era to AI era, where AI technology will play a vital role in productivities in our industries.
+
+And with that, I will turn to Rong for your last part.
+
+Rong Luo -- Chief Financial Officer
+
+Thanks, Dou. Yeah, I'm going to address your question regarding to our AI cloud margins. We continually to improve margins for cloud by cutting the low-margin businesses and continue to building AI applications, which can scale up, which is a consistent strategy for years. I think, as we have mentioned before, our AI cloud is actually in two parts.
+
+The first one will be the personal cloud, which continue to generate a decent operating profit margin, while the enterprise cloud is still loss-making, while the margins is improving both in the gross margin and operating margin perspective. In fact, if you look at the new projects we've signed, the projected margins continue to improve in the past quarters. Robin has talked a lot about how we can achieve the margin improvement in his prepared remarks. And this will help us continue improving our margins in the future.
+
+Note that it takes time to build a sizable AI application portfolio which can be used by mid companies in industries. But I'm confident that Baidu's full stack of AI capabilities can help us to [Technical Difficulty]. And lastly, we are pretty much on track to make the AI cloud a profitable and healthy business in the coming few years.
+
+Gary Yu -- Morgan Stanley -- Analyst
+
+Thank you.
+
+Operator
+
+Thank you. Your next question comes from Eddie Leung with Bank of America. Please ask your question.
+
+Eddie Leung -- Bank of America Merrill Lynch -- Analyst
+
+Good evening, guys. So, I have a couple of quick questions around your investment and margins. As we are having an economic recovery, can you talk a bit about your retirement plan for 2023, such as user acquisition? And a bit related to that, I think, Robin, you also mentioned that the AI chat bot could be pretty expensive to operate, right? So, also with regard to that, could you talk a little bit about the margin profile of that? And then, could you give us some color on the margin profile of your core marketing business, as well as the long-term R&D and G&A expense target? Thank you.
+
+Rong Luo -- Chief Financial Officer
+
+Eddie, thanks so much for your questions, and let me try to address your questions. If we still remember, actually, we start to cut costs and expenses since the end of the year 2021, which was ahead of our counterparts in the same industry in China. And we've carefully reviewed and restructured our business last few quarters. For mobile ecosystem, we've sized down and even phased out some businesses where Baidu has -- obviously we have no competitor advantages or we cannot be profitable for the long term.
+
+By doing so, the mobile -- the MEG, mobile ecosystem growth today, is more healthy than one year ago and having much leaner operations than before. And during the past years, the total head count of Baidu Core actually reduced by 8%. And we are not -- we are focusing on areas where we are in best in class or we are first in class. And at the same time, for AI cloud, we start to gradually eliminate the low-margin businesses.
+
+We're also tightening our controls over robot costs. You probably can see that as a result. In 2022, Baidu Core's operating expenses decreased by 9% year over year. And if we separate them out, SG&A was down by 15%, one, five, year over year.
+
+And R&D was down by 3% year over year. In the second half of the year 2022, Baidu Core's non-GAAP operating profit margin is increasing year over year. And now, we have a healthier cost structure, a stronger organization than one year ago. So, looking forward to the year 2023, we will remain very disciplined in spending.
+
+And we will continue to balance the revenue growth and margin as we are building a long-term sustainable development for the whole organization. If we look into each line items, we will continue to monitor ROI for all promotional activities, particularly Baidu's acquisition costs. And we will carefully manage all the other variable costs. For R&D, you have asked just now, we are working very hard to improve the efficiency of our team.
+
+The R&D team today are required to focus on building the technologies, products, or services, which can create more values for users and customers. We believe, over the long term, we should be able to see the operating leverage from R&D design. At the same time, we will continue to invest for growth and new opportunities and closely monitor the returns. For capex, we will keep investing in cutting-edge technologies, like large language models or generative AI, because we believe it will transform many businesses and provide huge opportunities for Baidu.
+
+While we are able to further improve our efficiencies or reallocate some resources to supporting the new initiatives, such as the Ernie Bot, in short, we will not hesitate to invest in our new, promising business. So, as a summary, we will look into each business. Mobile ecosystems should continue to generate high profits and cash flow in the future, which is our foundation. And for AI cloud, we aim to continue to expand our margins.
+
+Within AI cloud, enterprise cloud will continue to cut down on low-margin businesses and focus on key industry. And as Robin and Dou has just say, we'll continue to standardize our AI solutions and applications. For personal cloud, we will continue to earn decent profits and margins in the future. For Apollo Go, we will continue to invest for the future.
+
+But meanwhile, we will carefully monitor its operational and financial metrics to evaluate our performance and investment returns. Over the long run, we believe we still have room to optimize our cost and expenses. But during this process, we will dynamically allocate resources and balance the growth with margins and cash flow. Thank you so much for your questions, Eddie.
+
+Operator
+
+Thank you. Your next question comes from way young with UBS. Please ask your question.
+
+Wei Xiong -- UBS -- Analyst
+
+Hi. Good evening, management. Congratulations on a strong quarter, and thank you for taking my question. I want to ask about your robotaxi business.
+
+I'm wondering what is the current unit economics for this business? And how should we think about the breakeven timeline for the robotaxi? And also, if management has share any color on your technology roadmap, that will be appreciated as well. Thank you.
+
+Zhenyu Li -- Senior Vice President and General Manager of Intelligent Driving Group
+
+Hi. Thanks for your question. This is Zhen. For the questions regarding unit economics, as you know, the major cost for robotaxi are labor cost and vehicle costs.
+
+So, firstly, labor cost. As you know, fully driverless operation means no safety officers in the car, which helps to lower labor costs. In 2022, we made big progress in providing fully driverless service on the open roads. Now, we are providing fully driverless ride hailing service in Wuhan and Chongqing.
+
+For example, in Wuhan, we kept expanding operations by covering a wide area and longer daily operations -- operating hours and also by growing our fleet of vehicles. In December, we were allowed to test drive fully driverless cars on the open roads in Beijing, Yizhuang. This is important step toward fully driverless operation in the capital city. In 2023, we plan to further expand our fleet and drive for fully driverless operations.
+
+We will continue to reduce labor costs by allowing more vehicles to remove in-car safety operator. More and more cities in China are supportive to autonomous ride hailing operation. As a market leader, Baidu is benefiting from this change. Also, as we said before, scaling up operation helped us to refine our core technology and further improve our safety performance.
+
+As we scale up, we will further improve in our core technology and gaining trust from regulators. Apollo Go remained as the largest autonomous ride hailing service provider globally. Last year, we provided more than 1.5 million rides to the public. Now, on average, each vehicle in top cities like Beijing provides more than 15 rides a day.
+
+This number is already close to what a taxi can do. We believe, by continuously improving our technology, more and more cities will give green lights to our fully driverless ride hailing service in the future. Secondly, reducing vehicle cost. With Apollo RT6, which is designed to offer large-scale fully driverless ride-hailing services, we are bringing the cost of robotaxi to the price range of mass-market electric vehicles for the first time.
+
+We believe vehicle costs will continue to decline in the future, as China's EV market is developing very fast, and the entire supply chain is highly localized. The cost of auto parts still has a lot of room to decrease. Combining those two factors, we believe that the unique economics of Apollo Go will continue to improve. As Robin said, once we scale up, we can leverage large language model to improve technology.
+
+And this will help us to further improve safety performance. Thank you.
+
+Wei Xiong -- UBS -- Analyst
+
+Thank you.
+
+Operator
+
+Thank you. Your next question comes from Kenneth Fong with Credit Suisse. Please ask your question.
+
+Kenneth Fong -- Credit Suisse -- Analyst
+
+Hi. Thank you, management, for taking my questions, and congrats on a very strong set of results. I have a question on the user traffic and user time spend. Have you seen any impact or changes in these two parameters as China reopen, especially in the big cities? Thank you.
+
+Robin Li -- Co-Founder and Chief Executive Officer
+
+Hi, Kenneth. This is Robin. People started to spend more time outdoors. Hotels are reopening.
+
+But actually user time spend for our major apps as a whole increased 6.6% year over year, I think, in January that outperformed the overall mobile market. We have a wide variety of apps that cater to various needs of users. Baidu App is one of the very few super apps in China, and Baidu Search has a unique value proposition. We help people quickly find the most relevant and authoritative information online through technology.
+
+So, whenever users want to search for information knowledge, they come to Baidu. When they come back to work, this becomes more apparent. Even if they want to check for academics above and in their regions or check entrance exam scores, these kind of needs can be, you know, better and better met by the Baidu Search and other Baidu apps. Over the past year, we continue to use technology to enrich content and services, so we can provide our users with better experiences in search, in feed, and in many other products.
+
+Today, people not only come to us to search for information, but also to find products and services. This effort have strengthened Baidu's leading position in China mobile internet space. And another highlight, of course, Ernie Bot, as mentioned before. It has the potential to become a new traffic entry point for people online.
+
+Also, using AI to generate short video content is a typical application for generative AI. We believe AIGC will help us accumulate more short videos on our platform over time, and a direct benefit would be increasing video viewership and ad revenue. Thank you.
+
+Kenneth Fong -- Credit Suisse -- Analyst
+
+Thank you, management.
+
+Operator
+
+Your next question comes from Lincoln Kong with Goldman Sachs. Please ask your question.
+
+Lincoln Kong -- Goldman Sachs -- Analyst
+
+Thank you, management, for the opportunity. I have a follow-up in terms of ChatGPT and Ernie Bot. So, it seems that many domestic companies are recently keep announcing they're partnering with us or use Baidu's, you know, Ernie Bot's technology. So, can management elaborate a bit more on the format of this partnership? And what could be the modernization opportunity here? And how should we think about the revenue potential? And also, in terms of competition, so how should we think about other internet companies' coming offering, a similar service to try to just limit our -- on transition opportunity here.
+
+Thank you.
+
+Robin Li -- Co-Founder and Chief Executive Officer
+
+Sure. We're glad to see that after we announced the plan to launch Ernie Bot, many organizations reached out to us and expressed their strong interest to work with Ernie Bot. Some already announced of their plan to partner with us to integrate Ernie Bot capabilities into their products or services or operations. More and more enterprises realize that generating large language models are going to change their industries, and they would like to capture this opportunity.
+
+The fact that Ernie Bot has attracted so much interest also shows that Baidu is recognized for our leading AI capabilities, and the age of AI have finally come. And regarding to monetization opportunities, Ernie Bot will be integrated into Baidu Search to enhance the user experience, and users will be much more dependent on -- for all kinds of tasks and, therefore, significantly expand the market size of search. We are using AIGC to expand our content, like text, images, or videos. And this will create a great opportunity for us to attract new users, increase user time spend, and user stickiness, help us gained share in the online ad market over the long run, And for cloud customers, they will be able to leverage our full stack AI capabilities, not just the basic stuff, storage or bandwidth or database, this kind of thing.
+
+They can deposit their apps based on our AI framework, PaddlePaddle, and the foundation model, Ernie. It will be much easier, much more efficient, much more powerful. So, this will propel our cloud revenue, too. And our full stack of AI capabilities is quite unique.
+
+It contains cloud infrastructure, deep learning platform like PaddlePaddle, and large language models and widely used application. We have a strong presence in all four layers, and these four layers work together efficiently. Our large language model, Ernie 3.0, has been trained with billions of daily user search requests and other popular Baidu family of apps. Baidu Ernie Bot will be using this kind of hugely well-tagged data pool to help improve and adapt quickly over time.
+
+The barrier to entry for this is very high. It requires multiple years of significant investment, and we have the first mover advantage. The technology behind Ernie Bot is called reinforcement learning of human feedback. So, here, the human feedback part is critical.
+
+And as the first mover, we get more and more human feedback and further improve our capabilities, way ahead of anyone else. And right now, we are focused on preparing the launch of Ernie Bot and making continuous improvement after the launch. And we are also focusing on areas that we believe Ernie Bot will create immediate value. So, stay tuned.

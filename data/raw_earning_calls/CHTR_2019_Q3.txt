@@ -1,0 +1,410 @@
+Operator
+
+Good morning. My name is Jessa, and I will be your conference operator today. At this time, I would like to welcome everyone to Charter's Third Quarter 2019 Investor Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session. [Operator Instructions]
+
+Thank you. You may begin your conference.
+
+Unidentified Speaker
+
+Good morning, and welcome to Charter's third quarter 2019 investor call. The presentation that accompanies this call can be found on our website, ir.charter.com, under the Financial Information section.
+
+Before we proceed, I would like to remind you that there are a number of risk factors and other cautionary statements contained in our SEC filings, including our most recent 10-K and also our 10-Q filed this morning. We will not review those risk factors and other cautionary statements on this call. However, we encourage you to read them carefully. Various remarks that we make on this call concerning expectations, predictions, plans and prospects constitute forward-looking statements. These forward-looking statements are subject to risks and uncertainties and they cause actual results to differ from historical or anticipated results. Any forward-looking statements reflect management's current view only and Charter undertakes no obligation to revise or update such statements or to make additional forward-looking statements in the future.
+
+During the course of today's call, we will be referring to non-GAAP measures as defined and reconciled in our earnings materials. These non-GAAP measures, as defined by Charter, may not be comparable to measures with similar titles used by other companies. Please also note that all growth rates noted on this call and in the presentation are calculated on a year-over-year basis unless otherwise specified.
+
+On today's call, we have Tom Rutledge, Chairman and CEO, and Chris Winfrey, our CFO.
+
+With that, let's turn the call over to Tom.
+
+Thomas M. Rutledge -- Chairman and Chief Executive Officer
+
+Good morning.
+
+Our product and service strategy is working well across all our service areas and the benefits of the recently completed large integration are being realized through accelerated customer relationship growth, lower service transactions per customer, declining capital -- cable CapEx intensity and significant free cash flow generation. Although our product mix is different today than it was several years ago, we're driving customer relationship growth given our superior products, pricing and network combined with execution capabilities that continue to improve.
+
+In the third quarter we had a net gain of 310,000 customer relationships, with customer growth of 4% over the last 12 months. We also added 380,000 Internet customers in the quarter and 1.4 million Internet customers over the last year, and we added 276,000 mobile lines, up from 208,000 additions last quarter. We grew cable adjusted EBITDA by 5%, which, combined with our lower cable capital expenditures, yielded strong year-over-year cable free cash flow growth of nearly $850 million or 125% in the third quarter. Our consolidated free cash flow was up nearly $750 million, even including our investment in Spectrum Mobile.
+
+We offer high quality products packaged with good service and attractive pricing, which is our core operating strategy. That approach works with customers and leads to improving relationship growth rates, profitability and cash flow over long periods of time. We continue to improve our products and service, and as a result of our pricing migration strategy, 85% of our residential Internet customers receive 100 megabits and higher speeds, and over the past two months we've raised our minimum Spectrum Internet speed from 100 megabits 200 megabits in a number of additional markets. We now offer minimum speeds of 200 megabits in approximately 60% of our footprint, up from 40% previously. We continue to offer 400 megabit, our ULTRA product and our gigabit speed tiers across our entire footprint.
+
+Demand for speed, throughput and low latency uniquely offered through our network today, continues to increase. That demand will continue to grow as more devices attach to our network, more IP video is consumed, online gaming continues to grow and new technologies and applications emerge. And our network will evolve from an already low latency DOCSIS 3.1 to 10 gig symmetrical and an upgrade path we control and at relatively low incremental capital costs.
+
+Monthly data usage continues to rise rapidly. Our non-video Internet customers use over 450 gigabytes per month, which compares to average mobile usage of well under 10 gigabits per month. That translates to a 50 times price per gig value advantage, with truly unlimited service, high throughput and reliability to all devices in the home and business.
+
+In mid-October, we launched our advanced in-home WiFi in Austin, Texas. Given our network, software operating platform and top-rated support tool, we're in a unique position to provide enhanced security, privacy and control over all IP devices in our customers' home, easily managed by customers in a single app, while simultaneously delivering a superior customer experience through better in-home WiFi coverage and managed WiFi solutions through dynamic band switching and channel optimization within the bands. And over time, we plan to roll this product out to our entire footprint, starting with additional markets in late 2019. Our self installation program continues to ramp quickly, with customer self-installations now representing 50% of our sales volumes.
+
+Turning briefly to video. Over 90% of the time when we sell video, it is packaged with Internet, and it's an important attribute to our selling proposition for fixed and mobile connectivity services. And yet, pricing and lack of security continues to be the main problems contributing to the challenges with paid video growth.
+
+Turning to mobile. Our Spectrum Mobile products continue to perform well, and our accelerating mobile line net adds are very encouraging. In the third quarter, bring your own device capabilities became fully available across all of our sales channels and on all devices. And we recently launched Spectrum Mobile services to small and medium business customers in all channels. Mobile remains a key area of our focus for Charter going forward and we are uniquely positioned to take advantage of wireline and wireless network convergence over time with our fully distributed wireline network, ultimately positioning us for long-term growth under the operating strategy I mentioned at the beginning of today's call: superior products, good service and attractive pricing.
+
+Now, I'll turn it over to Chris.
+
+Christopher L. Winfrey -- Chief Financial Officer
+
+Thanks, Tom.
+
+Before covering our results, one administrative item. On September 6, we closed the sale of Navisite, our managed cloud services business within the Spectrum enterprise. We have not prepared pro forma financials. However, for the next few quarters, I'll discuss enterprise revenue growth including and excluding Navisite. On an annual basis, Navisite generated roughly $115 [Phonetic] million in revenue and its impact on our EBITDA and CapEx was not material.
+
+Turning to our results on slide 5. We grew total residential and SMB customer relationships by over 1.1 million in the last 12 months and by 310,000 in the third quarter. Including residential and SMB, we grew our Internet customers by 380,000 in the quarter and by 1.4 million or 5.6% over the last 12 months. Video declined by 75,000, wireline voice declined by 190,000 and we added 276,000 higher ARPU mobile lines. 84% of our residential customers, including legacy Charter, were in Spectrum pricing and packaging at the end of the third quarter. And residential customer relationship growth accelerated to 3.7% year-over-year, driven primarily by higher growth at legacy TWC and legacy Charter, with legacy Bright House remaining the fastest grower.
+
+In residential Internet, we added a total of 351,000 customers in the quarter, better than last year's third quarter, resulting in residential Internet customer growth of 5.4% year-over-year, driven by continued lower churn and improved connect performance. Over last year our residential video customers declined by 2.6%. Similar to Internet and overall relationship churn, we benefited from a decline in total video churn year-over-year, but that was more than offset by lower video gross additions. In wireline voice, we lost 213,000 residential customers in the quarter, driven by lower sell-in following our transition to selling mobile on the bundle and continued fixed to mobile substitution in the market generally.
+
+Turning to mobile. We added 276,000 mobile lines in the quarter versus 208,000 in the second quarter, a nice acceleration. As of September 30, we had 794,000 lines with a healthy mix of both unlimited and by the gig lines.
+
+So we're pleased with the trajectory of Spectrum Mobile, with less EBITDA loss per line as the business scales to the expected stand-alone profitability, even at an accelerating net addition rate, but more importantly, the cable connectivity service benefits and converged platform objectives we've laid out.
+
+Over the last year, we grew total residential customers by 974,000 or 3.7%. Residential revenue per customer relationship grew by 0.8% year-over-year, given the lower rate of SPP migration and promotional campaign rolloff in previous rate adjustments. Those ARPU benefits were partly offset by a higher mix of non-video customers, a higher mix of Choice and Stream customers within our video base and $30 million lower pay-per-view revenue year-over-year.
+
+Slide 6 shows our cable customer growth, combined with our ARPU growth, resulted in accelerating year-over-year residential revenue growth of 4.4%. But keep in mind that our cable ARPU does not reflect any mobile revenue today.
+
+Turning to commercial. SMB revenue grew by 5.7%, faster than last quarter as the revenue effect from the repricing of our SMB products and legacy TWC and Bright House continues to slow. SMB customer relationships grew by 7.7% year-over-year, still healthy growth, but we are increasing speeds and modifying some promotions to reaccelerate SMB relationship growth.
+
+Enterprise revenue was up by 1.8% year-over-year or 4.4%, excluding Navisite from both quarters, given the divestiture. Excluding both cell backhaul and Navisite, enterprise grew by 7.1%, with nearly 9% PSU growth year-over-year. And so while our retail products and enterprise are growing fast, our wholesale business including cell tower backhaul is not, which is factoring into the relative growth rate.
+
+Third quarter advertising revenue declined by 10.6% year-over-year due to less political revenue in 2019. Our non-political revenue grew by over 5% year-over-year, primarily due to our advanced advertising capabilities and our recent abilities to efficiently sell highly viewed long-tailed inventory using our own and anonymized much more detailed viewing data.
+
+Other revenue declined by 5.6% year-over-year, driven by lower home shopping revenues related to video subscriber declines and lower late fees driven by lower non-paid churn, partly offset by video CPE sold to customers. Mobile revenue totaled $192 million, with $123 million of that revenue being device revenue.
+
+In total, consolidated third quarter revenue was up 5.1% year-over-year or 5.3% when excluding Navisite. Cable revenue growth was 3.5% or 4.3% when excluding Navisite and advertising.
+
+Moving to operating expenses on slide 7. In the third quarter total operating expenses grew by $423 million or 6.1% year-over-year. Excluding mobile, operating expenses increased 2.6%. Programming increased 0.4% year-over-year due to higher rates, and that was offset by a higher video subscriber decline -- or video subscriber decline of 2.3%, resi and SMB, year-over-year. It was also offset by a higher mix of lighter video packages such as Choice and Stream and lower pay-per-view expenses year-over-year tied to the $30 million lower pay-per-view revenue that I mentioned.
+
+Regulatory, connectivity and produced content grew by 12.3%, driven by franchise and regulatory fees, original programming cost and cost of video CPE sold to customers, in that order. Cost to service customers grew by 2.2% year-over-year compared to 4% customer relationship growth. Excluding bad debt, cost to service customers were essentially flat. The elevated amount of bad debt in the quarter relates to billing simplification changes we made earlier this year, which pushed out the timing of previous cash collections and resulted in a higher account balance for disconnects and higher bad debt provision in the third quarter.
+
+So we're meaningfully lowering our per relationship service cost through a number of operating, quality and efficiency improvements to support our strategy. Key metrics like calls per customer, truck rolls per customer and churn, all continue to move in the right direction. And as Tom mentioned, customer self-installations represented 50% of our sales volume in the third quarter.
+
+Cable marketing expenses increased by 0.4% year-over-year, and other cable expenses were up 6.7%, driven by software cost, enterprise labor cost and insurance. Mobile expenses totaled $337 million and were comprised of mobile device cost tied to the device revenue, subscriber acquisition and usage cost and operating expenses to stand up and operate the business, including our own personnel and overhead cost and our portion of the JV with Comcast.
+
+When including the mobile EBITDA start-up loss of $145 million, total adjusted EBITDA grew by 3.4% in the quarter. Cable adjusted EBITDA grew by 5% in the third quarter, including a roughly 1.7% negative growth rate impact from advertising revenue, net of its associated expense in both periods. Similarly, cable margin expansion year-over-year would have been 90 basis points versus the 60 basis points we're showing today, excluding the effects of advertising sales.
+
+Turning to net income on slide 8. We generated $387 million of net income attributable to Charter shareholders in the third quarter versus $493 million last year. The year-over-year decline was primarily driven by a non-cash pension measurement gain in the prior-year period and higher interest expense, partly offset by higher adjusted EBITDA and lower depreciation and amortization expense.
+
+Turning to slide 9. Capital expenditures totaled $1.65 billion in the third quarter, with our cable CapEx declining by over $500 million year-over-year, driven by lower CPE and installation CapEx due to fewer SPP migrations year-over-year and the completion of all-digital in 2018. There is also the positive capital effect of increasing self-installations, lower video sales and a higher mix of boxless video outlets.
+
+Scalable infrastructure also declined, driven by the completion of DOCSIS 3.1 last year and the associated benefit and bandwidth benefit in 2019. Support spending for cable was also lower, driven by declining investments related to in-sourcing and integration. We did spend $100 million on mobile related CapEx this quarter, which is mostly accounted for in support capital and was driven by retail footprint upgrades for mobile and software, some of which is related to our JV with Comcast.
+
+Despite like we spending a bit less than the $7 billion of total cable CapEx in 2019, we expect our cable CapEx intensity to continue to decline next year as a percentage of revenue. We're becoming very efficient with capital expenditures despite our continued product, network and service quality investments.
+
+The slide 10 shows we generated nearly $1.3 billion of consolidated free cash flow this quarter, including just over $250 million of investment in the launch of mobile. Excluding mobile, we generated over $1.5 billion a cable free cash flow, up nearly $850 million versus just last year's third quarter.
+
+We finished the third quarter with $74.2 billion in debt principal. Our current run rate annualized cash interest, pro forma for financing activity completed in October, is $3.9 billion. As at the end of the third quarter, our net debt to last 12 month adjusted EBITDA was 4.47 times. We intend to stay at or just below the high end of our 4 to 4.5 times leverage range. And when calculating our leverage, we include the upfront investment in mobile to be more conservative than looking at cable only leverage which was 4.34 times at the end of Q3.
+
+During the quarter we repurchased 7.8 million Charter shares and Charter holdings common units, totaling about $3.1 billion at an average price of $398 per share. Since September of 2016, we have repurchased $25 billion or 23% of Charter's equity at an average price of $337 per share.
+
+As I've said before, our operating model, network capabilities now and in the future and our balance sheet strategy, all work together over long periods of time. And we expect our results to reflect a growing infrastructure asset and for lot of ancillary products to use for and on top of our core connectivity services, with good value and service to our customers to grow cash flow with tax advantage and levered equity returns.
+
+Operator, we're now ready for Q&A.
+
+Questions and Answers:
+Operator
+
+Thank you. [Operator Instructions] Your first question comes from the line of Jonathan Chaplin from New Street Research. Please go ahead.
+
+Jonathan Chaplin -- New Street Research -- Analyst
+
+Thank you. I'm wondering if you can contextualize the pace of wireless growth we're seeing at the moment, Chris? It was obviously a phenomenal acceleration quarter-over-quarter. Is that driven by the new iPhone cycle? Or is this sort of a run rate of growth that you think can continue or can you even continue to accelerate from here?
+
+Thomas M. Rutledge -- Chairman and Chief Executive Officer
+
+Jonathan, it's Tom. I'll answer the question. We -- I guess the short answer is, we expect it to accelerate, and the reason that is, as we really just got all of our marketing and operating tools available across all the platforms that we operate in and as we look at the yield that we're taking out of each sales channel we have and we look at the things like bring your own device and its implementation and its effect on sales, we think that we'll continue to accelerate the growth rate.
+
+And things like store buildout and other kinds of activities are not complete. So in terms of our marketing footprint, it's not completely deployed yet. And when we look at the kinds of yields we're getting in those channels, our expectation is that our mobile yield will continue to accelerate.
+
+Jonathan Chaplin -- New Street Research -- Analyst
+
+And Tom, how much of a pull-through is it having on the broadband business at the moment?
+
+Thomas M. Rutledge -- Chairman and Chief Executive Officer
+
+It's hard to say. But we think it is having an effect, and we -- our hope is that that will accelerate broadband growth as well.
+
+Jonathan Chaplin -- New Street Research -- Analyst
+
+Excellent. Thank you.
+
+Thomas M. Rutledge -- Chairman and Chief Executive Officer
+
+Thanks, Jonathan.
+
+Operator
+
+Your next question comes from the line of Vijay Jayant from Evercore. Please go ahead.
+
+Vijay Jayant -- Evercore -- Analyst
+
+Thanks. So, Tom, you've been talking for many quarters now about mitigating piracy and you brought that up again today, but some of your carriage deals talk about working together, especially with the Disney in the Fox deal on addressing that. Can you sort of talk about what can be done, when is it getting done, is that something that we should expect improving video trends?
+
+And second, obviously you've seen some of your competitors, Adelphia -- peer group launch products that enable your broadband customer like the Flex product at Comcast. Is that something that you guys are considering too? Thank you.
+
+Thomas M. Rutledge -- Chairman and Chief Executive Officer
+
+Yes. So I feel like I'm beating my head against the wall, talking about privacy -- or, piracy and password sharing and pricing, but they're all interrelated issues. I think that there is some recognition in the programming industry that they're now distributors and as a result of being distributors that they need to know where their content is going, and that has not been part of their DNA.
+
+And so streaming products have been sold with five streams and with no location-based kind of security most households in the United States have two or less people in them, and as a result of that, there are more streams than there are households available for free and by sharing passwords and by not having location-based or subscriber based relationships with those streams and the fact that TV everywhere allows for massive numbers of streams replicated through virtual MVPDs and so forth, there are -- it's just too easy to get the product without paying for it.
+
+And when we look at data consumption, we can see that video consumption isn't going down even when people disconnect their paid video, and as a result of that it makes the price-value relationship really difficult when it's free. And so, what can be done?
+
+The people that own content are going to have to come up with standards of security and they're going to need to implement them and they're going to need to know where their services are being viewed and they need to have a business model that works for them. And so that requires some effort and some collaboration and we'll continue to push forward, but it's a slow process.
+
+Vijay Jayant -- Evercore -- Analyst
+
+Second question was with...
+
+Thomas M. Rutledge -- Chairman and Chief Executive Officer
+
+Oh, Flex. Yeah, I'm sorry. We have discussed that with Comcast, and it's an interesting idea, and so I would say that we're considering it and it has advantages. We have a significant number of app based relationships that we've developed on multiple devices. And that strategy is working for us, and -- but putting inexpensive [Phonetic] devices out with your service makes some sense to us.
+
+Operator
+
+Your next question comes from the line of Peter Supino from Bernstein. Please go ahead. Good
+
+Peter Supino -- Bernstein -- Analyst
+
+Good morning. Could you please talk about how you're measuring and analyzing the benefit of the large investments that you've made in customer-facing personnel in the acquired systems? In particular, I wonder if the results in the legacy Charter footprint tell us anything, whether it's the level or the trend of profitability and productivity about the future for the acquired systems. Thank you.
+
+Thomas M. Rutledge -- Chairman and Chief Executive Officer
+
+Yeah. Peter we -- as you know, our strategy is to have high quality well-paid workers with high skills who can interact with the customer in a way that satisfies the customer the first time they deal with the customer. And as a result of that, you end up with less transactions, you end up with less repeat service calls, you end up with longer-tenured customers with more satisfaction, and as a result of that you have less disconnects and churn, and your cost to serve goes down even though your cost per transaction goes up. And that's been our strategy since legacy Charter and that's been the strategy across the whole integration of the Company.
+
+And it is successful in our -- if you look at our cost to serve trends are coming down. What that really means is that our activity levels are coming down. And as a result of our activity levels coming down, our customers are more satisfied and their average life -- or the cash flow per customer is going up is another way of saying it.
+
+And so we do see continued growth in legacy Charter and we expect that kind of continued growth -- and when I say growth, I mean, in customer satisfaction and in customer growth and in increasing margins and lower cost to serve in that environment. And we're seeing it across our entire footprint now because we've been at this integration for a while and we've implemented the strategy. We have brought most all of the transactions that we're going offshore back onshore. We rebuilt call centers. There was a period where we had capital intensity and operating intensity as a result of the duplication that was required to stand up a new workforce in the United States, but that has been largely accomplished and we expect to reap the benefits.
+
+Christopher L. Winfrey -- Chief Financial Officer
+
+Peter, one thing I'd add to that. We've virtualized our entire call center and the field operation service infrastructure, but we still have visibility obviously into the legacy Charter franchise areas and DMAs. And so what you can see is that legacy Charter metrics -- operating metrics, whether it's calls per customer, billing calls per customer, retention calls per customer, truck rolls per customer, all remain significantly below legacy TWC and Bright House, despite legacy TWC and Bright House having significant improvements.
+
+Part of that is because of the previous investments into legacy Charter infrastructure, and part of that is legacy Charter has continued to get better and better every year and quarter-over-quarter continues to make pretty significant improvement. So it's a moving target, which just means that when you make that upfront investment in service, it's a virtuous cycle of continuing to get better and better.
+
+And while we don't report or track the P&L of legacy Charter because the service is virtualized, if it had one, our cost to serve there would have been continually -- throughout the cycle to continue to go down dramatically on a per relationship basis. And we expect the same for the rest of...
+
+Thomas M. Rutledge -- Chairman and Chief Executive Officer
+
+Yeah, bodes well for the long term in that we've had continuous improvement in Charter over seven or eight years and we expect similar kinds of results throughout the infrastructure.
+
+Operator
+
+Your next question comes from the line of Ben Swinburne from Morgan Stanley. Please go ahead.
+
+Ben Swinburne -- Morgan Stanley. -- Analyst
+
+Thanks, good morning.
+
+Thomas M. Rutledge -- Chairman and Chief Executive Officer
+
+Hi, Ben.
+
+Ben Swinburne -- Morgan Stanley. -- Analyst
+
+Tom, you talked a lot about the advantage the cable, infrastructure and architecture brings to Charter and cable companies you've run in the past. I'm just wondering if you could talk about kind of the next several years of network evolution for the business? You've been throwing more speeds at customers. You talk a lot about 100 and 200 megabit minimums. How are you thinking, both from a -- kind of a network architecture perspective? It would help us think about kind of product opportunities and also capital intensity.
+
+And I think there is a debate in the market about DOCSIS 4.0 versus deep fiber. I'm just wondering where do you take the network and therefore the product offering on the broadband side over the next couple of years and what might that mean for capital intensity?
+
+And then just a quick one for Chris, just more short-term. You guys had some rate adjustments in the fourth quarter that a lot of folks are focused on. I'm just wondering how you would describe those in the grand scheme of Charter's philosophy and whether those are sort of incremental enough that we should be thinking about incremental ARPU and incremental churn in Q4, maybe in Q1 next year since obviously there's been a lot of press coverage and sort of interest in those changes? Thank you, both.
+
+Thomas M. Rutledge -- Chairman and Chief Executive Officer
+
+So, Ben, you know, I think if we look over the next couple of years, the best place to start is the last couple of years, and we did the DOCSIS 3.1 rollout over a two-year period, which took our capability from 200 megabits per customer up to 1 gig per customer everywhere we operate. And there is still more upside out of that infrastructure deployment that we made with DOCSIS 3.1 in terms of both speed and things that we can offer from a product perspective. But one of the great things that's coming out of that we didn't really talk about as we did with our ability to manage traffic in the network and therefore reduce network investment associated with increased consumption.
+
+And we've had a regular budget item associated with network consumption in our capital planning and related to the growth in overall average consumption of data per customer. And 3.1 has allowed us to manage that in a less capital intensive way. So you have that project, and if you look at it, it was taking a massive speed increase on a legacy infrastructure at a capital cost of about $9 per home passed, a fairly small investment per home passed with a massive output.
+
+And that's the fundamental notion behind our 10 gig strategy -- DOCSIS 4.0 strategy, which allows multiple pathways for development. Depending on how deep you want to take fiber or whether you want to improve your bandwidth in your legacy coaxial network, both options are available in that specification to upgrade your network as products evolve in a way that's very capital efficient and strategic to the assets you deploy.
+
+So what do we need to do over the next couple of years? Well, we're still -- we just completed DOCSIS 3.1. So we've got a lot of headroom inside of the asset at the moment in terms of products. But things we're thinking about continuing to do, that we're experimenting with, we're obviously experimenting with convergence, and we've done a bunch of radio and mobile experiments this year, testing switching dual SIM technology. We've also continued to work on the DOCSIS 4.0 strategy. We've talked with gaming companies about putting compute power deeper in the network.
+
+When you look at our real estate footprint, we have lots of hubs throughout our architecture that have space in them, and as a result of the compression of electronics through time and as a result of that, we are able to stand up high compute, low latency networks that for hard to replicate. And we think that there is a product development cycle that will occur there and give us an upside opportunity.
+
+But the fundamental position we're in at the moment is, we still have lots of headroom from the last investment cycle we made which was quite efficient. We also have been launching, as I mentioned, the product of in-home WiFi management, which allows customers to manage their privacy, their security, and to know what is connected in their house, and what it's connected to and to be able to manage that in an efficient way for not only privacy, but for parental control and all -- and quality of the network itself throughout the home. So we're continuing to invest in the customer experience, in the product set itself.
+
+Ben Swinburne -- Morgan Stanley. -- Analyst
+
+That's helpful. Thank you. And, Chris?
+
+Christopher L. Winfrey -- Chief Financial Officer
+
+Yeah. Then you asked about rate. And so maybe some thoughts. Our third quarter -- I think you mentioned fourth quarter -- so just to clarify, our third quarter residential ARPU does not reflect any of the recent rate increases that we implemented. Those are beginning really at the start -- after the start of Q4. So it won't be a full fourth quarter. And they're being applied to -- in video, which reflects higher input or programming costs and some non-promotional rates on the Internet.
+
+So if you take a look -- and there were some questions around it -- if you look at our Q3 results, that showed we believe we have a long runway for Internet and customer relationship growth. So there shouldn't be too much of a read-through through that. We have always believed that creating more customer relationships is the most valuable way to grow long-term cash flow. And through the integration, we have been careful about driving additional billing calls or service transactions from rate increases.
+
+And I guess another read-through is, well, manage the profitability of our overall customer relationship when we're using video to enhance it. But that being said, the overall rate increase is not that materially different than what we've had in the past. We have a lot of customers in year one and year two promotional rates that aren't subject to some of the increases. And for video, we increasingly have a higher mix of customers in lighter packages without boxes which won't have the same increases. So our goal is to maintain our competitiveness across all products and our preference or strategy and our optimism for growing by volume as opposed to just by rate, that remains unchanged.
+
+You asked about the fourth quarter impacts. Similar to past increases, and because it's not that material as some might have feared or hoped, we don't anticipate any meaningful negative impact on the fourth quarter net additions as a result of the rate increase. But I would highlight to you and others, just keep in mind the fourth quarter of last year was a pretty good quarter for Charter and we expect the back half of this year, inclusive of Q3 and Q4, due to things we've said in the past to be better as it relates to Internet and customer relationships. And that doesn't mean that we don't expect a good fourth quarter this year as well. Just keep in mind we had a pretty good one last year too.
+
+Thomas M. Rutledge -- Chairman and Chief Executive Officer
+
+So I would say -- just to sum that up -- our strategy with regard to growth, with rates and customers is unchanged. We believe the majority of the revenue growth that we'll produce will be through growth and new customer relationships, and our pricing and packaging is designed to give consumers a better value than they can get with the individual products priced as they are in the marketplace. If you look at what -- how much money we're saving people from a mobile perspective, it's significant. Our products are valuable products, and they're designed to drive customer relationships.
+
+Ben Swinburne -- Morgan Stanley. -- Analyst
+
+Thank you, guys.
+
+Christopher L. Winfrey -- Chief Financial Officer
+
+Thanks, Ben.
+
+Operator
+
+Your next question comes from the line of Craig Moffett from MoffettNathanson. Please go ahead.
+
+Craig Moffett -- MoffettNathanson -- Analyst
+
+Hi, thanks. Two questions, if I could. There's been a lot written recently about your potential interest in CBRS spectrum and offload strategy for your wireless business. Could you just put some meat on the bones about that and just talk about what your latest thoughts are about traffic offload and what that network deployment might look like over the next few years?
+
+And then a second and more tactical question. The business services line, you've been engaged in the repricing of the legacy Time Warner Cable customers for a long time now. When do you think we might be through the process of repricing those customers so that we can start to see business services revenue growth start to normalize a bit relative to where others are and what I suspect your volume growth looks like?
+
+Thomas M. Rutledge -- Chairman and Chief Executive Officer
+
+Well, I'll answer the last part of that first which is -- we're already getting the growth in business services, where the revenue growth and the rate of customer creation are converging and that was not true when we initially started with the pricing and packaging. But it is true now. If you look at our quarter-over-quarter change, you'll see that revenue growth is occurring and it's not because rate. It's occurring because the customer growth -- there are not new customers at that growth rate and less customers at the historic pricing such that those two numbers are converging, growth and revenue growth. Customer growth equals revenue growth at some point.
+
+In terms of CBRS, the interesting thing about that -- we talked about our dual SIM technology opportunities and the testing that we've done, and we're quite optimistic about the capability of that strategy and we're quite optimistic about the ability to make select investments in areas where traffic dictates in such a way as to move services that we pay rent for onto our own platform. And that opportunity already exists with WiFi, and a significant number of our customers -- well, the majority of our customers are using WiFi most of the time and WiFi is highly efficient. And the bulk of data -- 80% of all data on mobile platforms are being delivered through the WiFi network.
+
+So we think there is continued opportunity to move traffic that way, and we've experimented with a bunch of methodologies to do that. And CBRS does work very well. And as you know, there's a significant amount of free CBRS spectrum available which we've been using. We've also done some experiments with that spectrum with fixed wireless connectivity. We've got an experiment going with that too and actual live customers going in rural low density areas. So it's a pretty valuable piece of spectrum.
+
+There is some private spectrum of CBRS that's going to be auctioned next year. The question we're evaluating is, should we be involved in that. We haven't determined that yet, but we're looking at it closely and -- but I would say this, but there is a significant amount of spectrum available already and the more cells you have, the less spectrum you need.
+
+Craig Moffett -- MoffettNathanson -- Analyst
+
+Thanks, Tom.
+
+Thomas M. Rutledge -- Chairman and Chief Executive Officer
+
+Thanks, Craig.
+
+Operator
+
+Your next question comes from the line of Philip Cusick from JPMorgan. Please go ahead.
+
+Philip Cusick -- JPMorgan -- Analyst
+
+Hey guys, thanks. I wonder if we can unpack a little bit the broadband sub momentum improvement. Is that being driven mostly by better churn as you had forecast or by better connect volumes as well? And have there been any changes in the promotional pricing that are being offered to those customers? Thanks.
+
+Christopher L. Winfrey -- Chief Financial Officer
+
+Yeah. So the churn improvements that we've talked about in the past, they continue, in a year-over-year basis for Internet was also an improvement in connects. So it was the latter of what you said, it was a combination of both. There has been no major or dramatic change in the pricing or go to market as it relates to broadband. We have a -- generally now 60% of our footprint to now 200 megabits per second minimum speed. We also go to market with Ultra, which is 400 and is a headline with availability but not that much take-up; it's a 1 gig service, and that's the -- the 400 and the 1 gig are nationwide. So there's been no dramatic change to promotional pricing beyond what we've typically done in the past.
+
+Philip Cusick -- JPMorgan -- Analyst
+
+Thanks, Chris.
+
+Christopher L. Winfrey -- Chief Financial Officer
+
+Yep.
+
+Operator
+
+Your next question comes from the line of Michael Rollins from Citi. Please go ahead.
+
+Michael Rollins -- Citi -- Analyst
+
+Good morning. Thanks for the question. If we look at the footprint expansion, there was about 2% across the different products in the quarter was above average rate of household growth in the country. So, how important is that growth at driving some of the strength in broadband and how long can it continue at this elevated peak? And the final part of that is, if it were to slow down does that significantly help your capital spending? Thanks.
+
+Thomas M. Rutledge -- Chairman and Chief Executive Officer
+
+Yeah. So, Michael, it's a good question. Passings -- and it's not unique for Charter, it's across the board, so it's really estimated for marketable homes and it's not a direct correlation one for one as it relates to new build. And so, as we go through the integration of three different companies and the systems and the definitions [Indecipherable] what the marketable home passed is. We're adding stuff into the biller [Phonetic] as potentially marketable -- and sometimes that's right and it's not always, and you don't -- only find out once you go and actually market or trying to sell.
+
+So there is a lot of cleanup that's still going on in that and we're not alone. So I wouldn't take that as a 100% new build or household formation. But it's true, and it's directionally still right. It may not be completely correct, but its' directionally correct. And we've been building more, particularly into rural areas, and our new build there, you can see that through the CapEx line extension line item. It has grown over the past couple of years and accelerated as we meet our commitments and have good ROIs to developing a broadband footprint in these more rural areas.
+
+New household formation is helpful to the overall growth rate. There's been a lot of work done around that and we think that our growth is not just a function of new household formation, that we are gaining significant share, not only in the legacy DSL, but as some of the U-verse and U-verse like, whether it's AT&T or CenturyLink, as some of the previous U-verse speeds turn into looking more and more like DSL as our speeds increase over time. So we're taking significant share, and that tends to be the bulk of where we're adding as opposed to just new household formation.
+
+Michael Rollins -- Citi -- Analyst
+
+Thanks very much.
+
+Thomas M. Rutledge -- Chairman and Chief Executive Officer
+
+Thanks, Michael.
+
+Operator
+
+Your next question comes from the line of Marci Ryvicker from Wolfe Research. Please go ahead.
+
+Marci Ryvicker -- Wolfe Research -- Analyst
+
+Thanks. Two questions. First for Tom. You've mentioned 10 gigs quite a bit. Can you just talk about when this might be available and what kind of boost to sub and ARPU you might be expecting? Is this another step-up at some point in time?
+
+And then second for Chris. Is there anything we should be thinking about in terms of programming expenses for Q4 or 2020 as we update our models? Thanks.
+
+Thomas M. Rutledge -- Chairman and Chief Executive Officer
+
+Look, 10 G, 10 gig is a sub-specification that we've developed for our networks that allow us to get to 10 gigabit symmetrical. There aren't products today at the residential level that demand that kind of capability. And when -- so it's a long-term evolution capability of our network. So that allows us to, in a very efficient way from a capital perspective, get to those kinds of capabilities. And if you look at historic trends of data use, it will show you that unless the trends of the last 20 years significantly change, at some point we're going to need that capability.
+
+And products will be developed -- virtual reality products and high capacity, low latency content which would include games and entertainment, education, will ultimately be developed including light field products, holograms, that will change the very nature of all communications and that our networks are capable, from an investment perspective, of providing those products at the most effective investment rate.
+
+And when we would actually do that or deploy that is really a function of how the market develops. There is no immediate capital requirement for us to do anything with regard to 10 G. We can use elements of that as different opportunities arise. We still have a lot of capability in our 3.1 deployment, which is a prior DOCSIS deployment specification to 10 G, which we're now calling DOCSIS 4.0 because we're branders -- and that's a joke. But it's really just an opportunity and a way of showing the kinds of historic capital investments we've been able to make to upgrade our network will continue into the future.
+
+Christopher L. Winfrey -- Chief Financial Officer
+
+Marci, on programming, we've been low this year relative to our expectations on year-over-year growth and part of that is [Indecipherable] we've done, OK, on some of our renewals, but the bigger piece is that we had a subscriber decline of resi and SMB of 2.3%, there's been a mix shift as it relates to the Stream and Choice products, which just have less channels inside of them.
+
+And then on top of that, the pay-per-view environment, particularly the past two quarters has not been particularly good on the revenue side, which means that your costs are going down year-over-year for pay-per-view. All of that is packing into a current 0.4% year-over-year growth in programming. But your actual unit cost -- the expanded cost per customer relationship, it's kind of been what it's been for many years, in the mid single-digit range and we've had some pretty big renewals as publicly announced tied to some of the security and password sharing collective efforts. So you know which those are.
+
+And so there will be some step-up associated with that. But I think as you look out through next year, there is nothing we see today that causes there to be a dramatic change from where the overall marketplace has been for the type of rate increases that we expect to see on that product and which we've talked about before. Historically, we've not passed all of that through to our customers, and we're evaluating our ability to continue to do that even as we use the video product to drive connectivity services. It was spoken about some of that as it related to the most recent rate increases.
+
+So I don't expect any big dramatic changes other than -- growth is a big factor, mix is a big factor. The pay-per-view market has been under some challenge past few quarters which has lowered our programming expense. It's unclear how much of that will continue, but absent the volume and mix issues I don't see any big traumatic changes.
+
+Marci Ryvicker -- Wolfe Research -- Analyst
+
+Thank you.
+
+Operator
+
+Your next question comes from the line of Mike McCormack from Guggenheim Partners. Please go ahead.
+
+Mike McCormack -- Guggenheim Partners -- Analyst
+
+Hey guys, thanks. Maybe, Tom, just a quick comment on the stream product, what you're seeing there as far as perhaps cannibalization of traditional linear. And then why not use that as a more aggressive tool because the pricing for that double play is a lot more attractive than some of these synthetic bundles out there [Technical Issues] offering. And then -- sorry if I missed this, but on the wireless side, any comments on the Altice pricing? And then I guess thinking about the pacing of adds, obviously a big ramp-up. How should we think about that as we go into 4Q? Thanks.
+
+Thomas M. Rutledge -- Chairman and Chief Executive Officer
+
+I guess in terms of stream, we've been selling that to people who are financially constrained mostly in a very selective way. And that's a big problem in the whole video space in that the traditional bundle, the product, is very expensive and the rate -- the actual unit rate of that product continues to rise and its price -- to a lot of people out in the market -- and as I said earlier, it's free to a lot of consumers who have friends [Phonetic] with passwords.
+
+And so our ability to sell that product is ultimately constrained by our relationship with content, and we have to manage that in terms of the kinds of power that the content companies have, in terms of what we can do with bundling and not. And so it's really a limited solution for us in terms of video. And the bulk of our customer relationships, long-term, in video, will continue to be big packaged expensive bundles of content because that's the way it's sold to us and dictated that we provide it in that form.
+
+In terms of Altice pricing, I think it's good, and our pricing is quite valuable too to consumers and saves them an enormous amount of money on an annual basis, and we think that our pricing is good in terms of driving growth and if they want to sell their product at $20, they could just try.
+
+Christopher L. Winfrey -- Chief Financial Officer
+
+It's attractive pricing. It's a different MVNO with a different operator and over a different time frame. And -- but I think it's generally good for cable that they're out there driving and pushing that type of an aggressive product as well.
+
+Mike McCormack -- Guggenheim Partners -- Analyst
+
+Great. Chris, just on the pacing of wireless subs?
+
+Christopher L. Winfrey -- Chief Financial Officer
+
+Yes. And I mean -- I think Tom was asked a question by Jonathan early on the pace of growth. We did -- we're still hitting our full stride. You'd say that all of our BYD was fully implemented through the end of the quarter. SMB, it just barely started to launch -- actually, hadn't really launched in earnest by the end of the quarter, and our store footprint is going to continue to expand. And so...
+
+Thomas M. Rutledge -- Chairman and Chief Executive Officer
+
+All of our sales channels continue to perform better...
+
+Christopher L. Winfrey -- Chief Financial Officer
+
+To get better. Our yield continues to get better. So it's still a relatively new upstart business and so there is some risk in saying what we're saying. But we don't see any reason that it shouldn't continue to get better and to have more sales and more yield and more net additions over time and add more value to cable.
+
+Mike McCormack -- Guggenheim Partners -- Analyst
+
+Great. Thanks, guys.
+
+Christopher L. Winfrey -- Chief Financial Officer
+
+Yeah.
+
+Operator
+
+Your last question comes from the line of John Hodulik from UBS. Please go ahead.
+
+John Hodulik -- UBS -- Analyst
+
+Great. Chris, I just want to follow up on your comments that the Company is getting more efficient in its use of capital. A, does that suggest a sort of another stepdown in capital intensity as we look out to 2020? Can you give us some examples of how that's the case? And is it your view that the business model in general is getting more capital efficient as we move more toward a connectivity model and less from -- and away from a video-centric model?
+
+Christopher L. Winfrey -- Chief Financial Officer
+
+Yeah. John, you're trying to dupe me into 2020 guidance on capital when we told you [Indecipherable] in 2019. So -- and now look, I'm not going to talk about a dollar amount for 2020. It's way too early for that, and I'm not sure that we're going to anyway. But what I did say today and we feel strong thought is that our cable capital intensity -- so capable capital expenditure as a percentage of revenue, is going to continue to decline into 2020 for all the reasons that we mentioned before.
+
+Just the mere fact that integration spend continues to decline is essentially will be gone next year. And -- but also the amount of DOCSIS 3.1 headroom that Tom talked about before, the point that you just raised that increasingly video is more and more boxless and as it becomes tied to the IP Internet product, anyway it's becoming less capital intensive, and I think there is a lot of factors inside the business that are driving us to be much lower capital intensity. I could go down a list: more self-installation, the headroom inside of the network, the lack of CPE per connect and the use of boxless connects, the average age of our existing boxes, meaning they can be replaced one for one as opposed to new boxes being purchased to replace old boxes. It's just -- and the amount of churn inside the business.
+
+If you think about churn coming down, that also takes down your capital significantly. So there is a lot of momentum in the business to not only remove your -- or lower your cost to serve per customer relationship on OpEx, but related to the same thing on a CapEx basis. And ultimately a lot of that CapEx is fixed CapEx for the network, and to the extent you have higher penetration, we're probably the fastest growing cable company, at least in the western world, and when you have that type of growth and that type of penetration expansion, it means you become more efficient on your capital as well as your OpEx. And so we're seeing the benefit of all of that.
+
+John Hodulik -- UBS -- Analyst
+
+Okay. Thanks, Chris.

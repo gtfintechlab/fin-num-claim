@@ -1,0 +1,624 @@
+Wolfe Research Conference Call with PayPal Post 1Q20 Results Transcript
+Held On: May 7, 2020 – 1pm EST
+PayPal Participants:
+John Rainey – CFO
+Erica Gessert – SVP, Financial Planning and Analytics
+Gabrielle Rabinovitch – VP of Investor Relations
+Wolfe Research Participants:
+Darrin Peller – Managing Director – Payments, Processors, and IT Services
+Operator Introduction:
+Good afternoon and welcome to the Wolfe Research fireside chat with PayPal, CFO webcast, hosted by 
+Wolfe senior analysts covering payments, processors, and IT services, Darrin Peller. All attendees will 
+remain on listen only mode throughout the call. If you'd like to ask a question, please find the questions 
+icon in the menu on your screen and now I hand the call over to Darrin.
+Darrin Peller:
+All right, thanks Analynn, and thank you everybody for joining us this afternoon Eastern and morning for 
+those on the West Coast. First of all, I just want to reiterate, we hope everybody is healthy and doing 
+well and managing through this as well as possible. But most of all, I really want to thank everybody for 
+being with us and really want to thank PayPal's management team here. So we have John Rainey the 
+CFO of PayPal, on with us. We have Erica Gessert, who's the SVP of Financial Planning and Analytics, who 
+can give us some really good insights into some of the trends, consumer behaviors and analytics they're 
+seeing. And of course we have Gabrielle from Investor Relations as well. And so with that, John, thank 
+you for joining. Why don't we start with you and I really do appreciate the time this afternoon.
+John Rainey:
+Well thank you Darrin. I appreciate you hosting this call. Look forward to our conversation today.
+Darrin Peller:
+Thanks. Look guys, anybody else that's on the call that wants to ask a question at the end, we're going to 
+try to keep this to about 35, 40 minutes of Q&A between us and the PayPal team. But feel free to email 
+either the fintech@wolfresearch.com inbox or you can just type it into your text box if you're logged in 
+on the link. 
+So with that John, if you could just tell us more, I mean it was pretty clear and substantial, the trends we 
+were seeing and really to some degree even the dramatic shift in trends you're seeing in the business. 
+Maybe just start off with a reminder, what did you see in terms of the shelter and place orders, the 
+spread of the pandemic, how did that affect you in March? And then obviously as we just alluded to, it 
+really does look like you had a massive 180 in April. If you could just talk more about that first.
+John Rainey:
+Sure.
+Darrin Peller:
+And then maybe we'll get into a little more in the weeds after that.
+John Rainey:
+Okay, sure. So you're right, Darrin, and it's been exceedingly difficult to really forecast during this period 
+because of these massive cross-currents that we've seen. They follow what has happened in society. 
+Right? So if you think about the beginning of March and maybe have more of a U.S. centric focus, like 
+the first thing that people did was they stopped international travel, then domestic travel, and then 
+shelter-in-place measures took hold. And so we saw the travel and event vertical come down sharply. 
+That caused a lot of concern because that was happening actually before we saw some of the uptick in 
+e-commerce spend. Then as we got into the back half of March and into April, we started to see more 
+consistent trends in our business at very elevated rates.
+And there were some hypotheses that as we got through April, some of this was due to stimulus checks. 
+Quite frankly, it's been difficult to parse out the impact of that. Even as we look around the world where 
+the level of stimulus has differed by country, there has not been any notable change in trends. It's very 
+consistent in terms of high levels of e-commerce.
+Obviously, initially there was a big focus on groceries and personal protective equipment and things like 
+that, but this has taken hold in other areas like fashion for example. If you're working five days a week 
+and you usually went to the dress shop on Saturday and the dress shop is no longer open, we're seeing 
+people shopping on Saturday more. Even the day of week trends have changed dramatically to where 
+historically Monday has been our largest day of the week in terms of volume. Now we're seeing huge 
+shopping days on Saturdays.
+I think the multimillion dollar question for us is how much of this is ephemeral and will go back to 
+normal when these shelter-in-place measures are relaxed versus how much of it are truly changes in 
+consumer behavior. And on that point, we've been doing a lot of customer surveying and anywhere 
+between a third to almost 75% of our customers, depending upon the nature of how the question is 
+asked, have suggested that they're going to continue doing things like shopping online for groceries and
+things like that, that they weren't doing before.
+Darrin Peller:
+That makes a lot of sense. I mean, so when you think about what we saw in April where, obviously it 
+almost looked like it accelerated as the month progressed. I mean, look a common question we've 
+gotten is obviously how much of it related to stimulus checks. I mean, it's probably hard for you to 
+exactly tell, but what you're saying it sounds like is that there's been indications that at least a third or 
+more are indicating they're going to keep going with this in terms of using the actual new initiative, new 
+capabilities they didn't really use before.
+John Rainey:
+Yeah, you're exactly correct. So with stimulus checks, again we're certain there is some impact, but it's 
+very hard to see any appreciable effect from that when we look at comparisons of regions around the 
+world. But I used kind of a cheeky example yesterday on the earnings call, but like buying groceries. If 
+you want to be able to hold the avocados to make sure that they are ripe, maybe you wanted to go to 
+the grocery store, but when you go through that experience and then you realize like, wow, that was 
+really effortless and I got exactly what I wanted, you have a tendency to continue to do that. And so, we 
+do expect some of these trends to have some staying power.
+I'm not suggesting in any way that you're going to see these e-commerce levels that are two to three 
+times the growth rate of what they were pre-coronavirus. But we do think this is kind of a seminal 
+moment where there's a big shift to e-commerce, but I think just as importantly, even when the 
+compulsory shelter-in-place measures are relaxed, the health concerns are still there. People are still 
+going to be concerned about touching a keypad on the point-of-sale device or handling cash in the store. 
+So that's why we've shifted some of our strategies to focus on those things that matter to customers.
+Erica Gessert:
+John and Darrin, this is Erica. I just thought I'd add a little bit of additional color and nuance to some of 
+the survey data that John referenced. We are doing surveys week by week, by week as customers are 
+coming on. And one of the interesting things that we've seen is not only are customers kind of saying, 
+"Hey, we're going to persist in some of these activities." But we're also hearing from customers saying, 
+"Hey, this is the first time I've done this." So 20 to 30% of people are saying this is the first time I've 
+actually bought groceries online or ordered from a restaurant online, actually up to 40% are saying it's 
+the first time I've done a big box retailer purchase online.
+Then there are also people, who as the weeks mount saying, "I'm intending to do this after shelter in 
+place abates." So it's quite interesting to see what the customers are telling us on that.
+John Rainey:
+Yeah, Darrin, one more thing to add to that, which was kind of interesting as we think about the 
+evolution through March and April. Initially there was, I think as people were working from home, you 
+saw a lot of things like office supplies or people buying a chair that's ergonomic that they can sit in, or 
+home and garden was kind of a curious one where we saw a big uptick. And that made sense because 
+this was a new environment and people needed new things. But as we've progressed all the way into 
+May now we're seeing a more balanced shift across many of the verticals. This is more representative of 
+just a normal day of business for us.
+Darrin Peller:
+Yeah, I think that makes a lot of sense. The data's really helpful. On that note, when we think of the 
+material net new active growth you saw in the month of April, specifically, I think you said 7.4 million. 
+We think about that relative to a normal month for you guys, which has been somewhere in the two to 
+three million, maybe a little over three and a good quarter range. I mean it's just remarkable. And 
+talking about, I think, you said 10 to 20 million for the quarter over and parsing that out a little bit. I 
+mean if you can give us a little more of a sense of who these net new actives are by a combination of 
+brands, PayPal checkout specifically versus Venmo versus maybe Xoom. Where are they coming from? 
+Are they again I guess just more P2P or commerce or any other details, I think would be really helpful.
+John Rainey:
+You bet. Erica you want to take that?
+Erica Gessert:
+Sure, I'll take it. So I think as we talked about on the call, the increase in NNAs is quite broad based. 
+PayPal and Venmo both have very significant growth, compared to pre-COVID levels. Xoom is at 400% 
+compared to pre-COVID levels. It's obviously still a smaller share of NNA's and actually Honey in April 
+had about the same number of NNA's that they had in all of Q1. So all of these across, kind of across the 
+business, we're seeing a lot of growth.
+Between, P2P and commerce - I mean it's actually very, very evenly spread. And the other thing that 
+we're seeing is it doesn't really matter whether it comes from P2P or commerce because the next 
+transaction is mixed as well. Right? So if somebody comes in through commerce, the next transaction is 
+quite often P2P and vice versa. So people are kind of coming in, they're adopting it at 30% higher rate 
+than they did kind of a year ago, similar cohorts. And so they're coming in, they're actually getting to 
+their third transaction much, much faster. And we're seeing a variety of transactions as they do come in.
+John Rainey:
+A little bit, a point of clarity on that. So one of the things that Erica's team looks at is what we call our 10 
+day adoption rates. And for us that’s when a new customer has completed their third transaction. And 
+those 10 day adoption rates for these new cohorts that are coming in, are 30% higher than prior 
+cohorts. And more over when we look at just engagement around like daily active users, that's up 20% in 
+the month of May.
+Darrin Peller:
+Wow. That's incredible. I mean with regard to regional details, is there any more comment you can give 
+us just in terms of where they're coming from?
+John Rainey:
+We've been asked that question a few times, Darrin, and there's not something meaningful to call out. It 
+is really broad based. We see this around the globe. Certainly I think China stands out as one that as you 
+contrast to the first part of the first quarter, we were at much more depressed levels and that has
+rebounded appreciably. Although, I'm cautious to say that that is, the example that the rest of the world 
+will follow. I think China's different and for a lot of reasons you might expect different behavior there. 
+But we're just, whether it's Germany, Australia, and New Zealand, just around the world, we're seeing 
+these elevated levels across the board.
+Darrin Peller:
+Yeah, all right. I mean, from the sound of your answers, it seems like a lot of these users that are new or 
+not necessarily just pulled forward from future years, but frankly a lot of them wouldn't have potentially 
+used it before. I think you alluded to certain types of demographics on the call. So that's certainly nice to 
+see from an additive standpoint.
+When we think about engagement levels relative to other cohorts of new users, I mean I think you 
+started to suggest on the call yesterday it was strong, but any more details would be really helpful on 
+some of the trends you're seeing.
+John Rainey:
+Sure. Erica?
+Erica Gessert:
+Well, yeah, I mean I think on engagement, like I said, that the things that are kind of signals to us are this 
+10-day adoption rate, which is 30% higher. I mean that's extremely positive. The other kind of a signal 
+for us in terms of long-term retention and engagement is the diversity of transactions or the number of 
+products and merchants that people use when they come on. And all of these are at elevated levels 
+versus what we normally see. So I think we, I always want to be cautious, six weeks doesn't make a 
+trend, but we are seeing these metrics consistently improve with each new weekly cohort. So we're 
+feeling very good about it.
+Darrin Peller:
+Great.
+John Rainey:
+The other thing, Darrin, I'd point out, is that, while surely some of this is perhaps pull forward from net 
+new actives we might have expected to get in the future. We're seeing a big shift in demographics as 
+well though. So we think a lot of these are customers, as noted earlier, that the silver tech category that 
+are actually purchasing something online for the first time and we might not have otherwise got them as 
+a customer.
+Darrin Peller:
+When we think about engagement level just a little more broadly now, longer term, I mean that's an 
+area that we've been focusing on, you guys have clearly talked a lot about. This is helping to some 
+degree in terms of near term, but longer term, what do you think is the potential for overall levels of 
+engagement in the business and have any of your plans around the initiatives you had previously had to 
+improve engagement been changed or put on hold or even accelerated?
+John Rainey:
+We've had this aspirational goal of PayPal and Venmo being an everyday part of our customer's financial 
+lives. I think, that's a long way from where we are today. You might call that aspirational, but the plans 
+that we have internally are directed to try to achieve that. One of the things that we recognize is to 
+achieve that, we need to have a presence in more than just online shopping. Offline is a space that we 
+need to occupy. And previously we thought that that would be longer to play out, particularly in the U.S. 
+and some of our core markets that we're in. But we also think that, again, I don't want to sound callous 
+about this, but we can capitalize on some of the anxiety and fear that exists about going into a store, 
+and touching a keypad or handling cash. And so that's why we've shifted some priorities to go all in on 
+this right now.
+Look, this is not just us sitting in a conference room and saying, "This would be nice to have." We're 
+hearing the demand from merchants. Some of the top merchants in the country are talking to us about 
+what we can do to have contactless payments in store. This is kind of a sweet spot right now where 
+there's, I think, a strong demand from consumers and merchants who want it as well.
+Darrin Peller:
+Yeah. I think some of the greatest level of excitement from investors after yesterday was just the pure 
+math of a slightly higher engagement level lasting beyond just this pandemic. Times the net new actives 
+numbers, obviously it could be very, very powerful. I guess we'll have to wait and see what's truly sticky 
+about what we're seeing now in terms of behavior, but, correct me if I'm wrong, it sounds like you 
+expect at least some of those behaviors to be sticky, although you can't tell for sure about how much of 
+it yet. Right?
+John Rainey:
+That's true. Look, we don't want to get ahead of ourselves here. As Erica noted, six weeks does not 
+necessarily make a trend that we can extrapolate out into perpetuity, but... Certainly when people have 
+mobility and social distancing measures are relaxed, we're going to expect some type of return to... we'll 
+call it normalcy. But we do see that some of these behaviors are going to stick. Xoom is an interesting 
+example, so our remittance platform. If previously you were going into a physical location to transfer 
+money to a loved one internationally, and now you can't do that so you sign up for Xoom and you use 
+that platform, you're never going back. It is too easy, too convenient. It's less expensive. Some of these 
+things we really do expect will be sticky and have some permanence.
+Darrin Peller:
+Okay. Real quickly before we go into the next topic, just the merchant new actives and the merchant 
+demand, I think that's a key topic we're hearing from across the industry right now, is anyone that can 
+help with onboarding around e-com, digital, omnichannel, what kind of trends are you seeing there in 
+terms of incremental merchants that maybe you would have liked to have had before but were tough 
+for some reason or another competitively?
+John Rainey:
+Yeah. The trend that we've seen that is most pronounced on the merchant side are from merchants that 
+previously really didn't have an online presence, were reliant on a physical storefront. With businesses 
+closed, that's their lifeline, to actually begin selling things online. They're coming to us for the first time 
+to have PayPal process their payments. That's been, I think, a much larger portion of the new merchant 
+signup than what we typically see.
+Erica Gessert:
+I would just add one more point here. One of the other things that we are seeing and our quickest way 
+of measuring share of checkout is by looking at our full stack merchants, and we're seeing an 
+appreciable lift also in share of checkout. This is with our existing merchants. It's not onboarding, but it's 
+a really interesting phenomenon because we're now getting merchants who are existing merchants 
+coming back to us and talking to us about additional products and services, PayPal Credit if it wasn't 
+there before, because they're seeing this appreciable lift. They're seeing the lift in our own business and 
+the increase in consumers, and they want to do more with us as well.
+Darrin Peller:
+All right. Thanks, Erica. Just to shift gears a little bit at least, but still on the topic of what you're seeing 
+recently, you're working with the U.S. government on several different stimulus programs. If you could 
+just tell us a little more about how you're partnering and what you're doing and maybe if this can 
+change some of the ways you work with the government over the long-term would be helpful.
+John Rainey:
+Yeah, I think it certainly can, Darrin. We've even seen a shift in how the government thinks about this 
+FinTech segment going through this. When the first discussions around mailing out stimulus checks were 
+taking place, we reached out and said, "Look, we can help here. We uniquely can help here." Who 
+knows if there will be additional stimulus checks that go out, but we've been working closely with the 
+U.S. government and other governments as well. We've been really pleased to be able to distribute the 
+amount of loans that we have to our merchants, and they're not just our merchants. Probably 80% of 
+the loans that we've distributed are to existing PayPal merchants. About 20% are to entirely new 
+merchants that have not had a relationship with PayPal but hopefully will going forward. Again, with our 
+technology, we solve a need here that exists.
+Darrin Peller:
+Okay. Guys, when we shift gears a little bit and talk more about some of the concerns in the economy 
+that we're seeing, how are you thinking about the recession we've now entered? Do you have any views 
+on the potential duration or how it could impact PayPal from all the data that you see? Are there any 
+indicators from what you're watching that can give us a read-through for anything in the near term or 
+even the medium-term impacts?
+John Rainey:
+I'm probably no better equipped than your audience to opine upon what we see, but we're certainly 
+being very measured and conservative as we look at the potential impact. None of us in our lifetime 
+have seen unemployment at this level, but at the same point in time, we haven't seen the Fed step in 
+and provide stimulus like they have and take the measures that they have. It's very hard to predict, and 
+what the shape of the recovery is, how deep we go. PayPal is certainly tied to consumer spending, no 
+doubt about that. But at the same point in time, I don't think that you can look at a moment in history 
+when e-commerce has not increased, even through prior recessions. I hesitate to call it recession-proof, 
+but it certainly is more immune to it than maybe other trends that we see so that the shift to online is 
+happening whether people's spending levels are going down or not.
+I think importantly as we think about parts of our platform, Honey is a really interesting example in that 
+it caters to the very need that people have when their pocketbooks are getting tighter by looking at 
+deals on certain items and trying to find price points at which customers are willing to buy them. We 
+think that we're somewhat insulated. I don't want to suggest that there would be no impact, but given 
+the breadth and diversity of our platform, we certainly think that there are aspects of it that are more 
+immune to a recession or spending levels than others.
+Darrin Peller:
+Right. Going back to the results on the first quarter for a minute, and we got this question from a couple 
+of investors, more even leading into earnings, but you updated revenue guidance of the quarter in late 
+February and then came in meaningfully below that 1% headwind to growth that you called out. If you 
+could just talk to us more about the revenue that was impacted in the quarter, and how big are the 
+travel and event verticals for you? If you want to just give a little color on why you didn't actually preannounce in late March or early April, I suppose it was just because some of the trends you were seeing 
+inflecting, but any more color would be helpful.
+John Rainey:
+Sure. When we updated our guidance, I think it was February 27th. At that point in time, COVID-19 was 
+really contained to China and some of the adjacent countries. The impact was a point of revenue growth 
+for us. Within the guidance range that we provided, and we affirmed our EPS guidance, as we got into 
+March... I wish I had a better reason to give you in terms of why we didn't update, but honestly, Darrin, 
+it was impossible to predict. When we looked at the trends, literally if we would have gone out and said 
+something on March 14th, on March 16th, what we would have told you would have been... It would 
+have been different. We wanted to provide an update, but we didn't think that we could be reliable 
+because the trends were changing so quickly. Importantly, it's back to this notion of cross-currents. We 
+had one part of our business, the travel and event vertical, which, to your question, is about 9% of our 
+normal volume. We had that. That was plummeting.
+Not only did we see the growth decrease in that vertical, it went negative because the number of 
+refunds that were going out vastly exceeded new bookings. It was negative TPV for us for a period of 
+time. You had that going, and then following that was the beginning of the e-commerce strength that 
+we saw. It was just exceedingly difficult to go out and provide any type of guidance that we thought 
+could be relied upon. Then as we got into April and we closed the books, we thought about preannouncing and updating the previous guidance that we had given, but we also thought that we needed 
+to provide context to our numbers. I think you probably saw a little bit of that yesterday just in the stock 
+price reaction. On the print, we were down 5% or 6% and that rebounded after people understood the 
+underlying story. We elected to just wait until earnings. Also, that's why we pushed back earnings a 
+week, so that we could have the full month of April to provide those trends.
+Darrin Peller:
+All right. Just sticking with the recent trends then, if we touch on P2P, Venmo, Xoom versus PayPal, can 
+you just talk to us what you're seeing on the P2P side again? I know you said Venmo grew 48%. 
+Obviously, that's impressive, given the nature of it. I guess just talk a little more about the use case 
+changes you're seeing. Then maybe on the remittance side also, we've seen forecasts that are a really 
+tough environment for global remittances, the World Bank calling for, I think, a 20% drop, given 
+recessionary concerns, just remind us again how you're seeing things differently in Xoom.
+John Rainey:
+Sure. With P2P in general, it's the same composition that we've seen historically in terms of where that 
+usage is. Some of the use cases have changed, which segues sort of to the Venmo part of the question 
+where we were going into March with levels of growth on Venmo well north of 50%. As things like 
+March Madness... That's something that drives a lot of P2P volume. People want to go exchange bets on 
+basketball games. With that cancellation, that caused a drop-off to where Venmo growth was only 
+around 30% for a period of time. But then we noticed the use cases starting to change and the desire for 
+people to have increased spending limits.
+Actually, we reacted pretty quickly to respond to our customers and increased spending limits for a 
+significant portion of that population as those use cases were changing. Even as we look today, the 
+overall level of Venmo transactions is down from what we expected, but TPV is back to what we 
+expected because of the higher spending limit size. On Xoom, certainly I think across the board you've 
+seen international remittances decline. But as we've noted there, we've picked up some share shift, and 
+some of the year-over-year increases in our customers or even going back to just pre-COVID 
+comparisons are in the multi-hundred percent range.
+Darrin Peller:
+Got it. All right. Then on eBay, we've gotten a handful of questions. It looks like eBay obviously had a 
+strong Q1 and that April was off to a good start. How much of the upside are you seeing coming from 
+eBay? If you could just update us on your expectations for their managed payments initiatives, is it still 
+on track versus your expectations?
+John Rainey:
+Sure. eBay, really, as you look at the month of April and even into May, , the benefit is proportional to 
+the size that they are of our business, which was 8% of our volume in the first quarter. But certainly very 
+early on, they accounted for more than that. What we saw is there was a lot of PPE that was being sold 
+on eBay and the transactions in some days was 60% to 70% growth year-over-year. What happened 
+though, there was actually quite a bit of a fraud that was taking place.
+People were selling counterfeit items or not what they were purported to be, and eBay clamped down 
+on that. I think the last number I saw was they shut down like 5 million different products that were 
+being sold around that. We've seen their growth levels normalize and come back in line with the rest of 
+our business. On managed payments, I would say that that's generally tracking as we had expected. As 
+they begin to more fully transitioned in the back half of this year, we built that into our guidance. Again, 
+we do expect that we will retain a considerable amount of that business, particularly on the branded 
+side, which is the more profitable element for us.
+Darrin Peller:
+All right. All right. That's helpful.
+John Rainey:
+Maybe one thing to add to that, Darrin, and Gabrielle or Erica, you can correct me with the number, but 
+on Germany, where they've already had the ability transition 10%. They're only at...
+... 6%, which gives them some indication too, Darrin, of the merchant desire to shift. That plays into our 
+thinking on this as well. Again, just because they offer something doesn't mean that merchants want to 
+move to that.
+Gabrielle Rabinovitch:
+Overall, on their most recent call, they called out about 32,000 merchants having moved over to their 
+managed payments program. Clearly, that's a very small segment of the overall merchants that we serve 
+that are eBay merchants.
+Erica Gessert:
+Yeah. I would just add, I mean, we were actually expecting, in our own planning, we were expecting the 
+transition to be faster given the parameters of their way. Yeah. There's nothing to add to John's point on 
+branded share of checkout. I mean, we see very, very high and increasing share of checkout actually as 
+even as merchants are transitioning over to managed payments. We feel pretty good about it.
+Darrin Peller:
+Okay. Thanks. All right, let's shift down the P&L lines a little bit. I mean, there's definitely been questions 
+on the strength of your volume-based expenses. Transaction loss and transaction expense were strong. 
+How should we think about the sustainability of that performance we just saw?
+John Rainey:
+The transaction loss results that we've reported now for four quarters, I think it's where we are more 
+comfortable, assuming that's the new run rate . It may vacillate a little bit in one direction or the other, 
+but you know we are at levels that are 20% to 30% down on a unit basis from where they have been 
+historically and that's been driven by improvements in our own capabilities there. I think it's safe to 
+assume that we can be more confident in counting on this going forward.
+Transaction expense is less something that we're doing and more just a result of mix. If you think about 
+verticals like travel and event where we do a lot of unbranded card processing, those obviously carry a 
+higher transaction expense. The dip down to 91 basis points is more reflective of the mix change in our 
+business that we're seeing, which arguably, some portion of that is more temporary.
+Darrin Peller:
+Okay. All right. Thanks. John, in just thinking about other expenses and really operating margin, you 
+obviously showed really strong margin trends in calendar or in the first quarter before we started to see 
+some of these impacts. How should we think about operating margin expansion in this environment? 
+Still think about expansion over time and then in the near term, are you targeting a certain level of 
+operating margin performance? I bet if you could even add on to that, what type of expense levers you 
+have to manage OpEx in this environment. That'd be helpful too.
+John Rainey:
+Sure. Our thoughts around operating margin are consistent with what they have been over the last 
+couple of years where we want to continue to invest in the business appropriately but still show margin 
+expansion. Some of what we're seeing right now is actually more related to strength on the transaction 
+margin side as the revenue flow through to earnings is higher on branded experiences and so that has 
+less to do with what we're doing on the operating expense side. We haven't actually taken any 
+concerted initiatives or efforts related to Coronavirus to manage operating expenses. We've said we 
+want to continue to invest. In fact, the range that we provided on our second quarter earnings was 
+intended to reflect that there are a number of different outcomes depending upon the pace at which 
+we're willing to invest in the quarter. We're certainly prioritizing organic investment, but we believe we 
+can still do that and show the operating margin expansion.
+On the non-volume related expenses. If you just look at it on an organic basis, we're flat in the first 
+quarter and we think that we'll continue to perform at the level that we have historically because of the 
+scalability of our platform. There are a number of different options if we need to pull those levers. Some 
+of them too, Darrin, are actually happening naturally. I'll give you an example. Customer service, we've 
+got 5,000 internal employees and an equal number of external employees that manage our contacts. 
+We receive about 60 million contacts a year. In 10 days time, we moved the entirety of that workforce 
+to a work-from-home experience and what we're seeing is actually lower contact rates and the highest 
+productivity levels that we've ever experienced, measured in terms of the number of contacts that a 
+teammate can handle in one hour.
+This is a very efficient way for us, but also in a call center environment, the challenge is always matching 
+the staffing level to peak demand. You've got these demand curves that come in during the day and it's 
+difficult to do that when you're actually asking someone to come into the office to field that contact 
+because to match that demand curve perfectly, you might need to schedule someone for one or two 
+hours. We don't want to ask an employee to do that when you've got a 30 minute commute each way.
+If you're sitting at home and we know that our peak contact is between eight and nine in the morning, 
+we can actually ask somebody to work for an hour and then take a couple hours off and then resume 
+after lunch. It actually enables us to be a lot more efficient. These are just some byproducts of the 
+environment that we're in.
+I don't expect that we're going to go back to exactly the way we were before. Certainly with customer 
+operations, even our risk management, we see that we can effectively handle this from a work-fromhome type program. 
+Darrin Peller:
+Okay. Right. There are definitely some of these that are permanent changes, but clearly you're also 
+trying to manage. I guess, one other question on the P & L side is just on the credit impacts. I think a lot 
+of investors expected some of this, but there was some surprise though on maybe the CECL changes. If 
+you just touch on if you feel your coverage is now adequate on from a reserving standpoint or should we 
+expect to see an additional impact in Q2? Any of your thoughts changed about moving credit off balance 
+sheet further and then maybe just touch on your Synchrony RSA income stream, that risk or not. Those 
+are some of the common questions we're getting on credit right now.
+John Rainey:
+Sure. We've always been very mindful of the potential risks that could exist by being too heavily focused 
+or levered to the credit business. Fortunately we sold the U.S. consumer credit receivables book because 
+certainly during this crisis that we're going through, that would have had a larger impact than we would 
+have wanted. When we look at the coverage or the reserve that we have for that, there are a number of 
+factors that go into that impact, the coverage there or the reserve there. Unemployment probably being 
+one of the larger ones. When we took all that information into account and admittedly, there's some bit 
+of subjectivity to it as well. We believe that we were fully reserved for the environment that we saw at 
+the end of the first quarter.
+If that got worse, could that result in additional charge? It could. As I sit here today, it doesn't feel very 
+different to me than it did at that point in time. I have to point out, we are, our coverage ratio is 17% so 
+that's, I think well north of what the industry average is. We feel pretty good about that. We'll continue 
+to monitor credit and assess the riskiness of that, but it's got to, it certainly has a place in our platform. 
+We would not have been able to do a lot of the things that we did for our customers, if not for that 
+credit business.
+Then lastly, I would just say when we look at the overall increase, the $237 million increase that we 
+made related to CECL, that's relatively small against a backdrop of one-and-a-half billion dollars of 
+operating cash flow, $1.3 billion of free cash flow. We think that it's well contained within our business.
+Darrin Peller:
+Okay. Look, when we put it all together, thinking about modeling OVAS revenue growth over the course 
+of the next couple of quarters, can you just give us any insights on how investors should really think 
+through that?
+John Rainey:
+Sure. There's a couple of puts and takes there. Specific to the second quarter, we will be lapping last 
+year, excuse me, where we had a $58 million benefit related to Synchrony paying us to service during 
+the transition time period. We're lapping that and then as we look at just the back half of the year as 
+well, we've got a lower interest rate environment and that's where we recognize interest income on our 
+customer balances. Those are a couple of negatives.
+Specific to the second quarter, obviously given that we've relaxed some of the given payment holidays 
+and things like that to our credit customers, we're going to see the credit part of that be down 
+appreciably and then offsetting all of that to a certain extent is the addition of Honey year over year. 
+The net of all of those things I just talked about in the second quarter is going to result with other value 
+added services being in the range of what it was in the first quarter. Probably slightly worse than that. I 
+would expect it to be flat to slightly negative in that range given what we see right now. Certainly it will 
+improve upon there as we go into the back half of the year as we no longer were lapping the Synchrony 
+transitioning to agreement.
+Darrin Peller:
+Okay. Honey is what contribution right now and how has it been going? I know you guys touched on the 
+call, it was obviously sounding pretty strong, but any quick update there?
+Gabrielle Rabinovitch:
+Yeah, so from our revenue, Honey represented about $45 million of revenue in the quarter and that was 
+basically what our plan was. I believe for Q1, Honey added approximately 680,000 users. Those were 
+users on top of the initial addition that we added that 10.2 upon closing of the transaction in the month 
+of January, and then for April, I think Honey added about 640,000 users. We don't segment report, so 
+we don't give profitability of Honey on its own. That said, we did call out that non transaction related 
+expenses would have grown. They would have been essentially flat, less than 1% growth, but for 
+acquisitions, you can think about the vast majority of that coming from Honey expense base.
+Darrin Peller:
+Okay, thanks Gabrielle. John, when you think about your guidance now, obviously you know there's 
+some questions we're getting over the 20% growth rate in revenue in April versus the 15% on the 
+quarter. I think you touched on it on the call yesterday, but any more color you can give us on the 
+assumptions and the scenarios that got you to 15% growth? I guess just if you come in lower than that, 
+what would have happened differently and if you feel that 15% is appropriately conservative given the 
+backdrop of the environment?
+John Rainey:
+I think there's a lot of unknowns right now and I think as noted yesterday, probably the thing at the top 
+of the list is how long does shelter in place last and what are the reversion of behaviors once that's 
+relaxed? Gosh, we just don't know. You're seeing, I think 60% of the country is still subject to shelter in 
+place. We're keenly watching some of these regions that are relaxing these in advance and we've got a 
+couple data points in Austria and Germany where they've done that in advance of others and we're 
+seeing some more elevated levels of eCommerce spend but we just don't know. We do have some 
+assumption about the level of eCommerce spend coming down from where it is today as those 
+measures take place. It's tough to say.
+We think that 15% - it could be on the conservative side. If it got less than that, then we've probably 
+seen something that's been pretty dramatic relative to what our expectations are today. At the same 
+point in time, I want people to appreciate that whenever we exit this, whatever that looks like, there is 
+the reverse of what happened going into this is going to happen. Meaning that if shelter in place relaxed 
+and people no longer are shopping online and they can go shop in physical stores, we'll see that 
+eCommerce trends come down some, but the longer lead time items like travel and events, you're not 
+going to book a trip to Hawaii and fly there on Saturday. It's going to be weeks out. When that revenue 
+comes back, it may actually take some time. There's a pace at which this recovery happens and that 
+impacts our business in a similar or reverse way of what happened in March.
+All those things factor into the consideration that we've given to our forecast. Then I guess lastly, I 
+would say, credit is still, that impacts us quite severely in the second quarter as we've relaxed a lot of 
+measures for our customers, giving them payment holidays.
+Darrin Peller:
+Right. On that note with credit, I mean look, in general terms, is there any other variables that we should 
+keep in mind? Not on the revenue side for guidance, which sounds like you're trying to really factor 
+anything you can that you know about in the environment. On EPS, I mean there's transaction losses, 
+there's credit, there's obviously your own expense management. Any other key factors we should keep 
+in mind that if you actualize that 15% growth would get you to the higher low end of your range?
+John Rainey:
+Well, a lot of the flow through on earnings are revenue from these higher transaction margin branded 
+transactions. If that's more than what we saw in April, that has some opportunity for EPS, appreciation 
+relative to the guidance that we've given. We are somewhat, we're investing quite a bit in the second 
+quarter, but there's a pace to which we can do that responsibly as well. We don't just want to throw 
+money at things. We want to be thoughtful about how we're going about some of these initiatives and 
+the extent or the pace at which we can do that could impact our performance in the second quarter as 
+well.
+Darrin Peller:
+So you pulled the full year guidance, which I understand given the uncertainty in the back half, but your 
+medium-term guidance I think is still intact?
+John Rainey:
+We've not changed our medium-term guidance. That's correct. And look, there's just a tremendous 
+amount of uncertainty and who knows what the economy looks like 18 months from now, and who 
+knows how much these e-commerce trends continue, the extent to which they continue. We think that
+there's some puts and takes there. Very clearly there will be some impact on personal consumption if 
+we have prolonged levels of unemployment at this level. But there's also some secular changes taking 
+place in front of our eyes around e-commerce spend and how people are behaving, and so that endures 
+to our benefit in that case.
+Darrin Peller:
+Yeah. Yeah, that makes sense. Look, just to wrap it up before we take questions from anyone in the 
+audience, but 1.3 billion of free cash in the quarter I think is 60% growth over last year. We've got some 
+questions on whether you benefited from any one-time items on that, or at the same time you also 
+drew down from the revolver in the quarter. Are there any differences in your free cash generation 
+profile that we should just keep in mind?
+John Rainey:
+The free cash generation profile will generally follow the earnings profile. So as we've got a higher flow 
+through on some of the revenue that we're bringing in, that's going to benefit free cash flow, but 
+generally I would say we're still expecting to be in that 20% free cash flow margin range. Within the first 
+quarter specifically, there were some working capital adjustments, a couple of $100 million, that are not 
+representative of the true earnings in the business. And you can parse that out by looking at our cash
+flow statement on the 10Q
+Gabrielle Rabinovitch:
+In addition, cash taxes were a little lower, which is normal for us in Q1. CapEx is slightly lower typically 
+than our trend as well. But nothing new to call out.
+Darrin Peller:
+You did 800 million in buybacks in the quarter. Are there any changes in how you're thinking about 
+share repurchases? While you're on that, just any priorities as it relates to capital allocation at all?
+John Rainey:
+No change to our capital allocation strategy. But I'll add some color to that statement because I think 
+capital allocation in general is something that has been heavily scrutinized by companies as we've gone 
+through this, you've seen people stop share buybacks, stop dividends, things of that nature.
+We have a durable earning stream, and so we want to continue to do all the things that we were doing 
+in a balanced way. I think about our share buyback, probably a good way to think about that is just 
+offsetting dilution from share-based compensation this year.
+Certainly, given some of the priorities that we have around some of the investments that we want to 
+make. And look, we're also canvasing the landscape to see, are there companies that are attractive to us 
+that are complementary to our platform, that can help us accelerate some of the initiatives that we're 
+working on that are maybe priced more attractively than they were going into this crisis.
+So we're trying to be responsible and good stewards of the resources that we have to allocate that 
+capital in a way that maximizes shareholder value.
+Darrin Peller:
+Okay. All right, guys, last question for me before we take, there's a whole bunch of questions from the 
+audience on, but first with, just broadly speaking, your initiatives that you were working on strategically, 
+even before this started, you had so many different partnerships in the pipeline and in process.
+Any quick thoughts on any changes in those priorities, or the investments, or time horizon on whether 
+it's MELI, or it's Facebook, or Uber, or all the other big partnerships you guys were working through, 
+Paymentus? If you could just give us maybe a one liner on each, or something like that, would be great.
+John Rainey:
+Yeah, so I would say there's no substantive change in anything that we've talked about thus far, and I 
+think Paymentus is one that people have been appropriately focused on and that is on track. We're 
+pleased with how that's going and you'll see a more pronounced impact to our volume and our P&L 
+related to that in the second half of the year.
+At the same time, Darrin, like everyone recognizes that during the peak of coronavirus, everyone is 
+focused internally and focused on liquidity , and things like that. So there's a natural sluggishness that 
+exists when you've got a crisis like that and you're trying to work across companies but nothing that is, I 
+think, materially impacting our plans or substantively different than what we talked about before.
+Darrin Peller:
+Okay. All right. Why don't we jump to questions just in the interest of time. I'm just taking them in order 
+they came that we have listed here. And if anyone doesn't get to their question, guys, in the interest of 
+time, I don't think we'll get to all of them. Just email us after and we'll try to follow up. But what are the 
+most important overall TPV yields for both Q1, and how should we think about it for Q2?
+John Rainey:
+The TPV yields?
+John Rainey:
+Oh soDarrin Peller:
+The revenue yields, yeah.
+John Rainey:
+Yeah, yeah. So generally there's going to be a higher flow through in 2Q, meaning that a greater 
+proportion of revenue for the TPV that we're bringing in because of some of these branded experiences 
+and cross-quarter has rebounded as well. And that tends to, because of the nature of that, carry a 
+higher take rate in most cases as well.
+Darrin Peller:
+Okay. I guess so what you're saying is basically the type of mix that we saw in Q1 might actually reverse 
+to some degree, whether it's some of the Braintree versus some of the higher yielding cross-border and 
+other metrics?
+John Rainey:
+Well, if you look at some of the merchants and the travel and event vertical, like Uber or an Airbnb, we 
+tend to process quite a bit of their volume and there's always a relationship, an inverse relationship, 
+between the amount of volume that you process and the take rates that you're able to enjoy from that. 
+So as we see less volume on our platform from customers like those, that affects that relationship.
+Darrin Peller:
+Okay. All right. Another question, John, is, how do we bridge from the 35% branded revenue growth to 
+the 20% overall revenue growth seen in April? What are the pieces that are significantly underperforming versus strengths of the core PayPal brand?
+John Rainey:
+Well, Uber and Airbnb would be two that stand out there. Just some of the same merchants in the 
+verticals that I've mentioned, it's probably exactly the same phenomenon as the prior question.
+Darrin Peller:
+Okay. All right. Now, this next question we've gotten from a few different investors, but can you discuss
+what form the in store checkout takes hold? Is it more? Is it more than with a physical POS, or is it 
+partnering to offer PayPal via exiting in-phone wallets for NFC purposes, like Apple pay?
+John Rainey:
+Yeah, so there's a couple of different approaches there. One is the use of QR codes with the SMB 
+segment where that is the point of sale opportunity for them. The other is to look at potentially 
+partnering with existing POS providers to use PayPal as a form of payment there so it differs based upon 
+the size of the merchant and their breadth and ubiquity.
+Darrin Peller:
+Okay. And when you think about where you guys are on that process, in terms of trying to build further 
+along physical point of sale presence, can you just give us a little update there as well?
+John Rainey:
+So Darrin, we're, I think it's fair to say early on, but this is an initiative that we're focused on and have 
+resourced this appropriately. We do recognize this is a moment in time where, fair to say. Maybe the 
+stars are aligned to make this opportunity successful.
+And so, it's something that we won't be talking about launch of this in 2021. This is something that is a 
+priority for us right now and is an immediate thing that we're addressing.
+Darrin Peller:
+Okay. All right. And then, there's just one more bigger picture that we're getting from a couple of 
+investors, and this is around the value proposition of PayPal on the conversion in this environment and 
+really, it's the competitive dynamics. Implications on the competitive environment versus some of the 
+others. If you can just comment on how you see yourselves versus other e-com gateways, online 
+companies.
+John Rainey:
+Sure. Well I think there's nothing better than good hard data to speak to our performance versus others. 
+And we consistently see higher levels of conversion with PayPal than other forms of payment online.
+And that's one of the best and most compelling things when we go to merchants and try to sell the 
+PayPal propositions, excuse me. And when you're converting at two times the industry average that's 
+precisely what a merchant wants. And it underscores even more important in this type of environment. 
+So just a continuation of some of the strengths that we've had historically.
+Darrin Peller:
+Yeah. All right, guys. Well, I think we're just bumping up on time now anyway, so why don't we leave it 
+there. Really appreciate it. Again, for anyone that that did ask a question that we weren't able to ask 
+right now, just feel free to shoot us an email. We'll try to get that answer for you as well. 
+Guys, be safe. Thank you very much for all your help with this. And again, great quarter and good luck 
+with everything.
+John Rainey:
+All right. Thank you, Darrin and thank everyone for attending, and everyone be safe. Okay?
+Darrin Peller:
+Thanks, guys. Take care.

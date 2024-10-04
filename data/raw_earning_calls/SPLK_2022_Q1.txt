@@ -1,0 +1,381 @@
+Operator
+
+Thank you for standing by, and welcome to the Splunk Inc. first-quarter 2020 financial results conference call. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session.
+
+[Operator instructions] As a reminder, today's program may be recorded. And now, I'd like to introduce to you your host for today's program, Ken Tinsley, vice president, investor relations. Please go ahead, sir.
+
+Ken Tinsley -- Vice President, Investor Relations
+
+Great. Thank you, Jonathan, and good afternoon. With me on the call today are Doug Merritt and Jason Child. After market closed today, we issued a press release, which is posted on our website.
+
+Also, note that we have posted supplemental material on the Investor Relations web page as well. This conference call is being broadcast live via webcast. And following the call, an audio replay will be available on the website. On today's call, we will be making forward-looking statements, including financial guidance and expectations, such as our forecast for our second quarter, as well as future expectations of revenue mix, renewals, duration, RPO growth, cloud growth, and gross margin, as well as trends in our markets and our business and our expectations regarding our acquisitions, products, technology, strategy, customers, and demand with markets.
+
+These statements are based on our assumptions as to the macroeconomic environment in which we will be operating and reflect our best judgment based on factors currently known to us, and actual events or results may differ materially. Many of the assumptions relate to matters that are beyond our control and changing rapidly, including the impact of COVID-19 pandemic on our business and that of our customers, and the overall economic environment. Related to this uncertainty, certain customers have and may in the future continue to decrease or delay spending commitments, particularly for certain high dollar and long-term contracts. Please refer to documents we file with the SEC, including the Form 8-K filed with today's release.
+
+Those documents contain risks and other factors that may cause our actual results to differ from those contained in our forward-looking statements. These forward-looking statements are being made as of today, and we disclaim any obligation to update or revise these statements. If this call is reviewed after today, the information presented during this call may not contain current or accurate information. We will also discuss non-GAAP financial measures, which are not prepared in accordance with generally accepted accounting principles.
+
+A reconciliation of GAAP and non-GAAP results is provided in the press release and on the website. With that, let me turn it over to Doug.
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Thank you, Ken, and thanks to everyone on the call for joining us. It was a great start to our new fiscal year, and our business fundamentals have proven strong as ever. We have now turned the corner into the second half of the journey we embarked on just over two years ago to become a cloud-first company. With more than 50% of software bookings now coming from cloud, our financial model is rapidly evolving into that of a true SaaS business.
+
+We are navigating our business through multiple and simultaneous transformations, to deliver customer success while becoming the leading data platform in the cloud. We do that by being hyper-focused on our customers' needs. We are transforming our business and pricing models. We are innovating our portfolio of products and cloud services, and we are optimizing how we engage, deliver and measure value to our customers.
+
+Helping our customers make the transition to the cloud is our highest priority. In Q1, we ended with cloud ARR of more than $877 million, up 83% over last year. We're honored to see the high interest in our cloud offerings, and we will continue to focus on maintaining our high-growth cloud trajectory and accelerating the transition where possible. Also, for the first time, more than half of our net new cloud ARR utilized workload-based pricing.
+
+We rolled out this pricing structure to ensure that value is aligned to the cloud consumption model. Workload pricing delivers flexibility in data types, data volumes, and data value, all of which are critical for improved business outcomes as customers move to the cloud. Surpassing the 50% mark is a strong indicator that our new pricing mechanism is being embraced by our customers. As a cloud-first company, we are aggressively investing in the right people with the right leadership skills required to drive us through this important phase of growth.
+
+In the last year, we've attracted incredible talent while continuing to invest in leaders from within. We've welcomed over a dozen new executives from cloud companies like AWS, Salesforce, Google, Okta, Dropbox, and Autodesk, among others. Most notably, in April, we welcomed Teresa Carlson as President and Chief Growth Officer. And just last week, we welcomed Shawn Bice as our President of Products and Technology.
+
+Both Teresa and Shawn have extensive experience scaling hypergrowth cloud businesses from their experiences at both AWS and Microsoft. Our ability to attract such high-caliber talent is a massive testament to where we are as a company today and to the opportunity that lies ahead. I'm excited to partner with Teresa and Shawn to take our customers to the next level by scaling and driving both our company and our cloud growth. In the past year, data increasingly became an essential service, and cloud adoption accelerated rapidly.
+
+This occurred just as we entered a pivotal moment in our transformation to the cloud, and we were primed to help our customers to the unprecedented dynamics this past year. These macro market conditions play to the strengths of our platform. We continue to enhance our offerings, deliver engaging experience across the Splunk platform. With cloud-native solutions purpose-built for IT, security, and observability teams.
+
+Beginning with our Observability portfolio, which has the most extensive breadth and depth of any modern architecture in the market. This has enabled our cloud business to accelerate even further by expanding into previously untapped departments within the enterprise. In April, Gartner named us a visionary in their 2021 Magic Quadrant for Application Performance Monitoring or APM. Paired with our strong placement in GigaOM's radar for cloud observability, in which we are leader and the only outperformer, we're seeing growing market recognition for our vision in APM and our leadership in observability.
+
+At the beginning of May, we announced general availability for Splunk Observability Cloud, the only full-stack, analytics-powered, and enterprise-grade observability solution. At our launch event, we showcased that our Observability Cloud brings together the world's best-in-class solutions for infrastructure monitoring, APM, real user monitoring, synthetic monitoring log investigation, and incident response. Developers and site reliability engineers, or SREs, can now get all of their answers in one elegant interface with unified metrics, traces, and logs, all collected in real time without sampling and at any scale. I'd like to take a moment to recognize our product design team for their dedication to delivering a completely reimagined end-user experience for our customers in the Splunk Observability Cloud.
+
+We now offer one of the market's most integrated and easy-to-use observability platforms for developers, SREs, cloud ops, and their leadership. A number of customers, Blue Apron, Rappi, Quantum Metric, and Lenovo, just to name a few, are already finding success with the Splunk Observability Cloud. As one of many examples, care.com relies on our solution to holistically understand their entire environment, allowing developers to quickly find and fix errors, improve application architecture and accelerate future releases. But the Splunk Observability Cloud has a single platform to fulfill all of its observability needs, care.com has accelerated their mean time to investigate and resolve incidents for more than an hour to less than 10 minutes, creating a much better customer experience.
+
+Our customer success with the Splunk Observability Cloud builds on our ongoing expertise in serving customers' IT-specific needs. For example, one of the largest not-for-profit medical care providers in the U.S. expanded their use of Splunk Enterprise to better monitor and scale critical applications across their hospitals and medical offices. They rely on our platform to streamline their operations through real-time analytics and AI ops capabilities, detecting and resolving issues before they impact their 12 million-plus members and helping scale services keep up with the extraordinarily high demand brought on by COVID-19.
+
+Turning to security. Now more than ever, in a pandemic world ripe with phishing attacks, malware, and attempted breaches, it's clear that security is a data problem. Our inaugural state of security report just released last week, zeroed in on the overall greatest challenge organizations face, rising cloud complexity. Particularly as the shift to hybrid architectures continue to expand into a multi-cloud ecosystem.
+
+As I shared during my keynote at last month's RSA conference, organizations need a unified data-centric view across their cloud environments, paired with the right analytics and insight from across the ecosystem for intelligent detection and response. That's among the top reasons for our acquisition of TruSTAR, which extends our leadership in security analytics through cloud-native intelligence. As a cloud-delivered solution designed to prioritize data within today's threat landscape, TruSTAR is perfectly suited to enhance the level of cloud security that our platform offers today. TruSTAR also shares our belief in heightened automation so that SOC teams can prioritize more critical work.
+
+In addition, its APIs enable customers to bring data-driven intelligence into all stages of instant response. Finally, TruSTAR's relationships with technology partners across the security communities equip customers with immediate access to the latest threat information in security research. I'm pleased to report that we closed our TruSTAR acquisition late last week. We look forward to our customers, seeing the powerful effects of having TruSTAR within the Splunk family to further accelerate time to value and resolution for security teams.
+
+Many customers turned to us last quarter for security, including Deloitte Canada. One of Canada's largest professional services firms and cybersecurity service providers, Deloitte Canada uses Splunk Cloud and Splunk ES as its SIM platform, to consistently detect and respond to the evolving threat landscape. In addition to their use of Splunk internally, they also maintain a longtime strategic partnership with us to develop a cyber intelligence center, with full visibility across their security tools, including antivirus tools, on-site security operations, implementation services, and more, helping Deloitte safeguard their customers and their personal information from cyber threats. Splunk is also providing mission-critical services to the U.S.
+
+Department of Defense. Working in close partnership with Carahsoft Technology, we're providing the DOD with asset management and cybersecurity software as part of a core enterprise technology agreement. This designation, valued at $833 million over the next 10 years, is part of the DOD's well-respected enterprise software initiative. As always, we thank all of our customers and partners for their continued commitment to bring data securely to every question, every decision, and every action.
+
+In closing, as organizations continue to reinvent themselves in the cloud, we are providing our customers with end-to-end visibility across any environment and at any stage of their cloud journey. This is one of the many reasons why today, more than 90 of the Fortune 100 are our customers. As I mentioned at the start, we have rented the corner on our business model transition. We now have a deep bench of tenured cloud leaders' top-rated scale.
+
+We will continue to develop and recruit the best cloud talent to meet the high demands for our customers. We have an industry-leading portfolio of IT, security, and observability products and cloud services to capture the massive market opportunity in front of us. Our hard work over the past few years has set us up to the next phase of our growth, and we couldn't be more excited about where we are today and what lies ahead. I want to thank our Splunkers for their tenacity and resilience in helping us make these transitions and staying focused on the needs of our customers.
+
+I also want to, once again, thank our customers for the reason we exist. Their belief in the power of Splunk gives us absolute confidence and conviction in our value proposition and the massive potential that data has to help every organization thrive in the data age. With that, I'll hand it over to Jason.
+
+Jason Child -- Chief Financial Officer and Senior Vice President
+
+Thanks, Doug, and good afternoon, everyone. Thanks for joining us. Q1 was an excellent start to the year with total ARR of $2.47 billion, up 39% year over year. Cloud ARR was $877 million, up 83% over last year, and we ended the quarter with 537 customers with ARR greater than $1 million, up 46%.
+
+Of these, 203 had Cloud ARR over $1 million, nearly twice as many as the year-ago period. Our cloud business momentum remains strong as our cloud ARR growth has exceeded 70% in each of our last six quarters and we expect strong growth to continue. As we outlined in our last Analyst Day, cloud growth is driven by three primary components: First, our existing cloud customers expanding their data volumes, which you can see in our consistently high DB NRR; second, our new customers opting for initial deployments in cloud; And third, our existing on-prem customers moving to cloud. The contributions from these sources fueled $67 million in net new cloud ARR in Q1, up 74% over last year.
+
+For your reference, we've added a slide in the supplemental deck to depict the strength of net new cloud ARR generation. We believe these trends are highly durable and will continue to drive sustainable long-term cloud growth. Back to the quarter. We ended the period with total RPO of $1.86 billion, up 8% over Q1 of last year, and a portion of RPO, which we expect to recognize as revenue over the next 12 months, was $1.2 billion, up 21% from last year.
+
+With the substantial base of perp to term conversions coming up for renewal this year, we expect total RPO growth rates to return to double digits in the second half of the year. On the P&L, Q1 cloud revenue was $194 million, up 73% over last year, reflecting continued acceleration of customer adoption of our cloud platform. Total revenues were $502 million in Q1, up 16% and beginning to reflect more comparable average year-over-year term contract durations as we lapped the first anniversary of the pandemic. On margins, which are all non-GAAP, cloud gross margin was 60% in Q1, up slightly from last year with continued progress toward our long-term target of at least 75% as we realize the benefit from scale and elasticity of the platform.
+
+Total gross margin was 72%, down on a year-over-year basis due to the greater proportion of revenue contribution coming from the cloud. Operating margin was negative 35% in Q1, slightly below plan due to higher infrastructure costs and performance-based compensation expenses from bookings outperformance. As I've said, operating margin is impacted by lower revenue recognized from shorter average term contract duration and growing cloud banks. Turning to guidance.
+
+So far this year, we've seen continued improvement in the demand environment and customer engagement remains high. We expect to end Q2 with cloud ARR of $950 million to $960 million, and total ARR of between $2.59 billion and $2.61 billion. On the income statement, the cloud transition will continue to drive variability in our revenue and operating margin results. In Q2, we expect total revenues of between $550 million and $570 million, depending on Cloud mix, with a non-GAAP operating margin of approximately minus 25%, reflecting our normal seasonal pattern.
+
+On cash flow, recall that two years ago, we shifted to annual invoicing from upfront cash collection in our standard contract terms. This caused a temporary timing disruption in cash collections and caused negative full-year operating cash flow. We are now starting to lap the impacted contracts, which will yield a return to full-year positive cash flow. In closing, Q1 was a great start to fiscal '22, and we're pleased to have the most challenging phase of the transitions behind us.
+
+The overall demand environment is strong, and with our product and services innovations plus new high-caliber field and product leadership with Teresa and Shawn, our setup for continued high growth has never been better. With that, let's open it up for questions.
+
+Questions & Answers:
+
+Operator
+
+Certainly. [Operator instructions] Our first question comes from the line of Kash Rangan from Goldman Sachs. Your question, please.
+
+Kash Rangan -- Goldman Sachs -- Analyst
+
+Hi. Thank you very much, Doug and team. So congratulations on the ARR number. That looks quite solid, particularly the cloud number.
+
+Doug, if you can talk about the things that are not going to change for Splunk going forward and things that will change because you're bringing in these executives of AWS for a reason, arguably. So what should we expect in terms of their expected contributions? What is your mandate for these two executives? And one for you, Jason, it looks like the cloud mix is improving, but we're still seeing some volatility with the RPO, CRPO billings, and free cash flow. At what point did those metrics start to settle in and produce the cadence that investors would like? Thank you so much and congrats.
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Thank you very much for the question. Yes, the consistency that Teresa and Shawn get to add to is a maniacal focus on customers and customer success. We've made that our No. 1 corporate priority years ago.
+
+We made cloud-first transition, our No. 1 corporate initiative three-plus years ago as they get to come in after years of focused execution on transitioning our portfolio to be cloud-first, and then expanding in key and critical areas like all the great work on our Observability Cloud that just went GA a month ago or a few weeks ago. What I'm excited about is we have two unbelievably well-proven leaders that have sat on top of $10 billion-plus portfolios, that have been growing as fast or faster than any of the incredible growth numbers that AWS overall is posting. And the scale that they've witnessed, the operating rhythm and cadence that they've become part of and driven, the partner focus that they have leveraged and execute on within their AWS fold and in lives prior to AWS complements who they are as people, very down to earth, humble, hardworking, they can go deep, as well as stay high.
+
+And the relationships that they bring from AWS, from Microsoft, and from the many, many people they interact with outside, I think will be a long paying set of dividends for Splunk, our partners, our customers, our employees as well. I'm really, really thrilled to have both of them join our ranks, but they are complemented, as I talked about, by over 15 senior executives that are coming, not just from AWS, but from Salesforce, Google, Okta, Adobe, key organizations that are cloud-first in their orientation. And these are people, much like Teresa and Shawn, that have infinite choice on where to land. So they understand the company, they understand our opportunity and how well-positioned we are, and I'm excited to both fuel the continued benefits that we've seen from the people that have landed and the impact in Jolt that Teresa and Shawn will have.
+
+Jason, over to you.
+
+Jason Child -- Chief Financial Officer and Senior Vice President
+
+Yeah. Thanks for the question, Kash. On CRPO and RPO. So CRPO, I think it was a 21% growth in Q1.
+
+It was 23% back in Q4. I expect the CRPO numbers to stay in that range because you have a cloud CRPO that's growing much faster. You have a non-cloud that's going much slower. And so the combination, I think, will stay somewhere in the range that you've seen for the past couple of quarters.
+
+Total RPO has been down very much because of the lower duration that we saw last year. We have seen term duration continue to come down a little bit. I do expect to see total RPO accelerate pretty significantly well into the double digits by the end of this year, but it's going to take a while as we're lapping a lot of these duration changes, which did decrease throughout the year last year.
+
+Kash Rangan -- Goldman Sachs -- Analyst
+
+Wonderful. Look forward to the long journey. Thank you so much.
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+No worries, Kash. Thank you.
+
+Operator
+
+Our next question comes from the line of Brent Thill from Jefferies. Your question, please.
+
+Brent Thill -- Jefferies -- Analyst
+
+Doug, a lot of questions about the go-to-market this year and how you've optimized the sales team now on what seems to be a cleaner model. Can you just walk through the changes you made in Q1? And how you think the rest of the year will unfold? And for Jason, I know you had guided to negative 30% op margins. I think you came in a little worse. So I think investors are asking, what was the delta between your plan and what happened on the operating margin side? Thanks.
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Thanks, Brent. OK, I will kick it off. As we've talked about in the last call, we have moved the sales force a couple of years ago from total contract value to last year annual contract value. And this year, we're separating out incremental expansion versus renewal.
+
+Ultimately, what we want to get to is a consumption-based metric. So as we talk about these transformations, getting to a portfolio that is cloud-native, serverless, and really represents what we want and expect to deliver to our customers as key and then aligning the rest of the organization is critical as well. I'm excited about the experience that Teresa brings, as well as other key additions that we've had, to ensure that we not just have the right metrics and focus areas for our sales teams, but that we have the right processes, scale, support, and complementary teams to make sure that our sales teams are successful and that they engage most effectively with net new customers and the many, many customers that are on-prem that still need to convert to our cloud offering as we focus on the value add, the high return on investment that customers get when they move to cloud and they move to workload or entity-based pricing, which is a resounding success within our customer base right now. Jason, on the op margin?
+
+Jason Child -- Chief Financial Officer and Senior Vice President
+
+Yeah. So there's three factors on why the operating margin came in a little lower than what we were expecting. I'd say, first, we did outperform on our Q1 targets, specifically on ARR, which did lead to our quota-carrying reps earning higher commissions. Second, I think it's good, but we are a little higher than where we expected in some of the critical areas of quota-carrying reps and software developers.
+
+And then lastly, we did have higher opex related to cloud deployment costs for a bunch of the new products and services that were launched in Q1. And so those were, I think largely, mostly kind of one-time impacts, I don't expect to see the increased cost flow through for the rest of the year.
+
+Brent Thill -- Jefferies -- Analyst
+
+Great. Thanks for the color.
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Thanks, Brent.
+
+Jason Child -- Chief Financial Officer and Senior Vice President
+
+Thanks, Brent.
+
+Operator
+
+Thank you. Our next question comes from the line of Raimo Lenschow from Barclays. Your question, please.
+
+Raimo Lenschow -- Barclays Investment Bank -- Analyst
+
+Thank you. Doug, you mentioned the launch of the Observability Cloud a couple of weeks ago, going into GA. Can you talk a little bit about it at first, feedback here? How are customers using it? Like is it a broad-based adoption? Is it more on logs, etc.? Or like how do I see that there? And then a follow-up for Jason is, on the duration, like where are we on that journey of moderation? Are we kind of close to the level that we're seeing now? Or is there more to come? Thank you.
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Thanks, Raimo. Yeah, the focus for the Observability Cloud was to drive clear and effective integration across the many different components that in collection, make up the Observability Suite from APM to digital experience, management to monitoring to synthetic monitoring, etc. I think the team has done an incredible job of driving really rapid and effective integration. And then just as importantly, renewed and revitalized and unified user experience for our customers.
+
+I think you gave care.com, as one of the deeper dives on my prepared remarks, where they're really focused on the totality of the different capabilities that we've brought to bear with this observability suite. Customers can pick and choose, but ultimately, as you are driving high volume of net new application capabilities on a cloud-first basis, developing an AWS for other clouds, you really need the entire Observability Cloud to get that job done effectively, which is why we've been so focused on making sure that we've got the breadth and depth of features that drive that effective performance of the application development teams, the DevOps teams, the same reliability engineering teams, and cloud ops teams that organizations are so dependent on, as a transition to be a digital-first set of companies.
+
+Jason Child -- Chief Financial Officer and Senior Vice President
+
+On the contract duration piece, I'd say, first, for cloud, comparing multiyear agreement is continually -- or is remaining our primary motion, and our compensation plan does include incentives to drive this outcome where possible. I would say that the Q1 impact was impacted because we did have some shorter duration deals that were related to expansion, and we wanted to co-term those with existing contracts. So I do expect to see the term -- oh, I'm sorry, the cloud duration go back up into the kind of mid- to high 20s. For term, we do continue to work with customers on the right timing of their eventual migration to cloud.
+
+In many cases, customers are choosing to extend their term contracts over a shorter period than they've done historically as they anticipate moving to cloud. So as a result, I do expect to see some downward pressure throughout the year on term durations.
+
+Raimo Lenschow -- Barclays Investment Bank -- Analyst
+
+Thank you.
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Thanks very much.
+
+Operator
+
+Thank you. Our next question comes from the line of Matt Hedberg from RBC Capital Markets. Your question, please.
+
+Matt Hedberg -- RBC Capital Markets -- Analyst
+
+Oh, hey, guys, thanks. Thanks for the questions, and well done as well on the ARR side. Kind of a two-point question, I guess, for Doug. Obviously, with all of these breaches, it strikes me that you guys are in a really good position to help both the public and private sector, with your SIM broader security solutions.
+
+It feels like the ability to sift through the noise is more important than ever. So I guess, could you talk to -- could we be in front of a bit of a SIM cycle? And secondarily, obviously, the DOD contract is great. Is there even further opportunity from the U.S. government?
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Great questions, Matt. So I'll start with the end and work back, which was, yes, it was great to see that DOD contract, obviously, multiple years of focusing on success with that total contract to realize all the benefits there. The latest cyber initiatives that President Biden pushed out, I think, were thoughtful and definitely, I think are going to continue to drive not just the right behavior and opportunity for public sector organizations, but I think dramatically benefit the commercial as well. But we're really excited about our public sector business.
+
+We've had a long tenure there, not just in the U.S., but in other major countries around the world. And obviously, Teresa's general go-to-market skills are fantastic, but the leverage that she is able to exert on the public sector business should be a big boost to them as well. Yes. None of us are happy other than maybe the hackers and people that are on the other end, about the negative cyber activity we're seeing.
+
+It is something that is obviously extremely important for every organization in the world to get their arms around. And I agree with you completely that we have taken a data as a security problem approach as a very unique stance seven, eight years ago, that the world is slowly starting to swing toward. The dilemma for anyone that wants to do that is you must be able to be the heterogeneous collection service. The average CSO is dealing with well over 50, often 100 or more different vendor-specific solutions that make up their landscape.
+
+And while cloud has the ability to enhance the security posture, it also creates even more divergent data sources and more surface area that you've got to pay attention to. So being the data-driven agnostic collection vehicle for customers, I think is a very important position. Our SIM products are key. But as we all know, SIM keeps expanding, we've dramatically refactored our security suite to not just include SIM, but insider threat capability, orchestration, automation.
+
+Hopefully, you just saw we GA-ed our mission control framework, very open approach to integrating all tooling that exists out there for SOX. We GA-ed our SOAR capability as a cloud-oriented offering. So we're focusing very aggressively on continuing to keep pace with the breadth and depth that SOX and cyber teams need, including the addition of TruSTAR set of capabilities and that awesome company that actually closed late last week. And while we don't want to be ambulance chasing in any way, this environment is definitely making security front and center for CEOs and boards of directors.
+
+Matt Hedberg -- RBC Capital Markets -- Analyst
+
+Super helpful color. Thanks, Doug.
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Thanks, Matt.
+
+Operator
+
+Thank you. Our next question comes from the line of Keith Bachman from Bank of Montreal. Your question, please.
+
+Keith Bachman -- BMO Capital Markets -- Analyst
+
+Yes. Thank you. I have one for Doug and one for Jason if I could. Doug, I wanted to start with you, in terms of trying to understand better your deployment capabilities.
+
+And what I mean by that is, you obviously going through a business transition where you're offering both on cloud and on-premise and migrating customers to use your cloud capabilities. But I wanted to reverse that lens and ask you where you actually are deployed, is it more for on-premise situations like at Bank of Montreal versus where interacting with, say, cloud deployments at the customer level? And the reason I'm asking it is just some concern as more and more workloads shift to the cloud that as those on-premise deployment shifts to the cloud that you might lose a little bit of share in that process. So again, not asking how your customers ascribing to you where Splunk is attaching to if you will? And then I have a follow-up for Jason.
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Sure. So, one, when we talk about our cloud solutions, I mean, the way that the language, we probably need to shift to is, we are a SaaS organization. We are providing Splunk as a service to our customers. And that SaaS deployment is truly best-in-class at this point in time.
+
+It is cloud-native, serverless, very, very effective in the job that it performs as you can see from our growth rates. So the No. 1 value prop that we are focused on with customers is, why would you do low-value, very difficult work in an area that it could be managed for you. And not only are you going to get a better TCO, but you're going to get much higher quality delivery because of the many, many people that we deploy around our automation frameworks, our site reliability and cloud ops capability, etc.
+
+The data sources just continue to grow. You have cloud, it's nice to talk about the AWS cloud, the GCP cloud, or the Azure cloud, but there are hundreds of services within those cloud environments. Services are continuously changing as they need to, to be competitive. That means that the APIs, the data flows, the turbulence within that environment are high.
+
+All those are additional sources of streaming data or data at rest for Splunk, as well as a multitude of tools that are third-party that live in those clouds, as well as all the different tooling and hardware components that are self-managed by organizations. So that goes kind of back to that sweet spot of data volumes continue to grow and our DB NRR. But again, it's very clear and consistent within our cloud framework, shows that the additional products that we're releasing, things like the Observability Cloud, in addition to the growth around data and complexity within our customers is a good positive trend. And we're trying to counteract that with customers to being much more efficient with how we deploy our solutions so they can do more at the same cost, knowing that those other factors are going to increase the envelope that they have to deal with.
+
+Keith Bachman -- BMO Capital Markets -- Analyst
+
+OK. So, Doug, just put words in my -- you consider Splunk indifferent to the data sources, whether it be on-prem or cloud?
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Absolutely. Yes, yes. It doesn't matter to us at all.
+
+Keith Bachman -- BMO Capital Markets -- Analyst
+
+OK. Great. Jason, one for you. The cloud gross margins, your ARR, and dollars are going up, but sequentially, your cloud gross margins have declined again, modestly, but from Q3 '21.
+
+And so I just want to try to understand what are the reasons that the cloud gross margins have declined for the last couple of quarters? And how should we be thinking about those cloud gross margins specifically as we think about the next couple of quarters? Thank you.
+
+Jason Child -- Chief Financial Officer and Senior Vice President
+
+Thanks, Keith. I guess the short answer to your question is in Q4, as well as Q1, there's been new products that we've released specifically in Splunk Observability Cloud that have led to some movement in gross margin, unfortunately, down, but we don't see that as long term. And so I would expect that we are certainly on track to hit our long-term target of 75% Cloud GM. Our expectation, I think we said last quarter was we hope to end this year at 70%, exit end of year, and that's currently what we still plan for.
+
+Keith Bachman -- BMO Capital Markets -- Analyst
+
+OK. Great. Thank you.
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Thank you.
+
+Operator
+
+Thank you. Our next question comes from the line of Kirk Materne from Evercore ISI. Your question, please.
+
+Kirk Materne -- Evercore ISI -- Analyst
+
+Yeah, thanks very much. And congrats on the solid quarter. I guess, Doug, the first question would be for you. Six months ago, we sort of got more aware of the fact that as customers are moving over from term the cloud that there might be some shrinkage of the deal, the deal terms, things like that.
+
+Do you guys feel like you have your hands around that? You have a big base of renewals coming up. Have you been able to sort of get in front of those so that the kind of discussions that customers want to have, you're better prepared for at this point in time? It seems like that's happening, but I just want to get your view on that, and if anything's changed maybe over the last six months in that regard?
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Good question, Kirk. So yes, part of the headwinds we're seeing within the term business is, as we've seen across Splunk, term, or cloud, the current customer expansion rate has always been a very positive factor for our ARR and revenue. But if you're sitting in term and you're unsure, when you're going to go to cloud and what that looks like, the expansion rate for a term customer is probably going to be muted while they're trying to establish what their cloud footprint looks like. The positive tailwind is, they'll move to cloud by itself even on a flat basis.
+
+I excise on term on the exact same size on cloud is -- the AR goes up because of the overall billing of cloud that includes the infrastructure that we're passing through the customer. And the majority of customers, I'd say probably, the vast, vast, vast, majority have a step-up when they move to cloud because of that nature of expansion of data and expansion of use cases with Splunk. The No. 1 focus area that Teresa immediately has dug into, that she's building on from what the team was doing, but I think we can get better at is being super crystal clear on what a blocker is for an on-prem customer who gets cloud.
+
+and making sure that we have not just the right sales motions, but we've got the right technical support, the right pro serve, the right partners, and any appropriate incentives to assure them that the journey to the cloud is going to be as smooth as we've seen it be for thousands of customers now. So that they can get on the same-value basis that we see with those native cloud customers, get them to workload-based pricing, much more friendly metric and see the number of users go up, the number of use cases go up and the overall ROI continue to tilt positively for that customer. And so when we're looking out Q2, Q3, Q4, that No. 1 vector is how many of those customers that are currently on-prem are going to move to cloud.
+
+We obviously complement that with the roughly -- we said last call, roughly a third of Cloud AR is driven from new customers. And then as Jason said in his prepared remarks, we've clearly got a DB NRR that's positive as well. So we're not wholly dependent on that cloud, the on-prem to cloud transition, that's a benefit of our installed base, but it's definitely a factor that's really important for us.
+
+Kirk Materne -- Evercore ISI -- Analyst
+
+OK. And then, Jason, one for you. I realize the income statement, profitability measures are kind of masked by the transition. But when we think about you all coming out of this and normalizing a little bit, I mean, every sort of other enterprise software companies seeing some benefits from remote work, whether it's real estate savings, whether it's less travel.
+
+I mean, is there any reason that sort of overall efficiency of the business model, should it be higher as we normalize on sort of just the revenue transition versus where you were, say, a year or two ago? I mean, are you seeing some of those same benefits, I guess, we're seeing in companies that, frankly, are already sort of fully cloud in the cloud revenue model.
+
+Jason Child -- Chief Financial Officer and Senior Vice President
+
+I'm hopeful, but I think it's early, and it's really hard that anyone's returned to work and therefore, hasn't really returned to travel. It's hard to know exactly how the market will actually react. I do think it's certainly reasonable to think that, with the productivity gains we've seen, that we should be able to flow that through. That said, we also have one of the bigger cloud transformations in recent history going on.
+
+And so I don't know -- any benefits we get on opex is probably going to be dwarfed, unfortunately, by whatever the revenue recognition impacts of the transformation.
+
+Kirk Materne -- Evercore ISI -- Analyst
+
+OK. Thanks, guys.
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Thanks, Kirk.
+
+Operator
+
+Thank you. Our next question comes from the line of Brad Sills from BofA Securities. Your question, please.
+
+Brad Sills -- Bank of America Merrill Lynch -- Analyst
+
+Oh, great. Hey, guys, thanks for taking my question. I wanted to ask about a comment you made, Jason, earlier, that part of the reason for the duration move is that you're seeing a higher mix of co-term deals. What's driving that? Is this simply customers coming back more kind of midterm and expanding at a greater rate than in the past? And if so, where is that incremental demand coming from?
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+So we had a couple of big deals this last quarter that were co-term deals in cloud. And so that was why we saw such a kind of a pronounced reduction in cloud duration. Certainly, the durability suite is one of the key drivers for that. That said, I don't know that this is expected to continue.
+
+We'll see. It's just with the large deals, they happen pretty infrequently. Our expectation is that you will see cloud duration get back up to the kind of mid- to high 20s through the balance of this year.
+
+Brad Sills -- Bank of America Merrill Lynch -- Analyst
+
+Got it. Great. Thanks. And one more if I may, please.
+
+Just with this latest release in Observability, it sounds exciting. How far along are you with the integration of some of the recent acquisitions, Plumbr, Rigor, Omnition, and there's a lot in there that you guys have acquired, and I know there's been a lot of work on integrating that. Thank you so much.
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Yeah, absolutely. That release was the integration of all those acquisitions release, with Unified UI. Now the task continues, there's still additional features across infrastructure monitoring, APM, synthetic monitoring, etc., that we are intent on adding. We got to make sure the Observability Suite is lit up in all the key regions of the world, and available locally within those different spans.
+
+We've got to make sure that it fits into compliance frameworks that different entities, federal government is a good example, are bound by. And we've got to continue to focus on driving ease of use on fine buy. So we're really, really excited. We're way ahead of where we thought would be, with the help of some key acquisitions, but also really focused execution from our engineering teams to drive that unified footprint.
+
+It is really clear from the analysts at this point in time, that we are way ahead of everybody else on breadth and depth of functionality. And now it's about driving awareness, getting more at-bats, and continuing on those key focus areas that I just walked through.
+
+Brad Sills -- Bank of America Merrill Lynch -- Analyst
+
+That's great. Thanks, Doug. Thanks, Jason.
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Thank you.
+
+Operator
+
+Thank you. And our final question for today comes from the line of Gregg Moskowitz from Mizuho. Your question, please.
+
+Gregg Moskowitz -- Mizuho Securities -- Analyst
+
+All right. Thanks for taking the question. So, Doug, it's actually a good segue to my question on Observability Cloud. Do you expect that this is going to help you land a lot more net new logos going forward? And then for Jason, naturally, this is a very different pricing model for you in that it's all host-based.
+
+What impact do you anticipate this having on the model going forward? Thanks.
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Awesome. Thanks, Gregg. So I'll steal a little bit of Jason's thunder on -- we are really focusing with our solutions, observability, security IT on a simple, single metric around entities. So that if all you're focused on is that suite, you know how to license it and its value tied and it's clear for the end-user.
+
+And then we are continuing to focus on a single metric to the platform, which is that workload-based pricing metric. So they listened very, very intently to our customers. Customer success is No. 1 priority.
+
+We don't like your data volume metric. So we've focused on that. We've delivered, and we're excited to see the momentum we're getting with entity-based pricing on our solutions, workload with the underlying platform. And then I'm just totally blank to the beginning of your question, Gregg, which was --
+
+Gregg Moskowitz -- Mizuho Securities -- Analyst
+
+Net new logos.
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Net logos, yes. We had said last call that roughly a third of Cloud AR is from new customers. We are seeing some positive trends with new customers. I have said for a couple of the key lever, beginning to see a more dramatic increase in net new accounts was going to be having an easy button around cloud.
+
+So we are beginning to see that. There's more work to do. The observability suite certainly is a new buyer within existing customers. We have not had a strong set of initiatives around that DevOps team and all the people that spend the DevOps team.
+
+So we're excited to leverage our position within security and IT to traverse over to DevOps. Ultimately, all three of these entities, SecOps, IT Ops, DevOps, have to work together. The end customer doesn't care about the individual jobs of those tech leaders, they care about the solution they're getting. So tying those together is really important.
+
+We think that we're unique as the only vendor that can effectively serve all three independently or on a combined basis. And we are absolutely internally measuring and very, very focused on net new customer count increases as our whole cloud portfolio continues to perform.
+
+Gregg Moskowitz -- Mizuho Securities -- Analyst
+
+All right, very helpful. Thanks, guys.
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Thanks, Greg.
+
+Operator
+
+Thank you. This does conclude the question-and-answer session of today's program. I'd like to hand the program back to Doug Merritt for any further remarks.
+
+Doug Merritt -- President, Chief Executive Officer, and Board Member
+
+Great. Thank you. We really appreciate all you tuning in today. We are really proud of the progress we've made on every front.
+
+We have turned the corner on our journey to become a cloud-first company, really clear corporate initiative for multiple years, and are proud of that execution. We take a cloud-first approach in everything we do, from delivering high value to our customers to working with our partners and really ensuring that there is high-value opportunities for our partners as we move to cloud, as well as which features and capabilities we're delivering from a cloud-first basis. And I believe that we've never been better aligned with our market opportunity than we are right now. On top of that, our business is now led by cloud executives with proven track records of scaling cloud businesses of $10-plus billion, which we obviously are very focused on becoming over the coming years, and we're poised to work closely with our customers as they continue their transitions to the cloud.
+
+Our position is exceptionally strong, have never been more bullish on our growth outlook. And thank you again. Have a great evening.
+
+Operator
+
+[Operator signoff]

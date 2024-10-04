@@ -1,0 +1,693 @@
+This transcript is provided for the convenience of investors only, for a full recording please see
+the Q1 2020 Earnings Call webcast.
+Alphabet Q1 2020 Earnings Call
+April 28, 2020
+Candice (Operator): Ladies and gentlemen, thank you for standing by and welcome to the
+Alphabet first quarter 2020 earnings conference call. At this time, all participants are in a
+listen-only mode. After the speakers’ presentation, there will be a question and answer session.
+To ask a question during this session, you will need to press star one on your telephone. If you
+require any further assistance, please press star zero. I would now like to hand the conference
+over to your speaker today, Jim Friedland, Director of Investor Relations. Please go ahead.
+Jim Friedland, Director Investor Relations: Thank you, Candice. Good afternoon, everyone,
+and welcome to Alphabet’s first-quarter 2020 earnings conference call. With us today are
+Sundar Pichai and Ruth Porat. Now I’ll quickly go over the Safe Harbor. Some of the
+statements that we make today regarding our business, operations, and financial performance,
+including the effect of the COVID-19 pandemic on those areas, may be considered
+forward-looking, and such statements involve a number of risks and uncertainties that could
+cause actual results to differ materially. For more information, please refer to the risk factors
+discussed in our most recent Form 10-K filed with the SEC, and in our Form 10-Q for the
+quarter ended March 31, 2020, expected to be filed with the SEC later today. During this call,
+we will present both GAAP and non-GAAP financial measures. A reconciliation of non-GAAP to
+GAAP measures is included in today's earnings press release, which is distributed and
+available to the public through our Investor Relations website located at abc.xyz/investor. And
+I’ll now turn over the call to Sundar.
+Sundar Pichai, CEO Alphabet and Google: Thank you, Jim, and good afternoon, everyone.
+When I last spoke with you in early February, no one could have imagined how much the world
+would change, and how suddenly. Our thoughts are with everyone who has been impacted by
+COVID-19, especially those who’ve lost loved ones or their livelihoods. It’s a challenging
+moment for the world. Through it all, we’re incredibly grateful for all of the essential workers on
+the front-lines of this crisis, from health care workers and first-responders, to the grocery store
+clerks and delivery workers, to teachers grappling with new technology to help children learn
+remotely, to all of the scientists and researchers working hard to develop vaccines and
+treatments, and many others who are leading through these difficult times. Thank you. These
+people fill us with hope and show us the power of human resilience. We’ll need that energy and
+resolve in the months and years ahead.
+Today, there is still a great deal of uncertainty regarding the path to recovery. But there are
+some things that we can understand better with the patterns we are seeing. For example, it’s
+clear from data that people are being more cautious and are seeking authoritative advice and
+guidance to protect their families’ health and safety. A return to normal economic activity
+depends on how effectively societies manage the spread of the virus. There’s no one size fits all
+and the timing and pace of recovery will vary from location to location. This is a long-term effort.
+It’s also clear that this is the first major pandemic taking place in a digital world. Many parts of
+the economy are also able to continue with some semblance of normalcy, thanks to advances in
+1
+remote work, online shopping, delivery options, home entertainment and telemedicine. At the
+same time, newer technologies like AI, Bluetooth exposure notifications and 3D printing are
+being used to help fight the disease head on.
+It’s now clear that once the emergency has passed, the world will not look the same. Some
+social norms will change, and many businesses are speaking to us, looking to reinvent their
+operations. We have seen that the most pressing concern of small and large businesses right
+now is business continuity, solving for issues like employee safety, dramatic falls or surges in
+demand, supply chains and managing a remote workforce.
+Ultimately, we’ll see a long term acceleration of movement from businesses to digital services,
+including increased online work, education, medicine, shopping and entertainment. These
+changes will be significant, and lasting. Given the depth of challenges so many are facing, it’s
+been a huge privilege to be able to help people and businesses at this moment.
+In today’s call, I’ll cover four areas. First, I’ll mention some of the ways we have marshalled our
+resources and product development to help. Second, I’ll talk about how people are using our
+products at this unprecedented moment. Third, I’ll talk about our business, especially our
+advertising business which was significantly impacted in the last few weeks of the quarter. And
+I’ll close with our investment plans and focus for the rest of the year.
+In the early days of the crisis, we were able to put in motion a number of efforts quickly. This is a
+testament to strategic areas where we have invested over recent years: products that people
+trust, our technical leadership and innovation, deep partnerships, a highly skilled workforce, and
+the scale and resilience of our operations.
+I’ve been proud of all of these efforts and what they say about our company. I’ll give just a few
+examples. First, we’ve been working with healthcare providers, researchers, authorities and
+communities to help combat the virus. Our community mobility reports help authorities see, in
+aggregate, how social distancing requirements are working. Verily has tested thousands of
+people in California and has partnered with Rite Aid to bring free testing to eight additional
+states. Google Cloud is forming deep partnerships, such as with leading health care provider
+HCA Healthcare, to understand data around ICU bed availability, ventilator supplies and test
+results. And you may have read about our exposure notification partnership with Apple,
+designed specifically and carefully to protect users’ privacy while helping public health
+authorities and governments manage countries’ re-opening.
+Second, we are working hard to provide accurate and authoritative information to people using
+our services. In Search, we've launched a number of features such as up-to-date answers from
+health authorities, and remote medical care options. On YouTube, we are quickly removing
+content that violates policy, and raising authoritative content from news organizations and
+experts. Up to last week, our COVID-19 info panels have had 20 billion impressions.
+Third, we’re playing a role in supporting businesses and workers that are hurting because of the
+downturn. In March, we made a commitment upwards of $800 million to support small
+businesses and crisis response efforts, through a combination of grants, small business loans
+and ad credits. And the Google News Initiative is offering financial support to thousands of
+small, medium and local news publishers through a Journalism Emergency Relief Fund. We’ve
+2
+also waived ad serving fees for news publishers globally on Ad Manager for the next five
+months.
+Turning to the way people are using our products. People are relying on Google’s services more
+than ever. This is a strong recognition of the value of our products, particularly in important and
+urgent moments. As a few examples, we’ve seen a significant rise in search activity. To put it
+into perspective, in the U.S., coronavirus-related search activity at its peak was four times
+greater than during the peak of the Super Bowl. People are spending significantly more time on
+their Android apps, with downloads of apps from Google Play rising 30% from February to
+March. YouTube watchtime has also significantly increased. One area in particular is
+livestreams. I hope you saw Andrea Bocelli on YouTube Live on Easter, which has had over 39
+million views. It was truly beautiful. One hundred million students and educators are using
+Google Classroom, double the number from the beginning of March. We've seen a massive
+increase in demand for Chromebooks; analysts have reported a 400% increase during the week
+of March 21st year-over-year. And schools and businesses in particular are using our secure
+video conferencing platform Meet. Last week, we surpassed a significant milestone and are now
+adding roughly 3 million new users each day, and have seen a thirty fold increase in usage
+since January. There are now over 100 million daily Meet meeting participants. Stay tuned for
+much more!
+Turning to our business, let me touch on our performance this quarter. Q1 was in many ways
+the tale of two quarters. For our advertising business, the first two months of the quarter were
+strong. In March, we experienced a significant and sudden slowdown in ad revenues. The
+timing of the slowdown correlated to the locations and sectors impacted by the virus and related
+shutdown orders. As the impact of COVID-19 came into view, we delayed some ad launches
+and prioritized supporting our customers as many adjusted their strategies. We're focused on
+products where we can help most advertisers and merchants during the crisis. For example,
+under our new leader of Commerce, Bill Ready, last week we announced that merchants can
+list products in Google Shopping for free. It’s been widely rolled out in the U.S., with more
+countries to come, and the response has been positive. Overall, recovery in ad spend will
+depend on a return to economic activity.
+There are two key aspects of our business that give us confidence about the future. First, as we
+saw after 2008, one of the strongest features of Search is that it can be adjusted quickly, so it’s
+relatively easier to turn off and then back on, and marketers see it as highly cost-effective and
+ROI based.
+Second, our business is more diversified than it was in 2008. For example, Cloud. In the public
+sector, we are helping governments deliver critical health and social services. We’re supporting
+the State of New York’s new online unemployment application system as it deals with a
+significant increase in demand. In retail, we’ve helped Loblaw, one of Canada’s largest food
+retailers, and Wayfair scale to support exponential traffic increases. We are helping
+communication companies adapt to new behavior patterns. Vodafone is using Google Cloud
+Platform to help it analyze network traffic flows to keep everyone connected and we are helping
+Unity Technologies keep real-time online games stay up and running. Institutions like Lloyds
+Bank are digitally transforming their businesses and we are helping even more businesses do
+the same through new partnerships with Accenture, AT&T, and T-Systems. We now have more
+than six million paying G Suite customers. G Suite is helping Netflix and German manufacturer,
+3
+Kaeser Compressors transition quickly to remote work, while Twitter, Shopify, retailer Schnucks
+and Italian bank Credem are using Meet for things like all hands and customer meetings.
+Elsewhere across the business, YouTube subscriptions continue to grow. The team has
+launched YouTube Kids in 15 new countries around the world since the beginning of the year,
+and rolled out new features to make kids-focused channels safer. Android previewed Android
+11, which includes seamless 5G connectivity and a smarter keyboard with a faster messaging
+experience. And as I mentioned, we’ve seen significant growth in Play. There are now over 2.5
+billion monthly active Play devices worldwide. And in Hardware, we saw a decline in device
+activations in the quarter, due to falling consumer demand globally. But I am excited about the
+product roadmap ahead for the year - including yesterday’s launch of Pixel Buds 2.
+Finally, moving on to our focus for the rest of the year. We’re taking a long view and continuing
+to invest in our long term priorities, but are being thoughtful in the short term. So we made the
+decision to slow down the pace of hiring for the remainder of 2020, while maintaining
+momentum in a small number of strategic areas. We’re also recalibrating the focus and pace of
+our investments in areas like data centers and machines, and non-business essential marketing
+and travel. We’ll also continue to thoughtfully manage our Other Bets portfolio. Waymo raised
+$2.25 billion in its first external investment round, a terrific validation of their technology and
+long-term business model. Wing saw a surge in deliveries and new users, increasing its daily
+volume fivefold, with great momentum in test programs in Australia and Virginia.
+At Google, we’ll continue to be focused on the four key areas that I outlined in the last earnings
+call. First, creating the most helpful products for everyone, particularly at a time where people
+rely on us for information, work, education and entertainment.
+Second, providing the most trusted experiences for our users. This includes our efforts to tackle
+misinformation and digital threats, as well as our work to safeguard consumer privacy.
+Third, executing at scale. I’ve been proud of how we continue to work so cohesively and
+productively, even with a distributed workforce. We will continue to build on the internal tools,
+support systems and infrastructure we have built over the years.
+And finally, creating sustainable value. We’ll be optimizing the way our data centers work, and
+prioritizing strategic areas of investment where we need to support our users and partners.
+Let me express my thanks to our employees for their herculean efforts under these difficult
+circumstances. While the road ahead for everyone is uncertain, we’ll continue to support our
+users, communities and partners, and we’ll all emerge, together, from this moment. Thank you,
+and please take care, everyone. Over to Ruth.
+Ruth Porat, CFO Alphabet and Google: Thanks, Sundar. Our results for the first quarter are a
+“tale of two quarters,” with strong results across our revenue lines for January and February,
+followed by an abrupt decline in March in our advertising revenues as governments globally
+instituted stay-at-home orders in response to COVID-19. At the same time, even through
+March, our non-advertising revenue lines maintained their strong performance, particularly
+Google Cloud. I’ll provide more details on the impact of the crisis as I review the Google
+segment revenue results and conclude with an update to the outlook that I shared on our fourth
+4
+quarter call. Sundar and I will then take your questions.
+Starting with consolidated Alphabet results, in the first quarter our Total Revenues were $41.2
+billion, up 13% year-on-year, and up 15% in constant currency, driven by Search, YouTube and
+Cloud. Details of Alphabet’s consolidated revenues by geographic region are available in our
+earnings press release. In short, advertising results reflect, in large part, the nature and timing
+of actions around the globe in response to COVID-19. The decline in APAC was more muted
+than what we have seen in the rest of the world given the uneven impact of COVID, as well as
+the composition of our revenues, in the region. The impact in the rest of the world began later
+and was more acute by the end of the quarter. In terms of the foreign exchange impact,
+exchange rate movements resulted in a modest headwind to reported revenues.
+Regarding our key expense lines, on a consolidated basis, total cost of revenues, including
+TAC, was $19.0 billion, up 19% year-on-year. Other cost of revenues on a consolidated basis
+was $11.5 billion, up 26% year-over-year, primarily driven by Google-related expenses. The
+biggest factors here, again this quarter, were costs associated with our data centers and other
+operations, including depreciation; and then content acquisition costs - primarily for YouTube’s
+advertising-supported content, followed by content costs for YouTube TV and our paid
+YouTube Music and Premium subscription services. Operating expenses were $14.2 billion,
+with headcount growth being the largest driver of year-on-year growth for R&D and sales and
+marketing expenses. For G&A, the biggest driver of expense growth was attributable to a
+reserve for estimated credit deterioration as a result of COVID-19. Stock-based compensation
+totaled $3.2 billion. Headcount was up 4,149 from the fourth quarter. Again, the majority of new
+hires were engineers and product managers. In terms of product areas, the most sizable
+headcount increases were again in Google Cloud, for both technical and sales roles.
+Operating income was $8.0 billion, down 4% year-over-year, excluding the impact of the EC
+fine in the first quarter of last year, for an operating margin of 19%. Other Income & Expense,
+was a loss of $220 million, driven primarily by losses in equity securities. We provide more
+detail on the line items within OI&E in our earnings press release. Our effective tax rate was
+11.9%. Net income was $6.8 billion and earnings per diluted share were $9.87.
+Turning now to Capex and operating cash flow. Cash Capex for the quarter was $6.0 billion,
+which I will discuss in the Google segment results. Operating Cash Flow was $11.5 billion with
+Free Cash Flow of $5.4 billion. We repurchased $8.5 billion of our shares. We ended the
+quarter with Cash & Marketable Securities of approximately $117 billion.
+Let me now turn to our segment financial results. Starting with our Google segment. Revenues
+were $41.0 billion, up 14% year-over-year. I’ll now go through the individual advertising revenue
+lines. Starting with Google Search and other advertising revenues: we generated $24.5 billion in
+revenues in the quarter, that was up 9% year-over-year. This reflects strong year-on-year
+growth for the first two months of the quarter. In March, revenues began to decline and ended
+the month at a mid-teens percentage decline in year-on-year revenues. Although users’ search
+activity increased, their interests shifted to less commercial topics. In addition, there was also
+reduced spending by our advertisers.
+YouTube advertising revenues were $4.0 billion, up 33% year-on-year. Significant YouTube
+revenue growth persisted until late in the first quarter, with different performance trajectories for
+5
+the brand and direct response components. Direct response continued to have substantial
+year-on-year growth throughout the entire quarter. Brand advertising growth accelerated in the
+first two months of the quarter, but began to experience a headwind in mid-March. As a result,
+by the end of March, total YouTube Ads revenue growth had decelerated to a year-on-year
+growth rate in the high single digits.
+Network advertising revenues were $5.2 billion, up 4% year-on-year, with healthy year-on-year
+growth for the first two months of the quarter. We ended March at a year-on-year percentage
+decline in Network revenues in the low double digits.
+Turning to Google Cloud, including GCP and G Suite, revenues were $2.8 billion for the first
+quarter, up 52% year-over-year, driven by significant growth at GCP and ongoing strong growth
+at G Suite. Once again, the growth rate of GCP was meaningfully higher than that of Cloud
+overall. GCP growth was led by our Infrastructure offerings and our Data and Analytics
+platform. We’re pleased with the ongoing growth in G Suite, which continues to reflect growth in
+both seat count and average revenue per seat. With respect to the implications of the global
+crisis for Google Cloud, we’re proud of the accelerated traction we achieved across sectors,
+including public sector and healthcare for disease monitoring and control, working with leading
+retailers on demand forecasting, working with companies across media and communications to
+enhance their customer service, and across industries on supply chain optimization.
+In the first quarter, Other Revenues were $4.4 billion, up 23% year-over-year, primarily driven
+by growth in YouTube non-advertising revenues and Play. YouTube’s contribution to Other
+Revenues benefited from subscriber growth across its various offerings. Within Play, app
+revenues continued to benefit from strong growth in the number of active buyers in the first
+quarter. In addition, in the latter part of the quarter, we started to see an increase in user
+engagement in apps, as well as in digital content.
+Total traffic acquisition costs were $7.5 billion, or 22% of total advertising revenues, and up 9%
+year-over-year. Total TAC as a percentage of Total Advertising Revenues was down slightly
+year-over-year, reflecting once again a favorable revenue mix shift from Network to Google
+Properties. Google Operating Income was $9.3 billion, up 1% versus last year, and the
+operating margin was 23%. Google Accrued Capex for the quarter was $5.7 billion, reflecting
+investments in data centers, followed by servers and office facilities.
+Moving on to the performance of Other Bets. For the first quarter, revenues were $135 million,
+primarily generated by Fiber and Verily. Operating Loss was $1.1 billion for the first quarter.
+Let me now conclude with our thoughts on the impact of the global crisis on our revenues and
+investments, including an update on the outlook I shared on our fourth quarter earnings call. We
+remain optimistic about the underlying strength of our business over the long term. On a daily
+basis our products play an important role for consumers and businesses globally. This has
+been evident throughout the crisis in the usage metrics that Sundar referenced earlier. We’re
+humbled that users continue to turn to us as much as they do in a time of global need and
+uncertainty. We take that responsibility very seriously. Users clearly are depending on us to
+provide useful and accurate information; they are looking to YouTube for information, education
+and entertainment constantly as they study, create and work from home; they are using our G
+Suite products to collaboratively communicate, connect and work.
+6
+Although users may not be focused as much on purely commercial activities right now, over the
+long-term, the value we provide to billions of users globally serves us well. Our previous
+investments in technical infrastructure ensure that we have the capacity and resilience to meet
+the increased demand from our users in this extraordinary time. We are re-doubling our efforts
+to help our advertising customers and partners by sharing insights and developing new tools to
+keep them connected to their customers and help them be best positioned for recovery.
+In terms of more specific product points, I will start with Search advertising where our financial
+results are driven in part by users’ search behavior. At the inception of the crisis, the increase in
+user interest was for information about COVID-19 and related, non-commercial topics. Although
+we have seen some very early signs of recovery in commercial search behavior by users, it is
+not clear how durable or monetizable this behavior will be. In order to gauge the ongoing
+potential financial impact to our business from COVID-19, a key signal to monitor is
+macroeconomic performance, which has tended to be correlated with advertising spend. As of
+today, we anticipate that the second quarter will be a difficult one for our advertising business.
+As we move beyond the crisis and the global economy normalizes, this should be reflected in
+our advertising revenues, but it would be premature to comment on timing given all the
+variables here.
+In terms of Google Cloud, we remain very pleased with the execution by the team, reflected in
+the ongoing pace of customer adoption of both GCP industry specific solutions and G Suite
+collaboration tools to help businesses operate efficiently and effectively.
+Moving on to profitability. While TAC and content acquisition costs are obviously tied to
+revenues, there is a sizable percentage of items in Other Cost of Revenues that are generally
+less variable in nature such as depreciation and operations costs of our technical infrastructure,
+as well as for activities like customer support and content review. Much of our operating
+expense is also not directly correlated to changes in revenues. Given that we are faced with a
+global crisis of uncertain depth and duration, we have been focused on taking steps to enhance
+efficiency, including slowing the pace of hiring and some categories of marketing spend as well
+as further enhancing machine utilization.
+More specifically, with respect to the pace of hiring, last quarter I indicated that the rate of
+headcount growth in 2020 would be slightly higher than the 20% growth in 2019. We now
+anticipate a deceleration in headcount growth that should start to be visible in the third quarter
+and continue into the fourth quarter. Although we are focused on these and other steps to
+moderate the overall pace of investment, we remain committed to the long term opportunities
+for which we are well positioned, so we will continue to invest in these areas, including Search,
+Machine Learning and Google Cloud.
+Finally, with respect to capex, on the fourth quarter call we shared our expectation that
+investments in both Technical Infrastructure and office facilities would increase compared to
+2019. We now anticipate a modest decrease in the level of total capex in 2020 compared with
+last year. The biggest change in our outlook is a reduction in global office facility investments
+due to both the need to pause most of our ground-up construction and fit-outs in response to
+COVID-19, and our decision to slow down the pace at which we acquire office buildings.
+7
+In terms of Technical Infrastructure, we expect a moderate reduction to our forecast relative to
+the beginning of the year given the impact of COVID-19 on data center construction delays as
+well as the benefit of our ongoing focus on server efficiency. Overall, we anticipate Technical
+Infrastructure investment to remain at roughly the same level as in 2019, with relatively more
+spend on servers than on data center construction. Thank you and Sundar and I will now take
+your questions.
+Candice (Operator): Thank you. As a reminder, to ask a question you will need to press star
+one on your telephone. To withdraw your question, please press the pound key. To prevent
+any background noise, we ask that you please mute your line once your question has been
+stated. And our first question comes from Eric Sheridan from UBS. Your line is now open.
+Eric Sheridan (UBS): Thanks for taking the question and hope all is safe and well with
+everyone on the team there, at Alphabet. Two questions, if I can. One, on the comment with
+respect to direct response advertising on YouTube, we wanted to get a little more color on how
+direct response advertising as ad units continued to evolve and perform and how advertisers
+are using those ad units as part of their broader advertising goals. And then, maybe, Ruth, for
+you, on the comment on expenses, just want to understand a little bit of how much of what
+you're messaging on expenses is efficiency gains that you were aiming for in 2020 before we
+got to COVID-19 versus elements of the cost structure that you're reexamining as a result of the
+pandemic. Thanks so much.
+Sundar Pichai, CEO Alphabet and Google: Eric, thanks. Thanks for the wishes. On
+YouTube direct response, we definitely have seen traction there. I think an area where it really
+works well, for example, is app installs. That's a great example of it. Gaming is another good
+example of it. And we are working on iterating and making the formats work better so that it
+applies to more contexts as well.
+But, in general, I think businesses are learning to adapt. Obviously, we've had great success
+with Search. And so we're bringing a lot of those learnings and we're sharing it with our
+customers. And so we expect to see more traction there over time.
+Ruth Porat, CFO Alphabet and Google: And on your second question, I like the way you
+framed it. Yes, we do have efficiency efforts that we started that we had going as we entered
+this year. But as a result of what we're seeing in the environment, our view was that we should
+really double down on those.
+And so when we go through the various areas that I mentioned, we had started the year with an
+expectation about really optimizing headcount around the various areas. What we've
+determined is we're going to at this point slow the pace of hiring. To be very clear, we are
+continuing to hire, but we are slowing the pace of hiring. And that's helping as we're driving a
+deeper look into how do you optimize within each area.
+The same is true, for example, in some of the comments on marketing. We are continuing to
+invest in marketing. As you know well, sales and marketing line, the majority of it is
+headcount-related. And we do continue to invest here in Ads and, in particular, in Cloud. As it
+relates to the marketing component, namely, Ads and Promo spend, we did reduce it relative to
+our plans in the beginning of the year. And we continue to have a healthy budget for Ads and
+8
+Promo, particularly in digital, to support many business areas. But as with the other areas of
+investment, we're really focused on optimizing across products and services. And with physical
+events cancelled for much of the year, marketing spend is also reduced. And so that's another
+example.
+With machines and servers, we've been focused on efficiency of the fleet for some time now.
+This is giving us the opportunity to push that even further.
+So we're looking at the operating environment and saying we should continue to lean into the
+efficiency programs we can. It does help us free up some resources for the growth areas that
+continue to be a priority. But it is an accentuation of where we were.
+Eric Sheridan (UBS): Thanks so much.
+Candice (Operator): Thank you. And our next question comes from Doug Anmuth from JP
+Morgan. Your line is now open.
+Doug Anmuth (JP Morgan): Great. Thanks for taking the questions. One for Sundar. One for
+Ruth. First, Sundar, you just talked about how once the crisis has passed, the world will not look
+the same. I'm curious if you can just elaborate a little bit more on how you think Alphabet comes
+out stronger on the other side of this downturn. And then, Ruth, maybe taking the question on
+expenses a little bit further. Does this give you any more opportunity to be even more
+disciplined or diligent on costs on the other side as well? Thank you.
+Sundar Pichai, CEO Alphabet and Google: Thanks, Doug. It's a good question. And we are
+thinking deeply about it as well. In general, I would say the highest-level opportunities across
+everywhere, we see businesses thinking deeper about the shift to digital. And that's true across
+marketing, Cloud, on every place we see that trend. And so part of this is making sure our
+investments deliver value with respect to that shift.
+So if you look at Advertising, people who in the past may have debated things like how do I get
+virtual showrooming now are really thinking about it. People who may have been hesitant to
+shift their budgets are looking through moments like this and trying to get all that working better.
+Cloud is an obvious area. Every company has been thinking about digital transformation, but
+they are asking the questions deeper. For example, if you have data centers, there are fixed
+costs for something like this. And you learn going through moments like that and you're
+thinking about the opportunity harder.
+So across everything we do, be it Search, be it YouTube, be it Play, be it Cloud, I think we are
+investing to capitalize on this long-term opportunity. And I would say overall on Alphabet as
+well, when you look at investments like Waymo and Wing, you can imagine in the future, these
+things working well can play a significant role. And even in the limited areas Wing is in, we
+clearly saw its potential through a moment like this. So we are betting on those big trends.
+Ruth Porat, CFO Alphabet and Google: And to your other question, if I understood it
+correctly, you're asking about the durability of some of the efficiency efforts.
+9
+Doug Anmuth (JP Morgan): Yes.
+Ruth Porat, CFO Alphabet and Google: I think that the way I would answer that is, after a
+decade of growth, there have to be opportunities for added efficiency. And we've been focused
+on that for some time. But painful times like this put a spotlight on an urgency around making
+sure you're focused on the levers that you have. And hopefully, those instill the right kinds of
+health metrics, et cetera, against which you're managing. So I would say that the intent most
+certainly is that these are durable investments to ensure that we're operating as effectively and
+as efficiently as we can be.
+And I just need to reiterate -- and Sundar and I both said this -- we remain committed to
+investing for the long-term. So we're not compromising where we need to invest for long-term
+growth. We're trying to make sure that each dollar of investment is well managed.
+Doug Anmuth (JP Morgan): Thank you, both.
+Candice (Operator): Thank you. And our next question comes from Heather Bellini from
+Goldman Sachs. Your line is now open.
+Heather Bellini (Goldman Sachs): Great. Thank you so much for taking the question. Ruth, I
+had two questions for you, actually. First, I wanted to thank you for the color around the growth
+you're seeing as you were exiting the quarter in the Ads business. And, there's been some
+signs from different partners or different companies that ad spending, while still down
+considerably, has actually improved a little bit, maybe some green shoots from the declines that
+you might have been referencing at the end of March. Any chance you can give us a sense of
+the type of growth you've been seeing for the first, kind of three, four weeks of the quarter, just
+to kind of help level-set us. And then just in regards to the provision you mentioned in G&A
+related to credit deterioration, is there a chance you can tell us the amount of that provision?
+And do you expect to have to do this again in the second quarter? Thank you.
+Ruth Porat, CFO Alphabet and Google: Thank you for those. So in terms of Ads revenue, as
+I said in opening comments, for our Ads business, a key signal to monitor is macroeconomic
+performance, which has tended to be correlated with ad spend. And I think it's premature for
+me to comment on the trend.
+In terms of what we saw in the first quarter, as we said, for Search and Other Revenues, they
+were up 9% year-on-year for the quarter. But in March, revenues began to decline and then
+ended the month at a mid-teens percentage decline in year-on-year revenues.
+And then with YouTube, we had strong revenue growth until late in the quarter when
+trajectories for direct response and brand diverged. And as I said, direct response does
+continue to have substantial -- had substantial growth throughout the quarter, while Brand
+began to experience a sizable headwind starting in mid-March. So by the end of March, total
+YouTube Ads Revenue growth had decelerated to a year-on-year growth rate in the high
+single-digits.
+And then, for the second quarter, so far -- I think it's premature to gauge, given uncertainty in
+the environment. And a few weeks, obviously, is not a quarter. So in such an unprecedented
+10
+crisis, I would not want you to extrapolate from just a couple of weeks.
+That being said, the decline in our Search and Other Ads Revenue was abrupt in March. And
+although we're seeing some early signs at this point that users are returning to more
+commercial behavior, it's not clear how durable or monetizable that will be.
+So based on our estimates from the end of March through last week, for Search, we haven't
+seen further deterioration in the percentage of year-on-year revenue declines. For YouTube,
+direct response has remained strong. However, we have seen a continued decline in Brand
+advertising. And it's really too early to add more.
+I think the main point, though, is, a few weeks obviously is not a quarter. And given it is such
+an unprecedented environment, I would not extrapolate from these comments for the full
+quarter.
+Heather Bellini (Goldman Sachs): Sorry. No, that was very helpful. So thank you, on behalf
+of everybody. And then just the G&A that you mentioned, the credit provisions that you said
+you took, I just was wondering if you could share the amount. It might be in the Q later tonight,
+but just wondering if you could share with us the amount on the call.
+Ruth Porat, CFO Alphabet and Google: It will be in the Q later tonight.
+Heather Bellini (Goldman Sachs): Okay. Thank you.
+Candice (Operator): Thank you. And our next question comes from Michael Nathanson from
+MoffettNathanson. Your line is now open.
+Michael Nathanson (MoffettNathanson): Thanks. I have one for Sundar and one for Ruth.
+Sundar, people have asked you about your priorities. You've talked about it. But I wonder if
+you could step back and think about what this crisis will do to the other side. And maybe a
+reorienting of your priorities? So perhaps where you would shift spend in the long term to
+maybe take advantage of where this is going? And then, Ruth, we appreciate the color on
+YouTube. Just want to dig in some more. If you can give us any sense of YouTube
+geographies. Is there any difference by change by geography? That would be really helpful,
+too. So thanks.
+Sundar Pichai, CEO Alphabet and Google: In terms of overall priorities, I would say we've
+always taken a long-term view in thinking through the arc of where things are going. And our
+deep focus on AI is an example of that. And we've been convinced for a while that those trends
+will play out in the long-term. And so, if anything, through moments like that, the strong
+foundation we've built, allows us to continue to be able to invest in our long-term areas. So AI
+is a good example of it.
+The shift over time on computing to ambient computing is something we're going to be deeply
+committed to and continue to invest there. Cloud and productivity software for businesses of all
+sizes is a deep area of investment.
+And so the thesis still remains. So we continue to focus anywhere we think the actual work we
+11
+are doing is based on deep technology, deep computing, deep computational scale -- is the
+kind of investments we think still stand the test of time through things like that.
+Beyond that, we are actively looking at how user patterns are emerging. So, for example,
+eCommerce is an area. And you saw us respond through this with the changes we announced
+on our Shopping property and going for comprehensiveness there. And with new leaders in
+place, we're going to be making sure we work on the user experience there.
+And so we are looking at shifts, be it video conferencing with Google Meet and G Suite, and
+adapting and investing in those areas as well. So that's how we're approaching it.
+Ruth Porat, CFO Alphabet and Google: And then in terms of the geographic breakdown for
+YouTube, we -- I haven't broken that down, although I think, as you know well, we have a
+breakdown for the major regions around the world. And to give you a little more color there, in
+mid-February, revenue growth across the business began to decelerate in APAC. Although, as
+I noted, the decline in APAC was more muted, just given the uneven impact of COVID and the
+nature of our business across the region.
+And then the impact in EMEA was first evident in mid-February, with a steeper falloff in March.
+And in the second week of March, we then saw results in the U.S. as well as Other Americas
+fall off shortly. But nothing more specific by product.
+Michael Nathanson (MoffettNathanson): Thank you, Ruth.
+Candice (Operator): Thank you. And our next question comes from Brian Nowak from
+Morgan Stanley. Your line is now open.
+Brian Nowak (Morgan Stanley): Thanks for taking my questions. I have two. The first one,
+Ruth, just to go back to your comments around the early signs of improvements in behavior in
+Search. I know it's early and don't want to over-extrapolate, but just any more detail on the
+types of behavior you're seeing of which verticals or which categories or which geographies
+where you’re seeing sort of the first sign of green shoots on the Search side? And then,
+Sundar, just to go back to your comments about the shift toward digital opportunities or digital
+transformation, maybe talk to us about as you sort of look back over the last couple years at
+what you've done on the SMB side and what are sort of one or two of the key hurdles where
+you see you really need to invest and build more comprehensive SMB products for
+post-recovery?
+Sundar Pichai, CEO Alphabet and Google: Maybe I can give color both on the SMB and a
+bit on the Ad side, too. On the SMB side, it's an area we've been investing in for a while. And,
+obviously, we have assets both across AdWords, Google Maps, Google My Business, and
+obviously providing them with G Suite and the tools to get their business running. So I do think
+we have a lot of touchpoints.
+But the focus has been simplifying it, making it more of a -- one cohesive, easy experience,
+making sure it works well for mobile, that there is a truly lighter-weight AdWords experience so
+that they can get onboarded quicker and so reducing the work they need to and also over time
+bringing technologies like AI to just make it all much simpler and seamless for them.
+12
+And it's going to be a continued focus for us, and especially scaling this up and making sure it
+works internationally well, as well. We have clear metrics and targets internally, and we are
+aligning the teams better to get there. And you will see us do more.
+On the Ads side, to your question about -- maybe I can give more qualitative color to what Ruth
+said earlier. The good thing about Search Ads and direct response on YouTube as well, but
+Search primarily, is that it's an extraordinarily effective system. It's a transparent system. You
+have a very clear sense of ROI. It's very measurable, highly cost effective.
+And so we have always seen -- and we saw this in 2008 as well -- people respond in the short
+term, but the recovery is also fast when it comes back. And so it tends to work.
+It is very diversified, not just geographically, by different verticals. And even through moments
+like that, we do see businesses responding to demand shift. And, so we see through our
+system if people suddenly are looking for office furniture or even pajamas -- the system
+responds, right? And so you see the dynamic nature of it.
+I mentioned earlier people are really thinking about the shift to digital. So Philipp and our Ads
+team are super engaged with our customers, helping them think through the opportunities
+through moments like that. I gave an earlier example. If you're thinking about cars and you
+have been hesitant to do virtual car showrooming, now is the time you are beginning to have
+those conversations in a deeper way.
+There are budgets which are shifting in certain cases. Some of the large customers, maybe
+they've spent a lot of money on live sports. That is clearly on hold. So they are looking to shift
+some of those budgets into opportunities they see.
+But having said that, there are large sectors of the economy which are affected. Things like
+Travel and our large partners and customers are impacted. And so we clearly see the impact of
+that, and that's the color Ruth gave as well.
+Brian Nowak (Morgan Stanley): Great. Thanks, Sundar.
+Candice (Operator): Thank you. And our next question comes from Brent Thill from Jefferies.
+Your line is now open.
+Brent Thill (Jefferies): Good afternoon. I'm curious if you could just give us a little more color
+across SMB and enterprise, any common threads you saw between those two segments?
+Sundar Pichai, CEO Alphabet and Google: Maybe -- We have had tremendous momentum
+on G Suite -- and all of Google works this way. Products like Gmail, Google Docs were built
+from the ground up to really help people be productive and collaborative in a distributed work
+environment. And so we are clearly seeing traction there.
+Google Meet is seeing great traction. And I gave -- I mentioned some user momentum there.
+But we have more announcements coming up, including later this week. And so we are seeing
+tremendous traction and engagement on G Suite.
+13
+On Cloud, the shift to digital has been a deep trend. And, if anything, people are really
+engaged on it. I earlier talked about, you can imagine if you're a customer and you have data
+centers, these are fixed costs when you go through moments like this. And so people are really
+looking at opportunities there, and so our teams are super engaged.
+But I do want to acknowledge, small businesses across the world are deeply impacted. As a
+company, we have announced several efforts to support small and medium businesses, and we
+are going to be deeply engaged with them. But I think it's a tough journey we are all on. And
+we look forward to working with them to help them through this.
+Candice (Operator): Thank you. And our next question comes from Dan Salmon from BMO
+Capital Markets. Your line is now open.
+Dan Salmon (BMO Capital Markets): Good afternoon, everyone. Thanks for taking the
+question. Sundar, I wanted to return to those long-term initiatives that you walked through
+earlier and the one that was most close to your core business and the changes that were
+announced this week for Shopping. Could you explain a little bit more about the reasons for
+making those changes and expanding the free listings or creating the free listings, and what
+drove you to make that decision now? And then a related follow-up for Ruth. Same question,
+essentially, but as we think about the financial impact of such a change, I imagine this is one of
+those things which may qualify as causing maybe some variability in the quarter-to-quarter rate
+but something that benefits all parties over the long-term, I think, is how we've often visited
+these sorts of changes. But any color you could add on sort of the near and the long-term
+impact of the Google Shopping changes would be great, too.
+Sundar Pichai, CEO Alphabet and Google: So going through a moment like this, it's very
+clear. Part of what makes Google work well is people come across a diverse range of needs.
+And that's true for Shopping. They spend time discovering. And comprehensiveness really
+matters. That's how we can have a great user experience.
+And so as we've been thinking about this space, we realize -- and this is how organic Search
+works -- for us to truly give that comprehensiveness and the quality of experience, we need the
+widest catalog possible. And then we are good at ranking it and matching users to what they
+are looking for.
+And so it is -- it made a lot of sense for us and just looking through the range of experiences
+people were seeking through the COVID pandemic validated it even more. And then,
+obviously, we've been executing really hard there with new leadership in place. And so we saw
+the opportunity to go back to our first principles and improve the comprehensiveness there.
+One of the tricky things about when you do that is making sure you don't have spam and you're
+managing and giving people good-quality experiences. And that's where our deeper
+partnership, be it with PayPal and other providers, so that we get the quality signals and really
+improve the experience as we improve comprehensiveness. So both of them are going hand in
+hand. And as we've demonstrated with Search, when we improve the organic experience, the
+advertising experience also gives an opportunity and the system works well.
+14
+And so I'm really excited about this change. It is still early, but it's been very positively received.
+And you're going to see us enhance the experience in this area deeply.
+While we talk about Shopping, another area where we are investing and building the right
+foundation is with Google Pay. And we have great leadership there as well. We've been
+executing well over there for the past year, and the growth on Google Pay has been strong.
+And so being able to bring all of that together, along with strong players like PayPal, et cetera,
+will help us give great experiences for our users here.
+Ruth Porat, CFO Alphabet and Google: And in terms of your question about the financial
+implications of the effort, there's really not much to add here today. I would just say -- re-echo
+Sundar's comment. We're excited to have Bill leading the effort. And as Sundar said at the
+outset, one of the priorities is creating sustainable financial value. And we have a leader who
+has a demonstrated track record of doing that, so we're excited about what he is building here
+with the team.
+Dan Salmon (BMO Capital Markets): Okay. Thank you, both.
+Candice (Operator): Thank you. And our next question comes from Justin Post from Bank of
+America. Your line is now open.
+Justin Post (Bank of America Merrill Lynch): Great. Appreciated all the advertising updates
+in March. Just wondering, your Cloud growth was obviously quite stable, in the low 50’s. Any
+impact in March on workloads or slowdown in the new customer pipeline? And then maybe,
+Sundar, if you can talk about what could be the benefit for Cloud as we get to the other side of
+this? More work from home or just other things and secular changes in Cloud that might come
+about from this? Thank you.
+Sundar Pichai, CEO Alphabet and Google: Overall, in Cloud, the interest and the
+momentum remains strong. We are obviously making a lot of progress both across GCP and G
+Suite. And we find our offerings are getting deeper, and we are really helping customers from a
+deeper standpoint.
+So we see overall momentum. There are cases where even though the deal trajectory is the
+same and we have the wins, things are taking a bit longer. Naturally, as you would expect, our
+customers are impacted through moments like this, too. So I would say time to closing some
+larger deals are impacted. But the companies, if anything, all the way at a CEO level are
+thinking about the shift to digital in a deeper way. And I think that's a longer-term trend we are
+excited about.
+Obviously, consumption gets impacted, depending on the sectors which companies are in. And
+so that has some correlation with the general underlying performance of that sector. And so
+that's something we'll have to wait and see how it develops.
+But the teams are doing well, and it's an area where we are committed to the course we are on
+and investing deeply for the long run.
+Ruth Porat, CFO Alphabet and Google: And you asked about Q2. Nothing to highlight there.
+15
+I’d just reiterate what Sundar said. We're really pleased with the Q1 performance for both GCP
+and G Suite. And the dynamics affecting Cloud are obviously very different than those from
+Ads. And just to build on Sundar's comments with a little more on G Suite and some of our
+opening comments, in this work-from-home environment, what we're seeing is significant
+interest from governments and companies looking for work-from-home solutions. So just to add
+one more example, Cambridge Health Alliance is a U.S. health system with 140,000 patients.
+And they relied on G Suite to support their staff and caregivers during COVID-19, helping them
+connect across hospitals, health centers, from home. And it's just yet another example of how
+we're able to be present, helpful, useful in this time.
+Justin Post (Bank of America Merrill Lynch): Thank you.
+Candice (Operator): Thank you. And our next question comes from Kevin Rippey from
+Evercore ISI. Your line is now open.
+Kevin Rippey (Evercore ISI): Hi. Thanks for taking the question, guys. One for Sundar and
+then one for Ruth. Sundar, the question for you really relates to the resiliency you're seeing at
+the direct response piece of YouTube. Are there specific factors or is it a question of mix of
+advertisers there that's sustaining the growth? And then the question for Ruth, you highlighted
+that this has given you an opportunity to refocus on cost discipline. It looks like the capital
+returns by way of buyback remained quite strong in the quarter. Has this affected your thoughts
+on buybacks and capital returns going forward? Thanks.
+Sundar Pichai, CEO Alphabet and Google: Maybe, stepping back, I would say we are
+overall seeing strong momentum on YouTube. People are turning to YouTube. Our watchtime
+has increased across the board. People are also looking for authoritative news content.
+Viewership on YouTube has increased significantly compared to last year, too. So in many
+ways, through the pandemic, people are using YouTube. And the trends are global across
+North America, EMEA and Asia-Pacific as well.
+On direct response, I do think people are -- it's a journey and people who have been investing
+are seeing that it is cost effective. And so over time, more people are looking at it. Our sales
+teams are doing an excellent job of helping our customers understand the opportunities there
+and so being able to bring all of that to bear.
+In the case of App Campaigns, we have done it with the Universal App Campaigns. So we've
+just made it easier as a customer not to think about whether you're trying to do this across
+Search or YouTube and bring a simple, holistic solution. So all of that is impacting.
+I mentioned gaming earlier. When you think about things like unboxing and product reviews,
+those are a natural home for transactions as well. I earlier mentioned about all the work we are
+doing now on commerce. All of that, I'm looking forward to those integrations coming into
+YouTube and working better as well. And so those are some of the longer-term opportunities.
+We are working hard to get the experience right and building the right foundation for the future.
+Ruth Porat, CFO Alphabet and Google: And then on your second question, on capital
+returns, we believe a share repurchase program for us, appropriately sized, is responsible in
+the current environment based on our capital allocation framework and our cash balance. So in
+16
+the beginning of the year, I indicated that we expected to repurchase shares at a pace at least
+consistent with the fourth quarter on the remaining authorization. And that remains our view for
+the second quarter.
+Candice (Operator): Thank you. And our final question comes from the line of Mark Mahaney
+from RBC. Your line is now open.
+Mark Mahaney (RBC): Okay. Thanks. In terms of the maybe less worse or somewhat
+positive trends at the end, you mentioned this recovery or modest move up in consumer
+commercial search queries. Have you also seen a small improvement in advertiser interest in
+running campaigns? I think you said both of those factors kind of deteriorated in March. One of
+them came back. Did the other come back, too? Do you also see advertisers starting to come
+back? And then, secondly, that YouTube result in the March quarter was phenomenally strong,
+given what happened in the month of March to YouTube. Was that a comp issue? Was the
+comp much easier? It sounded like January and February could have been up strong, 40%
+year-over-year. So is there any color? Is that just comps, easy comps? Or was there
+something that fundamentally changed that caused that kind of material acceleration? Thank
+you.
+Ruth Porat, CFO Alphabet and Google: So as I tried to be really clear in my response to
+Heather's question, I would not extrapolate from my comments for the full quarter. It's early,
+just giving you an early read. And there's really not much more to add than what I indicated.
+So nothing more to add there. And then --
+Sundar Pichai, CEO Alphabet and Google: And maybe just to reiterate what Ruth said
+earlier, and I said, that Search tends to -- people respond to changes in Search faster, Brand
+trails. So Brand is maybe slower to change, both on the downside and the upside, and Search
+is much faster to adapt as well. And so I think that's worth keeping in mind.
+But overall, look, we see a vibrant system. Advertisers are definitely very engaged and looking
+at it. And we are seeing active conversations between our teams and our large advertisers
+where they are trying to understand the demand shifts and how they can respond.
+And so, overall, I see both from users, users that are engaging with Google, YouTube and our
+core products and services. And while, obviously, there's an impact on the economy and we're
+not immune to that, the engagement from advertisers across our products and with our teams
+has been very robust.
+Candice (Operator): Thank you. And that concludes our question and answer session for
+today. I'd like to turn the conference back over to Jim Friedland for any closing remarks.
+Jim Friedland, Director Investor Relations: Thanks, everyone, for joining us today. We look
+forward to speaking with you again on our second quarter 2020 call. Thank you and have a
+good evening.
+Candice (Operator): Ladies and gentlemen, thank you for participating in today's conference.
+This does conclude the program. You may all disconnect.
+17

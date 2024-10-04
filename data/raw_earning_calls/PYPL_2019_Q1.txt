@@ -1,0 +1,479 @@
+Page | 1
+Company: CITI NORTH AMERICA (GM2)
+Conference Title: Post Earnings Call with PayPal
+Conference ID: 5579185
+Moderator: Ashwin Shirvaikar
+Date: April 25, 2019
+Operator: Please stand by. We're about to begin. Good day and welcome to the Citi hosted post earnings 
+call with PayPal. Today's conference is being recorded. At this time I would like to turn the 
+conference over to Mr. Ashwin Shirvaikar. Please go ahead, sir.
+Ashwin Shirvaikar: Thank you. Hi. This is Ashwin Shirvaikar, Citi's payments, processors and IT services 
+analyst. It's my pleasure to welcome all of you to this call with PayPal CFO John Rainey and the 
+IR team is available as well.
+A couple of quick logistical things. First I want to point out that we did email our legal disclosures 
+ahead of the call. And the second thing is to be clear this call is only for buy side investors. If you
+are a member of the media, you should hang up at this time.
+John, welcome and thank you for doing this.
+John Rainey: Thank you. Thank you, Ashwin. I appreciate the opportunity and I appreciate you hosting 
+this call as well.
+I do want to say as usual I'm flanked here by my investor relation cohorts, (Akila) and (Gabrielle). 
+We also have our head of FP&A and analytics for PayPal Erica Gessert joining us today. So we're 
+happy to field the questions that people have submitted to you.
+Page | 2
+Ashwin Shirvaikar: Yes, yes. Great. So let's get started. And one of the more frequent questions that I 
+have gotten is about strategic investment portfolio. So can you help clarify the unrealized gains on 
+strategic investments that are embedded in the outlook for 2Q and the remainder of the year?
+That 1 cent of unrealized gains in the outlook, basically, does that reflect the private investment? 
+And then it seems each quarter you will provide a separate update on MercadoLibre?
+John Rainey: Yes. There is a lot to that question. I'm going to spend just a moment to try to clarify this. 
+Let me start with just fundamentally.
+As we think about her long-term earnings growth goal of 20% that is the growth in our core platform. 
+That doesn't include any of these unrealized investments. I just want to make that clear right from 
+the onset.
+With respect to the first quarter, when we guided we had an assumption about two private 
+investments that we had where there was some fundraising going on. And the expectation around 
+that was we would benefit by 4 cents in the quarter and that was included in our Q1 guidance.
+As we got into the quarter we completed the sale - or, I'm sorry, the investment in MercadoLibre 
+and that resulted in 8 additional cents of below the line benefit.
+As we look into the balance of the year in the second quarter we've got another private investment 
+that we expect to be slightly less than 1 cent. And 1 cent for us is about $15 million so, you know, 
+something less than that in terms of benefit. But we have nothing else in our updated guidance for 
+the year assumed around future benefits or losses related to these investments.
+Page | 3
+Now to be clear, we will have some volatility, certainly with Mercado Libre, unless its stock price 
+stays exactly where it was at the end of the quarter. And so what we've decided to do going forward 
+is to provide investors that information promptly at the close of each quarter. We will issue an 8-K 
+disclosing what the impact was or any mark to market changes in those investments prior to our 
+release of the earnings for the quarter.
+So that will give the analysts and investor community the ability to input that into their models before 
+we release earnings. The question has also been raised as to going forward would we consider 
+maybe changing our accounting on this to completely exclude this from non-GAAP earnings.
+And, yes, we will consider that. I don't want to make a change mid-year. I think that makes it a 
+little bit messy as we go throughout the year. And so the natural place to do that would be at the 
+end of this year and going into 2020. we will evaluate it at that point in time and perhaps make a 
+change if we deem this interim method of releasing 8-K is not adequate enough. Does that answer 
+all of your questions, Ashwin?
+Ashwin Shirvaikar: Yes, on that topic, yes, including a couple that I was going to ask as a follow-on so 
+thank you for that.
+John Rainey: Sure.
+Ashwin Shirvaikar: I guess the next question is with regard to the revenue guide and, you know, when I 
+kind of look historically back in Q1 2017, Q1 2018, you guys took up revenue guidance. You didn't 
+do so this year at the end of the first quarter.
+Page | 4
+So one of the questions I've gotten is how strong momentum in areas like Venmo, where you have 
+new partnerships like Instagram, you know. So what are the concerns here? I mean, you have 
+already taken into account eBay on the other side I would imagine.
+So are there potential headwinds at this point of the year that are greater than in the past two 
+years?
+John Rainey: Sure. I would start with just the general macro environment is in a different place in 2019 
+than it has been in the previous years. So I think with that landscape you know it's a slightly different 
+environment than we've been in.
+But you cited the two reasons that, I think, represent the most pronounced headwinds for us. 
+Certainly, the dollar appreciation has had an impact not only from a translation perspective but from 
+a behavioral perspective of consumers that are purchasing from merchants in the U.S.
+And that ebbs and flows and it can go the other direction as we move through the balance of the 
+year. But that is one headwind. And I think that's generally being experienced by other companies 
+that have cross border activity like ours.
+The other one, though, that is, I think, very specific to PayPal is eBay. And, you know, we have 
+our own estimates and forecasts about what eBay will do, but we also rely on their guidance quite 
+a bit.
+And you know I believe that you've seen a continued deterioration of their business. Their U.S. 
+GMV declined 7% in the quarter. You know, that's a pretty rapid decline. And so I would say we're 
+cautious. And we want to be measured as we go through the year because you know eBay, despite 
+it being a declining part of our business, it still is almost 10% in terms of volume.
+Page | 5
+So I think it would be imprudent to go out right now and raise revenue given those headwinds even 
+with some of the other things that are new and the impact of that like some of the new channels 
+that we've announced like Instagram and the growth that we're seeing in Venmo.
+So I guess to summarize that, I guess I would that we're still being a little cautious given that the 
+environment is different than where we were in prior years.
+Ashwin Shirvaikar: Got it. Got it. And a quick follow up on that, the eBay, and not to put too fine a point 
+on it, but the eBay impact does have two parts. One is eBay itself is not doing as well. And that's 
+reflected in what's going on with the GMV. And the second is progress eventually to the July 2020 
+cut over date.
+Just to be clear what you're talking about here is the former not the latter because the latter should 
+already be in the plan, right?
+John Rainey: That is correct. And so let me put a finer point on that. In terms of their efforts to intermediate 
+payments, I believe they disclosed that they did $220 million of volume in the quarter.
+You know, our base of $161 billion in TPV, you can see that that's a fraction of a percent for us. 
+So that's an immaterial impact to our results. But quite clearly they're moving there. And they 
+talked about this on their earnings call.
+We believe that given the profile of our business that we can continue to perform financially like we 
+have and I would expect that there's a certain stickiness to consumer preferences in terms of their 
+payments. And we will retain a certain portion of those payments going forward. As you know we 
+Page | 6
+have an extension after the operating agreement that allows us to continue to be a branded form 
+of payment on their checkout.
+Ashwin Shirvaikar: Right. Yes, understood. Let's move to operating margin expansion. And the question 
+is how should we think about operating margin expansion not just this year but also in out years? 
+And in particular where I get a lot of questions is with regards to your ability to deliver operating 
+margin expansion while at the same time investing for growth and absorbing eBay.
+John Rainey: Sure. Well, so, I think at a high level, you know, we believe that we can expand operating 
+margins and invest for growth appropriately in our business to allow us to continue to have the 
+growth profile and profitability into future years that we've experienced in the past.
+eBay will certainly have an impact when they transition over off of the operating agreement. But 
+it's not something that's going to change the way that, you know, people think about our financial 
+performance or the growth profile that we're on.
+And in fact I would say that because they will be a lesser part of our business, you know, it won't 
+be as much of a drag on the rest of our business in terms of growth. So maybe you can see that 
+perform better.
+But, you know, this is not something - I guess I appreciate the question because while the earnings 
+growth in the most recent quarter was, you know, I guess arguably lesser quality because it came 
+below the line, and that has prompted more questions than what I expected about our ability to 
+expand margins.
+But this is not really an issue for us. I think we've really demonstrated quite adequately the ability 
+to scale our platform at a very low marginal cost.
+Page | 7
+You saw that through our operating expense performance in the quarter. And we had over 280 
+basis points so 280 basis points of operating leverage through that.
+I think another good number that I like to throw out that gives people an indication of how we're 
+growing at a very low marginal cost is when we look at the non-transaction related expenses that 
+we have. We also refer to it as other operating expenses.
+Those grew 13 cents for every dollar of incremental revenue growth, revenue that we had in the 
+quarter. And as I said for us, like, I feel the right number is 10 to 15 cents. That allows us to scale 
+our platform but yet still invest for growth in the future. And to be clear the number I quoted is on
+an organic basis.
+And so, you know, I feel comfortable that we can continue to grow our margins and still invest 
+appropriately in things like Venmo that will give us legs of profitability in the future.
+Ashwin Shirvaikar: Got it. Got it. If I can ask a little bit more detail with regards to operating margin levels. 
+You know, you've talked clearly on a number of occasions about what you're doing with customer 
+service. But are there other levels that you can also talk about, you know, maybe more cloud, 
+maybe more efficient product development. I mean, can you talk about some of the other levels 
+you have at your disposal?
+John Rainey: Certainly. And I would start with the work that we do, and Erica's team leads, is not really 
+like a - it's not a finite process that has a beginning and an end. This is a part of the way that we 
+operate every single year.
+Page | 8
+And so it's not as if the opportunity is specific to one area of the business. It includes how we go 
+to market. It includes how we market our product. It includes the very overhead functions that we 
+have and how we're structured regionally around the world. It includes, as you alluded to, the cost 
+of our platform.
+If you go back to our first investor day after our spinoff, we talked about the cost of our platform, 
+the infrastructure cost, was 13 cents a transaction. We brought that down today to 8 or 9 cents. 
+And we have an equal opportunity to improve going forward by a similar amount.
+These are all things that demonstrate the scalability of our platform at a low marginal cost. And 
+one, as you alluded to, that I've talked about a lot is just customer service and operations.
+There is some really, I think, compelling datapoints around what we've done here in terms of, you 
+know, we've added, you know, 70, 80 million customers over the last several years yet our overall 
+call volume into our contact centers has declined. That is true scalability of the platform.
+But even then when we look at the opportunity in front of us, let me give you a datapoint. Like 
+today roughly 7% of our contacts come to us through chat. There are other companies, Chinese 
+companies, where 95% of their contacts are handled through chat.
+And so when you think about the ability to change the profile of our business going forward, there's 
+still a tremendous opportunity to grow but not have our operating costs go up commensurate with 
+that growth.
+So that's what gives us the conviction around the margin performance at least on the cost side. 
+And then when we look at the revenue generating opportunities, you know, new channels like 
+Instagram are a great example.
+Page | 9
+But also, like, you know, we had the investment in MercadoLibre in the quarter. I think, you know, 
+arguably Latin America is where we are less strong compared to other regions of the world. We're 
+extremely excited about the opportunity that we have there to partner with what is the leading 
+ecommerce provider in Latin America to jointly grow our businesses and give our mutual customers 
+the opportunity to shop across border around the world.
+Ashwin Shirvaikar: Got it. Yes. I want to turn my attention to M&A and one in particular iZettle. You know, 
+you have been relatively quiet about iZettle since that acquisition closed. What specifically is in 
+your guidance? Is there any update on integration and on the CMA review process?
+John Rainey: Sure. So let me give a little bit of context here so it helps you understand the trajectory of 
+our business. When we first gave our preliminary 2019 guidance in October of last year, we had 
+an expectation that we would be implementing iZettle earlier in 2019.
+Post that guidance is when a lot of the CMA review has taken place. And we've since basically -
+you know, we're not assuming any sort of benefit from that in 2019 or a very marginal amount of 
+benefit yet we kept that guidance the same. So that does indicate that we do see some benefit 
+coming from other parts of our business.
+But this is - you know, for those that have worked the companies that have been involved in 
+international acquisitions and mergers, going through the regulatory approval process is standard 
+course.
+And we want to work with the regulators to make sure that they understand that we don't think that 
+this is anti-competitive in any way. And it certainly in no way changes the value proposition or the 
+reasoning behind our purchase of iZettle.
+Page | 10
+iZettle is a great company that has demonstrated that it can scale on multiple markets across the 
+world. And they've got a great, you know, mobile point of sale application for merchants, which will 
+allow us to eventually provide omni solutions for them.
+Gabrielle Rabinovitch: Yes, also just to quantify it a little bit. Both in Q4 and Q1 we had about a point and 
+a half of growth in our revenue related to our acquisitions from 2018. That's predominantly iZettle. 
+And Hyperwallet is in there as well, in addition to the other two we did. And that's what I would 
+expect in terms of benefit both in Q2 and Q3 until we fully lap in Q4 of this year.
+John Rainey: Yes. We're challenged with what we can do right now in gaining any synergistic benefits 
+between the two companies. So this is basically iZettle just running independent of PayPal.
+Ashwin Shirvaikar: Got it. Got it. Okay. Understood. So more to come. More to come on that obviously.
+Let me go back to eBay and the question really is can your core business offset the eBay declines
+if those declines accelerate? I mean, so far you've shown the merchant service TPV, you know, 
+has kind of over the last couple of quarters re-accelerated a little bit and that helps. But is there a 
+level that can be problematic from an eBay decline perspective?
+John Rainey: So, yes, our business can withstand the decline in eBay. But let me be clear about this 
+because I don't want to mislead the investors to think that when we move into the post-operating 
+agreement world that that quarter there is zero impact.
+I mean, certainly there is an impact. But, you know, we're talking, you know, maybe a few 
+percentage points of growth. We're not talking something that dramatically changes our profile.
+Page | 11
+And we feel very comfortable about the ability to backfill that volume. It doesn't work in a way 
+though that 100% of that volume that is going to be backfilled is going to come in that very quarter.
+And so we layer in things like Paymentus, like Instagram, like other things that we will announce in 
+the future that will give investors a better understanding of where some of that other growth is 
+coming from.
+And very importantly that the growth that is backfilling eBay, this will be with the largest and fastest 
+growing marketplace in the world. One of the things we talked about, which I think is a very 
+important point -- we talked about it on the call yesterday -- is that if you look at the top 20 
+marketplaces in our business outside of eBay, that's roughly $90 billion of TPV.
+And just using round math, that's about 50% more than what eBay is of our business. And those 
+top 20 marketplaces are growing at almost 40% year on year. You contrast that to eBay which 
+declined 4% for us. And, yes, eBay tends to carry a higher profit margin than all that business but 
+I think everyone recognizes that the addressable market is enormous.
+And with our decision to be an open digital payments platform, we now have an opportunity to 
+partner with all of these large marketplaces in the world. And once we are completely 
+unencumbered from the OA and can go out and partner with these marketplaces where we have 
+restrictions today, we feel very comfortable with our ability to backfill any of that growth.
+Ashwin Shirvaikar: Understood. Understood. So you know it's kind of surprising we went through 20 
+minutes of the call without mentioning Venmo monetization. So let me go to it now.
+Page | 12
+So obviously some very strong statistics this quarter as well as last quarter. Is this sort of organic 
+in the sense that are you driving it word of mouth? Is it through promotions? Give us a little flavor 
+for, you know, is this an inbound demand?
+And then one very simple clarification type question, when you said the $300 million annualized 
+revenue that was it basically $75 million in the quarter times four?
+John Rainey: Yes. We didn't clarify exactly how we're doing that. But the run rate through the quarter in 
+terms of all the various ways that we're monetizing that is $300 million on an annual basis. And 
+that comes through, you know, the various ways that we talk about monetizing that which is pay 
+with Venmo, the ability to use Venmo to shop any merchant.
+It comes through the Venmo card and also the instant cash or instant withdrawal fee. As Venmo 
+actually grows in size, we also benefit a little bit from just the interest on the stored balance, which 
+is a smaller part. But to be comprehensive, those are the things that are included there.
+And to the first part of your question, Ashwin, you know, the neat thing about Venmo is that we put 
+little to no marketing effort around this. The 40 million customers we have have been obtained 
+basically organically.
+And if you're a Venmo customer then you understand sort of how that happens. But with Venmo 
+being one of the top apps on every college campus, there's almost peer pressure to download the 
+app and use that to pay your friends. And it's one of the top social apps that are out there.
+And so, you know, when we are ready and the experience around pay with Venmo is where we 
+want it to be, as we're kind of working out the kinks on that right now, we can direct marketing and 
+Page | 13
+advertising dollars to really put our foot on the accelerator there. But we don't want to do that before 
+the experience is just right.
+Ashwin Shirvaikar: Got it. Got it. And then, you know, you mentioned the three channels there. Are there 
+different monetizable experiences that you get from each of the channels? How are each of those 
+trending, you know, both in relative size and in relative growth?
+John Rainey: Yes. So the way I would describe that right now is the bulk of the benefit that we receive 
+from monetization has been around the instant withdrawal followed by sort of equal amounts from 
+the debit card as well as Pay with Venmo.
+But I think that's a point in time given where we are right now. We would expect long-term the 
+majority of the monetization efforts or benefit that we would receive would be very much like what 
+we experience with PayPal where it's a take rate model where merchants pay us when someone 
+uses Venmo to shop.
+Ashwin Shirvaikar: Got it. Got it. And should Venmo expand to a credit card offering, that monetization, 
+would that be mostly interchange? I mean, is that kind of how you're thinking of it?
+John Rainey: Yes. If we were to move down that path, that's the way that we would monetize that.
+Gabrielle Rabinovitch: We also would see some bounty on new accounts, which is how our other cobranded programs run.
+John Rainey: Yes, exactly.
+Page | 14
+Ashwin Shirvaikar: Got it. Okay. Okay. Let's maybe shift gears and talks about pricing. So if you could 
+discuss the pricing actions that you've taken recently, how meaningful those can be for growth and 
+for margins, you know - yes.
+John Rainey: Yes. So let me give some context here because I think based upon some other questions 
+that I fielded around this over the last day, there is an expectation that because this change to our 
+user agreement [UA] was something that just recently happened that it presents upside to our 
+guidance that we previously provided.
+So that’s not the case. When we look at pricing opportunities, these are things that we evaluate 
+months and sometimes years in advance. And so to the extent that there's benefit associated with 
+this, it's included in our guidance.
+But I also think if you just took the changes at face value, one could infer that the benefit is greater 
+than what it is. And so let me expand on that. What we did around the recent UA changes was 
+look at the competitive environment. And we saw that there were areas to where we really weren't 
+in line with the market.
+And so we decided to make some changes to our UA that actually, to be clear, even our own policy 
+was a little bit confusing among our customer base. And so we did something that was more akin 
+to what market is.
+It doesn't mean that we need to go do that right away. It basically gives us optionality. It also if we 
+elected to enact those changes, the flaw around this is to assume that that applies to the entirety 
+of our customer base.
+Page | 15
+Very seldom do we ever make a price change that goes to our entire merchant base. And so we 
+could decide, for example, to only do this on the front book with the customers or only do it to 
+certain segments of customers. And those are things that we'll evaluate as we move through the 
+year.
+But it would not be correct to assume that we have announced an X percent price increase and 
+then you can apply that to the entirety of our TPV or to the entirety of our 22 million merchants.
+Ashwin Shirvaikar: Okay. And then the comments you made, would that apply regardless of where the
+pricing was being applied? What I mean by that is you made actually multiple pricing changes,
+didn't you? You had a change to how refunds worked. You had a change on the P2P as well.
+So, I guess, do your comments apply to all of those pricing changes?
+John Rainey: Yes. So I'm going to generalize here which is always a little bit dangerous. But generally 
+speaking price changes that affect our merchants are much more segmented. Price changes that 
+affect consumers are not. That tends to be more blanketly applied.
+Gabrielle Rabinovitch: Geographically.
+John Rainey: Geographically.
+Gabrielle Rabinovitch: So we'll disclose the geographies that are affected and that will apply across all 
+users of those P2P services there.
+The distinction is also that there's an entire population of merchants that don't fall within our user 
+agreement because they actually have separately negotiated pricing agreements with us as part of 
+Page | 16
+their overall contract. And so that obviously would contemplate sort of medium-sized and much 
+larger merchants that would fall completely out of a user agreement change.
+John Rainey: Yes. That's a very good point.
+Ashwin Shirvaikar: Got it. Okay. And while completely understanding that, you know, these kind of changes
+are planned well in advance and, you know, inherently because of that they're in your FY19 outlook, 
+you know, we still get questions on how to size the ongoing benefit.
+So is there any information you could potentially provide with regards to, you know, for refunds, for 
+example, what's the average return rate for a PayPal transaction or what's the average cents 
+amount on P2P, things like that?
+John Rainey: Yes, Ashwin, I would really prefer not to get into quantifying discrete pricing actions for both,
+mainly for competitive reasons. And so what I would encourage investors to follow is sort of how 
+we talked about our expectations around take rate and transaction margin and any pricing decisions 
+are built into that.
+We've talked for a long time that we have a lot of levers in price. And I think you've seen that we've 
+exercised many of those. But this is not as if there is a basket of opportunities that is dwindling.
+This is something that is a sophistication in most businesses that evolves over time and there are
+always opportunities to tweak pricing to either drive more market share in some cases or more 
+bottom line benefit in other cases.
+Ashwin Shirvaikar: Understood. Understood. Well, let me ask it this way then. Are there other potential 
+areas of price optimization that are being contemplated and is this a sort of annual thing that 
+Page | 17
+happens, you know, at a certain time of year or, you know, seasonally? Is there something to think 
+about here?
+John Rainey: So, yes, is the first part of the question. There are many opportunities that are out there. 
+And it's not something that is an exercise that we do at a certain point in time. We have a pricing 
+team that reports to Erica Gessert here that all they do is look at how we can better align the value 
+proposition that we have and our customer's willingness to pay for it.
+And that's something that, you know, we look at, at least is reviewed with senior management on 
+at least a monthly basis if not more frequently.
+Ashwin Shirvaikar: Understood. Okay. Let's switch gears again and talk about, you know, something that 
+has been sort of a highlight over the last couple of earnings calls at least, and that's net new 
+customer adds.
+So I guess the first question there is if you divide up customer adds by cohort, so can you discuss 
+- the user cohorts that you added over the last couple of years, what do those suggest about forward 
+TPV growth?
+John Rainey: Yes. So I'm going to start here with your question and then Erica will probably jump in 
+because this is an area of expertise that she has. But generally what we see is the new cohorts 
+that we're bringing on are more engaged. And Erica can elaborate on that.
+But that's what gives us the conviction to sort of be able to withstand the headwinds that is the large 
+portion the numbers show. We've demonstrated since we separated from eBay that despite 
+growing 20 to 25% a year, we're still achieving those same growth rates.
+Page | 18
+We're, you know, a much, much larger company than we were four years ago when we separated 
+from eBay. Yet we've seen our growth profile, at least the guidance that we've given externally 
+over that period of time, increase.
+And, you know, we have conviction that we can sustain that. And that's in the face of some of 
+these headwinds that we covered earlier in the call. And that's in part because of what we're seeing 
+around the engagement of the new cohorts.
+And so I'll turn it over to Erica and she can add a little bit of color to that.
+Erica Gessert: Yes. I'll just add, you know, I think that in terms of the newest cohorts that we're activating 
+right now, you know, what we watch very closely is kind of how quickly we can see multiple 
+transactions, you know, from an average new customer. And we see that trend as very, very 
+healthy.
+That makes us change - and I know the team has discussed this on previous calls. But, you know, 
+we've seen the mix shift more to P2P from an activation point of view, which is actually a very high 
+customer value for us.
+And it happens to actually be a higher customer value on average in the kind of early years than 
+just a plain merchant services activation. So that balance is how we think (the present) continues.
+The other thing I would add is, you know, one of our high activators in the past, you know, few 
+quarters has been in India as we've grown that business. And the values on average just from a 
+currency value point of view are lower right now.
+Page | 19
+What we do see is some very healthy, you know, transaction frequency for a new business. And 
+so that bodes well for us, you know, kind of down the line as we continue to grow that business and 
+grow out the products up there.
+John Rainey: Thanks, Erica.
+Ashwin Shirvaikar: Got it. Okay. One other question on net new customer adds and that's the organic 
+versus inorganic question. Of the acquisitions that you've made, so Hyperwallet, iZettle, Simility, 
+can you break down, hopefully separately, but, you know, at least maybe put together what the 
+contribution of those was?
+Gabrielle Rabinovitch: The major step up was in Q4 where we had 2.9 million net new adds related to our 
+acquisitions. I think it was about 500,000 related to iZettle and the remainder was predominantly 
+Hyperwallet.
+Ashwin Shirvaikar: Okay. Got it. The other thing I wanted to...
+(Crosstalk)
+Ashwin Shirvaikar: Yes. Go ahead.
+John Rainey: Ashwin, I want to add one point because you're hitting on this right now but it actually 
+addresses a previous question that you had and that's around our conviction on margins, on growth. 
+And, you know, we have been asked for three years if we can sustain this level of net new active 
+growth.
+Page | 20
+And we've demonstrated that quarter after quarter. You know, we've for the second time had over 
+9 million net new actives in the quarter and the fact that, as Erica mentioned, these net new actives 
+are coming to us more engaged.
+You're seeing our active base grow and we'll be at 300 million or higher by year-end. And you're 
+seeing them still be more engaged. We grew engagement 9% in the quarter.
+And so this is sort of the leading indicator of what our future financial performance will be. And so 
+that's what gives us a lot of conviction around the growth prospects that we have.
+Ashwin Shirvaikar: Got it. Thank you for that. On the same topic of just customer adds, I wanted to kind 
+of combine it with the partnership question. You signed, you know, a number of very good named 
+partnerships if you will. Are any of these partnerships, you know, particularly impactful for user 
+growth?
+John Rainey: For user growth?
+Ashwin Shirvaikar: Yes.
+John Rainey: I wouldn't call one out independently. I think it's the combination of all of them. We've had 
+over 40 partnerships that we've announced since our decision of what we refer to as choice, 
+becoming an open digital payment platform.
+And it's the combined effect of all of those. And there's actually a synergistic benefit between them 
+as well, the fact that there's so much less friction on our platform and so much more utility in the 
+way that people can use it. And a great example is just something that we're launching right now 
+around the opportunity to pay with points.
+Page | 21
+This is something that is very, very early on. But, you know, it provides a lot more utility to our 
+wallet for customers. And when you have that ease of use in that utility, it makes the customers 
+want to use us more and more.
+So there's not necessarily one that I would single out so much. It's the combined effect of all of 
+them.
+Ashwin Shirvaikar: Understood. Okay. So a quick question here now on Synchrony and the credit portfolio. 
+The transition service agreement that you have with Synchrony expired at the end of June.
+First of all, I want to clarify when it said June yesterday, did you mean end of June or beginning of 
+June? And is it always a consistent of $55 million per quarter? Does it depend on usage? I mean, 
+is there variability?
+And then the second part of that is, you know, are there costs associated that go away 
+simultaneously or, you know, reasonably simultaneously with that revenue going away?
+John Rainey: Sure. So it's not exactly, like, a knife's edge cut over. It will transition through the month of 
+June. But by the end of June, it will be completely transitioned to Synchrony.
+It's a roughly $55 million quarterly benefit that they have paid us during this interim period between 
+the purchase of the portfolio and the end of the servicing that we're doing for them. That will go 
+away beginning in third quarter.
+But at the same point in time as we announced this part of the restructuring charge that we took in 
+the quarter, we will have a reduction in workforce for employees that serve that portfolio today. It's 
+Page | 22
+not a precise or an exact offset. But we do expect that we will be able to maintain the same margin 
+profile going through the back half of the year.
+Ashwin Shirvaikar: Okay. Got it. And then when you take that piece out, the rest of OVAS, what's the 
+organic growth rate that's a good assumption for investor deals?
+John Rainey: Yes. You know, we need to give a little better guidance on that probably because we've 
+been asked that question a few times.
+You know, let's talk about what's in there first of all. So if we still have - the majority of that is our 
+credit business. So we have the profit sharing arrangement with Synchrony. We have the 
+international consumer credit portfolio and we have the merchant credit portfolio and then there's 
+some other stuff, but that's the bulk of it, the co-brand card.
+But those are growing at a rate that is slightly higher than what we see on our platform just in 
+general, sort of the 20 to 25% rate. And so when we get to the third quarter, we'll have more of an 
+apples to apples comparison in terms of year-over-year comps.
+Credit, again, the growth that we're seeing there is pretty promising. And so let us kind of take your 
+question and think about, maybe, we give more specific guidance there in an FD appropriate way 
+going forward.
+But I feel comfortable saying that it's higher growth than what we see with the rest of our business.
+Ashwin Shirvaikar: Okay. Understood. And, John, last question as we run out of time although we could 
+probably spend another hour on the rest of the questions. But as we run out of time, my last 
+Page | 23
+question is one that we do get quite frequently is about risk and cyclicality. And so what is the 
+credit risk that remains with PayPal on both the consumer and merchant loans in a downturn?
+John Rainey: Sure. So this is, as we have talked about even prior to the asset light transaction that we did 
+with Synchrony, this is something that we constantly monitor. And as you know if you follow issuers 
+that, you know, we can throttle this back and forth. If we want to grow revenue a lot more, we can 
+certainly accept higher losses and the reverse of that is true as well.
+And so we monitor that constantly, you know, based upon the regions that we operate, where we 
+think we are in the cycle. And we don't think that there is any significant risk to our franchise by the 
+small portion of our business that we have in credit.
+So let me give you a datapoint that I think provides some substance to that. We have a profit 
+sharing arrangement with Synchrony whereby above a certain return on asset threshold we 
+participate in a percentage of the profits.
+We back tested this agreement that we have with Synchrony in the last credit cycle. And even in 
+the last credit cycle we would not have gone below that threshold where we participated in the 
+profits above that.
+So we feel - and obviously I'm not going to go out and predict the impact of, you know, what 
+happens in the next recession that we experience. But I think that was a prudent exercise for us 
+to get a real understanding of what is the cyclicality of our portfolio. And very importantly because 
+it's a much smaller portion of our business we think that we can weather any type of a typical cycle 
+without any material impact to our business.
+Page | 24
+So, Ashwin, I know that was the last question. I just want to say thank you for hosting this call. 
+And thanks to the participants. I'm sure that we will follow up with many of you individually and we 
+hope that you find this a valuable use of your time and informative in terms of the information that 
+you're getting. So thank you.
+Ashwin Shirvaikar: Thank you all for doing this. Thanks.
+Operator: This concludes today's call. Thank you for your participation. You may now disconnect.

@@ -1,0 +1,516 @@
+Operator
+
+Good afternoon, ladies and gentlemen. Thank you for joining DocuSign's second-quarter fiscal 2021 earnings conference call. As a reminder, this call is being recorded and will be available for replay from the Investor Relations section of the website following the call. [Operator instructions] I will now pass the call over to Annie Leschin, head of investor relations.
+
+Please go ahead.
+
+Annie Leschin -- Head of Investor Relations
+
+Thank you, operator. Good afternoon, everyone. Welcome to DocuSign's second-quarter fiscal-year '21 earnings conference call. On the call with me today, we have DocuSign's CEO, Dan Springer; and CFO, Mike Sheridan.
+
+The press release announcing our second-quarter results was issued earlier today and is posted on our Investor Relations website. Before we get started, I'd like to let everyone know that we plan to participate virtually in several events in the upcoming weeks. First, the D.A. Davidson 19th Annual Software Internet Conference on September 9th; Citi's 2020 Global Technology Conference on September 10; Deutsche Bank Technology Conference on September 14; and Jefferies Virtual Software Conference on September 15.
+
+10 stocks we like better than DocuSign
+When our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+
+They just revealed what they believe are the ten best stocks for investors to buy right now… and DocuSign wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+
+See the 10 stocks
+
+*Stock Advisor returns as of March 8, 2023
+
+As other events come up, we'll make additional announcements. Now let me remind everyone that some of the statements on today's call are forward-looking. We believe our assumptions and expectations related to these forward-looking statements are reasonable, but they are subject to known and unknown risks and uncertainties that may cause our actual results or performance to be materially different. In particular, our expectations around the impact of the COVID-19 pandemic on our business, financial condition, and results of operations are subject to change.
+
+Please read and consider the risk factors in our filings with the SEC, together with the content of this call. Any forward-looking statements are based on our assumptions and expectations to date. And except as required by law, we assume no obligation to update these statements in light of future events or new information. During this call, we will present GAAP and non-GAAP financial measures.
+
+Non-GAAP financial measures exclude stock-based compensation expenses, employer payroll tax on employee stock transactions, amortization of acquired intangible assets, amortization of debt discount and issuance costs from our notes, acquisition-related expenses, and as applicable, other special items. In addition, we provide non-GAAP weighted average share count and information regarding free cash flows and billings. These non-GAAP measures are not intended to be considered in isolation from or a substitute for or superior to our GAAP results. We encourage you to consider all measures when analyzing our performance.
+
+For information regarding our non-GAAP financial information, the most directly comparable GAAP measures, and a quantitative reconciliation of those figures, please refer to today's press release, which can be found on our website at investor.docusign.com. I'd now like to turn the call over to Dan. Dan?
+
+Dan Springer -- Chief Executive Officer
+
+Thanks, Annie. Good afternoon, everyone, and welcome to our second-quarter earnings call for fiscal 2021. I appreciate everyone joining us today, and I'd like to cover four key areas of the business with you: the evolution of COVID-19 and the impact we're seeing on our business; the essential role that eSignature and the Agreement Cloud continue to play in the digital transformation of our customers' businesses around the world; our recent acquisition to accelerate the opportunity in remote online notary; and a few additions to the Board and executive team, including Mike Sheridan's new international leadership role. So let's start with the evolving dynamics of the pandemic.
+
+It would be an understatement to say that we're all still experiencing significant changes in the way that we work and live as a result of COVID-19. We're seeing it with our more than 5,000 employees around the world as we don't expect to return to an office environment until June of next year. As a team, we're focused on helping each other adapt to these changing circumstances and to balance the myriad demands on our collective time. We're seeing it with our customers too.
+
+I spoke last quarter about how so many of them faced a sudden need to transition to remote work when the pandemic first hit. Today, that need has evolved from initial crisis response to business necessity. And because agreements are central to doing business, the need to agree electronically and remotely has never been stronger. This is causing greater adoption of our offerings, something we believe will persist beyond the crisis.
+
+Because in our experience, it's very rare to see anyone go back to paper once they've gone digital. The upshot of all it is that DocuSign is becoming an increasingly essential cloud software platform for organizations of all types of sizes, a fact that is well reflected in our Q2 results. Billings grew 61% year over year to $406 million, and revenue grew 45% to $342 million. We added more than 88,000 new customers, bringing our total to nearly 750,000 worldwide.
+
+For perspective, we acquired more new customers in the first half of this year than we did in all of last year. Our operating margins and cash flows reached record levels, while we continue to make key investments to address the heightened demand. As is evident from these numbers, the trends that emerged in the latter half of Q1 have continued throughout Q2. We've seen a sustained rise in demand for our core eSignature offering, not only from new customers but also those expanding across use cases, departments, and borders.
+
+The interest in transforming other parts of the agreement process is growing, too. And that, in turn, creates a pipeline for the rest of the Agreement Cloud suite. Now let me give you some examples of recent customer wins and expansion. One of our largest retail customers runs a network of healthcare clinics within its source.
+
+When COVID-19 hit, the company accelerated plans to provide telehealth services using DocuSign eSignature to handle consent and other paperwork remotely. This is a great example of COVID-accelerated demand that we see as durable. Now telehealth will remain after COVID-19, but the paperless processes that came with it will likely end up getting implemented for in-person clinic visits too because the electronic way is more efficient and a better experience than paper and clipboards. Another example is from a large financial institution that's a longtime DocuSign customer.
+
+The company already uses eSignature widely. But when COVID-19 hit, it accelerated plans for further rollouts. And together we helped activate 11 new lines of business. This illustrates a pattern we're seeing where established customers are now bringing eSignature to new divisions, departments, and regions.
+
+This was going to happen at some point, but it's just happening faster now. Finally, I have a few examples from an area of the economy I know you're all interested in, the public sector. To date, we've held a strong competitive position at the local, state, and federal levels here in the United States. This quarter, we built on that basis with a healthy mix of eSignature and multiproduct Agreement Cloud deals, including DocuSign CLM and our identity family of products.
+
+We helped a major city deploy a digitized workflow to handle applications for housing assistance, and we enabled the federal agency to capture applications and distribute relief funds to healthcare providers on the front lines of coronavirus response. So in summary, it was an exceptional quarter for customer growth and expansion. Economic headwinds did cause some to request relief, but that was more than offset by increased demand overall. And while DocuSign faces the same economic uncertainty as everyone else, we remain optimistic about our ability to deliver increasing and durable value, no matter where business is conducted.
+
+I'd like to move on now to how we're investing in innovation and new Agreement Cloud product offerings. Specifically, I'd like to talk about our acquisition in July of Liveoak Technologies, an Austin-based start-up that was already a close partner of ours. For agreements that would normally require people to be together in person, Liveoak enables the transaction to be done remotely via video conferencing. The company's platform includes several other technologies specific to remote agreements, too, such as video identity verification, collaborative form filling, an integration with DocuSign eSignature, and a detailed audit trail.
+
+With this acquisition, we will leverage Liveoak's technology to accelerate the launch of DocuSign Notary, a solution for remote online notarization where signaries and the notary public are in different places. DocuSign Notary will do for notarization what eSignature did for signing. It will enable a dramatically better experience for everyone involved from wherever they may be. We believe this is a natural extension of our eSignature business.
+
+And once people use remote online notarization, we don't expect them to go back. In fact, when we announced this move, the customer response was very clearly, "How soon can I get it?" And the answer is that DocuSign Notary is slated for beta release later this year. The initial version will be for existing customers that already have a notary capability within their organization or what we call first-party notary, and we expect to enable third-party notaries in the near future. Now before I close out my remarks, I wanted to share a few enhancements to our board and executive team.
+
+I'm thrilled to share that Teressa Briggs and James Beer have recently joined our board of directors. Teressa is assuming the role of audit committee chair, and she brings a wealth of financial experience from Deloitte, as well as fantastic and relevant board experience at ServiceNow and Snowflake. James has extensive financial experience as CFO at Atlassian today, previously at American Airlines, McKesson, and Symantec, all of which will be invaluable as we continue to scale our business. On the executive team, we have appointed Kamal Hathi as chief technology officer, reporting into Tom Casey.
+
+In this new role, Kamal will oversee the development and execution of our overall technology road map. Given his 20-plus year run at Microsoft and his recent experience at Trader Interactive, we believe Kamal is the ideal person to build the platform that powers the Agreement Cloud as it continues to scale. I'm also excited to announce that I'm promoting Mike Sheridan to the role of president of international at DocuSign, and that Cynthia Gaylor, a current board member, and audit committee chair, will be joining as our new CFO. As you've heard me say in almost every call today, international business is a key growth driver for us.
+
+International growth was over 60% this quarter, and its contribution to our overall business is increasing. Since the beginning of this year, Mike has been spearheading our growth initiatives across EMEA. Given the strong results of his efforts there, we are now broadening his scope to drive growth across all international markets. So I couldn't be more pleased for Mike and for DocuSign to be doubling down on international.
+
+Of course, we couldn't do this if we didn't have access to a CFO like Cynthia. She brings more than 25 years of finance and capital markets experience, with an extensive background in strategy and operations, as well as a deep understanding of enterprise and consumer software. Most recently, she was the CFO of Pivotal Software. Prior to which, she led corporate development at Twitter and was a managing director in the Morgan Stanley Technology business.
+
+I'm looking forward to working closely with Cynthia in an operating capacity as we continue to drive the business forward. As Mike and I worked through the scope of his new role over the past few months, we also collaborated with Cynthia so she could hit the ground running. She will continue to partner closely with Mike and myself over the next several months to ensure a strong and seamless transition. So with that, I'd like to welcome Cynthia to the team and to again congratulate Mike on his new role.
+
+I'll close this out by saying that the catalyst for further digital transformation remains strong, and we firmly believe DocuSign can continue to deliver value across the entire agreement cycle. And our strong Q2, combined with the momentum we're seeing as we enter Q3, gives us confidence in this business. While the pandemic continues to have an unpredictable effect on the market at large, we will stay nimble, and we'll continue to do everything we can to help our customers, partners and employees adapt, transform, and move forward. Now let me turn it over to Mike for a deeper dive on the financials and some comments on his new role.
+
+Mike?
+
+Mike Sheridan -- Chief Financial Officer
+
+Thanks, Dan, and good afternoon, everyone. Before I get into my comments on the quarter, I'd like to thank Dan and the board for entrusting me with my new role as president of international. We have a great strength in our international operations today, it has achieved impressive growth over the last several years. I look forward to working with this great team to expand upon this success.
+
+I also want to welcome and congratulate Cynthia Gaylor as our new CFO. As Dan mentioned, he and I have had the opportunity over the last couple of years to work with Cynthia as a board member. And during that time, she has become very familiar with DocuSign's financial operations. I am confident that Cynthia will hit the ground running as she joins the team.
+
+Turning to our Q2 results. Strong sales led by our eSignature solutions drove a 61% year-over-year increase in billings to $406 million. This also drove a 45% year-over-year increase in total revenue to $342 million in the second quarter. Subscription revenue increased 47% year over year to $324 million.
+
+We saw particular strength outside the U.S. as total international revenue grew over 59% year over year to $67 million. This quarter, we added over 88,000 new customers. Of those, over 10,000 were direct customers, an increase of 55% year over year.
+
+This brings our total customer base to nearly 749,000 worldwide with over 99,000 direct customers. Strong eSignature expansions and upsells into our existing customer base led to a record dollar net retention rate of 120% in the quarter. Customers with ACVs greater than $300,000 grew 41% year over year to a total of 520 customers. Total non-GAAP gross margin for the second quarter was 78%, consistent with a year ago.
+
+Subscription gross margin was 83%, compared with 84% a year ago. Margins were impacted by our Seal acquisition, as well as by investments we made in our data center capacity, particularly for hosted services, to ensure our ability to meet significantly higher transaction volumes. Non-GAAP operating expenses totaled $233 million or 68% of total revenue in the quarter, compared with $185 million or 78% of total revenue in Q2 last year. We generated $34 million in non-GAAP operating profit or a 10% operating margin in the quarter.
+
+This compares with an operating loss of less than $1 million in the second quarter last year. Non-GAAP net income was $35 million in the second quarter, compared with $2 million in the second quarter of last year. We ended the quarter with 5,008 employees, an increase of 44% over the second quarter of last year. Turning to cash flow.
+
+Operating cash flow in the second quarter increased nearly 350% year over year to $118 million, compared with $26 million in the same quarter a year ago. Free cash flow came in at $100 million in the quarter, compared with $12 million a year ago. CAPEX increased during the quarter due to leasehold improvements in Brazil, as well as the completion of our federal data center. Now let me turn to guidance.
+
+We anticipate total revenue of $358 million to $362 million in Q3 and $1.384 billion to $1.388 billion for fiscal '21. Of this total, we expect subscription revenue of $343 million to $347 million in Q3 and $1.315 billion to $1.319 billion for fiscal '21. For billings, we expect $380 million to $390 million in Q3 and $1.623 billion to $1.643 billion for fiscal '21. We expect non-GAAP gross margin to be 78% to 80% for both Q3 and fiscal '21.
+
+For operating expenses, we expect sales and marketing in the range of 46% to 48% of revenues for Q3, and 45% to 47% for fiscal '21. R&D in the range of 14% to 16% for Q3 and for fiscal '21. And finally, G&A in the range of 9% to 11% for Q3 and for fiscal '21. For non-GAAP interest and other, we expect $1 million of expense to $1 million of income.
+
+And for fiscal '21, we expect $4 million to $6 million of non-GAAP interest and nonoperating income. We expect a tax provision of approximately $2 million to $3 million for Q3 and $7 million to $9 million for fiscal '21. Finally, we expect fully diluted weighted average shares outstanding of 200 million to 205 million shares for Q3 and fiscal '21. Thanks for joining us today, and we will now open the call for Q&A.
+
+Questions & Answers:
+
+Operator
+
+Thank you. [Operator instructions] Your first question comes from the line of Sterling Auty with JP Morgan. Please proceed with your question.
+
+Sterling Auty -- J.P. Morgan -- Analyst
+
+Yeah. Thanks. Hi, guys. First, my congratulations on the promotion and running international.
+
+If Cynthia is there, congratulations on the new role as CFO. Just on the idea of international, Mike, maybe you can give us an update on the status of where the go-to market, the percentage of revenue coming from international, and what investments are necessary to drive that business going forward?
+
+Mike Sheridan -- Chief Financial Officer
+
+Yes. Thanks, Sterling. A couple of things. I would say that if you look at the scale of international today, it's over $200 million in revenue, and the team is executing very well.
+
+I just reported a 59% year-over-year increase in revenue. So there's definitely growth already being achieved. If you think about that scale, it's similar to what DocuSign was about five years ago when I joined DocuSign. At that time, DocuSign was also a very rapidly growing organization.
+
+So as we've looked at it, many of the challenges that we needed to deal with at that stage of the total company are showing themselves in our international regions. So much of the work that I'm going to be doing is going to look a lot like the work that we've been working on over the last several years as we scale the whole business. I think what really makes this work is in my role as CFO, I've worked on so many of the very same kinds of issues. I've developed strong relationships with the executive staff in headquarters, as well as the leaders across the globe.
+
+So we have a lot of foundation. In terms of what the nature of the investments are going to be, I think we're tracking well. I think a lot of what we're seeing is that the structure of our international operations today look like what they were when we formed them four, five, six years ago, which is direct line reporting into headquarters, which is appropriate. But I think what I can bring is a greater focus into that area where I can work with the executive members, as well as the regional leaders to figure out how they work together across those reporting lines to figure out what are the right in-region and investments and structures that can drive that growth further.
+
+Sterling Auty -- J.P. Morgan -- Analyst
+
+Great. And then one quick follow-up. In terms of the gross margins, specifically subscription gross margin, comment on kind of where we are in the scale and what we should expect trend-wise from that line going forward?
+
+Mike Sheridan -- Chief Financial Officer
+
+Yes. So the guidance that I provided shows that they're going to, for the period of time through the end of this fiscal year, staying those high 70s to low 80 kind of range. There was one impact in Q2 that related to our acquisition of Seal, which had an impact on the margin that was slightly dilutive, as we anticipated. The other impact on margins right now is that, as I mentioned, we have pretty significant increases in our transaction volumes.
+
+And so we're continuing to build out our data center infrastructure and other to ensure that we kind of keep our SLAs tracking as we're consuming those greater transaction volumes. So we're absorbing those into the existing margins, but I think they're going to be stable at that level through the end of the fiscal year.
+
+Sterling Auty -- J.P. Morgan -- Analyst
+
+Great. Thank you.
+
+Operator
+
+Your next question comes from the line of Stan Zlotsky with Morgan Stanley. Please proceed with your question.
+
+Stan Zlotsky -- Morgan Stanley -- Analyst
+
+Perfect. Thank you so much, and congratulations on a very strong quarter. From my end, the thing that I wanted to get into is, what are you seeing as far as the pull-through of the rest of the DocuSign suite into your existing installed base of eSignature customers? So things like your SpringCM, CLM product, Seal? And then I have a quick follow-up.
+
+Dan Springer -- Chief Executive Officer
+
+Yes. So, Stan, I think what we're seeing is sort of what we talked about last quarter continue. The dramatic pull from our customers and prospects for eSignature with a very high enablement time, the very quick ROI, and just the need for people to take that first step into the Agreement Cloud, and that's how most people do enter into an Agreement Cloud is through eSignature. That's been the headline story.
+
+And if we look at our growth, it's been more significant in the traditional aspects of our business than any other part. And we're very clear when we go to our field, we say that you have to -- when you talk to customers and you talk to prospects, you start off every conversation with DocuSign's Agreement Cloud company, let me tell you how we're going to help you prepare, sign, act on and manage your agreement. And if that individual says to you, "Yes, I'd like to buy some eSignature to get started right now," the only appropriate answer is, "Yes, sir" or "Yes, ma'am. I'm happy to sell you some eSignature." And that's what we're going to continue to do through this period of time.
+
+We want to really support what the customers are needing. But at the same time, as I mentioned upfront, we're seeing a lot of people saying the concept of the Agreement Cloud is really something they're embracing. And they're saying, "We'd love to figure out a way to broaden the relationship with DocuSign." We believe that things like DocuSign CLM, which is with the SpringCM product that we've turned it into here, will continue to be strong. We see a lot of demand.
+
+We're building a lot of pipe for it. And the customers that we're bringing in right now, those 88,000 new customers, many of those will be prospects for CLM in the future, but we believe that the sales cycle there will always be a little bit longer. They're more complex. Usually, there's a services component.
+
+Right? So it has to be a statement of work calculated and done. And a lot of times, I think we're seeing CIOs and CFOs that are our customers today are saying, "I want to do that. But right now, I need to get these signature pieces enabled. Let's do that now." And as we get later into the year and more settled and settled down in their company is where I think we'll see increased demand and pull-through of those other components.
+
+Stan Zlotsky -- Morgan Stanley -- Analyst
+
+Perfect. That makes a lot of sense. And maybe one for Mike. Mike, congratulations on the promotion to lead international.
+
+And just on the quarter, net revenue retention, obviously very impressive, 120% result. How should we think about net revenue retention moving forward versus your more traditional 1 12 to 1 19 range? That's it for me.
+
+Mike Sheridan -- Chief Financial Officer
+
+Yes. Thanks, Dan. Yes. We obviously for the last couple of quarters have been at the higher end of that range.
+
+Actually, this quarter, we exceeded it a little bit. I'm not going to update a guidance range for it. We will be upgrading that guidance range when we provide guidance for fiscal '22. But with that said, I think what we've seen in these recent quarters in terms of real strengthening around our dollar net retention and our ability to upsell into our installed base should keep us on the higher half of that range.
+
+Stan Zlotsky -- Morgan Stanley -- Analyst
+
+Right. Perfect. Thank you so much.
+
+Operator
+
+Your next question comes from the line of Alex Zukin with RBC. Please proceed with your question.
+
+Alex Zukin -- RBC Capital Markets -- Analyst
+
+Congratulations all around in the quarter, the promotions, etc. I guess maybe just two from me. First one for Dan. Dan, are trends -- what can you tell us about trends on kind of a monthly basis in linearity, both on kind of the mid-market and the enterprise? Do you feel like around even engagement, are we not kind of momentum now you're starting to see more of a return to normal adoption or is it still -- are trends still accelerating?
+
+Dan Springer -- Chief Executive Officer
+
+So in terms of -- two things. One is we have a sort of a linearity, and we do a lot of our forecasting. We look at how quarters build across the month. And the one thing I would tell you in the last couple of quarters, we've seen some, I would call, positive trend where we are having less of a back-end weight to our quarter.
+
+And I would say that you'd expect that, of course, to be on our web and mobile business, which tends to have relatively even linearity. Right? Whereas in enterprise, of course, that had the biggest back weighting in the quarter. But we're seeing it across the board, even with the enterprise, more evenness. I think some of that is execution on our part.
+
+I think we're putting a lot of focus on thinking about monthly closes versus just quarterly closes. But I would also tell you that I believe, in the marketplace, we're just seeing demand being stronger. And so people are coming to us through all parts of the quarter just trying to get deals done. So we're probably seeing some positivity there.
+
+But that's -- I don't think there's been a dramatic change, and I don't think we see anything in the way we're forecasting. Mike, obviously, if you see something different, feel free to share. But I think we're not seeing a lot of dramatic change, just a slight improvement in that, and it gives us more predictability as we look through the quarter.
+
+Alex Zukin -- RBC Capital Markets -- Analyst
+
+Got it. And then maybe for Mike. Look, the billings growth in the first half is nothing short of extraordinary. I don't think anybody would kind of speak otherwise around that.
+
+The guidance for the second half does look like a pretty different kind of growth trajectory. So I guess the obvious question is, is there any pull-in activity that you saw around large enterprise deals in kind of this quarter or the first half? Because I would assume that you're now getting into your big enterprise renewal conversations in the second half and the period, and that could actually potentially drive even more large deal conversations, and that would be a net benefit even more so for net expansion.
+
+Mike Sheridan -- Chief Financial Officer
+
+Yes. So I would say a couple of things, Alex. I think in Q3, our guidance has billings growth year over year well into the 40 percentiles. So I do feel like we're off to a good start in Q3, and it's reflected in the guidance.
+
+Like we've talked about in the past, there's a lot of variables. Dan alluded to it in his comments that we're subject to. Like everybody else, we're trying to figure them out real time. We feel very good about the second half.
+
+We guide what we can see. We don't guess. We always aspire for the highest level of growth we can accomplish. But I think the guidance is reasonably -- it's reasonably balanced and positive.
+
+Operator
+
+Your next question comes from the line of Rob Owens with Piper Sandler. Please proceed with your question.
+
+Rob Owens -- Piper Sandler -- Analyst
+
+Great. Good afternoon, everybody. Wanted to drill down a little bit into the acquisitions. And I guess, starting with Seal.
+
+Obviously, you've announced some big improvements to contract analytics. And just want to know how far down the path you are at this point? How much raw R&D you're going to have to spend moving forward? And when it's going to kind of achieve your vision?
+
+Dan Springer -- Chief Executive Officer
+
+Well, I think when we talk about Seal, sure enough, Rob, I think the answer is there was always two parts to this, and we're still excited about both. One was there's sort of intelligent insights, which is the core agreement analytics product that we've been partnering with Seal on when they were a partner before the acquisition. And we continue to see that that's going to be something that a lot of our customers are going to want to do, and we're very excited about that. And the second piece was about integrating the Seal AI technology into our CLM offering.
+
+So as you saw when the Gartner report came out on CLM, we were the only two companies that were in that upper right-hand quadrant, and we feel we had a fantastic entry with DocuSign CLM. And yet, we also felt internally, the place where we had the biggest improvement opportunity was to really integrate agreement analytics into that CLM product. And so that is the second big piece. So on the first one, intelligent insights, I mean, I think we're there.
+
+I think it was a product that was fairly close to stand alone. There are some things we needed to do to make it DocuSign quality, let's call it that, in terms of things like security and reliability, and we're still making investments on that front. But I would say we say that that product is pretty much ready for prime time, and our people are now out aggressively selling that into our base. In terms of the integration with CLM, that's something that's still quarters away.
+
+We still have a lot of engineering and R&D work, as you referred to it, to make that -- fulfill that promise we have for our CLM product. We're -- it's going very well. I think we're highly confident, but we think that will be early next year before I can really put my hand on my heart and tell you, that work is complete and the DocuSign CLM product has a fully integrated advanced agreement analytics functionality, one that will allow us to be significantly stronger than other players in the market.
+
+Rob Owens -- Piper Sandler -- Analyst
+
+And I guess quickly around the Liveoak acquisition, how much does that increment your TAM? And can you just speak to the broader opportunity there?
+
+Dan Springer -- Chief Executive Officer
+
+Yes. Yes. So TAM is actually a really interesting topic within the notary space. We've taken a couple of looks at it.
+
+We've looked at other reports. We're basically saying we think that approaches about $1 billion. So if you look at this and you think about it in the construct of a $25 billion TAM for signature, it's not a dramatic increase, but it's a really nice piece. And the bigger side of it for us is so many of our customers have said to us, "We really would love to have a notary capability." And particularly for those larger customers that have what we call first-party notary, they already have a notary capability in their business.
+
+They really are excited to integrate this into their offering. We see that a lot with the financial institutions who have been pushing us. So as much as anything, this is like a feature enhancement that we think will have a nice $1 billion. That's not a bad increment to go after, but it's not like sort of an earth-shattering change in our business.
+
+We look at this as a really nice tuck-in that our customers are asking for, and this is a good piece for us to go after. And then it opens the opportunity to go after the third-party notary space. People tend to think about the individual notaries that are driving around for people to do real estate transactions. And we would love to then really transform that business, as well as so many customers have come to us and said in the past that would be a great opportunity for DocuSign to make their lives a little more agreeable.
+
+Rob Owens -- Piper Sandler -- Analyst
+
+Great. Thank you very much.
+
+Operator
+
+your next question comes from the line of Pat Walravens with JMP Securities. Please proceed with your question.
+
+Pat Walravens -- JMP Securities -- Analyst
+
+Great. Thank you, and congratulations to Mike. I love the move from the financial role to the operating role. It's awesome.
+
+Mike Sheridan -- Chief Financial Officer
+
+Thank you, Patrick.
+
+Pat Walravens -- JMP Securities -- Analyst
+
+So here's my question for you, Dan, and I've asked a bunch of CEOs this question this quarter, which is, how do you make DocuSign the best place to work when everybody is working from home?
+
+Dan Springer -- Chief Executive Officer
+
+If I had the answer to that one, I would be selling it in a lot of different ways, Pat, for sure. But I can tell you this, the good news is, because we had built such a strong culture, and that's why our Glassdoor scores are so high, and we do so well on those Best Places to Work surveys and in our own surveys, our employee engagement is so high, it's because we built a fantastic culture where people really believe in our values. And fundamentally, they're excited to work at a place that puts customer success as our top priority, even above our financial results, and people get excited about the pride they have for working here. None of that has changed.
+
+While it's harder to have those personal connections to people when we don't have people coming into the office, and each day that goes by, a bigger percentage of DocuSigners have never met personally one of their colleagues. We're about to cross over 1,000 DocuSigners that have joined since we were doing remote office work. So it's going to get tougher and tougher. And I think the real answer is increased communications.
+
+We are looking at changing up the mix of communications. And some of the things are harder, but I'll tell you something else. Some of the things are better. And I'll just give you one example, Pat.
+
+So in the past, we have an event called Discovering DocuSign where we would invite people when they join -- shortly after they join, to Seattle, which where the company was founded, and they met with a bunch of other new DocuSigners. And we had different executives come in and talk to them about the company over a couple of days. I didn't get to attend that very often just because by schedule and what I need -- I couldn't always be there. In fact, I started to be there less than less.
+
+Now that we do that as a remote event, I'm there every time. So every new DocuSign employee, could be a good thing or a bad thing, depending how you look at it, Pat, but they get an opportunity to meet Dan Springer. And we get to create a connection. And quite a few of them send me emails right afterwards, and we've now built a different kind of connection.
+
+So it's remote, but we're figuring out creative ways to find different communication styles and techniques to put us into a place where I think we can continue to make this a place for people to do the work of their lives. But it's an ever -- this is not one that's going to be over quickly. We're going to have to continue to be creative to do it if we want to continue to earn that great relationship we have with our employees.
+
+Operator
+
+Your next question comes from the line of Walter Pritchard with Citi. Please proceed with your question.
+
+Walter Pritchard -- Citi -- Analyst
+
+Hi. A couple of questions on the sales and marketing side. Your growth in spending there has been decelerating over the last three quarters and understanding there's expenses like T&E and so forth that are not part of that. What are you doing to build sales capacity over the next six months? And how do you think about driving sales once we get into the situation where maybe people here are on fire and COVID is at least -- we worked through it being more of a normalized situation as opposed to the situation we're in right now?
+
+Mike Sheridan -- Chief Financial Officer
+
+Yes. So a couple of things, Walt. I would say on capacity, we are continuing to expand our capacity pretty aggressively, as you saw from the hiring statistics that I had mentioned. We're now over 5,000 employees, year-over-year growth of 44%, a substantial amount of that is in our go-to-market organizations.
+
+Not just on sales capacity, of course, marketing capacity as well and customer success capacity. And so we are endeavoring to stay ahead of the trends that we're seeing. We're looking at the demand data very carefully to try to forecast the trends and get ahead of that with capacity across the business. In terms of what will we anticipate post-COVID, I don't know that anybody has a great answer for that.
+
+It is our view that as we work through these difficult times, though, there's a greater awareness of need to digitize the business. And we believe that that's going to be sustained even after things return to whatever normal looks like in the future. So we do believe that we're entering into a period of a "new normal." It doesn't necessarily mean that the highs of any particular quarter are going to be sustained forever. But at the same time, we don't see trends that things are going to return to the way they looked and trended pre-COVID.
+
+So we're designing the business, we're designing our marketing activities and our sales activities to stay on top of that as possible.
+
+Walter Pritchard -- Citi -- Analyst
+
+OK. Thank you.
+
+Operator
+
+Your next question comes from the line of Koji Ikeda with Oppenheimer. Please proceed with your question.
+
+Koji Ikeda -- Oppenheimer and Company Inc. -- Analyst
+
+Hey. Thanks for taking my call. Nice quarter, guys. Congrats, Mike, on your new role, and congrats to Cynthia on your new role too.
+
+Just one question for me. On the sales process, just thinking that now, most of the world has been operating in this new pandemic environment for a while, have your sales conversations changed significantly? Are you seeing customers taking a step back now and looking at how to optimize workflows more strategically, which could result in more platform type conversations for you or maybe even broader adoption across the organization as the starting point for implementing DocuSign?
+
+Dan Springer -- Chief Executive Officer
+
+Yes. Koji, it's a really interesting question. One thing that's always hard in answering a question around sort of more tectonic shifts like that is what's behind it? Is it a maturation of our business? Is it related to COVID, etc.? My view is from a COVID standpoint, was the nature of your question, is we went through a period of time where people just got very focused 6 months ago on we just need to get things up and going quickly. We need to work in a remote environment.
+
+And we have certain use cases that we can't run our business and we can't figure them out. So it was not about naval gazing and deep thought about their processes. It's about getting some of these, primarily eSignature, workflows in place. And while I think there's still some of that, for sure, that has definitely calmed down.
+
+And I think the number of people that are rushing to us saying, "I need to make a quick adjustment to be able to deal with it like that," if they haven't got it done by now, I think they missed that window. What we are seeing now is people saying, "Wow, this is fantastic. There are more places where I could leverage this in my business." And we're looking at expansion, as we talked about, of use cases within our base to more and more places that as I said before, we think they would have gotten there eventually. It just accelerated those, and we're continuing to see that acceleration of those workflows into DocuSign because they realize how beneficial they are to their business.
+
+From a standpoint of that more platform thinking, I don't know that I would say I've seen that increase. And I don't know if I'd say this increase would be due to COVID. The natural maturation for a lot of folks with us around the Agreement Cloud opportunity is as they start hearing us describe the future, they say, "You know what, I could see you as a more strategic part of my sort of IT infrastructure and my business process infrastructure." And so I think that's occurring more and more, but I think that's more to do with the fact that we're just getting bigger and having larger relationships with companies as we scale. You look at that number of customers above $300,000, it's just sort of, one minute, that keeps growing, right, substantially.
+
+And so I think that's driving it more than a COVID reaction. But again, it's hard to sort of separate out each of those components, but that would be my view.
+
+Koji Ikeda -- Oppenheimer and Company Inc. -- Analyst
+
+Thanks for taking my question. Appreciate it.
+
+Operator
+
+Your next question comes from the line of Taylor McGinnis with Deutsche Bank. Please proceed with your question.
+
+Taylor McGinnis -- Deutsche Bank -- Analyst
+
+Yeah. Hi. Thanks so much for taking my question, and congrats again on a really strong quarter. So net retention rates have been really strong the last couple of quarters.
+
+And -- but I believe, so far, that's largely been driven by eSignature-related expansion. So I'm just curious what kind of levels do you think net retention could hit once things like SpringCM or the broader Agreement Cloud start to become larger contributors or maybe anything that you can just share on what those deal expansions have looked like so far when they include those products relative to just eSignature?
+
+Mike Sheridan -- Chief Financial Officer
+
+Taylor, yes, a couple of things. One, if you look at the scale of our eSignature business compared to the scale of the CLM and the data analytics or agreements -- sorry, agreement analytics businesses, eSignature is dramatically larger. So that statistic is going to largely succeed or not succeed based upon our success in eSignature, our upsells, our volume expansions and all of those things. That is not to say that the Agreement Cloud expansions are not important.
+
+They are. But that is a much longer-term trajectory before you'll start to see them have a meaningful movement in a broader statistic like that. So as we talk about those businesses and how they're growing and the comments that Dan made, I think those are all critical. But in terms of a near-term quarter-to-quarter impact on something like dollar net retention, eSignature volumes are just going to overwhelm, and so you won't see it so much move a statistic like that.
+
+Taylor McGinnis -- Deutsche Bank -- Analyst
+
+Got it. That makes a ton of sense. And then my last question is I thought the inflection in international growth was really interesting. So just curious if there was any catalysts in the demand environment there that drove that or if you guys made any changes on the go-to-market front or if there was anything to call out in particular.
+
+Dan Springer -- Chief Executive Officer
+
+I think Mike's involvement in international, Taylor, has clearly been the driver in the increased growth there. And around the company, we couldn't be more excited that he's off to such a good start. From your sense about the market -- and I think it's mostly Mike's execution. But for your sense about the market, I don't think we have seen anything different.
+
+We have seen different levels of success in different geographies. It was phenomenal for us to be able to say that every single geography that we have was above plan in the quarter and we're in a bunch of geographies. So that's pretty impressive. I would tell you, there are some markets, I was going to point to one that was particularly strong.
+
+I would say, LATAM and our Brazil team crushed it. But if I said to the area where I saw the most improvement because we've been crushing it there for a while, I'd say it was Europe. And I think, again, with tongue out of my cheek, I'll say I do think Mike's leadership in Europe has helped us perform a little better there and execute better. And it's a big reason we're so excited for this broader expansion of his role into all of international.
+
+But I also do think that we saw some positive demand characteristics across Europe as well. So those would be my observations. And, Mike, I don't know if you have anything different you're seeing.
+
+Mike Sheridan -- Chief Financial Officer
+
+Yes. I would add, I think, a couple of things. One is going back to the capacity question earlier, we have been building international capacity. And as we see some of that capacity get through their ramp, we're starting to see better productivity.
+
+That's a contributor. I think the pandemic impact is a global impact. We're seeing that. And remember, our international business in terms of scale isn't as large as the overall.
+
+So having a higher percentage on a "smaller" scale is also a factor.
+
+Operator
+
+Your next question comes from the line of Rishi Jaluria with -- research analyst. Please proceed with your question.
+
+Rishi Jaluria -- D.A. Davidson -- Analyst
+
+Hi. This is Rishi Jaluria from D.A. Davidson. And congrats to both Mike and Cynthia on your new roles.
+
+Wanted to start by talking about the Liveoak acquisition. Maybe just from a technology perspective, I know you can do video through that. Are there plans to kind of integrate that with other solutions out there, especially in this environment with so many people using tools like Zoom to start, so that it's very natively integrated like you've been doing with the core DocuSign eSignature product for so long? And then alongside on Liveoak, I see on their kind of customer base, a lot of financial services and real estate, so some of your strongest verticals. But do you see other verticals where there's potential to expand the solutions into? And then I've got a follow-up.
+
+Dan Springer -- Chief Executive Officer
+
+Sure. Yes. So a couple of thoughts there. First off, I think you hit the nail on the head that this opportunity for this collaboration, leveraging things like videoconferencing, it's a broad opportunity, and we're going to continue to be an open system, for sure.
+
+And in fact, Eric Yuan, the CEO of Zoom, and I had a conversation about this, he is super excited, as are we, to expand our partnership and include their platform. That's obviously fantastically successful to sort of leverage that into integration with DocuSign for these kinds of programs. We believe the Liveoak guys have built some really nice tools, and I mentioned some of those in my prepared remarks, but around really driving that collaboration. So to use your example, financial services, if you're doing an opening of an account, and so you're a large bank, sort of like a Bank of America scale customer of ours, and you used to have a lot of people opening accounts in your branches.
+
+And now your branches are closed, you need to rapidly adapt and be able to do that in a remote setting. But then what we think we're really excited about, once you've done that in a remote setting, that's a valuable -- even in a post-COVID world, we could tell your customers, "You don't have to come the branch to open that account. You can if you want, but we also have this remote opportunity." And the same worker, whether they're sitting in the branch or sitting in a call center, can do that activity for you. We think that's super powerful.
+
+So we really want to build that out as an internal offering, and we think notary is just one of the components of it, but we believe that's going to continue to be a foundation for other people building on top of it as you mentioned. In terms of other industries, yes, financial services is a big one, but we can see this having a big impact in telecom. We see there's a lot of opportunity in healthcare, life sciences, where people are going to want to have -- and we talked about telehealth a little bit on the call and some folks doing that. We think leveraging those same technologies to improve that experience for folks is a big one.
+
+So we do think this will be broad-based. But you're absolutely right, financial services, a strength of theirs, I would argue, a focus of theirs and a strength of ours is the place we're probably going to see the most initial focus on our joint efforts.
+
+Rishi Jaluria -- D.A. Davidson -- Analyst
+
+Great. That's really helpful. And then just kind of a little bit of a financial question, but we've seen contract lengths kind of tick down a little bit, which is, I think, to be expected in this environment. Just mechanically, how should we be thinking about the potential headwinds that might have on future cash flow?
+
+Mike Sheridan -- Chief Financial Officer
+
+Yes. A couple of things. I don't -- on the cash flow piece of it, even on multiyear contracts, we bill those annually. So we wouldn't anticipate that it would really have an impact on trends around cash flow.
+
+In terms of the contract length, you're right, it did tick down slightly to 17 months. Last quarter, I think, was 18 months. And so what we're seeing in our bookings is we do have some weighting coming in on small to mid, that's having some impact. And we're also seeing some larger enterprises as everybody is navigating through the current economic situation, being a little more conservative in terms of the length of contracts that they're signing up to.
+
+They're not massive changes, but those are kind of the two things that are affecting that statistic.
+
+Rishi Jaluria -- D.A. Davidson -- Analyst
+
+All right. Wonderful. Thank you, guys.
+
+Operator
+
+Your next question comes from the line of Kirk Materne with Evercore ISI. Please proceed with your question.
+
+Kirk Materne -- Evercore ISI -- Analyst
+
+Thanks, and congrats on the quarter and on the new roles for Mike and Cynthia. Dan, I wanted to ask you a question. Obviously, you guys have signed up a tremendous amount of new customers this year. And when you think about those customers renewing, hopefully, in a year from now or maybe even sooner, is there a cadence when if they didn't want to discuss sort of the broader Agreement Cloud that they start thinking about it, meaning when you think about 12 months from now and you have all of these new customers you just signed up, is there -- I'm just kind of curious, historically what you've seen in terms of the cadence, whether it's been 6, 9, 12, 18 months.
+
+And I guess when you go back into those accounts, is it the same person? Or is your account manager, you really need to navigate the organization to maybe sell a little bit higher when you start talking about the Agreement Cloud? I'm just kind of curious about how that maybe plays out in your mind over the next year or two.
+
+Dan Springer -- Chief Executive Officer
+
+Yes. So it's a good question. And as you might imagine, the first answer is it depends. Right? It depends a lot on the size of the customer and the vertical, for sure.
+
+But I will try to give you some, again, higher level, we call them, averages, to give you some perspective about it. In general, customers come in and they sign up, and there's some process before adoption happens. It's one of the reasons you've heard Mike talk a lot about our investments in customer success. The faster we get people to adopt, they quickly get that strong ROI people get from DocuSign, and then they start looking for more opportunities to grow.
+
+And so what we tend to find is on the smaller customers, they're there within a month. We adopted it going quickly. In some of the larger enterprise customers, it might be several months because they have like a program manager that gets involved. Right? There's a lot of process that occurs.
+
+And so that's probably the biggest determinant of why there's variability in that time. And then once people start adopting and driving the success of those first use cases, the next biggest determinant on the timing is how much they bought. So some people had the initial land that was quite small and was conservative. Then before they get to the end of the year, they're coming back and they're buying more if they implement their first project effectively as most do.
+
+If some people have said, we want to be aspirational in our first buy, they might be in a situation they might also do a multiyear contract if it's an enterprise player, but they might do a three-year buy, and they won't be talking to us for two years. Right? So there's a lot of variability depending on how much they bought and how aspirational they were in those initial volumes. And that's a very signature-centric answer. Let me switch gears and talk a little about the rest of the Agreement Cloud.
+
+So again, if you're an SMB that came to us on the web, we're not trying to sell you a broader Agreement Cloud story at this point. We have some additional enhancements that we have, especially if you're in the Salesforce ecosystem, as an example. We have a prepared product for Salesforce, which is great, but we're not generally coming back to those people and saying, let's talk to you about CLM because it's a mom-and-pop business. But as you start getting to the larger customers, if they did land with signature, and particularly what's happened with COVID, as I talked about earlier, so many of these lands have been signature-centric.
+
+We now will be coming back to them six, nine months in saying, let's talk about expansion on signature because that's our land and expand model, but let's also start reminding you one of the reasons you went with DocuSign was you were excited about that longer-term vision of Agreement Cloud and see that starting to play. So I think across that year, it'll be weighted toward the end of the year, but you'll see us in that 9, 12 months from today with the wins we're bringing in, looking for expansion opportunity for signature for all of them and signature plus Agreement Cloud expansion for the mid-market and larger customers.
+
+Kirk Materne -- Evercore ISI -- Analyst
+
+That's very helpful. And then I guess just one other follow-up. Obviously, incredible growth this year, you're a much bigger company. You're growing cash flow at a faster rate.
+
+Does that change any of the way you think about M&A or some of the things you might have had five years from now, maybe pulling those forward in terms of either it sounds like Mike going international, it sounds like you're speeding that process up. But is there anything, I guess, from a balance sheet perspective that really changes just given the kind of growth you've had and, frankly, the higher free cash flow that you're now generating.
+
+Dan Springer -- Chief Executive Officer
+
+Yes. Nothing for me that's in a significant way. One of the things we started doing acquisitions two years ago is when we announced SpringCM, and sort of the newer DocuSign or at least within my time here coming up on four years was saying, hey, guys, we're not going to become some massive acquisition machine. What we want to do is smart deals that we can digest effectively, and we want to have a very high batting average on successful deals.
+
+We've now done our third deal. To be honest, I would have thought we might have been a little bit of a wait before the third deal. The deal was not very large for bringing in the notary capability with Liveoak, but I feel good about the deal sizes we're doing. It's true with our balance sheet.
+
+We could probably open ourselves up to much larger deals economically, but we don't really think about it economically. We think about it from a customer success standpoint, what our customers want and fulfilling our vision of the Agreement Cloud. And one of the things that's tricky is when you talk about all the companies in the broadly defined Agreement Cloud, there aren't other DocuSigns. There aren't other very large players.
+
+So I don't think there's a sort of a population of big deals that we would see at this point in time is being in that Agreement Cloud vision. Is it possible over time we'll continue to grow and expand and become more expansionary than Agreement Cloud and then, therefore, look at maybe more significant sized deals? I wouldn't rule that out. But as I look into what's visible, I feel really good about the strategy we have right now. The deals we're doing, I think, are high quality.
+
+They're on strategy for us. And I think if we look out into the possible future deals, they'll probably be more in that ballpark of size because that's just the size of where companies are in the Agreement Cloud landscape. I don't know, Mike, if you have any different views, but I feel good about where we are right now.
+
+Mike Sheridan -- Chief Financial Officer
+
+No. I totally agree.
+
+Operator
+
+Your next question comes from the line of Kash Rangan with Bank of America Merrill Lynch. Please proceed with your question.
+
+Kash Rangan -- Bank of America Merrill Lynch -- Analyst
+
+Thank you very much. Congratulations on the superb quarter. You ramped up your op margins. You've ramped up your free cash flows.
+
+Your sales productivity is, at least from what I can tell, all-time high. I'm curious to see if you can expand upon the things that helped sales productivity in the quarter, whether you measure it through the lens of billings or revenue? And how sustainable are these trends? And finally, does it change your view of the long-term operating model to the upside?
+
+Dan Springer -- Chief Executive Officer
+
+So let me talk a little bit about the sales productivity side. And then, Mike, you can talk about if you're willing to change our long-term operating model on the call for Kash. I'm not sure, but we'll see, as your outgoing time as CFO, leave Cynthia a gift. My perspective is that I think the success we've had in terms of sales productivity is, to be really clear, it's been the secondary goal.
+
+The primary goal has been growth. And we told you we want to continue to invest to achieve the apex of that growth. Now at the scale we've achieved, we feel we see opportunity for productivity improvement. But I'll tell you, it's not our focus.
+
+Our focus is still on meeting this significant demand opportunity. But just with that scale, it sort of just comes to us. So my view is that we haven't done anything dramatically differently there. There's been a little bit of a focus that I've been pushing on to the team to say let's think about overlays.
+
+Let's think about complexity. As we grow this business, make sure we don't get so much complexity in the business that we lose our ability to simply execute. And so I think that focus there on sort of simplification is probably having a nice little positive impact, and then scale is the other aspect that's driving the productivity there. In terms of that impact on the long-term model, my starting point would be we kind of forecast that this was going to happen.
+
+And I think it's playing out pretty much consistently with the long-term model and the path that Mike had built, but I'll give him the option to comment on that if he sees it differently.
+
+Mike Sheridan -- Chief Financial Officer
+
+Yes. No. Just as a reminder, our long-term operating margin model shows 20% to 25% over a roughly four-year time frame. And I think we're still tracking to that target with, during that period of time, as we've always said, it being a period where we anticipate an opportunity for high growth, and we're going to continue to invest on those drivers.
+
+Operator
+
+Your next question from the line of Michael Turrin with Wells Fargo. Please proceed with your question.
+
+Michael Turrin -- Wells Fargo Securities -- Analyst
+
+Hey. Thanks, and good afternoon. Certainly, an impressive quarter. So congrats to the team from our end as well.
+
+Maybe another one on the execution side. I was hoping you could maybe compare and contrast the first half of the year given the bigger surge in demand you're seeing. And we all saw a big shift in having to pivot over to remote work on the fly last quarter. Were there things you were able to improve internally here in Q2 as we settle into this new way of working that made the execution even better given the acceleration you're delivering here on some of the key metrics?
+
+Dan Springer -- Chief Executive Officer
+
+And again, my point of view is I think we're continuing to execute well. I think it's harder, quite frankly, doing everything in a remote environment, and I think it's taxing on our people. It's harder work for all of us. And to be blunt about it, I think we mostly like to get back into a situation where we are mostly able to be in the office.
+
+I think the world has changed a little bit, and we probably have, in the longer run, highly productive system where some people are increasing there, a little bit of time out of the office, because we've shown that we can still be productive in that environment. But from an efficiency standpoint, I think we'd actually be now even more efficient if we could be back in the office and have some of those collaboration benefits. From a standpoint of translating to the financial results, again, I don't think there's anything that's played out in these financials that I would say accelerated efficiency because of remote work. I suppose the only thing I would point to as sort of an obvious is that we don't have the T&E expense, and that has been somewhat of improvement.
+
+But we've actually spent some of those savings on other things, both our funding growth, as well as supporting our employees in terms of things like helping them with the DocuSign CARES program, helping them set up a home office in a way that allows them to be productive at home. I don't have anything else about it that would seem different to me from that standpoint. I don't know if you, Mike --
+
+Mike Sheridan -- Chief Financial Officer
+
+The only other thing I would mention is we are learning as we go. We see things, for example, like attrition rates that we plan and budget for. We were outperforming those. Our attrition is much better than what was planned, a, because I think people really like working for DocuSign; and, b, I think in the current environment, people aren't as mobile as they would be during the norm.
+
+We're seeing things like our spending related to paid time off. People aren't taking as much paid time off because, of course, they're working from home, and that just doesn't make a lot of sense. There's not a lot of places to travel. So to Dan's point, there's a lot of ins and outs that we're seeing in the model.
+
+So I think as we plan for fiscal '22, and we're obviously entering that phase right now, you're right, there is a lot of learning going on that's going to allow us, I think, to hit the mark in terms of how we should think about spending for the coming year.
+
+Operator
+
+Your next question comes from the line of Shebly Seyrafi with FBN Securities. Please proceed with your question.
+
+Shebly Seyrafi -- FBN Securities -- Analyst
+
+Yes. Thank you very much. So this is quite an impressive report against a more difficult comparison. You accelerated your growth, and the acceleration was broad-based.
+
+It was in direct. It was in web. It was international. And so my question is, how much of this acceleration was due to COVID? And how much was due to other factors, like you've mentioned, increased demand seen in Europe?
+
+Mike Sheridan -- Chief Financial Officer
+
+Yeah. I would say, Shebly, of course, we're looking as carefully as we can into the numbers to try to glean that out. I am comfortable saying the following. We came into the year with a fiscal plan.
+
+And with or without COVID, our performance is exceeding that plan across the globe. Obviously, once you put the pandemic effect and the work-from-home effect on top of that, it's generating these much higher growth numbers. But we were exceeding our planned results pre and post.
+
+Operator
+
+Ladies and gentlemen, we have reached the end of the question-and-answer session. And I would like to turn the call back to Mr. Dan Springer for closing remarks.
+
+Dan Springer -- Chief Executive Officer
+
+Thank you very much, and I really appreciate you all being here today. It's been a fantastic quarter, and we will look forward to seeing you or most likely seeing you through video in the coming months until we see you next quarter. And just then one last comment, I'd like to thank Mike again for his incredible leadership over five years of stewarding the financial ship here. And I can't tell you how excited I am to look forward as we build the international business together.
+
+Mike Sheridan -- Chief Financial Officer

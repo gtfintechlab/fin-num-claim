@@ -1,0 +1,1038 @@
+Corrected Transcript
+1-877-FACTSET www.callstreet.com
+Total Pages: 23
+Copyright © 2001-2019 FactSet CallStreet, LLC
+25-Nov-2019
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+2
+Copyright © 2001-2019 FactSet CallStreet, LLC
+CORPORATE PARTICIPANTS
+David Niederman
+Vice President-Investor Relations, Palo Alto Networks, Inc.
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc.
+Kathleen Ann Bonanno
+Chief Financial Officer & Executive Vice President, Palo Alto Networks, 
+Inc.
+Lee Klarich
+Chief Product Officer, Palo Alto Networks, Inc.
+......................................................................................................................................................................................................................................................
+OTHER PARTICIPANTS
+Keith Eric Weiss
+Analyst, Morgan Stanley & Co. LLC
+Sterling Auty
+Analyst, JPMorgan Securities LLC
+Fatima Boolani
+Analyst, UBS Securities LLC
+Philip Winslow
+Analyst, Wells Fargo Securities LLC
+Karl E. Keirstead
+Analyst, Deutsche Bank Securities, Inc.
+Jonathan Ho
+Analyst, William Blair & Co. LLC
+Saket Kalia
+Analyst, Barclays Capital, Inc.
+Walter H. Pritchard
+Analyst, Citigroup Global Markets, Inc.
+Christopher Caleb Speros
+Analyst, Stifel, Nicolaus & Co., Inc.
+Patrick Colville
+Analyst, Arete Research Services LLP
+Brian Essex
+Analyst, Goldman Sachs & Co. LLC
+Michael Turits
+Analyst, Raymond James & Associates, Inc.
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+3
+Copyright © 2001-2019 FactSet CallStreet, LLC
+MANAGEMENT DISCUSSION SECTION
+Operator: Good day, and welcome to the Palo Alto Networks Fiscal First Quarter 2020 Earnings Conference 
+Call. Today's conference is being recorded.
+At this time, I'd like to turn the conference over to Mr. David Niederman, Vice President-Investor Relations. Please 
+go ahead, sir.
+......................................................................................................................................................................................................................................................
+David Niederman
+Vice President-Investor Relations, Palo Alto Networks, Inc.
+Good afternoon, and thank you for joining us on today's conference call to discuss Palo Alto Networks fiscal first 
+quarter 2020 financial results. This call is being broadcast live over the web and can be accessed on the Investors 
+section of our website at investors.paloaltonetworks.com.
+With me on today's call are Nikesh Arora, our Chairman and Chief Executive Officer; Kathy Bonanno, our Chief 
+Financial Officer; and Lee Klarich, our Chief Product Officer.
+This afternoon, we issued a press release announcing our results for the fiscal first quarter ended October 31, 
+2019. If you'd like a copy of the release, you can access it online on our website.
+We would like to remind you that during the course of this conference call, management will make forward-looking 
+statements, including statements regarding our financial guidance and modeling points for the fiscal second 
+quarter, full fiscal year 2020 and our next three years, our competitive position and the demand in marketing 
+opportunity for our products and subscriptions, benefits and timing of new products and subscription offerings and 
+trends in certain financial results and operating metrics.
+These forward-looking statements involve a number of risks and uncertainties, some of which are beyond our 
+control, which could cause actual results to differ materially from those anticipated by these statements. These 
+forward-looking statements apply as of today. You should not rely on them as representing our views in the future 
+and we undertake no obligation to update these statements after this call. For a more detailed description of 
+factors that could cause actual results to differ, please refer to our Annual Report on Form 10-K filed with the SEC 
+on September 9, 2019, and our earnings release posted a few minutes ago on our website and filed with the SEC 
+on Form 8-K.
+Also, please note that certain financial measures we use on this call are expressed on a non-GAAP basis and 
+have been adjusted to exclude certain charges. For historical periods, we have provided reconciliations of these 
+non-GAAP financial measures to GAAP financial measures in the supplemental financial information that can be 
+found in the Investors section of our website located at investors.paloaltonetworks.com.
+And finally, once we have completed our formal remarks, we will be posting them to our Investor Relations 
+website under the Quarterly Results section. We'd also like to inform you that we will be attending two investor 
+conferences next month. We will participate at the Wells Fargo TMT Summit in Las Vegas on December 3, and at 
+the Barclays Global Technology Media & Telecommunications Conference on December 11 in San Francisco.
+And with that, I'll turn the call over to Nikesh.
+......................................................................................................................................................................................................................................................
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+4
+Copyright © 2001-2019 FactSet CallStreet, LLC
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc.
+Thank you, David. Good afternoon, and thank you, everyone, for joining our call. As most of you know, with this 
+quarter I am lapping my first Q1 at Palo Alto Networks. In my very first call, I talked about my observations in the 
+industry and our goals for the company. About an year ago, we were a great single product company focusing on 
+integration and automation. We have made some early moves toward that aspiration of the cloud and we're 
+beginning to build products with AI and ML, recognizing the evolving trends of technology. One year later, I 
+couldn't be happier with our achievements. We have made significant progress moving into a leading position in 
+cloud security, making great strides in automation using AI and ML across our product portfolio. Our speedboats 
+are working. We're delivering integration. This is bearing fruit and our customers are seeing the benefit and 
+betting more and more on Palo Alto Networks.
+A few months ago, we set out a three-year plan for the company and shared it with you during our Analyst Day in 
+September. While I intend to share our progress during this quarter, I also want to provide a report card on how I 
+feel we're progressing towards the longer term goals that we have set for ourselves. And perhaps, more 
+importantly, I'd like to share where we're feeling more confident and also where we need more work. This is the 
+first quarter we are marking ourselves against the targets that we presented in September. We have published a 
+slide that is available on our Investor Relations website that you can download and follow along with my 
+comments. We will be targeting our progress against this plan.
+Let's start with our overall billings targets and how they're tracking. We are delighted to have done better than our 
+guidance. As I'm learning the rhythm of our enterprise business, I understand that enterprises put a lot of effort in 
+driving good year-end and then they have to kickstart new years. I was advised that sometimes there can be 
+challenges sustaining momentum into new fiscal year, but our teams have delivered and we're off to the races.
+As I spoke with investors after our Analyst Day, many asked me, what makes you confident that you can achieve 
+billings of $800-plus million in Next-Generation Security this year? I'm delighted to report that after a great Q4 we 
+have maintained the momentum and have been able to better our plans, delivering Next-Generation Security 
+billings of $173 million, which is 217% year-over-year. So sticking with my scorecard, I have more confidence in 
+our ability to continue to deliver here. To show our growing confidence, we're increasing our guidance for NextGeneration Security billings for the full year to $810 million to $820 million.
+The one area that we did not deliver to our expectations in the quarter is products, which weighed on the growth 
+of the firewall as a platform category and grew only 11% year-over-year. The category, firewall as a platform, 
+grew only 11% year-over-year. In fiscal 2019, we provided incentives to our teams to build our Next-Generation 
+Security business. By Q4, they showed us they could with very strong results. That momentum carried into the 
+start of fiscal 2020 with strong Next-Generation Security pipeline going into Q1.
+However, even though we have balanced our sales incentives this year, it looks like it's going to take us a little 
+more for that change to take effect. Despite our performance this quarter, we continue to have confidence in our 
+ability to deliver a 23% CAGR over the next three years in the firewall as a platform category with contributions 
+from all three form factors; hardware, virtual and as a service.
+To help our efforts in this area, we have established our third speedboat that coincide with our secure the 
+enterprise pillar. This speedboat will be led by Andy Elder who was recently the Chief Revenue Officer of 
+Riverbed. This gives Amit, our President, three speedboat leaders along with these regional leaders. With that 
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+5
+Copyright © 2001-2019 FactSet CallStreet, LLC
+change, we have chosen not to replace the position of head of sales, and on a flatter organization, allowing us to 
+continue to be nimble in our transformation to a multiproduct company.
+Back to our scorecard. Our revenues remain on target. Now let's travel down to our EPS margins and cash flow. I 
+did get to read many of the analyst reports on this topic, and I want to help you appreciate a point we made at our 
+Analyst Day. This fiscal year is our year of investment and transformation. We're not looking to cut costs; we're 
+looking to invest. However, we are holding our teams to a plan. Our plan asks us to deliver an EPS of $5.00 to 
+$5.10 for this year, and we intend to stick to it, without accounting, of course, for the proposed acquisition of 
+Aporeto, which I just announced. Our Q1 adjusted free cash flow margin was light compared to our annual target 
+due to the timing of certain cash flows. However, we remain on track with our annual guidance.
+So with that, let's now dive into the exciting product announcements we debuted at our Ignite conference in 
+Barcelona earlier this month. Many of our customers are taking integrated bets across our enterprise, cloud and 
+AI/ML products. While a year ago we were just talking about ambition, today we see the three platforms emerging 
+in our product strategy. As you know, we have branded our cloud solutions Prisma and our applications 
+framework in AI and ML products, Cortex, that led to our firewall business being a brand. Today, we're 
+announcing [ph] Strata (00:07:42), a brand for our firewalls and our data subscriptions.
+This leads me to the innovations we're making to secure the enterprise. As some of you might be aware, we 
+announced DLP and SD-WAN for Prisma Access at our Ignite event in Barcelona two weeks ago. We will extend 
+SD-WAN capabilities to our Next-Generation Firewalls with an attached subscription to be available shortly, and 
+then IoT in 2020.
+In the span of 18 months, we will take our attached subscriptions from 4 to 7. These new subscriptions will be 
+simultaneously available in a virtual firewall format. As a big side note, the inner security now goes over 1,000 
+customers and is our fastest-growing attached subscription, having launched just in February of this year.
+In this category, we continue to Gartner recognition for our technical leadership and were named as a leader in 
+the Gartner Magic Quadrant for Network Firewalls for the eighth consecutive time. We were also recognized as a 
+leader by Forrester in their recent Zero Trust eXtended Ecosystem Platform Providers [indiscernible] (00:08:39) 
+report. We feel good about the overall growth potential for firewalls as a platform and I'm excited about the 
+ongoing innovation we have planned in this area.
+Moving to securing the cloud and access to the cloud. Let me first talk about Prisma Access. We're very excited 
+about the recent innovations we've announced including SD-WAN and DLP services and new cloud-based 
+management UI and new SaaS service-level agreements. Prisma Access is now the industry's most 
+comprehensive Secure Access Service Edge platform. This gives Prisma Access the potential to be a leader in a 
+new market category defined by Gartner called SASE or Secure Access Service Edge. SASE is a convergence of 
+network and cloud security that recognizes the new demands required to secure cloud and mobile workforces, 
+while also delivering on integration leads and management. Prisma Access is perfectly suited to be leader in this 
+emerging category. And we're incredibly excited to bring this announced product to our customers.
+Moving across to Prisma Cloud, one of the questions I often get asked is, are you deploying the string of growth 
+strategy? The answer is no. I want to point out we're doing something different. We are integrating into three 
+platforms. Our goal is to make life easier for our customers through integration. A prime example is Prisma Cloud. 
+As soon as we acquired RedLock, we integrated it into the Evident functionary in four months. This past week, we 
+have announced the integration of RedLock, Twistlock, and PureSec into one platform. Yes, one platform, Prisma 
+Cloud. Now, for our SaaS version, you can only buy one product which is the integrated product.
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+6
+Copyright © 2001-2019 FactSet CallStreet, LLC
+I'm very proud of our Prisma team who have delivered this effort in a record time of five months since acquisition. 
+And of course, we will continue the work on delivering more cross-product capability for the next year.
+Prisma Cloud allows organizations to obtain a full and unified view of their cloud security and compliance posture 
+any type of cloud workload, including containers, serverless and host environments under a single pane of glass. 
+Prisma Cloud also integrates security in the software development workloads, allowing developers the ability to 
+see vulnerability status everytime they run a build without having to run a separate tool. I personally believe 
+Prisma Cloud is fast becoming the essential multi-cloud, multi-technology platform, now with over 1,000 
+customers.
+Keeping to the theme of providing more capability, today, we announced our intent to acquire Aporeto. After an 
+extensive market scan and thinking through how we believe micro-segmentation can fundamentally be 
+reinvented, we decided to accelerate our efforts to the proposed acquisition of Aporeto. Aporeto has unique 
+machine identity-based micro-segmentation capabilities that complement the existing cloud native security 
+platform capabilities delivered by Prisma Cloud. We are incredibly excited to welcome the team to Palo Alto 
+Networks. In addition to this acquisition, our team continues to drive hard innovation on the Prisma Cloud 
+platform.
+Now, let's turn to Cortex. I'm also proud of this team. This team has outperformed their billings forecast for the first 
+quarter by almost 20%. We introduced Cortex XDR 2.0 at Ignite. This is an integrated version with both endpoint 
+protection and XDR capabilities. We launched Cortex 1.0 about six months ago. We're the only vendor to take 
+EDR and reinvent it with network data to deliver XDR.
+It's been gratifying to see several other vendors follow suit and offer their known XDR-term products. We continue 
+to stay on the bleeding edge in this category. We're extending Cortex XDR's behavioral analytics capabilities to 
+include data and logs collected from third-party firewalls enabling detection across multivendor environments. We 
+announced the inclusion of Check Point Firewall data at Ignite. We also hope to be able to accept data from 
+Fortinet and Cisco before the year is over.
+This is probably the only time you'll hear me talk about our competitors in a neutral way. In the first nine months of 
+Cortex XDR, we've enabled organizations to reduce alert volumes by up to 50x and speed investigation time by 
+about 8x, filtering out the noise and allowing analysts to focus on the most critical threats.
+Turning to Demisto, which is part of our Cortex brand, a couple of months ago, we enhanced our comprehensive 
+security orchestration automation response platform, Demisto, by adding a number of new capabilities. Demisto 
+5.0 redefines the limits of SOAR customizability, enabling users to visualize incidents and indicated flows in a 
+completely tailored manner, improving the clarity and speed of security operations.
+A few more exciting is what Lee talked about at our Ignite event, our ability to collect telemetry data on how 
+Demisto is being used. We're starting to get this data, and customers will start to see the benefit where we can 
+give them more insights on how to get the most of this platform, including which playbooks are the most valuable 
+and which integrations work the best.
+Finally, we're very pleased to announce a new high-end support offering called Platinum Support for our physical 
+and virtual firewalls in our Panorama management system. This is a continuation of our goal to provide the 
+highest level of service to our customers. Platinum Support is an enhanced version of our premium support 
+offering and will feature dedicated teams and best-in-class response times, and also several other new features 
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+7
+Copyright © 2001-2019 FactSet CallStreet, LLC
+designed to ensure our customers' peace of mind knowing that Palo Alto's Networks' deep expertise is in their 
+corner whenever they need it.
+This is just an overview of all that we have introduced at Ignite, and I encourage you to review the archived 
+presentation from that event.
+As a continued measure of that confidence during the quarter, we repurchased nearly $200 million worth of our 
+shares. To conclude, we had a great first quarter. I feel more confident in our ability to deliver to the plan we set 
+out for this year. Our product teams have rolled out exciting innovations and have us on the leading edge in 
+multiple categories from firewalls to XDR to SOAR to SASE and cloud security. As I contemplate our roadmap for 
+the next 12 months, I become even more excited to see the security category strengthening knowing that our 
+products will continue to mature and be deployed by our customers around the world.
+With that, I'll turn the call over to Kathy.
+......................................................................................................................................................................................................................................................
+Kathleen Ann Bonanno
+Chief Financial Officer & Executive Vice President, Palo Alto Networks, Inc.
+Thank you, Nikesh. Before I start, I'd like to note that except for revenue and billings figures, all financial figures 
+are non-GAAP, and growth rates are compared to the prior year period, unless stated otherwise.
+As Nikesh indicated, we had a good start to our fiscal year and are tracking well against the targets we had 
+outlined during our Analyst Day in September. In the first quarter, we continued to add new customers at a 
+healthy clip and sustained momentum in our Next-Gen Security products.
+Let's look at some key customer wins. We signed an eight-figure deal with a leading casino company spanning 
+each of our three pillars. This engagement was positioned with their entire IT leadership team from the director 
+level all the way to the CIO as a comprehensive outcome-based security transformation project.
+A large retail customer we highlighted last quarter expanded their Palo Alto Networks footprint this quarter with a 
+seven-figure Cortex deal. This customer purchased Cortex XDR and Data Lake, setting them up for 
+comprehensive data analysis going forward.
+We beat Check Point and replaced Cisco to win a substantial deal with a major European toy manufacturer who 
+purchased Next-Gen Firewalls, Prisma Access and Traps. This customer has selected Palo Alto Networks as 
+their strategic security partner, and in the coming years, we expect them to replace their current firewalls with 
+Next-Generation Firewalls from Palo Alto Networks, their current VPN solution will be replaced by Prisma Access 
+and endpoint protection will be covered by Traps.
+These wins are excellent examples of our success in articulating our vision of security and being able to 
+demonstrate our value proposition to customers. And I'm pleased to report that wins such as these help us deliver 
+another strong quarter financially. In Q1, total revenue grew 18% to $771.9 million. Looking at growth by 
+geography, the Americas grew 18%, EMEA grew 16%, and APAC grew 21%. Q1 product revenue at $231.2 
+million declined 4% compared to the prior year. Q1 SaaS-based subscription revenue of $318.6 million increased 
+38%. Support revenue of $222.1 million increased 21%. In total, subscription and support revenue of $540.7 
+million increased 30% and accounted for a 70% share of total revenue.
+Turning to billings, Q1 total billings of $897.4 million net of acquired deferred revenue increased 18%. The dollarweighted contract duration for new subscription and support billings in the quarter remained at approximately 
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+8
+Copyright © 2001-2019 FactSet CallStreet, LLC
+three years, a decline by approximately three months year-over-year. Total deferred revenue at the end of Q1 
+was $3 billion, an increase of 26%.
+In addition to new customer acquisition, we continue to increase our wallet share with existing customers. Our top 
+25 customers, all of which made a purchase this quarter, spent a minimum of $41.7 million in lifetime value 
+through the end of fiscal Q1 2020, a 24% increase over the $33.6 million in the comparable prior-year period.
+Q1 gross margin was 76.6% which was down 10 basis points compared to last year. Q1 operating margin was 
+15.8%, a decline of 500 basis points year-over-year and includes a headwind of approximately $7 million of net 
+expense associated with our recent acquisitions.
+We ended the first quarter with 7,382 employees. On a GAAP basis for the first quarter, net loss increased by 
+56% to $59.6 million or $0.62 per basic and diluted share. Non-GAAP net income for the first quarter declined 9% 
+to $104.8 million or $1.05 per diluted share. Our non-GAAP effective tax rate for Q1 was 22%.
+Turning to cash flow and balance sheet items. We finished October with cash, cash equivalents and investments 
+of $3.3 billion. During the first quarter, we repurchased over 937,000 shares of common stock at an average price 
+of approximately $209 per share, leaving our remaining repurchase authorization of approximately $800 million.
+Q1 cash flow from operations of $225.2 million decreased by 11% year-over-year. Free cash flow was $178 
+million, down 18% at a margin of 23.1%. Adjusting for cash charges associated with our headquarters in Santa 
+Clara, free cash flow in the quarter was $202.7 million, representing a margin of 26.3%. Capital expenditures in 
+the quarter were $47.2 million of which $22.7 million was associated with our headquarters in Santa Clara.
+DSO was 63 days, an increase of five days from the prior-year period.
+Turning now to guidance and modelling points. For fiscal Q2 2020, we expect revenues to be in the range of $838 
+million to $848 million, an increase of 18% to 19% year-over-year.
+We expect Billings to be in the range of $985 million to $1 billion, an increase of 16% to 17% year-over-year.
+We expect Q2 2020 non-GAAP EPS to be in the range of $1.11 to $1.13, which incorporates approximately $3 
+million of net expense or $0.02 per share related to the proposed acquisition of Aporeto, using approximately 100 
+million shares to 102 million shares.
+For the full year fiscal 2020, we expect revenues to be in the range of $3.44 billion to $3.48 billion, representing 
+year-over-year growth of 19% to 20%. We are increasing our prior billings guidance by $10 million to $4.105 
+billion to $4.165 billion, representing growth of 18% to 19% year-over-year.
+As Nikesh said earlier, we are also increasing prior guidance for Next-Gen Security billings by $10 million to be in 
+the range of $810 million to $820 million, representing year-over-year growth of 79% to 82%.
+We expect fiscal 2020 non-GAAP EPS to be in the range of $4.90 to $5.00 which incorporates approximately $13 
+million of net expenses or $0.10 per share related to the proposed acquisition of Aporeto, using approximately 
+102 million shares to 104 million shares.
+Finally, turning to free cash flow. For the full year, we continue to expect an adjusted free cash flow margin of 
+approximately 30%. This excludes approximately $20 million in net expenses and acquisition transaction costs 
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+9
+Copyright © 2001-2019 FactSet CallStreet, LLC
+attributable to the proposed acquisition of Aporeto. Including these net expenses, we would expect adjusted free 
+cash flow margin of approximately 29%. As a reminder, the adjustments to free cash flow include CapEx 
+associated with the completion of our headquarters in Santa Clara. You can review these adjustments to free 
+cash flow in our supplemental financial information document which is posted on our Investor Relations website.
+Before I conclude, I'd like to provide some additional modeling points. We expect our Q2 and fiscal 2020 nonGAAP effective tax rate to remain at 22%. CapEx in Q2 will be approximately $50 million with approximately $25 
+million related to our headquarters in Santa Clara.
+For the full year, we continue to expect CapEx to be approximately $170 million to $180 million with approximately 
+$50 million related to our headquarters.
+With that, I'd like to open the call for questions. Operator, please poll for questions.
+......................................................................................................................................................................................................................................................
+QUESTION AND ANSWER SECTION
+Operator: Thank you. [Operator Instructions] And we'll take our first question today from Keith Weiss with 
+Morgan Stanley.
+......................................................................................................................................................................................................................................................
+Keith Eric Weiss
+Analyst, Morgan Stanley & Co. LLC Q
+Excellent. Thank you guys for taking the question. Nikesh, I was hoping to drill down a little bit more into the 
+firewall as a platform side of the equation where it seems you guys were a little bit disappointed. It sounds like the 
+incentive that you guys had in place last year just sort of pushed more of like the new business activity or more of 
+the pipeline building onto the next-gen cloud stuff and left you guys a little bit short on pipeline heading into the FY 
+2020. One, am I thinking about that correctly in terms of kind of where you guys came up a little bit short? And 
+two, how do you guys think like when you're looking at sort of assessing the problem, how do you vet out what 
+comes from sort of that kind of execution issue versus what might be more of a macro or a competitive issue?
+......................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Thanks, Keith, for your question. You are thinking about it right. As you know, many of our Next-Generation 
+Security products are very early in their lifecycle so literally there's stuff like Twistlock we acquired in July. There's 
+stuff like Demisto. All these things haven't even lapped for one year. So we put on a lot of effort towards getting 
+our core team to both learn, understand, build pipeline and sell. And in that process, we set up some good 
+incentives for them to focus on Next-Generation Security because pretty much the entire conversation from my 
+first year here was that I love the fact [ph] that you're great (00:25:49) firewall company, how you guys are going 
+to keep transforming as the firewall market transitions.
+And we set out – our team and me, we set out to prove to ourselves that not only can we build the products in 
+addition to firewalls but we can make this a multiproduct company. So part of that is, Lee's team did a great job in 
+getting the products in place and doing some of the integration work I talked about. The go-to-market team is 
+starting to make sure they can prove that they can sell the stuff. And we're very excited that approximately 40% of 
+our core salespeople sold Cortex this past quarter. Approximately 25% of them sold Prisma. So we are tracking to 
+the targets we set ourselves in terms of getting our core engaged, but because of the incentives, people made 
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+10
+Copyright © 2001-2019 FactSet CallStreet, LLC
+their decisions that they can make more money selling Cortex and Prisma in Q4 than selling firewalls. As a 
+consequence, we saw a huge pipeline build and a lot of deals done in Q4, the momentum carried into Q1.
+We recognized this coming into the year. We've rightsized these incentives, but it takes a little bit longer for the 
+pipeline to get back into place. I don't think there's a systemic issue. I don't think it's a market share issue. I just 
+think it's taking the eye off the ball and we've already put stuff into place and we wouldn't be saying we feel 
+confident of delivering 23% long term if we didn't believe that we could actually get the team to balance their focus 
+both on Cortex, Prisma as well as other firewalls.
+......................................................................................................................................................................................................................................................
+Keith Eric Weiss
+Analyst, Morgan Stanley & Co. LLC Q
+Excellent. Thank you, guys.
+......................................................................................................................................................................................................................................................
+Operator: Next, we'll hear from Sterling Auty with JPMorgan.
+......................................................................................................................................................................................................................................................
+Sterling Auty
+Analyst, JPMorgan Securities LLC Q
+Yeah. Thanks. Hi. Maybe just following on the last question, can you help us understand, I think the EPS 
+guidance for the year includes the acquisition, the revenue guidance is unchanged. So, just so we get a sense of 
+what looks like lowering the organic revenue for the year, maybe the order of magnitude, how much acquisition 
+revenue are you kind of baking into the reiterated full year revenue number?
+......................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Yeah. Look, we acquired this company called Aporeto. We're in the process of acquiring it. This is slightly earlier 
+in the technology lifecycle of cloud security. This is a bet we're making in terms of how micro-segmentation will 
+need to be done in the future. And with that bet, it's going to take us a while to integrate this into our Prisma Cloud 
+offering, so we're not anticipating much revenue uplift this year so we're holding revenue flat from – as in flat as 
+an in-line with guidance without expecting any revenue impact this fiscal year from Aporeto. But obviously, we 
+have to pay the cost to the company.
+......................................................................................................................................................................................................................................................
+Sterling Auty
+Analyst, JPMorgan Securities LLC Q
+Okay. And then one follow-up on Prisma specifically. You talk on the other side as they get linked through the 
+prepared remarks. I think last quarter you talked about made some early Prisma wins. Can you give us just 
+maybe a little bit more color on the traction that you saw in the quarter especially on the competitive dynamics of 
+Prisma?
+......................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Yeah. Look, both on Prisma Cloud and Prisma Access, I'm sure you all remember Nir's emotional explanation at 
+Analyst Day on Prisma Access which is the product that competes in the secure access base. We're very excited. 
+We're seeing – we continue to see traction. We continue to see large seven-figure deals in that space. It's a 
+space where we're seeing the market is growing. There is a cloud transformation happening.
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+11
+Copyright © 2001-2019 FactSet CallStreet, LLC
+As you start transforming your applications to the cloud, you start thinking about how to transform your network 
+and start creating more high-bandwidth secure access to all of your users in your branches. So we see the market 
+moving there. We see our product getting stronger and more mature. As we said, we announced the capability of 
+SD-WAN and DLP in the product which makes it a comprehensive solution in the market so we're seeing the 
+traction.
+Those deals take the same time as firewall deals take to close because customers have to go through a strategic 
+transformation of the network. So they're not as quick as Prisma Cloud deals on the other side. As I said, I think in 
+record time gone past 1,000 pure cloud security customers across RedLock, Evident, Twistlock, PureSec which in 
+our minds is one of the fastest ramps in terms of our ability to get 8,000 customers to deploy our cloud security 
+products and this is when we were selling them individually and we just last week integrated all of them into one 
+SKU so I believe that gives us more traction. So we're really excited about the traction we're seeing in the Prisma 
+product.
+......................................................................................................................................................................................................................................................
+Sterling Auty
+Analyst, JPMorgan Securities LLC Q
+Got it. Thank you.
+......................................................................................................................................................................................................................................................
+Operator: Next, we'll hear from Fatima Boolani with UBS.
+......................................................................................................................................................................................................................................................
+Fatima Boolani
+Analyst, UBS Securities LLC Q
+Good afternoon. Thank you for taking the questions. I have one for Nikesh and one for Kathy. Nikesh, for you, just 
+targeting back to the Analyst Day, we did talk about contract structuring as a mechanism to allow you to introduce 
+new functionality into the install base. I'm wondering with regard to the expansion in the unattached portfolio and 
+even the attached portfolio subscription, I was wondering if you could share some of the details of what has 
+changed or what is different as you start this new fiscal year around some of the newer extended capabilities in 
+Prisma Cloud and certainly this new acquisition as well as on the DNS and SD-WAN attach side. And then I'll 
+have a follow-up for Kathy, please.
+......................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Okay. Great. Thank you for the question, Fatima. I think as we discussed at the Analyst Day, we said that we 
+don't want to have to sell every module of Prisma Cloud to our customers individually and we want to create a 
+structure where they can actually buy once and use our products on a consumption basis. And effectively, this 
+integrated platform we have started rolling out last week, Prisma Cloud, where you have one SKU where all 
+RedLock, Twistlock, PureSec functionality is available. If you bought RedLock SaaS version, you will be able to 
+use container security without coming and signing a new deal. You'll just use up some your credits that you 
+bought. If you bought Twistlock functionality, you'd be able to do the same thing with RedLock or PureSec.
+So we have simplified our contracts and our ability to consume in this release of our product last week. We are in 
+the process of rolling it out to all of our Prisma – all of our Twistlock and RedLock customers, which should be 
+accomplished in the next few weeks I hope. And those customers then will have the ability to consume the 
+product without actually having to come and buy those individual products from us, which is – which takes away a 
+lot of friction in the process.
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+12
+Copyright © 2001-2019 FactSet CallStreet, LLC
+In terms of SD-WAN and DLP, they will be available integrated as part of Prisma Access so you will not have to 
+go buy a different product and integrate them. This will come integrated out of the software box if there's such 
+thing, and you'll be able to use it with a single cloud pane.
+......................................................................................................................................................................................................................................................
+Fatima Boolani
+Analyst, UBS Securities LLC Q
+Fair enough. That makes a ton of sense. Kathy, for you, I was wondering if you could give us an update on just 
+some of the tariff escalation that's happening and sort of how that's impacting – or financially impacting your 
+supply chain and how we should think about those costs rolling through the model. I know historically, you 
+quantified some of the negative financial impact on EPS, but I'm wondering if there's any sort of update there 
+given some of the whipsawing on the trade war and tariff-related escalations we've seen. Thanks a lot.
+......................................................................................................................................................................................................................................................
+Kathleen Ann Bonanno
+Chief Financial Officer & Executive Vice President, Palo Alto Networks, Inc. A
+Sure. Thanks for the question. We do manufacture our products in the US. However, there are certain 
+components, as we've talked about in the past, that we source from China. That's the only place where we're able 
+to purchase these components, and we've seen that list of products expand as the tariff situation has expanded in 
+the US as it relates to China products. So we have felt the impact of that, and we've been talking for a while about 
+the impact to EPS. However, just at the start of this new fiscal quarter, fiscal Q2, we did increase pricing on our 
+firewalls, and that increase in pricing is intended to offset the tariff's impact. So that's why you don't see us 
+outlining a specific financial impact this quarter.
+......................................................................................................................................................................................................................................................
+Fatima Boolani
+Analyst, UBS Securities LLC Q
+That's super clear. Thank you so much, Kathy.
+......................................................................................................................................................................................................................................................
+Kathleen Ann Bonanno
+Chief Financial Officer & Executive Vice President, Palo Alto Networks, Inc. A
+Yeah.
+......................................................................................................................................................................................................................................................
+Operator: We'll now hear from Phil Winslow with Wells Fargo.
+......................................................................................................................................................................................................................................................
+Philip Winslow
+Analyst, Wells Fargo Securities LLC Q
+Hey. Thanks, guys, for taking my question. I just want to focus in on the Next-Gen Firewall platform space. Kathy 
+and Nikesh, both of you all talked about the opportunity just to refresh the older models that you all sold in the 
+past. I'm wondering if you could provide us an update of sort of what you're seeing right now and thinking for this 
+year relative to past years in terms of the contribution from just refresh [indiscernible] (00:34:48) base? And then 
+just one quick follow-up to that.
+......................................................................................................................................................................................................................................................
+Kathleen Ann Bonanno
+Chief Financial Officer & Executive Vice President, Palo Alto Networks, Inc. A
+Yeah. Sure. We've been talking about refresh activity in a couple of different ways. One in terms of what we see 
+with our customers refreshing competitive boxes, and of course, that's been a motion that we've been 
+competitively trying to address since the start of the company. And as you know, there's rarely a company that we 
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+13
+Copyright © 2001-2019 FactSet CallStreet, LLC
+go into that doesn't already have firewalls. And so it's always been a competitive displacement go-to-market 
+approach for us.
+When we talk about our own internal refresh cycle, we continue to see our customers refreshing. However, in 
+terms of driver of growth, we've pointed out that in terms of just pure magnitude of customers, our new customer 
+acquisition as well as our customer expansion opportunity is a much bigger driver of our overall growth and much 
+less so refresh of our own boxes that we've sold to customers previously.
+......................................................................................................................................................................................................................................................
+Philip Winslow
+Analyst, Wells Fargo Securities LLC Q
+Got it. Great. And then just a follow-up for Nikesh on the platform side of Cortex, obviously, you talked about the 
+AI base for its continuous operations platform I think is what you called it at the Analyst Day. What's the feedback 
+been from, yeah, from customers in terms of developing their own apps, their own functionality on top of this as 
+well third parties? Any sort of update there would be great.
+......................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Yeah. As I mentioned in my prepared remarks, this team outperformed their numbers by approximately 20%. So 
+they were seeing tremendous amount of tractions, both – traction both from the XDR side and the Demisto side. 
+Demisto is performing way ahead of our acquisition plan. We haven't opened up the capability for customers to 
+write their own applications on our platforms just yet. We have some apps in the old version of the Application 
+Framework. But right now, we focus more on providing integration out-of-the-box with third-party vendors so 
+customers don't have to try and take that and normalize the data, which is a bit of a shift in our strategy. But we're 
+seeing huge traction. I think it's fair to say that one of the times when Lee announced the ingestion of Check Point 
+Firewall data into our product was when he got a standing ovation. It's hard to get a standing ovation from a 
+bunch of engineers at a conference. So they must've liked that.
+And we are going to do the same thing with Cisco and Fortinet firewall data. So that way when a customer's trying 
+to look at alerts across firewall and endpoint data, we can ingest any firewall data as well as match it up with our 
+endpoints. So we're seeing traction in Cortex across four product categories, but we have not opened up the 
+ability for people to write their own access yet.
+......................................................................................................................................................................................................................................................
+Philip Winslow
+Analyst, Wells Fargo Securities LLC Q
+Great. Thanks, guys.
+......................................................................................................................................................................................................................................................
+Operator: Next, we'll hear from Karl Keirstead with Deutsche Bank.
+......................................................................................................................................................................................................................................................
+Karl E. Keirstead
+Analyst, Deutsche Bank Securities, Inc. Q
+Thank you. Maybe I'll direct both to Nikesh. So, Nikesh, the product revenue disappointment is coming relatively 
+soon after a series of sales leadership changes at Palo Alto over the last six, nine months. And I'm just wondering 
+if you believe that those changes might have contributed to the product performance. And in that spirit, do you 
+mind just repeating your rationale for not replacing the head of sales? The first part of the question is on the sales 
+leadership, and then I'll ask my second. Thank you.
+......................................................................................................................................................................................................................................................
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+14
+Copyright © 2001-2019 FactSet CallStreet, LLC
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Sure. I think we're taking two random points and try and draw a straight line. I personally don't think there's any 
+correlation between the changes and our challenge on the product this quarter. If there's there was a challenge, 
+we would have felt it across the board across every category, not just our firewalls. So the fact that our teams 
+have gone out and met the billings target for Q4 and Q1 and we've had a mix shift in terms of what we've been 
+able to sell, validates at least the theory we're putting out or for the facts we're putting out around the fact the 
+incentives contributed to it as opposed to any leadership changes.
+On the leadership change front, we have very strong leaders in our regions. We promoted Rick Congdon who's 
+been around for many years at Palo Alto Networks who's doing a phenomenal job in Q4 to run our Americas 
+business. We have Christian Hentschel in Europe who we've talked about in past earnings calls, as well as we've 
+promoted Simon Green to run off our JAPAC business who ran Asia-Pacific for us. So between those three, we 
+feel we have strong leadership in the regions. And both our Prisma and Cortex leaders are doing really well given 
+the performance we've seen in NGS.
+And we felt that we were not – we don't have this laser-focused leader on the firewall as a platform category, so 
+we were able to hire Andy Elder, who's an sales leader from Riverbed who is going to run that part of our 
+business in terms of focusing and making sure as we deploy new products like Prisma Access or virtual firewalls 
+or going from four to seven subscriptions that there is the same go-to-market focus that we've had on Prisma and 
+Cortex.
+And with that sort of three-by-three matrix, we feel Amit needs to stay engaged in that transformation with these 
+teams and putting another layer between him and these six people would be detrimental to our ability to go and 
+execute. So we decided not to replace the head of sales position.
+......................................................................................................................................................................................................................................................
+Karl E. Keirstead
+Analyst, Deutsche Bank Securities, Inc. Q
+Got it. Okay. That's helpful. And then again in the spirit of just trying to unpack what might be going on, this too 
+might be drawing an incorrect conclusion. But is it possible, Nikesh, that you guys saw an accelerated hardwareto-software form factor shift that might've caught you a little bit by surprise and contributed to that product 
+number? But it would obviously show up in super-strong VM-Series billings numbers.
+......................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+I wish that was the case that we've been caught unaware. I really like to be surprised by phenomenal growth in 
+any product category. But unfortunately, it's just the fact that our teams had only so many dollars they could sell in 
+Q4 and they sold a lot of them but they sold in the categories who's going to make them a lot of money, which is a 
+good thing. You want your sales team to be motivated by the incentives, why the incentives are not working. But 
+we've fixed the focus to make sure they are focused on both categories.
+So we think it's nothing systemic. We think it happened in this quarter. And to be honest, if you look at the 
+numbers, another $20 million of deals would've gotten us to a number which would've made all of you happy and 
+made us happy but that's kind of the quantum of the change on an $897 million worth of billings. So $20 million 
+showed up in more Next-Generation Security than showed up in product which is why we're all getting unhappy 
+about this. But hopefully, we can fix that in upcoming quarters and we can deliver to the long-term guidance with 
+23% CAGR.
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+15
+Copyright © 2001-2019 FactSet CallStreet, LLC
+Karl E. Keirstead
+Analyst, Deutsche Bank Securities, Inc. Q
+Got it. I'm sure you will. Thank you very much, Nikesh.
+......................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Thank you.
+......................................................................................................................................................................................................................................................
+Operator: Jonathan Ho with William Blair has our next question.
+......................................................................................................................................................................................................................................................
+Jonathan Ho
+Analyst, William Blair & Co. LLC Q
+Hi. Good afternoon. I just wanted to start out with maybe the Aporeto acquisition. And could you maybe give us a 
+little bit of a sense of what this adds to your overall solution set as well as the role that micro-segmentation plays 
+in the cloud?
+......................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Sure. Look, and as we've said in the past, is that there are tons and tons of people selling the transition to the 
+public cloud across the various large cloud providers around the world whether it's Alibaba, [ph] Cloud Sales 
+(00:42:25), Oracle, Amazon, or GCP or Azure, they're all trying to convince us to move to the cloud. We 
+personally at Palo Alto have moved to the cloud for that reason because we think that's the right outcome in the 
+long term. But we don't believe that a lot of the cloud security products exist to be able to deliver the amount and 
+quality and capability of cybersecurity that exist in today's enterprise world. And as we make that transition, as we 
+start putting more and more mission-critical applications onto the cloud, it is going to be important to reinvent the 
+way cybersecurity is delivered, made for the cloud, by the cloud – what was the third part of that? Never mind. My 
+American history is weaker than it should be. But anyway.
+So as we go down that path, we believe only 50% of the cloud security products have been invented so far. And 
+instead of sit down and try and build them all ourselves, we have acquired RedLock and Evident, in the first 
+instance to secure workloads. The market moved swiftly to containers; we acquired Twistlock. The market was 
+heading to serverless; we acquired PureSec. We are also in the process of building our own modules in addition 
+to those which we will obviously as far as our product road map. And we looked to the world of microsegmentation and said, the way micro-segmentation is deployed today in the data center is not the way it needs 
+to be deployed in the cloud because micro-segmentation relies on IP addressing in the data center which is very 
+good for the enterprise but not really how the cloud operates.
+Aporeto has a really good way. They've been looking at it for the last two-and-a-half, three years, perfecting an 
+approach which they have deployed in two or three very large customers at scale. We looked at it and said, look, 
+this would be a phenomenal set of capabilities to have in our cloud security platform. We talked to the company, 
+we liked them, we looked to the whole market and said this is the way we want to do it in the future. As a 
+consequence, we acquired them and this will become part of our Prisma Cloud platform. So we don't intend this to 
+be a separate SKU. We expect it to be part of integrated capability as part of our Prisma Cloud platform and we 
+hope the underlying capability it brings will allow us to create more features in the future using their backbone.
+......................................................................................................................................................................................................................................................
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+16
+Copyright © 2001-2019 FactSet CallStreet, LLC
+Jonathan Ho
+Analyst, William Blair & Co. LLC Q
+Thank you. And then just as a follow-up, can you talk a little bit about maybe what you're seeing in terms of your 
+customers from a budgeting activity standpoint for 2020 specific to Prisma Cloud and what types of trends are you 
+seeing around that? Thank you.
+......................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Look, I haven't been in this industry very long, but I am told by my colleagues and the way we've watched this, it's 
+very rare to start a cybersecurity company or a product and start closing seven-figure deals in short order and it's 
+fair to say we're seeing a healthy amount of seven-figure deals in Prisma Cloud which tells us that there is a need 
+out there for this product. There's a product market fit. And it kind of makes sense if you think about average 
+customers are spending tens of millions of dollars in their cloud transition moving to the public cloud providers. 
+And I said this in the past, if we can get 2% to 5% of that spend from a cloud security, we'll be in a good place.
+And I think we're tracking to that as we go to customers and we see them spending $30 million, $50 million a year 
+in the public cloud. We're tracking to the 2% to 5% number for those customers. And there's a possibility that that 
+goes up a little bit because there's a whole bunch of capability that doesn't exist yet. But we've not run into budget 
+constraints of our customers who are moving to the cloud and saying, well, I'm moving to the cloud, but I don't 
+have the money to do cloud security.
+......................................................................................................................................................................................................................................................
+Operator: Thank you. We'll now hear from Saket Kalia with Barclays.
+......................................................................................................................................................................................................................................................
+Saket Kalia
+Analyst, Barclays Capital, Inc. Q
+Hey, guys. Thanks for taking the questions here. First, maybe for you, Nikesh, just to go back to an earlier 
+question on SD-WAN, I think we understand the integration of that into Prisma Access. But can you just talk about 
+your thoughts on SD-WAN as part of the firewall appliance and whether that's something you feel is driving some 
+customer purchase decisions right now?
+......................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+It seems to have become a consideration in the purchase decision. But let's remember there's over 40 SD-WAN 
+providers out there in the world and customers also choose whether they want a separate SD-WAN with more 
+capability or an integrated SD-WAN in the firewall. But given that has become a consideration, we've launched or 
+announced SD-WAN as part of Prisma Access and you can logically expect us to be able to deliver that across 
+every form factor in the near future.
+......................................................................................................................................................................................................................................................
+Saket Kalia
+Analyst, Barclays Capital, Inc. Q
+Got it. That's helpful.
+......................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+If that's where you were going, Saket.
+......................................................................................................................................................................................................................................................
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+17
+Copyright © 2001-2019 FactSet CallStreet, LLC
+Saket Kalia
+Analyst, Barclays Capital, Inc. Q
+Yeah. Absolutely. That was where I was going. But maybe for – maybe for you, Kathy, just as a quick follow-up. 
+Can you just talk about the gross margins on the recurring revenue part of the business? So much of that is that 
+nice, higher-margin attached subscription and maintenance, but of course there's a nice growing piece from nextgen as well. As the latter grows, can you just talk about how that affects the gross margin profile, if at all?
+......................................................................................................................................................................................................................................................
+Kathleen Ann Bonanno
+Chief Financial Officer & Executive Vice President, Palo Alto Networks, Inc. A
+Yeah. Sure. The gross margin range that we've provided in the past that we expect to operate within is 75% to 
+78% gross margins. And we've continued to operate within that range for many, many quarters now. The services 
+margin in particular, which you'll see in our financials has been at the higher end of that range as you rightly point 
+out. And it's in fact actually come down a little bit over the last couple of years, and that's as a result of us building 
+out the Next-Gen Security products, many of them which have hosting and data management costs. And those 
+costs are higher than the typical software-type margins that you've seen on our attached descriptions in the past. 
+So slightly different profile but still operating overall service margins at the high end of that range.
+......................................................................................................................................................................................................................................................
+Saket Kalia
+Analyst, Barclays Capital, Inc. Q
+Got it. Thank you.
+......................................................................................................................................................................................................................................................
+Kathleen Ann Bonanno
+Chief Financial Officer & Executive Vice President, Palo Alto Networks, Inc. A
+Yeah.
+......................................................................................................................................................................................................................................................
+Operator: Walter Pritchard with Citi has our next question.
+......................................................................................................................................................................................................................................................
+Walter H. Pritchard
+Analyst, Citigroup Global Markets, Inc. Q
+Hi. Question for Nikesh and then one for Kathy. So on Prisma Cloud, you talked about integrating those products 
+probably faster than most were expecting. I'm wondering how you're thinking about integrating the backend 
+management of the Prisma Cloud products as well as other products into Panorama, what the timeline looks for 
+that, and are there some customers that are waiting for that unified management to make bigger commitments to 
+those products.
+......................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Walter, what we've noticed is that people want integration of the SD-WAN capability or the DLP capability into the 
+Prisma Access pane so it can be integrated solution as they go deploy this in their branches and as they deploy 
+for more users. We're not seeing a lot of [indiscernible] (00:49:21) and we don't believe that's the right thing to 
+merge our cloud security pane into our firewall panes. Our cloud security pane is self-standing, independent pane 
+which we believe is more relevant to DevSecOps and the CIO teams than it is to the network security teams. So 
+which is what we said, we just announced the integrated or started deploying the integrated platform across 
+RedLock, Twistlock, PureSec, Evident last week. And we believe that's going to become the mainstay of the cloud 
+security frontend.
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+18
+Copyright © 2001-2019 FactSet CallStreet, LLC
+And, Lee, do you want to add something?
+......................................................................................................................................................................................................................................................
+Lee Klarich
+Chief Product Officer, Palo Alto Networks, Inc. A
+Yeah. Just maybe continuing on where Nikesh left off, so for Prisma Cloud, we do have a single unified UI for all 
+different Prisma Cloud offerings. So for customers that are securing their applications in the cloud, they would go 
+to one UI for that. Within Prisma Access, as we deliver additional integrated services, we have an ability to do that 
+within Panorama to be able to, we call plug-ins that can expand Panorama to include the additional capabilities as 
+they come out. So again, customer can go to one unified UI to see all those different pieces in one place.
+......................................................................................................................................................................................................................................................
+Walter H. Pritchard
+Analyst, Citigroup Global Markets, Inc. Q
+Great. Thanks, Lee. And then, Kathy, on the acquisition, I guess just looking up on LinkedIn, looks like the 
+company, Aporeto, had about 65 employees. I guess as we think about smaller kind of tuck-in M&A like this, I 
+guess maybe some of us would've expected, given you add a couple hundred employees kind of organically 
+every quarter, you could kind of do this under your organic hiring plans. How should we think about that going into 
+the future? Do we need to worry about kind of margins coming down with tuck-ins?
+......................................................................................................................................................................................................................................................
+Kathleen Ann Bonanno
+Chief Financial Officer & Executive Vice President, Palo Alto Networks, Inc. A
+Well, we've talked about the impact, which is pretty modest impact, $0.02 on the earnings per share for the 
+quarter, and we are investing in order to ensure that we can integrate these products and make sure that we are 
+successful in our go-to-market efforts. And so there is real expense associated with those. So the framework that 
+we've given you is an organic framework, and when we do M&A, we'll point out any incremental financial impact 
+to that.
+......................................................................................................................................................................................................................................................
+Walter H. Pritchard
+Analyst, Citigroup Global Markets, Inc. Q
+Okay. Thank you.
+......................................................................................................................................................................................................................................................
+Operator: Our next question will come from Gur Talpaz with Stifel.
+......................................................................................................................................................................................................................................................
+Christopher Caleb Speros
+Analyst, Stifel, Nicolaus & Co., Inc. Q
+Hi, guys. This is actually Chris Speros on for Gur. For Nikesh, you noted earlier that Demisto is performing ahead 
+of plan. Can you talk about the dynamics behind what's driving this outperformance?
+......................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Yeah. Look, I think the whole automation use case is resonating with our customers where they are building Data 
+Lake, they're looking at their SIMs, but they're realizing they're getting a huge barrage of alerts so they're 
+deploying more and more cybersecurity solutions into either the enterprise or into the cloud. And Demisto is 
+turning out to be the versatile automation tool with the number of integrations it has with security vendors out 
+there.
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+19
+Copyright © 2001-2019 FactSet CallStreet, LLC
+So we're seeing traction. Our core team has been able to explain it, sell it across the board. As I mentioned that 
+approximately 30-plus percent of our core sales team is selling Cortex which includes Demisto. So it's really the 
+expanded go-to-market, the expanded capabilities that the new Demisto product has is really driving that, and of 
+course the good product market fit out there.
+......................................................................................................................................................................................................................................................
+Christopher Caleb Speros
+Analyst, Stifel, Nicolaus & Co., Inc. Q
+Great. That's awesome. And one for Kathy, if I may. With more large Prisma deals starting to close, can you walk 
+us through the relative economics of a Prisma deal versus a traditional clients deal?
+......................................................................................................................................................................................................................................................
+Kathleen Ann Bonanno
+Chief Financial Officer & Executive Vice President, Palo Alto Networks, Inc. A
+Yeah, Prisma Access and the functionality that it provides is typically slightly higher – somewhat higher priced 
+than a typical firewall sale that we would see, of course depending upon the firewall and the number of attached 
+subscriptions. Over time, over a five-year period, which is a typical lifecycle of a firewall, we would expect to see 
+more revenue from the Prisma Access deal.
+......................................................................................................................................................................................................................................................
+Christopher Caleb Speros
+Analyst, Stifel, Nicolaus & Co., Inc. Q
+Great. Thank you, guys.
+......................................................................................................................................................................................................................................................
+Kathleen Ann Bonanno
+Chief Financial Officer & Executive Vice President, Palo Alto Networks, Inc. A
+Yeah.
+......................................................................................................................................................................................................................................................
+Operator: Our next question will come from Patrick Colville with Arete Research.
+......................................................................................................................................................................................................................................................
+Patrick Colville
+Analyst, Arete Research Services LLP Q
+Thank you for taking my question. Kathy, you mentioned earlier on the call that DSOs had risen [indiscernible] 
+(00:53:56) year-on-year. I mean, is the product issue anything related to the change in DSOs? I mean, are those 
+things correlated or are they separate?
+......................................................................................................................................................................................................................................................
+Kathleen Ann Bonanno
+Chief Financial Officer & Executive Vice President, Palo Alto Networks, Inc. A
+No. No, there's really no correlation there.
+......................................................................................................................................................................................................................................................
+Patrick Colville
+Analyst, Arete Research Services LLP Q
+Okay. Understood. And then can I just switch over to SD-WAN because that's an area that we're getting a lot of 
+incoming on both from investors and from CISOs. So you've mentioned that Palo is going to release appliances 
+with SD-WAN functionality built-in. So if I understand correctly, right now, the devices don't have SD-WAN, but 
+that's in the road map, is that correct?
+......................................................................................................................................................................................................................................................
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+20
+Copyright © 2001-2019 FactSet CallStreet, LLC
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Yes, that's correct.
+......................................................................................................................................................................................................................................................
+Patrick Colville
+Analyst, Arete Research Services LLP Q
+And I mean, can you give us a rough time line for that in or this early stage?
+......................................................................................................................................................................................................................................................
+Lee Klarich
+Chief Product Officer, Palo Alto Networks, Inc. A
+Yeah. So a couple weeks ago, our EMEA Ignite conference, we announced SD-WAN, and we plan to deliver SDWAN across all three form factors, so hardware, virtual and Prisma Access around the mid-December timeframe. 
+So next month.
+......................................................................................................................................................................................................................................................
+Patrick Colville
+Analyst, Arete Research Services LLP Q
+Great. Thank you for answering the questions.
+......................................................................................................................................................................................................................................................
+Operator: Our next question will come from Brian Essex with Goldman Sachs.
+......................................................................................................................................................................................................................................................
+Brian Essex
+Analyst, Goldman Sachs & Co. LLC Q
+Great. Good afternoon. Thank you for taking the question. Maybe a couple for Nikesh. I guess one would be as 
+you target products for the developer environment, to what extent are your customers already integrated 
+development with security? And is that an evolution that still has to come?
+......................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+I'm going to let Lee answer that question since he's been sitting here with not a whole lot to do. So...
+......................................................................................................................................................................................................................................................
+Brian Essex
+Analyst, Goldman Sachs & Co. LLC Q
+All right.
+......................................................................................................................................................................................................................................................
+Lee Klarich
+Chief Product Officer, Palo Alto Networks, Inc. A
+Brian, can you repeat the question?
+......................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Oh, you were listening. He says how many of the customers have integrated security into DevOps.
+......................................................................................................................................................................................................................................................
+Lee Klarich
+Chief Product Officer, Palo Alto Networks, Inc. A
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+21
+Copyright © 2001-2019 FactSet CallStreet, LLC
+Oh, look, in the cloud, there's a whole movement towards it's called shift left, which is really focused on integrating 
+the security process and functionality and posture as close to the point of development as possible so that by the 
+time an application is running in production in the cloud, all of the security is already there and was developed as 
+part of the application. This was something that Twistlock and container security was very focused on. It's very 
+common practice within container development to have the shift-left mentality. And as we look to this going 
+forward, we see it becoming a bigger part of cloud security practice.
+......................................................................................................................................................................................................................................................
+Brian Essex
+Analyst, Goldman Sachs & Co. LLC Q
+Right. Got it. That's helpful. And maybe just a follow-up, jump on this one whoever wants to kind of grab it, but 
+you've done quite a bit of M&A over the past couple of years. What percentage of your sales force would you say 
+is fully ramped on selling the entire suite? Or is there still some progress that needs to happen there in terms of 
+getting everyone kind of up to speed and fully productive?
+......................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Yeah. As I mentioned earlier, approximately 39% of our core sales team is selling Cortex, our Cortex suite of 
+products and approximately 25% are selling our Prisma suite of products. Of course, there is a lot of room for us 
+to grow from 40% to more and more of our sales team being able to sell these products. But having said that, 
+many of these products have been in play only for about six months.
+......................................................................................................................................................................................................................................................
+Brian Essex
+Analyst, Goldman Sachs & Co. LLC Q
+Right.
+......................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+So we have a few thousand people out there in the field and it takes a while to get them all comfortable up to 
+speed being able to sell it. Not only that, we have lots of partners out there and part of our efforts are not just to 
+motivate and train our team but also make sure our partners fully understand our capability and are able to sell. 
+So, yes, we can make more progress but again very excited about the progress we've made so far with the new 
+product categories.
+......................................................................................................................................................................................................................................................
+Brian Essex
+Analyst, Goldman Sachs & Co. LLC Q
+Got it. Very helpful. Thank you very much.
+......................................................................................................................................................................................................................................................
+Operator: Our final question will come from Michael Turits with Raymond James.
+......................................................................................................................................................................................................................................................
+Michael Turits
+Analyst, Raymond James & Associates, Inc. Q
+Hey, guys. Thanks. I'll squeeze two in quickly. One, Nikesh, in Prisma Access, are you seeing primarily the 
+Zscaler or is it a wider field including people like maybe Fortinet with Carrier, Netskope, iboss, etcetera? And 
+then, Kathy, how fast do you expect that you can get the product growth back to the kind of levels that we're 
+expecting them to trend in?
+......................................................................................................................................................................................................................................................
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+22
+Copyright © 2001-2019 FactSet CallStreet, LLC
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+So in terms of your first part of the question, Prisma Access we'll be seeing out there. Prisma Access is part of a 
+network transformation decision that the customer makes, and depending on how their current network operates 
+and what they want to make it look like going into the cloud, there can be hardware-based solutions or softwarebased solutions depending on whether it's a smaller footprint or larger data centers versus a larger footprint of 
+smaller branches or remote users. The architectures can vary so you can solve this problem with different 
+architecture and different products.
+But from our stand, I can tell you that our software-based solution, our software-based approach and our securityfirst approach is resonating with them because as we go to the cloud, the security is getting distributed. And they 
+want to make sure that as they start accessing mission-critical applications straight into the cloud or back to the 
+data centers that security is a priority. So we're seeing traction in that space. I'm sure there are many other 
+vendors out there who have different solutions which are adapted to their product portfolio.
+......................................................................................................................................................................................................................................................
+Kathleen Ann Bonanno
+Chief Financial Officer & Executive Vice President, Palo Alto Networks, Inc. A
+And in terms of product growth, we don't guide products specifically but you can tell from the guidance that we've 
+given both for Q2 and for the full year looking at typical trends that we've seen in the past in terms of products as 
+a percent of the total, you can I'm sure backend to what we're expecting for product pretty closely.
+......................................................................................................................................................................................................................................................
+Michael Turits
+Analyst, Raymond James & Associates, Inc. Q
+Thanks, guys.
+......................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc.
+Okay. So before I close, I want to thank everybody again for joining us today and I wish you and your family a 
+very safe and happy Thanksgiving. And we look forward to seeing many of you in the upcoming weeks at some of 
+our investor conferences. I also want to thank our customers and partners and employees around the world. Have 
+a wonderful evening.
+......................................................................................................................................................................................................................................................
+Operator: That will conclude today's conference call. Thank you for your participation. You may now disconnect.
+Palo Alto Networks, Inc. (PANW)
+Q1 2020 Earnings Call
+Corrected Transcript
+25-Nov-2019
+1-877-FACTSET www.callstreet.com
+23
+Copyright © 2001-2019 FactSet CallStreet, LLC
+Disclaimer
+The information herein is based on sources we believe to be reliable but is not guaranteed by us and does not purport to be a complete or error-free statement or summary of the available data. 
+As such, we do not warrant, endorse or guarantee the completeness, accuracy, integrity, or timeliness of the information. You must evaluate, and bear all risks associated with, the use of any 
+information provided hereunder, including any reliance on the accuracy, completeness, safety or usefulness of such information. This information is not intended to be used as the primary basis 
+of investment decisions. It should not be construed as advice designed to meet the particular investment needs of any investor. This report is published solely for information purposes, and is 
+not to be construed as financial or other advice or as an offer to sell or the solicitation of an offer to buy any security in any state where such an offer or solicitation would be illegal. Any 
+information expressed herein on this date is subject to change without notice. Any opinions or assertions contained in this information do not represent the opinions or beliefs of FactSet 
+CallStreet, LLC. FactSet CallStreet, LLC, or one or more of its employees, including the writer of this report, may have a position in any of the securities discussed herein.
+THE INFORMATION PROVIDED TO YOU HEREUNDER IS PROVIDED "AS IS," AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, FactSet CallStreet, LLC AND ITS 
+LICENSORS, BUSINESS ASSOCIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SAME, EXPRESS, IMPLIED AND STATUTORY, INCLUDING WITHOUT 
+LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, AND NON-INFRINGEMENT. TO THE 
+MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NEITHER FACTSET CALLSTREET, LLC NOR ITS OFFICERS, MEMBERS, DIRECTORS, PARTNERS, AFFILIATES, BUSINESS 
+ASSOCIATES, LICENSORS OR SUPPLIERS WILL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT 
+LIMITATION DAMAGES FOR LOST PROFITS OR REVENUES, GOODWILL, WORK STOPPAGE, SECURITY BREACHES, VIRUSES, COMPUTER FAILURE OR MALFUNCTION, USE, 
+DATA OR OTHER INTANGIBLE LOSSES OR COMMERCIAL DAMAGES, EVEN IF ANY OF SUCH PARTIES IS ADVISED OF THE POSSIBILITY OF SUCH LOSSES, ARISING UNDER OR 
+IN CONNECTION WITH THE INFORMATION PROVIDED HEREIN OR ANY OTHER SUBJECT MATTER HEREOF.
+The contents and appearance of this report are Copyrighted FactSet CallStreet, LLC 2019 CallStreet and FactSet CallStreet, LLC are trademarks and service marks of FactSet CallStreet, LLC. 
+All other trademarks mentioned are trademarks of their respective companies. All rights reserved.

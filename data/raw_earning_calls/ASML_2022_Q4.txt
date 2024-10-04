@@ -1,0 +1,140 @@
+Public
+Transcript
+Video interview with ASML CEO Peter Wennink
+Q4 FY 2022 results
+January 25, 2023
+Q4 2022 & FY results 2022
+Mr. Wennink, can you give us a summary of the fourth quarter and full year results 2022?
+Yes, let’s start with the fourth quarter. Let’s start with net sales. Net sales came in at about € 6.4 billion
+which is about the mid-range of our guidance. However, we were able to accelerate what we call fast
+shipments on DUV, also in Q4. Which actually was quite a significant number because if you would add the
+fast shipments to the €6.4 billion then the normalized sales for Q4 would have been €7.4 billion.
+For the total year, €21.2 billion in sales of which about €3.1 billion of fast shipments went into 2023. So the
+net effect of the fast shipments plus the revenue of €21.2 billion would give you a normalized revenue, if you
+would have booked the fast shipments as revenue, of €24 billion. Which is quite a significant increase as
+compared to last year. So that’s on the total sales.
+On Installed Base, about €1.7 billion of Installed Base sales which is higher than our guidance. That has to
+do with the fact that we had a pull-in of what we call field upgrades. Field upgrades from Q1 into Q4 which
+gave us an extra boost in sales in Installed Base.
+On the gross margin. A good gross margin number 51.5% in Q4. That is also the result of the pull-in of
+these field upgrades because they are high margin. And we had a one-off. We got an insurance settlement
+on the Berlin fire which happened last year. So that was a one-off. So for the total year: 50.5% gross
+margin. Pretty good.
+Net income, because that’s a result of the gross margin and all the cost, €1.8 billion in Q4 and €5.6 billion
+for the year. On bookings. Bookings were good in Q4. We booked over €6 billion in terms of booking
+leading to a record backlog by the end of 2022 of over €40 billion. Never seen that before. So a record
+backlog.
+So if you peel it off and you look at the year and you look at the quarter, then actually it was quite a good
+year, good performance under some challenging circumstances.
+Public
+Full Year and Q1 2023 outlook
+Can you provide your initial outlook for this year 2023?
+Like I said some challenging circumstances that we are currently facing. Clearly there is a fear of recession
+as driven by high inflation, high interest rates, geopolitical confrontations, discussions about export controls.
+On top of that we see a weaker demand for consumer related products such as smart phones and PCs. We
+see some lower growth rates in the data center domain. But strong demand and still in the industrial space,
+for instance automotive.
+So all in all, if you look at the situation today it’s not a surprise that our customers are currently seeing
+inventories rise. Because we see a lower demand in some of these areas. So inventory for chips is going
+up. And what is then the natural reaction what customers are doing to actually swiftly turn that, is to reduce
+the utilization of the machines in the installed base. This is what we are seeing. We are seeing that the
+utilization rates of our tools is going down. Our customers are swiftly adapting their output to reduce
+inventory. By doing that they hope and they expect that the industry will then recover in the second half of
+the year.
+That’s potentially being helped also by the recovery of the Chinese economy coming out of the Covid crisis.
+There is expectation that the industrial activity and thereby semiconductors will actually go up again in the
+second half of the year. So all in all, customers are expecting a better second half of 2023.
+What does that mean to us? Basically the situation for us is that the demand that we are currently seeing
+because of this is still much higher than what we can make. So why are we not affected then? Well, it’s a
+very simple conclusion that the expectation of the duration of a potential recession in the minds of our
+customers is much shorter than the average lead time of our machines. Because they want to prepare –
+because of the strategic nature of our machines – for an upturn in the second half of the year and 2024.
+That means that the demand is still higher than what we can make. That means that our plan is still to
+produce 60 EUV systems this year and 375 DUV systems. Around 25% immersion of that 375. Which
+actually means that we will see a significant step-up in the 2023 sales numbers.
+If you split it out over the different business sectors, then you’ll see that EUV business will probably grow
+about 40%, the non-EUV business about 30%, Installed Base business we will see some lower growth
+rates. That is logical. The utilization rates in the factory in the first time of this year will be down, so not a lot
+of field upgrades, it’s about 5%. Now if we add it all up we think that 2023 could give us an increase in sales
+of more than 25% over 2022. Which is a significant step-up from where we are today. Which is under the
+circumstances a pretty good foresight.
+Public
+What is your guidance for this quarter Q1?
+Basically Q1 is also a reflection of a very strong Q4. What I mean with this, is that we expect sales
+between €6.1 billion and €6.5 billion, about €1.5 billion of Installed Base sales. But like I said earlier, there
+has been – you could say – an acceleration of DUV shipments in Q4 that come from Q1. The same is true
+for field upgrades. So from Q1 2023 into Q4. So that is why we see this sales number not significantly
+higher than the fourth quarter.
+However, because we do see more than 25% increase for the total year, you could expect a growing
+quarterly sales number throughout this year. From a margin point of view in Q1, between 49% to 50%.
+That’s basically the reflection of lower Installed Base business basically because of the upgrades which is
+high margin business.
+What are your expectations for your gross margin for the full year 2023?
+We saw 50.5% for the total year 2022. Now there is a couple of building blocks for the gross margin in 2023.
+The first one is the volume. The higher volume. We have higher volume from 2023 as compared to 2022.
+Which means that in EUV and in DUV we’ll have a positive impact on the gross margin because of higher
+volume.
+On Installed Base, we see lower growth rates as we explained and we see then a lower level of field
+upgrades which is high margin business. So that could have as slightly negative effect on the gross margin
+for this year. Inflation, that’s on people’s mind. We do believe this year there will be a kind of a net zero effect
+because yes, we have higher inflation cost. But also we have inflation compensation from customers.
+Then the last point. We will see higher cost levels. That has to do with the buildout of the capacity that we
+need. Not only for 2023 but for 2024 and 2025. That is the capacity buildout in EUV, in DUV and in High-NA.
+That will lead to higher cost levels.
+So the year will start Q1 with gross margin between 49% and 50% but that will gradually increase throughout
+the year. I would like to add to that that is in fact on the trajectory towards our gross margin that we gave as
+a guidance for 2025 at our Capital Markets Day. Which we believe by that time, 2025 will be between 54%
+and 56% and between 56% and 60% by 2030. So we’re well on track.
+Export controls
+You just touched on it. The discussion around export controls and the geopolitical situation between
+China and the US. Can you give us an update?
+You said it: ‘geopolitical’. We’re businesspeople. We’re not politicians. I think there were some good
+comments made by our Dutch prime minister last week when he visited Washington and spoke to the US
+Public
+president. Actually the summary of his comments were, this is a multinational question that needs to be
+answered. It’s an issue between several countries. Not only the Dutch and the Americans, but several
+countries. And also multiple companies are involved with a complex supply chain. Upstream and
+downstream. It’s a complex industry. In fact what he said: ‘it’s a complex issue, it’s a sensitive issue. There’s
+a lot at stake, there are high economic stakes. So we have to find a balanced solution’. And that’s where the
+politicians are.
+I think it’s a fair reflection of where we are and I think there were some good comments made. Of course
+there have been media articles coming out that are basically speculating on what the potential outcome
+could be, but we just have to look at the facts. The facts are that nothing really changed since the October
+regulations that came out of the United States. Which actually means that we will not ship EUV to China for
+instance. But we can still ship DUV and metrology and inspection tools.
+Any further speculation on what the outcome might be doesn’t help. We just have to wait for the
+governments and the politicians to keep talking and come to a reasonable solution. That’s where we are
+today.
+Dividend and share buyback
+Can you update us on your capital allocation plans?
+Our capital allocation plans are actually quite consistent. We will generate a lot of cash because the
+company will grow quite substantially. Of course we will first use our cash to build the business.
+When we have done that, we’ll use the cash to pay a growing dividend. Any other cash left we will buy back
+shares. On the dividend, we’ll propose to the general meeting of shareholders a closing dividend of €1.69
+which will bring the 2022 dividend to €5.80. For Q1 we’re going to pay an interim dividend of €1.37. Now
+that’s for the dividend.
+On share buybacks we have announced on the Capital Markets Day our €12 billion program for the next
+three years. And like I said, any excess cash when used for our business and paid the dividend, we’ll use for
+the share buybacks.
+Longer term outlook
+What are your expectations regarding demand and your business beyond 2023?
+I think the medium to longer term future of the company is very bright. It is driven by the fact that
+semiconductor applications are growing at a significantly accelerated speed. Think about the big societal
+problems whether it’s electrification, the digital revolution, it’s the energy transition, everything you touch is
+semiconductors.
+Public
+It’s clear also the way we look at the world but also what analyst firms have looked into that this industry of
+our customers, the semiconductor industry, will grow to a trillion or trillion plus dollars by 2030. It actually
+means that we need to be able to provide our customers with systems and with services that will help them
+to make that output.
+That’s also why as we said at the Capital Markets Day we will, and we are continuously investing with our
+supply chain for a capacity of 90 EUV systems and 600 DUV systems by the 2025-2026 time frame and 20
+High-NA systems, next generation EUV, by 2027-2028. So if you take it all together and – depending on
+whether we are in a high market or low market by 2025 – by 2025 we could be anywhere between €30
+billion and €40 billion in sales. And also depending on whether we will be in a lower or higher market by
+2030. We think we will be between €44 billion and €60 billion in sales by that time.
+So no matter how you look at it, semiconductors are positioned extremely well. When it comes to growth and
+helping some of the large and big solutions for the big problems that we all face. I think we are looking
+forward to a very bright future. And perhaps, yes of course it will be short term issues that we have to deal
+with. But mid- to long term a very bright future and very strong growth.
+.

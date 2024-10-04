@@ -1,0 +1,123 @@
+Earnings growth continues, driven by strong sales across full product 
+Continued EUV progress enables ASML roadmap acceleration
+VELDHOVEN, the Netherlands, July 18, 2018 - ASML Holding N.V. (ASML) today’s Investor Call - 2018 second-quarter results.
+Peter Wennink
+Good morning / good afternoon ladies and gentlemen and thank you for joining us for our Q2 
+2018 results conference call.
+Before we begin the Q & A session Roger and I would like to provide an overview and some 
+commentary on the second quarter, as well as provide our view of the coming quarters. Roger 
+will start with a review of our Q2 financial performance with added comments on our short-term 
+outlook. I will complete the introduction with some additional comments on the current business 
+environment and on our future business outlook.
+Roger.
+Roger Dassen
+Thank you Peter and welcome everyone.
+I will first highlight some of the second-quarter accomplishments and then provide our guidance 
+for the third-quarter of 2018.
+Q2 net sales came in at 2.74 billion Euros, somewhat higher than guided driven by strong 
+demand across our full product portfolio.
+Net system sales of 2.09 billion Euros was nicely balanced between memory, at 54%, and Logic, 
+at 46%. EUV revenue of 667 million Euros, was a combination of revenue from four shipments, 
+one more than previously guided, and deferred revenue from previous quarters. As you know, 
+we are now recognizing the majority of revenue for an EUV system at the time of shipment.
+Installed Base Management sales for the quarter came in at 654 million Euros.
+Overall gross margin for the quarter came in at 43.3%, which was just above our guidance, 
+reflecting the strength of our DUV and Holistic Lithography business as well as progress in EUV 
+profitability.
+Overall OPEX came in slightly above guidance, with R&D expenses at 380 million Euros and 
+SG&A expenses at 117 million Euros.
+Turning to the balance sheet, after paying a total amount of 866 million Euros on dividend and 
+share buybacks, we ended last quarter with cash, cash equivalents and short-term investments 
+at a level of 2.98 billion Euros.
+Moving to the order book, Q2 system bookings came in at 1.95 billion Euros. 45% of the order 
+in-take was from logic customers. Memory made up the remaining 55% of order volume. The 
+bookings are mainly driven by the strong DUV business. We took one new EUV order in this
+quarter.
+€ 269 million Euros worth of shares were repurchased in Q2. This leaves around 2 billion Euros 
+of the 2018/2019 share buyback remaining. Additionally, we paid a dividend of 1.40 Euros per 
+share, valued at 597 million Euros. With that I would like to turn to our expectations and 
+guidance for the third-quarter of 2018.
+We expect Q3 total net sales to be similar to Q2 at between 2.7 billion and 2.8 billion Euros.
+Our total net sales forecast includes around 500 million Euros of EUV system revenue from five 
+EUV systems, which we target to ship in the quarter.
+Our EUV shipment plan is still 20 systems for 2018. We expect healthy EUV order flow in the 
+second half of the year in support of our 2019 shipment plan of at least 30 systems.
+We expect our Q3 Installed Base Management revenue to step up a bit from previous quarters 
+to around 700 million Euros. The service portion of this business is pretty stable whereas the 
+upgrade revenue is more dependent on system utilization. In the current business environment, 
+when systems are running at high utilizations, customers are less willing to take systems down 
+for upgrades.
+Gross margin for Q3 is expected to be between 47% and 48%, reflecting the growth in 
+profitability across all products. The higher R&D expenses for Q3 of about 395 million Euros are 
+due to an acceleration of the NXE:3400 roadmap and the high NA EUV program. SG&A is 
+expected to come in at about 120 million Euros.
+We remain excited about the balance of 2018. Customers' demand for our products continues to 
+be strong. We look forward to a year of continued strong growth in both revenue and profitability.
+With that Peter back to you.
+Peter Wennink
+Thank you, Roger.
+As Roger has highlighted, we had a good first half of the year and our business continues to 
+perform very well. The positive industry environment and increasing litho intensity continues to 
+drive strong demand in both logic and memory markets as customers migrate to more advanced 
+nodes, requiring our full suite of products. For the second half of the year we see strength in 
+DUV driven by memory and EUV driven by logic.
+After an excellent first half of 2018, we expect the second half to be stronger, with improved 
+sales and profitability as well as continued growth from Q3 to Q4.
+Logic demand continues to be solid as both existing and new market applications require more 
+high-performance compute power. Customers are preparing the ramp of the 7nm node which is 
+driving a significant increase in EUV demand. Given the progress made in EUV execution, there 
+is now increased customer confidence in the future logic roadmap. Furthermore, plans are being 
+put in place to secure the next generation High-NA EUV. Progress in high performance compute 
+requires similar advances in the memory roadmap execution for both volatile and non-volatile 
+memory.
+4
+Memory strength in both DRAM and NAND is driven by increasing content per device as well as 
+expanding end market applications. In DRAM, to meet the current bit growth demand 
+expectations of between 20-25%, we see customers continuing with technology migrations and 
+wafer capacity additions. As fewer bits are being supplied via technology node migrations, it 
+drives an increased need for wafer capacity additions. In NAND, with planned 2D to 3D NAND 
+conversions nearly finished, customers require new greenfield fab capacity. This along with 
+vertical scaling via stack of stacks, drives additional lithography demand. Significant investments 
+in greenfield fabs, although dampened by high NAND growth rates which are expected to stay in 
+the 40-45% range, may create some short-term volatility. In memory overall, we don't see any 
+structural supply imbalance concerns that would significantly change our positive view of this 
+market segment.
+On the ASML product side let me start with an update of our EUV business.
+• In EUV, we continue to make good progress as this technology ramps in volume 
+production. Priority continues to be on productivity or wafers per day, which is a 
+combination of system throughput and availability. On availability, we have made 
+significant improvements that have enabled four-week availability above 85% on a 
+number of systems with the latest configuration, our NXE:3400. On throughput, we have 
+customer systems running at 125 wafers per hour and have demonstrated performance 
+beyond 140 wafers per hour. Focused execution of our EUV program is enabling an 
+acceleration of our roadmap in terms of throughput, availability and overlay creating the 
+opportunity for value creation for both our customers and ASML. With this in mind, we 
+decided to accelerate some of the R&D spending to pull in these benefits. We are 
+working to finalize the configuration and specifications of this accelerated roadmap and 
+will provide an update later this year. These improvements will provide an even stronger 
+foundation for our EUV business going forward.
+• In DUV, we are now shipping the NXT:2000i system, which delivers increased customer 
+value via improved lithography performance. We are planning an aggressive ramp of 
+these systems in the second half of the year, driven by strong customer demand in both 
+memory and logic. 
+5
+• In Holistic Lithography, we continue to see growth across our full portfolio of software and 
+metrology products enabled by the continued integration of HMI's e-beam technology and 
+ASML's computational and control products. 
+To summarize 2018, we expect continued solid growth in both sales and profitability vs 2017. 
+After an excellent first half, we expect revenue in the second half to be stronger with an 
+improved profitability. We furthermore expect the growth to continue from Q3 to Q4.
+Regarding 2019, it is a bit too early to provide quantitative guidance but I will provide some 
+comments regarding our initial view on high level trends going into the start of next year. In 
+memory, we see strong DUV demand continuing with an initial EUV opportunity at more 
+advanced nodes. In logic, 7nm node will continue to ramp driving a further increase in EUV 
+demand, on top of solid demand in DUV. In our install base management segment, we expect 
+continued growth via service revenue from a growing install base as well as upgrade business 
+opportunity, although the latter is somewhat dependent on the customer's willingness to sacrifice 
+utilization in the period during upgrade. In summary, at present we currently expect the strong 
+growth that we experience this year to continue into 2019.
+We are well on track to achieve our 2020 targets with significant growth potential beyond 2020. 
+We plan to communicate our growth opportunity through 2025 at our Investor Day on November 
+8
+th this year.
+With that we would be happy to take your questions.

@@ -1,0 +1,852 @@
+Corrected Transcript
+1-877-FACTSET www.callstreet.com
+Total Pages: 18
+Copyright © 2001-2021 FactSet CallStreet, LLC
+28-Oct-2021
+Atlassian Corp. Plc (TEAM)
+Q1 2022 Earnings Call
+Atlassian Corp. Plc (TEAM)
+Q1 2022 Earnings Call
+Corrected Transcript
+28-Oct-2021
+1-877-FACTSET www.callstreet.com
+2
+Copyright © 2001-2021 FactSet CallStreet, LLC
+CORPORATE PARTICIPANTS
+Martin Lam
+Head-Investor Relations, Atlassian Corp. Plc
+Michael Cannon-Brookes
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc
+James A. Beer
+Chief Financial Officer, Atlassian Corp. Plc
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc
+.....................................................................................................................................................................................................................................................................
+OTHER PARTICIPANTS
+Keith Weiss
+Analyst, Morgan Stanley & Co. LLC
+Gregg Moskowitz
+Analyst, Mizuho Securities USA LLC
+James E. Fish
+Analyst, Piper Sandler & Co.
+Tyler Radke
+Analyst, Citigroup Global Markets, Inc.
+Michael Turrin
+Analyst, Wells Fargo Securities LLC
+Alex Zukin
+Analyst, Wolfe Research LLC
+Frederick Havemeyer
+Analyst, Macquarie Capital (USA), Inc.
+Arjun Bhatia
+Analyst, William Blair & Co. LLC
+Ittai Kidron
+Analyst, Oppenheimer & Co., Inc.
+Luv Sodha
+Analyst, Jefferies LLC
+Steven Koenig
+Analyst, SMBC Nikko Securities America, Inc.
+Ari Terjanian
+Analyst, Cleveland Research Co. LLC
+Joey Marincek
+Analyst, JMP Securities LLC
+Keith Bachman
+Analyst, BMO Capital Markets Corp.
+Atlassian Corp. Plc (TEAM)
+Q1 2022 Earnings Call
+Corrected Transcript
+28-Oct-2021
+1-877-FACTSET www.callstreet.com
+3
+Copyright © 2001-2021 FactSet CallStreet, LLC
+MANAGEMENT DISCUSSION SECTION
+Operator: Good afternoon. Thank you for joining Atlassian's Earnings Conference Call for the First Quarter of 
+Fiscal Year 2022. As a reminder, this conference call is being recorded and will be available for replay from the 
+Investor Relations section of Atlassian's website following this call.
+I will now hand the call over to Martin Lam, Atlassian's Head of Investor Relations. Please go ahead.
+.....................................................................................................................................................................................................................................................................
+Martin Lam
+Head-Investor Relations, Atlassian Corp. Plc
+Welcome to Atlassian's first quarter of fiscal year 2022 earnings call. Thank you for joining us today. On the call 
+today, we have Atlassian's Co-Founder and Co-CEOs, Scott Farquhar and Mike Cannon-Brookes; and our Chief 
+Financial Officer, James Beer.
+Earlier today, we issued a shareholder letter and press release with our financial results and commentary for our 
+first quarter of fiscal year 2022. The shareholder letter is available on Atlassian's Work Life blog and the Investor 
+Relations section of our website, where you'll also find other earnings-related materials including the earnings 
+press release and supplemental investor datasheet. As always, our shareholder letter contains management 
+insight and commentaries for the quarter. So, during the call today, we'll have brief opening remarks and then 
+focus our time on Q&A.
+This call will include forward-looking statements. Forward-looking statements involve known and unknown risks, 
+uncertainties, and other factors that may cause actual results, performance, and achievements to be materially 
+different from any future results, performance, or achievements expressed or implied by the forward-looking 
+statement. You should not rely upon forward-looking statements as predictions of future events.
+Forward-looking statements represent our management's beliefs and assumptions only as of the date such 
+statements are made, and we assume no obligations to revise such statements should they change or cease to 
+be current. Further information on these and other factors that could affect the company's financial results is 
+included in filings we make with the Securities and Exchange Commission from time to time, including the section 
+titled Risk Factors in our most recent Form 20-F and quarterly Form 6-K.
+During today's call, we will also discuss non-IFRS financial measures. These non-IFRS financial measures are in 
+addition to and are not a substitute for or superior to measures of financial performance prepared in accordance 
+with IFRS. Reconciliation between IFRS and non-IFRS financial measures is available in our shareholder letter, 
+earnings release, and investor data sheet on the IR website.
+During Q&A, please ask your full question upfront so that we can be fair and easily move through to the next 
+speaker. With that, I'll turn the call over to Mike for opening remarks.
+.....................................................................................................................................................................................................................................................................
+Michael Cannon-Brookes
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc
+Thank you all for joining us today. When Scott and I started Atlassian almost 20 years ago, we wanted to create 
+an amazing company where people love coming to work every day. We were recently named one of the World's 
+Best Workplaces for 2021 by the Great Place to Work. We're thrilled and humbled to be recognized among the 
+Atlassian Corp. Plc (TEAM)
+Q1 2022 Earnings Call
+Corrected Transcript
+28-Oct-2021
+1-877-FACTSET www.callstreet.com
+4
+Copyright © 2001-2021 FactSet CallStreet, LLC
+top 25 companies in the world in any industry in any country. We've won a lot of trophies over the years, but this 
+recognition is special. It's going straight to the pool room, as we say in Australia.
+In all seriousness, it's truly one of Scott and my proudest accomplishments. It is a testament to the true stewards 
+of our culture, the many thousands of Atlassians we have around the world who live our values every day. Your 
+resilience, passion and commitment inspire us. For all of you Atlassians listening, thanks for making this possible.
+As you've already read in our shareholder letter, our momentum continues as we kept winning in Q1 of fiscal 
+2022. We continue to deliver value to our customers and innovate across all three of our core markets. A great 
+example of this innovation is Jira Service Management. In its first year in the market, Jira Service Management 
+was named a visionary in Gartner's Magic Quadrant for IT Service Management, and its customer base grew to 
+over 35,000, up from 25,000 just one year ago. This is the result of a steady drumbeat of innovation and R&D 
+investment as we continue [audio gap] (00:04:12) better and better each and every quarter. And we apply the 
+same philosophy to our offerings in agile development and in work management for all.
+The continual improvement of our cloud platform is also what's driving our progress forward in the cloud. This 
+quarter, cloud revenue was up 53% year-over-year. We signed on to the Trusted Cloud Principles, joining as 
+initial signatories alongside Amazon, Google and Microsoft, in making a commitment to protect our customers' 
+rights, privacy and data in the cloud. Underscoring this commitment to our customers, we [ph] showed (00:04:48) 
+data residency in Australia this quarter on the heels of delivering this critical capability in Europe last quarter.
+With that, I'll pass the call over to the operator for your questions.
+.....................................................................................................................................................................................................................................................................
+QUESTION AND ANSWER SECTION
+Operator: Thank you. [Operator Instructions] And your first question comes from the line of Keith Weiss coming 
+from Morgan Stanley. Your line is now open.
+.....................................................................................................................................................................................................................................................................
+Keith Weiss
+Analyst, Morgan Stanley & Co. LLC Q
+Excellent. Thank you, guys, for taking the question, and congratulations on a great quarter. I was hoping you guys 
+could help dig in a little bit into the work management opportunity. From the outside, it seems like a massive 
+expansion of the TAM for you guys that you've been working on for a while, but there's also a lot of products that 
+you have that seem to target it; Jira Core, you have Trello, you have a Confluence. Can you help us understand 
+kind of the solution portfolio, what specifically in work management are you trying to target? And like, what's the 
+competitive dynamic in terms of where you guys are going at?
+.....................................................................................................................................................................................................................................................................
+Michael Cannon-Brookes
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Yeah. Thanks, Keith. I can take that one off the bat. Look, teamwork is very complex, we know that. There's no 
+one correct way or one single way to work or collaborate. That's why you see us in the work management for all 
+space in the market, taking a multi-product approach, and investing heavily in our platform. So, you've seen us 
+mentioned Jira Work Management, continues to go from strength to strength every quarter. We added a whole 
+bunch of great new early customers, UiPath, Avalara, SeaWorld, Bayer, who are taking the Jira family well 
+beyond the initial audiences that we had, I suppose.
+Atlassian Corp. Plc (TEAM)
+Q1 2022 Earnings Call
+Corrected Transcript
+28-Oct-2021
+1-877-FACTSET www.callstreet.com
+5
+Copyright © 2001-2021 FactSet CallStreet, LLC
+Again, about half of our Jira audience is non-technical teams today, and we expect that to continue to improve 
+and fuel our growth in that area. At the same time, Trello continues to do well, Confluence continues to do 
+extremely well. And as you've seen from our Point A program with products like Team Central, we really have a
+very comprehensive offering, I would say, in that space, all built on our platform story. So, we keep talking about 
+world-class automation, analytics, smarts. That is our ability to invest in the R&D to make that platform amazing 
+for every team in every company, and continuing to fill out the story across the products and making sure they 
+work well together. We're obviously extremely excited where we sit and how we're performing in that market.
+.....................................................................................................................................................................................................................................................................
+Operator: Thank you. Your next question comes from the line of Gregg Moskowitz from Mizuho. Your line is now 
+open.
+.....................................................................................................................................................................................................................................................................
+Gregg Moskowitz
+Analyst, Mizuho Securities USA LLC Q
+First of all, congrats, James, on all of your accomplishments and a very well-deserved retirement. And, Mike, just 
+on a personal note, I wanted to congratulate you and your wife on your Green Pledge, and to thank you for all the 
+help that that will provide.
+My question relates to the cloud and product pricing. You recently made the decision to raise cloud pricing, which 
+isn't something, quite frankly, that we've seen recently from Atlassian. What gave you the confidence to do so 
+given that many of your customers are still early in their journey towards the cloud?
+.....................................................................................................................................................................................................................................................................
+James A. Beer
+Chief Financial Officer, Atlassian Corp. Plc A
+Well, great. Thank you very much for the thoughts there. The first thing I'd say is it just really reflects the strength 
+of the underlying growth of our cloud business. And that, of course, is all driven by the very significant value that 
+we're delivering for our customers via these cloud services. You know that we've been putting very significant 
+investment into our cloud products for a number of years now. And we always, from a philosophical perspective, 
+want to be a terrific value. Nothing in that notion has changed. But nonetheless, I think there is an opportunity for 
+us to move pricing along as we have published just a few weeks ago by the order of about 5% across Jira 
+Software and Confluence in particular.
+So, I think it's just illustrative of the investment that we've put in and how that's working out well for our customers. 
+We had – have had now in a few of our shareholder letters, examples, quotes from customers talking about the 
+savings that they enjoy when they implement our cloud products. When they look at the total cost of ownership, 
+they're realizing that it makes sense for them from a cost equation. And of course, often times more important for 
+these customers, they're able to, in essence, take their people and have them work on higher value-added tasks. 
+Our software is able to do so much of the lower value-added work for them. I just think it's a terrific example of our 
+long-term orientation to R&D investing.
+.....................................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+And Gregg, I was going to add some things to James there. I think he answered that really well. We've had a 
+long-term philosophy of optimizing prices, and we've, over the years, raised prices, we've lowered prices, we've 
+introduced new tools in addition both at the low end for free, at the high end with premium and enterprise. And our 
+philosophy has evolved over the years, so it's more towards frequent, smaller price changes. And as someone 
+that gives our prices publicly available on a website, which is different to most enterprise software companies, you 
+can see those changes. And [ph] if not (00:10:50) from the outside, looks like we're making more changes than 
+Atlassian Corp. Plc (TEAM)
+Q1 2022 Earnings Call
+Corrected Transcript
+28-Oct-2021
+1-877-FACTSET www.callstreet.com
+6
+Copyright © 2001-2021 FactSet CallStreet, LLC
+other people, but I think it's a result of that philosophy and the fact that we're public about how we interact with our 
+customers. And our philosophy is always to be sure that we provide the best value for in whatever price our 
+customers have to pay and be a no-brainer for our customers to engage with and buy Atlassian. And so you'll 
+continue to see us do this as we have over the last 20 years.
+.....................................................................................................................................................................................................................................................................
+Operator: Thank you. Your next question comes from James Fish from Piper Sandler. Your line is now open.
+.....................................................................................................................................................................................................................................................................
+James E. Fish
+Analyst, Piper Sandler & Co. Q
+And then – and, James, congrats on the retirement ahead of time. I wanted to touch upon the data residency. 
+You're offering it in four locations now across three continents. I guess, what areas are you guys expected to 
+expand to or seeing the largest demand for this that you aren't addressing today? And has there been any delays 
+in customer decisions at all between – deciding between data center versus cloud editions at all? And any sense 
+about mix between data center and the cost kind of product lines? Thanks, guys.
+.....................................................................................................................................................................................................................................................................
+Michael Cannon-Brookes
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Thanks, James. I can certainly take the first part of that question, I'll leave the second, the mix shift part to James. 
+Look, for sure we won't start a center in Australia this quarter. We had the [ph] example of Commonwealth Bank 
+(00:12:16), one of the largest banks in Australia and one of the largest banks in the world, move to our cloud, tens 
+of thousands of users as a result of not just our residency in Australia, but all of the performance and scale 
+improvements, compliance, legal – regulatory improvements we've made in our enterprise platform, from access 
+to premium and enterprise to support for all the different standards that we support.
+So, that's, I would say, a generalized part of our enterprise cloud journey as we continue to make sure we can 
+support the needs of our largest customers in the cloud. We continue to build out our infrastructure platform that 
+we can roll out new geographies faster and faster. Each one we roll out is a little quicker than the one before and 
+unlocks some portion of customers to move. As always, we continue to be R&D first, so working on automating 
+that so that it works. And secondly, customer-led, so we build out those geographies as we learn from customers 
+about where the greatest needs are. But we expect to continue to have more data residency in more areas of the 
+globe as we work with our customers.
+.....................................................................................................................................................................................................................................................................
+James A. Beer
+Chief Financial Officer, Atlassian Corp. Plc A
+On the cloud DC, data center, mix, I'll touch on that one. But just a bit of background, [indiscernible] (00:13:40) big 
+transitions and customer transition for like there's always the chance if you do them wrong, you could end up in 
+the dog house. But that is not all what's happening here, we've done such a great job across our customers, 
+across our partners.
+And just to give you some stats, our channel partners sales were up 300% year-on-year in terms of selling cloud 
+content to what they were a year ago. We're seeing great command from new customers on top of migrations and 
+great customer stories like Castlight Health moved 1,200 users, including 50 apps from server to cloud, [ph] I 
+mean, Commonwealth Bank (00:14:19) you mentioned is huge, highly regulated industry in Australia in banking 
+moved in tens of thousands of their users across from DC to cloud, so really excited by that.
+On the DC to cloud mix, as we said, this is a multi-year transition for our biggest customers, and we still expect a 
+large portion of customers to move over the coming years, and that is as our customers build up their capability 
+Atlassian Corp. Plc (TEAM)
+Q1 2022 Earnings Call
+Corrected Transcript
+28-Oct-2021
+1-877-FACTSET www.callstreet.com
+7
+Copyright © 2001-2021 FactSet CallStreet, LLC
+and engage with the transition. And in the meantime, while that's happening, they're still buying DC. We're seeing 
+a lot of customers expand the usage of DC as they prepare, and that speaks to the quality of our products, and 
+the demand for what we provide is that they are still processing kind of as they make their migrations to cloud.
+Can you give some comfort around people not being stuck in DC, like were really comfortable with that transition 
+point? 30% of our cloud migrations are coming from data center customers today. And so, we do see a lot of our 
+customers maybe go from server to DC to cloud or have been in DC for many, many years and making that 
+migration to cloud or not ready just yet but still doubling down on their investments with Atlassian. So, I think what 
+you can take away from that is our customers are just continuing to commit themselves to Atlassian.
+.....................................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+If I could just pile on a little further with one other factoid to support that, when you think about the cloud business, 
+we're obviously pleased with the 53% growth that we recorded year-over-year in Q1. As we think about 
+migrations, yes, obviously, this is an important initiative for the company. But I'm only expecting migrations to 
+drive approximately mid-single-digit growth for us in that cloud – in the subscription revenue line, so relatively 
+modest growth driver for us. And that just really illustrates how we're going nicely in terms of user expansion, 
+selling premium additions. The free-to-paid funnel is working well, and churn is working well as well.
+.....................................................................................................................................................................................................................................................................
+Operator: Thank you. Your next question comes from the line of Tyler Radke from Citi. Your line is now open.
+.....................................................................................................................................................................................................................................................................
+Tyler Radke
+Analyst, Citigroup Global Markets, Inc. Q
+Yeah. Thanks for taking the question. Echo my congrats to you, James. You referenced in the shareholder letter 
+just some tougher comps in the second half on the data center side. I'm curious how we should think about the 
+trajectory of cloud growth from here. Obviously, there's a lot of dynamics between the cloud price increase and 
+just some of the things than last year. So, would you expect that the cloud growth has tougher comps in the 
+second half as well or do you think that can kind of sustainably grow at the rate that we saw here in Q1?
+.....................................................................................................................................................................................................................................................................
+James E. Fish
+Analyst, Piper Sandler & Co. A
+Thanks for the question. I mean, what we've said, this was a quarter or so ago, for fiscal 2022 we would expect 
+our rate of the growth to be accelerating year-over-year, full year-over-full year. And certainly, yes, you're right, we 
+had a particularly strong back half for the data center business. Recall how in Q3 of last year we had quite a lot of 
+customer activity where they stepped in front of price increases both on the server and the data center products. 
+And then, of course, Q3 was also the quarter last year in which we ceased new server license sales.
+Now, we'll see how that plays out this coming Q3. We've already announced, of course, this coming year that we 
+will cease selling server license upgrades. So, the cloud business that I was just saying remains in very good 
+shape, very much consistent with the significant investing that we've been doing in that over recent years, and we 
+plan to continue to do that. So, we're very enthused as to how the underlying business is performing.
+And in terms of migrations, I was mentioning that some smaller component of growth that that will drive. If you just 
+take a step back and think about the migrations timeline, I would say we're very much on track with what we've 
+been talking about now for the last year plus or so. So, we're pleased by our progress there, and we've talked in 
+the past about how we have a good portion of that migration work to do in fiscal 2023 and beyond.
+.....................................................................................................................................................................................................................................................................
+Atlassian Corp. Plc (TEAM)
+Q1 2022 Earnings Call
+Corrected Transcript
+28-Oct-2021
+1-877-FACTSET www.callstreet.com
+8
+Copyright © 2001-2021 FactSet CallStreet, LLC
+Operator: Thank you. And your next question comes from Michael Turrin from Wells Fargo. Your line is now 
+open.
+.....................................................................................................................................................................................................................................................................
+Michael Turrin
+Analyst, Wells Fargo Securities LLC Q
+Hey, there. Thanks. Congrats on another impressively clean quarter here. You're still adding nearly 12,000 net 
+new customers. Appreciate the updated disclosures there. Could you help step through what's driving that 
+continued top of funnel strength? How should we think about Q1, maybe relative to the pace you can deliver 
+throughout the course of the year as the environment normalizes? And it looks like Jira Service Management, I 
+know you commented on at the onset here added 5,000 customers at least versus prior disclosure. Can you just
+provide an update on some of the adoption trends or interest levels you're seeing there? The upcoming World 
+Tour looks interesting as well. Thank you.
+.....................................................................................................................................................................................................................................................................
+James E. Fish
+Analyst, Piper Sandler & Co. A
+Well, I can start off on that one. Yeah. First of all, [indiscernible] (00:20:29) by the incremental customer count 
+number that we've published today, [indiscernible] (00:20:35), that reflects, I think again, how if people are very 
+much embracing digital transformation, embracing remote work, I think the compatibility of our product set seems 
+clear, and so we're very encouraged by that. Certainly, Q1's number of over 11,700, it was a nice contrast to last 
+Q1 where the number was a little over 6,700, so remarkable strength year-over-year. Yes, the number will move 
+around quarter to quarter. We've traditionally said that. But we're very much focused on [audio gap] (00:21:26) to 
+optimize our top of funnel activity.
+I think last quarter in Q4 was one that particularly benefited from some of our free-to-paid optimizations. Now, 
+that's an ongoing process. We work at that constantly. And that's another driver of how we continue to expand our 
+customer base. Recall now that new customers drive a relatively small proportion of our in-period revenue of the 
+order of around 10%. But it's those new customers where we continue to grow the user base quarter-over-quarter, 
+year-over-year into the future, and we've done that very consistently.
+.....................................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Thanks for the great job of answering the specifics on the number. I do want to call out one thing which is our Jira 
+Service Management product is that we're at 35,000 customers, up from 25,000 when it rolled out a year ago. 
+And we're really pleased by the market [audio gap] (00:22:31) Jira Service Management really resonating with 
+customers from very small for whom like it might be the only solution that has the feature set for them, to the 
+larger customers who are really resonating and looking to move from other vendors out there due to the fact that 
+it's got just way faster time to value. It's got way [indiscernible] (00:22:52) total cost of ownership and way easily 
+more flexible for them to adopt and extend, and so we're seeing a lot of customers adopt.
+.....................................................................................................................................................................................................................................................................
+Michael Cannon-Brookes
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+If I might just add something on a philosophical level there. Two-and-a-half years ago, I think we wrote in our 
+shareholder letter that we were going to double down on the opportunity we saw in IT. And since then, you've 
+seen us do what we classically do, which is deliver against those words that we told you we were going to do. 
+Through the acquisition of Opsgenie, the integration of CMDB, the improvements in asset managements, and 
+then the launch of Jira Service Management bringing software and IT close together, that's a proof point that Scott 
+Atlassian Corp. Plc (TEAM)
+Q1 2022 Earnings Call
+Corrected Transcript
+28-Oct-2021
+1-877-FACTSET www.callstreet.com
+9
+Copyright © 2001-2021 FactSet CallStreet, LLC
+mentioned of delivering against an opportunity in IT. We have many, many more opportunities in front of us that 
+we're investing against, as we said, but hopefully it's a proof point that we do what we tell you we're going to do.
+.....................................................................................................................................................................................................................................................................
+Operator: Thank you. Your next question comes from the line of Alex Zukin from Wolfe Research. Your line is 
+now open.
+.....................................................................................................................................................................................................................................................................
+Alex Zukin
+Analyst, Wolfe Research LLC Q
+Hey, guys. Thanks for taking my question. First of all, it's a pleasure to be covering you guys. Maybe just the big 
+picture question around cloud. From the perspective of cloud [audio gap] (00:24:41) start thinking about your 
+original expectations specifically for your enterprise cohort. Can you help us understand how you feel differently 
+or any level of incremental confidence in potentially migrating that cohort sooner than you planned or any 
+guidance on that progression from a timeline perspective?
+And separately, as we think on a broader spectrum, your offering being so much more broad-based in the cloud, 
+what are you seeing with respect to cross-sell and upsell opportunities within that cohort and customer base 
+versus maybe your initial plans?
+.....................................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+I'll cover the first one. In terms of enterprise cohort and migrations, nothing has changed from what we've outlined 
+previously, which is it's going to take – it's a multi-year journey, and we need to do some work on our end to 
+accommodate different regulations in different areas, and data residency and some engineering things on our 
+side. And customers, them moving some of these large systems can be a month – a multi-month-long process 
+that they need to do to make sure that they can do the change management for their employees. And so nothing's 
+changed along those lines. We are seeing great customer demand at all levels in terms of migrating clouds, and 
+they all know that cloud is the destination, they're really excited by it. As James and others mentioned, the total 
+[audio gap] (00:25:46) is significantly lower for them. So, I would say that we're attracting as we expected, and 
+really pleased with that progress.
+Michael, do you want to talk about the cross-sell and upsell?
+.....................................................................................................................................................................................................................................................................
+Michael Cannon-Brookes
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Sure. Alex, look, the way we think about this is cross-sell and upsell expanding the users and the penetration, the 
+use cases, within our customers, is an inherent and deeply built part of our DNA, and it has been within a multiproducts company for an awfully long time now. When you hear us talk about our three markets in terms of agile 
+DevOps, ITSM and work management role, there are lots of overlap opportunities, both in the customers between 
+us and in the products. So, you see obviously Jira Service Management working alongside Jira Software to get 
+developers and IT admins closer together in delivering value. That is both a purposeful strategy on our behalf and 
+also purposefully built into the platform and all of the shared infrastructure that we use.
+So, things like automation, our Forge and connect extensibility platforms, all of the user experiences, things like 
+the editor and other things that are common across those products is an intentional part of that journey. You also 
+see us in our Point A program, continuing to innovate and deliver new offerings, you can see that in Compass, in 
+agile DevOps space, in Team Central, in the work management for all space, looking at goals and status updates 
+and help, and the culture and humanistic side of teams and people and how they come together, how work is 
+Atlassian Corp. Plc (TEAM)
+Q1 2022 Earnings Call
+Corrected Transcript
+28-Oct-2021
+1-877-FACTSET www.callstreet.com
+10
+Copyright © 2001-2021 FactSet CallStreet, LLC
+actually delivered across projects, goals, metrics, strategies, help, and the teams that actually deliver that. Our 
+platform enables us to move our users around to where they get most value from our product family, and they 
+continue to get better and better at that. Every quarter, I would say, we improve on how we do that.
+The last part is inherently tied into our philosophies around pricing. So, we talk a lot about free and how that's 
+changed and obviously accelerated the movement of new customers. It also has a huge effect on cross flowing of 
+users because you can move from product A to product B, but there's no payment. There's no charge for product 
+B until you started to see value to deliver value. We've always talked about getting value to customers first. We 
+pay our [ph] second (00:28:15) for the values that's being delivered. So, free actually plays into both the platform 
+story in the cloud and also the three major markets and all the new innovation and products we have coming up 
+targeting those markets. So, hopefully that gives a sense of how holistically all works together in our thinking.
+.....................................................................................................................................................................................................................................................................
+Operator: Thank you. Your next question comes from the line of Fred Havemeyer from Macquarie. Your line is 
+now open.
+.....................................................................................................................................................................................................................................................................
+Frederick Havemeyer
+Analyst, Macquarie Capital (USA), Inc. Q
+Hi. Thank you and congratulations, just to echo what most others have said on a very solid quarter here. And 
+James, it's been a pleasure working with you, and looking forward to continue working with you as you transition, 
+and all the best with the retirement. So, I'd like to ask you about cybersecurity here. During the quarter, there was 
+that Confluence [ph] exploit (00:29:05) the older on-premise versions of Confluence in which you quickly 
+mitigated. All software eventually will have an [ph] exploit (00:29:13) discovered. But it was notable here is that 
+Atlassian's cloud products were immune to the [ph] exploit of those in the wild (00:29:19). I'm curious, did you see 
+any customers accelerating their server to cloud migration pathways around this event? And then also more 
+generally, how do you think about Atlassian's approach to cybersecurity across your different deployment 
+models?
+.....................................................................................................................................................................................................................................................................
+Michael Cannon-Brookes
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Hi, Fred. Look, obviously that security in software and technology is an incredibly hard challenge, one that 
+continues to get harder all the time. One of the ways we can fight them is by having an absolutely world-class 
+security team, which we do have, continuing to work day in, day out on behalf of our customers and securing 
+them. The Confluence incident that you talked about, again, had already been patched. It was already – we had 
+shipped the updates and everything else in time, and it was a question of how fast the customers updated their 
+own software.
+One of the benefits of the cloud, as you point out, is that we do that for them. So, we had done that 
+instantaneously on behalf of all of our hundreds of thousands of customers without them even having to wake up. 
+So, we can do that overnight, we can do that for them, we can roll it out instantly and fast. We can also do a lot of 
+other analyses, obviously, in the cloud, and that's one of the benefits of SaaS software in general, is we are really, 
+really, really good at running our own applications as you expect us to be. We are the best in the world at running 
+our own products, securing them, scaling them. And that is the benefit of our cloud for those enterprise 
+customers.
+I don't have any directional data on whether that's affected the general migration timeline, but I can tell you that 
+it's certainly one of the advantages that our customers see, especially the larger they get, but also on the small 
+ones. We should – we often talk about security in large companies, but small companies, our work line is far 
+Atlassian Corp. Plc (TEAM)
+Q1 2022 Earnings Call
+Corrected Transcript
+28-Oct-2021
+1-877-FACTSET www.callstreet.com
+11
+Copyright © 2001-2021 FactSet CallStreet, LLC
+better than whatever security team they have in-house, because if you're a 10 or 20-person company, that stuff's 
+really, really, really hot. And so, it's baked into our DNA and I think it's yet another advantage of the migration to 
+Atlassian's cloud.
+.....................................................................................................................................................................................................................................................................
+Operator: Thank you. Your next question comes from the line of Arjun Bhatia from William Blair. Your line is now 
+open.
+.....................................................................................................................................................................................................................................................................
+Arjun Bhatia
+Analyst, William Blair & Co. LLC Q
+Yes. Perfect. Thank you very much and congrats on a great quarter again. I want to maybe dig a little bit deeper 
+into Jira Service Management, I think you called out the strength in customer growth. Since you've launched this 
+new offering that fumbled in Jira Service Desk and Opsgenie and other functionality like [indiscernible] (00:31:58), 
+have you noticed a change in the type of customer that is adopting Jira Service Management versus the prior Jira 
+Service Desk, [indiscernible] (00:32:09) more sophisticated customers, more enterprise deployment there as this 
+offering has scaled?
+.....................................................................................................................................................................................................................................................................
+Michael Cannon-Brookes
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Yeah. Thanks, Arjun. Great question. Obviously, in the ITSM space, we think we are extremely uniquely 
+positioned. We're the only vendor that can bring together your software teams with your IT teams in a single pane 
+of glass, in a singular platform that's both comprehensive and modern, and that gives us a real leg up into 
+customers managing their IT workflows, but also managing the workflow that IT is responsible for on behalf of 
+other teams in the business.
+So, one of the biggest changes we've seen since Jira Service Management's release is not only IT teams 
+adopting it in ever greater numbers with things like Forge and automation and all the other things that come in the 
+box, as well as obviously the asset management, the inclusion of Opsgenie and rostering for modern service 
+management and paging operations. We continue to see that resonating really, really strongly with the IT teams. 
+What we're seeing is the family of products that we deliver, though, increasingly are seen as visionary by – as 
+was noted earlier by Gartner [ph] but in others (00:33:31) in terms of how we play across not just Jira Service 
+Management – and even Jira Software and Jira Service Management, but in things like Confluence and how that 
+comes together in Jira Work Management to enable IT teams to deliver applications at very, very low cost on top 
+of the Jira platform to the already familiar users. And obviously, in things like Compass and our Point A program 
+for managing their software components and digital assets, which is incredibly complicated for customers to deal 
+with at the moment, and then through things like Team Central to the more cultural aspect.
+So, I think what's resonating with IT teams is not just Jira Service Management, although obviously that's doing 
+extremely well at the moment, is the offering that we can show to an IT administrator or a CIO or a CEO about 
+how we can help them across their digital transformation, all the things the IT team is responsible for, not just their 
+own data they work.
+.....................................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+And if I could just add on one thing to what Mike was saying there, we've spoken earlier about our pricing 
+philosophy as always being oriented on excellent customer value. I think Jira Service Management is a classic 
+example of where we're an exceptionally good value and our customers are recognizing that.
+.....................................................................................................................................................................................................................................................................
+Atlassian Corp. Plc (TEAM)
+Q1 2022 Earnings Call
+Corrected Transcript
+28-Oct-2021
+1-877-FACTSET www.callstreet.com
+12
+Copyright © 2001-2021 FactSet CallStreet, LLC
+Operator: Thank you. And your next question comes from the line of Ittai Kidron from Oppenheimer. Your line is 
+now open.
+.....................................................................................................................................................................................................................................................................
+Ittai Kidron
+Analyst, Oppenheimer & Co., Inc. Q
+Thanks and congrats on great quarter, and James, all the best and good luck. I guess I have a question regarding 
+the data center growth this quarter, which was very strong. And I'm trying to think about whether the growth there 
+really reflects more server customers preferring to stay on-premise and shift to data center rather than move to 
+the cloud. So, maybe you can talk about what's driving the data center growth. How do you think about the tradeup from server into cloud versus data center?
+And also for, I guess, the transition to the cloud, in the past, you've kind of talked about the transition being likely 
+backend-loaded and it sounds like it's going to attract. But you also talked about medium and large-sized 
+customers being more at the back end of this transition rather than the front of it. Does that still hold or are you 
+seeing the larger customers actually move early rather than – sooner rather than later?
+.....................................................................................................................................................................................................................................................................
+James A. Beer
+Chief Financial Officer, Atlassian Corp. Plc A
+Hi, Ittai. [indiscernible] (00:36:11) the thoughts there – oh, Scott, you jump.
+.....................................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+So I'll just jump in, first of all, and James will answer the more specific sort of finance questions. I don't have too 
+much to add beyond sort of the earlier answer, which is that our customers want Atlassian products, and we see 
+really strong demand for our products. And the customers can't yet move to our cloud. They're choosing to invest 
+in our DC products where they can go straight to the cloud. We're seeing increasing demand for – and obviously, 
+for our new customer numbers and our cloud revenue numbers are all showing great strong demand for our cloud 
+offerings. As I said, like DC is, by no means, a dead end. It is basically a stepping stone towards cloud. And we're 
+seeing that with 30% of our cloud migrations coming from DC. So, I feel really great about that. I think DC growth 
+will continue to be strong as our customers continue to adopt Atlassian's products and make their choice to move 
+to the cloud.
+James, [ph] do you want to talk (00:37:14) through some specifics?
+.....................................................................................................................................................................................................................................................................
+James A. Beer
+Chief Financial Officer, Atlassian Corp. Plc A
+Yeah. Just to add on a couple of things, Ittai, recall that we have raised prices on the data center products, 
+around 15% that got implemented in Q3. So as the courses go by, you see that effect coming through. The other 
+thing I'd add is that we did see that unusual volume of data center activity in Q3. Now, much of that showed up in 
+the revenue results in Q3. But also, there was a significant deferred revenue balance that got generated in Q3. 
+And so, the subsequent quarters, Q4, now Q1, have also benefited from some of the roll-off of that revenue 
+balance as well.
+And as to the timetable part of your question, I would expect that we would continue to see the bigger proportion 
+of migrating customers, be the larger, medium-sized customers migrating in fiscal 2023 and beyond. They have 
+the most complex requirements and so forth. So, I think that continues to be our expectation that we're very much 
+tracking along to the original sphere that we gave you on the migration timetable.
+Atlassian Corp. Plc (TEAM)
+Q1 2022 Earnings Call
+Corrected Transcript
+28-Oct-2021
+1-877-FACTSET www.callstreet.com
+13
+Copyright © 2001-2021 FactSet CallStreet, LLC
+Operator: Thank you. Your next question comes from Brent Thill from Jefferies. Your line is now open.
+.....................................................................................................................................................................................................................................................................
+Luv Sodha
+Analyst, Jefferies LLC Q
+Hi. This is Luv Sodha on for Brent Thill. Congrats on a great start to the fiscal year and congrats, James, on an 
+amazing run. I wanted to ask a couple questions. One was as part of the price changes this year, you also offered 
+some incremental pricing discounts for the enterprise customers. So, I wanted to ask whether that is to incentivize 
+more enterprise customers to move to the cloud and will that have a bigger impact on the migration pace or 
+should we expect seeing the discounts that you have in place to have a bigger impact?
+And then, my second question was around the opportunity from Standard to Premium. Could you help us think 
+about that opportunity set? What percentage of your customers are on the cloud Standard edition and how would 
+you move them to premium? Thank you.
+.....................................................................................................................................................................................................................................................................
+Michael Cannon-Brookes
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Well, thanks for the question. In terms of the enterprise-sized customers and pricing, we've got at least a couple 
+of things going on in recent months. Back in July, what we published were, in essence, extensions of our pricing 
+curves. Previously, the pricing curves had accommodated small or medium-sized-type customers, but 
+increasingly, we're seeing larger customers looking to move to the cloud. So, we extended those pricing curves to 
+larger user levels, very much consistent with the way our pricing curves in the data center business, on the server 
+business, have been designed. And so, perhaps not surprisingly, the larger number of users you commit to, the 
+somewhat lower would be the per user price. So, what you saw us publishing in July was just reflecting the reality 
+that larger customers are now moving over to the cloud, so we needed to update our pricing.
+The other theme that's relevant in terms of migrations for these larger customers, of course, are the loyalty 
+discounts that we've had in place now for quite a while. And as of July 1, just passed, we reduced the 
+attractiveness of those discounts. They're still very attractive, so 40% discount for server customers moving over 
+to the cloud, for example. And those stepped down over time. There will be another step-down next July 1. And 
+so, those have worked, I think, quite nicely to encourage some of the larger enterprises to begin their movements 
+to the cloud, consistent with how we've expanded the capabilities of our cloud offerings.
+In terms of the second part of your question around Standard edition and so forth, we've been really pleased with 
+the take up of our Premium edition. More recently now, Enterprise edition is also off to a good start. So, we're 
+pleased with that strong Premium adoption. We've noticed, perhaps, not surprisingly, that our Premium edition 
+customers have lower churn rates and so forth. So, we will continue with our philosophy and history of adding 
+more functionality, more – making those Premium editions more attractive to our customers. And so, obviously, at 
+the end of the day, it's their decision, but we're enthused by the future for our Premium and Enterprise editions.
+.....................................................................................................................................................................................................................................................................
+Operator: Thank you. Your next question comes from Steve Koenig from SMBC Nikko. Your line is now open.
+.....................................................................................................................................................................................................................................................................
+Steven Koenig
+Analyst, SMBC Nikko Securities America, Inc. Q
+Hi, there. Thanks, Atlassian. I will echo my congratulations as well on a real solid quarter. So I'm newer to 
+Atlassian, but I haven't seen the disclosure on revenue by deployment. And if that's new, as I think it is, my kudos 
+Atlassian Corp. Plc (TEAM)
+Q1 2022 Earnings Call
+Corrected Transcript
+28-Oct-2021
+1-877-FACTSET www.callstreet.com
+14
+Copyright © 2001-2021 FactSet CallStreet, LLC
+to you for putting in that revenue by deploying that. Really very helpful. You've given plenty of color around like 
+data center trend. I'd like to ask a question focused more about cloud here as you look to customers moving to 
+cloud. Are there particular products and capabilities that will be more instrumental that'll be key to driving 
+customers to cloud, and particularly, larger customers later in time and/or pricing and packaging options that you 
+might be considering as well? Thanks very much.
+.....................................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+It's Scott here. And so, Michael has some stuff to add on here. In terms of products and capabilities, we're really 
+excited by cloud, which well over 90% of our new customers are choosing our cloud products today. And so, 
+we're – we feel like that's the default choice for anyone investing in Atlassian today. For some of our existing 
+customers, the areas, and I think we've highlighted this before, is that you – our ecosystem is [ph] effectively as all 
+of the (00:44:42) apps that people have behind the firewall and our [ph] system have (00:44:47) jumped on that 
+and build apps for the cloud and so forth, but there's a bit of a more of a stickiness in sort of moving people across 
+from that like our cloud vendors need to provide migration pads. So, that's an area of investment for us.
+As Mike mentioned earlier in the call, data residency and certifications in certain areas are an area that we 
+continue to invest in. I don't think you never have data centers close enough to your customers for performance 
+and regulation reasons. And so, that'll probably going to be done, but we're continuing to invest in those areas
+and certifications, which is a big vertical that our customers are after.
+We've continued to improve scale over time. We've – when we started this journey and talking with you, we would 
+sit down in single-digit thousands supporting in cloud. We're now into the tens of thousands and well on our way 
+to hundreds of thousands in terms of vertical scale in the cloud. So, these are some of the areas of continued 
+investment. And the great part about that is that our customers are partnering with us on all those investments. 
+And so, we know that they're [indiscernible] (00:45:53) great ROI for the investments we're making.
+In terms of like unique packaging or capabilities, some great benefits of being in the cloud that we – we have one 
+user management system across all of our cloud products, and that allows us to put things like our Point A 
+products in front of new customers a lot easier, and then having it download and install and configure something 
+new. And so, that gives us a lot more flexibility with how we price and package our products together.
+And as Mike alluded earlier, with Free, that's given us a lot more opportunities to get things in front of customers 
+without them having to make a purchase decision before they're getting values. So, we are seeing that's sort of 
+critical to how we take functionality in front of our customers. And so, [indiscernible] (00:46:38) continue pricing 
+and packaging and how we put our products in front of our customers like to deliver value to them over time, 
+whether it's editions, Free, Standard, [ph] Enterprise (00:46:52) or it's unique bundles of how we put products 
+together for customers that want to buy multiple of our products together. You'll see us continue to innovate over 
+time.
+.....................................................................................................................................................................................................................................................................
+Michael Cannon-Brookes
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+I just wanted to – Scott covered a lot of the nuts and bolts, and I think we're well-known for our execution against 
+all of those things, from editions all the way up to – all the other bits and pieces Scott talked about. Especially if 
+you're new to Atlassian, Steve, one of the things I wanted to reinforce there, you talked about the opportunities in 
+cloud beyond migrating customers to it. I would reinforce that I think the opportunities in front of Atlassian had 
+never been greater across all three of our markets that we sit in at the moment. And we've been as clear as we 
+can be that we intend to invest in playing offense across all three of those markets. We continue to invest heavily 
+Atlassian Corp. Plc (TEAM)
+Q1 2022 Earnings Call
+Corrected Transcript
+28-Oct-2021
+1-877-FACTSET www.callstreet.com
+15
+Copyright © 2001-2021 FactSet CallStreet, LLC
+in the cloud platform, everything from the big end of town or the regulatory and legal and compliance changes that 
+we think will be a great moat over time because it's very, very hard to do at scale, all the way down to investing in 
+new products, as you've seen in Point A, and continuing our culture and DNA of delivering innovation on a 
+continued drumbeat to our customers to serve their needs.
+And lastly, we've indicated we continue to invest in talent. It's an incredibly tough market out there. If you talk to 
+any other company, the market for talent has never been harder, and we just had a record quarter for hiring. 
+People are choosing to come and work for Atlassian and we are investing in that talent to continue to go after 
+those opportunities, and that is a really [audio gap] (00:48:31) thing to understand about where we currently sit.
+.....................................................................................................................................................................................................................................................................
+Operator: Thank you. Your next question comes from Ari Terjanian from Cleveland Research. Your line is now 
+open.
+.....................................................................................................................................................................................................................................................................
+Ari Terjanian
+Analyst, Cleveland Research Co. LLC Q
+Yes. Hello. Thank you for taking the question and congratulations on the results. I noticed a couple of 
+management changes in the shareholder letter, in addition to James' announcement of leaving. But yeah, I was 
+just wondering if you might be able to expand upon the promotions of Anu and Joff to Chief Operating and 
+Product Officers, what their roles will entail, as well as bringing on Kevin Egan to head up Global Enterprise 
+Sales. Would love any more color you could provide on those changes. Thank you.
+.....................................................................................................................................................................................................................................................................
+Michael Cannon-Brookes
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+Look. It's plenty of time to celebrate James' achievements. And he's – as I think Scott said earlier, he's not in the 
+doghouse here. He's leaving on a high to retire to greener pastures of his flying, I suspect, around a lifelong 
+dream to be a fighter pilot. But we at – ultimate thanks and he's given us plenty of notice. So, I think you can see 
+his achievement has been amazing.
+On the management team, broadly, I think one thing I would celebrate is we have a very stable management 
+team. We've long been believers that the best technology companies have stable management teams that learn 
+and grow together over many, many, many years. So, the stability of our management team for a long time now 
+has been incredibly good. As such, it's amazing to be able to give both Anu and Joff, who will both start on our 
+team huge new opportunities, right, and giving them opportunities and promoting that growth of internal staff is 
+fantastic and something that we've always prided ourselves on as a company.
+In terms of those roles, look, we've never had a Chief Operating Officer before operating our business. We have 
+an incredibly complicated business across multiple markets, multiple deployment options, globally distributed 
+talent, and operations and planning, and our business is not a simple exercise. At the same time, we're clearly 
+operating a large scale transformation to migrate our customers. We are continuing to transform how we serve 
+our enterprise customers as best we can. We are also continuing to grow the Atlassian economy, as we call it, all 
+of the parts around Atlassian, from forging the marketplace through to our partners and everything else. There's a 
+lot of complexity that needs to come to operating all of those transformations in sequence and in synchrony –
+synchronized with each other, and Anu is perfectly skilled to do that and I think improve how we actually operate. 
+We are not satisfied with our current operations and would like to continue to improve.
+On Joff, we've never had a Chief Product Officer. Joff has led the work management for all group of products in 
+Confluence and Trello for a long time and does a phenomenal job at that. Taking on the other two markets is a 
+Atlassian Corp. Plc (TEAM)
+Q1 2022 Earnings Call
+Corrected Transcript
+28-Oct-2021
+1-877-FACTSET www.callstreet.com
+16
+Copyright © 2001-2021 FactSet CallStreet, LLC
+natural progression and growth opportunity for him, especially as we look at, as I talked beforehand, find the 
+different markets together for our customers in certain ways. So whether that's a single pane of glass across 
+development teams and IT teams, whether that's IT teams serving the work management for all use cases and 
+apps and workflows of non-technology teams, increasingly not only our technical platform, but the products have 
+to be threaded together, which is part of the reason behind that. So look, just really excited with the team we 
+have. I love coming to work every day, I think our whole management team do, and we're doing an excellent job.
+Oh, Kevin, sorry, yes. Look, Kevin's been a huge add to the revenue function in general, leading our sales efforts 
+as we continue to expand. Again, we grew customers more than $1 million, over 70% in our last – we talked 
+about last quarter, so we certainly need to continue to do that. And Kevin brings a wealth of experience from, 
+seriously, in the best technology companies in the world and continue to be excited about how he helps us evolve 
+our model and business as we travel forward.
+.....................................................................................................................................................................................................................................................................
+Operator: Thank you. And your next question comes from Pat Walravens from JMP Securities. Your line is now 
+open.
+.....................................................................................................................................................................................................................................................................
+Joey Marincek
+Analyst, JMP Securities LLC Q
+Hey, guys. This is Joey on for Pat. Thank you so much for taking the questions. So, just two from our end. First, 
+congrats to James on the promotion – or sorry, on the retirement. So, how are you thinking about what you're 
+looking for in your next CFO? And then, lastly, just on Forge, I'd love to get an update there and your ultimate 
+vision there. Thank you.
+.....................................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+So, thanks for the questions. I'll answer about James and Mike can answer about Forge. Firstly, James has done 
+an incredible job, like he's by far the best CFO we've had at Atlassian. And being around 20 years, he had – even 
+though we've had great stability, there's nothing [indiscernible] (00:53:50) over that period of time. And I think we 
+do well to find someone that works very much in James' footsteps, to be specific, about some of the things I think 
+we need as we grow capital allocation a company. We have so many opportunities in front of us, how to make 
+sure that we allocate capital in the right way, in a scalable way, that we do it looking over the long term and we 
+don't optimize for short-term returns, and that's going to be really important. And not just sort of making those 
+decisions, it's building the systems to allow the company to make those decisions at all levels of Atlassian, and 
+that will include things like how we cost value to the projects. And as we move to cloud, we're making sure that we 
+understand where our COGS goes and the microservices we build and how we make sure we make articulate 
+decisions around those areas. And so, I think James has done a great job of understanding our business, as Mike 
+mentioned. It spans in lots of different areas. And so, I think that finding someone that is a systems thinker, much 
+like James is, who can help us grow and allocate capital and really tackle the huge opportunity we have in front of 
+us is what we're after.
+.....................................................................................................................................................................................................................................................................
+Operator: Thank you. And your next...
+.....................................................................................................................................................................................................................................................................
+Michael Cannon-Brookes
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+And I can answer the question on Forge. I think there was a second part just on there – sorry, operator. Look, we 
+talked a lot about Forge. It is our next-generation extensibility and development platform. It adds capabilities 
+around security and data residency and all the other things that is fairly unique, I would say, in a whole SaaS 
+Atlassian Corp. Plc (TEAM)
+Q1 2022 Earnings Call
+Corrected Transcript
+28-Oct-2021
+1-877-FACTSET www.callstreet.com
+17
+Copyright © 2001-2021 FactSet CallStreet, LLC
+ecosystem in terms of how do you deal with all of the enterprise compliance and regulatory requirements in 
+different geographies in the world and still allow extensibility of your SaaS applications. This is a huge technical 
+challenge and I'm really, really proud of how the Forge team is attacking that. It lets us run the application so we 
+can continue to tune and improve them, but the third-party developers or customers get a very stable and simple 
+extensibility and development platform that's fast and performing but also secure.
+It's worth noting – I know it's often talked about, the marketplace and the vendors in the economy we have around 
+[indiscernible] (00:56:13), which is fantastic. Forge is as much for our customers. So, a lot of the fantastic early 
+use cases that we're seeing are customers using Forge to extend applications to integrate with their own services, 
+to connect applications together in unique ways, alongside all of the other things like our smarts and automation 
+and different facilities of the platform. I'm really excited about where Forge is at.
+Again, we've [ph] GA'd (00:56:38) the platform at this stage, but we will continue, obviously, as we do, to improve 
+it every single quarter. And I believe we've now passed 500-odd projects and continue to head on as we again 
+have one of the largest app marketplaces in the [audio gap] (00:56:56). We continue to grow that, and I think 
+Forge has a huge potential [ph] hopefully (00:57:01).
+.....................................................................................................................................................................................................................................................................
+Operator: Thank you. And your last question is from Keith Bachman from Bank of Montreal. Your line is now 
+open.
+.....................................................................................................................................................................................................................................................................
+Keith Bachman
+Analyst, BMO Capital Markets Corp. Q
+Thank you very much. I wanted to revisit on upsell. And my specific question is can you get any directional or 
+specifics on the difference on cloud versus what was server and data center? And the two thought process here 
+is, one, you're getting a lot of [ph] information (00:57:32) conversions. And at that time, is there step-up in terms of 
+total value that the customers subscribing to Atlassian in terms of either capacity or cross-sell? And then, the 
+second would just be, as you mentioned, there's a lot of customers that are going straight to the cloud. How does 
+their upsell rate over time compare to data center and/or server? Thank you.
+.....................................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc A
+All right. I'll start off here, and if Mike wants to add anything, he can do it. Okay. As we know and have said that in 
+the cloud, we provide more value for our customers in terms of we're hosting it for them, we're operating it for 
+them. We allow them to return a whole bunch of their staff back to doing high-value opportunities for themselves. 
+And so, we do capture a portion of that commensurate value with our cloud pricing compared to DC. And so, 
+that's an important thing I think you are all aware of.
+If you look at in our products behind the firewall, it was – there's a lot of friction involved in expansion with many 
+other software vendors. But if you exceeded a license, you still have to contact us, and pay some more – get a 
+new purchase order, and that process is just a little more [ph] frictionful (00:58:57) than having a credit card 
+online, and you [ph] use us (00:59:02) and they just turn up straight away. And so, I think the reduction of that 
+friction at all areas of the product journey is something decided by, whether that is starting to freeze with a click 
+rather than a download and an install, whether that is being able to invite your colleagues because we can tie into 
+the single sign-on solution of that company, and so, it's much easier to add and – second or third users there.
+And so, I think there's – I can go probably for half an hour on all the different opportunities that are there. And I 
+think as you said, cross-sell is a lot easier because that second and third product, we can put it in front of 
+Atlassian Corp. Plc (TEAM)
+Q1 2022 Earnings Call
+Corrected Transcript
+28-Oct-2021
+1-877-FACTSET www.callstreet.com
+18
+Copyright © 2001-2021 FactSet CallStreet, LLC
+customers where we believe that they have value and not in someone, so we don't – we can be much more 
+specific and targeted.
+And a great example of that is if you're inside Jira now in our cloud products, and we have a tab on the look inside 
+that says you want to write a specifications document or requirement document or write some documents 
+associated with your project. We allow you to instantly start a trial of Confluence for doing that task, and it is a 
+great experience like – and that's something which is not possible to do behind the firewall.
+So it's something we continue to invest in, and we're going to get better at it over time. I won't say we're not, but 
+we're really good at the moment. I don't think – I think there's a lot of areas where we can still improve on all those 
+different areas. And so, I'm excited about what our teams come up with week-in, week-out and improving that sort 
+of cross-sell, upsell customer experience that we have.
+.....................................................................................................................................................................................................................................................................
+Operator: Thank you. Ladies and gentlemen that concludes our Q&A session for today. I will hand it back over 
+to our presenters for any closing remarks.
+.....................................................................................................................................................................................................................................................................
+Scott Farquhar
+Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp. Plc
+I just want to thank everyone for joining our call today, like we really appreciate your ongoing support, and we 
+really hope that you and your loved ones remain safe and healthy. Have a great week.
+.....................................................................................................................................................................................................................................................................
+Operator: Thank you. Ladies and gentlemen, that concludes our call for today. Thank you for participating. You 
+may now disconnect.
+Disclaimer
+The information herein is based on sources we believe to be reliable but is not guaranteed by us and does not purport to be a complete or error-free statement or summary of the available data. 
+As such, we do not warrant, endorse or guarantee the completeness, accuracy, integrity, or timeliness of the information. You must evaluate, and bear all risks associated with, the use of any 
+information provided hereunder, including any reliance on the accuracy, completeness, safety or usefulness of such information. This information is not intended to be used as the primary basis 
+of investment decisions. It should not be construed as advice designed to meet the particular investment needs of any investor. This report is published solely for information purposes, and is 
+not to be construed as financial or other advice or as an offer to sell or the solicitation of an offer to buy any security in any state where such an offer or solicitation would be illegal. Any 
+information expressed herein on this date is subject to change without notice. Any opinions or assertions contained in this information do not represent the opinions or beliefs of FactSet 
+CallStreet, LLC. FactSet CallStreet, LLC, or one or more of its employees, including the writer of this report, may have a position in any of the securities discussed herein.
+THE INFORMATION PROVIDED TO YOU HEREUNDER IS PROVIDED "AS IS," AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, FactSet CallStreet, LLC AND ITS LICENSORS, 
+BUSINESS ASSOCIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SAME, EXPRESS, IMPLIED AND STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED 
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE 
+LAW, NEITHER FACTSET CALLSTREET, LLC NOR ITS OFFICERS, MEMBERS, DIRECTORS, PARTNERS, AFFILIATES, BUSINESS ASSOCIATES, LICENSORS OR SUPPLIERS WILL BE LIABLE FOR ANY 
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS OR REVENUES, GOODWILL, WORK STOPPAGE, 
+SECURITY BREACHES, VIRUSES, COMPUTER FAILURE OR MALFUNCTION, USE, DATA OR OTHER INTANGIBLE LOSSES OR COMMERCIAL DAMAGES, EVEN IF ANY OF SUCH PARTIES IS ADVISED 
+OF THE POSSIBILITY OF SUCH LOSSES, ARISING UNDER OR IN CONNECTION WITH THE INFORMATION PROVIDED HEREIN OR ANY OTHER SUBJECT MATTER H EREOF.
+The contents and appearance of this report are Copyrighted FactSet CallStreet, LLC 2021 CallStreet and FactSet CallStreet, LLC are trademarks and service marks of FactSet CallStreet, LLC. All 
+other trademarks mentioned are trademarks of their respective companies. All rights reserved.

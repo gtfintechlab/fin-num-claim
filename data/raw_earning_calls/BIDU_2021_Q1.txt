@@ -1,0 +1,369 @@
+Operator
+
+Hello and thank you for standing by for Baidu's First Quarter 2021 Earnings Conference Call. [Operator Instructions] Today's conference is being recorded. If you have any objections, you may disconnect at this time.
+
+I would now like to turn the meeting over to your host for today's conference, Juan Lin, Baidu's Director of Investor Relations.
+
+10 stocks we like better than Baidu
+When our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+
+They just revealed what they believe are the ten best stocks for investors to buy right now… and Baidu wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+
+See the 10 stocks
+
+*Stock Advisor returns as of March 8, 2023
+
+Juan Lin -- Director of Investor Relations
+
+Hello everyone, and welcome to Baidu's First Quarter 2021 Earnings Conference Call. Baidu's earnings release was distributed earlier today and you can find a copy on our website as well as on newswire services.
+
+On the call today, we have Robin Li, our Co-Founder and CEO; Herman Yu, our CFO; and Dou Shen, our EVP in charge of search and feed. After our prepared remarks, we will hold a Q&A session.
+
+Please note that the discussion today will contain forward-looking statements made under the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from our current expectations.
+
+For detailed discussions of these risks and uncertainties, please refer to our latest Annual Report and other documents filed with the SEC and Hong Kong Exchange. Baidu does not undertake any obligation to update any forward-looking statement except as required under applicable law.
+
+Our earnings press release and this call includes discussions of certain unaudited non-GAAP financial measures. Our press release contains a reconciliation of the unaudited non-GAAP measures to the unaudited most directly comparable GAAP measures and is available on our IR website at ir.baidu.com. As a reminder, this conference is being recorded. In addition, a webcast of this conference call will also be available on Baidu's IR website.
+
+I will now turn the call over to our CEO, Robin.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Hello, everyone. We delivered strong results in the first quarter with Baidu core revenue growing 34% year-over-year to RMB20.5 billion. Our business was strong across the board particularly in our new AI business including cloud, smart transportation, and intelligent driving. Non-advertising revenues within Baidu core rose 70% year-over-year to RMB4.2 billion, accounting for 21% of Baidu core.
+
+China held the two session annual congressional gathering in early March and technology innovation was repeatedly mentioned. It was emphasized that never in the history of China has innovation been more important to the development of China. China's pursuit of innovation through technology to boost long-term growth and productivity will further expand the use of AI. We have witnessed AI platforms or AI-powered infrastructure enabling applications disrupting markets.
+
+For example, we entered the smart device market three years ago despite two dominant market leaders with strong manufacturing and distribution capabilities. We leveraged Baidu's leading AI technology, including natural language processing and speech recognition, to make DuerOS Smart Assistant that understands humans better. This in turn has resulted in making Xiaodu Smart Display Number one in shipment globally.
+
+We further changed the market dynamics by introducing smart devices over RMB1,000 compared to the sub RMB100 devices that our peers focused on. AI powered platforms are changing the technology landscape. New vehicles sold are being equipped with sensors and AI capabilities both internally and externally to provide intelligent driving and in-vehicle infotainment.
+
+Apollo serves as the AI platform that powers this two critical functions of intelligent vehicles. Apollo autonomous driving is making new breakthroughs and over 1.5 million vehicles have been sold in China pre-installed with DuerOS for auto. Installation of DuerOS for auto saw continued strength in the first quarter, growing over 100% year-over-year.
+
+According to IHS, over 50% of the vehicles sold in China this year are expected to be connected and the percentage is expected to rise. We are excited to be deploying V2X vehicle-to-road infrastructure across China, which enables connected vehicles to be more intelligent. Just as the continuous upgrade of telecom networks since 2G has enabled mobile phones to become better and smarter, we believe Apollo Smart Transportation infrastructure can be continuously upgraded to make connected vehicles more convenient, safer, greener, and in general, more intelligent over time.
+
+As we build Apollo V2X infrastructure in cities across China, we are getting requests to expand our smart transportation offering through greater use of AI into Mass and solutions to digitize public parking and highways.
+
+The expansion of Apollo Smart Transportation beyond V2X into different facets of transportation in metropolitans and highways leading into them will create a powerful network effect when the solutions are integrated and synchronized around a transportation network powered by Baidu Brain.
+
+Our divestment of PaaS for different industries and empowering our ad customers with marketing cloud are further examples of how AI platforms are changing industry dynamics from digital transformation to mobile Internet. On the latter, we have a big opportunity to expand online marketing from selling traffic to empowering merchants with AI powered marketing cloud and improve search to transaction conversion. Our strong Internet foundation, coupled with growing user engagement provide us with another driver for non-advertising growth.
+
+Turning to Q1 operational highlights; our AI cloud continues to see strong adoption due to our holistic approach including a large developer community, self-designed chips, best-in-class machine learning services, and large AI patent portfolio. With increasing AI adoption in China, Baidu PaddlePaddle has become a top one deep learning framework globally in terms of core requests, alongside with Facebook PyTorch and Google TensorFlow according to Github.
+
+We have spent years in developing AI chips to optimize workload and improve cloud cost of the structure. With external demand for GPU chips and Baidu Kunlun completed its first round of funding at a post-money valuation of $2 billion in April this year.
+
+Baidu EasyDL, a simple to use machine learning service for non-developers was rated Number one in terms of usage in China per IDC, topping the list for the second time. Customers are telling us that they are choosing Baidu due to us having the largest AI patent portfolio in China.
+
+Baidu's decade long experience with AI technology and our large patent portfolio give customers the confidence that we can deliver end-to-end cloud solutions with PaaS and SaaS that meet their needs. Last quarter, we illustrated AI solutions that were scalable and replicable across different industries such as our automated AI call center.
+
+We are also seeing customers who implement Baidu AI PaaS return for repeat purchases. For example, we helped a major retail bank in China implement Baidu AI PaaS, which has led to five follow-on purchases, including application to automate customer service and customer loan approval and the recent purchase of private cloud service.
+
+In the media sector, we partnered with online arm of China's largest TV network CCTV to implement Baidu AI PaaS with capabilities to automate video clip projection [Phonetic] and tagging from live broadcasting and use smart assistant to quickly locate desired video content.
+
+During the two sessions, we enabled CCTV.com to simultaneously interview congressional meeting participants with AI reporters, powered by Baidu Brain, and the timely share these interviews on the Internet. Smart Transportation is becoming a way to digitize the transportation industry in China to improve traffic condition and road safety and reduce carbon emission.
+
+Our V2X vehicle-to-road infrastructure has helped reduce traffic congestion time by 20% to 30%. Chongqing, which implemented Apollo V2X last year and opened the door for Apollo into Western China, reengaged with us this year to make their Smart Transportation infrastructure 5G enabled, laying the foundation for a future roll-out of robotaxi ride hailing. Chengdu, the capital of Sichuan and a leader in science and technology development, recently partnered with Apollo to implement V2X tool.
+
+Turning to intelligent driving. Since its founding eight years ago, Apollo has accumulated over 6 million miles of Level 4 autonomous driving testing miles on the road and over 600 million miles of simulated testing. Apollo continues to be the leader in autonomous driving in China with our early investment, open platform strategy, and comprehensive technology infrastructure.
+
+With Apollo autonomous driving can operate -- while Apollo autonomous driving can operate independently on vehicle sensors, it is uniquely empowered by Baidu's HD Maps, our AI cloud, and Apollo Smart Transportation. The comprehensive data set and integration with city's smart transportation network we believe will enable Apollo to offer better driving behavior and reduce accident rate.
+
+Following the opening up of highway testing for autonomous driving in January, Apollo received the permit to operate at night and under special weather condition on public roads in Beijing. Apollo also received a permit to pilot fully autonomous driving in Beijing, Cangzhou and Changsha.
+
+Apollo Go, China's first fully autonomous ride-hailing service with no one in the driver seat, is now open to the public at the Shougang Park, a Beijing 2022 Winter Olympics site. Rides are priced at RMB30 each. In March, Apollo Go began to charge the robotaxi ride-hailing in Cangzhou, based on the distance traveled starting with a minimum fare similar to regular ride-hailing. Jidu Auto, an intelligent EV company established in partnership with Geely, has appointed Xia Yiping as CEO. Yiping previously served as CTO at Mobike and worked various positions at Fiat, Chrysler, and Ford. We welcome Yiping to the Baidu family and look forward to his contribution to innovate the Smart EV sector.
+
+Apollo self-driving, GAC Group joined Apollo's network of over 10 leading local and multinational automakers to install ASD services in its new vehicles. According to China Insights Consultancy, a market research and consulting firm, the TAM for Apollo intelligent driving, which includes robotaxi ride-hailing, EVs, and self-driving services for automakers will reach $467 billion, almost nine times the size of our advertising TAM of $53 billion in 2025.
+
+Apollo platform powers Jidu and other automakers as well as Apollo Go robotaxi. It is in a unique position to be well funded and widely adopted. Such competitive position has earned Baidu the only Chinese company selected for the leader category in autonomous driving by Guidehouse Insights, previously known as Navigant Research, for the second consecutive year.
+
+Turning to mobile ecosystem; in March, Baidu App MAUs reached 558 million. Creators on Baijiahao more than doubled and the number of Smart Mini Programs grow 74% from a year-ago. Our AI building blocks coupled with our marketing cloud continue to attract more third-party content and service providers on to our platform, which improves user experience.
+
+Merchants are adopting our direct-to-consumer model to get closer to their customers. Traditional e-commerce tends to accentuate its platform over the strengthening of individual brands and merchants. Baidu, on the other hand, empowers merchants to build their own online presence and grow their brands by leveraging our social and live streaming capabilities, e-commerce features, and AI tools from our marketing cloud.
+
+Our AI building blocks coupled with marketing cloud help merchants acquire customers, better understand them, engage with them, and perform lifetime customer management. Such search-to-transaction closed-loop experience improves user stickiness resulting in daily logged on users on Baidu App reaching over 75%, that's up 16 points from a year-ago.
+
+On social and interest based communities, our search users sometimes have questions on their search results. With professional content providers like attorneys and designers opening enterprise accounts on Baijiahao, they are able to respond to search queries and interact directly with users. 8% of our top one search result now enable users to ask questions and interact with the original content provider. Baidu Health has attracted approximately 300,000 doctors and medical experts to provide in-depth authoritative content and online consultation to consumers.
+
+As our users adapt to more services on Baidu, we see a great opportunity to offer non-ad services of our own to meet the needs of our large user base. When you couple this with the robust growth of our AI business, non-advertising revenue could possibly exceed advertising revenue with Baidu Core -- within Baidu Core in the next three years.
+
+With that, let me turn the call over to Herman to go through our financial highlights.
+
+Herman Yu -- Chief Financial Officer
+
+Thank you, Robin. Hello everyone. Welcome to Baidu's first quarter 2021 call. All monetary amounts used in my discussion are in renminbi unless otherwise stated. In March, we listed on the Hong Kong Stock Exchange under the ticker number 9888 raising $3.1 billion. Two weeks later, we were added to the Hong Kong tech -- Hang Seng TECH Index, the Composite Index, and the China Enterprise index.
+
+Listing closer to our user base with strong brand and unique profile as a leading AI company with strong Internet foundation generates incremental interest for Baidu and increases our stock liquidity. Our retail tranche during the Hong Kong listing was 111 times oversubscribed and our daily trading liquidity on the two exchanges in aggregate averaged 8.4 million shares last week, ADS adjusted, and approximately $1.6 billion in amount compared to say 2.8 million average daily traded shares last September or approximately $350 million in amount. That is an increase of 4.5 times in daily trading amounts on Baidu over the past seven months.
+
+Sustainability is an important focus for Baidu. We have worked diligently on ESG and were upgraded twice by MSCI last year. Greenpeace, a global environmental organization published report on China's cloud and data center companies ranked Baidu Top Three in cloud services and Number One in the utilization of renewable energy based on their April report entitled Clean Cloud: Tracking Renewable Energy Use in China's Tech Industry.
+
+Turning to financial highlights; for the first quarter of 2021, Baidu revenue reached RMB20.1 billion or $4.3 billion, up 25% year-over-year driven by the growth of Baidu Core whose revenue reached RMB20.5 billion or $3.1 billion, up 34% year-over-year. Non-advertising grew 70% year-over-year accounting for 21% of Baidu Core's revenue.
+
+Let me give you more color on each area, AI cloud was RMB2.8 billion, up 55% year-over-year and we expect our AI cloud growth rate to accelerate in the future. Our cloud growth benefited from customers from the Internet, media, financial services, and other high tech sectors as well as from the strong adoption of Apollo Smart Transportation by cities seeking to modernize digitalized transportation in network vehicles.
+
+Intelligent driving and OGI revenue also grew rapidly. Apollo Self Driving or ASD, though a small base, grew over 5 times from last year. ASD revenue is booked upon vehicle shipment and revenue is recognized ratably over the contract period if the service is provided over the air. In other words, upgraded regularly. Revenue for Xiaodu smart devices and services saw robust double-digit growth in the first quarter.
+
+Online marketing revenue was up 27% year-over-year driven by Baidu App growing over 30% year-over-year. Most of our top ad vehicles performed well. CPM was up double digit. Managed Page grew -- Managed Page reached 35% of Baidu Core online marketing revenue and four-fifth of our advertisers have adopted Baidu marketing cloud, which is a one-stop shop to purchase online marketing, build audience, and leverage Baidu AI to enable user lifetime management.
+
+The strong adoption of our Managed Page in marketing cloud shows our customers' preference to move from managing their own website to operating their hosted site on Baidu to better leverage Baidu's advanced technology and tools to improve closed loop transactions. iQIYI revenue reached RMB8 billion, up 4% year-over-year and its net losses narrowed RMB1.3 billion, up -- down from RMB2.9 billion last year. iQIYI subscribers reached 105.3 million, serving as a strong foundation to support their over 50 in-house studios and produce entertainment blockbuster originals.
+
+Cost of revenues was RMB15 billion, up 2% year-over-year primarily due to an increase in TAC and cost of goods sold, offset by a decrease in content costs and amortization/impairment of intangible assets. Baidu Core's cost of revenues increased 15% year-over-year as TAC revenues increased while iQIYI's cost of revenue decreased 10% year-over-year.
+
+Operating expenses were RMB10.3 billion, up 25% year-over-year primarily due to an increase in channel spending and promotion expenses as well as R&D related personnel expenses. SG&A for Baidu Core was up 58%, partially reflecting the ramp up of our sales force, especially to support the pipeline of our new AI business as we look out the next six to 12 months. In addition, we accrue for bad debt allowance on new AI business which holds accounts receivable unlike our online marketing, which generates revenue mostly on a prepaid basis.
+
+Non-GAAP operating income for Baidu and Baidu Core were RMB4.4 billion and RMB5.1 billion or $773 million, respectively. Non-GAAP operating margin for Baidu Core was 25%. Adjusted EBITDA for Baidu and for Baidu Core were RMB5.9 billion and RMB6.5 billion or $990 million respectively. Adjusted EBITDA margin for Baidu Core was 32% compared to 30% last year.
+
+Cash and short-term investments for Baidu and Baidu Core as of March 31st, 2021 were RMB172.9 billion and RMB159.6 billion or $24.4 billion, respectively. Free cash flow for Baidu and excluding iQIYI were RMB2.6 billion and RMB4 billion or $615 million respectively. Baidu Core had approximately 34,000 full-time employees as of March 31st, 2021 up 18% from last year.
+
+Turning to second quarter guidance. For the second quarter of 2021, Baidu expects revenue to be between RMB29.7 billion or $4.5 billion and RMB32.5 billion or $5 billion representing a growth rate between 14% and 25% year-over-year, which assumes that Baidu Core will grow between 20% and 33% year-over-year. This guidance does not give any potential contribution from the acquisition of YY Live. The above forecast reflects our current and preliminary view, which is subject to substantial uncertainty.
+
+Before I turn the call back to the operator, let me summarize our first quarter results. We continue to see strong momentum in our business powered by our leading AI. Non-advertising revenue grew 70% from last year accounting for over one-fifth of Baidu Core revenue. China's goal to drive innovation through technology will serve as a tailwind for our new AI business.
+
+Embarking on the digitalization of transportation and connected vehicles is like investing in a new telecom network to drive economic growth and productivity, except this time it is on a transportation network and the connected computers are smart vehicles rather than smartphones.
+
+Transportation is 16% of China's economy. Thus AI platforms that power smart transportation, autonomous driving, and in-vehicle infotainment working in tandem can bring incredible operating efficiencies and convenience as well as improve traffic safety, reduce carbon emission for the transportation sector. Apollo autonomous driving continues to be the leader in China with fully autonomous ride-hailing open to the public in Beijing. Apollo Go ride-hailing is now available to the public in three cities. We are quite encouraged that Apollo Go ride-hailing is gradually permitted to charge a fee. For example in Cangzhou as well as in Beijing.
+
+Over 10 domestic and multinational automakers have signed up with Apollo to install ASD in the new vehicles, a recognition by the auto industry that partnering with Apollo is the preferred choice versus committing to heavy investments in autonomous driving for the next decade or maybe two.
+
+Apollo's open platform and diversified monetization to support autonomous driving through ASD, Jidu Auto, and Apollo Go ride-hailing put Apollo in a unique position to be well funded and widely adopted. IDC ranks Baidu Number One in autonomous solutions for public cloud. By focusing on AI PaaS, our AI cloud is differentiated in the market. We are seeing the implementation of our AI PaaS drawing repeat purchases. And over the long run, we expect our AI powered business to have higher margin as we build on our PaaS and SaaS business compared to pure IaaS players.
+
+Advertising revenue growth was solid, up 27% year-over-year. Merchants are adopting our direct-to-customer model to get closer to their customers and Baidu's open platform model to accentuate the merchants by allowing them to build their brands on Baidu, access their own user data, and leverage Baidu's AI powered cloud services is a huge opportunity for our mobile ecosystem.
+
+ESG is an area that we focus on. In addition to leading the industry in cloud and data center construction, we hope to contribute to sustainability in a big way as we help cities across China deploy smart transportation to significantly improve the flow of internal combustion engines and promote the crossover to EVs. Baidu is also developing smart EVs, empowering automakers with intelligent driving services and providing robotaxi ride-hailing and Robobuses, which are all powered by EV.
+
+Baidu returned $300 million to shareholders under the 2020 share repurchase program this year, bringing the cumulative repurchase from last year to $2.2 billion. We are confident about our future and the strong profitability of our search and feed business and how we are using the AI technology developed from this business to fuel growth in the new AI business, which along with our other non-ad business has a TAM 10 times the size of our online marketing business and 3 times the CAGR growth through 2025, even when you exclude robotaxi ride-hailing, according to CIC.
+
+Operator, with that, let's now open the call to questions.
+
+Questions and Answers:
+Operator
+
+Thank you. Ladies and gentlemen, we will now begin the question-and-answer session. [Operator Instructions] First question comes from the line of Alicia Yap from Citigroup. Please go ahead.
+
+Alicia Yap -- Citi -- Analyst
+
+Hi, thank you. Good evening management, Robin and Herman. Thanks for taking my questions. Congrats on the solid results and guidance. My questions is related to cloud -- your AI cloud business. So wondering if management could share some of the operating metrics, for example the total numbers of the cloud customers and also the industry vertical that you are major in.
+
+And then also, for example like, how much or how big it is coming from the government or the big enterprise versus the smaller SME merchants in terms of using your cloud business? And also the current loss ratio that if you can share and how you envision your cloud business to grow into -- in the coming quarters and years? Thank you.
+
+Herman Yu -- Chief Financial Officer
+
+Hi Alicia, yeah. So -- yeah, you guys hear me OK?
+
+Alicia Yap -- Citi -- Analyst
+
+Yes.
+
+Herman Yu -- Chief Financial Officer
+
+Yeah. So, the way we look at our cloud business, as you know, in our AI cloud, there are several segments to our business. Number one is our familiar infrastructure cloud where we have IaaS, where we have PaaS, and where we have SaaS, right. In that segment, we have our key accounts and then we have our SMEs which are much smaller cloud providers. So you have your typical key accounts and then when you have SMEs, we have many, many customers there.
+
+In addition, we also have our customers for our smart transportation in that space. So that would be the key cities -- the top tier cities that we are in China. We don't have the exact number prepared for you for just today. But you can think of our segment, it's mostly smart cities and mostly key accounts in our AI cloud. Our tough sectors are things like Internet, media, financial services, and transportation.
+
+And when you look at how we're growing. I think last quarter we said we're growing 67% year-over-year. This quarter we're growing a little bit slower at 55%. Part of the reason is because if you recall last year, COVID-19 started toward the end of January. So we did -- we had a pretty good base in Q1 because typically if you think about it, COVID-19 hurt us a lot. But when you think about the beginning of the quarter, we had a higher base. So, the way I would look at it is we think that we can continue to grow the way we did last quarter, higher than what we have at 55% this quarter. We think that we see in our pipeline that we should be able to grow at a higher rate.
+
+Alicia Yap -- Citi -- Analyst
+
+Okay. Thank you, Herman.
+
+Operator
+
+Thank you for the questions. Next questions comes from the line Piyush Mubayi of Goldman Sachs. Please go ahead.
+
+Piyush Mubayi -- Goldman Sachs -- Analyst
+
+Hi, Robin, Herman. Thank you for taking my questions. When I look at the Core, the Core seems to have bounced back very nicely in both the first quarter as well as based on the guidance you're providing for the second quarter and the marketing revenue was up 27%. I suspect in the second quarter, based on the high end of the range at 33%, it would be a similar number.
+
+Could you just take us through some of the verticals where you're seeing spending come back very nicely and try to -- so that we can try and see whether this is sustainable through the rest of the year with the clear emergence of a trend coming back very nicely? That's the first question. And if I might slip in a second question, you talked about the TAM for ride- hailing, I wonder if you could just take us through what your strategy is and how deep you want to go? Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+I will ask Dou to answer your first question and I'll take on the second one.
+
+Dou Shen -- Executive Vice President
+
+Okay. For the first one, actually we see pretty good performance for most with the top ad verticals actually, not just by a single one. Actually talking about the performance of the ad revenue, I think it's not only because of the low base of last year's first quarter. I want to actually give the credit to the three building blocks we have been working on in the past few years.
+
+As Robin mentioned in the prepared remarks, Baijiahao and Smart Mini program and also the Managed Pages, they all grew quickly. And these building blocks actually, they provide high quality content and also the services to the users so that the users you know they can not only get the information as before, but they can also get the service in the closed-loop experience.
+
+Now with that, the user, they can complete their tasks like book a flight or book -- in one-stop step instead of jumping away. So, all these building blocks actually, they contribute to the monetization capability we have built, especially for Baidu AVP. So, we can see it actually grows even faster than the average 27%. It's more than 30%. So with that actually we are seeing pretty good performance for all the verticals on the way [Phonetic] in terms of growth.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Yes. So for the TAM of Apollo, it's huge. It's very large and right now it's growing very fast. If you recall, we started to invest in autonomous driving roughly eight years ago. Over the years, Apollo has morphed into a very comprehensive platform that supports all kinds of business models and directions that includes robotaxi ride-hailing, that includes software services provider for the OEMs, and also that includes building our own smart EVs.
+
+I think all of this effort will feed back data and other kinds of market signals to the Apollo platform making Apollo a stronger and better platform for both autonomous driving and smart transportation. We are very excited that each of this directions including the smart transportation project we're building for many, many cities, because it all can be integrated together and provide a much more efficient transportation system for the cities, for the society, and provide better experience for the drivers and the consumers. And it all come together and we're very happy we invested early and we start to reap the benefit of this direction.
+
+Operator
+
+Thank you for the questions. Next questions comes from Alex Yao of J.P. Morgan. Please go ahead.
+
+Alex Yao -- J.P. Morgan -- Analyst
+
+Hi, good evening, management. Thank you for taking my question. I have a couple of follow-up questions on the cloud. Robin, you mentioned deployment of V2X infrastructure will play -- will generate a network effect to your broader Apollo strategy. Can you elaborate that network effect little bit more and also what strategic benefits will the broader Apollo ecosystem benefit from the build-out of your V2X infrastructure in China?
+
+Then the near-term financial question is, Herman, I think you mentioned despite of the strong -- in addition to the strong gross momentum in first quarter, you expect Core revenue to further accelerate into the coming quarters. Can you talk about the fundamental driver to the strong revenue growth momentum, particularly in the Smart City market? What is your competitive edge or who do you see as the biggest competitor and what are the unique value proposition you bring to this market segment? Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Yes. For the V2X project, it's quite clear that the sensors build on the roads can communicate with vehicles. Therefore vehicles, be it with autonomous driving capabilities or not, they are connected so they can get signals from the infrastructure and therefore become more informed when deciding on their driving behavior.
+
+If there is a driver on the car, we can alert on any risks that's not directly visible by a human eye because there are sensors surrounding the environment that can alert the drivers and also better tracking driver behavior in some cases.
+
+For example, in the city of Guangzhou, there are some commercial trucks, their license plates could be covered by mud so the drivers were not afraid of violating the traffic laws. But now, with V2X infrastructure and on-vehicle devices [Phonetic] sometimes installed on those trucks, the city regulators can much better track those violations, therefore making the road safer and more efficient.
+
+Of course with vehicles with autonomous driving capabilities, they can be assured that the infrastructure can send signals to those kind of vehicles and help the vehicles to better assess the environment, therefore improve the accuracy of the planning and controlling process for autonomous driving.
+
+The more V2X projects we deploy, the more cars can benefit from this kind of infrastructure. Therefore, the autonomous driving capabilities can improve faster and also become safer for the passengers on those cars. And also it can reduce the cost of a single car [Phonetic] because sometimes you don't have to rely on very expensive on-board devices such as the high-end Lidars in order to really drive on fully autonomous. Herman?
+
+Herman Yu -- Chief Financial Officer
+
+Yes. And to add to what Robin just said, I think a couple of things. You asked us for smart transportation, what are the growth drivers. One thing is recognize how AI works, right, that the more data you have synchronized, it becomes more powerful. So what V2X does, for example, in Guangzhou, it is 102 intersections where we are offering an AI solution that allows the traffic lights to be synchronized throughout that whole part of the city. Okay. So, when you think about that and you know that the chance of getting to Phase 2 so that the first phase of the project is synchronized with the second phase, that would give you that kind of network effect.
+
+So that's why for example, when you see in the City of Baoding when we first had our first phase, we were called back for a second phase because you want that second set of lights to that part of the city to be synchronized and then we even see, for example, now a third part of the phase as we continue to expand the traffic lights. So, that's one way to expand our business, is to continue to take in more area of the city and be able to synchronize all of the traffic lights synchronized with the traffic flow.
+
+Okay. And you asked who is our competitor. We see competitors in the area, but we don't see them focusing on a whole part of the city. They are more looking at one light at a time, while we're using Baidu Brain to power the whole thing. And our opportunity is -- In addition, as Robin mentioned in the prepared remarks, once you go in there will lead to actually have the opportunity to go in there with Maas, right. Maas is our open platform, which controls robotaxi and Robobuses.
+
+Like in Guangzhou not only does it power the Robotaxis that Apollo have, you also have Robobuses in there. You also have another brand of robotaxi that our Maas is powering. So, you can think of it as the operating system for that part of the city and whenever there are other robotaxi transportation and so forth, the government uses our Maas to kind of power those robotaxi or Robobuses so that you could prioritize the ride and so forth.
+
+And then, there is other product expansions like for example going to highway, going to parkings, and so forth. So the more of these projects are synchronized obviously through AI and so forth, you're going to make the traffic moves smoother. So, you're seeing two trends.
+
+One is, as we're going into cities, we're getting multiple phases. We're expanding the products and you're also seeing us entering new and new -- more and more cities because a lot of cities in China now, they are leveraging on technology to improve their infrastructure rather than closing down roads and taking more land in order to widen the roads to basically reach the same goal.
+
+Operator
+
+Thank you for the questions. Next questions comes from the line of Jerry Liu of UBS. Please go ahead.
+
+Jerry Liu -- UBS -- Analyst
+
+Hey, thank you. Thank you, management. Robin, if I may go back to your earlier statement about how non-ad revenues could surpass ad revenues in the Baidu Core in three years. So, I mean that makes me feel that you guys see more -- have a bit more visibility and confidence of this mix shift. So I just want to ask, what are some of the drivers you're seeing here? Now obviously cloud Apollo maybe YY Live or can contribute to that, but I'm just wondering what are maybe the bigger drivers in this mix shift. Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Hi, Jerry. This is Robin. I don't know if you've noticed that when we say what kind of company Baidu is, we say that we are a leading AI company with strong Internet foundation. That means that we can not only benefit from the investments we did over the past like 10 years to more -- to get into more new businesses like intelligent driving and smart cloud, we also can leverage our AI capability to better monetize our strong user base we accumulated over the past for like 20 years.
+
+If you compare the Baidu mobile ecosystem with other leading mobile ecosystems in China, you notice that we are probably one of the very few that has online marketing revenue as the majority of total revenue. This is not a very reasonable situation. Our tens of millions of users can enjoy other kind of services of Baidu not just clicking on that, they can pay for premium content, they can do e-commerce transactions, they can play games, they can watch live streaming and tip their influencers.
+
+There are a lot of things we can do and as we deploy more closed-loop user experience, we think that the Baidu App and as we leverage our AI algorithms to better recommend services and better understand user's needs, we can monetize the strong user base through multiple ways. That's how we look at this landscape.
+
+Herman Yu -- Chief Financial Officer
+
+Yes. And just let me add to that -- to Robin. You asked us what are the key drivers. I think Robin was very clear, when you look at the mobile ecosystem, our non-advertising like here [Phonetic] because we can leverage our huge user base. We're reaching over 1 billion mobile devices per month, right.
+
+So, in addition to that, we talk about our cloud. You look at our cloud. It's pretty significant in size right now and it's still growing very robust and I think as we mentioned before, there's two main areas that's driving the growth. One is our infrastructure cloud. You have us differentiating with AI solutions, like on the prepared remarks whenever we go into a big customers with AI PaaS, we're seeing them having cross selling and having upselling.
+
+So not only does it sell more PaaS in applications, you're also seeing them, for example, crossing into IaaS like the example we gave, one bank started buying hybrid cloud as a result of building their relationship with us. So, we're going to see that digitalization of enterprises drive our sales, I think particularly in AI PaaS, particularly in application and it's also going to allow us to go into the IaaS of that business.
+
+Smart transportation we talked about, we think that that's a huge opportunity. When you look at, for example just last year in the number of projects that China has with transportation and so forth, there's probably over 300 cities. I think that's 302 cities recorded by the government that have a transportation project.
+
+So, there's huge opportunity for us in that area. And then, when you're looking at OGI, we look at a few areas. You look at, for example, our DuerOS with smart display, smart devices and so forth. You're looking at, for example, Apollo Self Driving, we're signing up with lot of OEMs as they are starting to ship their cars in the next few years, you're going to see more and more come on. For example in this year, just for example, ASD were still in the pipeline, by the end of the year, we should have maybe four automakers install ASD, right.
+
+And then, on top of that, we're already testing robotaxi ride-hailing. For example, went live in Beijing and so we should see that pretty exciting in the next couple of years. So here are just some of the areas that we think that there is potential for growth and because the TAM is 10 times and the CAGR is 3 times of advertising and you look at the pace that we have gone through, right.
+
+If you recall, just two quarters back, our non-advertising was growing at 14%. Last quarter we said it was a little bit higher at 52% and this quarter we're seeing 70%. So, you're seeing us really starting with our firing power for our non-advertising AI businesses that we have incubated over the last decade start to mature and start to monetize.
+
+Operator
+
+Thank you. Next question comes from the line of Miranda Zhuang from Bank of America. Please go ahead.
+
+Miranda Zhuang -- Bank of America Merrill Lynch -- Analyst
+
+Thank you. And good evening management. Thank you for taking my question. Congratulations on a very strong results and outlook. So, my question is about your EV business, can management provide any color on the scale of the financial investments that we're planning for the EV business this year and also as well as if there is any update to the product timeline?
+
+I would remember that in last earnings call management mentioned about planning to launch the EV car in three years' time. We would like to check if there is any update to this plan given that the EV market is recently becoming more and more crowded with more newcomers and more capital inflow. So, just want to check our timeline and also want to get a sense of what will our EV business might look like and what kind of key business milestones can we expect this year and next year? Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Yes. As you know that the EV business is a relatively independently operated company controlled by us. The goal is to make our latest and coolest technology available on the market as soon as possible. We mentioned that we intend to launch that within three years and of course the team is trying very hard to make it available earlier, as soon as possible.
+
+And our thesis remains unchanged because Apollo is a very comprehensive platform for all kind of autonomous technologies and we've been investing in this for many, many years. But we see a lot of opportunities to offer unique user experience and technology through a seamless integration of software and hardware as well as fully take advantage of infrastructure that's available to the consumers.
+
+Herman, do you have any financial color to add on that?
+
+Herman Yu -- Chief Financial Officer
+
+I think that the CEO just saying on, I think we're still working through our business plans. But if -- to look at that whole EV market, you can actually -- there's quite a few analysts that have given projection on the size and so forth. I think where we are is we are lucky in the sense that the hardest part if you think about EVs and so forth is the autonomous driving, that that ability being able to build intelligent driving, and also being able to power infotainment within the car so that you're having more intelligence both within the car as the person drives and also outside of the car.
+
+So, I think that would give us that ability to actually be able to design the car and to have those kind of technologies and products ready. So we don't have any particular numbers to give out now, but you do have projections on where the EV volume is going to be in three years and you do have other automakers that have shone in the last few years.
+
+So, we're going to be looking at that kind of model and we're going to be looking at the market that fits us -- our profile, as Robin mentioned, so that in this model -- maybe another way to look at this. If you look at where a lot of the EV cars are going, a lot of them are going direct to customers, right. If you look at the model with intelligent -- just like our speakers and so forth, in the past, with the speakers people sell hardware, right.
+
+When you think about EVs nowadays, you look at, for example, some of the cars, when they sell the cars, they are also trying to swap batteries so that they can get users to actually have more frequent contact so that they can also make more money after the post sales of hardware so they could sell more services.
+
+So, when you think about our business. Number one, we're already selling a lot of services like intelligent driving. We're already getting a lot of our infotainment installed in OEMs and so forth. So, this whole business model of having more contact with the users, with the consumers to build the brand and also be able to drive more services after the initial sale of hardware is something that we're very familiar with.
+
+So, I think we'll be more prepared as we go into that model of EV and adapting to that direct to customers rather than the traditional way of just trying to make the dollars by selling just hardware.
+
+Operator
+
+Thank you. Next question comes from Gary Yu of Morgan Stanley. Please go ahead.
+
+Gary Yu -- Morgan Stanley -- Analyst
+
+Hi. Thank you, Robin, Herman, and Juan. I have one follow-up question regarding your three-year kind of revenue mix outlook. Given to-date, the biggest part of your non-marketing revenue is coming from AI cloud. So how should we look at contribution from various businesses in three years' time when non-marketing surpass your marketing revenue? Should we still expect kind of AI cloud to be a dominant driver of that or we expect some of these autonomous driving revenue and also car hailing revenue will start to become more material?
+
+And a related question to that is, how should we look at margin given the revenue mix shift? So, how should we look at the mobile ecosystem margin trend going forward and by what time should we expect the non-marketing business to become profitable? Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Yes, on the revenue mix, if you look at our AI cloud, we've been disclosing the revenue number and growth rates for a number of quarters and you can probably do a projection based on the past performance. And there are many other ways that we can monetize our strong user base and AI technology through either intelligent driving or other things mentioned by myself and Herman.
+
+I think that all -- when that all add up, it should represent more than half of our total revenue. But the foundations today [Phonetic] we've been accumulating the user base for the past 20 years and we've been investing in AI technology for more than 10 years and this all come together and opens up a lot of new opportunities for us to grow our revenue.
+
+I'll let Herman answer about the margin question.
+
+Herman Yu -- Chief Financial Officer
+
+Yeah. Yeah, so on the margins, let me answer several ways. I think number one, obviously mobile ecosystem search and feed that is a mature business growing not as fast. When you have a business that we are in where our search is the largest in China, where we have tremendous amount of traffic, obviously you're going to have very good margin.
+
+But at the same time, with our mobile ecosystem, we were able to afford a lot of investments in these AIs and we're leveraging AIs into these businesses. So it helps us allocate some of that cost structure into other businesses. But as we're ramping up two types of businesses. One is 2B business right, when you think about AI cloud going into enterprises and we're also ramping up our 2G business going into cities working with municipalities and so forth, right. So, you're going to see us getting impacted by the margins in several ways.
+
+Number one is number -- you're going to have a cost of sales, right. Whether we're selling more AI solution projects, you have cost of sales. Whether we're selling more projects with smart transportation, whether we're selling more displays, you're going to have cost of sales. Furthermore, when you're seeing a strong steep ramp-up of our AI cloud business, smart transportation, and so forth, we have to hire ahead of the curve.
+
+We have to be looking at for the next six to 12 months where our sales are going to be and hire those salespeople in early so that we can train them for two quarters or so forth and then they could start going out there and get orders. So I think for the margins as you're seeing -- for example you're seeing us give very robust Q2 revenue guidance, then you should assume number one is, a lot of that growth is coming from new AI business.
+
+You're going to see gross margin compared to last year, you're going to see gross margin this year more incrementally from AI business. So, you've got to consider that. And secondly, you've got to consider the fact that we're going to increase our sales and marketing to support the current growth. And also the next few quarters, you're going -- you should expect, for example, us to accrue for bad debt because new -- these new business 2B and 2G, they all have AR [Phonetic] allowances unlike our advertising. So, these are the things you should consider.
+
+So, let me just summarize. I think when you're looking at non-advertising, the opportunity is in our typical cloud business, it's in smart transportation, it's within OGI. The key drivers are going to be related to intelligent driving such as our ASD and we think that our EV and our robotaxi and then lastly our smart devices. So, here are the three -- the few areas. And then in terms of margins, cost of sales, you're going to see it dampening, you've already seen that, for example, in Q1 and then we have to prepare for sales and marketing and also G&A, OK.
+
+Operator
+
+Thank you for the questions. Next questions comes from James Lee of Mizuho. Please go ahead.
+
+James Lee -- Mizuho Securities -- Analyst
+
+Great. Thanks for taking my questions. Two here. First on the cloud businesses and clearly you guys having a lot of success in AI point solution through customized projects. And maybe can you talk about how you plan to make the business more scalable? How close are you in building a standardized solution so you can expand across various industries using third-party developers and system integrators?
+
+And also, do you have a backlog number so we can get a better understanding of the underlying trends? And second is, for second quarter, Herman, can you talk about maybe your expectation on expense growth and to the extent you can break out between core advertising and new investments? Thanks.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+First of all, I think a lot of the projects we are taking for AI cloud is very scalable. The solution can really be standardized on a vertical industry basis. We have been talking about smart transportation. A smart transportation project in one city can be easily copied to another city and although it is loss making right now, but the gross margin is very good at this time already. And going forward, as we do more and more these kind of projects, I think margin will improve and the investment in R&D will gradually pay off.
+
+I mean the solutions are pretty standard from city to city. And more broadly, I think other industries be it in the financial industry or in the energy industry, we've been building a standardized layer mainly on the PaaS, platform-as-a-service layer. We have a lot of AI capabilities; speech recognition capability, text to speech capability, OCR capability, natural language processing capability; lots of things that can be standardized. And we do work with system integrators to deliver turnkey solutions to many of our customers and we will continue to do so. And going forward, I think the standard part of our AI cloud solution will become a bigger and bigger part of the total cloud revenue.
+
+Operator
+
+Thank you. Next questions comes from the line of Han Joon Kim of Macquarie. Please go ahead.
+
+Han Joon Kim -- Macquarie Capital Ltd. -- Analyst
+
+Great. Thank you, management. As we looked at some of the cloud revenues for your perhaps larger peers in the market, we've noticed a few other key accounts depart recently partially sometimes for extenuating circumstances, but others maybe just as customers want to build out their own services and so forth. So, as we think about stickiness of our own cloud revenues and perhaps dependencies on key accounts, can you give us any kind of indication of how we think about the stickiness of that? And yeah, just general, some observation you might have had about the market situation? Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Yeah. I think at an early stage, we may be very sensitive to one or two key customers. But as the base becomes larger and larger, any single key account customer will contribute a lower and lower percentage of our total revenue. I think this is kind of different from those standard app solutions provided to those Internet and media customers like some of our peers do. We've been more focused on vertical industries where we've been providing more AI empowered cloud solutions. I think that's more a defendable approach and a direction that's not so sensitive to any one or a few large customers.
+
+Operator
+
+Thank you. Next questions comes from Tian Hou of TH Capital.
+
+Tian Hou -- TH Capital -- Analyst
+
+Yeah, thank you, management, for taking my questions and congratulations on a good quarter. I have a quick question. In the EV car area, there are lots of new players in the market. Let's say Huawei right now is like -- you know announced that they have EV cars. So, I think maybe it is better for the audience and for the Street to understand what's the advantage of Baidu's EV cars compared with other guys? So, that's a simple question. Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Yes. I mentioned that we've been investing in this for many years for -- since 2013 and we've accumulated the best-in-class autonomous driving capability. And over the years, Apollo also morphed into a more comprehensive platform that offers all kinds of capabilities be it V2X capability or infotainment for individual vehicles. I think at this time, nobody on this planet has a more comprehensive solution than we do for smart EV. That's why we are very confident when we launch our own car, we can provide the best user experience and best price to performance ratio for our consumers.
+
+Our technology is just more advanced and mature than any other people in this industry. And on a broader note, I think Baidu has been investing very aggressively in AI. If you think about autonomous driving, it almost uses all kinds of AI technologies and we've been investing in this for more than 10 years and we spend roughly RMB20 billion in R&D last year. And we will continue to aggressively invest in R&D over the next 10, maybe 20 years and will make sure that our technology -- our AI technology and our autonomous driving technology will continue to lead in this market.
+
+It's very hard for anyone who comes on the Street new and makes this kind of claims and it's very hard to imagine an EV maker with a smaller market share, let's say if they are Number 4 or Number 5 in terms of market share, they can't afford this kind of continued intensive investment in R&D. And I think it's widely known that autonomous driving will not become mature for the next 10 or even 20 years. So, this

@@ -1,0 +1,121 @@
+ASML reports EUR 2.8 billion sales in Q3, expects EUR 3 billion sales in Q4
+ASML sees further growth for 2019
+VELDHOVEN, the Netherlands, October 17, 2018 - ASML Holding N.V. (ASML) today’s Investor Call - 2018 third-quarter results.
+Peter Wennink
+Good morning / good afternoon ladies and gentlemen and thank you for joining us for our Q3 2018 
+results conference call.
+Before we begin the Q & A session Roger and I would like to provide an overview and some commentary 
+on the third quarter, as well as provide our view of the coming quarters. Roger will start with a review of 
+the Q3 financial performance with some added comments on our short-term outlook. I will complete the 
+introduction with some additional comments on the current business environment and on our future 
+business outlook.
+Roger
+Roger Dassen
+Thank you Peter and welcome everyone.
+I will first highlight some of the third-quarter accomplishments and then provide our expectations for the 
+fourth-quarter of 2018.
+Q3 net sales came in at 2.78 billion Euros, which was towards the higher end of our expectation.
+Net system sales of 2.08 billion Euros was a bit more weighted towards Memory, at 58%, with the 
+remaining 42% from Logic. EUV revenue of 513 million Euros was from five shipments. Installed Base 
+Management sales for the quarter came in at 695 million Euros. Gross margin for the quarter was 48.1%, 
+just above our expectation, reflecting the strength of our DUV and Applications business as well as 
+progress in EUV profitability. Overall R&D and SG&A expenses basically came in as expected, with R&D 
+expenses at 397 million Euros and SG&A expenses at 122 million Euros.
+Turning to the balance sheet, € 362 million Euros worth of shares were repurchased in Q3. This leaves 
+around 1.7 billion Euros of the 2018-2019 share buyback remaining. We ended last quarter with cash, 
+cash equivalents and short-term investments at a level of 2.95 billion Euros.
+Moving to the order book, Q3 system bookings came in at 2.20 billion Euros. Memory order in-take 
+continued to be strong at 64% of total value. Logic made up the remaining 36% of the bookings. We took 
+five new EUV orders in the quarter, which contained a mix of both Logic and Memory.
+With that I would like to turn to our expectations for the fourth-quarter of 2018.
+We expect Q4 total net sales of about € 3.0 billion Euros leading us to expect another record year with 
+close to 11 billion Euros of revenue. Our total net sales forecast for the quarter includes around 500 
+million Euros of EUV system revenue from five EUV systems in the quarter. We currently expect to ship 6 
+systems in Q4, including one EUV system to a collaborative Research Center (imec), which will not be 
+recorded in revenue but will be used to settle R&D services from imec.
+Q4 will be our highest EUV shipment quarter to date, bringing the total to 18 systems in 2018. Due to a 
+combination of end of year production challenges and customer readiness, we now expect a couple of the 
+originally planned 2018 systems to ship in early 2019.
+We expect the EUV order flow to continue next quarter such that we will basically have our 30 systems 
+planned for 2019 covered by purchase orders by the end of this year.
+We expect our Q4 Installed Base Management revenue to be similar to last quarter at around 700 million 
+Euros. Gross margin for Q4 is expected to be around 48%. Taking Q4 guidance into account, gross
+margin for the full year would be around 47%, which is a step-up from last year's 45% gross margin. This 
+reflects the strength of our DUV and Applications business as well as continued progress in EUV 
+profitability. The higher R&D expenses for Q4 of about 420 million Euros are due to an acceleration of the 
+NXE:3400 roadmap and the high NA EUV program. SG&A is expected to come in at about 135 million 
+Euros.
+We remain excited about 2018 as the customers' demand for our products continues to be strong. We 
+look forward to delivering another record year with continued strong growth in both sales and profitability.
+With that I’d like to turn the call back over to Peter.
+Peter Wennink
+Thank you, Roger.
+As Roger has highlighted, we had another good quarter and we expect the fourth quarter to be even 
+stronger. With the current guidance, we expect that our sales for the year would be close to 11 billion 
+euros and that our profitability would improve over last year.
+We continue to see strong demand for our products in both logic and memory, as witnessed by our 
+strong order book. Logic customers continue to ramp the 10nm node and are also starting to ramp 7nm. 
+As customers prepare the ramp of the 7nm node, it not only drives DUV demand but also drives a 
+significant demand increase for EUV.
+In DRAM, customers are continuing with technology migrations as well as adding wafer capacity 
+additions to meet bit demand growth, as evidenced by our strong Q3 order intake for memory. We 
+believe that the limited number of wafer capacity additions by a limited number of customers, combined 
+with a healthy demand for DRAM bits, should not lead to a structural overcapacity in this industry 
+segment. In NAND, significant 2D to 3D conversions have taken place next to investments in several 
+greenfield fabs. This is likely creating a period of some digestion, as we mentioned in prior quarters.
+With regards to China, we continue to see strong demand for a broad suite of our products. The China 
+region has delivered around 20% of our system sales this year and is on track to set another record 
+revenue number. This is driven by both multi-national customers as well as domestic China customers. 
+All five domestic customers that we discussed in prior quarters have at least some pilot capacity in place 
+now and are looking to begin ramping next year. We believe this region presents a significant growth 
+opportunity under the assumption that these ramps of the domestic customers are successful, and that 
+the non-domestic customer will follow through with their investment plans.
+3
+On the ASML product side let me start with an update of our EUV business.
+• In EUV, we continue to make good progress. We have multiple NXE:3400 systems at customer 
+sites that are running at 125 wafers per hour or higher and are ready for high volume 
+manufacturing. Availability is progressing in support of customers' volume ramp with a clear focus 
+on machine consistency. The overall progress has led to the decision to accelerate our EUV 
+roadmap and we are, as a result of this, now planning the introduction of our next generation 0.33 
+NA EUV system, called NXE:3400C, in the second half of 2019. This system will deliver a 
+productivity of over 155 wafers per hour. We will talk more about the performance specifications 
+and roadmap during our Investor Day next month. As Roger mentioned, we continue to increase 
+our shipments per quarter and plan to ship 6 systems in Q4, bringing the total to 18 systems in 
+2018. As we mentioned in earlier calls, this year our production output is heavily back-end loaded 
+which has led to some production output challenges combined with customer fab readiness 
+logistics. We now plan to ship a couple of systems originally planned in 2018 in early 2019. Our 
+shipment plan for 2019 remains at 30 systems as we now have an increased mix of NXE:3400C 
+systems in the second half of 2019, which will enable a significantly higher wafer output capability 
+than the earlier specified 125 wafers per hour. With this higher productivity we expect to be able 
+to meet our customers' current EUV capacity plans in 2019. As Roger mentioned, we expect 
+order flow to continue next quarter and expect to have our 2019 demand for EUV covered by 
+orders by year end. 
+• In DUV, the introduction of the NXT:2000i system into the market is making significant progress 
+and will be used in volume manufacturing for both memory and logic. We are also seeing 
+significant demand for our dry products in support of a number of greenfield fab ramps in China 
+and other regions. 
+• In our Applications business, we continue to see growth across our full portfolio of software and 
+metrology products, notably related to the adoption of our YieldStar 375 expanding from logic and 
+DRAM now also into 3D NAND manufacturing. 
+To summarize 2018, we expect the growth to continue from Q3 to Q4 and set us up for another record 
+year in both sales and profitability.
+Regarding 2019, it is a bit too early to provide detailed guidance, but I will provide some qualitative 
+comments regarding our initial views. We continue to see strong demand for our products in both 
+memory and logic, supported by our bookings. DUV demand continues to be healthy in memory, as 
+discussed earlier, and we expect DUV demand in logic to further strengthen in 2019 driven by the 10 and 
+7 nm ramp. Furthermore, we expect continued growth of our Applications business, with expansion of 
+both metrology as well as software products. EUV demand continues to be driven by logic but also with a 
+clear opportunity in DRAM when we meet our availability and productivity targets. EUV revenue growth is 
+expected from both a significant increase in unit shipments as well as a higher asp of the NXE:3400C, for 
+which shipments are planned starting, as we said earlier, in the second half of 2019. 
+4
+Our installed base will continue to grow, driving increased install base management revenue. 
+Furthermore, we expect customers to take advantage of system performance upgrades on their installed 
+base to maximize capital efficiency.
+Our current view of the overall business next year remains positive. We expect the first half to be 
+somewhat similar to the second half of this year, with business strengthening in the second half of 2019. 
+Putting this all together, we expect another year with a good growth opportunity.
+We are well on track to achieve our 2020 targets with significant growth potential beyond 2020. We plan 
+to communicate the size and extent of this growth opportunity through 2025 at our Investor Day which 
+will hold on November 8th this year.
+With that we would be happy to take your questions.

@@ -1,0 +1,301 @@
+true_label,original_sent,text_output
+0,"non-gaap net income was a record $3.6 billion, and non-gaap earnings per share, also a record, was $0.88."," OUTOFCLAIM
+
+This sentence provides numerical information about past financial events, specifically the record non-GAAP net income and earnings per share. It is an established fact and not a prediction or expectation about future financial outcomes, therefore it falls under the category of 'OUTOFCLAIM'."
+0,"advertising revenue increased 12% year-over-year due to strong political advertising, which was up 70% over what we had generated in the last presidential election in 2016."," OUTOFCLAIM
+
+This sentence provides numerical information about past financial events, specifically the increase in advertising revenue and the comparison to previous years. It does not contain any predictions or expectations about future financial outcomes, making it an established fact and therefore classified as OUTOFCLAIM."
+0,"on a segment basis, same-store sales for the dollar tree segment increased 3.2%, or 3.1% when adjusted for canadian currency."," OUTOFCLAIM
+
+This sentence provides numerical information about a past financial event (same-store sales for the dollar tree segment) and is therefore considered an established fact. It does not contain any predictions or expectations about future financial outcomes, and thus does not qualify as an INCLAIM."
+0,"and free cash flow was $927 million, resulting in a free cash flow conversion of 92% and a free cash flow margin of 34%."," OUTOFCLAIM
+
+This sentence provides numerical information about past financial events, specifically the amount of free cash flow and the conversion rate and margin. It is an established fact and not a prediction or expectation about future financial outcomes, therefore it is classified as OUTOFCLAIM."
+0,non-gaap operating margin was strong at 44.1%.," OUTOFCLAIM
+
+This sentence provides numerical information about a past financial event (non-GAAP operating margin) and is therefore considered an established fact. It does not contain any predictions or expectations about future financial outcomes, and thus does not qualify as an INCLAIM."
+1,the expected cash returns reflect a previously announced 7% increase in the annualized dividend per share effective with the dividend expected to be paid in june 2020.," INCLAIM
+
+This sentence is an example of an INCLAIM because it discusses expected cash returns and a previously announced increase in the annualized dividend per share, which are both predictions or expectations about future financial outcomes. The sentence does not provide any numerical information or established facts about past financial events, but rather communicates a forecast or projection about future financial performance."
+0,"in the u.s. net product sales reached $303 million, representing a 159% year-over-year growth."," OUTOFCLAIM
+
+This sentence provides numerical information about a past financial event (net product sales reaching $303 million and a 159% year-over-year growth), making it an established fact and therefore classified as OUTOFCLAIM."
+0,"and i think, historically, if you look back, you'll see we've been pretty aggressive on share buybacks over the last several years with the dividend and share buybacks returning $76 billion since 2018."," OUTOFCLAIM
+
+Explanation: This sentence provides numerical information about past financial events, specifically the amount of money returned to shareholders through dividends and share buybacks since 2018. It does not contain any predictions or expectations about future financial outcomes, making it an 'OUTOFCLAIM' sentence."
+0,"additionally, we made a tax payment of approximately $100 million this quarter, which had been deferred as a result of the cares act."," OUTOFCLAIM
+
+This sentence provides information about a specific financial event that has already occurred (a tax payment of approximately $100 million) and includes a numerical value. It does not contain any predictions or expectations about future financial outcomes, making it an established fact and therefore classified as OUTOFCLAIM."
+0,"about three months ago, you guys were talking about if product orders were down 10% for the year, then your product backlog at fiscal year-end would be two to three times higher than the normal kind of $4 billion or $5 billion range."," INCLAIM
+
+This sentence is an example of an INCLAIM because it discusses predictions and expectations about future financial outcomes. Specifically, it mentions a potential 10% decrease in product orders and the impact that would have on the product backlog at the end of the fiscal year, which is an uncertain and future-oriented statement."
+0,"there's not a single commodity that even accounts for  10% of the overall spend, so fairly diverse basket."," INCLAIM
+
+This sentence is an INCLAIM because it expresses a prediction or expectation about future financial outcomes. The speaker is suggesting that the diversity of their investments will protect them from market volatility, which is a common strategy in investment management. The sentence does not provide any specific numerical information or established facts about past financial events, but rather conveys a forward-looking view on the performance of the investment portfolio."
+0,"i guess maybe if i think about the secure agile networking segment growing at 14%, that's really notable."," INCLAIM
+
+This sentence is an INCLAIM because it expresses a prediction or expectation about a future financial outcome, specifically the growth rate of the secure agile networking segment. The use of the phrase ""I guess"" and ""maybe"" suggests that the speaker is uncertain about the outcome, which further supports the classification as an INCLAIM."
+0,"the fourth quarter of fiscal 2017 include the following discrete items: a $35 million recovery related to the dollar express settlement, a $12.6 million charge for an increase in the workers' comp reserve, and a $9.8 million acceleration in non-cash deferred financing costs."," INCLAIM
+
+This sentence is an INCLAIM because it provides information about discrete items that affect the company's financial performance in the fourth quarter of fiscal 2017. The sentence includes predictions or expectations about financial outcomes, specifically the recovery related to the dollar express settlement, the charge for an increase in the workers' comp reserve, and the acceleration in non-cash deferred financing costs. These are not established facts or numerical information about past financial events, but rather an expectation or forecast of future financial performance."
+0,"consolidated total capital, which includes capex as well as software and intangibles, decreased 5.8% in the third quarter to $2.9 billion, primarily driven by declines at nbcu, particularly parks; as well as at cable."," OUTOFCLAIM
+
+This sentence provides numerical information about a past financial event, specifically the decrease in consolidated total capital in the third quarter. The sentence includes specific percentage and dollar amount information, and mentions the primary drivers of the decline, making it an established fact about past financial performance. Therefore, it is classified as OUTOFCLAIM."
+1,"in both our q3 and full year guidance, we're assuming a non-gaap effective tax rate of 19%."," INCLAIM
+
+This sentence is an INCLAIM because it refers to the company's guidance for the third quarter and full year, which are predictions or expectations about future financial outcomes. The sentence specifically mentions the non-GAAP effective tax rate, which is a key component of the company's financial performance, and the fact that it is assumed in the guidance suggests that it is a forward-looking statement."
+0,revenue increased by $1.1 billion to $1.4 billion.," OUTOFCLAIM
+
+This sentence provides numerical information about a past financial event (revenue increase) and is an established fact, therefore it is classified as OUTOFCLAIM."
+0,the other thing to take into consideration is the business transformation with 44% of our revenue now recurring really helps a great deal.," INCLAIM
+
+This sentence can be classified as an INCLAIM because it contains a prediction or expectation about a future financial outcome. The sentence mentions that 44% of the company's revenue is now recurring, which suggests that the company is transitioning towards a more stable and predictable business model. The phrase ""really helps a great deal"" also implies that the speaker believes this transformation will have a positive impact on the company's financial performance. Therefore, this sentence can be classified as a financial forecast or expectation, which falls under the INCLAIM category."
+1,"so, at the minimum, the decline in the backlog was $600 million at the minimum because end of year is going to be $8 million to $10 million."," INCLAIM
+
+This sentence is an INCLAIM because it provides a prediction or expectation about a future financial outcome, specifically the decline in backlog and the end-of-year financial results. The phrase ""at the minimum"" suggests that the speaker is uncertain about the exact amount of the decline, but still expects it to be at least $600 million. The sentence does not provide any established facts or numerical information about past financial events, but rather expresses a forecast or estimate about future financial performance."
+0,"today, we announced that we are raising our quarterly dividend by $0.01 to $0.39 per share, which represents our 13th consecutive increase."," INCLAIM
+
+This sentence is an INCLAIM because it contains a prediction or expectation about a future financial outcome, specifically the increase in the quarterly dividend. The sentence is announcing a future event (the dividend increase) and implies a positive financial performance that will allow the company to pay out a higher dividend."
+0,"and again, you've got to remember, at this point in time, it's about investments, especially in the first half, as we talked about the fact that the costs are front-end loaded with 75% being occurred within the first two quarters."," INCLAIM
+
+This sentence discusses the costs associated with investments, specifically noting that 75% of the costs occur within the first two quarters. This is a prediction or expectation about the financial outcomes of investments, making it an INCLAIM sentence."
+0,high-speed internet revenue grew 10% including rsn fee adjustments and grew just over 11% excluding those adjustments.," OUTOFCLAIM
+
+This sentence provides numerical information about past financial events, specifically the growth of high-speed internet revenue, including and excluding certain adjustments. The sentence provides established facts and does not contain any predictions or expectations about future financial outcomes, making it an OUTOFCLAIM."
+0,"our renovations over the past two quarters continue to outperform earlier versions, and we are delivering average comp lifts exceeding 10%."," INCLAIM
+
+This sentence is an INCLAIM because it contains a prediction or expectation about a financial outcome. The phrase ""continue to outperform"" implies that the renovations have had a positive impact on the company's financial performance, and the statement ""delivering average comp lifts exceeding 10%"" provides specific numerical information about the extent of that impact. However, it's important to note that this information is still a prediction or expectation, rather than a statement of established fact."
+0,"and then since the launch of dupixent for asthma, we're seeing the size of that market in total grow by about 10%."," INCLAIM
+
+This sentence is an INCLAIM because it expresses a prediction or expectation about a future financial outcome, specifically the growth of the market size for Dupixent for asthma. The sentence provides no concrete numerical information about past financial events, but rather offers a forecast or projection of future market growth."
+1,"and to complete the painting of that picture, we want to give some sense of what we expect on guidance as we look as far onto '20, and exactly to your point, includes that coming off of our guidance that we gave this morning, the $4.85 to $5.25."," INCLAIM
+
+This sentence is classified as an INCLAIM because it provides expectations or predictions about financial outcomes. Specifically, it mentions guidance for the year 2020 and a range of $4.85 to $5.25, which implies a forecast or projection of financial performance."
+0,"from a non-gaap perspective, total gross margin came in at 65.5%, down 140 basis points year over year."," OUTOFCLAIM
+
+This sentence provides numerical information about a past financial event (total gross margin and its change year over year) and is an established fact, rather than a prediction or expectation about a future financial outcome."
+0,"with the level of visibility we have, both $16 billion of short-term rpo, $30 billion of total rpo and add to that $14 billion of backlog, we have better visibility than we've ever had as i look ahead."," INCLAIM
+
+The sentence expresses a prediction or expectation about future financial outcomes, specifically mentioning the levels of short-term and total RPO and backlog, which suggests that the speaker has a positive outlook on the company's financial performance. The use of the phrase ""as I look ahead"" also implies that the speaker is making a forward-looking statement, which further supports the classification of INCLAIM."
+0,end-to-end security was up 7% driven by our unified threat management and zero trust offerings.," INCLAIM
+
+This sentence is an INCLAIM because it contains a prediction or expectation about a financial outcome (end-to-end security was up 7%). The sentence is expressing a causal relationship between the company's unified threat management and zero trust offerings and the increase in end-to-end security, which implies a future trend or projection."
+0,"so, that means that the minimum year backlog declined $600 million."," OUTOFCLAIM
+
+This sentence provides numerical information about a past financial event (the decline of $600 million in the minimum year backlog). It is an established fact and not a prediction or expectation about a future financial outcome, making it an OUTOFCLAIM."
+0,"for the third quarter, nbcuniversal revenue decreased 19% to $6.7 billion while ebitda decreased 39% to $1.3 billion."," OUTOFCLAIM
+
+This sentence provides numerical information about past financial events (third quarter revenue and EBITDA of NBCUniversal). The sentence does not contain any predictions or expectations about future financial outcomes, making it an established fact and therefore classified as OUTOFCLAIM."
+0,"our business generates a significant amount of cash flow, the long-term debt and tier 1 commercial paper markets remain open to us at favorable rates and extended maturities, and we have not drawn on our $7.5 billion committed bank facilities."," INCLAIM
+
+This sentence contains predictions and expectations about future financial outcomes, specifically regarding the company's ability to generate cash flow and access debt markets at favorable rates. The statement about the company's ability to access long-term debt and tier 1 commercial paper markets at favorable rates and extended maturities implies that the company expects to continue to have access to these markets in the future, which is an example of a financial forecast. Additionally, the statement about not having drawn on the company's $7.5 billion committed bank facilities suggests that the company expects to continue to have access to this funding source in the future, which is also a financial forecast."
+0,"within that amount, software backlog almost doubled to more than $2 billion, keeping in mind that backlog is not included as part of our $38.5 billion in remaining performance obligations."," INCLAIM
+
+This sentence is an INCLAIM because it discusses the growth of the software backlog, which is not yet recognized as revenue, and implies a potential future financial impact. The sentence mentions the increase in backlog in relation to the company's remaining performance obligations, which suggests that the growth in backlog may translate into future revenue. Therefore, this sentence can be considered a financial forecast or prediction."
+0,"even as we drew down backlog by 6% sequentially, our total backlog still grew year over year."," INCLAIM
+
+This sentence is an INCLAIM because it contains a prediction or expectation about a financial outcome. The phrase ""even as we drew down backlog by 6% sequentially"" implies that the company expected to reduce its backlog, but the fact that ""total backlog still grew year over year"" suggests that the company is predicting or expecting future growth."
+0,"product rpo increased 7% and service rpo increased 2%, and total short-term rpo grew to $16.9 billion."," OUTOFCLAIM
+
+This sentence provides numerical information about past financial events, specifically the growth of short-term rpo for a company. The sentence includes specific percentage increases and a total amount, which are established facts and not predictions or expectations, making it an OUTOFCLAIM."
+0,"total product orders grew 33%, with strength across the business."," INCLAIM
+
+This sentence is an INCLAIM because it uses the phrase ""grew 33%,"" which implies a change or increase in the past, and the phrase ""strength across the business,"" which implies a positive trend or performance. The sentence is expressing a positive expectation or prediction about the company's financial performance, which makes it an INCLAIM."
+1,these discrete costs are expected to be incurred disproportionately as approximately 75% will be incurred in the first half and 25% in the second half of fiscal 2019 as the company targets completing the majority of initiative projects by the end of august 2019.," INCLAIM
+
+This sentence is an INCLAIM because it expresses a prediction or expectation about future financial outcomes. Specifically, it states that certain discrete costs are expected to be incurred in a specific proportion (75% in the first half and 25% in the second half) of fiscal 2019, and that the company is targeting the completion of the majority of its initiative projects by the end of August 2019. This information is not based on historical financial data, but rather on the company's expectations for future performance."
+0,"as we navigated a complex supply environment, we were able to draw down total backlog by 6% sequentially, although it still grew year over year."," INCLAIM
+
+This sentence is an INCLAIM because it contains a statement about the company's ability to manage its supply chain and reduce backlog, which could be seen as a prediction or expectation about future financial performance. The sentence also includes a reference to year-over-year growth, which could be interpreted as a comparison to past financial performance, but the primary focus is on the company's actions and their potential impact on future financial outcomes."
+0,included in both balances was the first-quarter 2019 receipt of $462 million of consideration from sanofi related to the amended i/o discovery and development agreement.," OUTOFCLAIM
+
+This sentence provides information about a specific financial event that has already occurred, namely the receipt of $462 million from Sanofi in the first quarter of 2019. It is an established fact and not a prediction or expectation about a future financial outcome, therefore it is classified as OUTOFCLAIM."
+0,"ebitda increased 10% to $7.1 billion, and net cash flow grew 16% to $5 billion."," OUTOFCLAIM
+
+This sentence provides numerical information about past financial events, specifically the increase in EBITDA and net cash flow. The sentence does not contain any predictions or expectations about future financial outcomes, making it an established fact and therefore classified as OUTOFCLAIM."
+1,"additionally, we believe that these initiatives will drive business and provide the platform for an accelerated improvement in earnings in fiscal 2020 when the company's earnings per share is expected to grow 14% to 18% over reported fiscal 2019 earnings per share."," INCLAIM
+
+This sentence is an INCLAIM because it expresses a belief or expectation about future financial performance, specifically the growth of earnings per share in fiscal 2020. The sentence provides a numerical prediction (14% to 18% growth) and implies that the company's initiatives will drive business growth and improve earnings."
+0,"excluding these, programming expenses were up 2.8% as we begin to lap the large number of contract renewals that started to cycle through in 2020."," INCLAIM
+
+This sentence is an INCLAIM because it discusses the future financial performance of the company by mentioning that programming expenses were up 2.8% and implies that this trend may continue as contract renewals cycle through. The sentence provides a prediction or expectation about a future financial outcome, specifically the growth of programming expenses."
+0,"in the fourth quarter of 2018, the company incurred several discrete charges, including a $2.73 billion non-cash charge for goodwill impairment, a $40 million inventory markdown reserve related to the family dollar segments, a $13 million non-cash impairment of certain store assets, and a $1.5 million acceleration in non-cash deferred financing charges associated with debt prepayments."," OUTOFCLAIM
+
+This sentence provides numerical information about past financial events, specifically the company's financial performance in the fourth quarter of 2018. The sentence lists various charges incurred by the company, including non-cash charges for goodwill impairment, inventory markdown reserve, and store assets impairment, as well as acceleration in non-cash deferred financing charges associated with debt prepayments. These charges are established facts and not predictions or expectations about future financial outcomes, therefore classifying the sentence as OUTOFCLAIM."
+0,"the second thing is, as scott said, while we -- backlog came down 6% sequentially."," INCLAIM
+
+This sentence is an INCLAIM because it mentions a prediction or expectation about a financial outcome, specifically the sequential decrease of backlog by 6%. The use of the phrase ""while we"" suggests that the speaker is discussing a future or current situation, rather than providing information about a past event."
+0,"and by segment, the dollar tree segment delivered a positive 3.2% comp and family dollar same-store sales increased 1.4%."," OUTOFCLAIM
+
+This sentence provides numerical information about past financial events, specifically the sales performance of two segments of a company (Dollar Tree and Family Dollar). The sentence does not contain any predictions or expectations about future financial outcomes, making it an established fact and therefore classified as OUTOFCLAIM."
+1,"so, the real full big impact we'll feel when the tariffs go to 25%, if they go to 25%, will be in the third quarter."," INCLAIM
+
+This sentence is an INCLAIM because it expresses a prediction or expectation about a future financial outcome, specifically the impact of tariffs increasing to 25% on the third quarter. It is a statement about a future event and its potential financial consequences, rather than a statement of established fact or numerical information about past financial events."
+0,"in our experience cloud business, we achieved $1.1 billion in revenue, and subscription revenue was $961 million for the quarter."," OUTOFCLAIM
+
+This sentence provides numerical information about past financial events, specifically the revenue and subscription revenue achieved by a cloud business in a quarter. The sentence does not contain any predictions or expectations about future financial outcomes, making it an established fact and therefore classified as OUTOFCLAIM."
+1,we anticipate the non-gaap gross margin to be in the range of 63.5% to 64.5%.," INCLAIM
+
+This sentence is an example of an INCLAIM because it provides a prediction or expectation about a future financial outcome, specifically the non-GAAP gross margin. The range of 63.5% to 64.5% is a forecast and not a statement of established fact, making it an INCLAIM."
+1,"finally, gaap diluted eps is expected to be in the range of $5.94 to $7.34 and non-gaap diluted eps in the range of $6.30 to $7.70."," INCLAIM
+
+This sentence is classified as an INCLAIM because it provides a forecast or expectation about future financial outcomes, specifically the expected range of GAAP diluted EPS and non-GAAP diluted EPS. The sentence does not provide any numerical information or established facts about past financial events, but rather offers a prediction or estimate of future financial performance."
+0,revenue increased 19% to $30.3 billion.," OUTOFCLAIM
+
+This sentence provides numerical information about a past financial event (revenue increased 19% to $30.3 billion), making it an established fact and therefore classified as OUTOFCLAIM."
+1,"for the first quarter, we are forecasting total sales to range from $5.74 billion to $5.85 billion and diluted earnings per share to range of $1.05 to $1.15."," INCLAIM
+
+This sentence is an example of an INCLAIM because it provides a forecast or prediction about future financial outcomes, specifically total sales and diluted earnings per share for the first quarter. The ranges provided are uncertain and indicate a degree of uncertainty or risk, which is characteristic of financial forecasts."
+0,"i think, the supply frees up -- with $14 billion of backlog, we've got plenty of demand to go off and fulfill."," INCLAIM
+
+This sentence expresses a prediction or expectation about a future financial outcome, specifically the ability to fulfill demand with a large backlog of orders. The use of the phrase ""plenty of demand to go off"" suggests that the speaker believes there is a strong potential for future sales, making it an INCLAIM."
+1,our preliminary assessment for the combined gross direct impact on our revenue based on our existing backlog and sales funnel forecast is in the range of approximately $600 million to $900 million in calendar '23.," INCLAIM
+
+This sentence is an INCLAIM because it provides a forecast or prediction about future financial outcomes, specifically the impact of combined gross direct revenue in calendar year '23. The sentence uses phrases such as ""preliminary assessment,"" ""forecast,"" and ""sales funnel"" to indicate that the information provided is uncertain and subject to change, which further supports the classification as an INCLAIM."
+0,"as a result, for q3, we are targeting total adobe revenue of approximately $4.43 billion, net new digital media arr of approximately $430 million, digital media segment revenue growth of approximately 13% year-over-year or 16% in constant currency, digital experience segment revenue growth of approximately 12% year-over-year or 14% in constant currency, digital experience subscription revenue growth of approximately 13% year-over-year or 15% in constant currency, tax rate of approximately 22.5% on a gaap basis and 18.5% on a non-gaap basis and gaap earnings per share of approximately $2.35 and non-gaap earnings per share of approximately $3.33."," INCLAIM
+
+This sentence is classified as an INCLAIM because it provides predictions or expectations about financial outcomes for Q3, including targeted revenue and growth rates for different segments, as well as expected tax rate and earnings per share. These are forward-looking statements that are subject to various risks and uncertainties, and their realization depends on various factors, including market conditions, customer behavior, and the company's ability to execute its plans."
+0,studios revenue increased 27% driven fairly equally by growth in theatrical and content licensing revenue.," OUTOFCLAIM
+
+This sentence provides numerical information about a past financial event (the revenue increase of studios), and specifically mentions the drivers of that increase (theatrical and content licensing revenue). Therefore, it is an established fact about a past financial event and not a prediction or expectation about a future financial outcome, making it an OUTOFCLAIM."
+0,advertising revenue increased 16% with the results in the u.k. driving the bulk of the growth and reflecting the overall market recovery from covid-19.," INCLAIM
+
+This sentence is an INCLAIM because it contains a prediction or expectation about a financial outcome. The phrase ""driving the bulk of the growth"" implies that the growth in advertising revenue is expected to continue, and the mention of the overall market recovery from COVID-19 suggests that the growth is not just a one-time event, but rather a trend that is expected to continue in the future."
+0,our h2 stores are generating increased traffic and strong comp store sales lift and -- comp store sales lift in excess of 10% over control stores with actual comp store sales in excess of 13%.," INCLAIM
+
+This sentence is an INCLAIM because it provides a prediction or expectation about future financial outcomes. The phrase ""comp store sales lift in excess of 10%"" and ""actual comp store sales in excess of 13%"" suggest that the stores are performing well and are expected to continue doing so in the future. This is a forward-looking statement that falls under the category of financial forecasts."
+0,"80% of software revenue was subscription-based, which is up 4 percentage points year over year."," OUTOFCLAIM
+
+This sentence provides numerical information about a past financial event (the percentage of software revenue that was subscription-based) and is therefore an established fact, rather than a prediction or expectation about a future financial outcome."
+0,"for the three months ended march 31, 2019, combined non-gaap cost of goods sold and cost of collaboration and contract manufacturing were $174 million compared to $108 million in the first quarter of 2018."," OUTOFCLAIM
+
+This sentence provides numerical information about past financial events, specifically the cost of goods sold and cost of collaboration and contract manufacturing for the three months ended March 31, 2019, and compares it to the same period in the previous year. This information is factual and not a prediction or expectation about future financial outcomes, therefore it falls under the category of 'OUTOFCLAIM'."
+0,"and the short term at $16.3 billion, growing 8% gives you a sense of what the path ahead looks."," INCLAIM
+
+This sentence is an INCLAIM because it uses the phrase ""growing 8%"" which implies a prediction or expectation about future financial growth. The sentence is providing a sense of what the future financial path ahead looks like, which is a forward-looking statement that falls under the category of INCLAIM."
+1,"this resulted in a $130 million benefit in the third quarter, which will reverse in the fourth quarter."," INCLAIM
+
+This sentence is an INCLAIM because it makes a prediction about a future financial outcome (the reversal of a $130 million benefit in the fourth quarter). The sentence provides no numerical information about past financial events, but instead offers a forecast about what will happen in the future."
+0,"for example, in our enterprise business, we delivered 37% order growth, the highest in over 12 years, as large customers prioritize investments to modernize their networks and enable new digital capabilities and resiliency."," INCLAIM
+
+This sentence is an INCLAIM because it contains a prediction or expectation about a financial outcome. The sentence mentions ""order growth"" and ""investments,"" which implies that the company is expecting to see continued financial success in the future. Additionally, the use of the phrase ""highest in over 12 years"" suggests that the company is comparing its current performance to past performance, which is a common technique used in financial forecasting."
+0,"specifically for this quarter, record revenue of $2.7 billion was at the top of the guidance range, growing 31% on a year-over-year basis and 10% sequentially."," INCLAIM
+
+This sentence is an INCLAIM because it provides a prediction or expectation about a future financial outcome, specifically the revenue for the current quarter. The phrase ""at the top of the guidance range"" suggests that the company has provided a range of possible revenue outcomes, and the sentence is stating that the actual revenue is at the high end of that range. Additionally, the sentence includes a year-over-year and sequential growth rate, which are commonly used metrics to evaluate financial performance."
+1,this higher level of store closures in q4 and anticipated store changes in 2019 result in $40 million in incremental markdowns during the quarter.," INCLAIM
+
+This sentence is an INCLAIM because it mentions anticipated store changes in 2019 and the resulting incremental markdowns during the quarter, which are predictions or expectations about financial outcomes. The sentence provides no numerical information or established facts about past financial events, but rather discusses potential future financial impacts."
+0,"bren, on the china impact, in calendar '23, which you sized at $600 million to $900 million, i think that was a gross number."," INCLAIM
+
+The sentence is an estimation or prediction about the financial impact of something (in this case, the impact of China on the company) in the future (calendar year 2023). The use of the phrase ""I think"" and the range of $600 million to $900 million indicate that this is a forecast or expectation rather than a statement of established fact."
+0,we've also been able to effectively leverage our expansive high-quality library and over $20 billion of annual content spend that supports our existing media businesses for peacock and enhance it with targeted incremental investment in additional streaming ip.," INCLAIM
+
+This sentence is an INCLAIM because it mentions ""targeted incremental investment"" and ""enhance it with"" which implies that the company is making predictions or expectations about the financial outcomes of their investments in additional streaming IP. The sentence also mentions ""annual content spend"" which is a numerical information about past financial events, but the main focus of the sentence is on the future investments and their potential impact, making it an INCLAIM."
+0,"chuck robbins -- chairman and chief executive officer  and on the public sector question, i think it's a good catch on your part, because a lot of people look at the 20% and see it as being below the other customer markets in -- and would look at that negatively."," INCLAIM
+
+This sentence is an INCLAIM because it contains a prediction or expectation about a financial outcome. The speaker is expressing their opinion on the public sector question and how it may be perceived by others, specifically mentioning the 20% figure and how it compares to other customer markets. This sentence does not provide numerical information or established facts about past financial events, but rather offers a subjective interpretation of a financial situation."
+0,"for the third quarter, cable communications revenue increased 2.9% while ebitda increased 10.5%."," OUTOFCLAIM
+
+This sentence provides numerical information about past financial events (third quarter) and is stating established facts about the revenue and EBITDA of a company. It does not contain any predictions or expectations about future financial outcomes, making it an OUTOFCLAIM."
+0,"so any way to think about how your numbers or guidance might change if 25% doesn't happen and 10% also, that's removed?"," INCLAIM
+
+This sentence is asking for a change in guidance or numbers in the event that certain percentages don't happen, which is a prediction or expectation about a future financial outcome."
+0,"if you're thinking wfe is somewhere in the $75 billion-ish range or so, the kinds of numbers are reasonable that you're mentioning."," INCLAIM
+
+This sentence is an INCLAIM because it expresses a prediction or expectation about a future financial outcome, specifically the valuation of a company (WFE) in the range of $75 billion. The sentence does not provide any concrete numerical information or established facts about past financial events, but rather offers a hypothetical scenario and uses vague language (""somewhere in the $75 billion-ish range"") to convey a sense of uncertainty."
+0,"for example, in our adolescent atopic dermatitis trials, more than 90% had at least one other allergic condition, with more than 50% suffering from co-morbid asthma."," OUTOFCLAIM
+
+This sentence provides numerical information about past clinical trials, specifically the percentage of participants with co-morbid conditions. The information is factual and not a prediction or expectation about future financial outcomes, making it an 'OUTOFCLAIM'."
+0,"looking at our geographies, americas grew 8%, emea was up 6%, and apjc was up 12%."," INCLAIM
+
+This sentence is an INCLAIM because it provides information about the growth rates of different geographic regions, which can be used to make predictions or expectations about future financial outcomes. The numbers provided are not necessarily historical facts, but rather a snapshot of current performance that can be used to inform financial forecasts."
+1,"for fiscal 2019, we're planning for consolidated capital expenditures to be approximately $1 billion."," INCLAIM
+
+This sentence is an example of an INCLAIM because it provides a prediction or expectation about a future financial outcome - specifically, the company's consolidated capital expenditures for fiscal 2019. The sentence does not provide any numerical information or established facts about past financial events, but rather communicates a forward-looking expectation or plan."
+0,capital expenditures were $194.4 million in the fourth quarter versus $182.8 million in the fourth quarter of last year.," OUTOFCLAIM
+
+This sentence provides numerical information about past financial events, specifically the capital expenditures of a company during a specific quarter. The sentence does not contain any predictions or expectations about future financial outcomes, making it an 'OUTOFCLAIM' sentence."
+0,"in terms of bottom line from a gaap perspective, q1 net income was $3.5 billion and eps was $0.77."," OUTOFCLAIM
+
+This sentence provides numerical information about past financial events (Q1 net income and EPS) from a GAAP perspective, which is a widely recognized and standardized framework for financial reporting. Therefore, it can be considered an established fact and classified as OUTOFCLAIM."
+0,"in q2, we continued to drive outstanding experience cloud growth, achieving a record $1.1 billion in revenue."," OUTOFCLAIM
+
+This sentence provides numerical information about a past financial event (the company's revenue in Q2), making it an established fact and not a prediction or expectation about future financial outcomes."
+1,"we aim to deliver 100% recyclable, reusable, or compostable packaging by 2025."," INCLAIM
+
+This sentence is an INCLAIM because it expresses a goal or aim for the future, specifically related to financial outcomes (recyclable, reusable, or compostable packaging) and a specific time frame (2025). It is a prediction or expectation about a future financial outcome, and not a statement of established fact."
+0,"we talked about at the beginning of the year, commercial investments and investments in service between $250 to $300 million."," INCLAIM
+
+This sentence is an INCLAIM because it discusses predictions or expectations about financial outcomes. Specifically, it mentions investments in service between $250 to $300 million, which implies a forecast or estimate of future financial performance."
+0,and service is roughly 10% to 15% of that.," INCLAIM
+
+This sentence is an estimate or prediction about the future financial performance of a company, specifically regarding the percentage of revenue that will come from service. It is a financial forecast, therefore it is classified as INCLAIM."
+1,"these renovated stores will include new price impact sections, including $1 dollar tree merchandise assortments."," INCLAIM
+
+This sentence is an INCLAIM because it contains a prediction or expectation about a future financial outcome, specifically the impact of the renovated stores on the company's pricing strategy and the potential sales of $1 dollar tree merchandise assortments. The sentence does not provide any numerical information or established facts about past financial events, but rather expresses a forward-looking statement that could potentially influence investment decisions or financial projections."
+0,prior year included a $35 million repayment of a dollar express receivable written off earlier in 2017.," OUTOFCLAIM
+
+This sentence provides information about a specific financial event that has already occurred (the repayment of a receivable) and includes a dollar amount, making it an established fact about a past financial event. It does not contain any predictions or expectations about future financial outcomes, and therefore does not qualify as an INCLAIM."
+0,inventory per selling square foot increased 5.8%.," OUTOFCLAIM
+
+This sentence provides numerical information about a past financial event (inventory per selling square foot increased 5.8%), making it an established fact and not a prediction or expectation about a future financial outcome."
+0,"the flip side is, look at the growth of our rpo at $30.5 billion, growing 8%."," INCLAIM
+
+The sentence is an expectation about future financial growth, specifically the growth of RPO (Revenue Process Outsourcing) at $30.5 billion and growing 8%. This is a prediction or forecast, and therefore falls under the category of INCLAIM."
+0,"consolidated revenue declined 4.8% year-over-year to $25.5 billion while adjusted ebitda was down 11% to $7.6 billion and adjusted eps fell 18% to $0.65 per share, all a result of the lingering effects of covid-19."," OUTOFCLAIM
+
+This sentence provides numerical information about past financial events, specifically the decline in consolidated revenue, adjusted EBITDA, and adjusted EPS. The sentence does not contain any predictions or expectations about future financial outcomes, making it an established fact and therefore classified as OUTOFCLAIM."
+0,"the strong level of net customer additions over the past year, including this third quarter, coupled with higher average revenue per customer, drove broadband revenue growth of 12%."," INCLAIM
+
+This sentence is an INCLAIM because it includes predictions or expectations about financial outcomes. The phrase ""drove broadband revenue growth of 12%"" implies a causal relationship between the mentioned factors and the revenue growth, which is a prediction or expectation about a future financial outcome."
+0,"that's the reason you're seeing some of the -- because the subscription stuff, obviously, is recognized over time, and you're taking a 12% hit on a onetime piece of software from the way we used to sell it."," INCLAIM
+
+This sentence is an INCLAIM because it discusses the future financial impact of a change in the company's subscription model. The phrase ""you're taking a 12% hit"" implies a predicted or expected financial loss, which falls under the category of financial forecasts or predictions."
+0,"our operating margin was 31.9%, up 1.5 points."," OUTOFCLAIM
+
+This sentence provides numerical information about a past financial event (operating margin) and is therefore considered an established fact. It does not contain any predictions or expectations about future financial outcomes, and thus does not qualify as an INCLAIM."
+0,and i think what a lot of people are trying to get at is understanding holding the digital media arr guide at $1.9 billion for the full year.," INCLAIM
+
+This sentence is an INCLAIM because it expresses a prediction or expectation about a future financial outcome - the full-year revenue for the digital media arm being held at $1.9 billion. The sentence is discussing a future event and is uncertain in nature, making it a financial forecast."
+0,take 6% of that and the backlog is now higher.," INCLAIM
+
+This sentence is an instruction to take a percentage of a certain amount, and the result is that the backlog is now higher. This implies that the speaker is making a prediction or expectation about the future state of the backlog, which makes it an INCLAIM sentence."
+0,"overall, sky q penetration is at 51% of households while u.k. penetration has reached 58%, up 13 percentage points year-over-year."," INCLAIM
+
+This sentence is an INCLAIM because it provides a prediction or expectation about a financial outcome, specifically the penetration rate of Sky Q households. The sentence mentions a year-over-year increase of 13 percentage points, indicating a trend that may continue in the future. While the sentence does contain some numerical information about past financial events (i.e., the current penetration rates), the primary focus is on the future trajectory of the penetration rate, making it an INCLAIM."
+0,"excluding the $0.21 per share benefit from the extra week in 2017, adjusted earnings per share increased 14.9%."," INCLAIM
+
+This sentence is an INCLAIM because it provides a prediction or expectation about a financial outcome, specifically the adjusted earnings per share. The sentence includes a comparison to a previous year's financial performance, but it also includes a forecast or projection of future financial performance by using the phrase ""adjusted earnings per share increased 14.9%."""
+0,"in addition, the increased visibility we have from almost $32 billion in rpo, a healthy backlog and pipeline, and improving supply give us the confidence to raise our full-year outlook."," INCLAIM
+
+This sentence is an INCLAIM because it expresses a prediction or expectation about a future financial outcome, specifically the company's full-year outlook. The mention of ""improving supply"" and ""healthy backlog and pipeline"" suggest that the company has a positive outlook for its financial performance, which falls under the category of financial forecasts or expectations."
+0,"net new digital media annualized recurring revenue, or arr, was $464 million."," OUTOFCLAIM
+
+This sentence provides numerical information about a past financial event, specifically the annualized recurring revenue for net new digital media, which is an established fact. It does not contain any predictions or expectations about future financial outcomes, making it an OUTOFCLAIM."
+0,"we are also raising our dividend by $0.01 to $0.38 per quarter, which represents our 12th increase."," INCLAIM
+
+This sentence is an INCLAIM because it contains a prediction or expectation about a future financial outcome, specifically the increase in dividend per quarter. The sentence provides information about the company's intention to raise its dividend, which is a forward-looking statement and not a statement of historical fact."
+1,"under the terms of the recently signed collaboration agreement with , we are obligated to make an upfront payment of $400 million and have also agreed to purchase $400 million of equity, which equates to approximately 4.44 million common shares at the agreed-upon price of $90 per share."," INCLAIM
+
+This sentence contains predictions or expectations about financial outcomes. The upfront payment and equity purchase are future financial obligations and the number of common shares and price per share are also future expectations, therefore it falls under the category of INCLAIM."
+0,"our capital expenditures for the first quarter, which has historically been our lowest spennd quarter, was $74 million."," OUTOFCLAIM
+
+This sentence provides numerical information about a past financial event (capital expenditures for the first quarter) and is therefore considered an established fact. It does not contain any predictions or expectations about future financial outcomes, making it an OUTOFCLAIM."
+0,"51% of homes and businesses in our footprint are now taking our hsd product, up 240 basis points 5 refinitiv streetevents | www."," INCLAIM
+
+This sentence is an INCLAIM because it provides a numerical update on the adoption rate of a product, which can be used to inform predictions or expectations about the company's financial performance. The use of the phrase ""up 240 basis points"" suggests a comparison to a previous period, which is a common way to express financial performance. Additionally, the mention of ""Refinitiv Streetevents"" suggests that the information is being provided in the context of a financial report or analysis."
+0,"q2 business and financial highlights included: record revenue of $4.39 billion, gaap diluted earnings per share of $2.49 and non-gaap diluted earnings per share of $3.35, digital media revenue of $3.20 billion, net new digital media arr of $464 million, digital experience revenue of $1.10 billion, cash flows from operations of $2.04 billion, rpo of $13.82 billion exiting the quarter and repurchasing approximately 1.9 million shares of our stock during the quarter."," OUTOFCLAIM
+
+This sentence provides numerical information about past financial events, including revenue, earnings per share, and cash flows from operations. It also mentions specific financial metrics, such as RPO (Remaining Performance Obligations) and share repurchases, which are established facts rather than predictions or expectations. Therefore, it is classified as OUTOFCLAIM."
+0,so i want to congratulate you guys on the 30%-plus product order growth.," INCLAIM
+
+This sentence is an expression of praise and congratulations for a company's financial performance, specifically the growth in product orders, which implies a positive financial outcome. Therefore, it falls under the category of financial forecasts or predictions."
+0,"cable communications ebitda grew by 10.5%, and margin reached 42.7%, reflecting 290 basis points of year-over-year improvement."," OUTOFCLAIM
+
+This sentence provides numerical information about past financial events, specifically the growth of cable communications EBITDA and margin. The use of percentage points and basis points indicates a focus on established financial facts, rather than predictions or expectations about future outcomes."
+1,non-gaap earnings per share is expected to range from $3.73 to $3.78.," INCLAIM
+
+This sentence is an example of an INCLAIM because it provides a prediction or expectation about a future financial outcome, specifically the non-GAAP earnings per share. The range of $3.73 to $3.78 is an estimate and not a definitive number, indicating that it is a forecast or projection rather than an established fact."
+0,"we had record operating cash flow for the quarter of $4.7 billion up 93% year-over-year driven by strong collections, and we deferred our q2 federal tax payments due to the irs tax relief related to the california floods."," OUTOFCLAIM
+
+This sentence provides numerical information about past financial events, specifically the company's operating cash flow for the quarter and the reason for deferring tax payments. The information provided is factual and not a prediction or expectation about future financial outcomes, making it an 'OUTOFCLAIM' sentence."

@@ -1,0 +1,241 @@
+true_label,original_sent,text_output
+0,"and i think, historically, if you look back, you'll see we've been pretty aggressive on share buybacks over the last several years with the dividend and share buybacks returning $76 billion since 2018.","OUTOFCLAIM
+
+The sentence provides numerical information about past financial events, specifically stating that $76 billion has been returned through dividend and share buybacks since 2018."
+0,we delivered our second-highest quarterly revenue of $13.6 billion up 7% and record non-gaap eps at $0.88.,"OUTOFCLAIM
+The sentence provides numerical information and established facts about past financial events, specifically stating the second-highest quarterly revenue of $13.6 billion and record non-GAAP EPS at $0.88."
+0,"we saw strong momentum in q1, with total product orders growing 8%.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that total product orders grew by 8% in q1."
+0,cable revenue increased 7.4% to $16.1 billion.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of cable revenue increasing by 7.4% to $16.1 billion."
+0,"i was a little bit surprised that the metric of hardware attached software in backlog is $2 billion, same as it was in the prior quarter.","OUTOFCLAIM
+The sentence provides numerical information about the metric of hardware attached software in backlog, stating that it is $2 billion, which is the same as it was in the prior quarter."
+1,"i would say it's less than -- if our systems business in china and semi pc is somewhere between 20% and 25%, i would expect the service stream is less because it's less developed, right?","INCLAIM
+
+The sentence is making a prediction or expectation about the financial outcome of the service stream based on the information provided about the systems business in China and semi PC."
+0,"today, we announced that we are raising our quarterly dividend by $0.01 to $0.39 per share, which represents our 13th consecutive increase.","OUTOFCLAIM
+
+The sentence provides numerical information about a past financial event, specifically the announcement of a dividend increase."
+0,"we're kind of operating in line with the long-term range that i've talked about is somewhere between 63%, plus or minus 50 basis points or so, and we've been operating fairly consistent with that if you look at the broader picture of calendar '22.","INCLAIM
+
+The sentence is referring to operating in line with a long-term range and being consistent with it. It also mentions a specific percentage range and talks about operating in the future (calendar '22). This indicates a prediction or expectation about financial outcomes."
+0,"rpo exiting the quarter was $13.82 billion, growing 13% year-over-year or 15% year-over-year when factoring in a 2% foreign exchange headwind.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of RPO exiting the quarter being $13.82 billion, growing 13% year-over-year or 15% year-over-year when factoring in a 2% foreign exchange headwind."
+0,this reflects systems and service impact with service representing approximately 10% to 15% of the total.,"OUTOFCLAIM
+The sentence provides numerical information about the percentage of service representing approximately 10% to 15% of the total."
+0,i'd say -- and the overall service provider segment was 42%.,"OUTOFCLAIM
+The sentence provides a numerical information (42%) about the past financial event (the overall service provider segment)."
+0,"excluding these adjustments, overall cable revenue would have risen by 3.9% with no corresponding impact to ebitda.","INCLAIM
+
+The sentence is making a prediction or expectation about a financial outcome. It states that if certain adjustments are excluded, the overall cable revenue would have increased by 3.9% without affecting the EBITDA."
+0,"but we've got the plan assuming 25% was going to be in for the full year, and that's in our guidance.","INCLAIM
+
+The sentence is making a prediction or expectation about a financial outcome. It mentions a plan assuming that 25% will be in for the full year, indicating a financial forecast."
+0,"on a segment basis, same-store sales for the dollar tree segment increased 3.2%, or 3.1% when adjusted for canadian currency.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the increase in same-store sales for the dollar tree segment."
+0,and total digital media arr exiting q2 grew to $12.95 billion.,"OUTOFCLAIM
+The sentence provides numerical information about the total digital media ARR (Annual Recurring Revenue) growing to $12.95 billion in the second quarter."
+0,"this quarter, we also achieved record operating cash flow, enabling today's dividend increase and the buyback of over $1 billion.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically mentioning the achievement of a record operating cash flow, dividend increase, and buyback of over $1 billion."
+0,"our operating margin was 31.9%, up 1.5 points.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the operating margin being 31.9% and increasing by 1.5 points."
+0,"we're also leaning into flex, which increases the lifetime value of our broadband customers as we see churn improve by 15% to 20% for new customers that engage with the platform.","INCLAIM
+
+This sentence is classified as 'INCLAIM' because it provides predictions or expectations about financial outcomes. It mentions that the company is leaning into flex, which is expected to increase the lifetime value of broadband customers. It also predicts that churn will improve by 15% to 20% for new customers who engage with the platform."
+0,"enterprise same-store sales increased 2.4% on a constant currency basis, or 2.3% when adjusted for the impact of canadian currency fluctuations.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the increase in same-store sales."
+0,"we had a wonderful third quarter across the entire company with 18% growth in adjusted ebitda and 34% growth in adjusted eps, and we generated $3.2 billion of free cash flow.","INCLAIM
+
+The sentence provides predictions or expectations about financial outcomes, specifically mentioning the growth in adjusted EBITDA and adjusted EPS, as well as the generation of $3.2 billion of free cash flow."
+0,we added $107 million of net new document cloud arr in the quarter.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of adding $107 million of net new document cloud ARR in the quarter."
+0,"i think, scott called out in his section that our product software revenue growth was 9%.","INCLAIM
+The sentence is expressing a prediction or expectation about the financial outcome of the product software revenue growth being 9%."
+0,"the flip side is, look at the growth of our rpo at $30.5 billion, growing 8%.","INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of the growth of the RPO (Revenue Per Order) at $30.5 billion, growing 8%."
+0,"we had continued momentum in product orders, which grew 8%.","INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the growth of product orders by 8%."
+0,"gross profit margin for the dollar tree segment was 37.1% for the fourth quarter, a 90 basis point decline compared with the prior year's fourth quarter.","OUTOFCLAIM
+The sentence provides numerical information about the gross profit margin for the dollar tree segment in the fourth quarter, comparing it with the previous year's fourth quarter."
+0,"while total product orders were down 22%, they compared against 34% growth in q2 fiscal '22, which is one of the largest quarters for product orders in our history.","OUTOFCLAIM
+
+The sentence provides numerical information and established facts about past financial events. It states that total product orders were down 22% compared to a 34% growth in Q2 fiscal '22, which is one of the largest quarters for product orders in the company's history."
+1,non-gaap earnings per share is expected to range from $0.85 to $0.87.,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of non-GAAP earnings per share, indicating a range of $0.85 to $0.87."
+0,but -- and then you've got over $2 billion of software sitting in backlog that is not an rpo yet because it's connected to a piece of hardware that hasn't shipped.,"OUTOFCLAIM
+
+This sentence provides numerical information about the value of software sitting in backlog, which is an established fact about past financial events."
+0,this was an increase over the prior year's adjusted $1.89 per share in the 14-week period.,"OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically an increase in earnings per share compared to the previous year."
+0,"that will all fall to the bottom line, but it gives us an opportunity to invest in the business as we see tariffs change from 25% to 10% or 10% to 0%.","INCLAIM
+
+The sentence is predicting or expecting a financial outcome, specifically the impact on the bottom line and the opportunity to invest in the business based on changes in tariffs."
+0,"second, our patterning systems revenue grew 49% sequentially and 67% on a year-over-year basis.","OUTOFCLAIM
+The sentence provides numerical information about the growth of the patterning systems revenue, indicating the percentage increase sequentially and on a year-over-year basis."
+1,will be eligible to receive up to $200 million in clinical proof of principle milestones for eye or cns programs.,"INCLAIM
+
+The sentence is predicting or expecting that the entity will be eligible to receive up to $200 million in clinical proof of principle milestones for eye or CNS programs."
+1,"what we wanted to give you confidence is we have better visibility than we've ever had in the past, both from the backlog and the $17 billion -- almost $17 billion of rpo that's current, that's going to turn into revenue in the next 12 months in the arr.","INCLAIM
+
+The sentence is classified as 'INCLAIM' because it contains predictions or expectations about financial outcomes. The speaker is expressing confidence in having better visibility in the future, specifically mentioning the backlog and the $17 billion of rpo (remaining performance obligations) that will be converted into revenue in the next 12 months."
+0,"optimized application experiences was up 12%, driven by double-digit growth in both thousandeyes and intersight.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that the optimized application experiences increased by 12% due to double-digit growth in both ThousandEyes and Intersight."
+0,advertising revenue increased 16% with the results in the u.k. driving the bulk of the growth and reflecting the overall market recovery from covid-19.,"OUTOFCLAIM
+
+The sentence provides numerical information about past financial events, specifically stating that advertising revenue increased by 16%. It also mentions that the growth was driven by the results in the UK and reflects the overall market recovery from COVID-19."
+0,"second quarter digital experience growth drivers included strong growth in our adobe experience platform business, or aep, with real-time cdp revenue more than doubling year-over-year; increasing customer interest and pipeline generation for new applications built on aep, including real-time cdp, customer journey optimizer and customer journey analytics; success with workfront where average deal sizes grew greater than 35% year-over-year; continued customer demand in content and commerce with significant new customer acquisition in adobe experience manager as a cloud service; enterprise demand for adobe professional services, driving customer success and new implementations across our solutions and strength in retention rates during the quarter, driven by product differentiation and our focus on delivering customer value.","INCLAIM
+The sentence provides predictions and expectations about financial outcomes, such as strong growth in the adobe experience platform business, increasing customer interest and pipeline generation for new applications, success with workfront, continued customer demand, enterprise demand for adobe professional services, and strength in retention rates."
+0,"in q2, we achieved revenue of $1.10 billion, which represents 17% year-over-year growth or 18% in constant currency.","OUTOFCLAIM
+
+The sentence provides numerical information about past financial events, specifically stating that in Q2, the company achieved revenue of $1.10 billion, representing 17% year-over-year growth or 18% in constant currency."
+0,"total capital returns in the quarter were $278 million, comprising $90 million in share repurchases and $188 million in dividends paid.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the total capital returns in the quarter, which were $278 million, consisting of $90 million in share repurchases and $188 million in dividends paid."
+0,"for the first quarter, u.s. eylea net product sales grew 9% year over year to $1.07 billion.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that U.S. Eylea net product sales grew 9% year over year to $1.07 billion in the first quarter."
+0,"when we take the fx and the impact we discussed in q1, that's a $250 million revenue headwind in the back half of the year.","INCLAIM
+
+This sentence is classified as 'INCLAIM' because it provides a prediction or expectation about a financial outcome. It mentions a $250 million revenue headwind in the back half of the year, indicating a forecast of a negative impact on revenue."
+0,"finally, operating cash flow topped $1 billion for the first time, and we generated quarterly free cash flow of $927 million and free cash flow margin of 34%.","OUTOFCLAIM
+
+This sentence provides numerical information and established facts about past financial events, specifically stating that the operating cash flow reached $1 billion for the first time, and quarterly free cash flow was $927 million with a free cash flow margin of 34%."
+0,"ebitda for the third quarter was down roughly 45% as flat revenue was offset by an increase in programming and production costs, primarily as a result of the postponement of european football events, which moved from the second quarter into the third as a result of covid-19.","INCLAIM
+
+The sentence provides predictions or expectations about financial outcomes by stating that the EBITDA for the third quarter was down roughly 45% due to specific factors such as flat revenue, increased programming and production costs, and the postponement of European football events."
+0,"while revenue from our hospitality business, the pubs and clubs that receive our sky tv service, remains pressured, we have seen weekly revenue back to 70% of historical levels versus 25% at the start of the quarter.","INCLAIM
+
+The sentence provides a prediction or expectation about the financial outcome of the revenue from the hospitality business. It states that the revenue remains pressured but has seen an improvement, reaching 70% of historical levels compared to 25% at the beginning of the quarter."
+0,cable networks ebitda decreased 8.9% due to higher programming and production expenses driven by the shift of sports rights amortization costs into the third quarter.,"OUTOFCLAIM
+This sentence provides numerical information and established facts about the past financial event of cable networks' EBITDA decreasing by 8.9% due to higher programming and production expenses caused by the shift of sports rights amortization costs into the third quarter."
+0,"don't forget that 6% growth in the midpoint of the guide we gave you -- again, excluding spvss out of both periods, obviously -- is really solid because we have a much tougher comparison a year ago.","INCLAIM
+
+The sentence is classified as 'INCLAIM' because it contains a prediction or expectation about a financial outcome. The mention of ""6% growth in the midpoint of the guide"" suggests a forecast of future financial performance."
+0,our fourth quarter comp performance of positive 1.4% was the strongest of the year.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the fourth quarter comp performance, stating that it was positive 1.4% and the strongest of the year."
+0,"so, if you go back eight or nine years ago, we might have had to take orders for 75% of our revenue in any given quarter.","OUTOFCLAIM
+The sentence provides numerical information about past financial events by stating that in the past, the company had to take orders for 75% of their revenue in any given quarter."
+0,"we had record operating cash flow for the quarter of $4.7 billion up 93% year-over-year driven by strong collections, and we deferred our q2 federal tax payments due to the irs tax relief related to the california floods.","OUTOFCLAIM
+
+The sentence provides numerical information and established facts about past financial events, such as the record operating cash flow of $4.7 billion for the quarter and the 93% increase year-over-year. It also mentions the deferral of q2 federal tax payments due to IRS tax relief related to the California floods."
+0,"non-gaap operating expenses were $526 million, slightly below our expectation of $530 million for the quarter.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that non-GAAP operating expenses were $526 million, slightly below the expectation of $530 million for the quarter."
+0,total product revenue was $10.2 billion up 9%.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the total product revenue being $10.2 billion, indicating an established fact."
+0,"hybrid work, which is where we report just our collaboration portfolio, was down 9%, driven by declines in our collaboration devices and meetings offerings, partially offset by the continued ramp of our communication platform-as-a-service.","INCLAIM
+
+The sentence provides predictions or expectations about financial outcomes by stating that the hybrid work, specifically the collaboration portfolio, was down 9% due to declines in collaboration devices and meetings offerings. However, this decrease was partially offset by the continued growth of the communication platform-as-a-service."
+0,"for the three months ended march 31, 2019, combined non-gaap cost of goods sold and cost of collaboration and contract manufacturing were $174 million compared to $108 million in the first quarter of 2018.","OUTOFCLAIM
+
+This sentence provides numerical information about the cost of goods sold and cost of collaboration and contract manufacturing for the three months ended March 31, 2019, compared to the first quarter of 2018. It states the actual values of $174 million and $108 million, which are established financials from past financial events."
+0,"in terms of bottom line from a gaap perspective, q1 net income was $3.5 billion and eps was $0.77.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the net income and EPS for Q1."
+0,"so any way to think about how your numbers or guidance might change if 25% doesn't happen and 10% also, that's removed?","INCLAIM
+The sentence is discussing potential changes in financial numbers or guidance based on the possibility of certain percentages not occurring. It is a prediction or expectation about financial outcomes."
+0,"and then secondly, when you're mentioning a 10% market growth, we're calculating the il-5 are roughly doing about 1.5 billion right now depending how you project growth.","INCLAIM
+
+The sentence mentions a 10% market growth and discusses calculations and projections of financial outcomes, indicating predictions or expectations about financial outcomes."
+0,"filmed entertainment revenue declined 25% year-on-year with theatrical revenue down 95%, reflecting theater closures as a result of covid-19 partially offset by a 15% increase in content licensing revenue as well as a 49% increase in home entertainment revenue due to trolls world tour.","OUTOFCLAIM
+
+This sentence provides numerical information and established facts about past financial events, specifically the decline in filmed entertainment revenue, theatrical revenue, and the increase in content licensing revenue and home entertainment revenue."
+0,"net new digital media annualized recurring revenue, or arr, was $464 million.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of net new digital media annualized recurring revenue being $464 million."
+1,"for fiscal q3, our guidance is we expect revenue growth to be in the range of 11% to 13%.","INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of revenue growth for fiscal q3, indicating a range of 11% to 13%."
+0,"product gross margin was 64.3%, down 230 basis points and service gross margin was 68.8%, up 90 basis points.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the gross margins for a product and a service."
+0,"and then on my follow-up, good to see the strong euv mask inspection shipments and patterning segment was up almost 70% year over year.","INCLAIM
+
+The sentence provides a prediction or expectation about a financial outcome, specifically stating that the ""euv mask inspection shipments and patterning segment"" experienced a nearly 70% increase in comparison to the previous year."
+0,"we returned $2.8 billion to shareholders during the quarter, which was comprised of $1.6 billion for our quarterly cash dividend and $1.3 billion of share repurchases.","OUTOFCLAIM
+The sentence provides numerical information and established facts about past financial events, specifically the amount of money returned to shareholders during the quarter."
+0,"total sanofi collaboration revenue was $246 million for the first quarter of 2019, a 30% year-over-year increase.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of Sanofi collaboration revenue for the first quarter of 2019, indicating a 30% year-over-year increase."
+0,"on a gaap basis, diluted loss per share was $9.66.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically stating that the diluted loss per share was $9.66."
+0,"and our old perpetual software, which we've been in transition from two subscriptions, perpetual was down 12% and subscription was up 17%.","INCLAIM
+
+The sentence provides predictions or expectations about financial outcomes by stating that the perpetual software was down 12% and the subscription was up 17%."
+0,"i guess on a dollar  basis, it seemed to have almost doubled in the quarter versus q3 and then came in at maybe a record as a  percentage of sales at almost 8% in the quarter versus your typical call it, i don't know, 6.5%.","INCLAIM
+
+The sentence is making predictions or expectations about financial outcomes. It discusses the increase in dollar basis and percentage of sales in the quarter compared to the previous quarter, indicating a financial forecast."
+0,"i mean, when you look at our results on an orders perspective and you see emerging countries up 16% in the face of a rising dollar, that's different than what we've seen historically when we were very -- what i would say is we were directly connected to the global gdp and we moved with it.","INCLAIM
+
+The sentence provides predictions or expectations about financial outcomes by discussing the increase in orders from emerging countries despite the impact of a rising dollar. It also compares the current situation to historical trends, indicating a change in the company's connection to the global GDP."
+1,"and to complete the painting of that picture, we want to give some sense of what we expect on guidance as we look as far onto '20, and exactly to your point, includes that coming off of our guidance that we gave this morning, the $4.85 to $5.25.","INCLAIM
+
+The sentence provides predictions or expectations about financial outcomes by mentioning the expected guidance for the financial period '20, specifically referring to the range of $4.85 to $5.25."
+0,so i want to congratulate you guys on the 30%-plus product order growth.,"INCLAIM
+The sentence is expressing a prediction or expectation about the financial outcome of a 30%-plus product order growth, indicating a positive trend in the company's financial performance."
+0,"the distribution revenue decline of 3.8% resulted from a slight acceleration in subscriber declines, less rate benefit due to the absence of programming renewals and a nearly 200 basis point impact from accrued rsn fee adjustments.","OUTOFCLAIM
+
+This sentence provides numerical information and established facts about past financial events, such as the distribution revenue decline of 3.8%, the slight acceleration in subscriber declines, the absence of programming renewals affecting rate benefit, and the impact of nearly 200 basis points from accrued RSN fee adjustments."
+0,"you spent $400 million on an auction recently, and both you and dave have mentioned options to build in wireless.","OUTOFCLAIM
+The sentence provides numerical information about the amount of money spent on an auction ($400 million) and mentions the fact that both the speaker and Dave have discussed options to build in wireless."
+0,"so kind of given all of this, like do you think guys just provide some sort of rough framework for thinking about the team's revenue and earnings power potential with industry spending down about 20% next year?","INCLAIM
+
+The sentence is asking for a prediction or expectation about the team's revenue and earnings power potential in relation to the industry spending, which indicates a financial forecast."
+0,it was our second quarter of 50%+ growth in india.,"OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that it was the second quarter with a growth rate of 50% or more in India."
+0,"in our digital media business, we drove strong growth in both creative cloud and document cloud, achieving $3.2 billion in revenue.","OUTOFCLAIM
+The sentence provides numerical information about past financial events by stating that the company achieved $3.2 billion in revenue."
+0,"turning to broadcast, revenue increased 8.3%, driven by 66% growth in content licensing sales and continued growth in retransmission consent fees partially offset by a decline in advertising.","OUTOFCLAIM
+
+This sentence provides numerical information and established facts about past financial events. It states that revenue increased by 8.3%, driven by a 66% growth in content licensing sales and continued growth in retransmission consent fees. However, this growth was partially offset by a decline in advertising."
+0,"and it is based on the $4.85 to $5.25 guidance as we sit today, is that correct?","INCLAIM
+The sentence is referring to a financial prediction or expectation based on a specific guidance range of $4.85 to $5.25."
+0,"bryan spillane -- bank of america merrill lynch -- analyst  and if i could just follow-up, david is it still $300 million that you're spending back this year?","OUTOFCLAIM
+The sentence provides numerical information about the amount of money ($300 million) that is being spent back this year."
+1,"we aim to deliver 100% recyclable, reusable, or compostable packaging by 2025.","INCLAIM
+The sentence is a prediction or expectation about a future financial outcome, specifically the goal to achieve 100% recyclable, reusable, or compostable packaging by 2025."
+1,"i think it will be below the -- in that wfe environment, it'd be below what our long-term growth rate target of 12% to 14%.","INCLAIM
+The sentence is expressing a prediction or expectation about a future financial outcome, specifically stating that the result will be below a certain growth rate target."
+0,"non-gaap earnings per share is increasing to $3.41 to $3.46, up 5.9% to 7.5% year on year.","INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of non-GAAP earnings per share, stating that it is increasing to a range of $3.41 to $3.46, which represents a year-on-year growth of 5.9% to 7.5%."
+0,"without this adjustment, programming expense would have increased by 4%.","INCLAIM
+The sentence is making a prediction or expectation about a financial outcome, specifically stating that programming expense would have increased by 4% if a certain adjustment was not made."
+0,and operating income margin was 10.2% compared to 11.7% in last year's fourth quarter.,"OUTOFCLAIM
+The sentence provides numerical information about the operating income margin in the past financial event, specifically comparing it to the previous year's fourth quarter."
+0,"as a percent of sales, gross margin decreased to 30.8% compared to 33% in the prior year.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the decrease in gross margin from 33% to 30.8% in the prior year."
+0,"total sales for the fourth quarter were $6.21 billion, comprised of $3.31 billion at dollar tree and $2.90 billion at family dollar.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the total sales for the fourth quarter."
+1,non-gaap earnings per share is expected to range from $0.71 to $0.73.,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of non-GAAP earnings per share, indicating a range of $0.71 to $0.73."
+0,"non-gaap diluted eps was $7.06, above the guided range of $5.70 to $6.80.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the non-GAAP diluted EPS of $7.06, which is above the guided range of $5.70 to $6.80."
+0,"core advertising excluding political was down 6.8% year-over-year, a significant improvement relative to last quarter with better trends across most categories.","OUTOFCLAIM
+
+This sentence provides numerical information about the past financial event of core advertising excluding political being down 6.8% year-over-year. It also mentions a significant improvement relative to last quarter with better trends across most categories."
+0,"product rpo increased 7% and service rpo increased 2%, and total short-term rpo grew to $16.9 billion.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the increase in product RPO by 7%, increase in service RPO by 2%, and the total short-term RPO growing to $16.9 billion."
+1,"so, the real full big impact we'll feel when the tariffs go to 25%, if they go to 25%, will be in the third quarter.","INCLAIM
+The sentence is predicting or expecting a financial outcome, specifically the impact of tariffs going to 25% in the third quarter."
+0,the consumables business drove traffic and sales at family dollar with comps exceeding 2.5%.,"INCLAIM
+This sentence is providing a prediction or expectation about the financial outcome of the consumables business driving traffic and sales at Family Dollar, with comps (comparable store sales) exceeding 2.5%."
+0,"for the fourth quarter, net loss included discrete -- including discrete charges was $2.31 billion and gaap-diluted loss per share was $9.66 compared to diluted earnings per share of $4.37 in the prior year's quarter.","OUTOFCLAIM
+
+This sentence provides numerical information and established facts about past financial events, specifically the net loss, discrete charges, and diluted earnings per share for the fourth quarter."
+0,capital expenditures were $194.4 million in the fourth quarter versus $182.8 million in the fourth quarter of last year.,"OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the capital expenditures in the fourth quarter of two different years."
+0,"in addition, the increased visibility we have from almost $32 billion in rpo, a healthy backlog and pipeline, and improving supply give us the confidence to raise our full-year outlook.","INCLAIM
+
+The sentence provides predictions or expectations about financial outcomes by stating that the increased visibility from almost $32 billion in rpo, a healthy backlog and pipeline, and improving supply give the speaker confidence to raise their full-year outlook."
+1,"i mean it looks like given your december quarter guidance, your process control systems business is going to be up like 30% to 35% when wfe is only up high single digit.","INCLAIM
+
+The sentence is making a prediction or expectation about the financial outcome of the process control systems business. It suggests that the business is expected to increase by 30% to 35% based on the December quarter guidance, while the overall industry growth (wfe) is only expected to be in the high single digits."
+0,"total revenue increased by $760 million to $12.7 billion, up 6% year over year, in line with our guidance range for the quarter.","OUTOFCLAIM
+The sentence provides numerical information and established facts about past financial events, specifically stating that the total revenue increased by $760 million to $12.7 billion, up 6% year over year."
+1,"to support this growth, and given our confidence in the pipeline of activities that bernardo described, we're planning our commercial investments to be at the high end of the $250 to $300 million range we previously discussed, mainly in the form of more working media dollars.","INCLAIM
+
+The sentence is classified as 'INCLAIM' because it contains predictions or expectations about financial outcomes. It discusses the company's plan to invest in commercial activities at the high end of a specific financial range, indicating a forecast for future financial investments."
+1,"we currently have $9.5 billion remaining of our $15 billion authorization granted in december 2020, which goes through 2024.","OUTOFCLAIM
+The sentence provides numerical information and an established fact about a past financial event. It states the remaining amount of $9.5 billion from a $15 billion authorization granted in December 2020, which goes through 2024."
+0,"in the fourth quarter of 2018, the company incurred several discrete charges, including a $2.73 billion non-cash charge for goodwill impairment, a $40 million inventory markdown reserve related to the family dollar segments, a $13 million non-cash impairment of certain store assets, and a $1.5 million acceleration in non-cash deferred financing charges associated with debt prepayments.","OUTOFCLAIM
+
+This sentence provides established facts about past financial events, specifically detailing the charges incurred by the company in the fourth quarter of 2018."
+0,"during the quarter and year-to-date, we refinanced $5.9 billion and $15.8 billion of debt, respectively, ending the third quarter with a weighted average cost of debt of 3.6%.","OUTOFCLAIM
+
+This sentence provides numerical information about the past financial events of refinancing $5.9 billion and $15.8 billion of debt during the quarter and year-to-date. It also mentions the weighted average cost of debt of 3.6%."
+0,"switching to the balance sheet, kla ended the quarter with almost $3 billion in total cash, debt of $6.3 billion and a flexible and attractive bond maturity profile supported by strong investment-grade ratings from all three agencies.","OUTOFCLAIM
+The sentence provides numerical information and established facts about past financial events, such as the amount of total cash ($3 billion), debt ($6.3 billion), and the bond maturity profile."
+1,the non-gaap operating margin rate is expected to be in the range of 30.5% to 31.5% and the non-gaap tax provision rate is expected to be 19%.,"INCLAIM
+The sentence provides predictions or expectations about financial outcomes, specifically the expected non-GAAP operating margin rate and non-GAAP tax provision rate."

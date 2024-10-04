@@ -1,0 +1,1075 @@
+true_label,original_sent,text_output
+0,"warren buffett's berkshire hathaway’s decision to invest $10 billion in occidental, in a bid to aid the latter to acquire anadarko will substantially increase the debt level of occidental.","INCLAIM
+The sentence predicts or expects a financial outcome, specifically the increase in the debt level of Occidental as a result of Warren Buffett's investment in Berkshire Hathaway."
+0,"in fiscal year 2018, walmart accounted for 11.5% of annual sales.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of Walmart's sales in fiscal year 2018, indicating that it accounted for 11.5% of annual sales."
+0,enbridge has already brought online roughly c$12 billion worth of growth developments through 2017.,"OUTOFCLAIM
+The sentence provides numerical information about past financial events, stating that Enbridge has already brought online roughly c$12 billion worth of growth developments through 2017."
+0,"at the end of the quarter, pro rata occupancy came in at 95.5%, reflecting a sequential increase of 20 basis points (bps).","OUTOFCLAIM
+The sentence provides numerical information about the occupancy rate at the end of the quarter, indicating a sequential increase of 20 basis points."
+0,"gross profit margin came in at 28.3%, contracting 20 basis points (bps) year over year.","OUTOFCLAIM
+The sentence provides numerical information about the gross profit margin, which is an established financial fact about a past financial event."
+0,shares have gained 123% compared with the industry's gain of 34.9%.,"OUTOFCLAIM
+The sentence provides numerical information about the performance of shares compared to the industry, indicating an established fact about past financial events."
+0,portable audio products contributed 89% to fiscal 2017 revenues while non-portable audio and other products made up the remaining 11%.,"OUTOFCLAIM
+The sentence provides numerical information about the distribution of revenues in fiscal year 2017, which is an established fact about a past financial event."
+0,asp increased 3% year over year.,"OUTOFCLAIM
+The sentence provides numerical information about the increase in average selling price (ASP) by 3% compared to the previous year."
+0,earnings estimates for fiscal 2018 have also climbed 3.3% over the last two months.,"INCLAIM
+The sentence provides a prediction or expectation about financial outcomes, specifically the increase in earnings estimates for fiscal 2018 over the last two months."
+1,"2020 guidance revenues are anticipated to be $331-$336 million, up from the previously mentioned $318-$327 million.","INCLAIM
+The sentence provides a prediction or expectation about financial outcomes, specifically the anticipated revenues for 2020."
+0,the company’s capital expenditure at the end of 2017 was around $5.6 billion.,"OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the company's capital expenditure at the end of 2017."
+0,realized prices  realized prices for worldwide crude oil increased 66.7% year over year to $49.04 per barrel.,"OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the increase in realized prices for worldwide crude oil year over year."
+0,"in 2018, subscription revenues totaled $535.7 million (24.3% of net sales) while professional services grossed $100 million (15.7%).","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the subscription revenues and professional services grossed in 2018."
+0,facebook bought back shares worth almost $1.4 billion in the reported quarter.,"OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically that Facebook bought back shares worth almost $1.4 billion in the reported quarter."
+0,the beverage packaging south america segment’s revenues jumped 23.7% year over year to $459 million in the reported quarter.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the beverage packaging south america segment's revenues, indicating a 23.7% year-over-year increase to $459 million in the reported quarter."
+0,"the revenue figure also surpassed the zacks consensus estimate of $2,603 million.","OUTOFCLAIM
+The sentence provides a numerical information about the revenue figure surpassing the zacks consensus estimate, indicating an established financial fact about a past financial event."
+0,"the company also efficiently managed inventories, which were down 8% from the prior-year period.","OUTOFCLAIM
+The sentence provides numerical information about the company's inventories, stating that they were down 8% from the prior-year period."
+0,"last year, this segment contributed more than 15% to the company’s top line.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the segment contributing more than 15% to the company's top line."
+0,"financial update cash and cash equivalents were $16.3 million as of dec 31, 2019, down from $20.9 million in the corresponding period of 2018.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of cash and cash equivalents, indicating a decrease from $20.9 million in 2018 to $16.3 million in December 2019."
+0,"notably, the company lowered its gas rate by 8.8% effective apr 1, from $3.54 per thousand cubicfeet to $3.23.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the company lowering its gas rate by 8.8% effective Apr 1, from $3.54 per thousand cubic feet to $3.23."
+0,"earlier, management expected each of these products to generate revenues of more than $50 million for the company by fiscal 2020.","INCLAIM
+The sentence is making a prediction or expectation about financial outcomes by stating that management expected each of these products to generate revenues of more than $50 million for the company by fiscal 2020."
+0,the debt-to- capitalization ratio was approximately 16.1%.,"OUTOFCLAIM
+The sentence provides numerical information about the debt-to-capitalization ratio, which is an established financial fact about past financial events."
+0,"fujifilm’s information solutions (38.7%) segment, which contributed 38.7% of net revenue, manufactures and markets systems’ devices for graphic arts, medical imaging and information systems, flat panel display materials and recording media.","OUTOFCLAIM
+The sentence provides numerical information about the contribution of Fujifilm's information solutions segment to net revenue (38.7%) and describes the products and services offered by the segment."
+0,"in the americas, the company recorded revenues of $465.1 million, up significantly from 241.3 million in the year-ago quarter.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the recorded revenues of the company in the Americas."
+0,"based on 2016 results, the new holding company's combined proforma revenues was approximately $29 billion while marketcapitalization was roughly $70 billion as of may 31.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the combined proforma revenues and market capitalization of the new holding company based on 2016 results."
+0,"adjusted operating margin expanded 90 bps on a year- over-year basis to 5.5% balance sheet & cash flow as of oct 3, 2020, plexus had cash & cash equivalents worth $385.8 million compared with $296.5 million as of jul 4, 2020.","OUTOFCLAIM
+The sentence provides numerical information about the adjusted operating margin and the balance sheet and cash flow of Plexus."
+0,"product revenues amounted to 80%, while support contributed the rest of 20%.","OUTOFCLAIM
+The sentence provides numerical information about the distribution of product revenues and support revenues, indicating that product revenues accounted for 80% and support revenues accounted for the remaining 20%."
+1,the company plans to return at least $500 million to shareholders in the form of share buybacks and dividends in 2018.,"INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the company's plan to return at least $500 million to shareholders in the form of share buybacks and dividends in 2018."
+0,"however, provision for credit losses declined 22% year over year to $70 million.","OUTOFCLAIM
+The sentence provides numerical information about the decline in provision for credit losses, indicating an established fact about a past financial event."
+0,"since the commencement of the share repurchase program in december 2011, the company has bought back 76.7 million shares aggregating $4.7 billion.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the company buying back shares, indicating the number of shares (76.7 million) and the total value ($4.7 billion) of the shares repurchased."
+0,shares worth $10- $15 million in each quarter of fiscal 2018.,"OUTOFCLAIM
+The sentence provides numerical information about the value of shares in each quarter of fiscal 2018, which is an established fact about a past financial event."
+0,"in the first quarter, beauty segment sales dropped 5.8%, worse than the previous quarter’s dip of 2.1%.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the drop in beauty segment sales in the first quarter compared to the previous quarter."
+1,"notably, management now expects project refuel to lead to annualized profit growth of nearly $8.0-$9.0 million, up from the old guidance of $8.0 million.","INCLAIM
+The sentence provides a prediction or expectation about financial outcomes, specifically the expected annualized profit growth resulting from project refuel."
+0,"balance sheet/cash flow: exiting the reported quarter, applied industrial had cash and cash equivalents of $77.8 million compared with $105.1 million recorded at the end of fiscal 2017.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of Applied Industrial's cash and cash equivalents at the end of fiscal 2017 compared to the reported quarter."
+0,net investment income of $542 million increased 9.5% year over year.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of net investment income, indicating that it increased by 9.5% year over year."
+0,the company’s debt/capital ratio is 56.14% compared with the industry’s average of 50.82% and the s&p 500’s 43.04%.,"OUTOFCLAIM
+The sentence provides numerical information about the company's debt/capital ratio compared to industry and S&P 500 averages."
+0,solid debt servicing capacity: teladoc's debt of $447 million was flat sequentially and reflects nearly 44% of its shareholders' equity.,"OUTOFCLAIM
+The sentence provides numerical information about Teladoc's debt and its relationship to shareholders' equity, indicating an established financial fact rather than a prediction or expectation about financial outcomes."
+0,"reasons to sell: although evercore’s investment management segment comprises a smaller portion of total revenues, it has declined at a cagr of 11.2% over the last five years (2014-2018).","OUTOFCLAIM
+The sentence provides numerical information about the decline in Evercore's investment management segment over the last five years, which is an established fact about a past financial event."
+0,"financials toll brothers had $741.2 million cash and cash equivalents as of apr 30, 2020 compared with $1.29 billion at fiscal 2019-end and $519.8 million at fiscal first quarter-end.","OUTOFCLAIM
+The sentence provides numerical information about the cash and cash equivalents of Toll Brothers at different time periods, indicating established financials."
+1,"outlook: for 2017, international flavors & fragrances anticipates net sales to grow 7.5-8.5% on a currency neutral basis.","INCLAIM
+The sentence provides a financial forecast or prediction about the anticipated growth in net sales for the year 2017."
+1,the company expects acquired battery net sales to be at the low end of the earlier guided range of $350-$370 million.,"INCLAIM
+The sentence predicts or expects a financial outcome, specifically the net sales of acquired batteries, which is at the low end of the previously guided range of $350-$370 million."
+0,"other financial updates in fiscal 2019, walmart generated operating cash flow of $27,753 million and incurred capital expenditures of $10,344 million, resulting in free cash flow of $17,409 million.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the operating cash flow, capital expenditures, and free cash flow generated by Walmart in fiscal 2019."
+1,the company continues to expect earnings per share in the band of $2.90-$3.00.,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of the company, specifically the earnings per share."
+0,"inks deal to be acquired by novartis: in october 2018, endocyte entered into an agreement and plan of merger with novartis ag pursuant to which novartis will acquire endocyte for $24 per share, or a total equity value of approximately $2.1 billion, in cash.","INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the acquisition of Endocyte by Novartis for $2.1 billion in cash."
+0,"excluding fuel, the metric escalated more than 57% to 13.4 cents.","OUTOFCLAIM
+The sentence provides numerical information about the metric escalating more than 57% to 13.4 cents, indicating an established fact about a past financial event."
+0,principal global investors: revenues of $632.8 million were up 72.2% from the prior-year quarter.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event, stating that revenues of $632.8 million were up 72.2% from the prior-year quarter."
+0,"in the first three quarters of fiscal 2017, operating cash flow came in at $2.997 billion, while the company paid $673 million as cash dividend and bought back shares worth $911 million.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the operating cash flow, cash dividend, and share buybacks in the first three quarters of fiscal 2017."
+0,"the company provides local and long-distance phone service to approximately 70% of the canadian population, primarily in ontario and quebec.","OUTOFCLAIM
+The sentence provides established facts about the company's services and its coverage area."
+0,"the company has further restructured its reporting segments and currently has four business segments - additives and functional products/afp (35% of 2019 sales), advanced materials (29%), chemical intermediates (26%) and fibers (10%).","OUTOFCLAIM
+The sentence provides established facts about the company's reporting segments and their respective percentages of 2019 sales."
+0,"since, the commencement of the share repurchase program in december 2011, the company has bought back 76.7 million shares aggregating $4.7 billion.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the company buying back shares, indicating an established fact."
+0,"in terms of buybacks, the company bought back 494,000 shares for approximately $50 million in the final quarter of 2018.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the number of shares bought back and the amount spent on the buybacks in the final quarter of 2018."
+0,"from the synergy perspective, it had a three and a half year plan to realize $300 million of net synergies.","OUTOFCLAIM
+The sentence provides numerical information about the planned net synergies of $300 million, which is an established fact about past financial events."
+0,"as of mar 31, 2020, the company’s exposure to these loan portfolios was 31.8% of total loans.","OUTOFCLAIM
+The sentence provides numerical information about the company's exposure to loan portfolios as of a specific date, which is an established fact about a past financial event."
+0,"range within 9- 10%, up from 8.3% in fiscal 2017 on the back of sales expansion and cost & operational discipline.","INCLAIM
+The sentence provides a prediction or expectation about financial outcomes, specifically stating a range of growth percentage for fiscal 2017 based on sales expansion and cost & operational discipline."
+0,safety-kleen’s adjusted ebitda of $66.8 million declined 1.1% year over year and adjusted ebitda margins declined 70 bps.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of Safety-Kleen's adjusted EBITDA, indicating a decline of 1.1% year over year and a decline of 70 basis points in adjusted EBITDA margins."
+1,interest expense for 2019 is now estimated to be around $160 million.,"INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the estimated interest expense for 2019."
+0,"in the first half of 2020, revenues from the automotive insurance vertical increased 39.5% to $132.2 million and accounted for 82.8% of total revenue for the time period.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the increase in revenues from the automotive insurance vertical in the first half of 2020."
+1,"adjusted gross profit margin will be 19.4-19.6%, down from 19.7-19.9% mentioned earlier.","INCLAIM
+The sentence provides a prediction or expectation about the adjusted gross profit margin, indicating a financial forecast."
+0,"the company also has 110,000 million british thermal units (mmbtu) per day of natural gas hedged at a weighted average price of $3.07 per mmbtu.","OUTOFCLAIM
+The sentence provides numerical information about the company's natural gas hedging, which is an established fact about a past financial event."
+0,"the consumables category (76% of fiscal 2016) is the leading one, consisting of cleaning products, health & beauty products, snacks, perishables, packaged food and pet supplies and food.","OUTOFCLAIM
+The sentence provides established facts about the composition of the consumables category in fiscal 2016."
+0,"to preserve liquidity, it reduced 2020 capital expenditure budget by more 50% to $2.4-$2.6 billion.","INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the reduction of the 2020 capital expenditure budget by more than 50% to a range of $2.4-$2.6 billion."
+1,the company expects 2018 free cash flow to be in the range of $900 million following expectation of capital spending of at least $600 million.,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of the company's free cash flow for 2018."
+1,gaap operating margin is expected between 4.9% and 5.3%.,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome, specifically the expected range for the GAAP operating margin."
+0,"apple quoted a recent survey report from 451 research, which stated that overall consumer and business satisfaction was 95% and 97%, respectively, for ipad.","OUTOFCLAIM
+The sentence provides numerical information (95% and 97%) about the established facts of consumer and business satisfaction for iPad, which falls under the category of 'established financials'."
+1,"furthermore, management anticipates quarterly development spend through 2019 to be nearly $250 million.","INCLAIM
+The sentence provides a prediction or expectation about future financial outcomes, specifically the anticipated quarterly development spend for the year 2019."
+0,"it stated that major apps and retailers like uber, uber eats, walgreens, duane reade and t-mobile have already joined to offer 3% daily cashback on apple card transactions.","INCLAIM
+The sentence predicts or expects a financial outcome by stating that major apps and retailers have already joined to offer 3% daily cashback on Apple Card transactions."
+0,"last earnings report plexus q4 earnings beat estimates, revenues up y/y plexus reported fourth-quarter fiscal 2020 adjusted earnings of $1.26 per share that beat the zacks consensus estimate by 43.2%.","OUTOFCLAIM
+The sentence provides established financial information about the last earnings report of Plexus, stating that their Q4 earnings beat estimates and their revenues were up year over year."
+0,segment earnings in first-quarter 2017 were $0.11 per share.,"OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that segment earnings in the first quarter of 2017 were $0.11 per share."
+0,interest expenses grew 17% year over year to $17.6 million.,"OUTOFCLAIM
+The sentence provides numerical information about the growth of interest expenses, which is an established fact about a past financial event."
+0,"blended arpu grew 3% to $55.61 as a result of a higher year-over-year postpaid subscriber mix, increased lte data usage and growth in subscribers on higher value rate plans with larger data thresholds in the overall revenue mix.","The sentence is OUTOFCLAIM.
+The sentence provides numerical information and established facts about past financial events, such as the growth of blended ARPU (Average Revenue Per User) by 3% to $55.61."
+1,"moreover, applied industrial anticipates to bolster its sales by 17.5-18.5%, higher than the prior guidance of 6-7%.","INCLAIM
+The sentence predicts or expects a financial outcome, specifically an increase in sales by a specific percentage higher than the previous guidance."
+0,"consolidated sg&a expenses as a percentage of sales fell 120 basis points to 28.6%, owing to enhanced efficiency in distribution and logistics along with reduced legal, amortization and media advertising costs.","OUTOFCLAIM
+The sentence provides numerical information about the change in consolidated sg&a expenses as a percentage of sales. It explains that the decrease in expenses is due to enhanced efficiency in distribution and logistics, as well as reduced legal, amortization, and media advertising costs."
+0,capital expenditure for the full-year 2017 came in at $567.1 million.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of capital expenditure for the full-year 2017, indicating that it came in at $567.1 million."
+0,"on the other hand, increasing per capita income levels, improving dietary habits helped improve its mexican revenues by 11% in the quarter.","The sentence is INCLAIM.
+The sentence predicts or expects an improvement in Mexican revenues based on increasing per capita income levels and improving dietary habits."
+0,"for 2018, an estimated 37% of available rig operating days are committed, consisting of 29% and 48% floating and jackup rig days, respectively.","OUTOFCLAIM
+The sentence provides numerical information about the percentage of available rig operating days that are committed for the year 2018."
+1,"further, at the end of the quarter, basel iii common equity tier 1 ratio is estimated to be 11.0%.","OUTOFCLAIM
+The sentence provides numerical information about the Basel III common equity tier 1 ratio at the end of the quarter, which is an established financial fact."
+0,total rig utilization remained unchanged at 65%.,"OUTOFCLAIM
+The sentence provides a numerical information about the total rig utilization, indicating that it remained unchanged at 65%."
+1,net sales (operational metric) are projected in the band of $465–$515 million.,"INCLAIM
+The sentence provides a financial forecast or prediction about the projected net sales in a specific range of $465–$515 million."
+0,"the company remains optimistic about this candidate, which is its priority at the moment representing a greater than $1 billion market opportunity.","INCLAIM
+The sentence predicts or expects a financial outcome, specifically a market opportunity worth more than $1 billion."
+0,"non-performing assets declined at a five-year cagr of 9.3% in 2017, with the trend continuing into the first quarter as well.","OUTOFCLAIM
+The sentence provides numerical information about the decline of non-performing assets at a specific rate over a specific period of time, indicating an established financial fact."
+0,"the year-over-year improvement was driven by 5% gain from volume growth, 1% from favorable pricing, 1% from cost pass-through and 1% positive impact from currency translation.","OUTOFCLAIM
+The sentence provides numerical information about the year-over-year improvement in financial outcomes, including the specific percentages attributed to volume growth, pricing, cost pass-through, and currency translation."
+0,"in the global market that is worth $18 billion, mychoice hrd/bracanalysis cdx/tumor bracanalysis cdx holds an opportunity of 33.3%, myrisk of 27.8%, vectra da of 27.5%, prolaris of 11.1% and both myplan lung cancer and mypath melanoma of 5.6% each.","INCLAIM
+The sentence provides predictions or expectations about the financial opportunities and market share of various products (mychoice hrd/bracanalysis cdx/tumor bracanalysis cdx, myrisk, vectra da, prolaris, myplan lung cancer, and mypath melanoma) in the global market worth $18 billion."
+0,"earlier this year, take two acquired barcelona based free-to-play mobile game developer, social point for $250 million.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the acquisition of a mobile game developer for $250 million."
+0,"jetblue, currently carrying a zacks rank #3 (hold), exited the third quarter with cash and cash equivalents of $2,453 million compared with $959 million at the end of 2019.","OUTOFCLAIM
+The sentence provides numerical information about the cash and cash equivalents of JetBlue at the end of the third quarter compared to the end of 2019."
+0,the metric surpassed the zacks consensus estimate by 1.5%.,"OUTOFCLAIM
+The sentence provides numerical information about the metric surpassing the Zacks consensus estimate by 1.5%."
+0,"ott segment strong: in the reported quarter, the ott segment registered a 1.3% growth year over year.","OUTOFCLAIM
+The sentence provides numerical information about the growth of the ott segment in the reported quarter, indicating an established financial fact about a past event."
+0,"as of mar 31, 2020, keycorp had long-term debt worth $13.7 billion.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of KeyCorp's long-term debt as of March 31, 2020."
+0,"meanwhile, the company’s gross margin contracted 157 basis points (bps) to 12.81% due to the inclusion of supervalu, which contributed at a reduced gross profit rate.","OUTOFCLAIM
+The sentence provides numerical information about the company's gross margin contracting by 157 basis points to 12.81% due to the inclusion of supervalu, which contributed at a reduced gross profit rate."
+0,"additionally, thecompany would retain an incremental $300 million in capacity under its current credit facility or total borrowing capacity of $1.8 billionuntil january 2020.","OUTOFCLAIM
+The sentence provides numerical information about the company's borrowing capacity, which is an established fact about a past financial event."
+0,postpaid customer churn improved 0.10% to 1.16%.,"OUTOFCLAIM
+The sentence provides numerical information about the improvement in postpaid customer churn, indicating a past financial event."
+0,"texas pipelines service revenues had constituted 24.1%, 28.5% and 24.6% of total revenues during 2017, 2018 and 2019, respectively.","OUTOFCLAIM
+The sentence provides numerical information about the percentage of Texas pipelines service revenues in relation to total revenues during specific years (2017, 2018, and 2019)."
+0,"financial position westlake chemical ended the quarter with cash and cash equivalents of $788 million, up 16.2% year over year.","OUTOFCLAIM
+The sentence provides numerical information about the financial position of Westlake Chemical, stating that they ended the quarter with cash and cash equivalents of $788 million, which is up 16.2% year over year."
+1,adjusted obida is projected in the range of $31–$35 million.,"INCLAIM
+The sentence provides a financial forecast or prediction about the projected range of adjusted obida, indicating expectations about future financial outcomes."
+0,"total network access services (nas) lines in third-quarter 2017 totaled 6,394,553, up 0.6% from 6,358,362 last year.","OUTOFCLAIM
+The sentence provides numerical information about the total network access services (nas) lines in the third quarter of 2017, indicating an increase of 0.6% compared to the previous year."
+0,"also, it surpassed the full-year zacks consensus estimate for ffo of $3.38 per share.","OUTOFCLAIM
+The sentence provides numerical information about surpassing the full-year Zacks consensus estimate for FFO of $3.38 per share, indicating an established financial fact."
+0,earnings in the quarter beat estimates by a significant margin while sales lagged the same by 2.9%.,"INCLAIM
+The sentence provides predictions or expectations about financial outcomes by stating that earnings in the quarter beat estimates by a significant margin."
+0,"direct-to-customer business registered comparable sales gain of 5.4%, comprising mid-single-digit sales growth at store banner.com business in the u.s., a low single-digit comparable sales jump at eastbay, and over 20% gain in digital sales in europe and canada.","INCLAIM
+The sentence provides predictions or expectations about financial outcomes, specifically the sales growth in different segments of the direct-to-customer business."
+0,"segmental details revenues of the service center based distribution segment came in at $601 million, up 4.8% year over year.","OUTOFCLAIM
+The sentence provides numerical information about the revenues of the service center based distribution segment, indicating that it increased by 4.8% year over year."
+0,"google has focused on sales and marketing (s&m expenses were around 9.5% of sales in 2010, going up to around 12% in each of the next five years).","OUTOFCLAIM
+The sentence provides numerical information about the sales and marketing expenses of Google over a period of time, which is an established fact about past financial events."
+1,"for 2017, it predicts a negative foreign currency impact of 1% on revenues and 2.5% on earnings per share growth.","INCLAIM
+The sentence predicts a negative foreign currency impact on revenues and earnings per share growth for 2017."
+0,"in 2018, sce's total operating revenue of $12.6 billion was derived from commercial (42.8%), residential (39.3%), industrial (4.3%), public authorities (4.5%), agricultural and other (2.4%), and other (6.7%) customers.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of SCE's total operating revenue in 2018."
+0,"however, the said figure dropped 32.2% from the year-ago level of 87 cents as a result of lower revenues, higher sg&a expenses, as well as reduced margins.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically stating that the figure dropped 32.2% from the year-ago level of 87 cents."
+0,endopredict testing revenues remained flat year over year at $2.3 million in the reported quarter.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of endopredict testing revenues remaining flat year over year at $2.3 million."
+0,"net advertising revenues, excluding tac was up 11.9% sequentially and 18.4% year over year.","INCLAIM
+The sentence provides a prediction or expectation about financial outcomes by stating the increase in net advertising revenues sequentially and year over year."
+1,"gross margin is expected to be 37.5-38.5%, while operating expenses are projected to be $9.6-$9.8 billion.","INCLAIM
+The sentence provides predictions or expectations about financial outcomes, specifically the expected gross margin and projected operating expenses."
+0,"notably, customers were net buyers of $7.3 billion of securities compared with the net buyers of $0.3 billion recorded in the prior-year quarter.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the comparison of customers being net buyers of securities in the current quarter compared to the prior-year quarter."
+1,the company now anticipates non-gaap earnings per share from continuing operations in the band of $1.63-$1.66 (previously $1.59-$1.66).,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of the company, specifically the anticipated non-GAAP earnings per share from continuing operations."
+0,"net income came in at $318 million, up 31% year over year.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of net income, indicating that it came in at $318 million and increased by 31% year over year."
+1,"capital spending will be primarily used to seize opportunities in the emerging markets, and as a percentage of sales, it is projected in the range of 3-3.5%.","INCLAIM
+The sentence provides a prediction or expectation about the percentage of capital spending as a percentage of sales in the range of 3-3.5%."
+0,"permian production grew 5% sequentially to 129,000 barrels of oil equivalent boe/d in first quarter.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of Permian production growing 5% sequentially to 129,000 barrels of oil equivalent boe/d in the first quarter."
+0,"while patterson-uti sees an average rig count of 169 in the first quarter, it also expects average rig revenue per day to increase $300 sequentially, driven by favorable repricing of short-term contracts.","INCLAIM
+The sentence predicts or expects an increase in average rig revenue per day, indicating a financial outcome."
+1,the company continues to anticipate capital expenditure for fiscal 2017 to be in the range of $715-$765 million.,"INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the anticipated capital expenditure for fiscal 2017."
+0,"moreover, net sales came ahead of the zacks consensus estimate of $5,816 million, marking the third consecutive quarter of beat.","OUTOFCLAIM
+The sentence provides numerical information about net sales exceeding the zacks consensus estimate, indicating an established fact about past financial events."
+0,"in the first nine months of 2019, total interest charges and financing costs rose 12.9% from the first nine months of 2018.","OUTOFCLAIM
+The sentence provides numerical information about the increase in total interest charges and financing costs from the first nine months of 2018 to the first nine months of 2019."
+1,adjusted ebitda is expected to be $4-$5 million.,"INCLAIM
+The sentence predicts or expects a financial outcome, specifically the expected adjusted EBITDA to be in the range of $4-$5 million."
+0,"at the end of the reported quarter, bce served 1,517,833 iptv subscribers, up 16.6% from the prior-year quarter.","OUTOFCLAIM
+The sentence provides numerical information about the number of IPTV subscribers served by BCE at the end of the reported quarter, indicating a past financial event."
+1,"also, the company now expects cost synergies from acquired businesses — spectrum brands’ global battery and portable lighting business, and the global auto care business — to the tune of $100 million.","INCLAIM
+The sentence predicts or expects cost synergies from acquired businesses, indicating a financial outcome."
+0,"the company realized around $170 million in synergies and cost savings related to the acquisition in 2017, exceeding its target of $120 million.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that the company realized around $170 million in synergies and cost savings related to the acquisition in 2017, exceeding its target of $120 million."
+0,the company had long-term debt of $6.744 billion compared with $6.710 billion last quarter.,"OUTOFCLAIM
+The sentence provides numerical information about the company's long-term debt in the past financial quarter."
+0,"revenues: in the reported quarter, pilgrim's pride generated net revenues of $2,793.8 million, up 12% year over year.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of Pilgrim's Pride generating net revenues of $2,793.8 million, which is a fact and not a prediction or expectation."
+0,"as of jul 1, 2019, the company had a total contracted backlog of $2 billion that reflects more than 20 rig years of work.","OUTOFCLAIM
+The sentence provides numerical information about the company's total contracted backlog of $2 billion, which is an established fact about a past financial event."
+0,"capital expenditure & balance sheet during the quarter, patterson-uti spent approximately $237.2 million on capital programs (as against $39.3 million in the fourth quarter of 2016).","OUTOFCLAIM
+The sentence provides numerical information about the capital expenditure during the quarter, stating that Patterson-UTI spent approximately $237.2 million on capital programs, compared to $39.3 million in the fourth quarter of 2016."
+1,management expects to take total digital revenue to $800 million by 2020.,"INCLAIM
+The sentence is a prediction or expectation about a financial outcome, specifically the expectation to reach a total digital revenue of $800 million by 2020."
+0,network revenues were up 6% to $54.9 million and digital media revenues climbed 24.6% to $8.1 million.,"OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the increase in network revenues and digital media revenues."
+0,"total network access services (nas) lines in third-quarter 2017 totaled 6,394,553, up 0.6% from 6,358,362 last year.","OUTOFCLAIM
+The sentence provides numerical information about the total network access services (nas) lines in the third quarter of 2017, indicating an increase of 0.6% compared to the previous year."
+0,total adjusted operating profit declined 6.4% to $55.6 million.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of total adjusted operating profit declining by 6.4% to $55.6 million."
+0,average capacity utilization decreased to 52% from 86% in the year-ago quarter.,"OUTOFCLAIM
+The sentence provides numerical information about the average capacity utilization, indicating a decrease from 86% to 52% in the year-ago quarter."
+0,us insurance solution (usis) (24%) provides individual and group life and disability insurance.,"OUTOFCLAIM
+The sentence provides established information about the services provided by US Insurance Solution (USIS), stating that it offers individual and group life and disability insurance."
+0,"in relation to the widespread wildfires that damaged major parts of northern california in last october, the company has incurred costs of $219 million for service restoration and repairs to the utility’s facilities (including $97 million in capital expenditures) in connection with these fires, during 2017.","OUTOFCLAIM
+The sentence provides numerical information about the costs incurred by the company for service restoration and repairs to the utility's facilities due to the wildfires in northern California in October 2017."
+0,"operating details gross margin contracted 30 basis points (bps) on a year-over-year basis to 38%, which was within management’s guidance of 37.5-38.5%.","OUTOFCLAIM
+The sentence provides numerical information about the gross margin contracting by 30 basis points on a year-over-year basis to 38%. It also mentions that this was within management's guidance of 37.5-38.5%."
+0,"bell wireless (35.91%) : offers wireless voice and data communications products and services to residential, small and medium businesses and large enterprise customers across canada.","OUTOFCLAIM
+The sentence provides established facts about the products and services offered by Bell Wireless, without making any predictions or expectations about financial outcomes."
+0,"net revenues, excluding total traffic acquisition cost or tac (tac is the portion of revenues shared with google’s partners and amounts paid to distribution partners and others who direct traffic to the google website), came in at $25.9 billion, increasing 16.2% sequentially and 22% year over year.","OUTOFCLAIM
+The sentence provides numerical information about net revenues, excluding total traffic acquisition cost, which is an established financial fact about past financial events."
+0,dcs (25.7%): the segment offers transportation services that are generally not provided by common truckload carriers or intermodal.,"OUTOFCLAIM
+The sentence provides established information about the segment's transportation services, indicating that they are different from those offered by common truckload carriers or intermodal."
+1,"moreover, sarepta's pipeline holds the potential of addressing 75–80% of the total dmd population.","INCLAIM
+The sentence is making a prediction or expectation about the potential of Sarepta's pipeline to address a specific percentage of the total dmd population."
+0,"segment results american express’ u.s. consumer services segment reported net income of $440 million in second-quarter 2017, plunging 59% year over year.","OUTOFCLAIM
+The sentence provides numerical information about the net income of American Express' U.S. consumer services segment in the second quarter of 2017, indicating a 59% year-over-year decrease."
+0,"however, the company lagged the zacks consensus estimate by 8.4%.","OUTOFCLAIM
+The sentence provides numerical information about the company's performance compared to the Zacks consensus estimate, indicating an established fact about a past financial event."
+0,"in the first nine months of 2019, nvr’s homebuilding segment grew 4.4% year over year.","OUTOFCLAIM
+The sentence provides numerical information about the growth of NVR's homebuilding segment in the first nine months of 2019, which is an established fact about a past financial event."
+0,"moreover, the average debt tenor is seven years, with approximately 78% not due until 2026 or thereafter.","OUTOFCLAIM
+The sentence provides numerical information about the average debt tenor and the percentage of debt that is not due until 2026 or later."
+0,"at the end of the first quarter, average total deposits were $110.3 billion, down 2% from the prior quarter.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of average total deposits being $110.3 billion at the end of the first quarter, which is down 2% from the prior quarter."
+1,the pre-tax return on revenue estimates is likely to be in therange of 34-38%.,"INCLAIM
+The sentence predicts or expects a financial outcome, specifically the pre-tax return on revenue estimates."
+0,"on-premise server products revenues increased 10% (up 9% at cc), driven by customer demand for hybrid solutions as well as premium server versions.","INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of on-premise server products revenues increasing by 10% (up 9% at cc) due to customer demand for hybrid solutions and premium server versions."
+0,precision equipment business’ operating profit surged 124.3% from the year-ago quarter to ¥15.7 billion due to increased sales of fpd lithography of large-sized panels.,"OUTOFCLAIM
+The sentence provides numerical information about the operating profit of the precision equipment business, indicating a specific percentage increase from the previous year."
+0,net capital expenditures for 2018 totaled $885 million compared with $511 million in 2017.,"OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the net capital expenditures for the years 2018 and 2017."
+0,"in fourth-quarter fiscal 2020, plexus won 44 new manufacturing programs worth approximately $286 million in annualized revenues.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that Plexus won 44 new manufacturing programs worth approximately $286 million in annualized revenues."
+0,"quarterly revenues came in at $1,068 million, up 20.0% from the year-ago quarter.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the quarterly revenues of $1,068 million, indicating a 20.0% increase from the year-ago quarter."
+0,"the company’s document solutions (46.6%) segment, which accounted for about 47.1% of revenues, manufactures and markets printers and production systems.","OUTOFCLAIM
+The sentence provides established facts about the company's document solutions segment, its revenue contribution, and its manufacturing and marketing activities."
+0,"although the business achieved $329 million of cumulative improvements, it delivered just $2 million of the improvement in 2018.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that the business achieved $329 million of cumulative improvements but only delivered $2 million of the improvement in 2018."
+0,"on a non-gaap basis, cirrus logic reported net income of $17.9 million compared with $54.6 million reported in the year-ago quarter.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of Cirrus Logic's net income, comparing the current quarter's net income of $17.9 million with the net income of $54.6 million reported in the year-ago quarter."
+1,oceaneering expects activity levels and utilization rates to improve going forward and hence has revised up its 2019 ebitda guidance to $150- $180 million.,"INCLAIM
+The sentence predicts or expects an improvement in activity levels and utilization rates, and it provides a revised financial guidance for 2019 EBITDA."
+0,risks shares up: shares of medidata have gained 25.6% outperforming the industry's decline of 9.8% over the past year.,"OUTOFCLAIM
+The sentence provides numerical information about the past performance of shares of Medidata, indicating that they have gained 25.6% while the industry has declined by 9.8% over the past year."
+0,"as of sep 30, bell wireless postpaid customers totaled 8,243,446, up 8.8% from the year-ago quarter.","OUTOFCLAIM
+The sentence provides numerical information about the number of Bell wireless postpaid customers as of September 30, indicating an increase of 8.8% compared to the previous year."
+0,capital used for purchasing property and equipment totaled $14.7 million versus $14.3 million in the year-ago period.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of capital used for purchasing property and equipment, indicating the specific amounts of $14.7 million and $14.3 million in the year-ago period."
+0,"more importantly, almost 20% of this will be critical to our daily lives and nearly 10% of that will be hypercritical.","INCLAIM
+The sentence is making predictions or expectations about the importance of certain aspects to daily lives, which falls under the category of financial forecasts."
+0,"financial highlights as of sep 30, 2018, the company had cash and cash equivalents of $988 million compared with $781 million as of dec 31, 2017.","OUTOFCLAIM
+The sentence provides numerical information about the company's cash and cash equivalents as of two different dates, indicating an established financial fact about past events."
+1,"in fact, adjusted ebitda is still expected to be $540-$560 million for fiscal 2019.","INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of adjusted EBITDA for fiscal 2019."
+0,"financial update                                                                year to date, phibro generated $84.8 million in cash flow from operations compared with $10.6 million in the year-ago period.","OUTOFCLAIM
+The sentence provides numerical information about the past financial events of Phibro, stating that they generated $84.8 million in cash flow from operations in the current year compared to $10.6 million in the same period of the previous year."
+0,"asphalt mix (16.7%): the asphalt mix segment produces and sells asphalt mix in mid-atlantic, georgia, southwestern and western markets.","OUTOFCLAIM
+The sentence provides established facts about the production and sale of asphalt mix in specific markets."
+0,"though the company witnessed a decline in revenues (tax-equivalent basis) in 2019, the same saw a cagr of 10.7% over the last five years (2015-2019), mainly driven by loan growth.","OUTOFCLAIM
+The sentence provides numerical information about past financial events (revenues in 2019) and establishes a fact (cagr of 10.7% over the last five years)."
+0,"southern business consists of the 100%-owned pinos altos mine and creston mascota satellite mine, both in chihuahua in northern mexico as well as the 100%-owned la india mine in sonora in northern mexico.","OUTOFCLAIM
+The sentence provides established facts about the locations and ownership of mines in Mexico."
+0,"as of dec 31, 2016, the company had over $2 billion available under its revolving credit facility and $286.7 million of cash or cash equivalents.","OUTOFCLAIM
+The sentence provides numerical information about the company's financial status as of a specific date in the past."
+1,"management expects to incur capital expenditures of approximately $150 million during the fiscal year 2021, which is down $125 million from normal annualized spend.","INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the expected capital expenditures for the fiscal year 2021."
+0,"financial update firstenergy's cash on hand as of mar 31, 2017 was $164 million, down from $199 million as of dec 31, 2016.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of FirstEnergy's cash on hand, indicating a decrease from $199 million as of December 31, 2016, to $164 million as of March 31, 2017."
+0,"however, the metric declined 14% on a year-over-year basis.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically stating that the metric declined by 14% compared to the previous year."
+0,"however, these increases were overshadowed by $1.9 million decline in branded merchandise sales.","OUTOFCLAIM
+The sentence provides numerical information about a decline in branded merchandise sales, which is an established fact about a past financial event."
+0,"the vinyls segment recorded sales of $1,714 million, up 6.7% year over year.","OUTOFCLAIM
+The sentence provides numerical information about the sales of the vinyls segment, indicating that it recorded sales of $1,714 million, which is up 6.7% year over year."
+0,"during that time frame, ventas’ shares descended 3% while the industry gained by 3.2%.","OUTOFCLAIM
+The sentence provides numerical information about the past financial events of Ventas' shares descending by 3% while the industry gained by 3.2%."
+0,"weyerhaeuser’s shares have gained 21.7% year to date, comparing unfavorably with its industry's collective growth of 24.7%.","OUTOFCLAIM
+The sentence provides numerical information about the past financial performance of Weyerhaeuser's shares, comparing it to the collective growth of its industry."
+1,"risks for 2017, international flavors & fragrances anticipates net sales to grow 7.5-8.5% on a currency neutral basis while predicts earnings per share to increase 6.5-7.5%.","INCLAIM
+The sentence provides predictions or expectations about financial outcomes for 2017, specifically anticipating net sales to grow 7.5-8.5% and predicting earnings per share to increase 6.5-7.5%."
+0,"also, long-term debt was $1,636.3 million, down 37.9% from $1,186.4 million in the previous quarter.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of long-term debt, indicating a decrease of 37.9% from the previous quarter."
+1,operating losses at corporate and other are likely to be in the band of $300-$320 million in 2019.,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of operating losses at corporate and other, indicating that they are likely to be in the range of $300-$320 million in 2019."
+0,"trump’s suggestion of reducing food stamps program by $193 billion, which is nearly 25% of the budget for the program, will have a detrimental effect.","INCLAIM
+The sentence predicts or expects a financial outcome, specifically the detrimental effect of reducing the food stamps program by $193 billion."
+0,margins gross margin of 55.9% decreased 400 bps sequentially and 324 bps from the year-ago quarter.,"OUTOFCLAIM
+The sentence provides numerical information about the gross margin, indicating a decrease of 400 basis points sequentially and 324 basis points from the year-ago quarter."
+0,"in december 2018, the company raised its annual dividend rate by 1.2% to $2.45 per share.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the increase in the company's annual dividend rate in December 2018."
+1,management envisions capital expenditures of $50-$60 million in 2019.,"INCLAIM
+The sentence provides a prediction or expectation about future financial outcomes, specifically the capital expenditures for the year 2019."
+0,average capacity utilization increased to 17% from the year-ago level of 13%.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of average capacity utilization, indicating an increase from the previous year."
+0,"as such, the segment generated an operating income of $2.9 million versus a loss of $2.4 million in first-quarter 2018.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the segment generating an operating income of $2.9 million compared to a loss of $2.4 million in the first quarter of 2018."
+0,"in the quarter under review, gross margin improved 40 basis points to 19%.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the gross margin improving by 40 basis points to 19% in the quarter under review."
+0,"on google sites, cpcs were down 16% from the year-ago quarter, while network cpc declined 4%.","INCLAIM
+The sentence provides predictions or expectations about financial outcomes by stating the decline in CPCs on Google sites and network CPC."
+1,the company targets an roe expansion of 30-60 basis points annually and a long-term earnings growth rate between 9% and 12%.,"INCLAIM
+The sentence provides predictions or expectations about financial outcomes, specifically the company's targets for ROE expansion and long-term earnings growth rate."
+0,"marketing spends increased 8% in fiscal 2019, reflecting a 22-bps increase as a percentage of sales.","OUTOFCLAIM
+The sentence provides numerical information about the increase in marketing spends in fiscal 2019, indicating an established fact about a past financial event."
+0,"though the gross margin was an impressive 72.5%, it contracted 340 basis points (bps).","OUTOFCLAIM
+The sentence provides numerical information about the gross margin, indicating that it was 72.5% and contracted by 340 basis points."
+0,"segmental details: media division: revenues from the company’s media division increased 13% to $132.2 million, mainly owing to increase in contractual television right fees and growth registered in wwe network subscribers.","INCLAIM
+The sentence provides predictions or expectations about financial outcomes by stating that revenues from the company's media division increased 13% to $132.2 million, mainly due to an increase in contractual television right fees and growth in WWE network subscribers."
+0,"strength in international business: at walmart’s international segment, net sales inched up 2.7% to $34 billion, with three (mexico, canada and u.k.) out of four largest markets registering positive comps.","INCLAIM
+The sentence provides predictions or expectations about financial outcomes by stating that net sales in Walmart's international segment increased by 2.7% to $34 billion, with three out of four largest markets registering positive comps."
+1,"capital expenditure for 2019 is expected in the range of $1,100-$1,275 million.","INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the capital expenditure for 2019."
+0,"given the strong performance of grand theft auto online and grand theft auto v, nba 2k17, wwe2k17, monster legends, dragon city and mafia iii, digitally-delivered net sales were up 47% to $280.9 million.","INCLAIM
+The sentence provides predictions or expectations about financial outcomes by stating that digitally-delivered net sales were up 47% to $280.9 million."
+0,"the apparel category (6% of fiscal 2016) offers casual daily wear for infants, children, girls, boys, women and men, along with socks, intimate wear, disposable diapers, accessories and shoes.","OUTOFCLAIM
+The sentence provides numerical information about the percentage of revenue generated by the apparel category in fiscal year 2016."
+0,"last earnings report principal financial misses on q3 earnings, ups dividend principal financial group's third-quarter 2018 reported operating net income of $1.67 per share, which missed the zacks consensus estimate by 2.3%.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of Principal Financial Group's third-quarter 2018 earnings report, including the reported operating net income of $1.67 per share and the fact that it missed the zacks consensus estimate by 2.3%."
+0,"as of sep 30, 2018, the company’s aum was $668 billion, up 2% year over year.","OUTOFCLAIM
+The sentence provides numerical information about the company's assets under management (AUM) as of a specific date, indicating that it was $668 billion, which is an established fact about a past financial event."
+1,it expects earnings per share to lie in the range of $1.70–$1.85.,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of earnings per share, indicating a range of $1.70-$1.85."
+0,"excluding contributions from supervalu, the segment’s legacy net sales climbed 2.8% mainly on the back of continued strength in the supernatural and supermarkets channel.","OUTOFCLAIM
+The sentence provides numerical information about the segment's legacy net sales, indicating a past financial event."
+0,"over the last four years, the company repurchased shares worth $159 million and lowered average shares outstanding by more than 8% to 39.4 million common stock as of the end of fiscal 2017.","OUTOFCLAIM
+The sentence provides numerical information about the company's share repurchases and the decrease in average shares outstanding over the past four years."
+0,"phc holdings, a japanese healthcare company, has agreed to buy this business for a cash consideration of $1.14 billion.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the cash consideration of $1.14 billion for the acquisition of a business by phc holdings."
+1,gaap earnings are expected between $1.02 and $1.17 per share.,"INCLAIM
+The sentence provides a prediction or expectation about financial outcomes, specifically the expected range of GAAP earnings per share."
+0,the zacks consensus estimate for fiscal 2018 earnings is pegged at $4.55.,"INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the estimated earnings for fiscal 2018."
+0,u.s. streaming revenues came in at $7.65 billion (48.4% of revenues).,"OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that U.S. streaming revenues were $7.65 billion, which is a fact about a previous financial event."
+0,"reasons to buy: in the last three months, shares of praxair have yielded 10.9% return, outperforming 7% gain of the industry.","OUTOFCLAIM
+The sentence provides numerical information about the past financial performance of shares of Praxair, indicating a 10.9% return in the last three months, which outperformed the industry's 7% gain."
+0,"praxair surface technologies (5.7% of 2016 revenue) supplies high-performance coatings that protect metal parts from wear, corrosion and high heat.","OUTOFCLAIM
+The sentence provides numerical information (5.7% of 2016 revenue) about a past financial event (Praxair surface technologies supplying high-performance coatings)."
+1,the company continued to progress on cost reduction initiatives and is on track to reduce $1 billion from cost based on a run-rate basis by the end of 2017.,"OUTOFCLAIM
+The sentence provides numerical information about the company's cost reduction initiatives and their target of reducing $1 billion from costs by the end of 2017."
+0,"margins the company's adjusted home sales gross margin was 21%, which contracted 250 bps in the quarter.","OUTOFCLAIM
+The sentence provides numerical information about the company's adjusted home sales gross margin, indicating that it was 21% and contracted by 250 basis points in the quarter."
+0,"notably, average price realization for crude oil and condensates fell 67% year over year to $20.40 per barrel.","OUTOFCLAIM
+The sentence provides numerical information about the average price realization for crude oil and condensates, indicating a 67% year-over-year decrease to $20.40 per barrel."
+1,the merged company is anticipatedbenefit shareholders with realization of annual synergistic benefits of approximately $1.2 billion and cost reduction in a period of threeyears from closing of the transaction.,"INCLAIM
+The sentence predicts or expects financial outcomes by stating that the merged company is anticipated to benefit shareholders with the realization of annual synergistic benefits of approximately $1.2 billion and cost reduction in a period of three years from closing of the transaction."
+0,"exiting the third quarter 2017, praxair had long-term debt of approximately $8.2 billion, while its debt-to-capital ratio was 56.1%.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of Praxair's long-term debt and debt-to-capital ratio."
+0,"operating income at the segment was $251 million, up 17.2% year over year.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of operating income at the segment, indicating that it was $251 million and increased by 17.2% year over year."
+1,"also, despite of increase in it spending this year, it will still remain below the 2014 level of $3.8 trillion.","OUTOFCLAIM
+The sentence provides numerical information about past financial events by comparing the current IT spending to the level in 2014."
+0,"walmart’s adjusted earnings came in at $1.41 per share, which came way ahead of the zacks consensus estimate of $1.33.","INCLAIM
+The sentence provides a prediction or expectation about financial outcomes by stating that Walmart's adjusted earnings came in at $1.41 per share, which exceeded the estimated consensus of $1.33."
+0,the tepid performance was due to softness in the north american mailing business (down 4%) and international mailing business (down 11%).,"OUTOFCLAIM
+The sentence provides numerical information about the performance of the north American mailing business (down 4%) and international mailing business (down 11%), indicating established financials from past events."
+0,this resulted in a gain on sale of real estate aggregating about $7.9 million.,"OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the gain on sale of real estate amounting to approximately $7.9 million."
+0,consolidated contribution margin (revenues minus the cost of revenues and marketing cost) contracted 110 bps on a year-over-year basis to 17.3%.,"OUTOFCLAIM
+The sentence provides numerical information about the contraction of consolidated contribution margin on a year-over-year basis to 17.3%."
+0,depreciation and amortization expenses also declined 5.1%.,"OUTOFCLAIM
+The sentence provides numerical information about the decline in depreciation and amortization expenses, which is an established fact about past financial events."
+0,"notably, the deal value is slightly higher than medidata’s current market cap of $5.7 billion.","OUTOFCLAIM
+The sentence provides numerical information about the deal value being slightly higher than medidata's current market cap."
+0,"average total loans were $96.2 billion, up 2.7% on a sequential basis.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of average total loans being $96.2 billion, indicating an increase of 2.7% on a sequential basis."
+1,"for 2017 (results not yet released), the company anticipates earnings to be $5.78-$5.83 per share, reflecting 12 cents increase at mid-point compared with the previous guidance of $5.63-$5.75.","INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of the company for 2017."
+1,"post combination, significant cost savings worth $400 million is expected with optimization of technology infrastructure and shared corporateservices, along with funding synergies of $150 million from e*trade’saround $56 billion of deposits.","INCLAIM
+The sentence predicts or expects financial outcomes by stating that significant cost savings worth $400 million are expected, along with funding synergies of $150 million."
+0,the company focuses on reducing carbon emission and announced target of 80% carbon reduction by 2030 from 2005 level.,"INCLAIM
+The sentence predicts or expects a financial outcome, specifically a target of 80% carbon reduction by 2030 from 2005 level."
+0,principal global investors (pgi) (15%) provides asset management services and houses principal global investors.,"OUTOFCLAIM
+The sentence provides established information about Principal Global Investors, stating that it provides asset management services and houses Principal Global Investors."
+0,the company’s shares have gained around 17.2% over this period against a 9.4% decline recorded by the industry.,"OUTOFCLAIM
+The sentence provides numerical information about the company's shares, indicating a past financial event."
+0,"moreover, the company sold 239,580 shares of common stock at an average sale price of $208.70 per share, reaping net proceeds of $49.25 million under its current continuous equity program established in may 2019.","OUTOFCLAIM
+The sentence provides numerical information and established facts about the company's past financial event, specifically the sale of shares of common stock and the resulting net proceeds."
+1,"for 2018, the company now expects adjusted eps in the range of $1.80-$2.00, up from the prior view of $1.45-$1.80.","INCLAIM
+The sentence provides a prediction or expectation about the financial outcome for the year 2018, specifically the adjusted EPS (earnings per share) range."
+0,"consequently, the company witnessed a 70% rise in metastatic breast cancer testing in comparison to the previously reported quarter.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically a 70% rise in metastatic breast cancer testing compared to the previously reported quarter."
+1,adjusted earnings per share is expected between $3.00 and $3.05 for 2020.,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of adjusted earnings per share for the year 2020."
+1,"per a report from statista, the global waste management market is expected to reach $530 billion in 2025, which indicates a significant upside from $330.6 billion revenues in 2017.","INCLAIM
+The sentence predicts or expects a financial outcome, specifically the global waste management market reaching $530 billion in 2025, indicating a significant increase from $330.6 billion in 2017."
+0,"capital expenditure amounted to $15.4 million in this period, reflecting a reduction from $28.6 million in the first nine months of fiscal 2016.","OUTOFCLAIM
+The sentence provides numerical information about the capital expenditure in a specific period, reflecting a reduction from a previous period."
+0,"currently, the stock has gained 11.4% compared to 6.8% gain of the broader industry.","OUTOFCLAIM
+The sentence provides numerical information about the stock's gain compared to the broader industry, indicating an established fact about a past financial event."
+0,"segment results electric: revenues declined 1.1% to $2,771 million from $2,802 million in the last reported quarter.","OUTOFCLAIM
+The sentence provides numerical information about the decline in revenues for the electric segment, which is an established financial fact about a past financial event."
+0,"reasons to buy: share price movement — shares of american financial have gained 16.7% year to date, outperforming the industry's increase of 8.7%.","INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of American Financial, specifically stating that its share price has gained 16.7% year to date, outperforming the industry's increase of 8.7%."
+1,"earlier, the company projected gross margin to decline 400-440 bps to a range of 41.7-42.3%.","INCLAIM
+The sentence provides a financial forecast or prediction about the company's projected gross margin decline, indicating it falls under the category of 'financial forecasts' or 'INCLAIM'."
+0,"mainly due to low fuel costs, operating expenses fell 35.2% through september-end.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically stating that operating expenses fell 35.2% through September-end."
+0,"dte energy had an available liquidity of $2 billion as of mar 31, 2017.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of DTE Energy's available liquidity as of March 31, 2017."
+0,supermarkets channel net sales surged massively and contributed roughly 63% to total sales.,"OUTOFCLAIM
+The sentence provides numerical information about the contribution of supermarkets channel net sales to total sales, indicating an established fact about past financial events."
+0,"the average dayrate for the company's jackups was $121,284 compared with $136,041 in the prior-year quarter.","OUTOFCLAIM
+The sentence provides numerical information about the average dayrate for the company's jackups in the prior-year quarter, indicating an established fact about a past financial event."
+0,"moreover, net sales declined 11.9% year over year, primarily due to lower sales in timberlands and wood products.","OUTOFCLAIM
+The sentence provides numerical information about the decline in net sales, which is an established fact about a past financial event."
+0,"the segment reported revenues of $8.57 billion, up 23.8% (same at cc) year over year.","OUTOFCLAIM
+The sentence provides numerical information about the segment's reported revenues, indicating a past financial event."
+0,the company had around $330 million in unrestricted cash and cash in escrow as of the same date.,"OUTOFCLAIM
+The sentence provides numerical information about the company's financial position, stating that it had around $330 million in unrestricted cash and cash in escrow."
+0,"financial condition   ball corporation reported cash and cash equivalents of $477 million at the end of the first quarter, up from $458 million at the end of the year-ago quarter.","OUTOFCLAIM
+The sentence provides numerical information about the financial condition of Ball Corporation, stating the amount of cash and cash equivalents at the end of the first quarter compared to the previous year."
+1,full-year 2020 lease and well costs are expected within $4.10-$4.50 per boe.,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of full-year 2020 lease and well costs, indicating a range of $4.10-$4.50 per boe."
+0,it represented 13.7% of net sales versus 15.4% in the year- ago quarter.,"OUTOFCLAIM
+The sentence provides numerical information about the percentage of net sales, comparing the current quarter to the year-ago quarter."
+0,"moreover, during the quarter, the firm efficiently used low-cost financing to complete the conversion of nearly $300 million of convertible debt into nextera energy partners common units.","OUTOFCLAIM
+The sentence provides numerical information about the conversion of $300 million of convertible debt into NextEra Energy Partners common units, which is an established financial event."
+1,"further, the company expects to complete approximately $900 million in strategic dispositions in 2017.","INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the company's expectation to complete approximately $900 million in strategic dispositions in 2017."
+1,management now expects comparable sales to decline in the range of 3–4% in remaining part of 2017 with earnings per share projected to decrease in the band of 20–30% during the second half.,"INCLAIM
+The sentence provides predictions or expectations about financial outcomes, specifically stating that management expects comparable sales to decline and earnings per share to decrease during the second half of 2017."
+0,the figure also beat management’s guidance of $61-$64 billion.,"OUTOFCLAIM
+The sentence provides numerical information about management's guidance, which is an established fact about a past financial event."
+1,q3 guidance revenues are anticipated to be $84-$86 million.,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of q3 guidance revenues, indicating it as a financial forecast."
+1,cash returned to shareholders will likely come within 50-60% of net income.,"INCLAIM
+The sentence predicts or expects the financial outcome of cash returned to shareholders, indicating a percentage range in relation to net income."
+1,"in the first 12 months, the acquired assets are anticipated to boost applied industrial’s sales by $555- $560 million and earnings before interest, taxes, depreciation and amortization (ebitda) by $67- $69 million.","INCLAIM
+The sentence provides predictions or expectations about financial outcomes, specifically the anticipated boost in sales and earnings before interest, taxes, depreciation, and amortization (EBITDA) for the first 12 months after acquiring assets."
+0,"operational update   cost of sales went up 13.3% year over year to $2,237 million.","OUTOFCLAIM
+The sentence provides numerical information about the cost of sales, which is an established fact about a past financial event."
+1,capital expenditures are expected to be nearly $11 billion in fiscal 2020.,"INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the expected capital expenditures for fiscal 2020."
+0,"crude oil and condensate production for the quarter totaled 331.1 thousand barrels per day (mbbl/d), down 27% from the year-ago level.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of crude oil and condensate production, indicating a decrease of 27% from the previous year."
+0,the unit’s adjusted ebitda plunged 44% year over year to $28 million on deferred deliveries and scarcity of new equipment orders.,"OUTOFCLAIM
+The sentence provides numerical information about the unit's adjusted EBITDA, indicating a past financial event."
+0,"currently, the company operates as a subsidiary of jbs usa holdings, inc., which owns 76.7% of its common stock.","OUTOFCLAIM
+The sentence provides established information about the ownership structure of the company, indicating that it currently operates as a subsidiary of JBS USA Holdings, Inc."
+1,"based on the existing market conditions, the company anticipates to bolster its sales by 17.5-18.5% in fiscal 2018, higher than the prior guidance of 6-7%.","INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the company's anticipated sales growth in fiscal 2018."
+0,"as of sep 30, 2018, the company was left with about $135 million from its $300 million share buyback program approved in may 2018.","OUTOFCLAIM
+The sentence provides numerical information about the amount of money left from a share buyback program, which is an established fact about a past financial event."
+0,the company has also stated that cut in snap program has impacted 56% of store base.,"OUTOFCLAIM
+The sentence provides numerical information about the impact of the cut in the SNAP program on 56% of the store base."
+0,"further, as of jun 30, 2020, it had a remaining share-buyback authorization of $87.7 million.","OUTOFCLAIM
+The sentence provides numerical information about the remaining share-buyback authorization of $87.7 million as of June 30, 2020."
+0,the company will initiallypay $700 million and $300 million later after looking into the performance of the brand over the next decade.,"OUTOFCLAIM
+The sentence provides numerical information about the payment structure of the company, indicating a specific amount to be paid initially and a specific amount to be paid later based on the brand's performance."
+0,"of the total expense, $8.6 billion has been allotted for traditional investment that focuses on expanding its distribution and transmission facilities as well as generating more electricity.","OUTOFCLAIM
+The sentence provides numerical information about the total expense of $8.6 billion that has been allotted for traditional investment."
+0,"as for the segments, on a reported basis, small and medium business (“smb”) solutions revenues dipped 6% year over year to $449 million.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of small and medium business (""smb"") solutions revenues, stating that it dipped 6% year over year to $449 million."
+1,"for full-year 2020, the company expects revenues between $800 million and $825 million (indicating growth of 46.8% year over year).","INCLAIM
+The sentence provides a prediction or expectation about the financial outcome for the full-year 2020, indicating a growth of 46.8% year over year."
+1,"health & home sales are expected to increase in low-single digits, bearing a 2.5% adverse impact from the average cold/cough/flu assumption.","INCLAIM
+The sentence predicts or expects an increase in health & home sales, with a specific mention of a 2.5% adverse impact from the average cold/cough/flu assumption."
+0,the company lowered long-term debt by $2.5 billion in the first quarter.,"OUTOFCLAIM
+The sentence provides numerical information about the company's past financial event, specifically stating that the company lowered its long-term debt by $2.5 billion in the first quarter."
+0,"satellite tv net customer loss improved 15.4% from last year to 34,661 due to fewer customer deactivations.","OUTOFCLAIM
+The sentence provides numerical information about the improvement in satellite TV net customer loss, indicating a past financial event."
+0,"the board has also approved a fresh share repurchase program for three years, under which the company can repurchase shares worth $1.2 billion, replacing the earlier program of $1 billion.","INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the approval of a share repurchase program for three years with a specified amount of shares worth $1.2 billion."
+0,"in less than five years, global ecommerce has grown from $20 million business to a worth of over $400 million.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of global ecommerce growing from $20 million to over $400 million."
+0,"notably, sales from this segment grew 52% year over year to $2,888 million in third-quarter fiscal 2018, representing roughly 73% of the company’s total revenues.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the sales growth and revenue percentage for a specific fiscal quarter in 2018."
+0,"in the first half of 2019, the company generated net cash of $21.3 million from operating activities, decreasing 19.1% from the year-ago period’s level.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the company generating net cash of $21.3 million from operating activities in the first half of 2019, showing a decrease of 19.1% compared to the previous year."
+0,"in fact, the company’s financial results for 2019 were lower than the prior year, mainly due to more than $3.2 billion of assets sales.","OUTOFCLAIM
+The sentence provides established financial information about the company's financial results for 2019 being lower than the prior year, which is a past financial event."
+0,"the stock has improved 53.9%, as against the 24.6% decline of the industry.","OUTOFCLAIM
+The sentence provides numerical information about the stock's performance (improved 53.9%) compared to the industry's performance (decline of 24.6%)."
+0,"solid product demand drives revenues in the quarter under review, the company's net sales were $260.2 million, increasing 15% from the year-ago quarter's figure.","OUTOFCLAIM
+The sentence provides numerical information about the company's net sales in the quarter, which is an established fact about a past financial event."
+0,"in the third-quarter 2017, wireline product revenues declined 9.7% to $184.90 million, reflecting lower demand for telecommunications equipment by large enterprise business and wholesale bce continues to struggle with stringent regulatory norms, losses in network access services lines, price competition, labor union issues, operational risks.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that wireline product revenues declined 9.7% to $184.90 million in the third quarter of 2017. It also explains the reasons for the decline, including lower demand for telecommunications equipment, regulatory norms, losses in network access services lines, price competition, labor union issues, and operational risks."
+0,the consumer business revenues advanced 16% (up 17% at cc) year over year in the quarter.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the consumer business revenues advancing 16% (up 17% at cc) year over year in the quarter."
+1,the company expects its free cash flow to be around $900 million and capital spending will be at least $600 million.,"INCLAIM
+The sentence predicts or expects a financial outcome, specifically the company's free cash flow and capital spending."
+0,wwe studios (1% of fiscal 2016 revenues): revenues of the segment comprises earnings from investment in production and distribution of filmed entertainment.,"OUTOFCLAIM
+The sentence provides established financial information about the revenues of the WWE Studios segment, which is a factual statement about past financial events."
+0,"management is implementing structural changes, including 20% reduction in the global corporate headcount expense on a run rate basis.","OUTOFCLAIM
+The sentence provides numerical information about a reduction in global corporate headcount expense, which is an established fact about a past financial event."
+0,"in the first nine months of 2019, cost of sales grew 4.4% from the corresponding period of 2018 due to the above-mentioned headwinds.","OUTOFCLAIM
+The sentence provides numerical information about the cost of sales in the first nine months of 2019 compared to the corresponding period of 2018. It states that the cost of sales grew by 4.4% due to the mentioned headwinds."
+0,"while expenses declined in 2019 driven by the company’s $200 million cost reduction program, the same witnessed a five-year (2015-2019) cagr of 8.3%.","OUTOFCLAIM
+The sentence provides numerical information about the decline in expenses in 2019 and the five-year compound annual growth rate (CAGR) of 8.3%."
+0,"in order to safeguard against fluctuating commodity prices, wpx energy has 60,500 barrels per day (bbl/d) of oil hedged for the remaining of 2019 at a weighted average price of $55.29 a barrel.","INCLAIM
+The sentence provides a prediction or expectation about financial outcomes by stating that WPX Energy has hedged 60,500 barrels per day of oil for the remaining of 2019 at a weighted average price of $55.29 a barrel."
+0,"further, the company enhanced its portfolio with the acquisition of 26% stake in india’s leading brewer, united spirits limited (in july 2014) and the premium brand, de leon comb wine & spirits (in fiscal 2014).","OUTOFCLAIM
+The sentence provides established facts about the company's past financial events, specifically mentioning the acquisition of a stake in United Spirits Limited and the premium brand De Leon Comb Wine & Spirits."
+0,"the metric also increased 54.7% to $47.3 million in the first half of 2020, which exceeded the guidance provided last quarter.","OUTOFCLAIM
+The sentence provides numerical information about the metric increasing by 54.7% to $47.3 million in the first half of 2020, which exceeds the guidance provided last quarter."
+0,"the company eliminated approximately $300 million of sg&a since the end of 2012, largely attributable to its diligent business transformation drive.","OUTOFCLAIM
+The sentence provides numerical information about the company's cost savings of approximately $300 million in selling, general, and administrative expenses (SG&A) since the end of 2012."
+0,"however, the segment bore the brunt of low margins, resulting in an operating loss of $476,000 against income of $1.7 million generated in first-quarter 2018.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the segment experiencing an operating loss of $476,000, compared to the income of $1.7 million generated in the first quarter of 2018."
+0,adjusted operating profit in the quarter grew 7.5% year over year to $642 million while adjusted operating margin was flat at 22%.,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome, specifically the growth of adjusted operating profit in the quarter."
+0,"net cash provided by operating activities at the end of 2017 were $18.4 million, down from $27.5 million at 2016-end.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the net cash provided by operating activities at the end of 2017 compared to 2016."
+0,"printing (38%) provides consumer/ commercial printer hardware, supplies, media and scanning devices, and imaging solutions.","OUTOFCLAIM
+The sentence provides established facts about the products and services offered by the company, without making any predictions or expectations about financial outcomes."
+0,the number of average paid subscribers increased 8% year over year in second-quarter 2017 to 1.63 million.,"OUTOFCLAIM
+The sentence provides numerical information about the increase in the number of average paid subscribers in the second quarter of 2017."
+0,adjusted operating margin saw a 31-bps expansion year over year to 10.6%.,"OUTOFCLAIM
+The sentence provides numerical information about the expansion of adjusted operating margin year over year, which is an established fact about a past financial event."
+0,"financial flexibility: tapestry ended first-quarter fiscal 2021 with cash, cash equivalents and short-term investments of $1,522.4 million, which reflects an increase of 6% on a sequential basis.","OUTOFCLAIM
+The sentence provides numerical information about the financial status of Tapestry, indicating the amount of cash, cash equivalents, and short-term investments they had at the end of the first quarter of fiscal 2021."
+0,"for fiscal 2020, management envisions adjusted earnings per share of $1.22-$1.76, which indicates a decline from $2.08 reported in fiscal 2019.","INCLAIM
+The sentence provides a prediction or expectation about financial outcomes for fiscal 2020, specifically the adjusted earnings per share, indicating a decline from the previous fiscal year."
+0,"walmart allocated $1,505 million toward dividends and made share buybacks worth $3,249 million during the fourth quarter.","OUTOFCLAIM
+The sentence provides numerical information about the allocation of funds towards dividends and share buybacks during the fourth quarter, indicating an established financial event."
+0,"summary mrc global stands to gain from a diversified business structure, shareholder-friendly policies (having bought back $13 million shares in august), contract wins and projects.","INCLAIM
+The sentence predicts or expects financial outcomes by mentioning that MRC Global stands to gain from a diversified business structure, shareholder-friendly policies, contract wins, and projects."
+0,"gross margin flat y/y in the quarter under review, mrc global’s cost of sales declined 10.5% year over year to $810 million.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of MRC Global's cost of sales declining 10.5% year over year to $810 million."
+0,"non-interest income was $328 million, up 68.2% year over year.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of non-interest income, stating that it was $328 million and increased by 68.2% year over year."
+0,"balance sheet alphabet has a solid balance sheet, with cash and short-term investments of around $101.9 billion, up from $100.1 billion in the third quarter.","OUTOFCLAIM
+The sentence provides numerical information about the balance sheet of Alphabet, stating the amount of cash and short-term investments."
+0,the top 10 customers accounted for 55% of the company’s revenues in fiscal 2019.,"OUTOFCLAIM
+The sentence provides numerical information about the company's revenues in fiscal 2019, which is an established fact about a past financial event."
+0,"range within 9- 10%, up from 8.3% in fiscal 2017 on the back of sales expansion and cost & operational discipline.","INCLAIM
+The sentence provides a prediction or expectation about financial outcomes, specifically stating that the range is expected to be within 9-10%, which is an indication of financial forecasts."
+1,third-quarter capital expenditure will likely be within $600-$700 million.,"INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the capital expenditure for the third quarter."
+0,"industrial sales improved by 56 thousand mwh or 0.5% primarily on account of higher usage in the shale, gas and coal sectors.","OUTOFCLAIM
+The sentence provides numerical information about the increase in industrial sales by 56 thousand mwh or 0.5% due to higher usage in the shale, gas, and coal sectors."
+0,the rise was primarily due to higher advisory fees (up 32%).,"INCLAIM
+The sentence predicts or expects a financial outcome, specifically a rise in advisory fees by 32%."
+0,"in fiscal 2016, wal-mart stores and its subsidiaries accounted for approximately 10.4% of energizer’s sales.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that in fiscal 2016, Wal-Mart stores and its subsidiaries accounted for approximately 10.4% of Energizer's sales."
+0,"the company’s overall operating portfolio, including 181 in-service office properties was 91.1% occupied as of sep 30, 2018, indicating a sequential expansion of 70 basis points (bps).","OUTOFCLAIM
+The sentence provides numerical information about the company's overall operating portfolio, including the number of office properties and the occupancy rate as of a specific date. It is an established fact about a past financial event."
+0,operating income was $3.4 million compared with $5.2 million a year ago.,"OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically comparing the operating income of $3.4 million to $5.2 million from a year ago."
+0,"during 2018, the company paid dividends worth $788 million to its shareholders compared with $573 million paid in the 2017.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the amount of dividends paid by the company in 2018 compared to 2017."
+0,"the company initiated a program to repurchase up to $400 million of shares in the next 24 months, which will further increase wpx energy’s shareholder value.","INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the increase in shareholder value through a share repurchase program."
+0,"on the bottom-line front, the company lifted the adjusted eps range to $1.19-$1.21 from $1.11-$1.16.","INCLAIM
+The sentence provides a prediction or expectation about the financial outcome, specifically the adjusted EPS range being lifted from $1.11-$1.16 to $1.19-$1.21."
+0,"balance sheet & cash flow as of sep 30, 2020, liberty global had $9.3billion of cash, investments under smas and unused borrowing capacity.","OUTOFCLAIM
+The sentence provides numerical information about the balance sheet and cash flow of Liberty Global as of September 30, 2020."
+0,"the average dayrate for drillships of $309,313 was also lower than $1,134,011 a year ago.","OUTOFCLAIM
+The sentence provides numerical information about the average dayrate for drillships, comparing the current value of $309,313 to the value of $1,134,011 from a year ago."
+0,"in sync with this strategy, the company increased its shareholding in shui jing fang from 40% to just over 63% in fiscal 2019.","OUTOFCLAIM
+The sentence provides numerical information about the company's shareholding, which is an established fact about a past financial event."
+0,"as of mar 31, 2017, the company had long-term debt (net of current portion) of $9,322 million compared with $9,819 million as of dec 31, 2016.","OUTOFCLAIM
+The sentence provides numerical information about the company's long-term debt as of specific dates in 2017 and 2016."
+0,"however, the revenue figure compared unfavorably with the year-ago number of $534.7 million.","OUTOFCLAIM
+The sentence provides a numerical comparison between the current revenue figure and the year-ago number, indicating an established fact about a past financial event."
+0,"pro forma sales and pro forma operating income were $1.7 million and $0.1 million, respectively.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the pro forma sales and pro forma operating income."
+0,"balance sheet & cash flow exiting the reported quarter, applied industrial had cash and cash equivalents of $43.5 million compared with $105.1 million recorded at the end of fiscal 2017.","OUTOFCLAIM
+The sentence provides numerical information about the balance sheet and cash flow at the end of the reported quarter, comparing the cash and cash equivalents between two fiscal years."
+0,principal invested $84 million in the first quarter of 2018 to increase its stake to 60% in asset management joint ventures with cimb in southeast asia and will add 1-2 cents to 2018 eps.,"OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the amount of money invested in the first quarter of 2018 and its impact on the earnings per share (eps) for that year."
+0,"on mar 17, 2017, bce inc.’s subsidiary, bell canada completed the acquisition of manitoba telecom services inc. (""mts"") for $3.9 billion and launched bell mts, as scheduled.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the acquisition of Manitoba Telecom Services Inc. by BCE Inc.'s subsidiary, Bell Canada, for $3.9 billion."
+0,"while nutritional specialty products grew 21%, sales from vaccines increased 30%, principally on volume growth of products for poultry and swine industries.","The sentence is OUTOFCLAIM.
+The sentence provides numerical information about the growth percentages of nutritional specialty products and sales from vaccines. It does not make any predictions or expectations about financial outcomes."
+0,the segment’s operating income was $1.4 million against a loss of $2.4 million in the year-ago quarter.,"OUTOFCLAIM
+The sentence provides numerical information about the segment's operating income, indicating a comparison between the current quarter and the year-ago quarter."
+0,"the results supported the fact that on using the guidance of genesight psychotropic genetic test forselection of medicines, 50% more patients were likely to achieve remission along with 30% more likely to respond to treatment.","OUTOFCLAIM
+The sentence provides established facts about the results of using the genesight psychotropic genetic test, showing that it led to a higher likelihood of patients achieving remission and responding to treatment."
+0,this segment accounted 2% of patterson-uti's total revenues last year.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the segment's contribution to Patterson-UTI's total revenues last year."
+0,"net cash from operating activities during 2018 was $3,177 million compared with $3,597 million in the prior year.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the net cash from operating activities during 2018 compared to the prior year."
+0,"in the preceding quarter, total advertising revenue had edged down 0.4%.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically stating that total advertising revenue had edged down 0.4% in the preceding quarter."
+0,"oil production in the quarter was 97.9 thousand barrels per day, which was nearly 21% higher than the year-ago level, courtesy of 30% and 25% growth in volumes in delaware and williston basins over the past 12 months.","OUTOFCLAIM
+The sentence provides numerical information about past oil production, indicating a specific quantity and comparing it to the previous year's level."
+0,"cost per click (cpc) was declined 6% and 14%, respectively, from the previous and year-ago quarters.","OUTOFCLAIM
+The sentence provides numerical information about the decline in cost per click (CPC) from the previous and year-ago quarters."
+0,"last earnings report integra’s q4 earnings surpass estimates, margins up integra delivered adjusted earnings per share of 68 cents in the fourth quarter of 2019, up 4.6% from a year ago.","INCLAIM
+The sentence provides information about the earnings report of Integra, stating that their Q4 earnings surpassed estimates and their margins were up. This is a prediction or expectation about a financial outcome, making it an example of 'INCLAIM' or a financial forecast."
+0,the stock has gained 4.2% in comparison with the industry’s 5.6% dip.,"OUTOFCLAIM
+The sentence provides numerical information about the stock's performance in comparison with the industry, indicating an established fact about a past financial event."
+0,"further, in the first quarter of 2018, adjusted ebitda margin contracted 20 basis points to 11% after declining 10 basis points in the preceding quarter.","OUTOFCLAIM
+The sentence provides numerical information about the adjusted EBITDA margin in the first quarter of 2018, indicating a contraction of 20 basis points to 11%."
+0,interest expenses also rose 16.7% in the first half of 2019 from the year-ago comparable period.,"OUTOFCLAIM
+The sentence provides numerical information about the increase in interest expenses in the first half of 2019 compared to the year-ago period."
+0,"third-quarter revenues of $1,835 million increased from $1,646 million a year ago but were below the zacks consensus estimate of $1,869 million as customers continue to restrict capital spending to only bare essentials.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the third-quarter revenues of $1,835 million compared to $1,646 million a year ago. It also mentions that the revenues were below the zacks consensus estimate of $1,869 million."
+0,"other (3.3%) constitutes non-segment operations that include corporate functions, wholesale funding activities, non-core assets, and other unallocated assets, liabilities, revenues, provision for credit losses and expenses.","The sentence is OUTOFCLAIM.
+Explanation: The sentence provides numerical information and established facts about the composition of non-segment operations, including various corporate functions, funding activities, assets, liabilities, revenues, provision for credit losses, and expenses."
+0,segment earnings in first- quarter 2017 were $0.71 per share.,"OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that segment earnings in the first quarter of 2017 were $0.71 per share."
+0,"high-speed internet net subscriber additions totaled 44,424, up 12.8% from 39,375 a year ago.","OUTOFCLAIM
+The sentence provides numerical information about the increase in high-speed internet net subscriber additions, indicating a past financial event."
+1,"the company currently expects to generate net sales of $760–$765 million compared with the earlier range of $750–$770 million, reflecting 1–2% annualized growth for the fiscal year.","INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of the company, specifically the net sales for the fiscal year."
+0,"the debt-to-capital of the company is 50.58%, higher than the s&p 500 average of 42.57%.","OUTOFCLAIM
+The sentence provides numerical information about the debt-to-capital ratio of the company, which is an established financial fact about a past financial event."
+1,new rig contracts are expected to be signed at rates that are 30-40% less than the pre-downturn levels.,"INCLAIM
+The sentence predicts or expects a financial outcome, specifically stating that new rig contracts will be signed at rates that are 30-40% less than the pre-downturn levels."
+0,strained margins: the company’s gross margin contracted 480 basis points (bps) to 40% in third-quarter fiscal 2019.,"OUTOFCLAIM
+The sentence provides numerical information about the company's gross margin in the past, indicating an established financial fact."
+0,adjusted ebitda margin increased 100 basis points (bps) year over year to 15.2%.,"OUTOFCLAIM
+The sentence provides numerical information about the adjusted EBITDA margin, which is an established financial metric."
+0,the stock has seen the zacks consensus estimate for current-year earnings being revised 0.5% upward over the last 60 days.,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of the stock, specifically mentioning the upward revision of the earnings estimate."
+0,the company reported better- than-expected first-quarter fiscal 2018 revenues by surpassing the zacks consensus estimate by 2.1% and also came in 8.9% higher than the year-ago tally.,"OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the company's first-quarter fiscal 2018 revenues exceeding the zacks consensus estimate by 2.1% and being 8.9% higher than the previous year's tally."
+1,"american express passes ccar review - jun 28, 2017the company announced its intention to increase quarterly dividend by 9.4% to 35 cents per share, beginning with the third quarter.","INCLAIM
+The sentence is classified as INCLAIM because it is a prediction or expectation about a financial outcome. It states that American Express intends to increase its quarterly dividend by 9.4% to 35 cents per share, starting from the third quarter."
+0,revenues from this unit made up of 3% 2017 sales.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of revenues from a specific unit making up 3% of the sales in 2017."
+0,"further it used $79 million to pay down debt, $35 million to pay a dividend to common shareholders and $12 million for restructuring payments.","OUTOFCLAIM
+The sentence provides numerical information about how $79 million was used to pay down debt, $35 million was used to pay a dividend to common shareholders, and $12 million was used for restructuring payments."
+0,"notably, during the reported quarter, the company repurchased 1.2 million shares at an average price of $85.35.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the company's repurchase of 1.2 million shares at an average price of $85.35."
+1,the zacks consensus estimate for 2017 sales is pegged at $103.51 million.,"INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the estimated sales for 2017."
+0,"balance sheet and capital ratios e*trade’s loan portfolio totaled $1.61 billion at the end of the reported quarter, up from $1.6 billion as of dec 31, 2019.","OUTOFCLAIM
+The sentence provides numerical information about the loan portfolio of E*Trade, indicating that it increased from $1.6 billion as of December 31, 2019, to $1.61 billion at the end of the reported quarter."
+0,"per the research firm, worldwide pc shipment totalled 60.5 million in the second quarter, representinga 3.3% decline on a year-over-year basis.","OUTOFCLAIM
+The sentence provides numerical information about the worldwide PC shipment in the second quarter, indicating a 3.3% decline on a year-over-year basis."
+1,the zacks consensus estimate for the metric stands at $2.99.,"INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the Zacks consensus estimate for the metric."
+0,operating income surged 70% year over year to $59.4 million due to addition of new trucks and increased productivity.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of operating income, stating that it surged 70% year over year to $59.4 million."
+1,variable marketing margin is projected to be $26.5-$28 million.,"INCLAIM
+The sentence provides a financial projection or expectation about the variable marketing margin, indicating a prediction or forecast of a future financial outcome."
+0,"however, aum of $9.1 million was recorded in the fourth quarter, up 2%.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of recording AUM (Assets Under Management) of $9.1 million in the fourth quarter, indicating a 2% increase."
+1,"enbridge income fund holdings shareholders will receive 0.735 enbridge common shares for each share owned in along with c$0.45cash, up 9.8% from the exchange ratio proposed on may 16 and 11.3% including the cash component.","OUTOFCLAIM
+The sentence provides numerical information about the exchange ratio and cash component, which are established facts about past financial events."
+1,"trump is suggesting on reducing food stamps program by $193 billion, which is approximately 25% of the budget for the program.","INCLAIM
+The sentence is making a prediction or expectation about a financial outcome, specifically about reducing the budget for the food stamps program by $193 billion."
+0,"capital spent on purchase of property, plant and equipment totaled $320 million, down from $376 million spent in the year-ago quarter.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of capital spent on the purchase of property, plant, and equipment."
+0,"at the end of the first quarter, occupancy in the new york portfolio was 96.7%, flat sequentially, and expanding 70 basis points (bps) year over year.","OUTOFCLAIM
+The sentence provides numerical information about the occupancy rate in the new york portfolio at the end of the first quarter."
+1,net revenue growth is estimated between 1% and 5% at retirement andincome solutions – fees and between 5% and10% at retirement and income solutions – spread.,"INCLAIM
+The sentence provides predictions or expectations about financial outcomes, specifically the estimated net revenue growth at retirement and income solutions."
+0,"its mines are also affected by geopolitic  last earnings report agnico-eagle’s earnings & revenues beat estimates in q1 agnico-eagle reported a net income of $76 million or $0.33 per share in the first quarter of  2017, compared with net income of $27.8 million or $0.13 recorded in the year-ago quarter.","OUTOFCLAIM
+The sentence provides numerical information and established facts about past financial events, specifically the earnings and revenues of Agnico-Eagle in the first quarter of 2017."
+1,"for fiscal 2019, management anticipates net cash from operating activities to increase 10%-12%, whereas capital expenditures are anticipated to come in a band of $30.0-$35.0 million.","INCLAIM
+The sentence provides predictions or expectations about financial outcomes for fiscal 2019, specifically anticipating an increase in net cash from operating activities and providing a range for anticipated capital expenditures."
+0,"on a constant currency basis, revenues climbed 8% from the prior-year period on the back of improved segmental performance and roughly 6% gains from acquired assets.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that revenues climbed 8% from the prior-year period."
+0,"enbridge inc. has agreed to purchase all of the outstanding stocks of three north american units — enbridge energy partners, l.p., enbridge energy management, l.l.c. and enbridge income fund holdings inc — for about $7.1 billion.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the agreement of Enbridge Inc. to purchase outstanding stocks of three North American units for about $7.1 billion."
+0,corporate (1%) consists of service agreement revenue.,"OUTOFCLAIM
+The sentence provides numerical information (1%) about service agreement revenue, which is an established fact about past financial events."
+0,"operating results microsoft’s gross margin of 66% contracted slightly from the year-ago quarter, due to unfavorable sales mix.","OUTOFCLAIM
+The sentence provides numerical information about Microsoft's operating results, specifically mentioning the gross margin of 66% and how it contracted slightly from the year-ago quarter. It also explains that the contraction was due to unfavorable sales mix."
+0,"revenues at the international segment amounted to $182.1 million, mirroring an increase of 20.2% from the year-ago quarter.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the amount of revenues at the international segment and the increase from the year-ago quarter."
+0,"revenues for fiscal 2017 came in at ¥2,322.2 billion, down 5.6% year over year.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that revenues for fiscal 2017 were ¥2,322.2 billion, down 5.6% year over year."
+0,"the company’s roe of 7.16% compares unfavorably with 7.28% for the industry, underlining the fact that it is less efficient in using shareholder funds.","OUTOFCLAIM
+The sentence provides numerical information about the company's ROE (Return on Equity) compared to the industry average, indicating an established financial fact about past performance."
+1,"fujifilm anticipates accruing operating income worth ¥185 billion in fiscal 2018, estimating a 7.4% of year-over-year increment.","INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the anticipated operating income of ¥185 billion in fiscal 2018 with a 7.4% year-over-year increment."
+0,dynamics 365 revenues soared 51% (49% at cc).,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of Dynamics 365 revenues, indicating a significant increase of 51% (49% at cc)."
+0,"consequently, the diageo stock has rallied 20.1% in the past year compared with the industry’s growth of 16.9%.","OUTOFCLAIM
+The sentence provides numerical information about the past performance of the Diageo stock, indicating that it has rallied 20.1% in the past year compared to the industry's growth of 16.9%."
+1,these efficiency initiatives are anticipated to generate pre-tax revenues and expense benefits of $90-$105 million in 2018.,"INCLAIM
+The sentence predicts or expects financial outcomes by stating the anticipated pre-tax revenues and expense benefits of $90-$105 million in 2018."
+0,total capital ratio was 14.0% compared with 14.9% in the prior-year quarter.,"OUTOFCLAIM
+The sentence provides numerical information about the total capital ratio in the prior-year quarter, indicating an established financial fact."
+0,"the segment’s adjusted operating income totaled $48 million, down from $52 million in the year-ago quarter.","OUTOFCLAIM
+The sentence provides numerical information about the segment's adjusted operating income in the year-ago quarter, which is an established financial fact."
+0,"the company reported adjusted earnings of $0.07, beating the zacks consensus estimate by penny and also improved sharply from the year-ago quarter figure of $0.01.","OUTOFCLAIM
+The sentence provides numerical information and established facts about past financial events, specifically the company's adjusted earnings of $0.07, which beat the zacks consensus estimate by a penny and improved from the year-ago quarter figure of $0.01."
+0,"hp repurchased shares worth $302 million and paid dividends worth $222 million, in the same time frame.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the amount of shares repurchased and dividends paid by HP."
+0,quarterly operating margin expanded 20 bps to 7.4%.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the quarterly operating margin expanding by 20 basis points to 7.4%."
+0,"organically, the segment grew 1.6%, owing to sales uptick in wound reconstruction.","OUTOFCLAIM
+The sentence provides numerical information about the growth of the segment, indicating that it grew by 1.6% organically."
+0,"the same at themart and new york portfolio declined 13.3% and 1.9%, respectively.","OUTOFCLAIM
+The sentence provides numerical information about the decline in the same at themart and new york portfolio, indicating an established financial fact about past events."
+0,the plan included 8.8% dividend hike and $1 billion share repurchase authorization.,"OUTOFCLAIM
+The sentence provides numerical information about the plan, including a specific percentage increase in dividends and the authorization for a share repurchase."
+0,"capital deployment during 2018, evercore returned $376.4 million to shareholders including share repurchases of common stock worth 3.1 million shares at an average price of $93.24.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of capital deployment in 2018, including the amount of money returned to shareholders and the details of share repurchases."
+0,"direct operating costs the company incurred direct operating expenses of $567.9 million, reflecting a 200% jump from $189.4 million reported in the year-ago quarter.","OUTOFCLAIM
+The sentence provides numerical information about the company's direct operating expenses, indicating a 200% increase compared to the previous year."
+0,"coming to expenses, marketing surged 56.6% year over year to $730.4 million.","INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the increase in marketing expenses by 56.6% year over year to $730.4 million."
+0,"for 2017, the company reported adjusted operating earnings per share of $3.68 that missed the zacks consensus estimate of $3.69 by a penny.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the company reporting adjusted operating earnings per share of $3.68 for 2017, which missed the zacks consensus estimate of $3.69 by a penny."
+0,adjusted gross profit amounted $411 million that depicted a 1% upside from the prior-year period.,"OUTOFCLAIM
+The sentence provides numerical information about the adjusted gross profit, indicating a 1% increase from the previous year."
+1,"over the same timeframe, pre-tax operating margin is expected between 16% and 21% at life and 8–12% at specialty benefits.","INCLAIM
+The sentence provides predictions or expectations about the pre-tax operating margin at life and specialty benefits."
+0,"in the reported quarter, the company’s legacy brands posted blended comps growth of 3.1%.","OUTOFCLAIM
+The sentence provides numerical information about the past financial performance of the company's legacy brands, indicating that they experienced a blended comparable sales growth of 3.1% in the reported quarter."
+0,"during 2017, 33.1% of the company’s energy deliveries were from renewable energy sources, exceeding the annual renewable portfolio standard (rps) target of 27%.","OUTOFCLAIM
+The sentence provides numerical information and an established fact about the past financial event of the company's energy deliveries in 2017."
+0,"the company exited the first quarter of 2019 with cash and cash equivalents of $1.10 billion, compared with $2.10 billion in 2018.","OUTOFCLAIM
+The sentence provides numerical information about the company's cash and cash equivalents at the end of the first quarter of 2019 compared to the previous year."
+1,"notably, pilgrim's pride currently estimates to realize annualized synergies of $40 million as a result of this buyout, which is higher than the prior projection of $30 million.","INCLAIM
+The sentence provides a prediction or expectation about financial outcomes, specifically the estimated annualized synergies of $40 million resulting from the buyout, which is higher than the prior projection of $30 million."
+0,"within this, subscription fees from the united states accounted for $108 million or 79% of total access fees (up 33% year over year) while international subscription fees accounted for the remaining 21% or $29.1 million (up 17%).","OUTOFCLAIM
+The sentence provides numerical information about the breakdown of subscription fees from the United States and international sources, indicating the percentage and amount of each."
+0,"other financial details dollar general ended the quarter with cash and cash equivalents of $214.2 million, long-term obligations of $2,683.1 million and shareholders’ equity of $5,687.1 million.","OUTOFCLAIM
+The sentence provides numerical information about the financial details of Dollar General, indicating the specific amounts of cash and cash equivalents, long-term obligations, and shareholders' equity."
+0,"the company reaped $44-million benefits, collectively from timberlands and wood products businesses, owing to operational excellence improvements in 2018.","OUTOFCLAIM
+The sentence provides numerical information about the financial benefits ($44 million) that the company received from its timberlands and wood products businesses in 2018."
+1,the company expects to return at least 50% of its operating cash flows through share repurchases and dividends.,"INCLAIM
+The sentence predicts or expects a financial outcome, specifically the company's plan to return at least 50% of its operating cash flows through share repurchases and dividends."
+0,"the vinyls segment generated sales of $1,529 million, down 5.5% year over year.","OUTOFCLAIM
+The sentence provides numerical information about the sales generated by the vinyls segment, indicating a decrease of 5.5% year over year."
+0,"acquisition announced - jan 9, 2019j.b. hunt transport services agreed to buy a new jersey-based home-delivery firm for $100 million.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the acquisition of a home-delivery firm for $100 million."
+0,revenue from digital-only subscriptions products jumped 14.1% to $112.6 million.,"INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the increase in revenue from digital-only subscription products."
+0,"costs/margins: pilgrim's pride's cost of sales in the reported quarter increased 3.3% year over year to $2,315.3 million.","OUTOFCLAIM
+The sentence provides numerical information about the cost of sales in the reported quarter, indicating an established financial fact about a past financial event."
+0,"during the quarter, the company repurchased 350,000 shares worth $21 million and paid a quarterly dividend of 31 cents a share.","OUTOFCLAIM
+The sentence provides numerical information about the company's actions in the past, specifically mentioning the repurchase of shares worth $21 million and the payment of a quarterly dividend of 31 cents a share."
+0,"last earnings report kimco realty meets ffo estimates in q2 earnings kimco’s second-quarter 2017 adjusted ffo came in at $0.38 per share, in line with the zacks consensus estimate.","OUTOFCLAIM
+The sentence provides numerical information about Kimco Realty's second-quarter 2017 adjusted FFO, stating that it came in at $0.38 per share, which is in line with the Zacks consensus estimate."
+0,"in first and second quarter of fiscal 2017, comps increased 0.7% and 2.6%, respectively.","OUTOFCLAIM
+The sentence provides numerical information about the past financial events of the first and second quarter of fiscal 2017, specifically stating that the comps increased by 0.7% and 2.6% respectively."
+0,"earnings for the first-half of the year, which ended on sep 30, surged 63.6% to ¥57.41 per share.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the earnings for the first-half of the year, which ended on Sep 30, and the percentage increase in earnings per share."
+1,foot locker now expects earnings per share to decline in the band of 20% to 30% during the second half of 2017.,"INCLAIM
+The sentence is predicting or expecting a financial outcome, specifically a decline in earnings per share during the second half of 2017."
+0,adjusted operating income increased 22.8% to $436 million from the $355 million reported in the year-ago quarter.,"OUTOFCLAIM
+The sentence provides numerical information about the increase in adjusted operating income, which is an established fact about a past financial event."
+0,"as of jun 30, 2017, 51% of the company's available rig operating days were committed for 2017, including 32% of floating rig days and 69% of jackup rig days.","OUTOFCLAIM
+The sentence provides numerical information about the percentage of the company's available rig operating days that were committed for 2017."
+0,"last earnings report entergy's q3 earnings beat estimates, 2018 view up entergy corporation reported third-quarter 2018 adjusted earnings of $3.77 per share, which surpassed the zacks consensus estimate of $2.83 by 33.2%.","OUTOFCLAIM
+The sentence provides numerical information and established facts about past financial events, specifically about Entergy Corporation's third-quarter 2018 adjusted earnings beating estimates."
+1,the partnership continues to expect 12-15% per year growth for limited partner distributions through 2024.,"INCLAIM
+The sentence predicts or expects a specific financial outcome, which is the growth rate of limited partner distributions through 2024."
+0,"on a currency-neutral basis, operating income dropped 2.8% to $1.3 billion.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically stating that operating income dropped 2.8% to $1.3 billion."
+0,"however, as percentage of revenues, total costs and expenses were 68.1%,down 450 basis points (bps) year over year.","OUTOFCLAIM
+The sentence provides numerical information about the percentage of costs and expenses as a percentage of revenues, indicating an established fact about past financial events."
+0,"gross margin expanded 30 basis points (bps) on a year-over-year basis to 18.6%, primarily driven by better margin in the printing segment backed by improved productivity and higher supplies mix.","OUTOFCLAIM
+The sentence provides numerical information about the gross margin, stating that it expanded by 30 basis points on a year-over-year basis to 18.6%. It also explains that the expansion was primarily driven by better margin in the printing segment backed by improved productivity and higher supplies mix."
+1,"apart from this, management expects fiscal 2019 bottom- line growth to be hit by a 14%-18% rise in investments to fuel leadership brands.","INCLAIM
+The sentence is classified as INCLAIM because it contains a prediction or expectation about financial outcomes. Specifically, it mentions that management expects fiscal 2019 bottom-line growth to be hit by a 14%-18% rise in investments to fuel leadership brands."
+0,sales in greater asia were down 3% or slipped roughly 1% on a constant currency basis.,"OUTOFCLAIM
+The sentence provides numerical information about the sales in Greater Asia, indicating that they were down 3% or slipped roughly 1% on a constant currency basis."
+0,"quarterly details research and development (r&d) expenses increased 53.8% year over year to $8.9 million, due to an increase of $4.5 million in expenses related to development of psma-617, including expenses related to the phase iii vision study; an increase of $1.2 million in compensation expenses, of which $0.4 million was related to stock-based compensation charges; and an increase of $0.1 million related to the company’s ec17/car t-cell therapy program.","OUTOFCLAIM
+The sentence provides numerical information about the increase in research and development expenses, including specific details about the reasons for the increase."
+0,"moreover, gross profit totaled $8.6 million, down 17% year over year.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of gross profit, indicating that it totaled $8.6 million and decreased by 17% year over year."
+0,"u.s. comps, excluding fuel, improved 4.2%, backed by 0.9% rise in traffic and 3.3% in ticket.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the improvement in U.S. comps (comparable sales) excluding fuel, with a 4.2% increase. It also mentions a 0.9% rise in traffic and a 3.3% increase in ticket."
+0,"moreover, net sales came ahead the zacks consensus estimate of $5,816 million, marking the third consecutive quarter of beat.","OUTOFCLAIM
+The sentence provides numerical information about net sales exceeding the Zacks consensus estimate, indicating an established financial fact from the past."
+1,adjusted eps guidance for 2019 has been raised to a new range of $12.08 to $12.22 (from previous range of $12.00 to $12.20) indicating 9% to 10% growth from 2018.,"INCLAIM
+The sentence provides adjusted EPS guidance for 2019, indicating a prediction or expectation about a financial outcome (9% to 10% growth from 2018)."
+0,"at first quarter-end, cash and cash equivalents of the company was $2,021 million compared with its current debts of $2,464 million.","OUTOFCLAIM
+The sentence provides numerical information about the company's cash and cash equivalents and current debts, which are established financials."
+0,wellbore technologies: the segment’s revenues beat the zacks consensus estimate of $672 million and rose 31.7% year over year to $693 million.,"OUTOFCLAIM
+The sentence provides numerical information about the segment's revenues, stating that they beat the estimated amount and increased by 31.7% year over year."
+1,return on tangible common equity (rotce) is expected to be 16-19%.,"INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the expected range for the return on tangible common equity (ROTCE)."
+1,"with the u.s. administration having imposed a of 30% on the import of solar panels and modules, renesola’s revenues will be impacted adversely.","INCLAIM
+The sentence predicts that Renesola's revenues will be negatively affected by the 30% import tariff imposed by the U.S. administration on solar panels and modules."
+0,"in 2016, home entertainment net revenues came in at $13.1 million in comparison with $13.4 million and $27.3 million in 2015 and 2014, respectively.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the net revenues for home entertainment in 2016 compared to previous years."
+0,mortgage banking: mortgage banking fees fell 12% year over year to $37.9 million due to the timing of loan sales and a decrease in the fair value measurement adjustment.,"OUTOFCLAIM
+The sentence provides numerical information about the decrease in mortgage banking fees, which is an established fact about a past financial event."
+1,principal international is expected to deliver net revenue growth between 5% and 9% in 2019.,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of principal international, indicating that it is expected to deliver net revenue growth between 5% and 9% in 2019."
+0,"also, it will broaden everquote’s access to the $130 billion commission tam component of overall insurance distributionspend shifting online.","INCLAIM
+The sentence predicts or expects a financial outcome by stating that it will broaden EverQuote's access to the $130 billion commission TAM component of overall insurance distribution spend shifting online."
+0,large total addressable market (tam) of almost $35 billion presents growth opportunity.,"INCLAIM
+The sentence predicts or expects a financial outcome by stating that there is a large total addressable market (TAM) of almost $35 billion, which presents a growth opportunity."
+0,the company has 130 of them in its fleet with 98% under contract.,"OUTOFCLAIM
+The sentence provides numerical information about the company's fleet, stating that it has 130 of them and 98% are under contract."
+0,the company intends to reduce carbon emissions by 80% compared with 2005 levels.,"INCLAIM
+The sentence expresses the company's intention or prediction to reduce carbon emissions by 80% compared to 2005 levels, which falls under the category of financial forecasts or predictions about future outcomes."
+0,capital spending grew 6.7% year over year to $46.2 million.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of capital spending, indicating that it grew by 6.7% year over year to reach $46.2 million."
+0,"non-gaap support subscription gross margins were 66.3%, up 420 bps on a year-over-year basis.","OUTOFCLAIM
+The sentence provides numerical information about the gross margins of non-GAAP support subscriptions, indicating that they were 66.3% and increased by 420 basis points compared to the previous year."
+0,"the ott segment (34.4%, 1.6%) includes specialty metal implants for surgery of the upper and lower extremities, skin and wound repair products and bone grafts and nerve and tendon repair products.","OUTOFCLAIM
+The sentence provides numerical information and established facts about the ott segment, including the percentage breakdown of specialty metal implants for surgery, skin and wound repair products, bone grafts, and nerve and tendon repair products."
+0,"total revenues for the reported quarter decreased to $1,103.4 million from the year-ago level of $4,697.6 million.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the decrease in total revenues from the year-ago level."
+0,the company has also returned $2.3 billion to shareholders in the form of cash dividends in 2016.,"OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the amount of cash dividends returned to shareholders in 2016."
+0,adjusted earnings of 73 cents per share outpaced the zacks consensus estimate of 70 cents by 4.3%.,"INCLAIM
+The sentence provides a prediction or expectation about financial outcomes by stating that the adjusted earnings of 73 cents per share exceeded the estimated consensus of 70 cents by 4.3%."
+0,the segment generated 3% of net revenues in 2018.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the segment generating 3% of net revenues in 2018."
+0,"the company’s darts recorded a four-year compound annual growth rate (cagr) of 21% in 2019, with the increasing trend continued in the first half of 2020.","OUTOFCLAIM
+The sentence provides numerical information about the company's darts, specifically stating their compound annual growth rate (CAGR) of 21% in 2019 and the continuation of this increasing trend in the first half of 2020."
+1,the program is midway and is expected to deliver a pre-tax benefit of $110 million including tax efficiency benefit of $20 million.,"INCLAIM
+The sentence predicts or expects a financial outcome, specifically a pre-tax benefit of $110 million including a tax efficiency benefit of $20 million."
+0,agnico-eagle operates through two broader segments: northern business (79% of 2016 production) and southern business (21%).,"OUTOFCLAIM
+The sentence provides numerical information about the production distribution of Agnico-Eagle, indicating that 79% of the production comes from the northern business segment and 21% from the southern business segment."
+1,"adjusted ebitda is expected to be $15-$17.5 million, higher than the previously stated $12.5-$15 million.","INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the expected adjusted EBITDA range."
+0,"previously, in mar 2017,the company had raised it from 3.75% to 4.00%.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the increase in the company's rate from 3.75% to 4.00% in March 2017."
+0,"in jul 2016, energizer holdings acquired handstands holding corporation from trivest partners for $340 million.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the acquisition of Handstands Holding Corporation by Energizer Holdings for $340 million in July 2016."
+0,"financial position integra exited the year with cash and cash equivalents of $198.9 million, up from $138.8 million at the end of 2018.","OUTOFCLAIM
+The sentence provides numerical information about the financial position of Integra, stating that they exited the year with cash and cash equivalents of $198.9 million, up from $138.8 million at the end of 2018."
+1,management now projects gross margin in the range of 63–68% and operating margin in the range of 15–20% over the long term.,"INCLAIM
+The sentence provides predictions or expectations about financial outcomes, specifically the projected gross margin and operating margin over the long term."
+1,"for third- quarter 2017, wwe anticipates average paid subscribers of 1.54 million (+/- 2%).","INCLAIM
+The sentence provides a prediction or expectation about the average paid subscribers for the third quarter of 2017, indicating a financial forecast."
+0,gross margin expanded 700 basis points (bps) year over year to 17.1%.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of gross margin expanding by 700 basis points year over year to 17.1%."
+0,guidance myriad genetics has raised the guidance for fiscal 2018 revenues to $771-$773 million from $760-$770 million.,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of Myriad Genetics for fiscal 2018 revenues."
+0,"notably,  aggregates shipments (volumes) were up 12.6% and this business contributed to 17% growth in total revenues and 29% in operating earnings.","OUTOFCLAIM
+The sentence provides numerical information about the increase in aggregate shipments, total revenues, and operating earnings, which are established facts about past financial events."
+0,xbox hardware revenues jumped 94% (96% at cc).,"INCLAIM
+The sentence provides a prediction or expectation about financial outcomes, specifically stating that Xbox hardware revenues jumped 94% (96% at cc)."
+1,this is above the expected capital deployment of $0.9-$1.3 billion for 2018.,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome, specifically the expected capital deployment for 2018."
+0,"during the reported quarter, pitney bowes generated $111 million in free cash flow which was an increase of $46 million from prior year.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of Pitney Bowes generating $111 million in free cash flow during the reported quarter, which is an increase of $46 million from the prior year."
+0,"as of dec 31, 2019, the company had an accumulated deficit of $507.5 million up 24.2% year over year.","OUTOFCLAIM
+The sentence provides numerical information about the company's accumulated deficit, which is an established fact about a past financial event."
+0,it accounted for nearly 49.2% of net sales.,"OUTOFCLAIM
+The sentence provides numerical information (49.2%) about the proportion of net sales, which is an established fact about a past financial event."
+0,"flipkart deal to hurt bottom-line: walmart recently acquired 77% in flipkart, whose operations were partially included in fiscal 2019 results of the former.","INCLAIM
+The sentence predicts or expects a financial outcome by stating that the flipkart deal will hurt the bottom-line of Walmart."
+0,in 2019 the segment registered 2.5% growth from 2018.,"OUTOFCLAIM
+The sentence provides numerical information about the growth rate of the segment in 2019 compared to 2018, which is an established fact about a past financial event."
+0,segment highlights sales at the olefins segment increased 7.8% year over year to $541 million in the quarter.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of sales at the olefins segment increasing by 7.8% year over year to $541 million in the quarter."
+1,the company now projects earnings per share in the range of $1.00–$1.25.,"INCLAIM
+The sentence provides a financial forecast or prediction about the company's earnings per share range."
+0,share price of bce inched up 1.8% as against the industry's 2.2% loss.,"OUTOFCLAIM
+The sentence provides numerical information about the share price of BCE, indicating that it increased by 1.8% compared to a 2.2% loss in the industry."
+1,"also, the net sales growth guidance continues to include expected unfavorable impact of nearly 1.1% from the severity of the cold/cough/flu season.","INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of net sales growth, specifically mentioning the expected unfavorable impact from the severity of the cold/cough/flu season."
+0,pre-tax operating earnings increased 23.7% year over year to $259.8 million owing to solid performance at retirement and income solution — fee business as well as at retirement and income solution — spread business.,"OUTOFCLAIM
+The sentence provides numerical information about the increase in pre-tax operating earnings, indicating an established fact about a past financial event."
+1,the company expects full-year 2020 capital expenditure in the range of $3.4-$3.6 billion.,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of the company's full-year 2020 capital expenditure, indicating a forecast rather than an established fact."
+0,"in the first half of the year, operating loss was ¥2.3 billion compared with ¥2.1 billion loss in the year-ago quarter industrial metrology and others business’ operating profit declined 23.8% to ¥1.6 billion.","OUTOFCLAIM
+The sentence provides numerical information about the operating loss and operating profit in the first half of the year, indicating an established financial event."
+0,"citizens financial increases its prime lending rate by 25 bps – jun 14, 2017pursuant to the u.s. federal reserve interest rate hike by 25 bps, citizens financial announced that citizens bank, n.a. and citizensbank of pennsylvania have increased their prime lending rates from 4.00% to 4.25%, effective jun 15, 2017.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the increase in prime lending rates by Citizens Financial."
+0,"in the second quarter of 2019, the company’s sales lagged estimates by 5.28% while declined 9.1% on a year-over-year basis due to weakness in consumer spending.","OUTOFCLAIM
+The sentence provides numerical information and established facts about past financial events, specifically stating that the company's sales lagged estimates by 5.28% and declined 9.1% on a year-over-year basis."
+0,"margins although gross profit inched up 0.3%, gross margin contracted 60 basis points to 48.2%.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of gross profit and gross margin."
+0,"recent news diageo strengthens tequila category with casamigos buyout – jun 21, 2017diageo is set to acquire the u.s. fastest-growing premium tequila brand, casamigos, in a deal worth $1 billion.","INCLAIM
+The sentence is predicting or expecting a financial outcome, specifically the acquisition of Casamigos by Diageo for $1 billion."
+0,"moreover, apple tv+ will be launched on nov 1 and will be priced at$4.99 per month with a one-week free trial.","OUTOFCLAIM
+The sentence provides numerical information about the pricing of Apple TV+ and its launch date, which are established facts about a past financial event."
+0,the trend continued through the first quarter of 2019 with pretax income plunging 28% year over year.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of pretax income plunging 28% year over year."
+0,"selling, general and administrative (sg&a) and r&d expenses were ¥193 billion ($1,699 million) or 30.6% of the total revenue.","OUTOFCLAIM
+The sentence provides numerical information about the past financial events, specifically the amount of selling, general and administrative (SG&A) and research and development (R&D) expenses as a percentage of total revenue."
+0,"in the first half 2017, the company's net cash from operating activities totaled $57.9 million, down 66.4% from the year-ago period.","OUTOFCLAIM
+The sentence provides numerical information about the company's net cash from operating activities in the first half of 2017, indicating an established financial fact about a past financial event."
+0,the reported figure reflects substantial improvement when compared to a loss of $1.26 in the year-ago quarter.,"OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically comparing the reported figure to a loss in the year-ago quarter."
+0,the number of average paid subscribers increased 8% year over year in second-quarter 2017 to 1.63 million.,"OUTOFCLAIM
+The sentence provides numerical information about the increase in the number of average paid subscribers in the second quarter of 2017."
+1,long-term targets the company expects to achieve cash efficiency ratio of 54-56%.,"INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the company's long-term target for achieving a cash efficiency ratio of 54-56%."
+0,gross margin declined 530 basis points year over year to 60%.,"OUTOFCLAIM
+The sentence provides numerical information about the gross margin, indicating that it declined by 530 basis points year over year to 60%."
+0,"of its generation asset portfolio, approximately 56% consist of coal-fired capacity, 24% of nuclear capacity, 9% of oil and natural gas units, and 11% of renewables.","OUTOFCLAIM
+The sentence provides numerical information about the composition of the generation asset portfolio, indicating the percentages of different types of capacity (coal-fired, nuclear, oil and natural gas, and renewables)."
+1,"further, it expects to sustainably grow organic operating profit by 5-7%, suggesting growth of about 1% ahead of net sales.","INCLAIM
+The sentence provides a prediction or expectation about the financial outcome, specifically the sustainable growth of organic operating profit by 5-7%."
+0,"in fiscal 2017 (ended august 2017), actuant recorded impairment and divestiture related charges of $117 million while predicts to incur$15-$20 million of these charges in second- quarter fiscal 2018.","INCLAIM
+The sentence predicts that Actuant will incur impairment and divestiture related charges of $15-$20 million in the second quarter of fiscal 2018."
+1,"moreover, its operations in brazil are ahead of schedule to achieve a $275 million in net savings by the end of 2020.","OUTOFCLAIM
+The sentence provides numerical information about the net savings goal in Brazil, which is an established fact about a past financial event."
+0,"net income for fiscal 2017 came in at ¥131.5 billion ($1214.3 million), up 18% year over year.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of net income for fiscal 2017, indicating that it came in at ¥131.5 billion ($1214.3 million) and increased by 18% year over year."
+0,net sales at the performance products segment declined 3% to $11.7 million.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of net sales declining by 3% to $11.7 million."
+0,"the company notified that the number of paid digital subscribers reached roughly 3,780,000 at the end of the second quarter of 2019 – rising 197,000 sequentially and 30.7% year over year.","OUTOFCLAIM
+The sentence provides numerical information about the number of paid digital subscribers, indicating a past financial event."
+0,"notably, hp's printing revenues were up 6% year over year to $4.698 billion in the third quarter of fiscal 2017, primarily due to a 10% increase in supplies revenues.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that HP's printing revenues were up 6% year over year to $4.698 billion in the third quarter of fiscal 2017, primarily due to a 10% increase in supplies revenues."
+0,the company has a heavy debt-to-capitalization ratio of 41.4% compared to the industry’s ratio of 37.9%.,"OUTOFCLAIM
+The sentence provides numerical information about the company's debt-to-capitalization ratio, which is an established financial fact about a past financial event."
+0,"in fact, in dec 2016, ventas announced a regular quarterly dividend of $0.775 per share, denoting a hike of 6% from the previous payment.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the announcement of a regular quarterly dividend and the percentage increase from the previous payment."
+0,"long-term debt was $1,073.4 million in the reported quarter up 0.05% from $1,072.7 million in the prior year quarter.","OUTOFCLAIM
+The sentence provides numerical information about the long-term debt in the reported quarter and the prior year quarter, indicating an established financial fact."
+0,"pharmaceutical and clinical service revenues (accounting for the rest) in the quarter totaled $13.8 million, reflecting a year-over-year increase of 17.9%.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the pharmaceutical and clinical service revenues in the quarter totaling $13.8 million, with a year-over-year increase of 17.9%."
+1,"earnings per share will be roughly 75-95 cents, revised from the previously stated 70 cents to $1.00.","INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of earnings per share, indicating a range of 75-95 cents."
+0,the company exited the quarter with cash and cash equivalents of $186.5 million compared with $235.6 million at the end of the previous quarter.,"OUTOFCLAIM
+The sentence provides numerical information about the company's cash and cash equivalents at the end of the quarter, which is an established fact about a past financial event."
+0,total principal amount of debt and finance leases were $27.6 billion for continuing operations.,"OUTOFCLAIM
+The sentence provides numerical information about the total principal amount of debt and finance leases, which is an established fact about past financial events."
+1,"segment wise, imaging products’ fiscal 2019 revenues are expected to decline 11.3% year over year to ¥320 billion, while operating profit is now expected to be ¥33 billion, up ¥4 billion from the previous guidance.","INCLAIM
+The sentence provides predictions or expectations about financial outcomes, specifically the expected decline in revenues and the expected increase in operating profit for the imaging products segment in fiscal 2019."
+0,revenues & expenses decline total revenues were down 3.6% year over year to $1.47 billion.,"OUTOFCLAIM
+The sentence provides numerical information about the decline in total revenues, indicating an established fact about a past financial event."
+0,"margins: international flavors & fragrances' adjusted gross profit increased 4.8% year over year, representing 45.6% of net sales versus 46.2% in the year-ago quarter.","OUTOFCLAIM
+The sentence provides numerical information about the change in adjusted gross profit for International Flavors & Fragrances, indicating a past financial event."
+0,"during the second quarter of 2017, bce added a net of 88,611 postpaid wireless subscribers, up 26.9% year over year.","OUTOFCLAIM
+The sentence provides numerical information about the number of postpaid wireless subscribers added during the second quarter of 2017, indicating an established fact about a past financial event."
+0,"moreover, total portfolio was 91.1% leased as of sep 30, 2018, compared to 90.7% as of dec-end 2017.","OUTOFCLAIM
+The sentence provides numerical information about the leasing status of the total portfolio, indicating the percentage of leased properties as of two different dates."
+0,average fare at jetblue during the quarter increased 14.1% to $206.7.,"OUTOFCLAIM
+The sentence provides numerical information about the average fare at JetBlue during the quarter, indicating an established fact about a past financial event."
+1,"with 11th straight dividend increases, the company is on track to pay out 40% of net income as dividend.","INCLAIM
+The sentence provides a prediction or expectation about the company's financial outcome, specifically stating that the company is on track to pay out 40% of net income as a dividend."
+0,"through the mainline and express pipelines, the company transports 2.8 million barrels of crude every day which accounts for almost 68% of the canadian crude oil production that are transported to the u.s. in north america, the company holds a leading position in the gathering, transportation, processing and storage of natural gas.","OUTOFCLAIM
+The sentence provides numerical information and established facts about the company's transportation and storage of crude oil and natural gas."
+1,"per the latest report from newzoo, video games will generate $108.9 billion in revenues in 2017, up 7.8% year over year.","INCLAIM
+The sentence provides a prediction or expectation about financial outcomes, specifically the revenue generated by video games in 2017."
+0,"importantly, trump unveiled the long-awaited $1.5 trillion plan to fix america’s infrastructure over the next 10 years.","INCLAIM
+The sentence is making a prediction or expectation about a financial outcome, specifically the unveiling of a $1.5 trillion plan to fix America's infrastructure over the next 10 years."
+0,"high-speed internet net subscriber additions totaled 44,424, up 12.8% from 39,375 a year ago.","OUTOFCLAIM
+The sentence provides numerical information about the increase in high-speed internet net subscriber additions, indicating a past financial event."
+1,"for the second quarter, the company expects gaap net revenues to be in the band of $400–$450 million.","INCLAIM
+The sentence provides a prediction or expectation about the financial outcome for the second quarter, indicating the expected range of GAAP net revenues."
+0,"the details of xcel energy’s segments are mentioned below: electric: this segment contributed 84.2% or $9,719 million to total revenues in 2018.","OUTOFCLAIM
+The sentence provides numerical information about the contribution of the electric segment to total revenues in 2018."
+0,segmental information remotely operated vehicles (rov): this segment’s revenues were around $100.3 million compared with $85.6 million in first-quarter 2018.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial performance of the segment ""remotely operated vehicles (rov)"" by stating its revenues for the first quarter of 2018 ($85.6 million) and comparing it to the current revenues ($100.3 million)."
+0,"recently, the company was hit with a record antitrust fine of $2.7 billion (or about €2.4 billion) by european union regulators.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the record antitrust fine of $2.7 billion imposed on the company by European Union regulators."
+1,"notably, the company is investing c$1.14 billion (us $920 million) to raise browsing speeds to 1 gbit/s or higher by 2016.","OUTOFCLAIM
+The sentence provides numerical information about the company's investment of c$1.14 billion (us $920 million) to raise browsing speeds to 1 gbit/s or higher by 2016."
+0,variable marketing margin grew 40.6% year over year to $23.5 million.,"OUTOFCLAIM
+The sentence provides numerical information about the growth of variable marketing margin, indicating an established financial fact about a past event."
+0,"sam’s club: the segment, which comprises membership warehouse clubs, saw its net sales decline 3.7% to $14.9 billion.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of Sam's Club, stating that its net sales declined by 3.7% to $14.9 billion."
+0,"in july 2014, diageo completed the acquisition of 26% stake in india’s leading brewer, united spirits limited to boost its presence in india.","OUTOFCLAIM
+The sentence provides an established fact about a past financial event, which is the completion of the acquisition of a stake in United Spirits Limited by Diageo in July 2014."
+0,the segment accounted for 38% of the total revenue in 2016.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the segment's contribution to the total revenue in 2016."
+0,"at the end of the third quarter of 2020, its long-term debt was $3,681 million, down from $3,745 million in the sequentially prior quarter.","OUTOFCLAIM
+The sentence provides numerical information about the long-term debt of the company at the end of the third quarter of 2020."
+1,same-store sales growth is still anticipated in the band of slightly positive to 2% for fiscal 2017.,"INCLAIM
+The sentence predicts or expects a financial outcome, specifically the same-store sales growth for fiscal 2017."
+0,"year to date, the company registered free cash flow of $61.4 million, compared with $64.2 million in the year-ago period.","OUTOFCLAIM
+The sentence provides numerical information about the past financial events of the company, comparing the free cash flow in the current year to date with the free cash flow in the year-ago period."
+1,"moreover, it expects all-in sustaining costs (aisc) to rise to $850-$900 per ounce in 2017 from $824 per ounce in 2016.","INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of all-in sustaining costs (aisc) rising to a specific range in 2017 compared to the previous year."
+0,segment details walmart u.s.: the segment recorded net sales growth of 4.6% to $90.5 billion in the quarter.,"OUTOFCLAIM
+The sentence provides numerical information about the net sales growth of the Walmart U.S. segment in the quarter."
+0,"in the first quarter 2019, liquid asphalt costs increased 29% from the prior-year quarter and asphalt gross profit was lower than a year ago.","OUTOFCLAIM
+The sentence provides numerical information about the increase in liquid asphalt costs and states that asphalt gross profit was lower compared to the previous year."
+0,product revenues remained unchanged compared with the year-ago quarter at $13.55 million despite increased customer transactions resulting from competitive promotional smartphone pricing.,"OUTOFCLAIM
+The sentence provides numerical information about past financial events, stating that product revenues remained unchanged compared to the previous year's quarter at $13.55 million."
+0,the google preferred program pulls out the top 5% of the most engaging content on youtube for advertisers.,"OUTOFCLAIM
+The sentence provides established information about the Google Preferred program, which pulls out the top 5% of the most engaging content on YouTube for advertisers."
+0,"gross profit margin in the fiscal second quarter came in at 34.9%, contracting 10 basis points (bps) year over year.","OUTOFCLAIM
+The sentence provides numerical information about the gross profit margin in the fiscal second quarter, indicating that it contracted by 10 basis points year over year."
+0,"costs/margins: cost of sales in the reported quarter was $488.3 million, up 9.4% year over year.","OUTOFCLAIM
+The sentence provides numerical information about the cost of sales in the reported quarter, indicating an established financial fact about a past financial event."
+1,guidance pure storage expects second-quarter fiscal 2019 revenues in the range of $296-$304 million.,"INCLAIM
+The sentence provides a financial forecast or prediction about the expected revenues for the second quarter of fiscal year 2019 for Pure Storage."
+0,"adjusted operating income rose nearly 4% to $5.0 million, while the margin grew 60 bps to 6.8%.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of adjusted operating income rising nearly 4% to $5.0 million and the margin growing 60 bps to 6.8%."
+0,"postpaid net additions in the third quarter increased 9.2% to 117,182.","OUTOFCLAIM
+The sentence provides numerical information about the increase in postpaid net additions in the third quarter, which is an established fact about a past financial event."
+0,revenues from the sector jumped 41% year over year to $86 million.,"OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that revenues from the sector increased by 41% year over year to $86 million."
+0,"for third-quarter 2017, wwe anticipates average paid subscribers of 1.54 million (+/- 2%).","INCLAIM
+The sentence provides a prediction or expectation about the average paid subscribers for the third quarter of 2017, indicating a financial forecast."
+0,dividend and share repurchase update the company paid $150.7 million in dividends and deployed $64.9 million to buy back 1.1 million shares.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of dividend payment and share repurchase."
+0,"net sales came in at $5,828.3 million, an increase of 8.1% from the prior-year quarter.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically the net sales amount and the percentage increase from the prior-year quarter."
+0,"non-utility operations gas storage and pipelines: the segment generated profits of $45 million, up from $30 million a year ago.","OUTOFCLAIM
+The sentence provides numerical information about the profits generated by the non-utility operations gas storage and pipelines segment, indicating an established financial fact about a past financial event."
+0,"also, the metric declined 40 basis points in fourth-quarter 2017 to 47.7%.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically stating that the metric declined by 40 basis points in the fourth quarter of 2017 to 47.7%."
+1,"excluding the impact of 1.5% forex woes, adjusted operating profit will increase 4-5%.","INCLAIM
+The sentence is classified as INCLAIM because it provides a prediction or expectation about a financial outcome. It states that the adjusted operating profit will increase by 4-5%, excluding the impact of 1.5% forex woes."
+0,"as of aug 5, 2019, the majority (53% of total shares outstanding) of diamond offshore is owned by loews corporation.","OUTOFCLAIM
+The sentence provides numerical information about the ownership of Diamond Offshore, indicating that the majority (53% of total shares outstanding) is owned by Loews Corporation."
+0,segment results southern california edison’s (sce) fourth-quarter earnings were $4.38 per share compared with 33 cents a year ago.,"OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically comparing Southern California Edison's fourth-quarter earnings of $4.38 per share to 33 cents a year ago."
+0,the company reported $1.8 billion in revenues for fiscal 2017.,"OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that the company reported $1.8 billion in revenues for fiscal 2017."
+0,"overview headquartered in providence, rhode island, citizens financial group, inc. was founded in 1828 and currently is one of the largest retail bank holding companies in the united states, with total assets of $151.4 billion, as of jun 30, 2016.","OUTOFCLAIM
+The sentence provides established facts about the past financial event, such as the founding year, headquarters location, and total assets of the company as of a specific date."
+0,decent performance of the production mail business (up 2%) and presort services (up 4%) drove the top-line growth of this segment.,"INCLAIM
+The sentence predicts or expects financial outcomes by stating that the production mail business and presort services drove the top-line growth of this segment."
+0,"plexus reported adjusted operating income of $50.4 million, up 34.2% year over year.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of Plexus reporting adjusted operating income of $50.4 million, showing a 34.2% increase compared to the previous year."
+0,"during the sep-end quarter, boston properties accomplished the sale of quorum office park — an around 268,000 net rentable square foot class a office property — in chelmsford, ma, for a gross price of roughly $35.3 million.","OUTOFCLAIM
+The sentence provides numerical information about the sale of a property for a specific gross price, which is an established fact about a past financial event."
+0,"in the quarter, the company incurred in-process research and development expenses of $5 million.","OUTOFCLAIM
+The sentence provides numerical information about a past financial event, specifically the incurring of in-process research and development expenses of $5 million."
+1,premiums and fees at individual life are projected to increase in the band of 4-8%.,"INCLAIM
+The sentence provides a prediction or expectation about the financial outcome of premiums and fees at individual life, projecting an increase in the range of 4-8%."
+0,"total long-term debt rose roughly 21.5% year over year to around $4,523.1 million.","OUTOFCLAIM
+The sentence provides numerical information about the increase in total long-term debt, which is an established fact about a past financial event."
+0,"over the last month, applied industrial’s shares yielded a return of 10.7%, outperforming 5.9% growth recorded by the industry.","OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the return on shares for Applied Industrial, comparing it to the industry's growth."
+0,segmental details revenues in the industrial segment were up 11% year over year to $96.9 million.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the industrial segment's revenues, indicating a specific percentage increase and the amount in dollars."
+0,the segment accounted for 26% of total revenues in 2017.,"OUTOFCLAIM
+The sentence provides numerical information about the past financial event of the segment accounting for 26% of total revenues in 2017."
+1,"comps at sam’s club are likely to grow roughly 1%, excluding fuel, and nearly 3%, excluding tobacco fuel.","INCLAIM
+The sentence predicts or expects the growth of comps at Sam's Club, indicating a financial outcome."
+0,"as such, it has revised its 2019 ebitda guidance to $150-$180 million, reflecting $10 million increase from the lower end of the prior forecast.","INCLAIM
+The sentence provides a prediction or expectation about a financial outcome, specifically the revised EBITDA guidance for 2019."
+0,"reasons to buy: over the last three months, applied industrial’s shares yielded a return of 15.5%, outperforming 9.4% growth recorded by the industry.","OUTOFCLAIM
+The sentence provides numerical information about the past financial performance of Applied Industrial, stating that its shares yielded a return of 15.5% over the last three months, outperforming the industry's growth of 9.4%."
+0,adjusted gross margin for the segment increased 100 basis points to 64.1%.,"OUTOFCLAIM
+The sentence provides numerical information about the increase in adjusted gross margin for the segment, indicating an established fact about a past financial event."
+1,"the company anticipates consolidated net sales to rise at least 3%, including benefits from flipkart, adverse impacts from walmart brazil’s deconsolidation and planned tobacco sales cut downs at sam’s club.","INCLAIM
+The sentence predicts or expects a financial outcome, specifically the anticipated rise in consolidated net sales."
+0,"in 2018, revenue from active customer accounts represented over 99% of total revenue.","OUTOFCLAIM
+The sentence provides numerical information about past financial events, specifically stating that revenue from active customer accounts represented over 99% of total revenue in 2018."

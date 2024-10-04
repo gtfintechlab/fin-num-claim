@@ -1,0 +1,484 @@
+Operator
+
+Good afternoon, and welcome to the Splunk Inc.'s fourth quarter 2023 financial results conference call. All participants are listen-only mode. After the speaker's presentation, we will conduct a question-and-answer session. [Operator instructions] As a reminder, this conference call is being recorded.
+
+I'd now like to turn the call over to Ken Tinsley, vice president of investor relations. Thank you. Please go ahead.
+
+Ken Tinsley -- Vice President, Investor Relations
+
+Thank you, Julianne, and good afternoon. With me on the call today are Gary Steele and Brian Roberts. After market closed today, we issued our earnings press release, which is also posted on our investor relations website, along with supplemental material. This conference call is being webcast live, and following the call, an audio replay will be available on our website.
+
+On today's call, we will be making forward-looking statements, including financial guidance and expectations; including our long-term growth and profitability; forecasts for our fourth quarter and full year of fiscal 2024; and our future expectations of revenues, total ARR, net new ARR, cloud mix, non-GAAP opex, non-GAAP operating margin, free cash flow, free cash flow margin, and equity burn; as well as trends in our markets and our business, our strategies, and our expectations regarding our business, acquisitions products, technology, customers, and demand. These statements are subject to risks and uncertainties and are based on our assumptions as to the macroeconomic environment and reflect our best judgment based on factors currently known to us. Actual events or results may differ materially. Please refer to the documents we file with the SEC, including our Form 10-K and 10-Qs, as well as the Form 8-K filed with today's press release.
+
+10 stocks we like better than Splunk
+When our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+
+They just revealed what they believe are the ten best stocks for investors to buy right now… and Splunk wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+
+See the 10 stocks
+
+*Stock Advisor returns as of March 8, 2023
+
+Those documents contain risks and other factors that may cause our actual results to differ from those contained in our forward-looking statements. These forward-looking statements are being made as of today, and we disclaim any obligation to update or revise these statements. If this call is reviewed after today, the information presented during the call may not contain current or accurate information. We will also discuss non-GAAP financial measures, which are not prepared in accordance with generally accepted accounting principles.
+
+A reconciliation of GAAP and non-GAAP results is provided in the press release and on our website. With that, let me turn it over to Gary.
+
+Gary Steele -- President and Chief Executive Officer
+
+Thank you, Ken. Good afternoon, everyone, and thank you for joining us today. I'm excited to share our progress in Q4, as well as our setup for Splunk's next chapter and the opportunities we see in the year ahead. I'd like to take a moment to introduce Brian Roberts, who joined us as CFO in January.
+
+Brian brings 30 years of financial expertise, including at some of the most recognized brands in tech and consumer like Lyft, Microsoft, and Walmart. Brian has ramped up quickly and is deeply engaged in helping increase Splunk's operating efficiency as we continue to grow our top line. With that, let's dive in. I'm pleased to report that we delivered a solid finish to an important transitional year for Splunk.
+
+In our fourth quarter, we met or exceeded our expectations across each of our guided metrics, including revenue, total ARR, cloud ARR, op margin, and free cash flow. I'm very proud of the Splunk team for their focus and execution on delivering these results, while serving all of our customers around the world. In Q4, we grew total ARR by 80% year over year to $3.674 billion. For the first time, our quarterly total revenues exceeded $1 billion, up 39% to $1.25 billion.
+
+Cloud ARR grew 33% to $1.778 billion. During Q4, we continued to see cloud migrations and expansions impacted by the macro environment, as well as increased deal scrutiny, which is factored into our guidance for the current year. We do not view this buying behavior as a demand issue, but rather that of timing as many organizations continue to utilize on-prem Splunk solutions with longer-term plans to shift more of their workloads to the cloud. The reality is on-prem and hybrid will both be here for the long haul, and Splunk has a strong competitive advantage given our solutions help strengthen our customers' resilience across multicloud and hybrid environments.
+
+We also believe the current budgetary environment can create opportunities for us as companies look to consolidate the number of tools used across our operations with proven leaders like Splunk. Shifting to our own operations, we've made substantial progress on our efforts to improve operating efficiency and lower our costs. In Q4, we held opex growth to just 2% year over year even against the backdrop of our strong revenue performance. In addition, through the combination of lapping our change to annual billing three years ago and the cost reduction initiatives I've described in previous calls, we delivered $427 million of free cash flow in the year, almost four times the level of last year.
+
+Looking at our bottom-line performance, we reported profitability on a GAAP basis. We're pleased with this indicator demonstrating the maturity of our business model. Moving forward, we believe that ARR and free cash flow will continue to be the best metrics by which to assess the overall health of our business. Brian will outline our financial performance and guidance in more detail later in the call, including our expected significant free cash flow generation in FY 2024.
+
+Since joining Splunk last April, and as you've heard me describe on previous calls, we've been focused on balancing long-term durable growth with profitability and free cash flow. Our Q4 results demonstrate that this approach is working effectively even in the current economic climate. While we remain cautious about the coming year and given the uncertainty of the overall operating environment, we are committed to delivering meaningful top-line growth with improved profitability and substantial free cash flow growth. After meeting with hundreds of customers since I joined Splunk nearly 11 months ago, I continue to learn about the challenges they are facing and how Splunk can help.
+
+The recurring theme I hear is the critical role Splunk plays in helping make their digital systems more resilient, so they can stay up and running and quickly adapt to the constantly changing circumstances and evolving threats. Research we published last week found that organizations with advanced digital resilience capabilities save an average of $48 million per year on downtime costs compared to organizations just beginning this journey. The importance of resilience is also evident in my conversations with chief information security officers or CISOs, who tell me that the capabilities Splunk provides are critical for the effectiveness of their security operation centers, which are facing an increasingly complex and sprawling cybersecurity landscape. Demand for our security solutions remains strong and our market leadership continues to be recognized.
+
+During Q4, industry analyst firms, Forrester and IDC positioned Splunk as a leader in the Forrester Wave security analytics platforms and IDC MarketScape for worldwide SIM. This recognition builds on the momentum I shared in our Q3 call when we were named a leader in the 2022 Gartner Magic Quadrant for Security Information and Event Management for the ninth consecutive time. We're continuing to enhance our security offering, including targeted investments in organic innovation like Splunk Enterprise Security 7.1, which became generally available in Q4. In the coming months, we're also looking forward to adding the capabilities from our acquisition of TwinWave, which I mentioned on our Q3 call.
+
+Turning to observability. We were pleased to have a number of marquee observability wins in Q4, which I'll share in a moment. We believe observability is a massive growth opportunity for Splunk, and we're making investments to broaden and strengthen our portfolio of enterprise-grade observability solutions that provide monitoring across complex environments. It's abundantly clear to me that no other company can deliver the value we provide at enterprise scale.
+
+Our unified security and observability platforms helps the largest and most innovative organizations adapt and respond due to constantly changing global technology landscape, helping to build a safer and more resilient digital world. Our team continues to build on the deep level of customer focus that has helped establish our leadership position across our core markets. More than 90 of the Fortune 100 have deployed Splunk to drive enterprise resilience. At the end of Q4, we had 790 customers generating total ARR of $1 million or more, up by 115 over last year.
+
+Four hundred twenty-two of these customers had Cloud ARR of over $1 million, an increase of 33% from last year. Our team delivered many wins during the quarter that underscore why organizations around the world continue to choose Splunk. I'd like to share a few of them with you now. First, a large U.S.
+
+retailer returned to Splunk after trying to develop an in-house solution alongside one of our competitors' solutions. This customer is losing millions of dollars each month due to gift card fraud and no one could solve it. The issue significantly impacted revenue and the only way to ensure swift prevention was real-time data streaming across a complicated web of siloed internal systems, including their gift card, point-of-sale, and in-store systems. Our team's proof of concept clearly demonstrated the breadth and effectiveness of our security solutions, landing a significant fourth quarter security deal.
+
+Next, the Department of the U.S. federal government signed a multimillion-dollar expansion agreement to increase their use of Splunk to ensure the resilience of critical applications that benefit more than 100 million people every year. Once again, we beat out a competitor for this deal with one critical component of our transaction being this department's conversion from legacy ingest-based pricing to our workload-based model that provides them greater value and flexibility. We also went head to head with a niche absorbability competitor and won a significant deal in Q4 to help a mobile financial services provider in Asia Pacific modernize their applications.
+
+This provider required visibility and insight across several cloud-native microservices they use to provide secure and accessible fintech. We ultimately won the deal because of our scalability, performance, and ability to deliver critical integration between observability and security, combined with our more cost-effective pricing model. In Q4, we also won significant deals against a large enterprise competitor by proving that good enough is not enough when it comes to security, cloud migration, and pricing. For example, one of the largest banks in Norway and one of the largest energy businesses in Asia Pacific region each signed multiyear enterprise security deals with us because we offered straightforward pricing and demonstrated they can trust Splunk to keep their systems and customers secure, scale for innovation, migrate to the cloud, and stay resilient along the way.
+
+Finally, our partner momentum continued during the quarter, and we had some nice joint sales wins. For example, we collaborated with Accenture on a seven-figure win at a multinational automotive manufacturer to expand Splunk into security use cases to enhance the customer's overall resilience. We also work closely with Amazon Web Services to secure multimillion-dollar targeted cloud migrations including a win with a large U.S. financial institution to address new and growing threats in the areas of fraud, insider threat, and business application and process security.
+
+On top of our Q4 customer momentum, we're continuing to extend our impact through deeper customer and partner engagement and product innovation. I was with our customer-facing teams last week at our annual kickoff, where we drove greater alignment of how Splunk can deliver even more strategic value to our customers. We believe digital resilience is a journey, and our evolving go-to-market approach includes tighter engagement with customers as they mature their resilience practices across security and observability, supported by our single seller model, which I described last quarter. In December, we welcomed nearly 550 customers and partners to Washington D.C.
+
+for our annual public sector event, GovSummit. We're committed to supporting government agencies, public institutions, and higher education and it was inspiring to learn from organizations we partner with, such as the Department of Homeland Security, National Counterterrorism, Innovation, Technology and Education Center, and the Department of Navy. Looking ahead, we see significant opportunities to drive further engagement across the public sector. Turning to our technology.
+
+We're continuing to invest in high-quality, differentiated product innovation, where we believe will drive long-term growth and more customer value. You can expect to see a steady drumbeat of product and technology updates from us throughout this year, including some exciting announcements later this quarter that will enhance our security and observability capabilities and help our customers further unify, simplify, and modernize their workflows and businesses. In July, we'll host .conf23, our annual customer and partner event, where we'll showcase even more innovation to thousands of Splunk community members. We hope to see you all there.
+
+Later this year, we'll roll out a new solution that will make it easier to get data from operational technology environments into Splunk, extending the Splunk platform into rapidly growing smart industry segments such as manufacturing, building management, transportation, and industrials. This will be a partner-led motion creating new opportunities for Splunk and our joint go-to-market partners. Looking ahead, we remain focused on managing the business with a balanced approach to long-term growth and profitability. As I shared earlier, we held opex growth to 2% during the quarter of solid revenue growth.
+
+We delivered meaningful progress in Q4 on our four cost-reduction focus areas. We further implemented our plans to reduce our overall spend on external resources by prioritizing the most business-critical projects that deliver customer value. We continue to pause all but the most essential noncustomer-facing travel, and Splunkers have adapted to this new model of collaboration and mindset for efficiency. In terms of our global real estate footprint, over the past several months, we have begun to take actions to reduce or relocate our space usage.
+
+For example, in the Bay Area, we are consolidating floors and buildings which will result in significant rent and related operating expense reductions this year. Finally, our approach to hiring remains measured and focused on prioritizing sales and customer-facing roles. During a year in which we grew ARR by 18%, our approach enabled us to end our fiscal year with a modest and efficient headcount increase to approximately 8,000 Splunkers. Consistent with our hiring approach, and as we announced in early February, we made the difficult but necessary decision to reduce our global workforce by approximately 4%, mostly in North America.
+
+This action was another step in a broader set of proactive organizational and strategic changes, including those we made in November to support our sales team's transition to a single seller model. Since joining Splunk, I've been committed to making decisive changes to help deliver meaningful customer and shareholder value. I'm proud of our Splunker community for their steadfast dedication to our customers as we evolve to continually assess our overall organizational health and pursue opportunities to drive efficiency across the business. The past year has been one of incredible transitions for Splunk, our team, and our customers.
+
+It's clear to me that the heavy lifting is largely complete, and we're now in a position where the foundational elements of multiple simultaneous transformational efforts are in place. The fiscal year is the beginning of Splunk's next chapter. Our leadership team is built out, and we are aligned to deliver on our strategy. Our transition to annual billing is complete, and we have a strong base of ARR unlocking opportunities for significant cash flow.
+
+Our cloud transformation is optimized to meet customer needs and expectations. We have made significant progress to align our operations and cost structure to deliver operating efficiency and cash flow. Our pipeline of product innovation is primed to bring more customer value across unified security and observability. Looking at the year ahead, we remain cautiously optimistic on growth given the economic environment, but we'll continue to invest in opportunities that we believe will deliver long-term value.
+
+At the same time, we're taking a prudent approach to planning in our expectations, but are committed to increasing profitability and delivering substantial free cash flow by maintaining our disciplined approach to managing costs. To close, I am pleased to announce that we'll be hosting an Analyst Day later this year where we'll share more about our long-term opportunities and outlook. We look forward to seeing many of you there. I want to share my appreciation to our customers around the world and to every Splunker for continuing to believe that unified security and observability is the best and only way to drive true enterprise resilience.
+
+And with that, I'll turn it over to Brian to drill into our results and guidance.
+
+Brian Roberts -- Chief Financial Officer
+
+Thanks, Gary. Well, I'm about five weeks in now, and let me just start by sharing how excited I am to be here at Splunk. This is truly a special company with amazing employees, partners, customers, and growth horizon with an estimated $100 billion-plus TAM. For today, I'll start with Q4 and fiscal 2023 results, before sharing my perspectives on key metrics that management closely tracks.
+
+Then I'll close with guidance. So, let's start with the results. Despite the challenging macro environment, we closed the fiscal year with a solid quarter and exceeded or met expectations across all key guided metrics. We grew total ARR by 18% year over year to $3.67 billion, which exceeded our most recent outlook by nearly $25 million.
+
+Cloud ARR grew 33% year over year to $1.78 billion. While we met our outlook on cloud ARR, as expected, we continue to see customers delay cloud expansions and migrations given the macro environment. Accordingly, as of quarter end, cloud DBNRR declined to 123%, and we expect further declines in the coming quarters to this trailing 12-month metric, reflecting continued cloud expansion delays. Now revenue was significantly above expectations.
+
+Q4 revenue increased by 39% year over year to $1.25 billion. The delayed cloud migrations helped boost term contract volume. The term deals also had a longer average duration than we anticipated. For those new to the Splunk story, rev rec under ASC 606 requires us to recognize the significant majority of revenue related to term contracts upfront.
+
+This led to the significant beat on total revenue. In terms of revenue composition, we were pleased with the 43% year-over-year increase in Q4 cloud revenue despite the challenging economic environment. For the year, cloud revenue increased by 54% to nearly $1.5 billion. Let's move to costs.
+
+We have been purposeful in our initiatives to control expenses and are pleased with the initial progress and impact on both COGS and opex. Total gross margin increased by more than 400 basis points year over year and Q4 non-GAAP cloud gross margin increased by nearly 700 basis points to 73.4% on a year-over-year basis. We remain disciplined on opex. Q4 non-GAAP opex increased by only 2% year over year, while revenue increased 39%.
+
+So, let me take a moment to discuss the bottom line, which was positively impacted by the revenue outperformance and our expense discipline. In Q4, we generated $381 million of non-GAAP net income. And on a GAAP basis, fourth quarter net income reached $269 million. We also achieved a record Q4 non-GAAP operating margin of 38%.
+
+Let's move to cash flow. In Q4, we generated $269 million of free cash flow. For the year, we achieved record free cash flow of $427 million, almost four times the level achieved in the prior year. Fiscal 2023 free cash flow as a percentage of ARR was 12%, an increase of more than 800 basis points year over year.
+
+I want to remind investors that our model follows sharp seasonal swings, and historically, we have tended to generate the bulk of our bookings in the second half of the year. Collections from these bookings are typically received in the subsequent quarter, which means that the outlier quarters for free cash flow are Q1 and Q4. As an example, in fiscal 2023, 95% annual free cash flow was generated in Q1 and Q4. Before I move to guidance, I want to share my perspectives on top-line metrics.
+
+Given software license revenue related to term contract volume is recognized upfront, GAAP revenue is highly subject to bookings mix and duration. For illustrative purposes, and this is oversimplified because I'm ignoring maintenance revenue, assume we provision two customers near quarter end, a three-year, $3 million TCV cloud deal, so $1 million per year. And a three-year, $3 million term software license transaction, so also $1 million per year. Well, the cloud deal would only generate a few days of ratable revenue, while the term software license transaction would generate nearly $3 million of license revenue.
+
+All three years will be recognized upfront. Now despite the significant difference in revenue recognition, the ARR and cash flow received from both transactions would be the same. We would collect $1 million for both customers for the first year. In other words, as Gary has stressed on prior calls, ARR is correlated to collections.
+
+Accordingly, we believe ARR is a key metric because it is a strong indicator of future free cash flow given our annual billing practices. As such, we will continue to provide guidance on ARR. I also want to be absolutely clear here, we're focused on ARR and free cash flow growth to create shareholder value. You will note that in the supplemental slides, we updated the Rule of 40 calculation to be based on ARR growth instead of revenue growth and free cash flow margin as a percentage of ARR.
+
+This change will help investors clearly see our focus on ARR and free cash flow. As previously shared, our renewal base opportunity of ARR increased significantly in fiscal 2023. This relates to the fact that customers accelerated migrations determining cloud roughly three years ago as we stopped marketing perpetual licenses. In fiscal 2023, our renewal base opportunity of ARR increased by approximately 100% versus fiscal 2022.
+
+The term software portion of these renewals translated into immediate fiscal 2023 revenue and we recognize the full multiyear duration upfront. This is why revenue growth well exceeded ARR growth in fiscal '23. In fiscal '24, the renewal base opportunity grows but is more normalized, given we are now emerging on the other side of our business transformation. As a result, we expect ARR growth in fiscal '24 to exceed revenue growth, as we comp the revenue recognition spike of multiyear term renewals, especially in the second half of fiscal '23.
+
+Again, as we've now fully lapped our transition to annual billing, we believe ARR is a better indicator of future free cash flow versus revenue. Turning to guidance. Macroeconomic headwinds remain. We have experienced increased scrutiny in new deals and expansions, as well as delayed cloud migrations and expansions.
+
+As such, we're going to be prudent in our outlook to reflect this. Based on the current market environment, we expect to exit fiscal '24 with total ARR between $4.125 billion and $4.175 billion, implying net new ARR of approximately $450 million to $500 million. If the economy strengthens, there could be upside, but again, we believe it is prudent to provide our outlook based on current market conditions, which we expect to persist throughout fiscal '24. Assuming an economic recovery and a return to cloud migrations, we are positioned to reaccelerate top-line growth in fiscal '25.
+
+Given the current and expected macro trends and the resulting uncertainty, we expect the cloud mix of software bookings will range between 55% and 65% in fiscal '24, but the actual mix could vary from quarter to quarter, just as we've seen historically. In terms of ARR breakdown, we expect that in the second half of the year, cloud will begin to comprise a majority of total ARR. From a strategic perspective, as mentioned, Splunk is leading solutions for hybrid, on-prem cloud, and multi-cloud. This is critically important and a competitive advantage.
+
+Splunk can address current customer needs and deliver solutions that are future-proofed. We expect revenue growth to trail the increase in ARR by roughly 7%. This relates again to the strong growth in renewals in fiscal '23 and its impact on reported revenue. This will be especially true in the second half of the year, with Q4 expected to show the largest differential.
+
+This would imply fiscal '24 revenue of approximately $3.85 billion to $3.9 billion. As a reminder, though, duration and mix of term contract volume could significantly impact reported revenue and associated growth rates. Let's move to expenses. In fiscal '24, we expect to increase non-GAAP opex by approximately 7% year over year to fund investments that will help deliver growth in fiscal '25 and beyond.
+
+Fiscal '24 non-GAAP operating margin is expected to be between 16.5% and 17.5%. It will be highly sensitive to the contribution of term license volume given its outsized impact on revenue and thus margin. We're committed to driving free cash flow growth and margin improvement in fiscal '24 and beyond. We expect to generate free cash flow between $775 million and $795 million, which represents an increase of between 81% and 86% year over year.
+
+We see multiple scenarios to achieve our free cash flow outlook across a range of different operating scenarios. As a percentage of ARR, this would represent a margin of between 18.8% and 19%, up from 11.6% in fiscal '23. Let's move to equity. We're taking deliberate steps to reduce our use of equity and over the next several years, get to a lower and sustainable burn and dilution rate.
+
+In fiscal '24, we expect to meaningfully reduce equity burn relative to fiscal '23. This is what we can control, and this will benefit the SBC accounting expense in future years. Keep in mind, though, that GAAP SBC expense is a lagging indicator. Approximately three quarters of our expected fiscal 2024 SBC accounting expense relates to grants from prior years.
+
+SBC is based on the dollar value at the time of grant and then runs through the P&L amortized over the vesting period at that original price. So, while we're meaningfully reducing equity burn in fiscal 2024, GAAP SBC expense will be relatively in line with fiscal 2023. Near term, for Q1, we expect to grow ARR to approximately $3.7 billion, which represents approximately 15% year-over-year growth. We expect total revenue of between $710 million and $725 million.
+
+Non-GAAP operating margin is expected to be in the range of negative 3% to negative 5%. Now in Q1, we expect to generate record free cash flow related to the collections from Q4. We expect Q1 free cash flow to approach $475 million versus the $427 million we generated over the full year in fiscal 2023. Since Q1 is seasonally our slowest bookings quarter, Q2 free cash flow is expected to be negative just as we've seen historically.
+
+We expect modest positive free cash flow in Q3 and then growth in Q4. Again, for the full year, we expect free cash flow between $775 million and $795 million. In closing, despite macroeconomic headwinds, execution in Q4 was solid and operating leverage in our model is improving. We're focused on driving durable, long-term growth and increasing our free cash flow and free cash flow margin.
+
+Finally, we've emerged on the other side of our business transformation. As Gary has shared, we look forward to hosting an Analyst Day later this year to update investors on our growth opportunity, capital allocation strategy, and long-term targets. With that, let's open it up for questions.
+
+Questions & Answers:
+
+Operator
+
+[Operator instructions] In the interest of time, we ask that you please limit yourself to one question and then reenter the queue for any additional questions. Thank you. Our first question comes from Kash Rangan from Goldman Sachs. Please go ahead.
+
+Your line is open.
+
+Kash Rangan -- Goldman Sachs -- Analyst
+
+Thank you so much. Gary, Brian, congratulations, and the rest of the team as well. Gary, a question for you since I'm allowed only one. What does the top of the funnel look like as far as demand gen is concerned? And also, as you look at the first month of this quarter, what conversion trends are you seeing? Congratulations and welcome, Brian.
+
+Gary Steele -- President and Chief Executive Officer
+
+Thanks. I'll dive in and Brian may have some comments. We feel good about pipeline build at this point. And as we've entered the year with our single seller model, we're very focused on capturing the demand from our expansion from existing customers, as well as looking more broadly about expanding our customer base in the Global 2000.
+
+And so, we feel like, we have a good setup and we're seeing good early pipeline build. No comments yet on pipeline conversion, but we feel good about the top of the funnel at this point.
+
+Operator
+
+Our next question comes from Brent Thill from Jefferies. Please go ahead. Your line is open.
+
+Brent Thill -- Jefferies -- Analyst
+
+Brian, welcome. Gary, just the cloud in line and license it had has been a consistent theme. And I think many are asking, I mean, this was a blowout license number. I mean this was in a little bit.
+
+It was a huge beat. Can you describe what's going on and the dynamics that you're seeing here? You talked about cloud slowing, but you're seeing the opposite on the on-prem side in a big way.
+
+Gary Steele -- President and Chief Executive Officer
+
+Yeah. I'll have a couple of comments, and I think if Brian wants to dive in a little more detail. I think at a very simple level, one of the things that we did earlier this year is we reaffirmed our commitment to on-prem. So those customers that had been wondering about Splunk's long-term commitment to on-prem, we reaffirmed that we would continue to invest, that we would continue to do releases, feature enhancements, etc.
+
+So, I think one of the things we're seeing is customers willing to expand and grow their on-prem footprint. And then as we indicated, the economic environment was one where we saw cloud migration slow. And so, we just saw this balance between more on-prem than we originally anticipated and less cloud. And Brian, you probably want to dive in a little bit more detail there.
+
+Brian Roberts -- Chief Financial Officer
+
+Yeah. I would say, again, we did meet the guidance on cloud ARR. I would say, it's important to remember for last year, we had a very large increase in our renewal opportunity. It grew roughly 100% year on year.
+
+And so, in Q4, what we saw was those term deals renewed. And when they renewed, we got the multiyear duration in that in our revenue number. So that's what really drove revenue higher, and I don't want to say inflated, but it's the rev rec. So, we have tried to stress that ARR is really the right metric to watch.
+
+If you look at last year, revenue grew 37% year on year. ARR grew 18%. And within that, again, we had very strong growth in cloud.
+
+Brent Thill -- Jefferies -- Analyst
+
+Thank you.
+
+Operator
+
+Our next question comes from Raimo Lenschow from Barclays. Please go ahead. Your line is open.
+
+Raimo Lenschow -- Barclays -- Analyst
+
+Thank you. Can I at least stay on that topic, Gary? What we see at the moment is like the hyperscaler growth is coming down. The guys that are very focused on the hyperscaler growth in terms of observability are suffering a little bit more. Well, the on-premise part that you talked about is actually doing better.
+
+What do you see in terms of client conversations in terms of their kind of now urgency to go to the cloud, urgency to -- or just kind of realization that, like, I have a lot on-premise, and I need to keep the lights on. How is that dynamic playing out for you? Thank you.
+
+Gary Steele -- President and Chief Executive Officer
+
+Yeah, that's a great question. I think the one thing we see is, continued belief in our on-prem customers that cloud will play an important role for them. What we do understand, though, very clearly is that this hybrid world, combining cloud and on-prem is an architecture that I think we'll see for a very long period of time. And as you've heard from us, by reaffirming our commitment to on-prem and supporting this hybrid architecture, we fundamentally think will be strategically advantageous to us, and we think we're well-positioned over the long haul because of that.
+
+Raimo Lenschow -- Barclays -- Analyst
+
+OK. Thank you.
+
+Operator
+
+Our next question comes from Michael Turits from KeyBanc. Please go ahead. Your line is open.
+
+Michael Turits -- KeyBanc Capital Markets -- Analyst
+
+Hi guys. Brian, welcome, and a very solid quarter. So, I was wondering, if you could just talk about the retention and expansion. In other words, I think obviously, your strength and your presence within the enterprise gives you an opportunity to hold on to customers.
+
+So, can you describe what's happening at renewal time in terms of gross retention? And when things are expanding, where are they expanding and what's driving that and what are the trends?
+
+Gary Steele -- President and Chief Executive Officer
+
+Yeah. So, in the quarter, we saw our renewal rates stay very strong. And so, we felt very good about the performance within our existing customer base. Where we see expansion, we're seeing expansion where it's additional use cases, where they want to drive additional uses of Splunk to either drive additional security use cases or drive broader IT and observability adoption.
+
+So, it's really use case expansion that's driving the incremental value there. I think broadly as well security continues to be very resilient, and we're seeing opportunities there where expansion makes sense and the security teams needed additional capabilities. So that's another factor in this.
+
+Brian Roberts -- Chief Financial Officer
+
+And I would just add, this is Brian. In terms of just the modeling, what's important to remember, again, last year, renewals increased roughly 100% year on year. As I shared in my prepared remarks, we expect normalized growth this year. So, we expect roughly a 20% increase in that renewal opportunity.
+
+But over time, that renewal opportunity is more cloud-based. And so again, that impacts -- for rev rec reasons, it will impact reported revenue. But again, as we stressed, I would focus on ARR.
+
+Michael Turits -- KeyBanc Capital Markets -- Analyst
+
+Great. Thanks for the clarity regarding 606.
+
+Operator
+
+Our next question comes from Keith Weiss from Morgan Stanley. Please go ahead. Your line is open.
+
+Sanjit Singh -- Morgan Stanley -- Analyst
+
+Thank you for taking the questions. This is Sanjit Singh for Keith Weiss. Gary, I wanted to talk a little bit about the efficiency that you've been able, and the team has been able to extract this year, the free cash flow being up 4x. some significant margin improvements.
+
+If I take a step back, I see the business growing 18% in terms of ARR, you're guiding to the low teens for next year. Yet opex has been growing in the low single digits. And I guess the question is, how much juice do you have left to squeeze out of the opex fruit, if you will, in terms of thinking about the trajectory of expenses going into next year and beyond to get to your longer-term free cash flow goals?
+
+Gary Steele -- President and Chief Executive Officer
+
+We feel very confident in our long-term opportunity to continue to increase efficiency and drive incremental cash flow. And while I'm incredibly proud of all the work we've done over the course of the last year, I think there's continued opportunity to drive efficiency, and so we feel very good about the long-term opportunity to continue to expand free cash flow margins.
+
+Operator
+
+Our next question comes from John DiFucci from Guggenheim Partners. Please go ahead. Your line is open.
+
+Ray McDonough -- Guggenheim Partners -- Analyst
+
+Thanks. This is Ray McDonough on for John. Appreciate you taking the question. So, Brian, we certainly appreciate all the color around renewals and the impact of those renewals on the top line and ARR, and certainly appreciate the focus on ARR.
+
+But the acceleration of revenue guidance implied you expect declines in the renewal base in fiscal 2024. And how much of your confidence about a reacceleration in 2025 comes from the renewal base ramping in that year?
+
+Brian Roberts -- Chief Financial Officer
+
+Yeah. Just again, to clarify, we expect the renewal opportunity to grow this year by roughly 20%. So, it's about -- again, it will be approaching $2 billion this year. So that's an opportunity for us.
+
+What I was trying to share before is that the mix of that renewal opportunity is beginning to shift more toward cloud, and that will continue. So, in terms of reported revenue because of 606, that impacts revenue. But again, ARR is correlated to cash flow, and we are driving free cash flow growth.
+
+Ray McDonough -- Guggenheim Partners -- Analyst
+
+That's helpful. And any comments on the renewal base in 2025 at this point?
+
+Brian Roberts -- Chief Financial Officer
+
+Yeah. We expect further growth in fiscal 2025.
+
+Ray McDonough -- Guggenheim Partners -- Analyst
+
+Great. Thanks.
+
+Brian Roberts -- Chief Financial Officer
+
+Thanks, Ray.
+
+Operator
+
+Our next question comes from Mike Cikos from Needham. Please go ahead. Your line is open.
+
+Mike Cikos -- Needham and Company -- Analyst
+
+Hey, guys. Thanks for getting me on the call here today. I guess, it's a two-part question if I could. The first is more in sync with the guidance here.
+
+So maybe a question for Brian here. But I believe I need to go back multiple years to find a quarter where you had just called a $25 million to $30 million in net new ARR like you're guiding to for Q1. Can you discuss maybe some of the puts and takes that are weighing on that net new ARR as we think about Q1 of the upcoming year? And then the second question maybe for Gary, is in relation to observability. Would be curious to size up what that opportunity is as a component of the ARR, anything on traction or take rates that you're seeing? And really what I'm trying to drive at here for the observability is, is it fair to assume that currently when Splunk is going to market with observability, the opportunity is really there to, I guess, mine existing customers, whereas it's not necessarily a mechanism for new logo growth at this time, or is that unfair? And you are seeing new logos land with observability at this time.
+
+Sorry for the long-winded question, but just wanted to see if I can get some color on both those points. Thank you.
+
+Brian Roberts -- Chief Financial Officer
+
+Sure. This is Brian. I'll take part one of the questions. So, I would say, look, I would focus on the full year outlook of $450 million to $500 million of net new ARR.
+
+In terms of Q1, don't forget that Q4 was our single largest renewal quarter of all time. And the renewal opportunity was more than double the prior year, and we were very pleased with our performance. Now historically, in Q4, we've seen some renewals get completed in Q1, which boost the first quarter. What we saw in Q4 was that we did a really nice job with on-time renewals, which means Q1 is missing the historical bump that we've seen typically seen.
+
+But again, going back to my meta point, I would just focus on the full year outlook of $450 million to $500 million of net new ARR. And to your observability question, we see the observability opportunity is significant, and we see it significant, both in our installed base where customers that have been loyal Splunk core customers. They want to extend their reach into a broader set of applications. The observability cloud has been well received.
+
+And if you go back to one of the things, I'm super encouraged by, as you go back to our prepared remarks, we noted some very interesting observability wins, and those wins were in our installed base that really felt that they wanted to expand the reach for where Splunk was helping them beyond platform into the observability cloud. And then going to the second part of your question, we have seen some very nice wins in new logos. And so, it is a combination of both expansion in the installed base, as well as winning new logos. And we believe that the work that we have done to better integrate our observability cloud into our core is super compelling, and it positions us well for customers that need high-end true enterprise scale for observability.
+
+So super excited about it.
+
+Mike Cikos -- Needham and Company -- Analyst
+
+Thank you very much, guys.
+
+Brian Roberts -- Chief Financial Officer
+
+Thanks, Mike.
+
+Operator
+
+Our next question comes from Steve Koenig from SMBC Nikko. Please go ahead. Your line is open.
+
+Steve Koenig -- SMBC Nikko Securities -- Analyst
+
+Hey. Hi, gentlemen. Thank you for taking my question. Just maybe a clarification or explanation of some of the numbers.
+
+So, in your guide, you were assuming, I think it was 55% to 65% cloud mix of new bookings. Maybe I missed it in the press release or remarks, but how does that compare with your cloud mix for this year? And more specifically, where did you end up in Q4? And then if I may just add a two-parter there. The second part of my question is, as incremental ARR flows into your model, let's say, for every $100 million that flows in. How much free cash flow would you guys expect to be generating on that? I mean based on your ability to hold your opex down, it just looks like your free cash flow margin on the incremental ARR looks to be quite high.
+
+Just wondering, if you have any thoughts on that, too. Thanks very much.
+
+Brian Roberts -- Chief Financial Officer
+
+Sure. This is Brian. So, in terms of your first question, Q4, the bookings mix of software came in -- or sorry, cloud mix came in at 58%. And again, it will vary.
+
+We're saying 55% to 65%. We will cross through -- a majority of total ARR will likely be cloud by the second half of this year. In terms of the question, in terms of like flow-through on leverage on free cash flow, I think it's really important, again, our bookings tend to be seasonally much stronger in Q3 and Q4, and we tend to collect the receivable the following quarter. And so last year, 95% of free cash flow was done in Q1 and Q4.
+
+And so, when you do your models, I think it's -- when you look at our guidance for this year, back to Gary's point, we expect that we can continue to increase free cash flow margins. Part of that is a lot of what we generate in Q4 will actually turn into free cash flow in Q1 of fiscal '25.
+
+Steve Koenig -- SMBC Nikko Securities -- Analyst
+
+OK. I'll leave it there. Thank you very much.
+
+Gary Steele -- President and Chief Executive Officer
+
+Thanks, Steve.
+
+Operator
+
+Our next question comes from Brad Sills from Bank of America Securities. Please go ahead. Your line is open.
+
+Brad Sills -- Bank of America Merrill Lynch -- Analyst
+
+Great. Thanks, guys, and welcome Brian. I wanted to ask a question. Now that you've been at this single seller model now for quite some time, are you seeing a change in the makeup of the deals in the pipeline? In other words, are you starting to see larger expansion deals as reps are now selling more components of the Splunk stack as opposed to single solution?
+
+Gary Steele -- President and Chief Executive Officer
+
+Brad, great question. Single seller got implemented right at the beginning of Q4. And what we were pleased by is the fact that we had a nice strong beat on our numbers given the amount of change that we made. So, I think the one thing I can say conclusively is that was really well received by customers, most importantly, and I think that Splunkers also feel like we're better aligned to go win.
+
+I think it's a little early to comment on deal sizes related to single seller, but I think we're well aligned to what we need to get done this year with this model that we've got now in place as we enter the year.
+
+Brad Sills -- Bank of America Merrill Lynch -- Analyst
+
+Great. Thank you, Gary.
+
+Operator
+
+Our next question comes from Matt Hedberg from RBC Capital Markets. Please go ahead. Your line is open.
+
+Matt Hedberg -- RBC Capital Markets -- Analyst
+
+Thanks, guys. Welcome to Brian as well from us. You called out, Gary, a number of great partner wins this quarter. I'm curious, when we look to fiscal '24, how should we think about partner contributions? And is there something that partners can help with specifically on the cloud migration front that could be incremental to the model going forward?
+
+Gary Steele -- President and Chief Executive Officer
+
+Yeah. No, it's a great question, Matt. So, as we noted in our prepared remarks, we just see continued larger opportunities coming from the SIs, from the cloud service providers like AWS, and we're really trying to align opportunities around using those partners and their leverage to drive cloud migration. That's something that we've had in place.
+
+We think it will play an important role this year again. And we're very enthusiastic about the potential there.
+
+Matt Hedberg -- RBC Capital Markets -- Analyst
+
+Thank you.
+
+Operator
+
+Our next question comes from Fatima Boolani from Citi. Please go ahead. Your line is open.
+
+Fatima Boolani -- Citi -- Analyst
+
+Thank you. Good afternoon. Thank you for taking my question. Brian, five weeks in, so I'm definitely going to ask you a very nitty-gritty being counting question.
+
+As we think about capital allocation priorities and agenda for the business, given the amount of free cash flow that you are going to be generating and bringing on the horizon, how should we think about share repurchases versus the convert you have on your books and how we should be thinking about treatment around that? And as a related matter, you had alluded to stock-based compensation expense and the trajectory there, but would love to get a little bit more color on that front, particularly as you become more judicious in your hiring and headcount growth aspirations? Thank you.
+
+Brian Roberts -- Chief Financial Officer
+
+Sure. So let me take the first question around capital allocation. So again, we ended the year with roughly $2 billion of cash, cash equivalents, and investments. As it relates to the principal balance of our 2023 convertible note, at maturity, we'll redeem it in cash to the extent the stock is above the conversion price, so obviously, it'll go to equity.
+
+We will discuss our long-term strategy around repurchases at Analyst Day. So, stay tuned. And then in terms of equity, I mean I think this is important. We are meaningfully reducing share dilution this year.
+
+And the exact magnitude of the reduction will really depend on the future stock price and attrition. I'd say we expect roughly a one-third reduction in share dilution this year in terms of our net burn rate. In addition, we will share long-term targets at Analyst Day again later this year. But with SBC, it's accounting.
+
+It just has -- it takes time to flow through the P&L. I would encourage investors to look at like dilution at a point in time because that's what we can control. We can't control the past.
+
+Operator
+
+Our next question comes from Kingsley Crane from Canaccord Genuity. Please go ahead. Your line is open.
+
+Kingsley Crane -- Canaccord Genuity -- Analyst
+
+Hey, thanks for taking my question, and welcome, Brian. I know you've advised some customers to switch from ingest space to workload based so they can manage their environment without limiting the amount of data they send into Splunk. So, I'm curious, what percent of revenue is now ingest-based versus workload based? And upon this, does this represent a conversion to drive up-sell and cross-sell?
+
+Gary Steele -- President and Chief Executive Officer
+
+So, a simple way to think about it is virtually all our cloud customers are on workload-based pricing. And a reasonable number of our on-premise customers are on workload. But the simplest way to think about it and model it is to think broadly about all those cloud customers that are benefiting from workload-based pricing.
+
+Kingsley Crane -- Canaccord Genuity -- Analyst
+
+OK. Fair enough. Thank you.
+
+Operator
+
+Our next question comes from Fred Lee from Credit Suisse. Please go ahead. Your line is open.
+
+Tim Usasz -- Credit Suisse -- Analyst
+
+Hi. This is Tim Usasz on for Fred. You reduced your R&D spend by 10% year on year. How do you evaluate what's the right level of R&D spend to make sure you fully capture your longer-term opportunity and observability? And historically, you have meaningfully augmented our really product development to M&A, should we expect you to continue a similar strategy, or should we expect you to shift more toward organic product development?
+
+Brian Roberts -- Chief Financial Officer
+
+Sure. So, this is Brian. I think what you're seeing in the numbers is just a natural leveling off after two years of substantial growth in R&D. So, we grew R&D roughly 28% in fiscal 2021, another 30% in fiscal 2022.
+
+What I'd say about this year is we're investing in R&D, but really benefiting from hiring top talent in emerging markets. And so, this will make our R&D investments even more efficient. So, we expect to hold R&D expense roughly flat year over year while we increase headcount and impact.
+
+Gary Steele -- President and Chief Executive Officer
+
+And then to your M&A question, we really feel like we have the right product lineup to support continuing to grow both with our existing customers and in new accounts. We will look for opportunities where there is a tuck-in M&A. For example, we did the TwinWave acquisition in the fall. I think that was a very good example of picking up great capabilities that extend the value we can deliver to our customers while also getting some great talent.
+
+So, we'll continue to look for those opportunities, but don't think about us as doing something large and transformational.
+
+Tim Usasz -- Credit Suisse -- Analyst
+
+Thank you.
+
+Operator
+
+Our next question comes from Andrew Nowinski from Wells Fargo. Please go ahead. Your line is open.
+
+Andrew Nowinski -- Wells Fargo Securities -- Analyst
+
+Great. Thank you. So, I have a question on the observability opportunity. You talked about it being a massive opportunity, but that market seems very cloud-centric.
+
+So, I'm wondering, how you get customers to expand into your observability solutions, while at the same time, supporting their hybrid model, particularly when customers want log management, APM, infrastructure monitoring, all on the same platform.
+
+Gary Steele -- President and Chief Executive Officer
+
+Yeah. No, great question, where observability is really being deployed today is in next-generation app environments that are microservice driven and so the environment that we're seeing today oftentimes are multicloud hybrid, where there's components on-prem, there's components in the cloud. And we extend the reach with Alicloud to give the customer the ability to get resilience across new application environment. So, it's really just a natural extension of where the application environment has grown, which is cloud-based, and where they need the more sophisticated capabilities that we're delivering.
+
+And it's actually proven up quite well in the early wins that we're seeing and the traction that we're getting in the market today.
+
+Andrew Nowinski -- Wells Fargo Securities -- Analyst
+
+Got it. Thanks, Gary.
+
+Gary Steele -- President and Chief Executive Officer
+
+Thanks, Andy.
+
+Operator
+
+Our last question will come from Yun Kim from Loop Capital Markets. Please go ahead. Your line is open.
+
+Yun Kim -- Loop Capital Markets -- Analyst
+
+OK. Great. Thank you so much. Great to see the continued improvement in the cloud gross margin.
+
+If you can explain the dynamics behind it and what we can expect going forward in fiscal year 2024? Thanks.
+
+Brian Roberts -- Chief Financial Officer
+
+Yeah. We are very impressed and happy with the progress we made over the last few years on cloud gross margin. As we look toward this year, we're balancing driving leverage with prioritizing customer experience and quality of service. So, there will be puts and takes.
+
+We expect Q1 cloud gross margins will decline sequentially by, call it, 100 basis points but we expect that we can achieve cloud gross margins of 74% in Q4, while improving the customer experience. So, in terms of the overall impact on fiscal 2024, we expect cloud gross margins between 73% and 73.5%, which is up roughly 200 to 250 basis points year over year.
+
+Yun Kim -- Loop Capital Markets -- Analyst
+
+OK. Great. Thank you so much.
+
+Gary Steele -- President and Chief Executive Officer
+
+Thanks, Yun.
+
+Operator
+
+We have no further questions in queue. I would like to turn the call back over to Gary Steele for closing remarks.
+
+Gary Steele -- President and Chief Executive Officer
+
+Thank you. I just want to thank everyone for joining us on the call today. We feel great about our setup going into the year, and we're very proud of the results we put up for last fiscal year. We look forward to seeing folks on the road in our IR work, and we'll talk to you next quarter.
+
+Operator

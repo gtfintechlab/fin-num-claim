@@ -1,0 +1,322 @@
+Operator
+
+Welcome to Workday's Second Quarter Fiscal Year 2021 Earnings Call. [Operator Instructions]
+
+And with that, I will now hand it over to Justin Furby, Senior Director of Investor Relations.
+
+Justin Furby -- Senior Director of Investor Relations
+
+Welcome to Workday's second quarter of fiscal '21 earnings conference call. On the call we have Aneel Bhusri, our Co-CEO; Chano Fernandez, our Co-CEO; Robynne Sisco, our President and CFO; Tom Bogan, our Vice Chairman; and Pete Schlampp, our Executive Vice President of Product Development. Following prepared remarks, we will take questions. Our press release was issued after close of market and is posted on our website, where this call is being simultaneously webcast.
+
+Before we get started, we want to emphasize that some of our statements on this call, particularly our guidance, are based on the information we have as of today and include forward-looking statements regarding our financial results, applications, customer demand, operations and other matters. These statements are subject to risks, uncertainties and assumptions, including those related to the impacts of the ongoing COVID-19 pandemic on our business and global economic condition. Please refer to the press release and the risk factors and documents we file with the Securities and Exchange Commission, including our most recent quarterly report on Form 10-Q for additional information on risks, uncertainties and assumptions that may cause actual results to differ materially from those set forth in such statement.
+
+In addition, during today's call, we will discuss non-GAAP financial measures, which we believe are useful as supplemental measures of Workday's performance. These non-GAAP measures should be considered in addition to and not as a substitute for or in isolation from GAAP results. You can find additional disclosures regarding these non-GAAP measures, including reconciliations with comparable GAAP results, in our earnings press release and on the Investor Relations page of our website. The webcast replay of this call will be available for the next 90 days on our company website under the Investor Relations link. Also, the customer's page of our website includes the list of selected customers and is updated monthly. Our third quarter quiet period begins on October 16, 2020. Unless otherwise stated, all financial comparisons in this call will be to our results for the comparable period of our fiscal 2020.
+
+With that, let me hand it over to Aneel.
+
+Aneel Bhusri -- Co-Founder and Co-Chief Executive Officer
+
+Thank you, Justin, and welcome to Workday's second quarter fiscal year '21 earnings conference call. I'm pleased to report that Workday delivered a strong second quarter with healthy demand across all product areas and geographies. Despite the challenging environment, our success as a company continues to be driven by the forward-thinking companies that expect more from their enterprise applications and choose Workday as their partner for finance and HR. I'm very proud of our workmates across the globe, who came together in such a remarkable way and mostly working from their home offices to drive these strong Q2 results.
+
+We're obviously living in unique times, simultaneously navigating a healthcare crisis and economic crisis and the social crisis. This year will no doubt be one we will remember for all of our lives. It's also a moment in time that businesses and their leaders are in a unique position to drive change for the good and demonstrate that companies can and should have a soul [Phonetic].
+
+To that end, we have taken a leadership role in addressing social inequality and continuing to drive diversity and inclusion at Workday. To help move us forward, we have recruited some of the most passionate and brightest minds from across Workday into an accelerated team, guided by our Chief Diversity Officer, Carin Taylor. We have four guiding principles. Number one, building inclusive products and technologies. Number two, hiring and developing diverse talent. Number three, cultivating a culture of belonging. And number four, strengthening our communities. Our accelerated team is focused on helping us identify priorities and metrics that will help us thrive and measure success against these principles. We look forward to updating you on our progress in the near future.
+
+Moving on to the business highlights. We had another strong quarter for Workday HCM. While the migration to the cloud continues with notable customer additions, including Air Liquide, HighV, the State of Oklahoma and German manufacturing leader, ThyssenKrupp. I'm also pleased to mention that we added one of the largest U.S. telecommunication services companies to our Fortune 50 customer list. And as always, customer success remains a key differentiator for Workday. In Q2, we had several HCM go-lives including General Motors, The Hartford, Eli Lilly and Bridgestone Americas.
+
+Turning to Workday Financial Management, we saw continued strong momentum across the expanding product line in Q2, including Financials first win at Comerica Bank and notable platform wins where companies selected both Core Financials and HCM together as Sharp HealthCare, The Amenity Collective and American Financial Group. Among the many core financials go-lives in the quarter, I would like to highlight Prisma Health and Nebraska Medicine. In addition, CNA and Shelter Insurance, both went live as early adopters of Workday Accounting Center, a new offering that has served as a key differentiator in several of our recent strategic core Financials wins. I'm pleased to say that Workday Accounting Center is on scheduled to be commercially available this fall.
+
+In addition to the strong commercial success this quarter, we also added a federal government agency with 4,000 employees as an HCM and Financials customer. And this agency has partnered with us as we seek FedRAMP Authorization. Indeed, for many years, we have provided solutions for state and local governments as well as numerous federal labs and DoD contractors. And we view the federal market as the next logical step in our market expansion. Our near-term focus is on ensuring success with this initial partnership, but we are excited by the longer term opportunity to serve the federal marketplace.
+
+Turning some of our newer initiatives. We once again saw solid demand for our expanding suite of products that support the Office of the CFO and Chief Procurement Officer, including Workday Adaptive Planning, Prism Analytics and Spend Management, where we now support more than 1,000 procurement customers. Scout RFP had another excellent quarter as companies are increasingly looking for the ability to get their arms around the supplier network and appreciate the rapid time-to-value that solutions like Scout can provide to them. Indeed, the three Fortune 500 sourcing wins that we announced last quarter are all now live and in production.
+
+Turning to product development, in Q2, we announced availability for Workday Help and Journeys. These solutions that extend the power of Workday people experience are machine learning-driven employee experience. In addition, we announced availability of People Analytics, which leverages our Prism Foundation to help empower HR and business leaders to make better people decisions. We also continue to help our customers with their return to work planning during this time, including joint offerings with key partners such as the announcement we had last quarter with Salesforce. By the way, congratulations on the great quarter, Marc. And more recently with IBM where we announced the availability of a joint solution to plan, schedule and monitor our customer safe return to the workplace.
+
+Last earnings call I shared my belief that this environment will ultimately serve as another catalyst to accelerate the adoption of finance and HR systems in the cloud. Our Q2 results and my conversations with business leaders suggest that companies are increasingly realizing the strategic importance of having agile flexible systems to support their mission-critical business processes now and in the future.
+
+Lastly, I want to end on the exciting news that my great friend and colleague, Chano Fernandez, has been promoted to Co-CEO of Workday. In his expanded role, Chano will now oversee all of our customer-facing activities, including sales, customer services and support and many aspects of marketing. Chano joined Workday back in 2014 as our President of EMEA and has taken out more and more responsibilities over time, most recently as Co-President of the company. He is an amazing values-based leader and has driven his team to great success over the years. So the move to Co-CEO is a natural progression for him, for Workday and for me. I'm personally thrilled to be his partner for this next chapter of Workday. And for those of you who have followed Workday for a while, you will hopefully remember that my Co-Founder Dave and I, operated as Co-CEOs for almost five years and it all worked great for us and for the company. I wholeheartedly expect the Co-CEO structure will also work great for Chano and me.
+
+Congratulations Chano, and a big thanks to you and your team for a great Q2. I'm looking forward to being your partner for many years to come. Over to you.
+
+Chano Fernandez -- Co-Chief Executive Officer
+
+Thank you, Aneel. I am incredibly grateful to yourself, Dave and the entire board for the trust you have placing me. It's an honor. I'm thrilled to partner with you and our exception of workmates across the globe on our exciting journey ahead.
+
+Before providing my updates, I wanted to begin by echoing Aneel's comments and express my thanks and appreciation to our field team for a strong Q2. I am pleased with our progress, especially in the context of the ongoing macro uncertainty, and it was good to see the solid performance across our segments, regions and products. Many businesses seem to be settling into this uncertain environment and increasingly realizing the need to move forward with their digital transformation initiatives. This, along with our would have strong execution drove improving conversion rates in Q2 relative to what we experienced in the March-April timeframe.
+
+Our second quarter performance was broad-based and included the strong results from both, net new and back-to-base teams. In the large enterprise, we landed nine new Global 2000 HCM customers and two Global 2000 since deals. We also saw strength in our education and government team, highlighted by the win at the State of Oklahoma and we have a growing pipeline of the state and local government opportunities.
+
+The medium enterprise also had another solid quarter, continuing a multi-quarter trend. From a regional perspective, North America and APAC were standouts, and we had improving performance in Europe. The back-to-base team delivered another solid quarter with over 50% growth again this quarter, driven by a strength across products, including core fins, workforce and financial planning, Prism Analytics, learning, Scout RFP and newly launched Accounting Center.
+
+It is early, but we're also encouraged by pipeline [Phonetic] creation from some of our newest products, including help Workday Extend, People Analytics. Going forward, we remain cautiously optimistic that market dynamics will slowly improve as we approach year end and head into FY '22. More importantly, we are extremely optimistic on the longer term opportunity that will come from this environment as businesses increasingly realize the importance of Workday in navigating a thriving times of change.
+
+With that, I will turn it over to our newly minted President, Robynne Sisco. Congrats, Robynne. Over to you.
+
+Robynne Sisco -- President and Chief Financial Officer
+
+Thanks, Chano. I look forward to continuing our partnership, supporting you in your new role. As Aneel and Chano both noted, Q2 was a very solid quarter despite an uncertain environment, driven by strong execution against a slightly improved market backdrop as many companies continued with their digital transformation initiatives. I'm going to briefly recap our second quarter results, update our guidance for Q3 and FY '21 and then open it up for your questions.
+
+Subscription revenue in the second quarter was $932 million, up 23% year-over-year. The outperformance was driven by strong renewals, favorable new business linearity and a one-time benefit of $6 million from the acceleration of revenue on a customer contract. Professional services revenue was $130 million and total revenue was $1.062 billion. Total revenue outside the U.S. was $257 million, 24% of the total. Subscription revenue backlog was $8.60 billion at the end of the second quarter, growth of 22% year-over-year.
+
+The backlog performance was driven by strong new ACV bookings across both net new and add-on business. In addition, we once again experienced strong renewals with gross retention over 95% and net retention, which includes upsell at the time of renewal, over 100%. Subscription revenue backlog that will be recognized within the next 24 months was $5.78 billion, growth of 21%.
+
+Our non-GAAP operating income for the second quarter was $258 million, resulting in a non-GAAP operating margin of 24%. The operating margin outperformance was driven by a combination of top-line overachievement, slower hiring, continued COVID-related moderation of operating expenses, including travel and marketing and some one-time credits related to canceled events.
+
+Q2 operating cash flow was $157 million, growth of 57% year-over-year, driven by solid collections and moderated spending. We continue to work with customers, both new and existing that request more flexible payment terms, specifically in industries hardest hit by the pandemic. This payment flexibility access a near-term headwind to cash flow and unearned revenue, though it's important to keep in mind that it has no impact on our subscription revenue, subscription revenue backlog or long-term customer economics. During the quarter, we settled our 2020 $250 million convertible notes using cash proceeds from the final funding of our term loan. We exited our second quarter with $2.8 billion of cash and marketable securities and have access to $750 million of unused capacity on our revolving line of credit.
+
+Our total workforce at the end of the quarter was approximately 12,300 employees, slightly down from Q1. Hiring in the quarter was focused primarily on a limited number of strategic positions to support our key growth initiatives. This was offset by normal levels of employee attrition that had not yet been back-filled by the end of the quarter. We're extremely pleased with our results and execution in Q2. And while we remain cautious on the near-term pace of recovery, we see significant long-term opportunity ahead to support our growth aspirations.
+
+Now turning to guidance, which despite our outperformance in Q2, continues to be governed by the assumptions we outlined last quarter. Specifically, though we continue to face an uncertain and challenging environment, which we expect will remain in the near-term with only slowly improving market dynamics as we approach year end. As a result of our strong Q2 performance, we are raising our FY '21 subscription revenue estimate to be in the range of $3.73 billion to $3.74 billion, 20% to 21% growth. We expect our Q3 subscription revenue to be $948 million to $950 million, 19% growth. We now expect professional services revenue to be $525 million in fiscal '21 and $135 million in Q3.
+
+As always, our priority is to support our customers' successful deployments and drive the highest levels of customer satisfaction. In line with these goals, we expect a balanced approach in terms of partner and Workday prime to ensure our partner ecosystem continues to be healthy and active. For Q3, we expect subscription revenue backlog growth in the high-teens. We estimate Q3 non-GAAP operating margin to be approximately 19%. For the full year, we now expect a non-GAAP operating margin of 18%, up from our previous view of 16%. This full year margin improvement is largely the result of our top-line overperformance. The GAAP operating margin is expected to be lower than the non-GAAP margins by approximately 26 percentage points in both the third quarter and the full year. Our FY '21 capital investments guidance remains unchanged at $280 million.
+
+I'd like to close by thanking our amazing employees, customers and partners for their continued support and hard work, which allowed us to deliver strong Q2 results during these unprecedented times. Our first half performance has reinforced our confidence in the fundamental strength of our business and the long-term opportunity that we see ahead.
+
+With that, I'll turn it over to the operator to begin Q&A. Operator?
+
+Questions and Answers:
+Operator
+
+Thank you. [Operator Instructions] Our first question is coming from the line of Kirk Materne of Evercore ISI. Please proceed with your questions.
+
+Kirk Materne -- Evercore Partners -- Analyst
+
+Yes. Thanks very much. Congrats on the quarter, and congratulations to Chano on the promotion. Well deserved. I think my question is for Aneel. Aneel, I think there is some concern among investors that companies that were in the more traditional back-office categories of software, maybe namely HCM and ERP would get shoved to the back of the line in terms of spending priorities due to COVID. And I think with these results that thesis was clearly a bit faulty. So I was wondering if you could talk about how customers are thinking about Workday relative to their other mission-critical systems in terms of prioritization around spend? And then why the conversations you're having today maybe put you in the different category versus some of the traditional ERP vendors? Thanks.
+
+Aneel Bhusri -- Co-Founder and Co-Chief Executive Officer
+
+Thanks, Kirk. So first of all, I think the most important piece is, we're not an ERP vendor. I think there's a lot of conversations with ERP that are two year to three year implementations that the payback takes a long time. We are quick to implement HR and finance systems, really oriented toward employees and running the business in a very agile environment.
+
+So on the HR side, very simply, with the pandemic and with all the other issues facing companies right now, employees are front and center for everybody. And you should think about HCM not just as a back office system, but an employee engagement system. But also with the pandemic, companies have had to change their business processes radically, and they're changing them on a weekly basis, and the legacy systems just can't do that. So we saw some hold-outs of companies that were working with legacy systems just said, hey, we just need to make the plunge and go into the cloud even though we're in the middle of the pandemic.
+
+So really on the finance side, the flexibility that starts with our planning system, the ability to recreate and generate plans on a really rapid basis based on a system adaptive that can go live within a month. And our core accounting system where you can close the books without having anybody in the office completely remotely can be live in six months to nine months. And so I think companies that are in a place to invest are continuing to invest in these data transformation areas and they are embracing the cloud, and HR and finance are still very important.
+
+Kirk Materne -- Evercore Partners -- Analyst
+
+If I could, just a quick follow-up for Robynne. Robynne, you mentioned obviously that most of the outperformance on margins was sort of due to the outperformance on the top-line or the change in guidance rather was due the outperformance on top-line. In the back half of the year, do you expect to accelerate spend -- to hiring rather? And how should we think about sort of your ability to raise -- to spend more in the back half, I guess or hire more in the back half? Thanks.
+
+Robynne Sisco -- President and Chief Financial Officer
+
+Yeah, Kirk. So we've said in the last call that we do expect to see slow improvements in Q4. So we've been planning all along to start reinvesting in the back half of the year, and we continue to have that assumption. So we will start investing in areas like sales, marketing, product and technology. And as I mentioned before, we did have some one-time benefits in Q2 [Technical Issue] repeat, such as credits for cancelled events. So we feel very good about our ability to invest in the back half of the year and to execute against those investment plans, and get good pay off from that in the future.
+
+Kirk Materne -- Evercore Partners -- Analyst
+
+Thank you.
+
+Operator
+
+Thank you. Our next question is coming from the line of Kash Rangan of Bank of America Merrill Lynch. Please proceed with your question.
+
+Kash Rangan -- Bank of America Merrill Lynch -- Analyst
+
+Thank you very much. Congratulations to the Workday team on a fantastic quarter, and congrats to Chano on your promotion. A question for you, Aneel or Chano, whoever wants to take this. As you look at your user conference, Workday Rising, which is tended to be a big event where we expect to go -- serve as a great opportunity for building a pipeline. How are you thinking about calendar '21 assuming that calendar '20 is going to be just fine as far as the forward look of business and build a pipeline for next year's business initiatives? And also if you can just spend a minute on, we have been picking up from the field that there is pent-up demand for an integrated HCM financial system of the cloud that if you didn't do it you got stuck as a customer. So are you seeing that in your pipeline? Is the adoption of Financials integrated with HCM in the Fortune 500 segment of the market -- is that poised to accelerate in calendar '21? Thank you so much, and congrats.
+
+Aneel Bhusri -- Co-Founder and Co-Chief Executive Officer
+
+I think Chano is the right person to answer those questions. So refer to the Co-CEO.
+
+Chano Fernandez -- Co-Chief Executive Officer
+
+Thank you, Aneel. Thank you, Kash. So from the rising perspective, you are right, we made the decision to pivot and hold our pricing until next year, which is hopefully safe to get together again. And instead, what we're doing is introducing a special digital event that will explore the most pressing challenges facing businesses right now, which we think is more appropriate at this time. But I would like -- just want to highlight that rising in [Indecipherable] pipeline builder for us, primarily all various customers on latest stage prospects, Kash.
+
+From a pipeline build perspective, and kind of looking out to next year, we're seeing improvement relative to what we saw in Q1, which is encouraging and we're moving closer to pre-COVID levels, but we aren't yet quite back to these from a pipeline build perspective. And with the biggest impact here being the verticals, we already called out like travel, hospitality and retail. But there as well are lot of areas. I'm very encouraged by in terms of pipeline build like what we are seeing in state and local government vertical, financial services, technology and media, and more broadly, on our installed base pipeline, also that ones accelerates faster, which kind of maybe helpful for year end faster build up pipeline to support the event and update on the back half of this year.
+
+Kash Rangan -- Bank of America Merrill Lynch -- Analyst
+
+Chano, the Financials pent-up demand, possibly for Financials HCM in the Fortune 500 segment of the market, if that is the case?
+
+Chano Fernandez -- Co-Chief Executive Officer
+
+What we're seeing right now in Financials is that -- if you talk to some of our partners and we're seeing it directly ourselves, there are a number of evaluations going on at this point in time. So A, we've seen some improvement clearly on the Financials side, and it's reflected as well in some of the customers that we've been mentioning. But as well, we are expecting, as Aneel was mentioning, that as we turn the corner from COVID and due to the number of evaluations that are happening and taking place now, it may accelerate. Again, the environment remains uncertain, fluid, Kash. So it's difficult to call out. But certainly the number of valuations out there has increased, and clearly companies have realized in this environment the need for the flexibility and agility that Aneel was talking about and that cannot be done without legacy systems.
+
+Kash Rangan -- Bank of America Merrill Lynch -- Analyst
+
+Thanks so much. And hi to Robynne as well.
+
+Operator
+
+Thank you. Our next question is coming from the line of Mark Murphy with J.P. Morgan. Please proceed with your questions.
+
+Mark Murphy -- J.P. Morgan -- Analyst
+
+Thank you very much. And Chano, I wanted to say congratulations. You've had the Midas touch in every single roll that we've seen, and just can't wait to see how it builds from here. I just had a question on the imprint of the pandemic on Workday Financials, because we've heard so many anecdotes of how modernizing finance is going to be necessary from a survival standpoint. And I'm curious if that is overcoming the hesitation that we've always seen to change a core system like that amid a pretty uncertain environment? Well, I guess, I'll just leave it at that.
+
+Aneel Bhusri -- Co-Founder and Co-Chief Executive Officer
+
+Chano?
+
+Chano Fernandez -- Co-Chief Executive Officer
+
+Yes, Mark. Kind of what I've been commenting with Kash, right? What I can say is that I think companies, and this is anecdotal, are realizing the need to modernizing their financial systems. Again, some of them are just having challenges because they work remotely. Some of them are having challenges to basically maybe changes required. I can tell you customers are telling, they are having people sneaking onto their business to download some reports and being able to provide the financial numbers, right, while their offices are closed. So clearly, the understanding and the need for the modernization is there. As you would say from a survivor perspective, right, to be able to accomplish some of these tasks.
+
+I would also again repeat myself saying that the number of evaluations that we're seeing out there and our partners are seeing has increased with the financial side, again, with the caveat of it's difficult to anticipate how the overall environment, which is quite uneven and fluid is going to evolve, we might be expecting that this might produce an acceleration on the other end. It's early to say yet.
+
+Mark Murphy -- J.P. Morgan -- Analyst
+
+Thank you very much.
+
+Operator
+
+Thank you. Our next question is coming from the line of Keith Weiss with Morgan Stanley. Please proceed with your question.
+
+Keith Weiss -- Morgan Stanley -- Analyst
+
+Excellent. Thank you guys for taking the question, and very nice quarter. A question for Aneel and related to Chano, congratulations on the new role. Aneel, with Chano now becoming Co-CEO, do you imagine your role changing at all? And how do you guys think about kind of the binding of the responsibilities between the two of you? Are you going to move into something that's like more strategic and Chano is going to be working on sort of the day-to-day operations or like how do you guys foresee that working with the two of you as Co-CEOs now?
+
+Aneel Bhusri -- Co-Founder and Co-Chief Executive Officer
+
+Well, Chano is taking on all of customer services and a lot of marketing too, and that's half the company. And for me, I'm more of a product person and strategy person. And I personally would like to get back to working with our product teams and our venture teams, our strategy teams on where we go in the future. And then it's super important that we maintain the great culture that we have. And so working with employees is critical too.
+
+So much like it was with me and Dave, two like-minded people are better than one in the CEO job. And it was my best experience at Workday when Dave and I were Co-CEOs. So I'm thrilled to be able to share the well with Chano. And he is a much stronger operational leader than I am. And so he is going to take over the things that are -- that he's really great at. And over time, we'll figure it out. We're great friends, and we'll figure out the right mix over time. I would like to -- yeah, go ahead.
+
+Keith Weiss -- Morgan Stanley -- Analyst
+
+No, you go first.
+
+Aneel Bhusri -- Co-Founder and Co-Chief Executive Officer
+
+No, no. I was going to -- I would like Chano to comment on that too.
+
+Chano Fernandez -- Co-Chief Executive Officer
+
+I'm very excited about the opportunity clearly, and I'm really thankful, as I said, to Aneel and Dave and the rest of the board. I think we are quite complementary and we get together along very well, and we have good point of views on kind of each and others' areas. But certainly, really, really excited to be contributing as much as I can on go-to market, customer relationship as a whole from the acquisition to customer success to services and clearly to support and driving the company going forward with the support of Robynne and the rest of the executive committee team. So I think it's a good breakout, the one we have right now. Quite clean cut, to be honest, but allow us potentially to play to the strengths that we both of us have. So it's great.
+
+Keith Weiss -- Morgan Stanley -- Analyst
+
+That sounds great. And if I could sneak one last one in. Chano, you mentioned you're encouraged by the strength that you're seeing in the new products, and you talked about Workday Extend. It seems like a pretty exciting solutions set and that it can really expand the TAM pretty greatly for Workday. Can you talk to us a little bit about some of the initial use cases and kind of workflows that you're seeing people put on the Extend platform?
+
+Chano Fernandez -- Co-Chief Executive Officer
+
+I'm going to hand over that one to Pete Schlampp from the product, because I think he is in a much better place to answer that one. Pete?
+
+Pete Schlampp -- Executive Vice President, Product Development
+
+Yeah. Thanks for the question. So first thing I would remind you is that Extend is more than a revenue opportunity for us. It's an opportunity for us to find ways to become more efficient in our R&D, because as we provide these tools to our customers, they are able to extend Workday in the ways that they need in their unique situations instead of us having to actually go and build product for them. So that's great.
+
+Now that said, we've -- this quarter, we've seen some great wins, some great early wins with Extend and pipeline is looking great as well. We've been -- we're seeing lots of use cases. I think we have about 100 different applications live today. One of them that just went live this quarter was a company that had built a self-assessment capability inside of Extend so employees could self-assess as they were getting ready to return to work and determine whether they were ready. So Extend is about any type of use case just extending the surface area of Workday.
+
+Keith Weiss -- Morgan Stanley -- Analyst
+
+Excellent. Thank you, guys.
+
+Operator
+
+Thank you. Our next question is coming from the line of Heather Bellini with Goldman Sachs. Please proceed with your question.
+
+Heather Bellini -- Goldman Sachs -- Analyst
+
+Great. Thank you so much for taking the question. And again, Chano, congrats on the promotion. Just -- I had a question, and I don't know Aneel or Robynne if this is best for you. But just related to the pace of business throughout the quarter. You guys obviously had very good results, you gave rightly so conservative guidance for the quarter. But can you talk about kind of how the pace of business evolved over the course of the quarter, if you could share with us? And I just have a quick follow-up. Thank you.
+
+Aneel Bhusri -- Co-Founder and Co-Chief Executive Officer
+
+Robynne?
+
+Robynne Sisco -- President and Chief Financial Officer
+
+Yeah. So we actually, Heather, had really good linearity this quarter. So on our earnings call last time, Chano had mentioned that he was starting to see more sales activity in May than we had seen in April. And we saw continued execution throughout the quarter, strong linearity, which added to our top-line beat, and good close rates, really strong close rates. And so Chano, anything you would add to that in terms of what you were saying?
+
+Chano Fernandez -- Co-Chief Executive Officer
+
+No, I think it was a solid performance throughout the quarter. The big part of course how was the quarter closed out as a whole. It's hard to draw a completely straight line, Heather, and say that every month was better linearity. But clearly, the broader observation is that the environment has improved since March and April, as we commented and has kept improving since then, right? But as I said before, the market remains fluid and uncertain in the near-term, which is also as well reflected on our outlook, right? And again the biggest impact we still see in the verticals that has been hardest hit.
+
+Heather Bellini -- Goldman Sachs -- Analyst
+
+Right, right. Thank you. And then, Aneel, just to follow-up on your introductory comments. Do you think that what we're going through and just the desire to have more modern systems, do you think this will actually accelerate people's desire to move financials to the cloud? I know that's been a market that's taken probably longer than people thought to really make a wholesale shift. Is this kind of an accelerant of that trend, do you think, based on what you're hearing?
+
+Aneel Bhusri -- Co-Founder and Co-Chief Executive Officer
+
+I definitely think it is. The need for agility, flexibility is so critical in today's world. And maybe if you're running your business the last couple of years and there weren't many extra factors, your core accounting system was probably fine. But I actually think the bigger driver for us is the broadening [Technical Issue] Four years, five years ago, we would go in with our core accounting message and if the customer wasn't ready to replace core accounting, we didn't have anything else to talk to him about. Today, we can start with planning. We can have the conversation about core accounting. We can talk about Scout. We can talk about Prism Analytics.
+
+We now have the end-to-end suite that took a number of years for legacy vendors to build on-premise and now we have it in the cloud. Three years, four years ago, we just didn't -- we didn't have that scope or that breadth, and today we do. And I think that's a big part of why people are moving in it. They don't want to just move their core accounting system, they want to look at procurement, they want to look at planning, they want to look at analytics, and then increasingly now for a certain set of industries, the Workday Accounting Center. So when you add that all together, we now have a basket of products that meets the needs to pretty much everybody and they can move forward with the comfort that we can cover their full needs not just one part of their needs. I really do think that's the bigger driver.
+
+Heather Bellini -- Goldman Sachs -- Analyst
+
+Great. Thank you.
+
+Operator
+
+Thank you. Our next question is coming from the line of Alex Zukin with RBC Capital Markets. Please proceed with your question.
+
+Alex Zukin -- RBC Capital Markets -- Analyst
+
+Hey guys. Thanks for taking my question. Congratulations on the quarter, and Chano, really thrilled for you as well. So maybe, Aneel, one of the interesting things, and you touched on it, I think in answering Kirk's question, but I want to dig a little deeper. One of the interesting things we've picked up recently in our field work is this increasing shift of power back to the HR executive and department to your point as more executives are getting concerned about employee engagement, talent management, mental health, diversity, inclusion in this new kind of remote world. And I guess the question is, what are you seeing from this -- are you seeing this in the field actually starting to impact sales cycles, pipelines, conversation? And does this impact a secular growth trajectory of the HCM business as we kind of come out of this crisis or longer term?
+
+Aneel Bhusri -- Co-Founder and Co-Chief Executive Officer
+
+In terms of the secular growth, that's a hard one to predict. But I would say that [Technical Issue] but I've never had so many CEO conversations on the HCM product line. And I think the issue of employee health, mental health, physical health, how are they doing working remotely, how are they working on new projects. This new world of skills and a different world around talent [Technical Issue] become a number one priority for the CEOs. So that is definitely elevating the [Technical Issue] position within the company.
+
+Alex Zukin -- RBC Capital Markets -- Analyst
+
+And then maybe just one for Robynne. Can you talk about that $6 million accelerated payment term? And also any -- just FX impacts on kind of the guidance, headwinds or tailwinds?
+
+Robynne Sisco -- President and Chief Financial Officer
+
+Yeah, sure. So the $6 million was the result of a Workday customer who was acquired by a non-Workday customer. And therefore, they wanted to terminate their contract. So they prepaid the remaining balance of the contract, which should have gone several more years. And that caused an acceleration of the rest of the revenue across the contract, so a one-time event on that front. And I'm sorry, Alex, what was the second part of your question?
+
+Alex Zukin -- RBC Capital Markets -- Analyst
+
+Just related to FX in terms of the tailwinds or the headwinds with respect to the guide.
+
+Robynne Sisco -- President and Chief Financial Officer
+
+Yeah. Really no FX impact to call out.
+
+Alex Zukin -- RBC Capital Markets -- Analyst
+
+Perfect. Thank you, guys, and congrats again.
+
+Operator
+
+We will now take two more questions. Our next question is coming from the line of Matt Pfau with William Blair. Please proceed with your question.
+
+Matthew Pfau -- William Blair -- Analyst
+
+Hey, congrats on the quarter, guys, and thanks for taking my question. Wanted to ask on Workday Launch and the expansion of the solution to large enterprises. And maybe, first of all, is this a response to perhaps a demand for faster time-to-value solutions driven by COVID or is this something that was sort of always in the works pre-COVID? And then what's the scope of this in terms of the type of large enterprises that could potentially use Workday Launch to get up and running? Thanks.
+
+Aneel Bhusri -- Co-Founder and Co-Chief Executive Officer
+
+Chano?
+
+Chano Fernandez -- Co-Chief Executive Officer
+
+Yeah. Thanks for your question, Matt. I mean, it was always kind of on the works once the Launch was more proving in the medium enterprise across the board. And clearly that offering was basically resulting in good outcomes in terms of both time-to-value and predictability of cost. So the idea was always to expand a bit more out there in the upper and large enterprise. I know we're more on the lower end of large enterprise. The initial customers that you could say something between the 4,000 to the 7,000 to 8,000 employees kind of what we are implementing it. It can be a across all verticals once you have basically the participation of the full offering. And again, we provide both mainly time-to-value and predictability of cost, sometimes on a fixed fee basis.
+
+Matthew Pfau -- William Blair -- Analyst
+
+And does it do anything to your market opportunity in terms of potentially accelerating adoption or reaching customers that you couldn't reach previously?
+
+Chano Fernandez -- Co-Chief Executive Officer
+
+It definitely helps those customers that are looking for more proactive and predictive offering that will impact faster, quicker ROI, quicker time-to-value and also those customers that are looking for a fixed cost, sometimes in terms of the offering of the implementation that have no surprises. So definitely it can be an accelerator on some of those markets we're applying it.
+
+Matthew Pfau -- William Blair -- Analyst
+
+Great. Thanks, guys. I appreciate it.
+
+Operator
+
+Thank you. Our next question is coming from the line of Scott Berg with Needham & Company. Please proceed with your question.
+
+Ryan MacDonald -- Needham & Company -- Analyst
+
+Hi. This is Ryan MacDonald on for Scott Berg. Thanks for taking our questions, and congrats on a great quarter. Could you provide a little more color on Adaptive sales and the continued traction you see there compared maybe to both strong results you saw in Q1 and then also how pipeline is looking into the back half of the year for that?
+
+Aneel Bhusri -- Co-Founder and Co-Chief Executive Officer
+
+Tom, do you want...
+
+Tom Bogan -- Vice Chairman
+
+Yeah, sure. Thanks for the question, Ryan. So we continue to make excellent progress with Adaptive. And I'd characterize it as, first, a lot of strength selling workforce planning into the Workday, the broader Workday HCM customer base. I think that's an area that our teams have seen a lot of success. This environment really increases the importance and the criticality of doing effective workforce planning for many organizations, whether it'd be location, headcount planning, skills planning, training, diversity. I think those are all aspects that are important to our customers. But we've also seen significant increase and interest in getting modern financial planning systems for organizations that I think we talked last time about the customer activity running multiple scenarios because of COVID, perhaps not at the same levels, but that continues as customers think about their business and run covenantors [Phonetic] that are essential to understand what their businesses are doing going forward. So we've seen a strong customer demand. As Aneel said, Adaptive and Scout both have rapid time-to-value, and that's important in this environment.
+
+Ryan MacDonald -- Needham & Company -- Analyst
+
+Excellent. And then just as a follow-up for Robynne. Robynne, just wondering if you've seen request for flexible payment or billing terms from customers persist throughout second quarter and I guess into early third quarter here at all?
+
+Robynne Sisco -- President and Chief Financial Officer
+
+Yeah. So we continue to see those requests. We got an initial wave when COVID first hit, as you can imagine, but we do continue to see requests from customers. Some new customers, we see some requests upon renewals. We continue to evaluate those on a case-by-case basis and to give relief where it makes sense to our hardest hit customers. And I do expect that that will likely continue through the rest of this year.
+
+Matthew Pfau -- William Blair -- Analyst
+
+Excellent. Thank you.

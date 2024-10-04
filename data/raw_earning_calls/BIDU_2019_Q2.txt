@@ -1,0 +1,350 @@
+Operator
+
+Hello, and thank you for standing by for Baidu's Second Quarter 2019 Earnings Conference Call. At this time, all participants are in a listen-only mode. After management's prepared remarks, there will be a question-and-answer session. Today's conference is being recorded. If you have any objections, you may disconnect at this time.
+
+I would now like to turn the meeting over to your host for today's conference, Sharon Ng, Baidu's Director of Investor Relations. You may go ahead.
+
+Sharon Ng -- Director, Investor Relations
+
+Thank you, operator. Hello, everyone, and welcome to Baidu's Second Quarter 2019 Earnings Conference Call. Baidu's earnings release was distributed earlier today and you can find a copy on our website as well as on Newswire services. On the call today we have Robin Li, our Chief Executive Officer; Herman Yu, our Chief Financial Officer; and Dou Shen, our Senior Vice President in charge of Baidu's Mobile Ecosystem Group, our search and feed business.
+
+After our prepared remarks, we will hold a Q&A session. Please note that the discussion today will contain forward-looking statements made under the Safe Harbor provisions of the US Private Securities Litigation Reform Act of 1995. Forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from our current expectations. Potential risks and uncertainties include but are not limited to those outlined in our public filings with the SEC, including our Annual Report on Form 20-F. Baidu does not undertake any obligation to update any forward-looking statement except as required under applicable law.
+
+Earnings press release and this call include discussions of certain unaudited non-GAAP financial measures. We have made minor adjustments to our non-GAAP measures and retroactive apply these changes for comparison purposes. Our press release contains a reconciliation of the unaudited non-GAAP measures to the unaudited most directly comparable GAAP measures and is available on our IR website at ir.baidu.com.
+
+As a reminder, this conference is recorded. In addition, a webcast of this conference call will be available on the Baidu IR website. I will now turn the call over to our CEO, Robin.
+
+Robin Li -- Chairman and Chief Executive Officer
+
+Hello, everybody, and thank you for joining our call today. Baidu's second quarter revenues reached RMB26.3 billion, above our guidance midpoint of RMB25.8 billion, which can be attributed to Baidu Core performing better than our original expectation. Baidu's Q2 revenues grew 9% sequentially and Baidu Core revenues grew 12% quarter-over-quarter, in spite of the impact from industry specific policies, self-directed healthcare initiative and slowing macro environment.
+
+Even with the significant influx of ad inventory into the market, we are seeing an upward trend for Baidu's revenues on a sequential basis. Our monetization foundation is strengthening with strong traffic growth such as Baidu App DAU, in app search query and feed time spend, and strong growth of content and services on Baidu's platform. As our mobile ecosystem expands, we are able to better understand user behavior as user is navigating the landing pages on Baidu's platform. Over time, the deepening user insight will allow us to further improve Baidu's user experience and app conversion for our marketing customers.
+
+On today's call, I will share recent developments on our search and feed business and highlight the progress that we have made on our AI business. In early July, we held our Annual AI developer conference, Baidu Create, in Beijing, which drew approximately 7,000 developers and partners from around the world and was concurrently broadcasted from the internet. We released the Baidu Brain version 5.0, which includes industrial applications of Baidu AI technology. Baidu Brain is the common AI engine that powers all of our businesses, from search and feed to DuerOS, Apollo, Cloud and iQIYI. Developers can access the AI capabilities of Baidu Brain through Baidu AI open platform, which saw developer accounts reaching 1.3 million in June, up 37% in the first half of this year.
+
+Enabling a large developer community is important in the world of AI computing at our Baidu Cloud ecosystem and capabilities. At Baidu Create, we are -- we also expanded our strategic alliance with top industry players, including Geely Auto, Huawei and Intel.
+
+Let's begin our operational review with MEG, our Mobile Ecosystem Group. In June, average DAUs on Baidu app continued to see robust growth reaching 188 million, up 27% year-over-year, contributed by the synergy generated when search is combine with feed. Search and feed provide Baidu two strong traffic engines, Baidu's Search is an indispensable means by which people find more objective and reliable information and our feed is powered by Baidu's AI algorithms formulated with Baidu's unmatched intent driven user insight.
+
+Our relentless focus on strengthening Baidu's mobile ecosystem by enabling newsfeed and short videos searchable through Baijiahao account, and information and services found in third-party apps searchable through Baidu Smart Mini Program, is driving more usage scenarios for Baidu app. In June, user time spent on feed grew 37% -- 33% year-over-year and in app search queries grew over 20% year-over-year. In addition to Baidu app, total time spent on our feed and short video apps together grew robustly up 67% year-over-year in June.
+
+Baidu is the premier go-to destination in China to find knowledge-based content and long-tail information. To supplement information on third-party sites, we have spent years developing an expensive knowledge base to content ecosystem such as Baidu Encyclopedia, Baidu Post Bar and Baidu Knows to make useful sought-after knowledge readily accessible.
+
+As we focus on strengthening Baidu's mobile ecosystem, Chinese users are becoming more dependent on Baidu for knowledge content. For example, in June, daily time spent per user on Baidu Knows in Baidu app grew 55% sequentially. Daily video views of Baidu Encyclopedia grew 80% year-over-year and membership and service revenue for Baidu WenKu grew 61% year-over-year.
+
+Baidu's mobile ecosystem is drawing newsfeed and short video content creators to Baijiahao accounts, which saw publisher account reaching 2.2 million in June, up 83% year-over-year. App developers are also making their services and information available through Baidu Smart Mini Program, which saw MAUs accelerate to 217 million in June, up 49% sequentially and the number of Smart Mini Programs increased more than six-fold in the last three months.
+
+Baidu Smart Mini Program offers our users richer content and services selection and provides traffic to app developers without requiring users to download their apps. This native app like model improves user experience and will ultimately improve ad conversion and expand the monetization potential of Baidu's marketing services platform. Baidu Smart Mini Program is attracting well known apps such as Weibo, Meituan and JD, as well as services with lower frequency usage. On the latter, for example, the Shanghai Auto Show is held every 2 years in China. This past April, the event host created a mini program on Baidu and WeChat and leveraged other online sites to promote their event. In one month's time, the Shanghai Auto Show attracted 3 million users to its Baidu's Smart Mini Program, which offered indoor event navigation, ticket purchase by electronic event pass. In the end, Baidu was Shanghai Auto Shows largest third-party channel for ticket sales.
+
+Whereas the other mini programs allow users to search the titles off mini program, Baidu's Smart Mini Program allow our users to search the massive content within those Mini Programs, to locate the most relevant information and services. Similarly, our top-line capabilities, which recently satisfied 51% of the queries, allow users to search the massive content on the internet and satisfy users' intent with Baidu's first recommendation. From the developer point of view, Baidu Smart Mini Program help service providers attract higher quality users with Baidu's intent focused user base.
+
+Consistent with Baidu's search and feed philosophy, we offer an open ecosystem that embraces and promotes a wide array of Smart Mini Program developers, which provide more options to our users. For example, long-form video apps who have joined Baidu's Smart Mini Program include Youku, iQIYI, PPTV and China Mobile's Migu video, as well as traditional media such as Guangdong Satellite TV.
+
+Baidu Manage Page is another area that we are strengthening our mobile content ecosystem, and it's one of the options by which we are enabling industry-specific merchants to more effectively reach and engage with users. In lieu of HTML 5 sites, industry specific content -- industry specific merchants can provide their information on Baidu managed page which is open and freely accessible by other traffic sources. Since the merchants' content resides on Baidu's platform, we are better equipped to ensure greater reliability and trustworthiness on the information offered by the merchants.
+
+Structured data for healthcare industry is a form of managed page. In March, we required our healthcare marketing services customers to switch over from their H5 page to Baidu managed page for the landing pages of their mobile ads, and in July we extended the requirement to healthcare PC ads. Baidu managed page for the healthcare industry allow us to monitor the healthcare provider's Information and communication with users while enabling our managed page platform to continuously add new functionality. For example, live chat and call features with the healthcare provider, incognito caller ID to protect user information and consumer protection program for added consumer comfort.
+
+We are seeing significant improvement in user experience with managed page and search queries on healthcare are growing faster than before. The increase in traffic, improvement in healthcare content quality and added functionality are generating meaningful lifts in customer leads for healthcare providers on managed page. While our self-directed healthcare initiative has dragged down our recent revenue growth and optic-wise make it that much more difficult to implement in the current macro environment as the lower quality healthcare providers are going elsewhere. We believe improving user experience, better management of healthcare information and lead conversion for our healthcare customers will generate greater value for Baidu over time.
+
+Aside from healthcare, we are adopting managed page for home services such as moving companies and home repair. And in July, we began to offer attorneys, which as a collective body, has fragmented online presence, and an easy way to promote their businesses in a card format in Baidu's search results. From the card search result, users can access an attorneys educational background, legal credentials and legal cases handled, as well as social features such as user commentaries and ratings. Managed page gave us the opportunity to build industry specific solutions to empower SMEs and allow them to better leverage web traffic and engage with users without having to maintain an IT department and keep pace with internet infrastructure and technology.
+
+SMEs can simply run a business using Baidu's managed page and we will continue to add tools, services and features to Baidu's platform over time to improve their user engagement and lead conversion. Extending managed page into new industries should further expand Baidu's revenue growth opportunity. Looking forward, we are excited about MEG's market position and monetization opportunities, with traffic growing robustly, our mobile content ecosystem expanding and different monetization plans in the works, including the recent launch of Baidu CRM in July, especially when we step up -- we step out of the weak macro environment.
+
+Moving to DuerOS. In the second quarter, DuerOS voice assistant continues to gain momentum through the use of Baidu's leading technologies in speech, natural language processing and search. DuerOS installed base surpassed 400 million, up 4.5 fold year-over-year, and monthly voice queries surpassed 3.6 billion, up 7.5 fold year-over-year in June. DuerOS first-party smart devices is experiencing strong sales momentum. Market research firms, Canalys and Strategy Analytics ranked Baidu as the Xiaodu Smart Speaker number one in shipment in China for the first quarter, which is quite an incredible achievement considering Baidu launched Xiaodu smart devices only last year and compared to our peers who have online distribution and hardware management strategic advantages.
+
+Xiaodu Smart Display, with average selling price of approximately $50 per unit is becoming a sweet spot for us as it penetrates not only first and second-tier cities but also lower-tier cities in China, becoming an important computing device for affordable internet connectivity. Average time spent of smart display has reached about 2 hours a day and sales volume of smart speaker in China is forecasted to reach over 35 million units this year, similar to the expected decline in smartphone unit sales in China, making AI-powered smart speakers and indispensable internet channel for content and service providers, especially with mobile internet user and time spent growing -- slowing in China.
+
+The rise of smart speaker seems to mirror the rise of smart speaker -- smartphones a decade ago when smartphones took over feature phones with the advent of iOS and Android app stores. This lift-- this shift was spurred by the change in input modality and the superior experience of mobile apps. Far-field conversational AI is making it easier for users to interact with smart speakers. Xiaodu stands out from the competition with leading speech recognition and natural language processing capabilities. For example, recently added full-duplex continued conversation feature enables continuous dialog with Xiaodu Smart Devices without wake words, while Xiaodu intelligently distinguishes between voice queries directed at Xiaodu versus dialogs directed at humans.
+
+In July, we announced the development of Baidu Honghu, an energy-efficient AI chip set to power voice interaction in homes and autos to further improve Xiaodu's conversational AI capabilities while driving down unit economics. We are gradually seeing time spent on skills surpassing time spent on music and videos on smart speakers. This is quite exciting with the number of skills on DuerOS deal store doubling sequentially to over 2,400 and DuerOS developer community growing to above 33,000. Seven car models were recently released with DuerOS powered infotainment and 30 car models are in the pipeline scheduled to be released with DuerOS pre-installed.
+
+Turning to Apollo, we are excited that Apollo continues to be the leading autonomous driving solution in China with over 150 leading OEM Tier 1 supplier, key component and other partners. In June, Apollo's test fleet of over 300 vehicles accumulated more than 2 million test kilometers across 13 cities. As of July, Baidu has received almost half of the 204 autonomous driving pilots licenses granted in China and Baidu became the only company in China to receive T4 licenses, the highest level of autonomous driving test license issued by Beijing Municipal Commission of Transport which permits autonomous vehicles to operate in complex driving conditions, including urban roads, tunnels, school zone and other scenarios.
+
+Also in July, First Automotive Works announced commercial production of level 4 autonomous passenger vehicles to support Apollo powered robotaxi pilot program, which is scheduled to be deployed in Changsha, the capital city of Hunan province, along Baidu's V2X solutions later this year.
+
+Turning to Baidu Cloud. We continue to see momentum of our cloud business with revenues reaching RMB1.6 billion in second quarter, up 92% year-over-year. Baidu Cloud leverages AI capabilities of Baidu Brain to enable enterprises a better way to do business. For example, Baidu Cloud worked with a hardware manufacturer to integrate Baidu AI capabilities into their screening solution that helps smartphone component OEMs automate the quality assurance process, achieving fastest throughput while reducing overhead costs.
+
+Baidu AI powered hardware and software integrated solution can take a snapshot of a finished smartphone component from 18 angles simultaneously and determine whether the component satisfies the designated QA criteria of the OEM customer. Unlike human screening, Baidu AI powered QA screening allows OEM customer to access the data of screening results for an added comfort of quality compliance. We are excited about the opportunities of Baidu's computer vision capabilities to help Baidu Cloud enterprise customer in sectors like consumer electronics, metal, auto, to improve their business.
+
+Turning to iQIYI. iQIYI continues to see solid subscriber growth with membership reaching 100.5 million in June. That's up 50% year-over-year, which provides a strong foundation for iQIYI to offer blockbuster original entertainment content. Long-form video content from iQIYI enrich Baidu's search and feed offering and improve Baidu's user experience.
+
+With that, let me turn the call over to Herman to go through our financial highlights.
+
+Herman Yu -- Chief Financial Officer
+
+Thanks, Robin. Hello, everyone. Welcome to Baidu's second quarter 2019 call. All monetary amounts that we'll be discussing are used in renminbi unless stated otherwise. Let's now turn to Baidu's second quarter 2019 financial highlights. Total revenues reached RMB26.3 billion, up 6% year-over-year excluding spin-off revenues, and up 9% quarter-over-quarter. Revenue for Baidu Core was RMB19.5 billion, up 3% year-over-year excluding spin-off revenues and up 12% quarter-over-quarter.
+
+Let me give you more color on Baidu Core revenues. Baidu's marketing services revenue is well diversified with the top 12 industry sectors making up two-third of Baidu Core revenues. Half of the 12 sectors saw year-over-year sales decline, including healthcare, online gaming, financial services and auto logistics. Excluding these poor performing sectors, Baidu Core revenues would have grown in the mid-teens year-over-year in the second quarter.
+
+Although the increase in ad inventory in the market has impacted the overall growth rate of our marketing services, it's fair to say that a bigger part of our revenue slowdown can be attributed to industry-specific policies, self-directed healthcare initiative and the softening of macro-economic conditions. Additionally, revenue derived from Baidu's union partners contributed to a 3% drag on Baidu Core's year-over-year revenue growth, which is in sync with our goal to optimize profit on past revenues versus bidding for incremental revenue and negative margins.
+
+Total marketing services customers in the second quarter was approximately 330,000, down 4% year-over-year and up 5% quarter-over-quarter. Please note that this customer number excludes Nuomi customers than other calculation policy adjustments that we have made internally, such as excluding customers with minimal daily spending.
+
+Our new AI businesses continue to see flat growth -- I'm sorry, our new AI businesses continue to see fast growth, particularly Baidu Cloud which generated RMB1.6 billion revenues in Q2, up 92% year-over-year. iQIYI revenue reached RMB7.1 billion, up 15% year-over-year. Membership revenue continue to see strong growth, up 38% year-over-year, while iQIYI's ad business was down 16% year-over-year, mainly due to slowing macro, delay of top content launches and slower than expected recovery of feed advertising.
+
+Turning to cost of sales. Excluding stock compensation and intangible asset amortization, cost of sales was RMB15.9 billion, up 33% year-over-year. Content bandwidth and other cost of revenues increased to support Baidu's traffic growth, greater video consumption and new AI businesses, including bandwidth integration expenses for Baidu Cloud, cost of goods sold related to Xiaodu smart speakers. TAC increased 27% year-over-year as a result of higher TAC revenue share and expansion into offline connected screen and other areas.
+
+SG&A expenses excluding stock compensation were RMB4.7 billion, up 13% year-over-year, primarily due to the increase in channel and promotional marketing, mainly for Baidu's family of apps. On a sequential basis, SG&A expenses were down 14% as we scaled back on marketing spending that did not meet our stringent ROI criteria. This has hampered the sequential growth of our apps, including Haokan short video and Quanmin flash video. We plan to continue to manage our marketing dollars with a strong, disciplined ROI approach. R&D expenses excluding stock compensation were RMB3.7 billion, up 13% year-over-year, primarily due to increased personnel related expenses and up 5% on a sequential basis.
+
+Non-GAAP operating income was RMB2 billion and non-GAAP operating margin was 7% compared to 2% last quarters. Non-GAAP operating income for Baidu Core was RMB3.5 billion or $508 million, down 55% year-over-year and up 65% quarter-over-quarter. On a non-GAAP basis, total expenditure for Baidu Core were approximately RMB700 million increase sequentially, less than the RMB1 billion that we had planned at the beginning of the year.
+
+Since our last earnings call, we have been reviewing our businesses for operational efficiency, have made -- and have made significant progress in implementing spending discipline, while making investments in future revenue growth in our 3-year plan. Non-GAAP operating margin for Baidu Core was 18% in the second quarter compared to 12% last quarter. We expect Baidu Core's incremental revenue growth to have higher margin and non-GAAP operating margin to rise above 20% in the third quarter. At the internet platform, a big part of Baidu's Core cost structure is fixed such as approximately 2,000 scientific engineers for Baidu's AI lab and our large server network and other infrastructure equipment. Thus, sequential growth of our revenues will likely bring about higher margins.
+
+Total other income was RMB1.2 billion, which included an equity method income of RMB429 million compared to an equity method loss of RMB860 million last quarter. Income tax was RMB416 million and the effective tax rate was 28% compared to 18% in Q2 last year, primarily due to the lower pre-tax income generated from Baidu Core and to iQIYI not being able to recognize tax benefit from its losses in the current period.
+
+Non-GAAP net income attributed to Baidu was RMB3.6 billion and non-GAAP net margin was 14%. Non-GAAP net income attributed to Baidu Core was RMB4.7 billion or $690 million, down 46% year-over-year and up 160% quarter-over-quarter. Non-GAAP net margin for Baidu Core was 24% compared to 10% last quarter.
+
+Adjusted EBITDA was RMB3.4 billion or $489 million. Adjusted EBITDA margin was 13%. Adjusted EBITDA for Baidu Core was RMB4.8 billion or $694 million. And adjusted EBITDA margin for Baidu Core reached 24% in the second quarter compared to 19% last quarter. As of June 2019, cash and short-term investments was RMB137.3 billion or $20 billion. Excluding iQIYI, cash and short-term investments for Baidu Core was RMB120.9 billion or $17.6 billion. Free cash flow was RMB5.6 billion and free cash flow for Baidu Core was RMB4.9 billion or $710 million. Total employees of Baidu Core was approximately 29,900.
+
+Turning to third quarter guidance, we expect total revenues to be between RMB26.9 billion and RMB28.5 billion, representing a decrease of 5% to an increase of 1% year-over-year, or a decrease of 1% to 5% increase year-over-year excluding spin-off revenues of RMB1 billion for the third quarter 2019. In this it also means it's an increase of 2% to 8% on a quarter-over-quarter basis. Excluding spin-off revenues, our guidance assumes Baidu Core will grow between negative 3% to positive 3% year-over-year and between 2% to 9% quarter-over-quarter. These forecasts are current and preliminary view and are subject to change.
+
+Before I turn the call over to the operator, let me summarize Baidu's second quarter. We've made solid progress with our search and feed businesses. Traffic growth remains robust for Baidu App DAUs, with double-digit growth in in-app searches and continued robust growth on feed time spend. User experience is significantly upgraded with content and services providers offering native apps-like experience on Baidu's mobile platform.
+
+Our emphasis on improving search and feed monetization is in progress. We witnessed double-digit sequential revenue growth in the second quarter and expect further sequential growth into the third quarter. Our focus to diversify away from TAC traffic and grow search revenues to in-app search and feed is proving to be a dominant search model as in-app services allow us to gain more user insight across vast domain of knowledge, content and services, and continuously improve our user engagement for both Baidu and our marketing services customers.
+
+We are making meaningful strides in the area of voice assistant, cloud and smart transportation, which will be critical revenue drivers as we look out one years to three years. On the content management side, we will be diligent on reining in our expenditures with disciplined ROI implementation, while balancing the need for near-term and long-term revenue growth. iQIYI is weathering the challenging macro environment with strong membership growth and the diversification of its revenue stream.
+
+Operator, with that let's now open the call to questions.
+
+Questions and Answers:
+Operator
+
+[Operator Instructions]. Your first question comes from the line of Gregory Zhao from Barclays. You may ask your question.
+
+Gregory Zhao -- Barclays -- Analyst
+
+Hi, management, thanks for taking my question. So if we exclude iQIYI, so we can say Baidu's SG&A and also the content cost growth had some substantial slowdown during the quarter. So it's a very big contrast to your investment during the Chinese New Year around Q1. So just want to understand your marketing and promotional strategy for your product portfolio, like the short video and also your -- the mobile Baidu app, and also the content cost to trend in the rest of the year? Thank you.
+
+Herman Yu -- Chief Financial Officer
+
+Thanks, Greg, for the question. As I -- as we mentioned on the prepared remarks, our SG&A, mainly marketing expenses are very ROI driven. So when we are spending the -- channel costs and other marketing programs, we're looking at the lifetime value that we can get from our users. So when the economy is good and we think that we can generate more revenues compared to the costs that we'll accumulate, then we'll spend more money. Because we're transitioning from a TAC model to an in-app services model, TAC you get revenue in the quarter that we expense, but in the channel costs and the marketing programs, in-app services, which we expensed in that one quarter and we might be deriving revenue from the user many, many quarters after that, there's a lag. But even with that, we are very disciplined in calculating ROI.
+
+So you see us spending more, last year spending was -- spending more in Q1 when we see higher ROI. With the current the macro condition and some of the issues that we talked about in prepared remarks, the ROI has come down and as a result we've been very diligent in screening out the marketing costs that has a low ROI. And we'll be looking at that continuously very closely as we move forward for the remainder of the year.
+
+With regards to content cost, I think it's been growing on a year-over-year basis, but recognize that Baidu Core, the content cost is not that significant. For example, in the second half -- in second quarter, we're talking about maybe RMB0.5 billion per quarter. So although the increase is significant on a percentage basis, but the total cost we're talking about is RMB0.5 billion. So when we're increasing -- even if the base is very small. I don't think it's significant compared to our overall expenditures.
+
+Gregory Zhao -- Barclays -- Analyst
+
+Thank you.
+
+Operator
+
+Your next question comes from the line of Alicia Yap from Citigroup. Your line is open.
+
+Alicia Yap -- Citigroup -- Analyst
+
+Hi, thank you. Good morning, Robin, Herman and Sharon. Thanks for taking my questions. My questions is related to the Mini programs. So with increasing applications and services tapping into Baidu Mini Program ecosystem, and I think management also commented some positive developments on the progress and traction earlier. So how should we think about the tractions of these Mini programs to translate into the monetization upside over time? And then, any update on the upcoming rollout of the CRM initiative? Thank you.
+
+Robin Li -- Chairman and Chief Executive Officer
+
+Alicia, I'll have Shen Dou answer your question.
+
+Dou Shen -- Senior Vice President
+
+Okay, thanks for your question actually. As you said, Mini Program has attracted much attention from the developers. We see the benefit of the Smart Mini Programs already, like for the users the better Smart Mini Programs offers them richer content and service selection. And then for the developers, the Smart Mini Programs use our AI powered algorithms to screen the massive content of the Smart Mini Programs and recommend the relevant content and service to the users based on their proactive search for information and service. So this Smart Mini Program already helps the developers to acquire users, in turn to enhance better user experience for the Baidu's -- on the Baidu's platform.
+
+So actually, as you may already have seen, Baidu Smart Mini Program has attracted some well-known apps like Weibo, Meituan, Jingdong as well as the services with lower frequency of usage, like the Shanghai Auto Show. So that's said, we also have our customers from different sectors -- industry sectors. They have tried the Smart Mini Programs as their landing page for their campaigns. So we see pretty significant ROI lift for all those who tried this Smart Mini Programs. So actually, the Smart Mini Programs also offered the -- our customers and the developers much more options to engage the users in their service. So with that, the ROI will be further improved. So, that is how we're going to see Mini Programs -- how Mini Programs is going to help first to strengthen our monetization capabilities.
+
+As to the CRM, actually it's just a start. And because we got the -- most of our customers, they have the leads generated from Baidu's platform. So combined with the CRM, we have more ways to help the customers to engage with their users better and to explore the leads in a better way, to improve the effectiveness and also clearly improve the ROI. So that's why we are using the CRM to help the campaigns on our platform first and then the next level we're going to provide more valuable features to the customers to further explore the utilities of the CRM.
+
+Alicia Yap -- Citigroup -- Analyst
+
+Thank you.
+
+Herman Yu -- Chief Financial Officer
+
+Let me add a few points, Alicia. For the Smart Mini Programs, I think from a service provider there's couple of points that are key for them. First is, as the number of smartphones in -- China sales is declining, and we saw that last year, we saw that first half of this year. It's more -- it costs more and more to actually leverage our app stores in order to have installation of their apps.
+
+The economics of Smart Mini Program is much better than app stores because in the app stores you have to spend the channel cost and you're not sure if you're going to get the ROI, whereas Mini programs because we're in the business of search, these are natural results to be in search. So rather than shifting this and directing the traffic over to your apps, you have to first pay-per-channel app. Secondly, there's usually more steps, for example, to convert a sale from our Mini programs to within an app versus if you're native on Baidu's platform and work directly to that buy page on the Mini program.
+
+So I think, first of all, you're able to see that result right away, you don't need users to download the app. And secondly, I think what -- the cases that Dou have explained would help drive up conversion. So obviously, with better conversion marketing customers are usually focused on better conversion, looking at ROI. So with better conversion, you'll have, we believe, over time more people bidding for the -- more people developing Smart Mini Program, so that when they have their search results, they have better conversion.
+
+I think from a user perspective, you probably have users over time rely more and more on searching within Baidu because of that native app experience directly with the Mini programs.
+
+Alicia Yap -- Citigroup -- Analyst
+
+Thank you.
+
+Operator
+
+Your next question comes from the line of Tian Hou from TH Capital. You may ask your question.
+
+Tian Hou -- TH Capital -- Analyst
+
+Robin, Herman and Sharon, the question is related to the Baidu's efforts in content building. So as you guys are aggressively developing feed business, you guys also need to build a very healthy content. So in addition to your Baijiahao, Haokan video, Baidu App, recently we saw from the news you acquired some stakes in Zhihu. And also, I think yesterday, you put money in the Guokr. So I wondered for Guokr, in which way they help you in the content ecosystem building? And also in the going forward, what are some other content area you see you need to continue to build up? And so, is there any other potential content investment in the -- on the horizon? So that's the question.
+
+Dou Shen -- Senior Vice President
+
+Hi, this is Dou actually, let me answer your question first. For sure, content is extremely important for our whole business, as we've already shown you in the remarks. So for the Baijiahao, so we see the creators on Baijiahao grow significantly over -- year-over-year reaching like 2.2 million creators already. So, that is still not enough for us because users come to Baidu for not only information but also service. That's why we just discussed how we are strengthening the Smart Mini Program to provide further information and service, which we see significant growth as well.
+
+And in addition to both Baijiahao and Smart Mini Programs, we're also working with even wider collaborators to provide valuable information. As we have noted, so we invested in Zhihu. We've got Zhihu providing additional information, complementary information to Baidu's Zhidao. And we see our users' interest, out of the search queries, they have strong interest in Zhihu's content. So that's why we invested in those. So along with that, we are trying to -- looking for -- try to look for more and more content which can better satisfy our users' interest.
+
+So in short, to sum up, so we'll keep to -- keeping to -- keep looking for better content. And as we know, content is extremely important for the whole business today. So we are developing our own platforms to generate content. We are looking for partners to gain more useful information and service as well.
+
+Robin Li -- Chairman and Chief Executive Officer
+
+So look, Tian, let me just add a few comments. I think our content strategy is pretty much to adopt the overall user experience to the new mobile ecosystem, meaning that we will make or strike a partnership or investment if that deal can help us to improve the user experience. But the content may be available on the open web or on the PC internet, but if we can have a deal that enhances the mobile user experience with that kind of content, we will do it. Or if that kind of content is not available on the open web or not available on the PC internet, if we can acquire that content, we will also do it. So basically, the content strategy is to make things -- make the experience -- either make the experiences better or make something that was not available to become available to our internet users.
+
+Dou Shen -- Senior Vice President
+
+Okay, I'll just add one more thing on that. So as Robin just mentioned that we are looking for better user experience. Actually, when we switched Baidu Zhidao, Baidu Knows to the Smart Mini Program in our platform, we see significant user time -- spend time growth actually. So for Zhihu, now as most of the content are presented in the form of H5. With this deal, we're going to convert all the Zhihu content in Baidu's platform to Smart Mini Programs. And this will be another good example to show how we are going to improve the user experience through the Smart Mini Programs actually.
+
+Herman Yu -- Chief Financial Officer
+
+And just to add, Tian, you asked which areas we would be interested in. When you look at our content, Baidu as a whole, there's really three categories of content. We're looking at a content that's knowledge based, in this case Zhihu. In case of Baidu Knows, that would be it. So we're looking at, for example, the vast amount of services and information that are in apps today and making that basically having a native app experience. So services is very important.
+
+And thirdly, we're looking at industry verticals where right now if it's fragmented on the internet, if we can concentrate it within Baidu's content platform so that they have better conversion, so that they can build user engagement and have better user experiences. So three areas, knowledge, services and industry vertical information.
+
+Tian Hou -- TH Capital -- Analyst
+
+It's very helpful. Thank you, guys.
+
+Operator
+
+Your next question comes from the line of Eddie Leung from Bank of America Merrill Lynch. You may ask your question.
+
+Eddie Leung -- BofA Merrill Lynch -- Analyst
+
+Good morning, guys. Could you share with us your thought on the recent news of a potential new entrants? So are you going to see any difference this time? And then just a quick follow-up on Herman's comments on some of the advertising industries. Given the recent weakness in some of the verticals, could you remind us what the top, for example, 3 or 5 verticals we have right now? Thanks.
+
+Robin Li -- Chairman and Chief Executive Officer
+
+Dou will answer your first question and Herman will answer the second.
+
+Dou Shen -- Senior Vice President
+
+Okay. For the new players, the market I think is not new actually. So, search business is a pretty profitable business, as we all know. So we have players trying to enter into this business in the past decades. So actually, search is -- search has a very high engine barrier actually, because user comes to a search engine with a very specific information need. So we need to locate that information out of one hundred -- hundreds of billions of web pages to get an information located. So this is quite different from other businesses like feed because for feed we usually just show general interest and then the engines to match the users' general interest. So it's not easy to tell right or wrong, but for search, it's the user usually has a very strict demand and strict criteria to judge the performance.
+
+So that said, we see, for us, I know we are actually the only one successful twin engine model with both search and feed so far in the world. So in our experience, with the -- it is relatively easy to switch from search to feed because we can generate -- generalize the users' interest out of their queries but not the other way.
+
+So we're not surprised to see new players in this market. And we have been -- we have seen this many times. So that said, we're happy to see new players, but with the Baijiahao and Smart Mini Programs, we are strengthening our mobile ecosystem and we see -- we are providing better user experience to the users, so that's pretty much what I can offer at this time.
+
+Herman Yu -- Chief Financial Officer
+
+Yeah, and Eddie, with regards to top industry, we have healthcare as you guys know is our top. In addition to that, the other industries are much smaller. So the top 12 industries are two-thirds, and the remaining industries are all less than 10% of Baidu Core's revenue, and those would include industries such as e-commerce, online games and education.
+
+Eddie Leung -- BofA Merrill Lynch -- Analyst
+
+Thank you.
+
+Operator
+
+Your next question comes from the line of James Lee who is from Mizuho Securities. You may ask your question.
+
+James Lee -- Mizuho Securities -- Analyst
+
+Great, thanks for taking my questions here; two if I may. First -- and maybe Robin, you can talk about -- you sound pretty excited about the prospect of Duer operating system, and voice search going to next year. And maybe you can help us understand the roadmap in terms of commercial roadmap going to 2020 and maybe help us understand what verticals that you weren't able to monetize on text search now you are able to monetize in voice? And also, what verticals that you could optimize potentially with voice search over text search?
+
+And also second question on Herman. On 4Q revenue growth, is that going to be similar to your guidance in 3Q? And also in operating expenses, because you're stepping up about RMB400 million and change in total expenses in 3Q. Should we expect a very similar trend into 4Q as well? Thanks.
+
+Robin Li -- Chairman and Chief Executive Officer
+
+Yes, on DuerOS, it's a whole new ecosystem. It fully leverages Baidu's investment in search and in AI technologies for the past many, many years. And we are offering a better and better user experience. It does lower the barrier to entry significantly. I talked about it during the prepared remarks that we are entering lower cities with more affordable devices. And we're also able to -- accessing people at very young age or very old age because it's just a lot easier to use. And we see strong momentum continue to go into the current quarter end and maybe the coming years.
+
+Talking about the potential business model, because it's -- right now it's in very early stage, we have not really seriously tried to monetize the product, but we see huge potential in many fronts, for example, in education, it's very natural for kids to learn things through this kind of new devices. Games; it can offer a very different experience than mobile games because for mobile you have to hold your handset but for the smart display your hands are free and we have -- cameras can capture users' behavior intelligently.
+
+So there are many, many possible business models, including the app model, including the subscription model for all kinds of content and services. And this is a whole new era for entertainment, for education, and for the Smart Life for many, many people who may not spend a lot of time with mobile phones.
+
+Herman Yu -- Chief Financial Officer
+
+And James, the question you asked about revenue and expenses. We typically do not give guidance out two quarters. And with the current macro situation it's hard to predict what's going to happen in two quarters. But I would use a reference, for example, if you look at last year Q3 to Q4 has very minimal sequential growth. So if the economy keeps pace and so forth, we will probably have similar trend, but I can't commit at this point given that we don't have as much visibility in the current macro situation.
+
+And so, when we set our expenditures for the second half, we're cognizant of the current revenue situation and the economic conditions. So from an expenditure perspective, in terms of total expenditure for Baidu Core, cost of sales plus operating expenses, we're going to try to keep pace with our total expenses -- expenditures for Q2. So we should not see too significant increase from the second quarter level. And mind you that this would adjust if, for example, our revenue, for example, improves significantly and so forth. So that's current thinking right now.
+
+James Lee -- Mizuho Securities -- Analyst
+
+All right, thank you.
+
+Operator
+
+Your next question comes from the line of Natalie Wu from CICC. You may ask your question.
+
+Natalie Wu -- CICC -- Analyst
+
+Hi, good morning. Thanks for taking my question. I have a question regarding your CRM open platform. How should we understand the related financial impact in near-term and longer term? And what kind of the incentives you're going to provide to attract developers to your platform?
+
+And also, if I may, I'm still curious about the Smart Mini Program. Just wondering what kind of the sectors are the most frequent users for your Smart Mini Program initiative? Do you observe the change of ad budget on the -- on your platform of those frequent Smart Mini Program users? And I would appreciate it if management can elaborate more on the difference you have observed among different sectors for the Mini app program users. Thank you.
+
+Robin Li -- Chairman and Chief Executive Officer
+
+Natalie, on the financial impact of CRM, we currently try to do an integrated solution for our high end customers. They already spent a lot of money to try to acquire potential customer for their products and services. And we help them to better manage this process and achieve better converts. We think longer term the CRM offering will be able to provide independent product value, and we will be able to charge a significant amount of money for this kind of offering. But to begin with, we would like to help our advertisers and customers to think in a more holistic way. They acquire traffic from the Baidu channel and we help them to better manage the traffic or better manage the users and then help them to improve the overall efficiency of that whole marketing funnel. That's the difference between our CRM and independent CRM products. Dou, can you talk about [Speech Overlap]?
+
+Dou Shen -- Senior Vice President
+
+Okay. For the -- sure, thank you. For the Smart Mini Programs, let me add a few new things. So actually the user -- as I -- we already said, right, for the users to come to Baidu not only for information but also for securities. So with Smart Mini Programs, we provide both information and service to the users. So that's saying we're seeing growth for Smart Mini Programs in quite a few different verticals, including the travel, real estate, education and other stuff.
+
+So let's say for Weibo and Xiaohongshu, right, so in general, we think they provide information to users and for this type of Smart Mini Programs we see each of them has like a few millions of users, daily active users actually in Baidu's platform for their Smart Mini Programs. Also the Smart Mini Program is very valuable to developers which long tail information service, because users come to Baidu yearly looking for some long tail information and service. So this is very helpful for them to locate new users because the user come here proactively to identify or locate some information. So for those type of a business, they also get players for the Smart Mini Programs.
+
+So for your question about marketing customers, we do see more and more customers adopting Smart Mini Programs as their landing page. So we see examples from travel, like Ctrip, from real estate, from education, like Xueersi. So all those customers, we do see their performance -- budget performance are getting better through different traffics. So these are just some examples to see and we are expanding the coverage of the landing pages through Smart Mini Program. So down the road, maybe you can see more good examples, and to share more information with you.
+
+Natalie Wu -- CICC -- Analyst
+
+Thanks.
+
+Operator
+
+Your next question comes from the line of Jin Yoon from New Street Research. You may ask your question. Mr. Jin Yoon, you may ask your question.
+
+Jin Yoon -- New Street Research -- Analyst
+
+Hey, sorry about that. I put myself on mute. Apologies again. Just on the Mini programs again, just wanted to just kind of go back into kind of the healthcare vertical, just kind of where we are on kind of bringing everyone up to speed. And at the same time you were also talking about bring -- moving more of the other verticals into the Mini Program, just kind of just on the traction of that. That's kind of the -- my first question. And my second question is -- we'll stop there and then I'll follow-up with the second question. Thanks.
+
+Dou Shen -- Senior Vice President
+
+Okay, thanks for the question. So actually, as we mentioned in the remarks, right, so Smart Mini Programs and managed pages are two formats -- two forms we are using for the landing pages. So for the marketing customers, they do not have to specifically use Smart Mini Programs, but they can use it in a lighter version, managed pages. For the healthcare vertical industry, so as Robin has already mentioned, all the marketing customers, they have switched from H5 to managed pages. So in this way, we can not only guarantee the quality of content and information correctness for the landing page. We can also help the marketing customers to engage in a better way with their users.
+
+So you can treat Smart Mini Programs as another way, or a relatively heavier way with even stronger capabilities to strengthen the engagement. So that's why for all the services which you need relatively complicated interactions to fulfill users in need, right. So for those type of business Smart Mini Programs are a better way to do this.
+
+Down the road, to guarantee the quality of the landing page, so the correctness of the information, we will strongly recommend the marketing customers to use either managed pages or Smart Mini Program. But in the meanwhile, since we see most of the cases, if not all, using Smart Mini Programs or managed pages, the customers already see the lift in their ROI. So we bet they are going to switch even by themselves. I think that's what I can offer now. Is that OK?
+
+Jin Yoon -- New Street Research -- Analyst
+
+Great. If I could follow-on -- go ahead.
+
+Dou Shen -- Senior Vice President
+
+Yes, in terms of sector in addition to healthcare, we also mentioned moving companies, home repair, attorneys. They are all using managed pages with this.
+
+Jin Yoon -- New Street Research -- Analyst
+
+Got it. If I could just -- one just follow-up. I remember just the last time you guys had a healthcare cleanup in like in 2015, there was a little bit of a drop-off in terms of the number of advertisers not being able to qualify. You said in this time around that a lot of the, I guess, marketers have moved over. Have you seen any kind of the overall TAM or actually the number of advertisers being able to drop off this time as well? Are you seeing that some of these advertisers are not able to qualify and is that anything material?
+
+Robin Li -- Chairman and Chief Executive Officer
+
+Jin, your question is, are we seeing the number of healthcare marketing services customers drop off?
+
+Jin Yoon -- New Street Research -- Analyst
+
+Yeah, because that's right, being not able to qualify or not able to get to make the transition because I think that happened a little bit in 2015, correct?
+
+Herman Yu -- Chief Financial Officer
+
+Yes, we actually -- so when you look at the number of customers on the healthcare sectors, we see them started to drop off at the beginning of the year and we've seen that consistently into Q2. And as we -- Robin mentioned earlier, because once they use the managed pages we're able to screen the content using our AI. We're installing, for example, call -- live call capabilities and messaging capabilities. So we use our AI to also screen the communication with users to make sure that they're providing content information that's more secured and more trustworthy. So as a result of that, it's a filtering system for the lower quality healthcare providers. So, those are probably going to go elsewhere, probably going to drive revenue for other people. For us, we're basically turning away the lower quality customers in healthcare.
+
+Jin Yoon -- New Street Research -- Analyst
+
+Got it. Great. Thanks, Herman.
+
+Operator
+
+Your next question comes from the line of Piyush Mubayi from Goldman Sachs. You may ask your question.
+
+Piyush Mubayi -- Goldman Sachs -- Analyst
+
+Thank you for the additional color on traffic growth rates in the second quarter. I wonder if you could just take us through what you think are the drivers of the acceleration in that number from the first quarter? And could we expect that to potentially continue, at least based on the July and August data that you're seeing currently?
+
+And my second question is, I know you've talked about the medical vertical quite a bit. But can I ask what the number would have been or the growth rate would have been for the Core if you excluded the medical vertical? And also on medical, could you talk about what percentage of traffic is on your landing pages and what the initial feedback is? Thank you.
+
+Robin Li -- Chairman and Chief Executive Officer
+
+Dou, can you answer the traffic question, the growth rate?
+
+Dou Shen -- Senior Vice President
+
+Sure. Actually, I think we touched this question previously. So we're now -- the user acquisition efficiency is getting higher and higher actually. So as Herman just mentioned, so we are spending the marketing budget in a more -- in a smart way to consider more about ROI. So that's why nowadays when we look at new users we acquired, so their lifetime spend on Baidu is growing pretty significantly actually. So -- also because of the content quality and also the service provided by Smart Mini Programs, we can see even stickier engagement between the users and our service. And all that together, that's why we can explain the traffic is growing relatively significant. But for sure, summer is also a good time for traffic in general. So, that's another reason we see the growth.
+
+But in general, I would add, with search -- with the better content, as we just mentioned, from Baijiahao, Smart Mini Programs and also the strong collaboration with the partners to provide better content and service, so we can see the engagement between users and the platform is being strengthened actually.
+
+Herman Yu -- Chief Financial Officer
+
+Okay. With regards to the questions on the numbers, a few the verticals that helped us grow sequentially are like retail and e-commerce, are like education, travel, did very well too, and then service-related industries. So these are some of the highlights for the second quarter. And then with regards to healthcare revenues, we're seeing double-digit declines in healthcare revenues. So when you look at the second quarter, as a percentage of total Baidu Core revenues, we're talking about less than one-seventh of our revenue. So that has declined pretty significantly when you look at it from last year. But I think for the long-term, it's better for us because we're now having a better way to ensure better quality of the content, both looking at the landing page and also monitoring the kind of communication between the merchants with the users.

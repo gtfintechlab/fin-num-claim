@@ -1,0 +1,578 @@
+Operator
+
+Good day, and welcome to Lam Research's September Quarter Earnings Conference Call.
+
+At this time, I would like to turn the conference over to Ms. Tina Correia, Corporate Vice President of Finance and Investor Relations. Please go ahead ma'am.
+
+Tina Correia -- Corporate Vice President of Finance and Investor Relations
+
+Thank you, and good afternoon, everyone. Welcome to the Lam Research quarterly earnings conference call. With me today are Tim Archer, President and Chief Executive Officer; and Doug Bettinger, Executive Vice President and Chief Financial Officer.
+
+During today's call, we will share our overview on the business environment and will review our financial results for the September 2020 quarter and our outlook for the December 2020 quarter. The press release detailing our financial results was distributed a little after 1 o'clock PM Pacific Time this afternoon. The release can also be found on the Investor Relations section of the company's website along with the presentation slides that accompany today's call. Today's presentation and Q&A includes forward-looking statements that are subject to risks and uncertainties reflected in the risk factors disclosed in our SEC public filings. Please see accompanying slides in the presentation for additional information.
+
+Today's discussion of our financial results will be presented on a non-GAAP financial basis, unless otherwise specified. A detailed reconciliation between GAAP and non-GAAP results can be found in today's earnings press release. This call is scheduled to last until 3 o'clock PM Pacific Time. A replay of this call will be made available later this afternoon on our website.With that, I will hand the call over to Tim.
+
+Tim Archer -- President and Chief Executive Officer
+
+Thank you, Tina, and welcome, everyone. Lam delivered very strong September quarter results. Revenues and gross margin came in above the midpoint of the guided range. Operating margin and diluted earnings per share exceeded the high end of the range. Our performance reflects solid execution across the company. The operating environment remains challenging, due to the COVID-19 pandemic, but the tremendous dedication of Lam's employees and our partners worldwide is enabling us to perform at a high level.
+
+Notably, the September quarter marked record revenue and diluted earnings per share for the company and was also the first quarter in which we have exceeded $1 billion in revenue from our Customer Support Business Group. At the midpoint of our December quarter guidance, we will be growing EPS more than 35% year-over-year in 2020. Investments we are making in manufacturing and supply chain resilience are enabling us to meet customers' critical needs in a period of strong demand and are preparing us for the continued growth we see ahead.
+
+Before I talk about market and product trends, I want to touch upon China-related trade regulations. As has been widely reporting, US regulations have impacted our ability to ship wafer fab equipment and parts to a large foundry customer in China. We are working with regulators on this issue and have applied for licenses to ship equipment and parts that are subject to the restrictions. As a result of the current situation, our December quarter guidance reflects an impact to sales to this customer.
+
+From a market perspective, we see positive momentum in the underlying drivers of semiconductor growth and believe this translates into a healthy outlook for Lam's business. Work and learn from home trends continue to drive demand in key electronic categories, including PCs, storage and networking. Third-party data suggests that growth in PC, notebook and workstation shipments in the calendar third quarter surpassed a 10-year high to reach record levels.
+
+Moreover, some memory manufacturers have noted shipping record levels of consumer solid state drive bids in their most recent quarter. We believe that many of the changes brought about by this year shift to remote working and learning environments will be structural. The net result will be a pull forward of key long-term secular growth themes for the semiconductor industry, including accelerated build-out of cloud datacenters and expansion of high-speed communication networks.
+
+Against this backdrop, we see WFE spending growing across NAND, DRAM and foundry-logic supported by demand fundamentals that should drive continued WFE strength into 2021. Overall, our expectation for WFE in calendar year 2020 remains unchanged from our prior outlook of the mid to high $50 billion range with an improved memory mix, compared to 2019. Leading edge spending in foundry-logic remains robust with rising capital intensity and the secular growth drivers discussed earlier, effectively resetting equipment spending expectations to a higher level in this segment for the foreseeable future. We were also experiencing strong pull for trailing edge foundry-logic nodes, due to a pickup in the automotive, IoT and image sensor markets. This helped us deliver in the most recent period, another quarter of record sales for our Reliant business.
+
+In NAND, we see spending increasingly focused on 9 times layer and beyond devices where higher capital intensity for etch and deposition, combined with Lam's strong market share positions create even greater opportunity for the company in that prior nodes. Year-on-year, total with NAND installed wafer capacity is expected to remain flat, with NAND bit supplies growth still tracking below long-term demand as we exit calendar year 2020.
+
+In DRAM, customers continue to invest cautiously and supply growth remains below long-term demand. As a result, we see a positive set up for the next year and believe DRAM spending will increase as we progress into 2021. We expect to provide our full 2021 WFE outlook in our January earnings call.
+
+Turning now to our business updates. We recorded solid progress in the September quarter toward our long-term growth objectives. A fundamental part of our strategy is to deliver broad innovation and equipment process and support capabilities to help our customers accelerate the transition of next-generation 3D devices in the high volume manufacturing. We are developing a pipeline of differentiated products and services to address what we believe is one of the most pressing challenges for our customers. The need to drive on ever more complex leading edge devices, the node-to-node cost per bit and cost per transistor reductions that have been the key to our industry's success.
+
+With this goal, we are investing significant focus this year in two areas. One, accelerating our vision for equipment intelligence solutions; and two, extending our technology leadership in critical, high aspect ratio processing. First, land equipment intelligence is a suite of capabilities, including data-driven modeling, state-of-the-art sensing, adapt to feedback algorithms, augmented reality, remote support and self-maintenance hardware, aimed at shortening process development times and delivering predictable manufacturing ramps at lower cost with fewer resources.
+
+Our groundbreaking Sense.i Etch Platform introduced earlier in 2020, is a great example of a tool designed to leverage our holistic approach to our equipment intelligence offerings. Our -- on Sense.i, these capabilities are used to enhance RF and temperature control improve edge-yield, automate routine maintenance activities and reduce chamber matching times across large fleets of tools.
+
+In the September quarter, we continued to gain traction for this new product with initial shipments to two additional memory customers. We have aligned road-map insertion plans with the top memory manufacturers and expect to ship multiple repeat systems in the next few months. While new platforms like Sense.i are designed for equipment intelligence from initial concept, we have also demonstrated this year that customers can realize significant value by deploying select elements of our equipment intelligence solution set as options or upgrades for their current generation systems.
+
+For example, our progress are automated self maintenance feature available on our Kiyo Conductor Etch System has been proven to shorten maintenance cycles and improved process repeatability on critical and semi-critical applications. As a result, the installed base of Kiyo Etch Systems equipped with Corvus R technology is on pace to expand by more than four times in calendar year 2020.
+
+Lam Equipment Intelligence is also enabling new types of remote support that have proven vital to business resilience during the COVID-19 pandemic. Big data analytics approaches to enhance troubleshooting and simplified process optimization are seeing growing adoption. In 2020, our data enhanced service activities are on track to grow 3 times over the prior year. Virtual reality technologies are allowing us to continue training engineers across the globe to further develop their skills on our latest systems without the need for international travel.
+
+Similarly, the latest innovations in augmented reality headset devices are allowing us to connect the engineers at customer sites to real-time experts support in our factory often as much as halfway around the world. Our Customer Support Business Group is projecting 6 times growth in remote support engagements this year. We believe building an ecosystem of smart tools and intelligence services will help drive sustainable cost reductions across the semiconductor manufacturing process and generate growth for our installed base business.
+
+Revenue from our productivity focused offerings, including advanced services is expected to grow approximately 25% in this calendar year. In the area of process technology, the continued vertical scaling of 3D device in packaging architectures across all market segments creates a compelling long-term growth story for Lam. Over the past decade, we have built a winning track record in Etch and Deposition at the 3D inflections, most notably in the transition to 3D NAND.
+
+In the September quarter, we further extended our lead in 3D NAND with favorable high aspect ratio Conductor Etch Decisions for devices beyond 200 layers and new application wins in Dielectric ALD Gapfill and Carbon Hard Mask Deposition. Our high aspect ratio processing expertise also applies to emerging 3D packaging architectures. In foundry-logic, it has been estimated that 3D heterogeneous integration solutions can enable cost reductions of approximately 20% for leading edge nodes.
+
+In addition, 3D chip stacking is delivering performance advantages for advanced image sensors and high bandwidth memory. We expect Etch and Deposition intensity and advanced packaging and our corresponding revenue opportunity to continue to increase as more integration schemes leverage 3D scaling. In the most recent quarter, we received multiple follow-on orders for our SABRE 3D Electroplating and Syndion Etch tools for this market. And since 2015, our installed base for both tools has doubled.
+
+Looking forward, I am more confident than ever, that Lam's capabilities and strategic investments are well aligned with the fundamental needs of our customers and our industry. The complexity and cost scaling challenges for future technology nodes require comprehensive innovation in products and services to drive efficiencies from the very beginning of the design process all the way through to the support and maintenance activities in high volume manufacturing fab. This focus is fast becoming the thread that ties together our strategic growth objectives. And we are pleased that we are beginning to see the results of our efforts reflected in our strong financial performance.
+
+Thank you again for joining today's call. And now here's Doug.
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Thanks, Tim. Good afternoon, everyone, and thank you for joining us today. I hope everyone is continued to remain safe and healthy. We're extremely pleased with our operational and financial execution in the September quarter.
+
+We delivered record performance in multiple areas, including total revenue, which came in at $3.18 billion. And as Tim mentioned, as part of that revenue, we achieved over $1 billion of revenue in our Customer Support Business Group. These results are clear evidence of our ability to grow the company and meet the needs of our customers, while further improving our business resiliency.
+
+Our September revenues increased 14% from the June quarter, driven by customers, technology investments to meet long-term growth opportunities. These opportunities range across multiple vectors, such as data centers, 5G networks, smartphones, gaming consoles, and personal computers. In the September quarter, we also had a record level of earnings per share coming in at $5.67, the results of our solid revenue in gross margin performance.
+
+Let me now move on to provide some color on our systems revenue. There were continued strong investments in the Foundry segment, and we had the highest system revenue dollars per foundry in our company's history. Our customers invested broadly with spending targeted at 14 nanometers, 7 nanometers and 5 nanometers. Foundry represented 36% of our systems revenue for the September quarter.
+
+The Memory segment was also strong in the September quarter coming in at 58% of systems revenue. NAND represented 39% of our system quarter revenue with investment spending 64, 96 and 128 layer devices. We saw increases in DRAM spending, which contributed 19% of our systems revenue, which was up from 16% in the June quarter. Customer investments focused primarily on node transitions to 1y and 1z. We continue to see memory bit supply growth in the near term below long-term demand growth. Supporting our belief, that the memory market remains in a healthy place from an inventory management, as well as investment standpoint.
+
+And finally, the logic and other segment was down quarter-to-quarter and contributed to remaining 6% of systems revenue in the September quarter, compared to 10% in June.
+
+The regional revenue concentration, as we discussed last quarter, we see solid levels of investment in the China region, which came in at 37% of total revenues in the September quarter. The majority of that revenue again came from domestic Chinese customers in the quarter. We have a broad base of customers in the China region, and despite the trade regulations that have impacted us with certain customers, we see continued strength in this region for our business from both domestic and multinational customers.
+
+We achieved another record quarter of revenue for our Customer Support Business Group at just over $1 billion, as I previously mentioned. This was an 11% increase from the June quarter level in over 28% higher versus the same quarter in 2019.
+
+In addition to the strength of our advanced service offerings, we're optimizing the capabilities of our installed base through technology and productivity upgrades. We also continue to see strong demand in the refurbished tool business, driven by growth in various applications within the specialty technology markets. You should think about things like IoT, RF and power devices. We're on track to deliver the growth objective of over 40% cumulative revenue growth between 2019 and 2023 [Technical Issues] that we outlined at our Investor Day earlier this year.
+
+Our gross margin for the September quarter was 47.5% at the high-end of our guidance range. Customer and product mix are always factors impacting our gross margin. We also experienced favorable impacts in the quarter related to increased factory and field utilization. We made more progress on our production efficiencies as we operate with COVID-19-related safety protocols. We are experiencing higher cost in the global freight and logistics area and expect these elevated costs will continue until broader air freight availability becomes available.
+
+September quarter operating expenses were $523 million. Over two-thirds of our spending remains focused on R&D, as we continue to make progress in our growth initiatives for market share and technology disruptions to expand our served available markets. Incentive compensation was higher as well during the quarter related to our higher profitability levels. We are maintaining, travel and other expenses at lower levels, as we continue to remote work -- excuse me, to work remotely in many locations.
+
+Our operating margin in the September quarter came in over the guidance range at 31.1% with operating income of $988 million. Our non-GAAP tax rate for the quarter was 10.9%. We will have fluctuations in our tax rate from quarter-to-quarter and you should continue to expect the ongoing tax rate to be in the low-teens level.
+
+As we've noted before, we expect other income and expense will vary quarter-to-quarter based on several market-related items. Think about things like foreign exchange in the level of interest rates. Other income and expense was approximately $51 million in expense, which was higher than in the June quarter. The increase was driven by lower interest income on our cash and investment balances, as well as the impact of a full quarter of interest expense associated with the $2 billion debt offering that we completed at the end of April.
+
+Let me now shift gears and move on to capital return. We continue to drive strong cash flow and remain committed to the targets we laid out at our Investor Day earlier this year to have our capital return at 75% to 100% of free cash flow. We were active in our buyback activity during the September quarter and repurchased approximately $450 million of stock. In addition, we paid $167 million in dividends in the quarter.
+
+I would also like to highlight that we announced in August, a dividend increase from $1.15 per share to $1.30 per share each quarter, which was paid in October.
+
+Diluted earnings per share came in at $5.67, above the guidance range we provided for the September quarter. Our diluted share count was essentially flat for the September quarter at 147 million shares, as we expected. The share count includes the dilutive impact of approximately 900,000 shares from the 2041 convertible notes. The dilution schedule for the remaining 2041 convertible notes is available on our Investor Relations website for your reference.
+
+Let me now move on to the balance sheet. Cash and short-term investments, including restricted cash decreased slightly in the September quarter to $6.9 billion from $7 billion in the June quarter. Cash flows from operations came in at $643 million, which is solid performance in an environment where we continue to deploy cash toward working capital to support increased business volumes. DSO decreased slightly in the September quarter to 66 days from 68 days in the June quarter.
+
+Inventory turns were also slightly down from the prior quarter, coming in at -- excuse me, 3.1 times. Inventory balances are somewhat higher as we are growing inventory to support higher business levels, as well as to mitigate risk from potential supply chain disruptions. Non-cash expenses were approximately $56 million for equity compensation, $56 million for depreciation, and $17 million for amortization.
+
+Capital expenditures in the September quarter increased from June to a total of $63 million. We are slightly ramping up capital spending to support things like the Sense.i platform development, our new Malaysia factory in the technology lab that we announced in Korea. And in headcount for the September quarter was approximately 11,700 regular full-time employees. We added resources to support the higher levels of customer activity in the factory and in the field. Additionally, we're supporting new activities in research and development areas like Sense.i, enhanced ALD and dry resist.
+
+Looking ahead, I'd now like to provide our non-GAAP guidance for the December 2020 quarter. We're expecting revenue of $3.3 billion plus or minus $200 million. Gross margin of 46%, plus or minus 1 percentage point. Gross margin is a bit lower as we see a less favorable mix, as well as ongoing COVID-related expenses. Operating margins of 29.5% plus or minus 1 percentage point. And finally, earnings per share of $5.60, plus or minus $0.40 based on a share count of approximately 146 million shares.
+
+Now in an effort to address your question, I know everyone has concerning our business with a large Chinese foundry. I'll just give you a direct update relative to the guidance. As Tim mentioned, we are fully complying with all regulations and have applied for licenses to allow us to ship tools and parts to them. The status of the license approval is uncertain. The revenue and earnings guidance I just provided is lower than it otherwise would have been as a result of this uncertainty.
+
+With the results we've delivered and the guidance we've provided for the December quarter, the 2020 calendar year is expected to be the strongest ever in the 40-year history of Lam Research. We're well positioned today and from the continued strength and investments across all segments of the semiconductor industry.
+
+That concludes my prepared remarks. Operator, Tim and I would now like to open up the call for questions.
+
+Questions and Answers:
+Operator
+
+Thank you very much. [Operator Instructions] We'll go ahead and take our first question from C.J. Muse with Evercore. Please go ahead.
+
+C.J. Muse -- Evercore ISI -- Analyst
+
+Yes, good afternoon. Thank you for taking the question. I guess, first question, on the NAND side. I think there is a notion that perhaps, we might be nearing the peak on spending. So would love to hear your thoughts on, a) how do you think about your revenue opportunity on just node migration versus the wafer starts? And then, b) can you kind of walk through the revenue opportunity, which sounds like it's increasing as we migrate from the 9 times layer node to 128-layers and above?
+
+Tim Archer -- President and Chief Executive Officer
+
+Sure. Let me start C.J. Yes, I think that, you probably called out the most important point right there at the end. What we have continuously said is that because of the role that Etch and Deposition play in building devices, our opportunity is growing quite significantly at two of those node migrations. And so from our revenue perspective, we clearly see that, that revenue continues to grow in 3D NAND into the future.
+
+From a spending perspective, obviously, anytime you continue to see higher and higher numbers, you can start to think about a peak. But again, if you looked at and thought about what I said about supply growth, we still see ourselves exiting this year with supply growth remaining below the long-term trend line. And also if you go back and reference the data point we've given a couple of times at the NAND Flash, the Flash Memory Summit, about five-year spending requirements to meet what we see as long-term demand growth in the high 30% range. That is -- we're kind of nearing those spend levels right now after a couple of years, previously of understanding that. And so I think that we're still quite confident about how we enter 2021 from a NAND spending perspective.
+
+C.J. Muse -- Evercore ISI -- Analyst
+
+It's very helpful. As my follow-up, on the CSBG side, it's a great acceleration on a year-over-year basis, I think, up 29%. So securities -- is that a function of higher utilization rates of customers? Is there kind of one-time upgrades in there? Or is that the tools coming off warranty? And as part of that, how should we kind of think about the growth trajectory of that business for all of fiscal '21? Thank you.
+
+Tim Archer -- President and Chief Executive Officer
+
+Sure. Well, it's -- maybe the last part first, which is, as Doug pointed out, probably the best way to think about its future growth is still the same as what we said in March, which is a 40% growth between -- out to 2023. But we did see an acceleration. And I think what you're seeing is in some ways the power of that business which is made up of several different components, you pointed out some of them. A sensitivity utilization, which is primarily in the spares business. And then also as customers look to get more of their existing installed base, I mean, a lot of my script talking about how customers are looking for ways to enable these transitions and enable high volume manufacturing ramps, but we are sensitive to how much it cost to do that.
+
+And so customers continue to look for technology and productivity upgrades to make that installed bases as valuable to them as possible. So we have seen upgrades increase in terms of that. And then I also mentioned spending on refurbishment and other systems as well. And so it's a multifaceted business and I think that right network, we're hitting all of the angles that are very important to our customers. Thanks, C.J.
+
+Operator
+
+And we'll go ahead and take our next question from Harlan Sur with J.P. Morgan. Please go ahead.
+
+Harlan Sur -- J.P. Morgan -- Analyst
+
+Good afternoon. Great job on the quarterly execution and strong results. It's been two years of, sort of, weak flattish DRAM spending, but as the demand profile looks strong next year and you have the early move to one alpha node, 2021 is looking like a growth year for DRAM spending. And on top of that memory architecture has always been very 3D like and similar to NAND like aspect ratios are increasing, tighter tolerances, on material thicknesses and so on. So ahead of the strong DRAM year, how do you view your SAM and share expansion potential on some of these next-generation one alpha DRAM architectures?
+
+Tim Archer -- President and Chief Executive Officer
+
+Yes, just to kind of reiterate comments we've made in the past, I mean, we -- as you've pointed out, every time you move forward in technology, whether it's 3D NAND, we just spent time talking about or hearing DRAM. The features are getting taller, the aspect ratios are getting more difficult, and that is requiring more Etch and Deposition technology, and it tends to expand our SAM. What we've said is every technology node in DRAM, NAND and foundry-logic, our SAM grows if the technology moves forward. So your question on DRAM, there's no different.
+
+We do anticipate, and we said that, we think, we enter 2021 with a good setup for rising DRAM spending as you pointed out a couple of years of flattish DRAM spending where we've, kind of, been under growing long-term demand. And so we combine increased spending with -- we see as higher intensity due to these technology changes that require more Etch and Deposition equipment. We think it's a good setup for Lam going into 2021.
+
+Harlan Sur -- J.P. Morgan -- Analyst
+
+Great. Thanks for that. And then Doug, on -- obviously, very strong gross margin performance by the company. And that's even still with the higher logistics and transport and seg regulated cost due to COVID-19. Can you just give us an update here and maybe give us a sense on how big that impact is to your gross margins either in the just reported September quarter or in the December quarter guide?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Yes, Harlan, I haven't quantified it, but it's noticeable. I mean, let me put it that way. I mean, freight and logistics spending is quite expensive right now, simply because there's just not enough air freight flying across the Pacific Ocean where a lot of our stuff comes and goes, but I haven't quantified. Harlan, the right way, maybe just thinking back longer term to the financial model, but the right way to think about it is still the numbers that are embedded in there. Right now, when I think about the revenue levels we're at, we're trending a little bit below, but might be in that model and is because of the COVID inefficiencies in particular freight and logistics. I'm not going to quantify it for you though, but that's how you should be thinking about it. And we had a really positive mix in September. We don't have quite as positive mix as positive mix in December. So that's the commentary around sequential gross margin.
+
+Harlan Sur -- J.P. Morgan -- Analyst
+
+Yes. Great insights. Thank you.
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Thanks, Harlan.
+
+Operator
+
+Go ahead and take our next question from John Pitzer with Credit Suisse. Please go ahead.
+
+John Pitzer -- Credit Suisse -- Analyst
+
+Yes. Good afternoon, guys. Congratulations on the strong results. Thanks for me to ask the question. I guess, Tim, Doug, you talked about SMIC in the December quarter being at here. But I was hoping you could quantify that, and as you do kind of help us understand how China might [Technical Issues] as a percent of revenue in the December quarter, it's been well above the trend, but I know you've talked about broad-based strength. But do you see that kind of well above trend representation in the December quarter as well?
+
+Tim Archer -- President and Chief Executive Officer
+
+Yes, John. I'm not going to quantify the large Chinese foundry impact to the guide. I think, that the numbers I've seen people suggest percent of revenue, WFE in a longer-term basis, the right way to kind of think about where that particular customer might have been. And could continue to be, if we are all in the industry able to get licenses. And any given quarter it can be up or down as all customers are. So I'm not going to specifically quantifying December, but I think you know roughly how big they are.
+
+John Pitzer -- Credit Suisse -- Analyst
+
+Yes, that's helpful. And I apologize for the follow-up. But could you guys have clearly understand the concern out there is. How much of the China strength is related to customers they're being worried about full bands going into China by the US government. Tim, I'd like to get your kind of thoughts, in a worst-case scenario, if the US were to ban equipment going into China. How much of the China capex in WFE today do you think would need to be reconstituted in other geographies to support demand? And how much of it do you think could be lost [Technical Issues] representative of kind of China building in anticipation of demand multiple years out as they go -- pursue their semiconductor -- domestic semiconductor strategy?
+
+Tim Archer -- President and Chief Executive Officer
+
+Well, I mean, it's a very difficult question to answer from the standpoint that -- in many ways, which you just implied and the question was that some of that may be building in China. In anticipation of demand they see several years out. We think that demand, I mean for all of the reasons that we talked about whether it's -- I mean it's just the digitalization of the global economy that's occurring everywhere. And so we think that demand remains. And so to your point of how much of it gets reconstituted, how much of it gets satisfied, I think China demand, global demand has to be satisfied by somebody. And so I think ultimately a lot of it gets reconstituted and the only part that might not be is what we have acknowledged. And I think most people recognize this as you're coming up the learning curve. There can be in the short-term, some over spending as you're learning and you're building yield and you're gaining efficiencies.
+
+But even in the long run that -- we've seen that play out over every region, what ends up happening is that turns in ultimately to business for our installed base business where we go back years later and we're making that installed base productive. And so this industry is so efficient, that I don't think there's ever really anything that gets lost quite honestly. And that's -- but I mean there's a lot of -- there will probably a lot of pieces to your question that require assumptions. But I think that -- it's a -- it would cause some disruption as we've said in the short-term, but in the long-term, demand drivers and the need to supply semiconductors and semiconductor equipment to meet them doesn't fundamentally change in our view.
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Yes. And maybe, John, just to add a couple of things, where I think about it. When I look at revenue in China for us, it's split fairly evenly between the multi-national customer base and the local Chinese customer base. So, you know, to help you frame it a little bit that multi-national stuff, obviously, it was a decision to put in a country that could have gone anywhere quite honestly.
+
+And then, as Tim alluded to a lot of the Chinese customers are relatively new in their process ramp, so maybe there are little bit inefficient or somewhat inefficient. But at the end of the day, they're building capacity to support long-term demand that somebody else will step into over a period of time. So, hopefully, that's helpful.
+
+John Pitzer -- Credit Suisse -- Analyst
+
+Very helpful. Thanks guys.
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Thanks, John.
+
+Operator
+
+And we'll go ahead and take our next question from Timothy Arcuri with UBS. Please go ahead.
+
+Timothy Arcuri -- UBS -- Analyst
+
+Thanks a lot. I had two. I guess the first one, Doug is on service. And I guess the question is, how much if any inventory stocking of spares you can get going. And I know you try to put controls around that, but it seems pretty clear how much service has taken out through the past six months that maybe that is actually happening. You've been pretty clear that you can't run the tool, if you don't get the spares, so it wouldn't make any transport or the tool. And we have heard that there were some criminal stocking happening in China for parts and whatnot. So can you speak to how much of the factor that is, do you actually see that happening?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Yes, Tim, it's hard to know to be perfectly honest. One thing, I looked at in, in anticipation this question coming up is, from the beginning of the quarter to the end of the quarter, did any customer meaningfully increase their spares, orders with us in China? And the answer to that was no, not really. That doesn't mean that maybe they weren't planning to stock a little bit ahead. It would be pretty hard at times to know, but I don't see a big stocking going on in China for spares, is maybe the way I'd summarize. I don't know, Tim if you think any differently about it?
+
+Tim Archer -- President and Chief Executive Officer
+
+No, I think -- I think that's fair. I mean, obviously, just as you see even sometimes in our own numbers as you're building for growth, I mean, there is no doubt the inventories themselves, the number of parts that have to be stocked. And maybe the -- what we'd call the safety stock levels. When those may rise, I mean, when you're -- in the early days of a manufacturing fab, [Indecipherable] is concerned about like the time to get another part shipped in. But as you really start [Foreign Speech] working toward efficient mass production you did it.
+
+So, you know, I think we have seen -- we clearly, we have seen that shipments have increased, but whether they're increasing more than the growth plans of the -- of those customers little bit more hard to say. And I would say just across the board, there is a little bit of a -- everybody is focused on business resilience. But as we talked about things that may be structural, I think for quite a long time when people are going to be looking at what do I have to do to ensure my business can run. And so I don't think those -- you see those immediately like turn on and off.
+
+Timothy Arcuri -- UBS -- Analyst
+
+Got it. And then Doug, I guess a follow-up just on the balance sheet. You did start to repo that gap $450 million is definitely a -- stuck-in number. But you still have $7 billion in cash. And I think in the past you said maybe with $4 billion that's, kind of, the optimal cash. So we definitely have a lot of excess cash. And maybe can you update us there on your thoughts and what you're thinking if excess cash, I can get it seems a little how do we be able to do M&A and SAM used to get some regions to approve that. So can you just talk to the excess cash levels there?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Yes, Tim, I specifically reiterated the 75% to 100% return to free cash flow as the company's plans, objective. I don't think of it, however, that's what planning to do. Now over the last couple of years we've done more than that. We've done more than 100% and your observation is right. We probably have a little more cash than we need sitting on the balance sheet right now, we'll be looking at that periodically over time, but I don't have anything new to tell you right now relative to any change in our plans or thinking.
+
+Timothy Arcuri -- UBS -- Analyst
+
+Okay. Right, OK.
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Thanks, Tim.
+
+Operator
+
+And we'll go ahead and take our next question from Krish Sankar with Cowen & Company. Please go ahead.
+
+Krish Sankar -- Cowen & Company -- Analyst
+
+Yes. Hi, thanks for taking the question. I have two of them. First one for Tim. On the NAND side, you know, when your customers go from 96 layer to 128 layers. As you moved organically, the Etch times went up and which is a big positive for Lam. But going beyond 128 layers, if customers starts stacking layers, is there a slight negative, all I'm trying to figure out is the stacking neutral or negative for definitely intensity? And then I have a follow-up.
+
+Tim Archer -- President and Chief Executive Officer
+
+Yes. I mean, the simple answer is, no standstill grows under every scheme to build more layers. It translates into different parts again, I've talked about this, where you, kind of, pick your battle whether you're trying to build ever taller stacks in one shot or you're trying to build efficient stacking, but simple answer is Etch and Dep intensity rises in either case. Just perhaps [Speech Overlap] differently with difference applications.
+
+Krish Sankar -- Cowen & Company -- Analyst
+
+All right. Thanks, Tim. And then a follow-up for Doug. Will you be willing to share how much of your service or CSBG revenues is from domestic China or overall China?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Not that I'm willing to share, Krish, because it's top of my head. I'm not sure I know what the number is. You know, the way to think about it overtime is consistent with equipment shipment with a lag, right? In the way we've generally been talking about the business for us from a system standpoint in China is it's been pretty evenly split between multi-national customers in local China. And overtime, the CSBG business, kind of, would get caught up to a similar footprint, if you will, maybe not immediately, but Krish, such as the -- of the [Indecipherable] reaction to the question.
+
+Krish Sankar -- Cowen & Company -- Analyst
+
+Thanks, Doug.
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Thanks, Krish.
+
+Operator
+
+We'll go ahead and take our next question from Vivek Arya with Bank of America. Please go ahead.
+
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+
+Thank you for taking my question. I was hoping, if you could give us some directional view on the China versus non-China and the foundry-logic versus memory mix for the December quarter guidance?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+You're asking, Vivek about December specifically?
+
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+
+That's right. Just directionally how do you see those mix things trending in December?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Yes. I think China is going to remain strong in December, is how I view it right now, as we sit here today. And I think the broad-based set of customers in China that I tried to describe will continue to be what it looks like.
+
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+
+And on the foundry-logic versus memory mix?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Well, the large China foundry customer likely isn't going to get much from us, if anything unless we get a license in December, so that will probably trend down a little bit in December.
+
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+
+Alright. And as my follow-up, I wanted to revisit this DRAM question. I understand data sales are still below their peaks, but they are still back to the levels you had in the second half '18. How are you thinking about your DRAM growth over the next several quarters? What are the signs that you looking for to say that, now we are at a trough and now we can get back to some normalized trend?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+I mean, Vivek, what we look at is, we run our own models a bit supply growth and do our best to try to understand inventory that's out there with the customers are holding, what the customers are holding. What's going on pricing. What's going on profitability. And as we look at all of those things, our view is right now, the investment levels that are occurring in DRAM are generating supply growth below long-term demand growth. And at some point, that will need to get itself caught up. And we think it's sometime in 2021, I think it sets up to be a pretty decent year for DRAM in 2021 is as much as I can tell you right now. I don't know, Tim, you want to add anything?
+
+Tim Archer -- President and Chief Executive Officer
+
+No, I think -- I think also just you referred back to like 2018, and I think that again for us, we look, and there are across all semiconductor segments, I mean, significantly greater drivers and broadening of drivers that we're seeing today. And as we pointed out a couple of those on previous calls, but just given the difference in DRAM content in the high-end smartphones and the dramatic jump that takes from -- into the 5G phones. And those -- and then of course, we talked about the build-out of datacenters and everything else, it's -- there is a demand element to it. There is the supply element, and I think we just see as a positive into 2021.
+
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+
+Thank you.
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Yes. Thanks, Vivek.
+
+Operator
+
+And we'll go ahead and take our next question from Toshiya Hari with Goldman Sachs. Please go ahead.
+
+Toshiya Hari -- Goldman Sachs -- Analyst
+
+Thanks for taking the question, and congrats on the strong results. I had two as well. First one, I guess, is very much a follow-up to the last question on DRAM and NAND supply growth exiting the year. Doug, you just talked about your internal models, your internal -- suggesting that bit supply growth exiting the year is below the long-term trend line, as you see it. Is there any way you can get kind of quantitative color around that for DRAM or you're looking at kind of 15% to 20%-ish supply growth during the year. And then is it kind of around 30% or below 30%. And I guess related to that you talked about your expectations for DRAM into 2021 being positive, any directional guidance you can give on the NAND side?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Yes, Toshiya, those numbers you referenced probably are fairly consistent with what I think is the consensus view, as well as our own models. So I don't have anything incremental to add there. Your second question -- sorry, ask it again.
+
+Toshiya Hari -- Goldman Sachs -- Analyst
+
+Yes, directional guidance on NAND into 2021, if any?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+My view NAND is pretty, pretty decent right now. And I think it will be pretty decent next year. Again based on our view of the industry, inventory, investment plans, I think it'll be a pretty decent year for '21 next year. We're not going to give you numbers on '21, yet. We'll do that in next quarter's earnings, but I think it sets up pretty well.
+
+Toshiya Hari -- Goldman Sachs -- Analyst
+
+Got it. And then a quick follow-up, in terms of market share. You guys talked about to 4 percentage points to 8 percentage points of share growth, kind of your 2023 target at your Analyst Day. If I take the midpoint of the December quarter guidance and make assumptions around your CSBG business, I think your systems business is going to be up close to 25%-ish in calendar '20, so you're pretty clearly gaining share. What's sort of the outlook into next year based on wins that you have already on the memory side and logic and foundry side. Do you think you can sustain this level of share growth momentum or could that accelerate that slowed down a little bit. Any color would be great. Thank you.
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+And we're certainly going to try, and I think that in our business, we've described this. In many ways, every quarter, we come in and we talk about wins and new applications, and I know it kind of starts to sound like we're a broken record there, but the reality is it takes a couple of years for those wins to start to translate into the numbers that you're starting to see now and so if you go back and you kind of look at the old transcripts you'll see us talking about pretty significant momentum. They started really in the 2019 time frame, and it's been built into 2020 and that's what you're going to start seeing I think play out as those wins at those future nodes start to roll into high volume manufacturing.
+
+Tim Archer -- President and Chief Executive Officer
+
+Yes, I'd make the same caution. We're extremely happy with Sense.i momentum, right now, as it's winning sort of those slots and sockets in future nodes, but -- you know, the timing for those do then become the main driver of revenue and market share growth. Won't be until those nodes that are in development now and moving into pilot become high volume nodes. But that's -- so I'll say that we look back two years to our progress and that's kind of what we're starting to see. And we look at wins we're making now and that's our pipeline to hit the 2023, 2024 objectives. And I think we -- as we said, we feel we're on track and almost couldn't feel better about the strength of the product portfolio and the pipeline right now.
+
+Toshiya Hari -- Goldman Sachs -- Analyst
+
+Great, thank you.
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Yes. Thanks, Toshiya.
+
+Operator
+
+And we'll go ahead and take our next question from Joe Moore with Morgan Stanley. Please go ahead.
+
+Joe Moore -- Morgan Stanley -- Analyst
+
+Great, thank you. I wonder if you could get some additional color on the restrictions in China, when exactly today, kind of, go into place. And just so I understand for modification, if it happens again, what happens to product that's being installed on site to product that shipped on the way there that stuff its in backlog. Are you still able to ship against that?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Maybe I'll make a couple of comments, and then you Tim you can add on.
+
+Tim Archer -- President and Chief Executive Officer
+
+Sure.
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+I mean, the incremental item that came out was really an application of the rule that was previously out there around military end use, that basically said you're enabling that one of our customers is, you need a license. And so what ended up happening is, I guess, guidance, if you will from the Department of Commerce that you need the license to ship to at least one customer, the foundry customer in China. I mean, that's really the only thing that was new, Joe. And so we're applying for licenses is basically what's going on. I don't know how long it's going to take to find out whether those license will be granted, or won't. We're kind of in sort of unchartered territory and we're waiting to see how it plays out. So timing, I don't know that I can help you much with.
+
+Joe Moore -- Morgan Stanley -- Analyst
+
+Okay. And then in terms, sort of, the backlog and anything that might be assembled on-site?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Generally speaking when these rules come out, you get a little bit of a lead-time, so you can adjust whatever is like in the very near-term going on, but it's hard to know quite honestly. So at this point we're complying with all regulations that are out there relative to this one customer, which means we're [Indecipherable] the shipment plan for the December quarter, because what's going on, until we know more.
+
+Joe Moore -- Morgan Stanley -- Analyst
+
+Great. Thank you very much.
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Thanks, Joe.
+
+Operator
+
+And we'll go ahead and take our next question from Blayne Curtis with Barclays Capital. Please go ahead.
+
+Blayne Curtis -- Barclays Capital -- Analyst
+
+Hey, thanks for taking my question. I had two. I was just kind of -- would love a little more color on just the trailing edge strength. How much it would be trigger that was. Obviously, we've heard about tightness and clearly seeing a rebound, but a lot of end markets are kind of still down a bit. I mean, just your perspective is a different mix, particularly in markets higher content and you kind of perspective is -- is this a little bit of a catch up, or is it some more sustainable trend?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+No, I think, this -- I mean, at least from our view, I mean, I mentioned it was another record quarter for our business group, it satisfies that demand. We've just seen tightness in this market and kind of a broadening of those activities quarter-by-quarter by quarter. So -- and if you go back and look at the reported record quarters now for quite a number of. So I think it's just tightness, it's difficult. In fact, we just had a -- very strangely, but a new product release where we talked about releasing a product now for 200 millimeter photoresist strip. And so I think you can kind of get a sense from that what we're going back in basically refreshing 200 millimeter products that the demand is out there and it cannot be solved or serve just by refurbishment of the existing base since the requirement is actually expanding beyond that.
+
+Tim Archer -- President and Chief Executive Officer
+
+Yes, Blayne, I mean, I know you know this market really well. I kind of think of the analog, the IoT, edge kind of devices that are out there. You know, what's going on there. I mean, that's really what's going on with this part of our business as well. Back at our Investor Day in March, we suggested that we think WFE in this space could grow two times to three times faster than WFE broadly and that's what's going on.
+
+Blayne Curtis -- Barclays Capital -- Analyst
+
+Got you. And then maybe as a follow-up. You mentioned that WFE will grow next year. You're not giving the specific guidance. You mentioned memory up, I didn't hear you say foundry. So I guess I'm just curious, obviously, you don't know what's going to go on with that might be in licenses in China, in general. So just kind of curious with the strength of the trailing edge, it's foundry going to be up next year as well, going to act the precaution [Phonetic] factor there?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Yes, Blayne, our normal practice at this point in the year is not to give specific numeric here's what next year looks like. We'll do that a quarter from now. We're giving you a little bit of color that we think it's going to be a good year next year, but it's too soon for us to quantify. We just -- our practice is to wait until the December quarter earnings to give you that and we will give it to you then.
+
+Blayne Curtis -- Barclays Capital -- Analyst
+
+Okay, thank you.
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Thanks, Blayne.
+
+Operator
+
+And we'll go ahead and take our next question from Atif Malik with Citi. Please go ahead.
+
+Atif Malik -- Citi -- Analyst
+
+Hi, thanks for taking my question. Doug, you had talked about the $10 billion domestic China WFE number in the past. And is that still the right number within that mid-50s WFE for the market?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Yes. Our view is still mid-high-50s from a WFE standpoint in China, roughly $10 billion plus or minus a little bit. We're three quarters of the way through the year. So if the one customer that everybody is thinking about it right now is enabled to spend in the fourth quarter, we're still in that range.
+
+Atif Malik -- Citi -- Analyst
+
+Okay, I have a follow-up has the backlog normalized due to COVID-19 impact in the March quarter and now fully reflected in your Q4 revenue guide, are you still have some carryover?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Atif, we're pretty much caught up, at this point.
+
+Atif Malik -- Citi -- Analyst
+
+Thank you.
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Yes. Thank you.
+
+Operator
+
+And we'll go ahead and take our next question from Sidney Ho with Deutsche Bank. Please go ahead.
+
+Sidney Ho -- Deutsche Bank -- Analyst
+
+Thanks for taking my question. My first question is going back to China, given the strength you've seen last quarter. Are there any risk of customers pulling in purchases. I think you addressed the spare parts side earlier, but the question is not just from the one foundry customers, but also maybe other customers on the memory side as well?
+
+Tim Archer -- President and Chief Executive Officer
+
+So, I guess you addressed it, is there a risk do you mean backward looking risk in the September, the risk -- the pull-ins occurred, I think Doug kind of answered that, which is.
+
+Sidney Ho -- Deutsche Bank -- Analyst
+
+Right.
+
+Tim Archer -- President and Chief Executive Officer
+
+We really haven't seen or felt anything that feels out of the ordinary, relative to the growth plans for these customers. Going forward, I think again in many ways you see us guiding to yet another record for the company. And I don't think that will be -- I don't think any of that right now factors in, but we would again think is abnormal pull-in activity.
+
+Sidney Ho -- Deutsche Bank -- Analyst
+
+Okay. I think, I think you guys have talked about spare parts early, but I guess the system -- new system itself.
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+So, I mean, no -- I think the question maybe was about spare parts, but it's really more of a -- I think it's a broader statement of...
+
+Tim Archer -- President and Chief Executive Officer
+
+Yes, I agree. Okay.
+
+Sidney Ho -- Deutsche Bank -- Analyst
+
+Okay. Maybe and my follow-up questions is on Intel. I think last quarter you guys pretty much said there's no impact, but it doesn't matter who makes the chips. But on the memory side, now that Intel, so the business, main business the Hynix given, they have a very different architecture. Do you think there will be an -- net impact for you guys going forward?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Hard to know that's pretty recent announcement and it would be a little bit of speculation. I mean, Sidney long-term, the way I think about this is at the end of the day demand is what matters, right. Our customers are putting wafer capacity in place to supply demand. And things can get pulled in, pushed out a little bit on the margin, but at the end of the day, when I think about, where I think the industry had supply and demand have to be in relatively equilibrium over the medium or longer term. And whether that means we have five customers in NAND, or three it largely doesn't matter, they're going to invest us to satisfy demand in my mind.
+
+Tim Archer -- President and Chief Executive Officer
+
+Yes, and the question was, if at all targeted toward like strength, I mean, we basically have talked I think in the past we're strong across all flavors some 3D NAND.
+
+Sidney Ho -- Deutsche Bank -- Analyst
+
+Okay, great. Thanks.
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Thanks, Sidney.
+
+Operator
+
+And we'll go ahead and take our next question from Joe Quatrochi with Wells Fargo. Please go ahead.
+
+Joe Quatrochi -- Wells Fargo -- Analyst
+
+Yes. Thanks for taking the question. On the NAND, I was curious within your bit supply growth model or expectations. How do you think about the growth from no transitions to technology transitions. In terms of -- if demand is closer to 30% next year and versus kind of a long-term of high 30%. Do you think the installed base needs to grow to support that?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+Any given year, Joe, when we look at it, there is always a blend of both. It's always in the best interest of the customer to do the node conversions first, because it's a very cost effective way to do it. And then generally, that means you lose wafer capacity and needs to get [Indecipherable] up a little bit. In any one year, the mix is different one year to the next, but it's always a blend.
+
+Joe Quatrochi -- Wells Fargo -- Analyst
+
+Okay, that's helpful. And then just -- I thought your comments in the prepared remarks around support engagements being remote. I was interesting obviously COVID. So was curious how do you see that trending over the next few years, maybe what percentage of engagements are remote now and maybe how do we think about the cost savings potential there?
+
+Tim Archer -- President and Chief Executive Officer
+
+Yes. It's -- well, I guess what I would say is we featured the Equipment Intelligence solutions. You imagine if we're launching Sense.i designed around Equipment Intelligence, we started that activity long before COVID was ever even something we could imagine. So we feel very fortunate now that we're driving that aggressively. And it really is designed to do things that remove the need for people to be physically located at the tool in order to troubleshoot and repair the tools. And so we have seen -- I mentioned a 6 times increase in remote support engagements year-over-year. A lot of that is because our engagement with customers and it's kind of like not many other choices at this point to bring the kind of expertise you need to the tool.
+
+And I think that what -- just as we're seeing with work-from-home and other things. There was -- a lot of that will remain structural. It is -- it does save money for the customers by allowing us to repair the tools and get them back into production more quickly. And it saves money for Lam, because we don't have to deploy as many people flying all over the world trying to service these tools. So I think a lot of that, I hope and I believe, will be structural and long lasting.
+
+Operator
+
+And we'll go ahead and [Speech Overlap]
+
+Tina Correia -- Corporate Vice President of Finance and Investor Relations
+
+Operator, we have time for one more question, please.
+
+Operator
+
+Perfect. We'll go ahead and take our last question from Weston Twigg with KeyBanc Capital Markets. Please go ahead.
+
+Weston Twigg -- KeyBanc Capital Markets -- Analyst
+
+Hey, thanks for squeezing me in. Quick two questions. First, advanced packaging, you talked about it in the opening remarks. Can you help quantify what that is as a percent of systems revenue, or sort of how relevant it is to the overall top line?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+You know, Wes, right now, it's small, but with nice growth trajectory. And we're excited about what the future looks like. It's not huge right now. But when you listen to the industry and our customers talk about it overtime, it's clearly part of their road map to drive Moore's Law forward. So we're excited about it. It's not huge now. We hope it will be over time.
+
+Tim Archer -- President and Chief Executive Officer
+
+I think, though, it also is -- Wes, maybe you've been around a long time. So you recognize the SABRE name point. And the point there is, in many cases, these are -- I mentioned this is about leveraging a lot of the expertise we've already built for other applications into new areas where we can gain high share. And it doesn't require in those cases for those markets to be quite so big to have -- have started that have an impact. So SABRE 3D, very, very strong position, very long track record. A lot of that R&D already, kind of, being done for larger markets; Syndion, same thing in terms of very high, very strong market position.
+
+And then, as Doug pointed out, what we're really trying to say, we have those positions, and we actually see the market coming to us as more of these integration schemes continue to go 3D. So we highlighted it just as it's one other example of 3D helping drive incremental growth for the company.
+
+Weston Twigg -- KeyBanc Capital Markets -- Analyst
+
+I see. Okay. That makes a lot of sense. And then the other question I had was just the US, it was remarkably low in terms of revenue contribution last quarter. I was wondering, if you could offer any commentary on that, if that's a trend that you see or it's just an abnormally low quarter?
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+There's not a lot of fabs in the US taking equipment. I mean that's what's going on. I mean, this is a [Indecipherable] statement. And most of our customers' fabs are outside the United States, Wes, you know that.
+
+Weston Twigg -- KeyBanc Capital Markets -- Analyst
+
+Yes. I guess, it had dropped a lot quarter-over-quarter as well. So it seems like the investment is declining. And I don't know if that's a sustainable trend and it could be, but that's the commentary I was looking for.
+
+Doug Bettinger -- Executive Vice President and Chief Financial Officer
+
+No. It's just -- you know how this works. Equipment can be lumpy to any one fab that come one quarter and then it needs to ramp. And it's lumpiness, but you know the fabs are in the US, and that's what's going on. It's just timing.
+
+Weston Twigg -- KeyBanc Capital Markets -- Analyst
+
+Understood. Thank you.
+
+Tim Archer -- President and Chief Executive Officer
+
+Thanks, Wes.
+
+Operator
+
+And that does conclude today's question-and-answer session. I'd like to turn the call back over to today's speakers for any additional or closing remarks.
+
+Tina Correia -- Corporate Vice President of Finance and Investor Relations
+
+No more closing remarks. Thank you everyone for joining today. We appreciate it.
+
+Operator
+
+[Operator Closing Remarks]
+
+Duration: 64 minutes

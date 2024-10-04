@@ -1,0 +1,992 @@
+Page | 1 
+Company: BANC OF AMERICA SECURITIES-MERRILL LYNCH 
+Conference Title: PayPal 4Q18 Post-Earnings Call 
+Conference ID: 8475360 
+Moderator: Integration User 
+Date: January 31, 2019 
+Operator: This call is not for media representatives or Banc of America Merrill Lynch investment bankers 
+or commercial bankers including corporate and commercial FX. All such individuals are instructed 
+to disconnect now. 
+ Good day and welcome to the PayPal 4th Quarter 2018 Post Earnings conference call. Today’s 
+call is being recorded. And I would now like to turn the call over to Jason Kupferberg. Please go 
+ahead. 
+Jason Kupferberg: Thank you and good afternoon everybody; appreciate you joining us. I'm Jason 
+Kupferberg, the Payments Analyst at Banc of America/Merrill Lynch. We’re very pleased to be 
+hosting the quarterly Post Earnings Call-Back today with PayPal. We have John Rainey, CFO, on 
+the line as well as the PayPal IR team. So, thank you guys for the opportunity. 
+John Rainey: Thanks Jason; appreciate it and looking forward to. 
+Jason Kupferberg: Okay great. Well, you know - a few moving parts here this quarter and we did have a 
+whole bunch of questions logged into us - so I'm going to kind of go through these - and hopefully 
+get through as much content as possible. Maybe just to start - if you can provide a little bit of 
+clarification. Within the Q4 numbers there was obviously some non-operating gains in there, and 
+you had previewed that a bit on the Q3 call - it ended up translating into some higher nontransaction related expense in the quarter than maybe some people had remembered would be 
+coming. So, if you can just clarify exactly what the gains were - how you chose to spend them - 
+Page | 2 
+and then, you know, whether or not there is anything we need to think about going forward with 
+respect to either, you know, elevated non-transaction related expenses or non-operating gains. 
+John Rainey: Sure Jason. First, I would just say the fourth quarter really capped what we thought was a 
+good year for us. We saw 21% revenue growth when you adjust for asset light. We grew earnings 
+per share by 26%. We had a record quarter for net new actives and capped off a record year where 
+we had almost 40 million net new actives come to our platform in the year. And then of course very 
+importantly, we completed the sale of our U.S. consumer credit receivables portfolio for $6.5 billion 
+dollars in cash proceeds and put a similar amount of capital to work either through share buyback 
+or acquisitions. 
+ But to your point, we did indicate that we were going to have a larger than normal benefit in other 
+operating income in the fourth quarter and just for context, the accounting rules have changed this 
+year such that when minority investments -- previously held under the cost method -- have some 
+type of valuation round, we have to mark those to market. And it was such for us that we had $55 
+million dollars of gains in the fourth quarter. And we knew about some of that going into the quarter. 
+And rather than let that fall entirely to the bottom line we gave an indication on our third quarter call 
+that we wanted to spend into that and make some sound investments for our business. And you 
+see some of that in the net new active number in fact. 
+ But, you know, had it not been for that more – or said differently - had those market-to-market gains 
+not occurred, we certainly would have curtailed our spending more in the quarter, but we felt the 
+right thing for the long-term growth of the company was to spend into it. 
+Jason Kupferberg: Okay. So really, it’s kind of a one-off situation. 
+John Rainey: Correct. 
+Page | 3 
+Jason Kupferberg: Okay. So, let’s pick up on that point around the net new adds. I mean, organically you 
+were at 10.9 million in Q4 which was a huge number relative to what the recent run rate has looked 
+like. And you talked about core PayPal still being a main driver in there – and obviously Venmo is 
+contributing also – but it would be great if you could help us drill into the geographic mix a bit. You 
+know, which countries are really driving the bulk of the growth. I know you talked about India, for 
+example, as, you know, an exciting long-term opportunity where you’re getting some traction – so, 
+you know, a little more context on the actual source of the venue would be great. 
+John Rainey: Sure. Well, I think to start with is just a general with two exceptions I’ll talk about. The 
+composition of our net new actives pretty much represents where our footprint is. And so, we don’t 
+see outsized growth in one region versus the other with two exceptions. One is obviously Venmo 
+which is just U.S. And while the majority of our net new actives came just through PayPal core, 
+Venmo is in second there in terms of the contribution. 
+ The second area that I point to which is different from what we’ve seen in prior years is the benefit 
+from India as we’ve launched organic efforts in India that had larger than normal contribution to our 
+net new actives in the quarter and we are pleased about how that’s coming along. 
+Jason Kupferberg: Okay. So, if you look at the net new actives that came on in 2018 and think about just 
+the expected lifetime value of them versus the cohort that would have come on, you know, in 2017 
+or 2016 for that matter - is there any difference in that? In other words, if you’re adding 
+disproportionate amount of users, let’s say in India - you know, are you thinking about the lifetime 
+value of those users any differently than say in, you know, in a new U.S. user? 
+John Rainey: Sure. So, we spend a tremendous amount of time and effort really looking at the lifetime 
+value - and even the cost of acquisitions of each of our cohorts. So, this is an area that we have a 
+lot of rigor in. And what we see - and again, there’s an exception to this which I’ll point out - but 
+the new cohorts that are coming on have a higher lifetime value and that’s really driven by the fact 
+Page | 4 
+that they tend to be more engaged. And I think in part because of maybe the network effect of our 
+business - we’re just more relevant in more places and there’s more opportunities to use us - and 
+so we see a higher lifetime value. 
+ The exception to that would be India. India tends to be at the lower end of the spectrum. And 
+perhaps that changes over time, but again I think it’s - we have less of a presence in India. It’s 
+more of a nascent development for us. And so, over time as we have more merchants on board 
+there, we get - you know, more market penetration and we would expect that to change - but right 
+now India has a lower CLV (customer lifetime value) than the rest of our business. 
+Jason Kupferberg: Understood. Let’s maybe switch gears over to Venmo. That was again a highlight in 
+Q4. You did give us a new disclosure that Venmo exited 2018 with an annualized revenue run rate 
+over $200 million. Where should we think about the range of that being exiting 2019 just given 
+traction you’re getting with, you know, each of the legs of the monetization stool? 
+John Rainey: Well, we’re not going to provide a number for the exit for 2019 but, you know, we continue 
+to see tremendous growth there. In fact, we’ve seen an acceleration in growth in certain parts- to 
+some of the monetization activities. But, you know, we’ve been asked to provide more disclosures 
+around Venmo. And, you know, I don’t want to segment report the various parts of our business, 
+but we thought that this was a good addition in the quarter to give some color to how Venmo is 
+progressing. And I think very importantly, when we look at the composition of how we’re monetizing 
+Venmo - certainly early on, the majority of this was through what we refer to as OCT, which is the 
+payment for instant withdrawal. And we talked back in our last call that we saw a billion dollars in 
+volume just in September alone. And that’s continuing to perform very well. 
+ What’s changed is that we’re seeing rapid growth in the other two areas of monetization which is 
+actually paying with Venmo at merchants -- and also the card use. And so, very pleased with that. 
+And they represent half of what that $200 million is today. 
+Page | 5 
+Jason Kupferberg: Between those two, can you tell us which one is larger right now -- the pay with Venmo 
+versus the card? 
+John Rainey: Sure. They’re split pretty equally. The card is a little bit higher than pay with Venmo at this 
+point. But again, I would expect if you were to think about all three of those in order - OCT being 
+the largest - the card being the next largest - and then Pay with Venmo being third - ultimately that 
+would be completely flipped… 
+Jason Kupferberg: Yes. 
+John Rainey: …where the majority of the monetization would come to Pay with Venmo. 
+Jason Kupferberg: Right. And then if we think about just the relative transaction margin that each of those 
+three carry, I guess we would think pay with Venmo may be especially high. Is that a valid 
+assumption? 
+John Rainey: Well, pay with Venmo is effectively going to be the same take-rate - as what we have with 
+PayPal. So, we don’t have a separate agreement with each of the merchants for PayPal and 
+Venmo. It’s under one… 
+Jason Kupferberg: Right. 
+John Rainey: …blanket. Although the transaction costs seem to be lower with Venmo. But if we’re just 
+looking at transaction margin of all of those - OCT is the highest and should remain that way. The 
+instant… 
+Jason Kupferberg: Okay. 
+Page | 6 
+John Rainey: … withdrawal. 
+Jason Kupferberg: Okay. Interesting. So, I know that on the call you indicated that Venmo is not yet 
+breakeven, but I think you had said that the goal is within sight - if I have the words right. I mean, 
+is this a realistic scenario in 2020? 
+John Rainey: You know, we have a lot of opportunities to try to get that to break even or even, you know, 
+further put our foot down the accelerator with profitability. But our priority right now to be very clear 
+is growth. And, I feel like we have a little bit of a luxury to make sure that given the financial 
+architecture that we have - and the fact that our core business is performing so well - we can make 
+the right investments to maximize this opportunity in the long term. And so - I don’t want to be 
+specific about any quarter or year in terms of when we expect this to happen - line of sight, though, 
+has been certainly the medium term outlook that we talk about - but again, I think that the best thing 
+for PayPal long term is to make sure that we get the growth that we aspire to in this area. 
+ And again, as long as we’re growing the margins in our business and making these sound 
+investments for the long term, I think we have the luxury to do that. 
+Jason Kupferberg: Fair enough. Let’s switch gears over to the outlook for 2019. It did seem like the tone 
+on the overall global macro backdrop down to some extent this quarter - is that because of 
+incremental weakness that you’re actually observing in parts of your business, or is it more of a 
+cautionary note that you are braced for some potential slowing in certain areas? Kind of putting 
+eBay aside - we’ll come to that separately. 
+John Rainey: It’s probably some of both. 
+Jason Kupferberg: Okay. 
+Page | 7 
+John Rainey: It’s hard I think for any company today to, you know, turn on CNBC or pick up the Wall Street 
+Journal and, you know, not be a little cautious about what they see out there. The - whether it’s, 
+you know, the UK and Brexit or China. And so, I think - my sense is companies are, you know, 
+being a little cautious perhaps as a general rule. But we also do it to be clear - we see some impact 
+in our business. We saw it in the fourth quarter. We see it right now. Growth is not as strong in 
+certain regions as it was a year ago. So, certainly that influences it as well. 
+Jason Kupferberg: Can you go into that a little bit deeper and maybe talk about, you know, maybe this is 
+where we segue a little bit into cross border - but just kind of digging into, you know, where some 
+of the slowdown has made itself evident. 
+John Rainey: Sure. Well, in no particular order - China is one where we see that, you know, there’s less 
+growth and I think there are trade tensions. And, you know, I was in China fairly recently - and 
+certainly there is maybe a level of concern there that we haven’t seen in some period of time. 
+They’ve been in such hyper growth mode for so long. And so, with that level of concern, I think 
+merchants may be are being a little more guarded about the marketing dollars that they’re spending 
+on certain campaigns and things like that. And that has an impact to business for sure. That’s an 
+area. 
+ I think that the UK consumer, just in general, is - that’s just weaker than it was at this point in time 
+last year. So those are two that stand out. But I think for our business where we do - you know, a 
+significant amount of volume cross border - one of the main things that impacts that are currency 
+changes. And, you know, we’ve seen the dollar strengthen against a basket of currencies. But, 
+you know, one that stood out for me in the quarter was the Australian dollar. 
+ As you know, Australia is a country where we have a very large penetration into the digital users 
+there. And as the dollar strengthened by around 7 % - that certainly has an impact in terms of 
+Page | 8 
+cross quarter volumes. So, an Australian consumer now after purchasing something from a U.S. 
+merchant that’s 7% more expensive. And the way that we account for that is that the country that 
+is on the receiving end of that were the revenues recognized. So, in the example what I provided 
+with an Australian consumer buying from a U.S. customer - that’s cross border - but that’s U.S. 
+revenue. And so, we certainly see an impact to our business from that. 
+Jason Kupferberg: Okay. Yes, that helps to explain why there was a decel in the U.S. revenue growth. 
+So, since you mentioned cross border, let me just come to that maybe - and if you think about 
+where you exited the year - I think it was 14% in constant currency - are you assuming some 
+amount of gradual recovery in that metric in your 2019 guidance? 
+John Rainey: Not in the first half of the year. The first half of the year we expect to be pretty consistent 
+with this. We will get to the back half of the year - comps get a little bit easier in certain cases. We 
+also have initiatives that we’re embarking on that are specific to PayPal - will give us some growth 
+opportunities as well. 
+Jason Kupferberg: Can you take price at all on cross border to help offset some of the volume ((inaudible))? 
+I know you had done that a couple of years ago. 
+John Rainey: You can but - you know, that’s something that - I’ve probably overused this term - but I 
+describe it as a little bit of sugar high sometimes. 
+Jason Kupferberg: Yes. 
+John Rainey: But, you know, it feels good right when it’s happening but when you come off of it, not so 
+great. And so, when we price, we really do it to maximize long term value. It’s not something that 
+we’re going to manipulate prices to drive an outcome one quarter to the next. We really try to price 
+to where we’re providing value to our consumers and merchants. And so, that is definitely a lever. 
+Page | 9 
+And is one that is - you know, when you look at the elasticity there, it’s pretty reliable in the short 
+term. But in the long term, you know, the cure for high prices is high prices- and if you price too 
+high, you’re just inviting competition to come in. 
+Jason Kupferberg: Right. Okay. So, if we come back to the 2019 top line outlook - 16% to 17% - and then 
+if we adjust for Synchrony and acquisitions - I think it would be more like 18% to 19%. And on that 
+same basis, you did about 21% in 2018. So, let’s just talk about what some of the drivers are being 
+implied in the–deceleration are, presumably eBay’s a part of it - but wanted to get your perspective, 
+understanding that you guys have had a track record of setting your initial guidance at very 
+achievable levels. 
+John Rainey: Yes. So, the number you quoted excluded acquisitions, but I think that’s an important point 
+to mention. Certainly, eBay is part of it, but - you know, we’re a company that has been growing 
+revenue just -- let’s say sort of nice round numbers here - on average 20% a year - and you do get 
+into a situation where the law of large numbers begin to impact you. But I think that’s something 
+about us that is different from a lot of companies like us is that, not only are we growing revenue at 
+that rate but we’re generating free cash flow margins at that rate as well. 
+ And I bring that up because it allows us to take that cash flow and then go and invest and grow. 
+And some of that does come through the form of acquisitions. And so that has been a tool that 
+we’ve had to keep that level of growth rate up in that same range of 20% - is to be able to go out 
+and acquire companies and capabilities that enable us to continue to do that. And that’s - again - 
+to us, I think, somewhat unique because of the cash flow margins that we have and that provides 
+us a luxury that many others don’t. 
+Jason Kupferberg: Okay, fair enough. I mean - I guess relative to when you had given us the preliminary 
+guide for ’19 in October, you had talked about doing about 17% revenue growth. So, it’s essentially 
+Page | 10 
+the same now. Yet, it does seem like you are absorbing more head winds from eBay and from 
+Cross Border than you would have envisioned back three months ago. Is that fair? 
+John Rainey: That is fair. And I’m glad you asked the question because I want to put a finer point on that. 
+The guidance that we gave yesterday relative to the guidance that we gave in October, it’s exactly 
+in line as the way that we think about it. 
+ We have absorbed some headwinds but we’ve also - you know, uncovered some things that we 
+think are opportunities for us. And it enables us to absorb those headwinds - eBay being one - and 
+I know we’ll talk about that. But, it’s not a change in guidance at all. You know, when we first give 
+that initial kind of head nod in terms of what we’re thinking about in 2019 guidance, we tend to do 
+that in broader ranges. And that’s 17-ish percent guidance that we gave. 
+Jason Kupferberg: Yes, okay. That’s helpful. Just one other one on 2019. We’ve had some questions 
+about the modeling of transaction revenues versus the OVAS line - is all of Venmo’s revenue on 
+the transaction line? Is the Synchrony rev share in OVAS? What about the recent acquisitions? 
+Is that all in transaction? Any color there would be helpful. 
+John Rainey: Yes, so, my apologies to every investor for all the changes that have occurred with other 
+value-added services revenue. There’s noise there because of held for sale accounting and 
+Synchrony. But, you know, that’s predominantly credit today. We do have some amount of interest 
+income related to customer balances. But maybe the right way to think about that is, we still will 
+have some transitioning of the Synchrony relationship into 2019. Maybe the right way to think 
+about that for the first quarter is - I would expect similar year-over-year changes in OVAS - as what 
+we saw in the 4th quarter - maybe slightly better. And so, it declined 19% in the 4th quarter. You 
+know, maybe more towards the mid-teens or something like that would be the decline in the first 
+quarter. 
+Page | 11 
+Jason Kupferberg: Okay. 
+John Rainey: You get those back after the year - you know, a lot of the noise… 
+Jason Kupferberg: you are lapping 
+John Rainey: Yes, we are lapping. So, it’s an easier comp. 
+Jason Kupferberg: Yes. Okay, that’s good. So, let’s talk a little bit about eBay. I believe the company is 
+themselves is actually guiding to flat-ish, organic volume growth on their platform in 2019. I know 
+that PayPal’s eBay volume growth has been running maybe a couple of points below that of eBay 
+itself at least for the last couple of quarters. So, would it be fair to conclude that, you know, in the 
+first quarter - and even in full year 2019 - that you’d expect PayPal’s eBay volume to perhaps be 
+down modestly? And as part of that maybe you can talk about to the extent you have a view on 
+where there might be some of those reconciling items between what eBay reports for its GMV 
+growth versus what shows up in PayPal’s numbers. 
+John Rainey: Sure. So, there’s always a bit of a delta between their reported GMV growth and our TPV 
+growth. Some of the items to call out -- classifieds - it’s something that we don’t have - they have. 
+Korea - is an entity where we don’t have PayPal. They have an acquisition in Japan that is not 
+reflected in our numbers as well. 
+ So, if you look - I believe the delta - there has been two to three points in terms of what they report 
+versus what we report. And that’s a - I think that’s a normal sum as we look into the future. And 
+so, it’s certainly - I believe they guided 0% to 2% GMV growth. 
+ And so, you’re right - one would conclude if that same delta exists, then we’re talking flat to down 
+one maybe on eBay. And so that’s - you know, it’s hard to have a different forecast from what they 
+Page | 12 
+suggest. You know, we certainly do our own estimates and analysis on that but that’s probably a 
+pretty good reflection of what we expect in our business. 
+Jason Kupferberg: Okay. I think that you said on the call that eBay’s intermediation efforts to date have 
+been immaterial to PayPal. When do you expect that they will become material? I know that they’re 
+able to add another country this year. 
+John Rainey: So, they can do 5% in two entities through July or June of this year. And I believe it moves 
+to 10% to two entities. So, there’ll be kind of a gradual increase in terms of what they can do. But 
+they’ll also - presumably - as they’ve said later in 2019 - they’ll be adding PayPal as a payment 
+option which could mute some of that impact. 
+ But - you know, I kind of - I guess maybe a silver lining to some of the things that we’re seeing with 
+eBay is - you know, there was sort of this belief or expectation that in 2021 you would see more of 
+a step change in terms of the amount of volume that we have with eBay. And the fact that they’re 
+growing less right now - all that does is make that trajectory more linear - and actually mute any 
+impact that we would have in that period of time. 
+ And for us, Jason, really our focus is - eBay is a great customer and we want to continue to power 
+their payment experiences - but if you look at - I believe we made some comments yesterday 
+around the other top 20 marketplaces on our platform - and the amount of volume that they’re 
+generating is about 30% larger than what eBay is today. And those are growing north of 40%. And 
+with many of those we are actually expanding our relationship. 
+ And so, this is - when we said we can handle this transition - this is precisely what I want to point 
+people to because this is where we’re focused. This is where we’re investing our resources and 
+our product development. It’s the power of these other experiences that can help sellers with 
+multiple marketplaces around the world. 
+Page | 13 
+Jason Kupferberg: Are you still expecting the PayPal button to be a part of the eBay’s intermediated 
+payment experience by mid-year - I think that’s the timing we had been looking forward. Is that still 
+on track? 
+John Rainey: Yes - you know, they said later this year, but I don’t know how, you know, exact - you know, 
+mid-year is. I mean, it could come a little bit after that but that’s our expectation. 
+Jason Kupferberg: Okay. Another one of the silver linings that has been talked about in the past related 
+to the reconfigured eBay relationship is PayPal’s ability obviously to work with some other 
+marketplaces - competitors of eBay - where there were historically restrictions in place. Can you 
+give us just an update on the pipeline of potential new marketplace announcements? 
+John Rainey: Yes, that’s kind of a tricky question. I don’t want to front run anything but the discussions 
+that we’re having and the types of experiences that we’re developing for some of these other market 
+places and technology platforms - they’re under way. And, you know, I would expect it will - it’s not 
+as if you’re going to have to wait until 2020 to hear something from us. You should expect 
+something this year in fact with some of these. And some of them we need to - depending upon 
+the nature of the agreement - we might have to wait to do something in 2020 - but we can begin 
+working on a lot of this right now. 
+ So, I guess what I’d like to say is just more to come on that. I don’t want to make any 
+announcements prematurely. 
+Jason Kupferberg: Okay. No, that’s certainly fair enough. Let’s talk a little bit about transaction take rate. 
+I know that it did increase quarter-over-quarter for the first time since separation. There were some 
+moving parts in the area - FX hedges. I was hoping you could kind of go into some more detail - 
+Page | 14 
+break down some of the pieces, the drivers here - both for the quarter-over-quarter and the yearover-year comparison in transaction take rate. 
+John Rainey: Sure. Transaction take-rate declined - I believe nine basis point year-over-year. The entirety 
+of that was related to free PtoP via PayPal or Venmo. So that was a full nine basis point. Now, 
+there’s some other moving pieces there. So, let me provide some color to that as well. 
+ A tailwind that we had -- a benefit to take-rate -- was the fact that we had hedge gain - and that - 
+there was a difference - we had a hedge gain this year and a hedge loss last year. That was five 
+basis points of benefit. And so, everything else below that - it’s kind of onesies, twosies that are a 
+little more of a reflection of mix in our business - that is more sort of consistent of what you see in 
+a normal quarter. And so, the hedge gain - hard to kind of predict what’s going to happen there 
+from one year to the next. But certainly, when we look at the effect of free P2P, that will be there 
+for a while. 
+ One of the benefits that we had was related to what I refer to earlier is OCT -- the instant withdrawal 
+-- because the way that’s accounted for is, that is - it’s revenue we receive but it’s actually not a 
+transaction. And so, there’s no TPV associated with that. And so that has a way of buoying that 
+number a little bit. And we should expect to see that continue going forward. 
+Jason Kupferberg: Okay. So, it sounds like in general you’re on a more positive trajectory just in terms of 
+underlining year-over-year change in transaction take-rate once you adjust for quarterly noise such 
+as FX hedges. 
+John Rainey: For sure - and just to be clear. I don’t expect transaction take-rate to begin increasing into 
+perpetuity. That’s not what I’m suggesting. But the rate of decline is certainly going forward much 
+less than what we’ve seen if you were to go back say two years ago. 
+Page | 15 
+Jason Kupferberg: Right. Well, that’s certainly encouraging. How should we think about transaction 
+expense, loan loss rate in 2019 versus 2018? 
+John Rainey: Yes. So, transaction expense - pretty similar to what we saw in 2018. That’s been pretty 
+consistent. There are puts and takes there that we’ve talked about albeit, you know, new customers 
+may be vaulting a credit card which is more expensive but the growth of Venmo which tends to be 
+more balanced towards ACH to offset some of that. So, I would expect that 95 to 100 basis point 
+range to continue into the future. So, kind of around where it was in 2018. 
+ On transaction losses - also, the 18-basis point that we had in the 4th quarter, that’s probably a 
+pretty good number to model out into the future. The loan loss number - that’s one that - the 4th 
+quarter is probably a little better than what one should assume for modeling purposes. That came 
+in at three basis points. Really five -- four to five is a better way to think of that going forward. But 
+again, that’s one that we can throttle to because we look at the revenue side of that as well in terms 
+of the offerings that we’re providing. So, we’re really sort of managing that on a net basis. But, 
+probably four to five basis points is a good number for 2019. 
+Jason Kupferberg: Okay. And then just on the transaction expense - you kind of alluded to this - but wanted 
+to understand a little bit more about the funding behavior that you are seeing among new users 
+that have joined kind of in each successive year since consumer choice was launched, you know, 
+what they’re tending to choose as their default funding source since they’re really, you know, 
+starting from scratch if you will - you know, existing users may be just keep their legacy default 
+funding method because of inertia - but what are the new users tending to do? And then over time 
+do those new users have more of an effect on the overall base? And, you know, is that something 
+that’s many years out - but just trying to see what the comfort level is with kind of the mid to high 
+90’s on the transaction expense, you know, for the next two to three years. 
+Page | 16 
+John Rainey: So - let me start with the main point that you ended with there at the end. We don’t expect 
+any appreciable change in transaction expense as we look out into the next several years. You 
+know, as you get five, six years out maybe there’s something different that we don’t see today - but 
+certainly for our planning purposes, that’s roughly in the range that we’ve discussed. 
+ But you are right that new users tend to vault a card - be it a debit or a credit card. And certainly, 
+it differs based upon what demographic you’re talking about. The younger demographic -- the 
+millennial demographic -- doesn’t have the same relationship with traditional financial institutions 
+that maybe someone in my vintage does. 
+ And so, we see a lot more debit and ACH from them - but a typical user will come to us - and let’s 
+just say they’ve vaulted a credit card and that may be what they use on their first couple of 
+purchases. But what we see is when they go through the choice experience and they designate or 
+they designate a certain preferred card, many times that’s when they will come and add additional 
+cards. And there’s - the majority of customers that have gone through and designated the preferred 
+card actually use multiple funding methods. 
+ So, no different than probably what most people do in their behavior in the offline world where you’ll 
+pull out a certain credit card based upon the size of the transaction or where you’re shopping with, 
+you know, maybe for a restaurant - or maybe at a gas pump, you’re pulling out a debit card. And 
+so, we’re seeing the same type of behavior with our users in their digital wallets as well. 
+Jason Kupferberg: Okay. And then the - just the implications for the servicing revenues that you’re getting. 
+I mean, how long should we expect those to last and is the Q4 run rate on that kind of the right 
+number going forward? 
+John Rainey: That’s a good number to assume for the first half of the year. 
+Page | 17 
+Jason Kupferberg: Okay. And is that - does that go through OVAS? 
+John Rainey: It does, yes. 
+Jason Kupferberg: Okay, got it. So, the other topic I wanted to hit on - you know, there was obviously all 
+the talk last year around asset light and you got the big transaction done with Synchrony - there 
+has been some talk here and there about maybe round two with asset light at some point. You do 
+still have the international consumer credit report portfolio on your balance sheet. You’ve got 
+PayPal working capital. So, you’ve got - I think a couple of billion or so of receivables. What’s your 
+latest thinking there? 
+John Rainey: Yes, so, absolutely – as we have said we don’t want to have credit be such a huge draw on 
+our cash flow that we can’t do other things that are maybe, you know, higher return forms of capital. 
+So, you know, we think that given the credit growth we’re going to get to a point out in the next 
+several years where we’re going to need to do something very similar to what we did with U.S. 
+consumer book. 
+ And so, we’re already looking at options there and working on scenarios because we don’t want to 
+be too reliant on credit given the sort of lack of durability of maybe those earnings in a credit cycle. 
+But also - it’s also a very capital-intensive business - and so, something similar to what we did with 
+the U.S. book is ideal where we have some type of partnership where we can still participate in 
+profits but aren’t too reliant on it and don’t have to originate the loans. So, you know, probably - 
+certainly don’t want to mislead you and suggest that likely we’ll make an announcement in 2019. 
+That’s not in the plans but if you’re going to do something in the years after that - you want to be 
+thoughtful about it - you’ve got to start working on it right now -- which we are. 
+Jason Kupferberg: And just to follow up on U.S. consumer credit - you know, I know you had talked about 
+when you were doing the transaction, you certainly saw - expected to see the flywheel benefits of 
+Page | 18 
+having PayPal credit available to your consumers. Is that the experience that you’re, you know, 
+seeing so far since the deal closed or are you even seeing increased engagement? 
+John Rainey: Yes, absolutely. The deal with Synchrony has been - by all accounts - just a real win-win. 
+And one of the concerns that we had was there was - somewhat of a governor on our U.S. credit 
+business in terms of being able to grow that, in part because of the cash flow needs. And, we don’t 
+have that governor there with Synchrony. And Synchrony has been such a great partner and we 
+have such aligned interest in this and so, we couldn’t probably be more pleased about how that 
+portfolio is doing and what we’re seeing there. 
+Jason Kupferberg: Good, good to hear. I wanted to also talk a little bit about, you know, Pay with Points. 
+I know that’s been in the works for a while and you talked about it a little bit on the call last night. I 
+think you said Citi and Discover have gone live - sounds like more issuers are going to be coming 
+into the fold in 2019. So, maybe if you could just talk a little bit more about the importance of the 
+initiative. And could this actually start to move the needle a little bit on TPV this year or is that more 
+of a 2020 likelihood just based on how this is going to ramp and roll out and maybe you can just 
+talk a little bit about how the issuers are planning to promote it. 
+John Rainey: Sure. So, if you haven’t had a chance yet, I would encourage the audience to look at our 
+investor update. I think on the eighth or ninth page there’s a depiction of what this experience looks 
+like and the ability to pay with points and how simple it is. And we’re really excited about this. Many 
+of you probably heard me talk about this - this is one of the aspects of our growth that I am 
+particularly excited about because technically, you are allowing what is sort of this huge cache of 
+reward points to be used at over 20 million merchants around the world now. 
+ And the importance of that is it requires no integration on the part of the merchant. And so that has 
+always been sort of a long pole in the tent of having more options for these credit card issuers to 
+go out and have more options of additional merchants. And with our integration we basically make 
+Page | 19 
+that a form of payment. And to the merchant they actually don’t even know whether it’s paid with 
+a credit card or debit card or points. And we get the ability to monetize that and in many cases it’s 
+a very low transaction expense. So, this is something I think has a lot of promise as we look out 
+into the future. 
+ But with respect to this being impactful in 2019, you know, it’s not something that I would call out, 
+as going to be quite enormous or huge inflection - but the mid 20’s TPV growth does include some 
+assumption about, you know, what we do here. 
+Jason Kupferberg: Okay. And we’ll look forward to seeing more of the issuers actually roll it out. I also 
+wanted to see - just to circle back to Venmo again for a minute. Can you give us any thoughts on, 
+you know, whether or not we should expect to see some new products, services, features 
+introduced in the course of the next 12 months? I mean, obviously you’ve got three very active 
+initiatives at the moment but is there a vision and a strategy to even extend the aperture further in 
+that regard? 
+John Rainey: I wouldn’t say in the next 12 months. We’ve got some heavy lifting to do to continue to grow 
+like we are with these new areas and don’t want to be distracted by additional features. You know, 
+beyond 12 months - yes, there’s opportunities for features that we don’t have today. But our eye is 
+on the ball here are with the three initiatives that we have. 
+Jason Kupferberg: Okay. All right, it makes sense. Well, in the interest of time, I think we’re going to leave 
+it there. I appreciate everyone who reached out with some questions and obviously John and the 
+team, thank you for taking the time this afternoon. 
+John Rainey: Thank you Jason. We appreciate this opportunity to always sort of further clarify some of 
+the questions that come out of the day of earnings and I’m sure we’ll be speaking with many of you 
+over the coming weeks in clarifying things further. But - again, we thought 2018 was a really good 
+Page | 20 
+year and we’re pleased with what we see in terms of the options that we have walking into 2019. 
+Certainly, there are some things that, you know, are more difficult in terms of the operating 
+environment versus last year but, you know, we’re still planning on the type of growth that we’ve 
+been seeing. So, I’m looking forward to it. Thank you Jason. 
+Jason Kupferberg: Okay, thanks again. Thank you, everybody. Goodbye. 
+Operator: And this concludes today’s conference. Thank you for your participation and you may now 
+disconnect.
+
+
+Client Id: 77
+THOMSON REUTERS STREETEVENTS 
+EDITED TRANSCRIPT
+PYPL - Q4 2018 PayPal Holdings Inc Earnings Call
+EVENT DATE/TIME: JANUARY 30, 2019 / 10:00PM GMT
+OVERVIEW:
+PYPL reported 4Q18 revenues of $4.23b and non-GAAP EPS of $0.69. Expects 
+2019 revenues to be $17.85-18.10b and non-GAAP EPS to be $2.84-2.91. Co. also 
+expects 1Q19 revenues to be $4.08-4.13b and non-GAAP EPS to be $0.66-0.68.
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited 
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its 
+affiliated companies.
+ 
+Client Id: 77
+JANUARY 30, 2019 / 10:00PM, PYPL - Q4 2018 PayPal Holdings Inc Earnings Call
+C O R P O R A T E P A R T I C I P A N T S
+Daniel H. Schulman PayPal Holdings, Inc. - President, CEO & Director 
+Gabrielle Rabinovitch PayPal Holdings, Inc. - VP of IR 
+John D. Rainey PayPal Holdings, Inc. - CFO & Executive VP of Global Customer Operations 
+William J. Ready PayPal Holdings, Inc. - Executive VP & COO 
+C O N F E R E N C E C A L L P A R T I C I P A N T S
+Darrin David Peller Wolfe Research, LLC - MD & Senior Analyst 
+Georgios Mihalos Cowen and Company, LLC, Research Division - MD & Senior Research Analyst 
+Heath Patrick Terry Goldman Sachs Group Inc., Research Division - MD 
+James Eugene Faucette Morgan Stanley, Research Division - Executive Director 
+Lisa Ann Dejong Ellis MoffettNathanson LLC - Partner 
+Tien-Tsin Huang JP Morgan Chase & Co, Research Division - Senior Analyst 
+P R E S E N T A T I O N
+Operator 
+Good day, ladies and gentlemen, and welcome to PayPal's Fourth Quarter and Full Year 2018 Earnings Conference Call. (Operator Instructions) As 
+a reminder, this call is being recorded. 
+I would now like to introduce your host for today's call, Ms. Gabrielle Rabinovitch, Head of Investor Relations. Please go ahead. 
+Gabrielle Rabinovitch - PayPal Holdings, Inc. - VP of IR 
+Thank you, Andrew. Good afternoon, and thank you for joining us. Welcome to PayPal Holdings' earnings conference call for the fourth quarter 
+and full year 2018. Joining me today on the call are Dan Schulman, our President and CEO; Bill Ready, our EVP, Chief Operating Officer; and John 
+Rainey, our Chief Financial Officer and EVP Global Customer Operations. 
+We're providing a slide presentation to accompany our commentary. This conference call is also being webcast, and both the presentation and 
+call are available through the Investor Relations section of our website. We will discuss some non-GAAP measures in talking about our company's 
+performance. You can find the reconciliation of these non-GAAP measures to the most directly comparable GAAP measures in the presentation 
+accompanying this conference call. 
+In addition, management will make forward-looking statements that are based on our current expectations, forecasts and assumptions and involve 
+risks and uncertainties. These statements include our guidance for first quarter and full year 2019, our medium-term guidance and the impact and 
+timing of our acquisitions. Our actual results may differ materially from these statements. You can find more information about risks, uncertainties 
+and other factors that could affect our results in our most recent annual report on Form 10-K and quarterly reports on Form 10-Q filed with the SEC 
+and available on the Investor Relations section of our website. You should not rely on any forward-looking statements. 
+All information in this presentation is as of today's date, January 30, 2019. We expressly disclaim any obligation to update the information presented 
+today. 
+With that, let me turn the call over to Dan. 
+2
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited 
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its 
+affiliated companies.
+ 
+Client Id: 77
+JANUARY 30, 2019 / 10:00PM, PYPL - Q4 2018 PayPal Holdings Inc Earnings Call
+Daniel H. Schulman - PayPal Holdings, Inc. - President, CEO & Director 
+Thank you, Gabrielle, and thanks, everyone, for joining us on today's call. I'm pleased to report that PayPal had another strong quarter ending 2018 
+with a record-breaking growth across a number of key customer and financial metrics. Our transformation into an open digital payments platform 
+is clearly resonating with our customers. PayPal continues to benefit from increasing tailwinds as cash continues to digitize and more and more 
+aspects of our lives move to mobile. Our ability to leverage these trends is reflected in both our current results and our forward-looking guidance 
+for 2019. 
+In 2018, we set new benchmarks in terms of spot revenue growth, net new active accounts and engagement across our platform. We developed 
+industry-defining products, acquired leading-edge capabilities, strengthened existing partnerships and entered into new strategic relationships 
+with some of the biggest, most influential global brands in technology, retail and finance. 
+We aspire to be the de facto operating system for mobile and digital commerce around the world, creating value for all of our partners and customers 
+across the entire payments ecosystem. And each year, we make substantial progress towards that goal. 
+Let's start with our numbers. In 2018, we delivered $15.45 billion in revenue, up 18% on a spot basis and FX-neutral basis or 21% normalizing for 
+the sale of our U.S. consumer credit receivables. That represents our highest annual spot revenue growth rate since separation. Revenues in 2018 
+associated with eBay grew 4% while merchant services grew 22%, more than 5x that of eBay. In the fourth quarter, we generated $4.23 billion of 
+revenue, growing 14% or 21% normalized. This is the first time in our history that we surpassed $4 billion of revenue in a single quarter, and we 
+achieved this milestone despite strong headwinds from slower-than-expected eBay volume growth and greater-than-forecasted FX pressures. 
+For 2018, our overall payment volume grew 26% on a currency-neutral basis to $578 billion. We processed just shy of 10 billion transactions in the 
+year. For the quarter, our TPV, excluding eBay, grew 29% on an FX-neutral basis, significantly outpacing the market as we continue to gain share. 
+In the quarter, eBay had 0 growth in its volume, and it exits 2018 representing just 10% of our overall TPV, down 300 basis points year-over-year. 
+Our strong revenue growth and disciplined OpEx spend combined to drive a 28% year-over-year increase in 2018 non-GAAP earnings per share 
+of $2.42. In Q4, we delivered $0.69 of non-GAAP EPS, up 26%. As we mentioned last quarter, we invested some of our below-the-line EPS benefits 
+to drive customer acquisition, and that clearly paid off. 
+One of the clear highlights of Q4 is our net new active number. We added a record 13.8 million net new active accounts to our platform, up 58% 
+year-over-year. Approximately 2.9 million of these net new actives came from our acquisitions with almost 11 million net new actives driven 
+organically, the best quarterly organic net new active number in PayPal's history. We added 39 million net new actives for the year, another all-time 
+record for us. We now have 267 million active accounts on our platform with approximately 246 million consumers shopping at more than 21 
+million merchants. We are targeting more than 300 million active accounts on our platform by the end of 2019. 
+Even with this acceleration in net new actives, we continue to grow our customer engagement. Engagement grew by 9% to almost 37 transactions 
+per active account. This drove $164 billion in TPV in the quarter, up 25% on an FX-neutral basis, and is our first quarter to ever exceed $150 billion 
+of TPV. 
+Mobile continues to drive our growth with $67 billion of mobile TPV in Q4 alone, representing 41% of our total TPV. One Touch, with its market 
+leading checkout conversion rates, continues to grow with over 123 million consumers and 11 million merchants opted in. 
+Venmo continued its strong momentum this holiday season. We are witnessing significant increases in monetized volume growth and monthly 
+active users. This quarter, we drove $19 billion in payment volume through Venmo, an increase of 80% year-over-year. For the full year, Venmo's 
+volume increased 79%, with $62 billion in payment volume processed, and we are on pace for Venmo to drive almost $100 billion in TPV in 2019. 
+For the last 2 consecutive quarters, Venmo's TPV surpassed the volume of TPV we processed from eBay. 
+Pay with Venmo continues to attract new partners, including Shopify, Hulu, Bigcommerce and Jay-Z's Tidal music service. The total number of 
+Venmo users who have made a monetizable transaction is now 29%, reflecting a steady month-over-month increase. The Venmo card continues 
+3
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited 
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its 
+affiliated companies.
+ 
+Client Id: 77
+JANUARY 30, 2019 / 10:00PM, PYPL - Q4 2018 PayPal Holdings Inc Earnings Call
+to gain significant traction, Instant Transfer revenues continue to increase. And as a result, our Venmo initiatives have produced a revenue run rate 
+going into 2019 that now exceeds $200 million, with revenues being equally split between Instant Cash Out and other monetizable services. I 
+couldn't be more pleased with our revenue trends and the numerous incremental growth opportunities we see for Venmo. 
+Braintree continued to grow impressively, demonstrating its market leadership since our acquisition 5 years ago. Last month, we announced the 
+Braintree platform had processed over 500 billion in authorized payment volume since 2014 with more than 6 billion transactions last year alone. 
+We added KFC Australia, Krispy Kreme, Deutsche Telekom, Deutsche Post, Live Nation, Ticketmaster, Acer computers and TripAdvisor Experiences 
+to its platform, joining a powerful list of leading mobile apps using Braintree such as Uber, Wish, Boxed, Facebook and Airbnb. 
+PayPal's opportunities to expand internationally continue to grow with our global FI, tech and merchant partnerships continuing to multiply. Two 
+countries I'd like to highlight are India and Japan. In India, we benefited from strong consumer demand since we went live in late 2017. In 2019, 
+we will continue to invest in frictionless experiences for everyday payments by Indian consumers. We're expanding our merchant and financial 
+institution partnerships throughout the country's ecosystem, bringing a truly global platform experience to India's consumers and merchants. 
+I'm also pleased with our progress in Japan. We've launched a suite of services that unlocks the network effects of the PayPal platform for merchants 
+and consumers there. For the consumer, this includes One Touch payment, buyer protection and instant bank funding. Japanese merchants also 
+benefit from instant settlement as well as the increase in customer acquisition and conversion we see in other countries around the world from 
+One Touch. We have also added ANA airlines, the largest airline in Japan, to our growing merchant base. 
+We've now secured partnerships with over 20 top-tier global financial institutions, including 8 of the top 10 banks in the U.S. In 2018, we saw nearly 
+40 bank-led marketing campaigns that encouraged their customers to pay with PayPal. One of the most exciting features to come out of our 
+financial institution relationships is enabling our mutual consumers to use their credit card reward points as a tender type in the PayPal Wallet. I'm 
+pleased to announce that we launched this capability with Citi and Discover at the end of Q4 and plan to roll this out to multiple partners in 2019 
+including Chase, AMEX and Barclaycard. It's been estimated that nearly 10 billion of reward points go unused every year in the U.S. alone. Helping 
+to address that issue is a huge opportunity for consumers and is yet another way that our 2-sided platform is connecting consumers and merchants 
+in unique and powerful ways. 
+I'd like to now turn the call over to Bill, who will provide additional color on some of our other recent partnerships. 
+William J. Ready - PayPal Holdings, Inc. - Executive VP & COO 
+Thanks, Dan. It's clear that PayPal is becoming the payment platform of choice for marketplaces and multiseller e-commerce platforms. Our top 
+20 partners and marketplaces total payment volume, excluding eBay, grew by over 40% in 2018, reaching nearly $85 billion. This segment of our 
+business is now much larger and faster-growing than our legacy eBay Marketplace business, and we expect this growth to continue in 2019 as we 
+expand our current partnerships and welcome new partners onto our platform. 
+We are working with some of the leading companies and their respective industries, including Etsy, Uber, Airbnb, Grubhub and Pinterest. In Q4, 
+we began piloting One Touch seller sign-up with noteworthy partners, including Walmart. One Touch seller sign-up significantly reduces the friction 
+of signing up to sell in a new marketplace for merchants and helps marketplaces connect with sellers that have a proven history with PayPal. One 
+of the most pronounced trends in e-commerce over the past several years has been the many new and rapidly growing forums for small businesses 
+to sell to customers around the world. PayPal is helping merchants to manage and grow their business across those new forums, and now with 
+One Touch seller sign-up, we are making it easier than ever for merchants to begin selling in a new marketplace or digital channel. In fact, those 
+merchants that are using PayPal to sell across multiple channels already grow at nearly 3x the rate of those that sell on only one marketplace. 
+Through PayPal for Partners and Marketplaces and One Touch seller sign-up, we are connecting small businesses and merchants of all sizes to all 
+the best places to sell, giving them the opportunity to reach more buyers and drive greater sales. 
+Connecting our 21 million-plus merchants to customers wherever they shop is a core element of our efforts to democratize access to the digital 
+economy. We believe these partnerships and the increasing use of our PayPal for Partners and Marketplaces product will help to seamlessly connect 
+4
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited 
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its 
+affiliated companies.
+ 
+Client Id: 77
+JANUARY 30, 2019 / 10:00PM, PYPL - Q4 2018 PayPal Holdings Inc Earnings Call
+buyers and sellers in the world's highest-growth marketplaces and digital sales channels, ultimately making the digital economy more accessible 
+for consumers and merchants around the world. 
+Additionally, we're announcing today that we have entered into a strategic partnership with Paymentus, an electronic billing service company that 
+provides e-bill presentment, management and payment capabilities to large-scale merchants in the U.S., Canada and Mexico. PayPal will enable 
+payment processing for Paymentus transactions, including debit card, credit card and ACH through our Braintree platform, as well as PayPal, Venmo 
+and PayPal Credit payment options for existing and new merchants. Additionally, we will leverage the Paymentus platform to enable a consumer 
+bill payment experience within the PayPal app. Not only will billers on the Paymentus platform be able to present bills to PayPal consumers directly, 
+but this feature will also allow other billers and billing platforms to present bills to PayPal consumers, enable payment with PayPal. This opens up 
+bill payment as a vertical for us. And overall, bill payment has the potential to generate tens of billions of dollars of payment volume. 
+Dan, I'll hand it back to you now. 
+Daniel H. Schulman - PayPal Holdings, Inc. - President, CEO & Director 
+Thanks, Bill. It's great to see deep relationships, like those we have with Walmart and now Paymentus, that utilize the full scope of PayPal's platform 
+to drive mutual value for our joint customers. We expect to welcome additional partnerships throughout 2019. 
+I'd like to end my remarks by recognizing the extraordinary generosity of our customers. We shattered our previous Giving Tuesday record this 
+holiday season with nearly $98 million donated to charitable causes in just 1 day. And for the full year, more than $9.5 billion was donated to 
+nonprofit organizations across the world through the PayPal platform. It means a lot to all of us at PayPal that our platform can be used to make 
+such a large difference to nonprofits and charities across the globe. 
+2018 was a strong year for us with record revenue and net new actives, and we are well positioned to continue that growth. The network effects 
+of our scale continue to accelerate. Our breadth of services and products go well beyond checkout, and we are increasingly seen as a must-have 
+platform for retailers who are battling for relevance in the era of digital commerce. 
+I'm encouraged by the progress we are demonstrating in monetizing Venmo, and I'm confident it will generate significant revenues and profits in 
+the years ahead. Our various international efforts are ramping, and 2019 is shaping up to be another strong year. We'll need to execute against the 
+backdrop of an unpredictable world economy, but we have the tools and capabilities to continue our growth and progress in the years to come. 
+With that, I'll turn it over to John. John? 
+John D. Rainey - PayPal Holdings, Inc. - CFO & Executive VP of Global Customer Operations 
+Thanks, Dan. I'd also like to thank all of our customers, partners and employees for making 2018 a great year. We achieved notable milestones and 
+are pleased with what we've accomplished. In 2018, we delivered significant innovation across our platform, introducing new features and services 
+for our consumers and merchants globally. We also made 4 acquisitions that have expanded our offerings in addressable markets; completed the 
+sale of our U.S. consumer credit portfolio, which resulted in approximately $6.5 billion of cash proceeds; and announced key issuer technology and 
+merchant partnerships. Entering 2019, we are well positioned to build on our momentum and continue delivering strong revenue growth with 
+margin expansion. We remain focused on creating long-term, sustainable shareholder value. 
+I'd now like to discuss our fourth quarter results. Total payment volume was $164 billion, an increase of 23% in spot and 25% on a currency-neutral 
+basis. Our 2018 acquisitions contributed approximately 2 points of growth. Merchant services volume on a currency-neutral basis grew 29% to 
+$147 billion. P2P volume, which is part of merchant services, grew 46% to $39 billion and represented approximately 24% of total payment volume 
+versus 20% in Q4 last year. In comparison, on a foreign currency-neutral basis, we saw no growth in volume associated with eBay. And on a spot 
+basis, this volume declined approximately $300 million from Q4 2017. 
+5
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited 
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its 
+affiliated companies.
+ 
+Client Id: 77
+JANUARY 30, 2019 / 10:00PM, PYPL - Q4 2018 PayPal Holdings Inc Earnings Call
+eBay Marketplaces represented 10% of volume on our platform, down from 13% in the fourth quarter last year. Revenue in the fourth quarter 
+increased 14% on both a spot and a currency-neutral basis to $4.23 billion. Adjusting for the sale of receivables to Synchrony, revenue growth 
+would have been approximately 21%. Acquisitions contributed approximately 1.5 points to revenue growth in the quarter. The translation effect 
+from the stronger dollar negatively impacted revenue by $63 million. This impact was offset by $39 million in revenue from our hedge program. 
+As a result, the net effect of the stronger dollar was a headwind of $24 million in the quarter. 
+Exiting 2018, at current rates, we estimate that our hedge positions would result in the recognition of $171 million in international transaction 
+revenue in 2019. U.S. revenue grew 9% versus Q4 2017 and approximately 20% adjusting for the credit receivable sale. International revenue grew 
+19% on a currency-neutral basis. On a spot basis, transaction revenue grew 19% in the quarter. Revenue from other value-added services declined 
+19%. Normalizing for the receivables sale, revenue from other value-added services would have grown approximately 35%. In the quarter, we 
+recognized approximately $55 million of revenue from Synchrony related to transitioning loan, servicing and collections. 
+Revenue from our eBay Marketplaces was lower than expected in the quarter. On average, for the 8 quarters preceding Q4 2018, volume related 
+to eBay grew 6%, currency neutral. On the same basis, this growth rate dropped to 0 in the fourth quarter. For the first time in 2 years, revenue 
+declined versus the prior year's quarter. This decline was unrelated to the transition to managed payments, which had no material impact on our 
+results. Despite this, geographic and product diversification, including from our acquisitions, Venmo monetization and our growing APAC business 
+allowed us to continue to deliver solid revenue growth. In the fourth quarter, transaction take rate was 2.35%. This is the first sequential increase 
+in transaction take rate since separation. Versus Q4 2017, transaction take rate declined 9 basis points, which is the lowest level of decline we've 
+experienced on a year-over-year basis. Growth in our P2P business, continued deceleration of eBay and lower cross-border volumes contributed 
+to the reduction in transaction take rate. 
+Total take rate in Q4 was flat sequentially and down 20 basis points from the prior year, primarily as a result of the receivable sale. Both transaction 
+take rate and total take rate benefited from revenue related to our hedge gains. 
+Volume-based expenses increased 21% in Q4 to $1.9 billion. Transaction expense represented 96 basis points as a rate of TPV, flat sequentially and 
+versus last year. We saw an increase in card-based funding which was offset by P2P growth. Transaction loss was 18 basis points as a rate of TPV, 
+flat sequentially and an improvement of 1 basis point versus Q4 2017. An improvement in our Venmo loss rate contributed to the stronger 
+performance versus last year. Loan loss was 3 basis points as a rate of TPV. 
+Transaction margin dollars grew 9% for the fourth -- from the fourth quarter last year to $2.3 billion. Transaction margin as a rate was 55%, flat 
+sequentially and a decline of approximately 250 basis points from 2017. The reduction in revenue from the receivable sale, which began to affect 
+other value-added services in Q3 '18, in conjunction with the related held-for-sale accounting treatment, which started in Q4 '17, affected both the 
+growth in transaction margin dollars as well as the rate. 
+Non-transaction-related expenses grew 7% versus last year. Growth in these expenses was affected by both the lapping of the held-for-sale accounting 
+changes, which resulted in a lower rate of growth year-over-year as well as an increase in non-transaction-related expenses related to our acquisitions. 
+Normalizing for both of these, non-transaction-related expenses grew 9%. 
+When we reported Q3 results in October, we indicated that we expected to see higher-than-usual, below-the-line benefits in the fourth quarter 
+and discussed our plans to opportunistically reinvest this upside. Accordingly, in the quarter, we ramped our spend in several key strategic investment 
+areas including sales and marketing, which increased 21%. 
+General and administrative expenses grew 27% in the fourth quarter, predominantly driven by acquisition-related costs. In the aggregate, our 2018 
+acquisitions added approximately 5.5 points of growth to the increase in nontransaction-related expenses in the fourth quarter. 
+Operating income grew 13% to $913 million, and operating margin declined 20 basis points year-over-year in Q4. Adjusting for acquisitions, 
+operating margin would have expanded 80 basis points. Other income in the quarter increased by $67 million, primarily due to net unrealized 
+gains on minority investments. Strong revenue growth and operating efficiencies resulted in non-GAAP EPS growth of 26% to $0.69. 
+6
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited 
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its 
+affiliated companies.
+ 
+Client Id: 77
+JANUARY 30, 2019 / 10:00PM, PYPL - Q4 2018 PayPal Holdings Inc Earnings Call
+We ended the quarter with cash, cash equivalents and investments of $10 billion and short-term borrowings of $2 billion. Free cash flow in the 
+quarter was $910 million, which equates to $0.22 of free cash flow for every dollar of revenue generated. 
+I'd now like to discuss our guidance for the full year and the first quarter of 2019. The guidance we are providing today is in line with the preliminary 
+outlook we provided in October when we reported our third quarter results. 
+For the full year 2019, we expect TPV to grow in the mid-20s percentage range. We expect to generate revenue between $17.85 billion and $18.1 
+billion, representing currency-neutral growth of 16% to 17%, or 21% to 21% adjusting for the sale to Synchrony. We expect non-GAAP earnings 
+per share of $2.84 to $2.91, representing growth of 17% to 20%. 
+Our guidance includes the expectation that our 2018 acquisitions will contribute approximately 1.5 points of growth to revenue in 2019 and $0.08 
+to $0.10 of dilution to earnings per share. In 2019, we plan to deliver operating margin expansion with continued operating leverage and efficiencies 
+more than offsetting this dilutive effect. In 2020, we expect these acquisitions to be accretive to our earnings. 
+The diversity of our business is allowing us to maintain our guidance ranges while absorbing a number of headwinds as we enter 2019. While the 
+lack of eBay growth remains a challenge and geopolitical uncertainty is affecting growth in places like China and Europe, we are confident in our 
+ability to offset these headwinds through new sources of growth, including our expanding marketplace relationships, Venmo monetization, 
+domestic India as well as the strong secular growth driving digital payments and mobile commerce. 
+We anticipate our non-GAAP effective tax rate will be between 17% and 19%. For 2019, we anticipate free cash flow will exceed $3 billion. With 
+approximately $10 billion in cash and an investment-grade debt rating, we are in a strong position to continue to invest with discipline in PayPal's 
+growth. In 2018, we returned more than $3.5 billion to cash -- in cash to shareholders through stock repurchases and spent approximately $2.7 
+billion on acquisitions. In 2019, we will continue to balance investment with return of capital while maintaining an efficient capital structure. Our 
+acquisition pipeline is healthy, and our balance sheet gives us the flexibility to move quickly and be opportunistic. We believe that we are uniquely 
+positioned to be a consolidator. At the same time, we plan to continue to return cash to shareholders, consistent with our stated commitment for 
+capital return. 
+For the first quarter, we expect revenue in the range of $4.08 billion to $4.13 billion or 11% to 13% growth on a currency-neutral basis. Adjusted 
+for the sale to Synchrony, we expect that this growth rate would be 19% to 20%. In the first quarter, we are currently forecasting the continuation 
+of several of the trends that emerged in the back half of 2018. These include weak eBay performance as well as a more challenging macro in China 
+and the U.K. Our plans also anticipate a stronger dollar relative to the euro, pound and Canadian dollar to continue to be a headwind in Q1. We 
+expect non-GAAP earnings per share to be in the range of $0.66 to $0.68. 
+In summary, we are pleased with our performance and the progress we've made growing our business and advancing our competitive positioning. 
+In 2018, we had many operational and financial accomplishments. A few notable milestones include: surpassing 250 million active accounts; Venmo 
+surpassing eBay in total payment volume on our platform; processing more than $50 billion of payment volume in a single month; and generating 
+both $4 billion in revenue and more than $1 billion in profit before taxes for the first time in a quarter. 
+We delivered a great year, and our 2018 results leave us on strong footing to pursue our strategic objectives in 2019 and beyond. Our team is 
+focused on disciplined execution against our priorities and moving our business forward. As 2019 begins, we find ourselves operating in a macro 
+environment characterized by more variability. From what we see, economic growth is stronger and more resilient than recent market volatility 
+would indicate. We have a well-diversified portfolio of products and markets in which we operate and are prepared to react should economic 
+conditions change. We remain committed to our long-term financial targets and are confident that the strength of our business, flexibility of our 
+balance sheet and operational discipline will allow us to continue delivering value to our shareholders. 
+With that, I'll hand it back over to the operator for questions. Thank you. 
+7
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited 
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its 
+affiliated companies.
+ 
+Client Id: 77
+JANUARY 30, 2019 / 10:00PM, PYPL - Q4 2018 PayPal Holdings Inc Earnings Call
+Q U E S T I O N S A N D A N S W E R S
+Operator 
+(Operator Instructions) Our first question comes from the line of Tien-Tsin Huang with JPMorgan. 
+Tien-Tsin Huang - JP Morgan Chase & Co, Research Division - Senior Analyst 
+I wanted to ask, for the first time -- looking at the fourth quarter, you didn't exceed your revenue outlook, I think, for the first time in a while. So I 
+was hoping maybe you can comment on maybe what surprised you. Or can you rank maybe what was a little bit softer than expected? 
+John D. Rainey - PayPal Holdings, Inc. - CFO & Executive VP of Global Customer Operations 
+Sure, Tien-Tsin, this is John. It's good to speak with you. Our revenue fell within the range that we provided, a little bit lower than the midpoint. 
+But as we look at what transpired during the quarter, there are 2 things that stand out that I think are most notable. The first, as we discussed in 
+our prepared remarks, is eBay. And I'll just -- I'll give you some context to that. Had eBay performed for us in the fourth quarter like it did in the third 
+quarter, that would've been an incremental $32-ish million for the quarter. The other headwind was currency, FX, and we talked about that was 
+an impact of $24 million to our quarter. So if you just took those 2, we would have been well above the guidance range that we provided. Other 
+than that, we were pleased with our performance in the quarter. But -- and I think it also demonstrates the diversity of our portfolio given that 
+we've got so many different geographies in which we operate as well as so many different product offerings that we have. But those are the 2 
+things that stand out. 
+Tien-Tsin Huang - JP Morgan Chase & Co, Research Division - Senior Analyst 
+All right. That's helpful. That makes a lot of sense. Maybe a quick follow-up, if you don't mind. Just I wanted to ask, last year, active user growth was 
+a really nice surprise. It validated the growth and momentum in the business. I'm curious, if we're looking at 2019, what metric might emerge this 
+year for us to watch kind of like what we saw with active user growth last year? Could it be engagement, Venmo monetization, choice adoption? 
+Just trying to think what we should hone in on. 
+Daniel H. Schulman - PayPal Holdings, Inc. - President, CEO & Director 
+Tien-Tsin, it's Dan. So yes, clearly, net new actives this year were a big highlight for us. We drove 39 million in the year, 11 million organic in the 
+fourth quarter alone. Those are big records for us. At the same time that we were driving that surge in net new actives, engagement was going up 
+too. It went up 9%. Now at 37. So you've got a whole host of new -- net new actives coming on, engagement going up. And for us, those are the 2 
+key metrics that we look at. I mean, those -- everyone looks at financial metrics. But what drives our financial metrics are how many net new 
+customers are we bringing on and what kind of engagement are we driving with them. And I think, by the way, 2019 is going to be another strong 
+quarter. We ended with 267 million net new actives. And we said we're going to have -- we're targeting more than 300 million actives on the 
+platform by the end of '19. So obviously, 2019's going to -- we think is going to be another strong quarter for that. I would say though the one thing 
+that we're looking at and we're quite pleased with is really the rapid adoption of monetizable services on Venmo. We exit 2018 north of a $200 
+million revenue run rate on Venmo. That's from literally almost nothing months and months ago from when we first started on that, in the beginning 
+of the year. So you're seeing a lot of people question, "Can we monetize Venmo?" And what we've always said about monetizing Venmo is it's not 
+monetizing so much. It's adding value-added services that actually increase the value that a Venmo user gets by being part of that Venmo platform. 
+And so we're seeing accelerating growth on that. And we don't want to get, again, too far ahead of ourselves on that. But I would say we're pretty 
+pleased with what we're seeing on Venmo. It's really going from strength to strength. 
+Operator 
+And our next question comes from the line of Darrin Peller with Wolfe Research. 
+8
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited 
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its 
+affiliated companies.
+ 
+Client Id: 77
+JANUARY 30, 2019 / 10:00PM, PYPL - Q4 2018 PayPal Holdings Inc Earnings Call
+Darrin David Peller - Wolfe Research, LLC - MD & Senior Analyst 
+I do want to hone in on that net new user growth. It was much bigger than we saw in the past couple of quarters. I mean, again, if you back out 
+even acquisitions, at 11 million new users was, I think, a record as you said on a quarterly basis. So just give us a little more color, if you don't mind, 
+on the breakdown of that. How much of that is Venmo? And then I mean, you talked about, I think, 30 million. You exceeded that, as you mentioned, 
+quite a bit for the year, almost 39 million, I think it was. So is there a number we could look to 2019 on that front? And then just what kinds of 
+engagement plans do you have to really enhance that? But we thought that was a standout number. 
+Daniel H. Schulman - PayPal Holdings, Inc. - President, CEO & Director 
+Yes, thanks. So I'll just do a quick math with you for this year. We wound up at 267 million actives on the platform. We're targeting more than 300 
+million at the end of this year. You do the math there, we're saying at least another 33 million coming on to -- in the year. And so I think that's 
+probably a reasonable number to be thinking about. So what's happening with that now, how is that driving? What's some color around that? 
+Really, the majority is core PayPal. And then you've got Venmo continuing quarter after quarter after quarter to have incredibly strong net new 
+actives. I mean, the virality of Venmo and the network effects on core PayPal are clearly coming into play. You've got 21 million-plus merchants 
+accepting PayPal. Consumers see that, want to be a part of it. You've got 246 million-plus consumers using PayPal. Every merchant now wants to 
+be a part of that. So you've got a good network effect both on core PayPal and on Venmo. And then I think what's really important, a lot of people 
+think about the top of the funnel, but really net new actives is a combination of top of the funnel and bottom. So our churn rate is improving as 
+well. Why is the churn rate improving? It's improving because the customer experiences and the breadth of services that consumers are utilizing 
+with us and their engagement is increasing. I give a ton of credit to Bill and his team for creating those experiences because I really think we're 
+moving towards best-in-class. Whether that's Checkout, whether that'd be P2P experiences, whether that'd be our mobile app, whether it'd be 
+choice as well, these are all driving increased engagement and helping at the bottom part of the funnel. One other thing that I mentioned in my 
+remarks that should be emphasized is we're finally beginning to see, as we said we would, the impact of all these partnerships beginning to drive 
+a noticeable amount of net new actives onto the platform. We saw over 40 bank-led marketing campaigns that encouraged their customers to 
+come onto the platform. Why are they doing that? They're doing that because we have a great partnership together. It drives a ton of incremental 
+value and volume to our FI partners, and it's clearly a win-win for both of us. And then I talked a little bit about it. Our architecture now and our 
+software stack is now more able to be deployed in a more wholesome manner across the world. And so we're able to deliver more and more 
+experiences and products to multiple countries. I pointed out India and Japan, but that would be true in countries like France and others as well 
+where we're beginning to see an uptick in net new actives globally as well. And so I think we've got still a lot of runway when it comes to net new 
+actives. And I believe you'll see another good number posted from us this year. 
+Operator 
+And our next question comes from the line of James Faucette with Morgan Stanley. 
+James Eugene Faucette - Morgan Stanley, Research Division - Executive Director 
+I just wanted to ask a quick follow-up question on eBay and whether the -- I guess, a little bit slower transaction volume there was the result of 
+their experimentation with other payment methods or if you just think that it was overall slower than what you had thought transaction volumes 
+on the platform overall. Hopefully that question makes sense. And then the second, I guess, part of my question is related to Venmo monetization. 
+You gave a target for 2019. How should we think about the contribution of that from merchants versus things like Instant Transfer, et cetera? 
+Daniel H. Schulman - PayPal Holdings, Inc. - President, CEO & Director 
+You bet, James. Thanks for those, they're 2 good questions. I'll take the first one around eBay, and Bill will take the second part around Venmo. So 
+on the eBay side, we saw this on their conference call as well. Clearly, Marketplaces is slowing down for them. As John mentioned in his remarks, 
+we saw 0 growth in TPV on that. And if you look at what they announced on their call for intermediated payments, it's well less than 1% of the GMV 
+9
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited 
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its 
+affiliated companies.
+ 
+Client Id: 77
+JANUARY 30, 2019 / 10:00PM, PYPL - Q4 2018 PayPal Holdings Inc Earnings Call
+that we see presented to us. So it really was not the impact. They clearly are slowing in their Marketplace growth. And as John said, part of this is 
+-- for us, is we're able to absorb that because of the breadth of our portfolio and our capabilities. I think that's a really important thing to highlight. 
+Because volume was going to be leaving eBay. It's leaving now in a much more straight line, unfortunately, because they're not having the growth 
+that I'm sure they hope to drive as well in Marketplace. And so at the end of our operating agreement, which is 18 months from now when they 
+finally move into intermediated payments which could be 24, 36 months from now, eBay is going to be a much smaller part of our business than 
+even any of us initially thought when we were talking about this originally. And so the fact that we're affirming our annual guidance that we gave 
+3 months ago, we feel very comfortable with that both on the top and the bottom line, I think really just highlights just how diversified our platform 
+is. We're welcoming new partners like Paymentus. I mean, Paymentus could be one of our top 10 customers with the volumes that they're driving. 
+You've got Venmo monetization really accelerating. And I'll let Bill talk about that right now. But I think we're just seeing slower eBay growth. And 
+I think we're seeing strength through our platform to offset that, which all in, as we look over the medium and long term, actually is probably a 
+positive. 
+William J. Ready - PayPal Holdings, Inc. - Executive VP & COO 
+Yes. And on Venmo monetization, your question there asking about the composition, if you'd have asked us a few months ago, I think the perception 
+was that most of the monetization happening there was around Instant Cash Out. And one of the things that we feel really great about that $200 
+million-plus annual revenue run rate that we exited the year at is that, that's actually split about evenly between Instant Cash Out and the 
+commerce-related items and other items where we monetize, be they Venmo card, Pay with Venmo and the related services around that. So we 
+see each of those, Instant Cash Out, Venmo card and Pay with Venmo, all growing really, really nicely. Dan talked about in his comments some of 
+the fantastic brands that have come on to Venmo. We launched with Uber in August and September of 2018. We've really seen that ramp nicely 
+as well as other great services like Hulu and others that have come on to Venmo. So we're really seeing the commerce side of Venmo gain traction, 
+food ordering services like Grubhub and Seamless, Uber Eats. These are -- many of these are daily, high-frequency type transactions. We see the 
+same with the card, where it's really getting into everyday spend. So we really feel great about the broad base set of monetization initiatives across 
+Venmo. It is far more than just Instant Cash Out. 
+Daniel H. Schulman - PayPal Holdings, Inc. - President, CEO & Director 
+Yes. And you're seeing more and more of the user base of Venmo understand that we have these new value-added services. I think the number of 
+users went from 24% to 29%, so a nice increase quarter-over-quarter. One other thing I forgot to say is on the eBay side. One thing Bill mentioned 
+in his remarks, and I think it's very important, is that we are now working with marketplaces, around the world, that last year alone did $85 billion 
+in TPV. Significantly larger than eBay, growing at 41% overall. We expect more partnerships like that to come onto those marketplace solutions. 
+And what we're doing there is helping sellers sell in multiple marketplaces using PayPal. This One Touch seller activation allows a seller, say an 
+eBay seller, to sign up for a marketplace, literally take all of their information, sign up and start making transactions with almost one touch, one 
+click. And so -- and when sellers do that, their sales increase, at least with PayPal, an average of about 3x. So we think we can help small businesses 
+through these new capabilities and certainly drive a ton of marketplace growth overall, both with eBay and outside of eBay, especially with these 
+kinds of capabilities. 
+Operator 
+And our next question comes from the line of Heath Terry with Goldman Sachs. 
+Heath Patrick Terry - Goldman Sachs Group Inc., Research Division - MD 
+So there's obviously been a lot of discussion around the net new actives added in the quarter and over the course of the year, but just wanted to 
+dig into that a little bit deeper. Assuming, and feel free to correct me if this is the wrong assumption, but assuming that these net new actives start 
+off at a lower level of activity, is there any way to quantify the increase in activity among the existing base of users, kind of like a same-store sales 
+number or something? Or alternatively, what TPV will look like when these users reach the level of activity that you see among your average user? 
+10
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited 
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its 
+affiliated companies.
+ 
+Client Id: 77
+JANUARY 30, 2019 / 10:00PM, PYPL - Q4 2018 PayPal Holdings Inc Earnings Call
+William J. Ready - PayPal Holdings, Inc. - Executive VP & COO 
+This is Bill. A related element, which I think will maybe get to some of what you're asking is as we look at each of those cohorts that comes on and 
+how those cohorts mature, a related question we often get is that as we have accelerated the number of net new actives, do we see any deterioration 
+in the quality of those cohorts? Do they mature more slowly? Are they less active? And one of the great things is that even as we have significantly 
+increased the number of net new actives coming onto the platform each quarter, each new cohort, we see stronger than the last in terms of how 
+they engage and how they mature over time. So while we don't break out the maturation to the level of detail you're asking about, even as we've 
+gotten to larger and larger cohorts, we see each new cohort being stronger than the cohorts from years past, which is part of why you also see 
+engagement. Oftentimes, a large influx of net new actives will have a dilutive effect on engagement, you still see us having really strong engagement 
+growth even as we bring those on largely because of the quality of the cohorts, rather than diminishing as you get to larger cohorts, is actually 
+improving because we're getting those larger cohorts through an expanded set of products and user engagement with more and more products 
+over time. 
+Daniel H. Schulman - PayPal Holdings, Inc. - President, CEO & Director 
+Your question is a good one. We won't do the math for you, but obviously, when you bring on, call it, almost 14 million net new actives in the 
+quarter, the number of transactions that they've done is very small, right? Because you brought them on throughout the quarter. So it's a dilutive 
+effect to the growth of your overall base engagement scores. So it's obviously higher than the numbers that we report because of that -- just 
+because of that math around that. And so that's why we're so pleased to show kind of a steady increase in engagement. So we had 9% last quarter, 
+I believe, 9% this quarter. And so even as you're seeing that substantial increase, you're seeing a steadying amount. As that normalizes, you'll start 
+to see that creep up, that percent engagement. 
+Operator 
+And our next question comes from the line of Lisa Ellis with MoffettNathanson. 
+Lisa Ann Dejong Ellis - MoffettNathanson LLC - Partner 
+Bill -- I'll direct this one to Bill. Because you commented in your prepared remarks around the role that PayPal is playing with these other marketplaces. 
+I wanted to ask specifically about some of the e-com enablement players, players like Shopify and Wix that are starting to make some noise around 
+creeping into payments. How do you think about the role of PayPal vis-à-vis those players? I mean, would those be potential acquisition candidates? 
+Or are they more like -- it would make more sense to partner? Or are they actually more like frenemies? How do you think about that group? 
+William J. Ready - PayPal Holdings, Inc. - Executive VP & COO 
+We partner with a wide range of these e-commerce enablement players. And even as they are bundling payments into their offering, oftentimes 
+we are working closely with them to help make that happen. And PayPal-branded payments would be a very meaningful part of that for many of 
+those players given that they cater to small businesses. And small businesses really rely upon the trust that PayPal brings for the buyer or our 
+conversion differences that already outshine competitors across the industry in a small business context particularly on these types of platforms, 
+the relative conversion rate of PayPal versus something else stands even farther apart. So we tend to have really strong partnerships there. And I 
+think that really ties into what we were talking about with our efforts to get small businesses to all the best forums to sell. I think we've been talking 
+a lot about the deceleration of eBay. One of the things that has happened is that over the last decade, small businesses that would have had only 
+1 or a couple places to sell a decade ago, now have many, many places to sell. And PayPal is connecting those small businesses to the many places 
+they sell. Some of those might be e-commerce enablement platforms like some of the ones you mentioned. Some of that may be other marketplaces. 
+Some of that may be more vertical-specific offerings. But across each of those, we're helping to connect those small businesses to all the very best 
+places to sell, which is why when we talk about our marketplace and partners business outside of eBay, that's already $85 billion-plus in volume, 
+much larger than eBay overall and growing at 40%-plus year on year. So as these small businesses are finding lots of other great places to sell like 
+11
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited 
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its 
+affiliated companies.
+ 
+Client Id: 77
+JANUARY 30, 2019 / 10:00PM, PYPL - Q4 2018 PayPal Holdings Inc Earnings Call
+e-commerce enablement platforms or rapid growth marketplaces, we tend to be a preferred provider to connect those small businesses to those 
+platforms. 
+Lisa Ann Dejong Ellis - MoffettNathanson LLC - Partner 
+Terrific. And do they leverage PayPal's services like your -- like working capital services or the invoicing capabilities? Like do those actually get -- 
+do you sort of, like, deliver those directly to the merchants? Or does that actually also work through those platforms? Would they look to enable 
+those capabilities on their platforms? 
+William J. Ready - PayPal Holdings, Inc. - Executive VP & COO 
+It really can be both. One of the things you see, oftentimes, those merchants are coming to us directly for those because the trend that you see is 
+that merchants are not choosing one platform to sell in. They are choosing many to sell in, and then PayPal becomes the aggregation point for 
+them to connect to each of those platforms. And so like with One Touch seller sign-up, as they're discovering more and more new platforms out 
+there, one of the most difficult things for that small business is the sign-up and vetting process. The marketplace has to figure out is that business 
+trustworthy or not? Are they fraudulent? And we're able to alleviate those pain points, not only for the seller to sign up, but also for the marketplace 
+to know that they're bringing on a trustworthy seller to their platform. So we become an aggregation point for that small business, and some of 
+those services, we're able to partner with other marketplaces or e-commerce enablement platforms. Some of those, we provide directly to the 
+merchant since we're an aggregation point for them across many of those marketplaces and digital channels. 
+Operator 
+And our last question comes from the line of George Mihalos with Cowen. 
+Georgios Mihalos - Cowen and Company, LLC, Research Division - MD & Senior Research Analyst 
+Just wanted to ask as a point of clarification, John, if we look at the guide for next year, on the surface, you're sort of reiterating it. But it appears 
+you're absorbing, say, another point or so hit from lower eBay growth, and then added to that, the FX. So I'm just curious, is that the right way to 
+think about it, that the core business outside of that is accelerating and if there's anything else in there? And then just secondly, as we think of 
+Venmo at this sort of $200 million-plus run rate, is there anything you can say about the profitability of the business of the segment here? Is that 
+in the black right now with this run rate? 
+John D. Rainey - PayPal Holdings, Inc. - CFO & Executive VP of Global Customer Operations 
+Sure, George. I'm going to take your second question first and then go back to the question before that. No, Venmo is not in the black yet, and I 
+don't want to be specific with profitability of any one part of our business. That's not something we do. But I can give you some color in terms of 
+how we think about this internally. Prior to some of the great progress that we've made in monetizing Venmo this year, we effectively were providing 
+a service that we weren't monetizing in any way. And so the losses were growing as volume grew. And the first priority for us was to stop that rate 
+of loss from growing, and we've done that. The next phase for us is to get Venmo to breakeven. And that's not something that's going to happen 
+in the next quarter or 2, but it's -- there's line of sight to that with what we're doing. And then the third phase is to really put our foot on the pedal 
+and see the same type of profitability in this platform, or more perhaps, that we do with PayPal and some of our other services, so that's where we 
+are with that right now. But no, it's not in the black today. With respect to 2019 and the guide, you're right. We are seeing really strong performance 
+with the core business. We also have -- we've launched new products that are -- pretty early on, yes, and partnerships. And we're pretty excited 
+about the promise that those hold. And so just from a revenue side and a volume growth side, there's a lot of opportunity there. I'll also, because 
+I'm the CFO, I'd be remiss not to mention what's being done on the expense side. The teams across the board, our commercial teams, Bill's teams 
+and even the more staff group functions are doing a really good job of growing but not having our costs grow in line with that volume. And again, 
+that goes back to an effort that the broad team did -- began 18 to 24 months ago where we talked about rewiring our business to allow us to grow 
+12
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited 
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its 
+affiliated companies.
+ 
+Client Id: 77
+JANUARY 30, 2019 / 10:00PM, PYPL - Q4 2018 PayPal Holdings Inc Earnings Call
+at a very low marginal cost, and this is a complete team effort. There's not necessarily one area that I can point to. This is across every aspect of our 
+company. And so with that, we hope to have another year like we did in 2018, where you're seeing significant earnings per share growth and 
+significant revenue growth and continuing to create a lot of shareholder value for our investors. 
+Daniel H. Schulman - PayPal Holdings, Inc. - President, CEO & Director 
+Great. Thanks again, everybody, for joining us. We appreciate your time, and we look forward to speaking with all of you soon. Thanks again. 
+Operator 
+Ladies and gentlemen, thank you for participating in today's conference. This does conclude the program, and you may all disconnect. Everyone, 
+have a great afternoon. 
+D I S C L A I M E R 
+Thomson Reuters reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes. 
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon 
+current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more 
+specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the 
+assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. 
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, 
+THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME 
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE 
+COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. 
+©2019, Thomson Reuters. All Rights Reserved. 
+12258328-2019-02-01T00:15:20.930
+13
+THOMSON REUTERS STREETEVENTS | www.streetevents.com | Contact Us
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited 
+without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are registered trademarks of Thomson Reuters and its 
+affiliated companies.

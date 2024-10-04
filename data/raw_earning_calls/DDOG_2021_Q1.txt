@@ -1,0 +1,457 @@
+Operator
+
+Welcome to the Q1 2021 Datadog earnings conference call. My name is Karen. I will be your operator for today's call. [Operator instructions] I will now turn the call over to Yuka Broderick, head of investor relations.
+
+Yuka, you may begin.
+
+Yuka Broderick -- Head of Investor Relations
+
+Thank you, Karen. Good afternoon, and thank you for joining us today to review Datadog's first-quarter 2021 financial results, which we announced in our press release issued after the close of market today. Joining me on the call today are Olivier Pomel, Datadog's co-founder and CEO; and David Obstler, Datadog's CFO. During this call, we will make statements related to our business that are forward-looking under federal securities laws and are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, including statements related to our future financial performance, including our outlook for the second quarter and for the full year of 2021, our strategies, the potential benefits of our products, partnerships and investments in R&D and go-to-market, our ability to capitalize on our market opportunity and the impact of the COVID-19 pandemic on digital transformation and cloud migration trends as well as our ability to benefit from these trends.
+
+The words anticipate, believe, continue, estimate, expect, intend, will and similar expressions are intended to identify forward-looking statements or similar indications of future expectations. These statements reflect our views only as of today and not as of any subsequent date. These statements are subject to a variety of risks and uncertainties that could cause actual results to differ materially from expectations. For a discussion of the material risks and other important factors that could affect our actual results, please refer to our annual report on Form 10-K for the year ended December 31, 2020, filed with the SEC on March 1, 2021.
+
+Additional information will be made available in our quarterly report on Form 10-Q for the quarterly period ended March 31, 2021, and other filings and reports that we may file from time to time with the SEC. Our filings with the SEC are available on the investor relations section of our website. A replay of this call will also be available there for a limited time. Non-GAAP financial measures will be discussed on this conference call.
+
+Please refer to the tables in our earnings release, which you can find on the investor relations portion of our website for a reconciliation of these measures to their most directly comparable GAAP financial measures. With that, I'd like to turn the call over to Olivier.
+
+Olivier Pomel -- Co-Founder and Chief Executive Officer
+
+Thanks, Yuka. Welcome to the team at Datadog, and thank you all for joining us today. We had a strong start to the year and are very pleased with our performance in Q1, which was strong across all parts of the business and again showed high growth at scale and demonstrated efficiencies. It has been a busy start of the year.
+
+We had two products become generally available, continuous profiler and incident management. We closed the acquisitions of Sqreen and Timber, and we continued to release new features and innovations across our platform. In addition, we continue to hire and build our team at a very rapid pace. Now, onto a review of the quarter.
+
+To summarize Q1, at a high level, revenue was $199 million, an increase of 51% year over year and above the high end of our guidance range. We ended the quarter with 1,437 customers with an ARR of $100,000 or more, up from 960 last year. These customers generate over 75% of our ARR. We have about 15,200 customers, up from about 11,500 in the year-ago quarter.
+
+This means we added about 1,000 customers in the quarter, making it another strong quarter of adds and consistent with the last few quarters. We also continue to be capital-efficient with free cash flow of $44 million. And finally, our dollar-based net retention rate continues to be over 130% as customers increase their usage and adapted our newer products. In addition to that, the positive business trends from recent quarters have continued in Q1.
+
+First, usage growth from existing customers was stronger than expected and above historical levels. Among other factors, we are seeing the benefit of new logos signed in the back half of last year as they grow into their commitment. Second, new logo ARR was strong in what is normally a seasonally slower quarter, showing our go-to-market investments are paying off. And third, churn continues to remain very low and in line with historical rates.
+
+Taking all these factors into account, we had a very strong quarter of ARR added. In fact, we hit an important milestone as we added over $100 million of ARR in a single quarter for the first time. Next, our platform strategy continues to resonate and win in the market. As of the end of Q1, 75% of customers are using two or more products, which is up from 63% last year.
+
+Additionally, 25% of customers are using four or more products, which is up from only 12% a year ago. And we also have hundreds of customers using six or more of our nine generally available products. But it's still early. We think this is an interesting proof point that shows the continued sell opportunity in our customer base.
+
+And we had another quarter in which approximately 75% of new logos landed with two or more products. I'd like to provide an update on some of our more recent products, Network Performance Monitoring, Real User Monitoring and Synthetics. Both Network Performance Monitoring and Real User Monitoring became generally available a bit more than a year ago. And we are excited to share that both are at approximately eight figures of ARR and are showing high growth.
+
+And Synthetics also continues to grow rapidly and is an increasingly important contributor to revenue. As a reminder, our newer products are often adopted first by self-selecting customers at a small scale before our land-and-expand model enables greater adoption over time. And frictionless adoption from our single integrated platform is a key value proposition for our customers. While we are very pleased with the performance of our newer products, I also want to spend some time on the core of our observability platform.
+
+Infrastructure, APM and log. All three added record amounts of ARR in the quarter, showing the strength of our platform. APM and logs have both reached large scale and remain in hyper growth, while infrastructure continues to grow at a healthy base. To give you a sense of scale, APM and logs together added more ARR this quarter than the business as a whole did one year ago.
+
+So it is clear to us that these products are each strong enough to be best-of-breed solutions on their own. And to that point, Datadog was recognized as a leader in Gartner's 2021 Magic Quadrant for APM for the first time. And in fact, we were the only vendor in the leader quadrant that improved its position since the last report. Gartner specifically highlighted our strong history of product development and our ability to bring products to market rapidly.
+
+As a reminder, we entered the APM market just four years ago, and our APM product has a robust feature set, including end-to-end distributed tracing with no sampling and seamless correlation of traces with end-to-end observability. The ability to triage problem was also highlighted as a strength with our unified platform assisting in root-cause analysis and reducing resolution time. And lastly, our transparent pricing, which is available on our website, was also recognized as helping to build customer trust. We also continue to make investments in Watchdog, which is the brain behind AI-based features across the Datadog platform.
+
+In Q1, we announced a few enhancements, including Watchdog Insights, which is a recommendation engine that is always on and augments manual investigations by automatically detecting anomalies and outliers and allowing for faster time to resolution. We also announced the beta of Watchdog root cause analysis, which automatically identifies causal relationships between different issues across applications and infrastructure and pinpoints the root cause. In addition, we continued innovating across our platform, releasing 38 features in Q1 and crossing 450 out-of-the-box integrations. A few features to highlight include network performance monitoring for Microsoft Windows, which is a very differentiated feature for that Datadog NPM.
+
+New marketplace integrations, including Oracle Cloud as well as the official launch of our GovCloud instance allowing us to onboard early customers in the government space. Lastly, on the product side, I want to briefly discuss our acquisition of Sqreen, which closed in early April. We founded Datadog to break down silos between Dev and ops team. And as we've discussed previously, we are working to extend that to security teams as well.
+
+Sqreen is an application security solution that actively detects attacks and can trace them down to the impacted function call. It prevents application security exploits and enables response across development, security and upstream. We are very excited at the combination of Sqreen with our APM and security offerings. As we expect it to allow our customers to protect APM insulated applications with very little additional friction.
+
+And we will share updates as we progress on integrating it in our platform. Now let's switch gears and move on to sales and marketing. I am very proud of the continued productivity from our go-to-market team. As we mentioned last quarter, we have been hiring at a rapid pace across our sales work and are seeing more teams and reps becoming productive.
+
+Now, let's discuss some of our wins this quarter. First, we had a seven figure land with one of the world's largest consulting firms undergoing a multibillion-dollar cloud migration. With Datadog, they have reduced their monitoring costs by more than 35% with greater visibility into every layer of their stack, including several at functions. Next, we had a six figure or high six figure , I should say, land deal with a major transportation company.
+
+The company is moving toward the DevOps culture, but was hindered by a proliferation of siloed and underutilized monitoring tools. After implementing Datadog, engineers now have a single easy-to-use platform that facilitates mass adoption. Next, we had a six figure land from a large supermarket team. The company has thousands of stores and is in the process of migrating from legacy IT to an Azure-based cloud.
+
+Datadog's unified platform helped enable this migration and reduced mean time to resolution by up to 50%. Next, I want to discuss the seven figure upsell with an EVA, online game company. Prior to Datadog, business units were spending too much time responding to incidents and look for a single source of truth with visibility across all teams and systems. This company reduced its usage from eight observability tools to one, and Datadog is also used by executives all the way up to the CEO.
+
+Last, we had a seven figure upsell to an existing $1 million-plus customer in the financial services. During COVID, this large enterprise accelerated its digital transformation journey as they enhance their digital tools and online presence. And they continue to grow with Datadog as they migrate more work close to the cloud and have adopted newer products like NPM and Synthetics. Moving on now to our longer-term outlook.
+
+While the pandemic continues to impact the macro environment, businesses are starting to turn to priorities in the post-COVID world. Businesses must be digital first, which we expect will move forward digital transformation project. Massive IT replatforming is still in its early stages. We believe we are in a great position with our unified observability platform.
+
+While there is the possibility for more near-term volatility caused by the macro environment, we are increasingly confident in our ability to execute and in our long-term opportunity. Before giving the call to David, there are two changes to the management team I would like to bring to your attention. First, our Chief Revenue Officer, Dan Fougere, will transition out of the company this quarter to take some well-deserved time off after a few decades of hard work. We are very grateful to Dan for many quarters of growth and for developing a world-class organization.
+
+We are confident that the team he's built will continue carrying the torch, and we exceed expectations to Datadog way. We are also running a search for a new CRO and are evaluating both internal and external candidates. Second, I'm pleased to announce that we will soon be joined by our first-ever chief operating officer, Adam Blitzer, who joins us after a successful tenure as an EVP and GM at Salesforce. Adam will help us scale as a SaaS platform company and will oversee a number of our front-office functions.
+
+With that, I would like to turn the call over to our chief financial officer. David?
+
+David Obstler -- Chief Financial Officer
+
+Thanks, Olivier. We had a very strong start to the year. Revenues was $198.5 million, up 51% year over year against the challenging year-ago comp. Usage trends were strong and showed broad-based growth.
+
+New logo generation continues to be strong and customers continue to adopt more products across the platform. To provide some more context, first, growth of existing customers was robust, again, and our dollar-based net retention rate remained above 130% for the 15th consecutive quarter. We are pleased with the usage growth of existing customers, which indicates continued adoption of our platform and continued migration to the cloud even in the face of macro pressures. As Oli mentioned, usage growth was stronger than expected and above historical levels.
+
+And usage growth was broad-based across our customer base. Also, we added a record number of 100,000-plus customers in the quarter. Given our land-and-expand model, a majority of these adds were existing customers. In addition, we had a strong uptick in the quarter in million-dollar customers.
+
+Next, our new logo results were strong. In fact, it was our second best new logo ARR quarter ever and a record for Q1. Contributions were strong across our enterprise and commercial sales channels. Earlier, Olivier shared several large new logo wins across more traditional industries, an encouraging sign as companies across a wide spectrum start embracing digital transformation projects.
+
+Remember that given our use-based revenue model, new logo wins generally do not immediately translate into meaningful revenue. Next, In the first quarter, we saw continued strength, as Olivier discussed in our platform strategy, with 75% of our customers using two or more products, and 25% of our customers now using four or more products, up from only 12% a year ago. Next, churn was consistent with historical levels. This demonstrates the importance of our solution to our customers.
+
+Our dollar-based gross retention rate has remained largely unchanged in the mid-90s. And this was true across customer segments and in each of our infrastructure, APM and log products. Taken together, this resulted in a record quarter of ARR adds, over $100 million and up significantly versus Q1 last year. Now turning to billings.
+
+Billings were $220 million, up 59% year over year. There were no major pro forma impacts to call out in the quarter. Remaining performance obligations or RPO was $464 million, up 81% year over year. Contract duration continued to be at an increased level from the year-ago period.
+
+RPO strength is driven by strong annual billings and commitments as well as a few large multiyear commits. It is important to note that those multiyear commits are built annually, and we do not incentivize our sales force for multiyear deals given our high net retention. Current RPO growth was also strong in the high 60s percent. As a reminder, billings and RPO can fluctuate versus revenue based on the timing of invoicing and the signing of customer contracts, while revenue incorporates customer usage.
+
+Now, let's review the income statement in more detail. As a reminder, unless otherwise noted, all metrics are non-GAAP. We have provided a reconciliation of GAAP to non-GAAP financials in our earnings release. Gross profit in the quarter was $153 million, representing a gross margin of 77%.
+
+This compares to a gross margin of 78% last quarter and 80% in the year-ago period. The slight decrease in gross margin, as we've discussed before, is due to our investments in product and platform innovation. We expect gross margin to continue to be slightly down from last year in the remainder of the year as we build out new cloud data centers and prioritize product development. R&D expense was $61 million or 31% of revenue compared to 27% in the year-ago quarter.
+
+We continue to invest significantly in R&D, including a high growth in our engineering headcount. Engineering headcount continues to grow slightly ahead of the pace of revenue growth, and we have been able to attract talent and are successfully executing on our hiring and onboarding plans despite COVID. Sales and marketing expense was $53 million or 28% of revenues compared to 32% in the year-ago period. Similar to R&D, we continue to make substantial investments in sales and marketing, but the pace of the revenue growth has outpassed pace investment growth.
+
+This was another quarter of no in-person trade shows and marketing events. And while we have successfully redeployed much of the events budget to advertising and other lead-generating activities, it is not on a one-for-one ratio. G&A expense was $16 million or 8% of revenue, slightly lower than the 9% in the year-ago quarter. And operating income was $20 million, or a 10% operating margin compared to an operating income of $16 million or 12% in the year-ago period.
+
+Non-GAAP net income for the quarter was $20 million or $0.06 a share based on 344 million weighted average diluted shares outstanding. Now turning to the balance sheet and cash flow. We ended the quarter with $1.6 billion in cash, cash equivalents, restricted cash and marketable securities. Cash from operation was a strong $52 million in the quarter.
+
+After taking into consideration capital expenditures and capitalized software, free cash flow was $44 million for a margin of 22%. Free cash flow was driven by strong collections stemming from our strong billings in Q4 and Q1. Now turning to our outlook for the second quarter and the full-year 2021. We believe we can deliver high growth for the foreseeable future as we are addressing a very large greenfield market and are executing well against that opportunity.
+
+We are optimistic about the long-term opportunity and have seen an uptick in metrics driving our business growth. Taking this into account with our usual conservatism implied, we are updating our guidance as follows. For the second quarter, we expect revenue to be in the range of $211 million to $213 million, which represents a year-over-year growth of 51% at the midpoint. Non-GAAP operating income is expected to be in the range of $9 million to $11 million.
+
+And non-GAAP net income per share is expected to be in the $0.03 to $0.04 per range based on an approximate 344 million weighted average diluted shares outstanding. For the full-year 2021, revenues are expected to be in the range of $880 million to $890 million, which represents a 47% year-over-year growth at the midpoint. Non-GAAP operating income is expected to be in the range of $45 million to $55 million. And non-GAAP net income per share is expected to be in the range of $0.13 to $0.16 per share based on 345 million weighted average diluted shares.
+
+Now, some notes on our guidance. While usage growth was strong in Q1, when providing guidance, as usual, we use more conservative assumptions. Next, our strategic focus remains investing to optimize for the long term. Therefore, we are planning to continue aggressive investments in R&D and go-to-market throughout 2021.
+
+We believe the efficiencies of our business are evident, and we are confident in our ability to be a sizable and materially profitable company over the long term. Additionally, our model assumes the return to the office and a resumption of travel and in-person events in the second half of the year. We have limited visibility on these topics, but believe it's prudent to incorporate this in our outlook. Finally, in early April, we closed our acquisition of Sqreen.
+
+We are pleased to welcome more than 50 members of the Sqreen team to Datadog. The acquisition has an immaterial impact on our income statement. And our cash flow statement in Q2 will reflect the $190 million of cash that we paid for the acquisition. Now, below the operating income line.
+
+We expect approximately $1 million of Q2 non-GAAP other income, which is net including the interest income on our cash and marketable securities, less the interest expense on our convertible debt. We do not expect to be a federal taxpayer in 2021, but have a tax provision related to our international entity. We expect the tax provision to be approximately $700,000 in Q2 and $3 million for the full year. Now to summarize, we are very pleased with the results of the quarter.
+
+Customers continue to consume more Datadog, both in terms of usage and cross-selling to newer products, and the execution remains strong. We believe the importance of our solutions will only be strengthened long term by the continued trends of cloud migration and digital transformation. And now with that, we'll open the call for questions. Operator, let's begin the Q&A.
+
+Questions & Answers:
+
+Operator
+
+[Operator instructions] And we do have our first question from Raimo Lenschow from Barclays.
+
+Raimo Lenschow -- Barclays -- Analyst
+
+Hey, thanks and congrats on an amazing quarter. Olivier, can you -- you talked about the growing momentum you have around an APM and the recognition you get from the industry experts. Can you talk a little bit about where we are in terms of APM adoption in your client base in terms of number of applications that are getting properly monitored? And what are you seeing in terms of where you are getting used where maybe some of the traditional legacy guys are getting used for APM?
+
+Olivier Pomel -- Co-Founder and Chief Executive Officer
+
+Yeah. So great question. I think we are seeing a lot of adoption from APM. And I think when we back -- a year ago when we took the company public, we were saying that APM probably had a bit of a longer fuse to it, but had a very long runway, as more and more applications move to the cloud and more of them become critical.
+
+And that's what we see happening today. In terms of our penetration among customer applications, like exceeded the ratio of the, let's call it, the instances of containers that are covered with APM from the total APM containers that we see for infrastructure monitoring. There's still quite a bit of runway there, but that ratio is already higher than the famous Gartner quote of five personal applications being monitored. So we think we're clearly targeting those applications in next-gen cloud environment.
+
+We are starting to see from some of our larger enterprise customers, some of their on-prem applications that are being instrumented with our APM as well. But I would say that's more of a Phase 2 of adoption as opposed to what we need with, and we start those customers.
+
+Operator
+
+Thank you. And we do have our next question from Sanjit Singh from Morgan Stanley.
+
+Sanjit Singh -- Morgan Stanley -- Analyst
+
+Thank you for taking the questions and congrats to the team on a really exceptional quarter, really great start to the year. To follow-on on Raimo's question, I think what's sort of impressing me is the multiproduct adoption and frankly, in some of the newer categories. So you mentioned APM and logs, but you also called out networking as well and some of the other new products. When you think of the networking opportunity, what's driving that strong growth? Is it just the maturity of the products or is it being a year two product? Or did you see some benefits from some of the competitors like SolarWinds post the SUNBURST attack.
+
+How do you see that networking opportunity for Datadog relative to APM and some of the other products?
+
+Olivier Pomel -- Co-Founder and Chief Executive Officer
+
+I think it's a combination of -- there's a lot of market need. Because networking, especially in next-generation cloud environment, especially for companies that have one foot in the cloud and one foot in prem is not something that is well covered in terms of monitoring and understanding. So there's a big need there. And the second part of that is, as you mentioned, the product maturity.
+
+I mean that product is getting better and better. It covers more and more of the use cases, which means it goes from being great for a small number of customers to being great for a larger and larger fraction of our market and customer base. One illustration of that is what we announced -- or we mentioned in the call today, which is the Network Performance Monitoring today also works for Microsoft Windows. And as it turns out, it's fairly differentiated to have a cloud-based network performance monitoring product that also works for Microsoft Windows.
+
+And it helps a lot of those customers with very hybrid deployments.
+
+Sanjit Singh -- Morgan Stanley -- Analyst
+
+That makes a ton of sense. And then as a follow-up question, as we think about the new announcement, the great hire for the COO position, can you sort of walk us through the thinking around why now is the right time to bring a COO on board? Was it -- is about where the business is in terms of scale? Or is there a certain new market segments that you want to target? What was sort of the thinking behind bringing on a chief operating officer to Datadog?
+
+Olivier Pomel -- Co-Founder and Chief Executive Officer
+
+Well, the thinking is we need to scale the team. We -- if we fast forward a few years, we will be a lot bigger. We're building a platform. There's a number of things that we'll need to do right, and there's a number of -- there's going to be a number of problems to solve along the way.
+
+And it was always a given that we would need to grow the bandwidth of the senior management team. And as we embarked on that, we also thought to bring into the company some experience with what later stages of scale and growth look like for SaaS companies, especially SaaS platform companies, which explains to you the hire we're making here.
+
+Sanjit Singh -- Morgan Stanley -- Analyst
+
+Makes a ton of sense. Congrats again, thank you.
+
+Operator
+
+And we do have our next question from Brent Thill from Jefferies.
+
+Brent Thill -- Jefferies -- Analyst
+
+Thanks. I just wanted to follow up on the question around Adam. Obviously, a huge endorsement for you guys. But Adam was the founder of the company and effectively was running a lot of the outbound activity.
+
+And I'm curious, most COOs, at least the definition of taking care of the inside of the company versus the outside. Can you just talk to his role on the outside and with customers in the interaction versus the focus on the inside? I think there's just some -- I'm trying to understand where he's going to be spending most of his time.
+
+Olivier Pomel -- Co-Founder and Chief Executive Officer
+
+Yeah, it's a great question. And the focus is actually a lot of the front office function. And these are going to have to do with servicing our customers and growing our customers. I won't go into too much detail.
+
+I mean we look -- our teams are -- we have a fairly intricate setup for how we'll go-to-market and how we serve customers, that is aligned with our land-and-expand low friction model. But Adam is going to lead a number of those teams.
+
+Brent Thill -- Jefferies -- Analyst
+
+OK, Great.
+
+Olivier Pomel -- Co-Founder and Chief Executive Officer
+
+And focus is outwards instead of inwards.
+
+Brent Thill -- Jefferies -- Analyst
+
+OK. That's great. And a quick one for David. Just you mentioned duration is up.
+
+Can you remind us what the duration is now versus what you saw a year ago?
+
+David Obstler -- Chief Financial Officer
+
+Yes. On the billings duration, we said it in the seven -- around seven months and the contract duration spread out toward -- more toward a year in the 9-plus months. and it's maintained that. So what we saw was over the last couple of quarters, given the multiyear contracts and the increase of annual billing, the contract duration increased.
+
+Brent Thill -- Jefferies -- Analyst
+
+OK. Thanks for the color.
+
+Operator
+
+And we do have our next question from Matt Hedberg from RBC.
+
+Matt Swanson -- RBC Capital Markets -- Analyst
+
+Yeah, thank you. This is actually Matt Swanson on for Matt. So thinking about the capabilities of Sqreen and the potential cross-sell opportunity, could you give us a little color on what type of solutions your customers currently have to address these needs? And if you think of this as a competitive environment within your customers or more of another greenfield opportunity?
+
+Olivier Pomel -- Co-Founder and Chief Executive Officer
+
+Yeah. So it's really more of a greenfield opportunity. Today, customers typically don't have anything or they have something, it's not really deployed. And the reason for that is that to inject application security inside the applications, there's actually quite a bit of friction.
+
+Where the combination with Datadog and with our APM makes sense is that we've already incurred that friction to instrument the application with APM and the point of inflection is the same. And that's where we think the -- probably all one plus one equals three happens by adding Sqreen to Datadog. And I should say, it's only going to be the start. I mean we -- there's a lot more we want to do in application security.
+
+In the rest of security, the first step is we need to plug the -- this protection -- detection and protection directly at the APM level with Sqreen.
+
+Matt Swanson -- RBC Capital Markets -- Analyst
+
+Well, and that kind of leads directly into what I wanted to go to for my second question, which is Olivier, you guys really have a front-row seat to digital transformation. And you obviously then get to also see some of the security challenges that arise from that. So what are some of those other areas of security that maybe you're seeing as pain points for your customers?
+
+Olivier Pomel -- Co-Founder and Chief Executive Officer
+
+Well, there's many a look to there. It seems like every other month, there's a large-scale attack that brings a new area of security into focus. But the way we see the world and the way it relates to us, we are focusing on applications in the cloud. And for that, we think there are important aspects of it that happened at the application level, which is what we're addressing with Sqreen.
+
+There are important aspects of it that are happening at the infrastructure level. And we have a few different products that we started last year and that we're still developing and shipping around that. Then there's one big part of it that has to do with putting all this information together into an actionable system of record with -- in the on-prem world would be a theme. We also have a product, a security monitoring product that is a precursor to a theme that we're building into a theme that's not there yet.
+
+So we really intend to cover that whole spectrum specifically for applications on the cloud and specifically for use cases that are going to bring together DevOps and security. In general, when you think of the problems companies have in this current environment, the first one is that the tooling is very variable and most of it doesn't exist or it's too a high friction it doesn't get developed -- don't get deployed. But the other thing that happens in most of these companies that is really, really hard to operationalize security because it's hard to get that in ops and security to be on the same page and can work together. And that's where I think we can make a big difference if we use our platform the right way and if you build all those products, right.
+
+Matt Swanson -- RBC Capital Markets -- Analyst
+
+Thank you.
+
+Operator
+
+And we do have our next question from Bhavan Suri from William Blair.
+
+Bhavan Suri -- William Blair -- Analyst
+
+Hey, thanks for taking my question and congrats on another well-executed quarter. I wanted to touch on the partner network. You announced kind of the launch of the formal partner network in January, kind of expands go-to-market, self-service, fermentation, things like that. Can you just talk about the early interest you're seeing there, the traction because you're not a heavy services company.
+
+There's not a lot of implementation or lift here. So how is that playing out? And kind of how does that plan to sort of more of a medium-term, long-term channel strategy? Is this really a growth driver? Is this sort of efficiency driver? How should we think about that?
+
+Olivier Pomel -- Co-Founder and Chief Executive Officer
+
+So for us, it's really a growth driver, right. I think when you look at Datadog, we have plenty of efficiency. And the way we think about everything is how do we get the biggest part of that market, which we think is going to be gigantic. How do we build the products we need to get to all that? How do we reach all the customers across all regions and all segments to get there.
+
+So that's how we think about it. So when we look at our partner program, we see it to that lens, and we are very happy with the adoptions we've had there. There's a number of things need to do still. I mean it's still, I would say, very early.
+
+We have validating wins like we've talked about some of those in previous calls, but there's a lot more we want to build over the next year, I would say. So no specific update in this quarter but I do expect that we'll talk about it again.
+
+Bhavan Suri -- William Blair -- Analyst
+
+Got you. Got you. Got you. And then I want to touch a little bit on sort of pricing and competition kind of combined.
+
+If I was to look at pricing in general, your view as kind of having a really attractive price point in terms of modern vendors. But then as you get into enterprises, given the scale you're being deployed at, whether pricing is cheap or expense is different, but it becomes a big number. And guys like New Relic, Sumo, Splunk have all made adjustment in pricing models in the last 12 months. In your last quarter, you said you were having a pricing model.
+
+But I'm just wondering, are you seeing any pushback at the enterprise level? Are you seeing customers ask for price concessions. Anecdotally, just some sense of the confidence you have that there is sort of a nonissue around pricing at that enterprise level, given the scale you're getting deployed. I'd love to understand how you think about that. And what you're seeing competitively as those guys sort of use pricing as a or maybe even as a way to get into some accounts.
+
+Olivier Pomel -- Co-Founder and Chief Executive Officer
+
+Yeah. So -- yes, so first of all, on pricing and price push back -- look, we have customers that pay us more than $10 million a year. Anybody who is paying you that -- somebody is paying them $10 million a year and he is not asking for a lower price, because they probably -- so -- but look, at the end of the day, the way we think about it is this is very high leverage spend for our customers, when you see the time to what they spend on their infrastructure and on their engineering teams. And the way we think about pricing for all the data and everything they send us is that the amount of data are going to go exponentially over time.
+
+They're going to grow faster than these customers' top line for particular purposes. And so pricing will have to adapt how smart we are about getting, interpreting that data or how we price and how we structure the model that these customers scale more and more with us. I will say that we -- while we do have pricing conversion with customers, especially large ones, we don't see the kind of competitive cash flow pressure, you might imagine if you read the competition in the marketing website. The best illustration of that would be, I think David mentioned in the call that we had gross retention in the mid-90s, and this is stable across various segments of our customers and also stable across products.
+
+If you take each of our infrastructure, APM and logs products, individually, you see the same numbers. What this tells you is that there's very little that goes away. There's not a lot of room there for cut-throat price-driven competition.
+
+Bhavan Suri -- William Blair -- Analyst
+
+Got you. Got you. Super helpful. Thank you.
+
+Thanks for taking my questions and great job again.
+
+Operator
+
+And we do have our next question from Michael Turits from KeyBanc.
+
+Michael Turits -- KeyBanc Capital Markets -- Analyst
+
+Hey, guys. First off, congratulations. I plan to continue on the competitive front relative to a couple of -- in a couple of directions. One, obviously, an announcement from Splunk recently.
+
+Secondly, the impact of open source of telemetry and third, whether or not there's any change from the cloud vendors recent announcement or GA from AWS.
+
+Olivier Pomel -- Co-Founder and Chief Executive Officer
+
+So I have the usual boring answer, which is that we don't really see any change in the competitive landscape. It's a bit early for me to comment on the Splunk announcements because I think you they just did that yesterday. But from what we could see, it seems to be a formal announcement from the repackaging of the products they have been doing for the past few quarters and that we had seen in the market. So there's no big change or surprise.
+
+And on the other side, we don't see from anybody else, we don't see any big change that is impacting us much. The biggest impact of competitive announcements I see is typically the day of the announcement where somebody has to figure out what's going on and explain it, and that's about it. We think -- we can't -- we are not competition-driven product development and we're also not competition-driven in our go-to-market.
+
+Michael Turits -- KeyBanc Capital Markets -- Analyst
+
+So Olivier, I'll just follow-up on that, maybe just to drill down further, open telemetry. Is there any sense that with open telemetry that the agent is essentially commoditizes that, and if so, is that forcing you in any way to focus even more so, let's call it, up the stack in terms of analytics or other value-add?
+
+Olivier Pomel -- Co-Founder and Chief Executive Officer
+
+So we -- so first of all, we're fully -- we're all in on open telemetry as well. And to us, it's not a change, right? Our agent was open source already. It's -- it was free for everybody including our competition to reduce. We leaned on -- into open source format and libraries to instrumental applications for a very long time, and we support a large number of them.
+
+So when we see the problem is not -- what matters is not what technology we use to get there from here to there. What matters is to solve the end-to-end problem for our customers and to make it as easy as possible for them to just plug us in and everything just work, everything just show up. We turn their mass -- their gigantic mass with all these different technologies and applications and cloud and everything else. We turn that into something that they understand and is well ordered without any effort.
+
+That's what the market in the end, and that's what we see all of this. And the various PCs that appear in the middle, like the formats and the libraries and everything else. This will change. It has change, it will change and it doesn't matter.
+
+Operator
+
+We have our next question from Jack Andrews from Needham.
+
+Jack Andrews -- Needham & Company -- Analyst
+
+Good afternoon. Thanks for taking my question. I apologize, I've been jumping around calls. But I just had a broader question.
+
+Just when we think about just the proliferation of new products that you continue to introduce, how would you characterize where your sales force is in terms of just their knowledge and ability to really understand and appropriately sell all this functionality that you have to offer?
+
+Olivier Pomel -- Co-Founder and Chief Executive Officer
+
+Well, so far it's working, I think. Look, we do have a fairly differentiated go-to-market in the way we organize internally which teams, how we land -- what we land with and whole customers adopt our product and how they learned about those products. So we -- this doesn't rely on having every single sales rep, understanding every single little feature we have in every part of the product that wouldn't be practical. So it is working.
+
+We're very confident in that. I would say, there's a point at which we might have to consider tweaking the way we go-to-market. And I think that we'll have to do more with when we start actively selling to what might be different virus. And I think we've discussed it before, but I'm thinking more specifically of the security market.
+
+We're not there yet. We're not actively pushing to security buyers today with our product. But when that happens, we may have to make some tweaks. We're not there yet.
+
+Jack Andrews -- Needham & Company -- Analyst
+
+OK, thanks. And just as a quick follow-up. Could you maybe just talk about how much of your new business today is perhaps generated from partnerships with the public cloud vendors? I believe you now have strategic relationships with all three of the big clouds entering the year here. So how should we be thinking about their relative contributions moving forward?
+
+Olivier Pomel -- Co-Founder and Chief Executive Officer
+
+So we don't have any numbers to share around that. I will say that A lot of the -- historically, a lot of that has been informal in that we work alongside the cloud provider, but there's no formal agreement of rev share and everything else. We started to put some of those in place more recently around the committed resources for going to market jointly and things like that, but we don't have anything to share on that.
+
+Jack Andrews -- Needham & Company -- Analyst
+
+OK, thanks. Congratulations on the result.
+
+Operator
+
+And we do have our next question from Andrew Nowinski from Davidson.
+
+Andrew Nowinski -- D.A. Davidson -- Analyst
+
+Customers I think you had 97 in Q4 that spent over $1 million in ARR. Can you just give us any more color around what you called a strong uptick in those customers this quarter? And then did you have any outsized deals in the quarter?
+
+David Obstler -- Chief Financial Officer
+
+Let me just take that as a metric. We said we were going to announce that once a year and give some comment on flavor. So we're not going to give the number, but it was -- it's a strong uptick. And as we talked about, it has a lot to do with the expansion of customers into that $1 million range.
+
+As far as a concentration in the quarter, nothing out of the ordinary. We continue to have some very needy lands, but given the land-and-expand model and the number of customers you bring on, we don't have a concentration that produces a quarter.
+
+Andrew Nowinski -- D.A. Davidson -- Analyst
+
+OK, great. And then maybe just a follow-up question on the gross margin side, you ticked down a little bit lower than expected. Was there anything abnormal on the gross margin side? Or do you expect that to come back up going forward?
+
+Olivier Pomel -- Co-Founder and Chief Executive Officer
+
+So on the gross margin, so the way we think about it is this is due to us having the product teams work on product development instead of working on optimizing. And we're still happy with gross margins where they are. They might still fluctuate. They probably would fluctuate a bit lower than they were last year because we're very busy building product.
+
+But there's nothing fundamentally changed around our margin. And there's many other things we can do in the future to optimize if we so wish. So right now, the call we're making is, we focus on product development, we focus on making sure that we grow the top line in the short and mid-term. And then we -- if it get out of hand on the gross margin side, we'll spend some more time on optimization.
+
+Andrew Nowinski -- D.A. Davidson -- Analyst
+
+Got it. Thank you.
+
+Operator
+
+And we do have our next question from Chris Merwin from Goldman Sachs.
+
+Chris Merwin -- Goldman Sachs -- Analyst
+
+Hi. Thanks for taking my question. I wanted to ask about the CRO position. I think you mentioned in the prepared remarks, looking for a new one.
+
+I mean should we take that to mean that perhaps it was more -- even more of an enterprise focus as it relates to your go-to-market organization. Just curious what type of person you're looking for? And what, if anything, we should read into as we think about any sort of evolution with the go-to-market motion of the company? Thank you.
+
+Olivier Pomel -- Co-Founder and Chief Executive Officer
+
+Yeah, there's really nothing to read to it. I think it's a continuation of what we have. I would say right now, we have a deep bench on the sales leadership side. We're very happy with the leadership we have in place.
+
+And we're still going to be -- going to be looking for a new CRO and we'll be going to be looking at candidates both internally and externally for that. But there's no willing, desire to change scores or do anything different from what we were.
+
+Chris Merwin -- Goldman Sachs -- Analyst
+
+Got it. And apologies if this has been asked. But in terms of duration, I know that in prior quarters, it seems like that was coming in, customers were looking to do shorter deals. Anything changing on that front? I mean it seems like all the -- there's more tailwinds behind the business, certainly as we get into a recovery here, used to just going higher.
+
+Just curious if you could comment on duration.
+
+David Obstler -- Chief Financial Officer
+
+Yeah, it pulled in and we talked about in Q3 as risk management happened. And then we said in Q4, both billings and contract duration pull back out basically in billings in the seven -- seven to eight in contract duration, nine, 10, around that. And it had to do with clients -- client preferences. And we continue to have that same sort of duration in Q1 that we had in Q4.
+
+So it's very similar to the trend we talked about last time, which is more duration on contracts year over year. But between Q4 and Q1, there really wasn't much change in the way clients approach the contracting.
+
+Chris Merwin -- Goldman Sachs -- Analyst
+
+Got it. Thanks very much.
+
+Operator
+
+And we do have our next question from Yun Kim from Loop Capital.
+
+Yun Kim -- Loop Capital Markets -- Analyst
+
+Great. First, congrats on a strong quarter, Oli and David. You mentioned that strong usage trend driving strong results in the quarter. Is there any way to qualify whether that strength in usage came from existing deployments or relatively new deployments that just happened to ramp in the quarter? And then also on usage, I know it's only Q1, but how much of that strength in usage was already captured in the contract versus the usage that came in well above contract provision.
+
+So that caused customers to kind of renew at a higher contract volume?
+
+David Obstler -- Chief Financial Officer
+
+Do you want to take -- I'll start with that. So we had -- it was very broad-based across industries. We had a combination of customers that we brought on with the strong new logos in the second half of the year and in Q1 begin to ramp because we are land and expand, and customers that were already using us and have been using us for a year or more, increase their activities. We think it has a lot to do with the increase of activity on digital transformation and workloads.
+
+As in previous quarters, about two-thirds of the increase of usage was from customers using more of the products they had purchased in the previous periods and about one-third was cross-sell or new and that continued in the quarter. So it was a combination of new logos, increased usage of existing products and very robust cross-selling and adoption of the platform.
+
+Yun Kim -- Loop Capital Markets -- Analyst
+
+OK. Great. So there wasn't any necessarily different trend that kind of drove the upside in the usage trend in the quarter per se from previous quarters?
+
+David Obstler -- Chief Financial Officer
+
+It was very -- it was broad. All three of those were positive in terms of both the scaling of new customers, the cross-sell and the increased usage of existing products.
+
+Yun Kim -- Loop Capital Markets -- Analyst
+
+OK. Great. And then just last question for me. Could you just talk about any geographical trend that you're seeing out there that you expect to see for this year, especially in Europe? Thanks.
+
+David Obstler -- Chief Financial Officer
+
+Europe -- let me take that. Europe has been strong for us. We have not seen the slower vaccination attract, and we have seen pretty good resumption of growth across all the geographies. We'll have to continue to watch it because there's variation in back to work and back to office.
+
+But as it relates to Q1 and Q4, we saw fairly uniform strength across the regions.
+
+Yun Kim -- Loop Capital Markets -- Analyst
+
+OK, great. Thank you so much.
+
+Operator
+
+And we do have our next question from Gregg Mosonsky from Mizuho.
+
+Unknown speaker -- Mizuho Securities -- Analyst
+
+OK, thank you very much and really nice quarter, guys. First question is on Datadog continuous profiler. Now that it's GA, what sort of trial and paid activity have you seen so far? It would seem like there would be a lot of interest in getting ongoing visibility into code performance, but any early anecdotes would be helpful there.
+
+Olivier Pomel -- Co-Founder and Chief Executive Officer
+
+Yeah. So very happy with the product, been very strong out of the gate. We don't have any numbers to share. And still -- like it's so early in the cycle that there's still a number of things that we need to do to the product that.
+
+It works well for everyone who wants to use it. But it's a product that is beloved by its users, put it this way. So it's got a very strong plan is the anecdote I can give you.
+
+Unknown speaker -- Mizuho Securities -- Analyst
+
+OK. That's great. And then you mentioned earlier that you saw an uptick in metrics. Would you say that your internal metrics are back to pre-pandemic levels or not quite yet?
+
+Olivier Pomel -- Co-Founder and Chief Executive Officer
+
+Well, I think it's -- at this point, I'm losing track of what we're comparing to back to pre-pandemic level. So far back. But we -- look, we're very happy with what happened over the Q3, Q4 and Q1. We had a very, very strong Q1.
+
+We still think -- we don't know what the macro is going to -- who is going to impact us. We still think the -- because all our customers are -- have been affected the same way at the same time, we just a little bit more uncertain than it used to be. But look, we feel good about the business, right? I think we just increased the guidance for the full year. I think it went from 38% or so growth to 47%.
+
+That should tell you that we feel great about where we are about the business.
+
+Unknown speaker -- Mizuho Securities -- Analyst
+
+OK, that's helpful. Thanks, Olivier.
+
+Operator

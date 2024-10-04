@@ -1,0 +1,610 @@
+Operator
+
+Good day, ladies and gentlemen, and welcome to the Splunk Inc. Second Quarter 2020 Financial Results Conference call. At this time, all participants are in a listen-only mode. Later we will conduct a question-and-answer session and instructions will follow at that time. [Operator Instructions] As a reminder, this conference call is being recorded.
+
+I would now like to introduce your host for today's conference, Mr Ken Tinsley ,Corporate Treasurer and Vice President of Investor Relations, Mr Tinsley, you may begin.
+
+Ken Tinsley -- Corporate Treasurer & Vice President Investor Relations
+
+Great. Thank you, Josh and good afternoon. With me on the call today are Doug Merritt and Jason Child .After market close today we issued a press release, which is also posted on our website. This conference call is being webcast live via webcast and following the call an audio replay will be available on the website. We also note that supplemental materials have been posted on our Investor Relations page.
+
+On today's call we will be making forward-looking statements including financial guidance and expectations, including our forecast for third quarter and full-year of fiscal 2020, trends and expectations regarding revenue mix, Operating cash flow, operating efficiencies, and margin improvements, statements and benefits regarding our recently announced acquisition of SignalFx, which we expect to close in the second half of fiscal 2020. So subject to customary closing conditions and regulatory approval and our expectations regarding our products technology strategy, customers, market and industry. These statements reflect our best judgment based on facts currently known to us and actual events or results may differ materially. Please refer to documents we file with the SEC, including the Form 8-K filed with today's press release, those documents contain risks and other factors that may cause our actual results to differ from those contained in our forward-looking statements. These forward-looking statements are being made as of today, and we disclaim any obligation to update or revise these statements. If this call is reviewed after today this information presented during the call may not be current or accurate. We will also discuss non-GAAP financial measures, which are not prepared in accordance with Generally Accepted Accounting Principles. A reconciliation of historical GAAP and non-GAAP results is provided in the press release and on our website. So with that let me turn it over to Doug.
+
+Doug Merritt -- President and Chief Executive Officer
+
+Thank you, Ken. Hello, everyone, and welcome. We are extremely proud of our Q2 results and our continued hyper growth at scale, particularly our 46% software revenue growth, 33% overall revenue growth and 80% cloud growth. In fact 25% of our business was cloud this quarter and we expect it will grow to 50% over the next few years. I'm also eager to tell you about the acquisition of SignalFx that we announced today. As you know, there are two kinds of M&A transactions, consolidation deals in troubled market categories and acceleration deals in growth categories. Make no mistake, we are proactively positioning Splunk for growth and long-term value creation. Splunk is on a mission to become nothing short of the strategic technology partner to the world's most data savvy enterprises.
+
+Before we get to the details of the acquisition, I'd like to give you a sense of where we are now and where we're going . I want to be emphatically clear, our business is firing on all cylinders and executing at highest levels .For a little data driven context, only a handful of enterprise software companies in history have had $2 billion in revenue while attaining greater than 25% revenue growth, the likes of Microsoft, Oracle, Salesforce, ServiceNow, VMware and Workday, Splunk is on track to join this short list by the end of this fiscal year. Not only is Splunk on the cusp of joining these elite companies, we've done it concurrently while making massive investments in new cloud technology and executing on a full business model change. As you know, customers today want to consume Software-as-a-Service.
+
+Our renewable business model makes it easier to do business with, and in fact customers have adopted term in Cloud faster than expected and increasing our mix from renewable by more than 10 percentage points in just one quarter to a stunning 95%. We've also evolved our pricing approach to make it easier for customers of Splunk much more of their data. Our contracting and pricing changes are making a big difference for enterprise customers. And our new pricing meaningfully expands the opportunity for Splunkable data worldwide. For example, DoorDash was able to provide an enhanced experience to all of its users from consumers to merchants to dashers through its Splunk Cloud expansion. DoorDash partners with Splunk across teams such as DevOps, IT Ops and business analytics to connect consumers with their favorite restaurants and power dashers to earn more money faster and help merchants grow their business.
+
+ABB Group a global technology leader who is driving the digital transformation of industries, selected Splunk for security through a new predictable pricing program. ABB will have Splunk and Splunk ES at the heart of their Global Security Operation Center. A large multi-billion dollar software Company significantly expanded on Splunk Cloud to take action on data across the entire business with IT Ops, security, DevSecOps and emerging business use cases. I'm also very pleased that this customer is able to utilize a new pricing program that gives them predictable pricing with no data limits. Stay tuned for much more about pricing from Splunk throughout Q3.
+
+Also our ecosystem continues to flourish, we recently expanded our strategic relationship with Cisco, which is capitalizing on integrations with the Splunk platform to rapidly bring to market new differentiated solutions that will be sold on Cisco's Global price list. A newly available security solution generated from this relationship Cisco Endpoint Security Analytics built on Splunk is now orderable and will be featured a Cisco's internal Global Sales Kickoff next week.
+
+We also just jointly announced an expansion of our strategic relationship with Deloitte Risk and Financial Advisory. Deloitte's Fusion Managed Services offerings now incorporate Phantom which provides automated security monitoring and response capabilities to help clients address evolving cyber threats.
+
+According to IDC by 2025 the average person will interact with the connected device nearly 5,000 times per day. Further there'll be a 175 zettabytes of data, five times more than today, and 90% of this data will require some level of security, but less than half will actually be secured. The future is clear, data represents the biggest opportunity, and the biggest threat to businesses, governments and frankly to humanity.
+
+Splunk strategy is simple and powerful to bring data to everything. By bringing data to every question, every decision and most importantly every action, we are committed to delivering the technology platform required to instantly connect all forms of data, from any source in any format. Instantly enabling the new approach is required to produce data outcomes and stop security threats all at ferocious speed and massive scale.
+
+As part of our ambitious growth agenda today, we announced our intent to acquire SignalFx, a SaaS leader in real-time monitoring and metrics for cloud infrastructure, micro services and applications. SignalFx is a cloud-centric business that gives us best-in-class massively scalable cloud monitoring and we believe makes us a leader in observability and application performance monitoring for organizations at every stage of their cloud journey. The combination of Splunk and signalFx will give application developers and IT departments a unified data platform that allows them to monitor and observe data in real-time, no matter the infrastructure or scale in order to cut costs, boost revenue and improve the customer experience. This fit is not just from a product lines, though, I'm incredibly impressed with Karthik Rau, their Founder and CEO and the SignalFx team. We share a passion for customer success and our company cultures are a strong match. We look forward to having them as part of the Splunk team accelerating our cloud growth strategy.
+
+In conclusion, we are very proud of our Q2, we are executing in the cloud, we are executing on SaaS, we are executing in our product and technology agenda. Most importantly we are delivering real measurable economic value for over 18,000 global customers. Splunk is the company delivering the new approaches to make the right things happen at the right time to produce the right outcomes all with data. As a result, we are on track to become one of just a handful of enterprise software companies that had $2 billion in revenue while growing in excess of 25% by the end of our fiscal year.
+
+I want to personally thank our customers, our partners, our investors and most importantly, our people for working hard to turn the promise of the data future into reality. Thank you all for your time, attention and partnership. We look forward to seeing you at Comp '19 in Las Vegas, and now I will turn it over to Jason to take you through the quarter.
+
+Jason Child -- Chief Financial Officer
+
+Thanks, Doug and good afternoon everyone. I appreciate you joining us today. Our Q2 execution was strong highlighted by a faster transition to renewables than anticipated. Rather than provide a detailed line-by-line readout of the financials, I thought it would be best to point out a few key highlights, especially those that are the best growth indicators for the business, which you can reference on a new slide deck that we've published on our IR site. For today's report, it's important to note that all Q2 results reflect virtually constant duration of about 33 months on the TCV basis compared to Q2 last year. Second quarter revenues were $517 million, up 33% year-over-year, cloud revenue was $70 million, up 80% over last year and Q2 software revenues, which is the total of license and cloud were up $350 million, up 46% year-over-year. As Doug discussed, customers are adopting term and cloud faster than anticipated and our transition to renewable is tracking faster than planned. In Q2, 95% of software bookings were either term or cloud.
+
+We expect the elimination of perpetual license sales will accelerate renewable mix to 99% in Q4 and high 90s for the full-year. As we previewed last quarter, the accelerated shift to renewable has a timing impact on cash collections. As expected, Q2 operating cash flow was negative, given the more rapid growth of multi-year term and cloud contracts. This translates to a greater cash flow drag this year as more of our contracts are paid ratably. We are now expecting negative operating cash flow for the balance of the current year and expect fiscal '20 with $300 million net negative operating cash flow. To be clear, there are 2 new drivers behind this reduction. First that our renewable transformation is essentially complete with the mix at 95% in Q2 and expected to go to 99% by Q4. And second, we are significantly reducing our upfront cash invoicing for term and cloud deals from 58% paid upfront in the first half of '20 -- FY20 to an estimated 33% paid upfront in the second half of FY20. Again, this is all about timing. While we expect long-term cash yield to return to the mid 20% levels. The timing to get there is dependent on our term-cloud mix over the next few years.
+
+Underlying the constant increase in mix has been the substantial uptake of our cloud service. Since, introducing it just 5 years ago, ARR for cloud has grown from zero to over $300 million currently. Customer adoption of cloud is increasing rapidly and we expect momentum will accelerate from here, so much so that cloud will likely represent half of our overall business within the next few years.
+
+We ended the quarter with total RPO of $1.235 billion dollars, up 47% over Q2 of last year. The portion of RPO, which we expect to recognize as revenue over the next 12 months was $751 million at quarter end, up 32% year-over-year. This is a new disclosure intended to provide greater granularity of RPO and its conversion to revenue over the next 4 quarters.
+
+RPO bookings was $554 million, up 19% from Q2 last year. Just to note this growth rate was understated by about 4 percentage points due to 606 related adjustments to RPO bookings last year.
+
+In Q2 we recorded 93 orders, greater than $1 million and added 500 new customers. On margins, which are non-GAAP, Q2, overall gross margin was 84%, up 2 points on a year-over-year basis. With such rapid growth in the cloud, we are realizing anticipated efficiencies and scale in that business. In Q2 cloud delivered over 50% gross margin, which is an important milestone on the way to our long-term target as 70% or more. Q2 operating margin was 9%, notably better than our plan, driven by our solid top-line performance and some investment optimizations.
+
+Turning to guidance, we expect our high growth trajectory to continue. Q3 revenue should reach approximately $600 million with a non-GAAP operating margin of 16%. For the full-year, we are now expecting total revenues of $2.3 billion, up from $2.25 billion [Phonetic] and we maintain our non-GAAP operating margin target of 14% which to confirm will include the acquired operating expense run rate of SignalFx.
+
+In closing, it was an excellent first half and we're set up for a strong finish to the year. My first full quarter here has been a complete adrenalin rush, grounded myself in the model and understanding the dynamics in the business have been top priority. With this I'm even more energized about the massive market opportunity we have in front of us and our unique position to penetrate it enhanced with the addition of SignalFx. I'm enthusiastic about the completion of our renewable transition and the outlook from here is excellent.
+
+With that, let's open it up for questions.
+
+Questions and Answers:
+Operator
+
+[Operator Instructions] Our first question comes from Brad Zelnick with Credit Suisse. You may proceed with your question.
+
+Brad Zelnick -- Credit Suisse -- Analyst
+
+Great, thank you so much and congrats on a great quarter. Jason, just so I make sure I heard it correctly. Can you just go back over your cash flow guidance for the full-year and perhaps double click a little bit deeper into it and bridge us back from the prior cash flow guidance that the company has given?
+
+Jason Child -- Chief Financial Officer
+
+Sure. So we actually previously had guided to positive $250 million cash flow for the full-year. The new guidance is minus $300 million. And so -- and the reason for that reduction, well, we included on the website slides kind of just a helpful overview of why this is happening, but what's happening is, one, the perpetual business which was previously anticipated to be about 15% of the total business. We said renewable 85% that was our previous guidance, we're now seeing renewable is going to go to 1% by end of year.
+
+Brad Zelnick -- Credit Suisse -- Analyst
+
+Perpetual?
+
+Jason Child -- Chief Financial Officer
+
+I'm sorry, perpetual will be 1% by end of the year. So that is -- in perpetual as you may know, the cash is paid upfront. So if you take that reduction and apply that to the second half year of TCV which is just shy of $2 billion, you're going to lose a couple of hundred million just on that change. Second, we are changing the invoicing duration or percentage of TCV that's invoiced upfront for customers such that we're now effectively invoicing on a ratable basis, so invoicing annually. So typically our deals are 3 years, and our average duration now is about 33.5 months. So we're billing a third, a third, a third -- a third upfront, a third after-year-1, a third after year-2. And so, we previously in the first half of this year we had a higher collection closer to the -- on the combined basis, it was about 58%. The second half, we think on a combined or we project on a combined basis, is going to be closer to 33%. So if you kind of add all that up, it's about a 25% reduction in cash paid upfront on roughly $2 billion of TCV in the second half of the year that's roughly $500 million reduction and again it's all timing. We will be -- the invoicing that cash now really on an annual basis instead of upfront or less of it upfront, so we will get that cash back next year, but there will be headwinds for the balance of this year.
+
+Brad Zelnick -- Credit Suisse -- Analyst
+
+Thank you so much for that. And Doug, if I could just follow up. Congrats on SignalFx, it's a really high quality company from what we know. But just to ask why now, what other alternatives might you have explored and what can you do by just bringing in the company into the fold versus the partnership that you already had with SignalFx? Thanks.
+
+Doug Merritt -- President and Chief Executive Officer
+
+Thanks, Brad. Good question. And, yes , you're right, there are a number of customers, we have there, joint customers. We -- as you'd expect, we've been in this IT and Dev segment really since the founding of the business. We spent a lot of time perusing all the different alternatives in this segment and I can't, think of a company in the overall NextGen Dev and APM segment that we haven't personally met with and/or investigated deeply. As you suggested, we view SignalFx as the top tier asset for the things that matter to our customers, which is incredible scale high-high accuracy around metrics observability in this very ephemeral NextGen cloud architecture that everybody is leaning into to try and get application velocity across AWS ,TCP and Azure, as well as OpenShift. The complement that we see between the two and this has proven out to a number of these big companies that use our best-in-class, best scale, log aggregation and metrics extraction with the more real-time streaming metrics capability that SignalFx have, is a world-class quite instrument deck as you're flying super high-speed plane which is SignalFx to make sure that you're going in the right direction, combined with a world-class investigative capability. And so, when that instrument deck signals something at the high accuracy that SignalFx is able to, you're able to actually very quickly dive in, understand what the root cause is, whether you should be paying attention to it or not and then remediated accurately. And so, it really helps us, if you think about this, whole generation of IT systems, which are generating the data that's so critical to companies, at the backbone having logs, metrics and tracing as a three core elements that all need to be done with high-high accuracy, incredible scale and enterprise-grade features across that suite. We feel this is a highly strategic and important addition to the portfolio.
+
+Brad Zelnick -- Credit Suisse -- Analyst
+
+Very exciting. And congrats on all the success. Thanks
+
+Doug Merritt -- President and Chief Executive Officer
+
+Thank you.
+
+Jason Child -- Chief Financial Officer
+
+Thanks, Brad.
+
+Operator
+
+Thank you. Our next question comes from Raimo Lenschow with Barclays. You may proceed with your question.
+
+Raimo Lenschow -- Barclays -- Analyst
+
+Hey, Perfect. Hey, thank you. Congrats from me as well on SignalFx. And if I can stay on it, like how do you, Doug, how do you think about the product integration? How to think about this like are you having to bring the products together, are these going to work side-by-side like -- how does this kind of come together? Thanks and then I have a follow-up.
+
+Doug Merritt -- President and Chief Executive Officer
+
+Hey, Raimo. Thanks for the question. So again going to the handful of these customers we've spent time with, as we say over and over we're customer success firs, and very customer centric. So, in addition to all the great investigations we've been doing and meeting we've been having, listening to our customers helps a lot. And when you're dealing -- I'll give an example, there is a Fortune 50 world-class consumer retailer that uses Splunk as a backbone for everything, they're doing across their expansive online portfolio and uses SignalFx as well.
+
+And they're working very effectively side-by-side right now. SignalFx, when you think about any big consumer introduction online you end up getting crunched with both human activity and bot activity, SignalFx does a really nice job of providing that instrumentation so that they know where they need to pay attention to anything, and we can optimize the revenue that they are trying to drive with one of these great introductions. And then, Splunk is right there by its side as anything is being signaled to dive in and help them understand what the reality of that situation is and what they should do if anything to make sure that they keep their revenue customer experience go in the right direction.
+
+I do believe that there is -- and obviously we believe as part of this acquisition that there are going to be some significant benefits to tighter integration between those two. The constant transposition and learning that happens between logs, metrics and traces goes back to the framework that we've been talking about with you guys on the pillars of this next-generation data landscape . We've got to have an effective investigative pillar, monitoring, analytics and action set of capabilities and those who are working in concert provide the ability for organizations to have that real-time sense and respond approach. And so, as we get full approval for the acquisition and the teams could actually start working together at the detailed level, I'd like to. I fully anticipate and Tim Tully, our CTO and Head of Development anticipates that we'll see some very interesting and rapid integrations being developed and delivered to market between the two products.
+
+Raimo Lenschow -- Barclays -- Analyst
+
+Perfect. And then just a clarification. So, Jason, thanks for all the extra disclosure. And the one thing I wanted to double-click on, so you said the current RPO 12 months which is different from the 24 current definition that you had before I just want to make sure that you moved to 12 months. So because that's kind of a very good step in the right direction.
+
+Jason Child -- Chief Financial Officer
+
+That's right.
+
+Raimo Lenschow -- Barclays -- Analyst
+
+Well done .Okay, thank you. That's really helpful. Thank you, well done.
+
+Jason Child -- Chief Financial Officer
+
+It's right on.
+
+Doug Merritt -- President and Chief Executive Officer
+
+Hey Raimo your key on that guidance. So thank you for giving us that feedback earlier in the year as well.
+
+Raimo Lenschow -- Barclays -- Analyst
+
+Perfect, thank you.
+
+Jason Child -- Chief Financial Officer
+
+Thanks.
+
+John DiFucci -- Jefferies -- Analyst
+
+Thank you. And our next question comes from John DiFucci with Jefferies. You may proceed with your question.
+
+Thank you. So Doug -- and thanks Jason for going through the cash flow details there because that's really important. But Doug, you've made a comment in your opening remarks, you said the new pricing expanse a Splunkable data, can you expand on that a little bit, is there some new pricing out there that I don't know just recently news. Because as you know, at least in investment community, this is always one of the things that's talked about with Splunk, probably more so than even the customer community. But if you could expand on that a little bit? That'd be great.
+
+Doug Merritt -- President and Chief Executive Officer
+
+Yes. Absolutely, John. So we did release pricing internally to our teams that we're going to be broadcasting much more loudly over the course of this quarter, so that everybody understands what -- how we've shifted. There are two dimensions to the pricing and when I went through my examples, ABB was one and a large multi-billion dollar software company was the other. One is for people that have digested the data volume piece, if you got contracts there, whether they but they like it or not, they understand it and they're comfortable with it. We've crafted a predictive pricing framework that very clearly illustrates organization of any size, what their unlimited footprint looks like and move these people to much more coarse-grained terabyte-sized bands and we get them to unlimited much more quickly, where we're trying to show them is that there is a terminal value for the core Splunk Enterprise box and by terminal value I mean there is a logical point after being in business for so many years, with today's offering and features and functions where we know that we're only X% of a software budget and we want them to understand that we know that, they know that and that data is not really the gate for them, So they can stop worrying about filtering data.
+
+Alternatively, we also been rolling out infrastructure base metric, kind of a virtual CPU, Splunk virtual core type thing that has no data to it at all. And then that just allows the customer to use infrastructure, they want to, they can add or delete as much compute and then pay for storage separately as they want, and therefore they can process unlimited amounts of data. The only difference is the speed of response, so the overall interface that people have with the system, you add more infrastructure you get faster response, you add less you get a little bit less -- less response but -- and we've heard loud and clear through the years that pricing, we need to be more thoughtful on pricing, we've been iterating and iterating through the 3.5 years I've been in the seat and a piece of that -- of those iterations were learning what customers -- what really worked for customers, no pricing is perfect.
+
+The other piece of that is, continue to expand the portfolio beyond the index. If you really look at our portfolio, and I said this during a lot of meetings that we've had with you and your peers in the past couple of quarters, the only product -- the only three products that are priced on any version of the index or index-based enterprise security, IT, science Splunk enterprise everything else in the portfolio is now priced on a different metric, and we just came out with the alternative metric to data volume with the infrastructure based metric for the core enterprise stack as well.
+
+So very important move. I think for our customers. And as we rolled it out internally in Q2 we saw some very positive response from customers. My prediction was to see the same even probably more positive response in Q3 as it becomes more well-known and the reps are a little bit more conversant with it and we go external with it as well, so that customers are leaning in the same time our reps are helping them with that.
+
+John DiFucci -- Jefferies -- Analyst
+
+That's great. That is -- that's really interesting and thank you. Thank you for that detail, Doug. And I guess it was -- and just a quick follow-up, the numbers look really good. Right, and -- and I'd like to follow up another product question. I'm going to -- pre-SignalFx as you had a couple of those. But you mentioned Phantom too and in the world of security and orchestration Phantom that -- as you know customers are just I think overwhelmed by all the security products they needed to use to protect the enterprise and you have companies like Palo Alto and Check Point that are trying to put everything under one roof. And Phantom's score to this is like neutral thing that brings everything together, and still like choose a best of breed, those companies would say they have best of breed within their own roof, but is that -- I've always thought of that is kind of nirvana that you should be working toward. And I guess my question is, how close are you to that sort of nirvana like how broadly is Phantom being used in an enterprise and some of your -- I guess even the ones that use it the most across your entire security product portfolio?
+
+Doug Merritt -- President and Chief Executive Officer
+
+Great, great question, John. So one you're leaning right into 10 and doing org approach to Phantom, which is the 'orc' part is as important, maybe even more important than the store part of the S on your, I mean orchestration and automation are critical whether you are from an IT department to security apartment to manufacturing apartment, sales or marketing and part of what we love about Phantom is the elegance of the architecture to be able to extend the orchestration-automation as part of the overall platform, no matter what the use cases are. The other part that we really love about it is all the security content that makes the security orchestration-automation response framework. And I agree with you completely that we can't see a landscape and security and really I think in IT also, but in the security use case where you're not going to have a lot of volatility. There is so much changing so quickly that new products will come in and old products will go out on a continuous basis and whether it's Splunk or Phantom -- it's the Splunk index or Phantom are now increasingly next generation metrics and tracing stores. Our job across our layer is to try and be the abstraction framework that allows all those critical transactional elements that are both preventing and detecting and trying to manage that security landscape to be at the control of the customer. They can swap in and swap those out whenever they want and we will continue to work to make sure that there is an automation-orchestration routine that ties in the existing stuff and the new stuff and that there is an effective correlation and decision framework, a brain, to tell that nervous system what to do. But the corresponding products is the brain, Phantom is a nerve center, and you still need the muscles which are all those different products from firewall to virus an endpoint protection et cetera that need to actually do a ton of the work and I think part of the acceleration of the entire security portfolio, is it really helps that security leader feel like they're in control of the landscape and the landscape isn't in control of them.
+
+John DiFucci -- Jefferies -- Analyst
+
+Okay. Well, it sounds like the journey is really in process here, Thanks a lot Doug and Jason.
+
+Doug Merritt -- President and Chief Executive Officer
+
+Thank you, John.
+
+Jason Child -- Chief Financial Officer
+
+Thank you, John, and good luck on your next gig. It's been great working with you.
+
+John DiFucci -- Jefferies -- Analyst
+
+Save me [Indecipherable]
+
+Doug Merritt -- President and Chief Executive Officer
+
+Thanks, John.
+
+Operator
+
+Our next question comes from Keith Weiss with Morgan Stanley. You may proceed with your question.
+
+Keith Weiss -- Morgan Stanley. -- Analyst
+
+Excellent. Thank you, guys. Excellent quarter and really nice acquisition indeed, and it makes a lot of sense in the portfolio. It seems to me with this acquisition, you guys are sort of weighing in on the debate on whether monitoring APM, infrastructure monitoring, log monitoring is going to be consolidating into one platform with this acquisition of SignalFx. If that's the case. Is there any other pieces of the puzzle that you need to put into place to get that complete monitoring view in that consolidating environment?
+
+Doug Merritt -- President and Chief Executive Officer
+
+Good question. Keith. On the 4 pillars we talk about 3 of them are very data-centric and one is fed by the data; investigate, monitor, analyze and act. I think that the one platform thing is interesting because if I go underneath the covers the way that an investigative framework is built, the Splunk Index is an example, it's purpose-built -- why we're so effective is, it's purpose-built to be truly world-class, and in a category of one for that schema-less, high-speed, high-cardinality, investigative suite that you need to drive. That is a different architecture than what you need for that same scale of monitoring where you've got instead of a flattened set of kind of random logs you've got very well defined, but many, many, many points of data in a metric flow. And that's different again than a more rich multi-dimensional all app framework, so you wind up with different technologies across the pillars, if you really want to be best-in-class and that is part of the real excitement of SignalFx and these guys learned the hard way Inside Facebook in one of the highest scaled organizations in the world what it takes to monitor these ephemeral environments back before that was a common buzzword and observability is being talked about outside of the walls of the Facebooks and Googles and Twitters, so they have a lot of experience, they've built a truly world-class framework. I think tracing is a really good important expansion area there as well that's a little bit different architected than what's helping those metrics and then I still -- we still really are excited about that whole all app journey. I mean, look at things like data fabric search, the point of data fabric search is to make sure that whether you choose our core technologies in those pillars or a third-party, we can still be the interface for the end user, to take advantage of that data wherever it lives, because for us to compete in that data -- next-generation data warehousing area that's tough.
+
+That's a really specialty set of skills, so let's make sure that whether we think we've got the best-in-class solution like SignalFx now and Splunk or whether that best-in-class solution is in some other platform, some other company, we can still help our customers extract value.
+
+Keith Weiss -- Morgan Stanley. -- Analyst
+
+Got it. And make a ton of sense. And then one follow-up on new customer adds that's one KPIs that hasn't been hitting kind of the targets that you guys had laid out previously. Can you talk to us about the efforts in place to ramp up sort of new customers coming into the door, if you will?
+
+Doug Merritt -- President and Chief Executive Officer
+
+Yeah, absolutely. We had 500 new customers this quarter. We think that we're on track to exceed 2,000 this year, which gets us at 20,000 mark that we had forecasted for you guys a year-and-a-half ago at Analyst Day. We continue to lean in a bunch of different activities to make sure that our products are viral at the low end, so that we can get that rapid immediate footprint, but the strength of Splunk and decision that most companies have to make on their journey is, the virality is awesome, but at some point in time, if you've done it properly, it becomes a critical set of infrastructure that critical set of infrastructure usually now spans the entire organization, it usually carries a higher price tag. And so there is a constant unioning of touch list, which we still have happening with cloud trials and downloads across the entire Splunk portfolio and the important element is convert those lightweight touches to pervasive enterprise wide deals, which is why that 2,000 plus mark per year is always going to be important for us. The conversion of those 2,000 and making sure we get effective wallet share and that the overall ASPs within our existing accounts continue to go up. It's probably give you the more important motion from revenue and overall growth perspective.
+
+Keith Weiss -- Morgan Stanley. -- Analyst
+
+That's all. Nice job on the quarter, guys.
+
+Doug Merritt -- President and Chief Executive Officer
+
+Thanks, Keith.
+
+Jason Child -- Chief Financial Officer
+
+Thanks, Keith.
+
+Operator
+
+Thank you. Our next question comes from Fatima Boolani with UBS. You may proceed with your question.
+
+Fatima Boolani -- UBS. -- Analyst
+
+Good afternoon and thank you for taking the questions. Doug, maybe to start with you, as we kind of think about bigger picture trends around enterprise IT procurement, we started to see a lot of the center of gravity on procurement shifted developers. So as it relates to the SignalFx acquisition, how do you feel this could open up a buying audience that you weren't maybe necessarily tapping into it optimally? And then I have a follow-up as well.
+
+Doug Merritt -- President and Chief Executive Officer
+
+Yeah, I think that that's one of the many exciting parts about the SignalFx addition to the fold. We did buy VictorOps roughly a year ago and that certainly has helped going back to net news and Keith's question, we still are trying to maintain consistency on net news around the corresponding products and VictorOps is much more of that viral, low touch, true developer-centric footprint that's had some nice traction for us, but I think that combined with SignalFx now gives us a much more interesting footprint for direct developer approach, but then ultimately development team is tied back to IT Ops team someone's got to -- whether it's your true next-generation SRE and CI/CD, there is a divide in the classic IT ops and DevOps world. Those two activities to have to work together, so ITSI and Core Splunk combined with SignalFx and VictorOps, I think gives us a really interesting, end-to-end coverage whether we're meeting with individual developer or a manager of development team, all the way back up to the head of engineering or the head of IT Ops across a complex infrastructure landscape.
+
+Fatima Boolani -- UBS. -- Analyst
+
+That makes sense, and maybe just dovetailing that into some of your very specific comment around pricing and being more flexible with the customer based on the pricing front. With the 2Q data points that you have, how should we and investors think about maybe the pricing delta versus the traditional data indexing model because I think maybe the perception is that your pricing power is may be coming down as you change some of the metrics and some of the underlying infrastructure things that you anchored to. So if you can just comment on pricing and in how in a capacity based data ingestion world that compares to some of the newer things that you're trying out from an infrastructure based perspective, and that would be super helpful? Thank you.
+
+Doug Merritt -- President and Chief Executive Officer
+
+Sure. That's good question. Fatima When I -- when I must have had 2,000 to 3m000 customer actions now over the past five years -- by almost six years I've been here. And I have never once heard one customer at any account say I have no more data that I even know exists that could take advantage of. We've got the opposite problem, which is I am trying to be super thoughtful and judicious on what data put in the Splunk only because you've told me that should pay attention to that metric because it's a data volume-based pricing metric. So what we're trying to do -- what we've seen and what we believe and why this predictive pricing with clear guidelines to unlimited for people that are still wrap their heads around the data volume piece is so important, is we think that we are 3% to 15% penetrated with the data that people would like to put through Splunk within organizations and if we relax that data volume piece then that we can really serve customers. And going back to customer success being our number one focus areas as a company. So I think that what we see -- what we saw in Q2, as we really rolled this out internally that we will see people take on the appropriate amount of data, because the data volume pieces is one of the scary element and we'll see volumes go up dramatically through the Splunk backbone. Just as a quick update, our largest customer is ingesting over 12 petabytes of data per day, real-time streaming data per day, up from less than 4 petabytes at the beginning of the year. So we view an almost infinite possibility of data. Now you combine that with non-database -- non-data amount pricing from SignalFx, from DSP, from our data stream processor, from Data Fabric Search, from Phantom, from VictorOps all those either deal with data or take advantage of data flowing through the pipe, so landing in different storage elements, the value only goes up with those products. So the whole move was to just finally come clean with everybody, hey, put as much data as you want in Splunk and either govern that through applying infrastructure with it or we'll give you a framework for -- we just stop charging you for data and don't -- again you're saving on infrastructure costs, but you manage that infrastructure. So you can get to the right amount of data not worrying about the cost of the data.
+
+Fatima Boolani -- UBS. -- Analyst
+
+That's helpful. Thank you, Doug.
+
+Doug Merritt -- President and Chief Executive Officer
+
+Thanks, Fatima.
+
+Operator
+
+Thank you. And our next question comes from Kash Rangan with Merrill Lynch . You may proceed with your question.
+
+Kash Rangan -- Merrill Lynch -- Analyst
+
+Hi. Thank you very much. I am just curious if you have included the -- how much is going to be the revenue impact of SignalFx in your guidance for the second half of the year and also congrats to Kartik, if he is on the call here, on the acquisition. And secondly from a financial perspective, it looks like the shift is mostly done. So, Jason, you talked about a mid '20s cash flow yield, what kind of timeframe where we're talking about with respect to that kind of mid '20s cash flow yield, it could it be worst case calendar '21 or somewhere between calendar 2021 because we've gone through the shift and we've endured the cash flow drop. So I would expect it as sharp as the cash flow revision has been on the downside, its upswing should also be equally sharp on the positive side. Right?
+
+Doug Merritt -- President and Chief Executive Officer
+
+Yeah. Let me start off by saying it's OK. It is still lead with the Rush quote if you want cash. We're not as hardcore as Karthik but we still like Rush.
+
+Jason Child -- Chief Financial Officer
+
+I did say I got an adrenaline rush in the job. Okay.
+
+Kash Rangan -- Merrill Lynch -- Analyst
+
+I mean that's the rush part, right, we've got SignalFx? (Multiple Speakers)
+
+Jason Child -- Chief Financial Officer
+
+So, first on the question about SignalFx revenue embedded in guidance, we effectively didn't include their revenue in guidance. And so it's just -- we did include cost because we know what cost we're going to be incurring. In terms of revenue, we'll update that when the completion -- or when we complete the acquisition. In terms of the second question on -- the tougher one on cash -- kind of a snapback on cash. So here's kind of the issue, the issue is your -- for the term, so perpetual now gone which is hard on cash, but much better on I think the long-term durability of the business. The downside on term, we do recognize three years, if you take the average term deal for every $3 in revenue recognized in revenue, you get $1 in cash. Since we're billing it annually but receiving most of the revenue upfront. So it has a relatively low cash yield as you are booking it. Of course, you get the benefit in the later years as that comes . Now -- so the problem is, because we were booking at a higher percentage of those three-year term deals or receiving a higher percentage of that cash, almost two-thirds of the cash upfront up until very recently, you are now going to have that headwind through the balance of this year and really through the -- definitely we'll feel the effect next year as well. The second aspect is, as you move to cloud, you will -- there you have a ratable business for every dollar of revenue, you have $1 of cash. So that's a high cash flow business. So the reality is we have to project that mix and that mix, it's been moving quicker than we had expected, and so committing to that timeframe is hard. So at this point, I think it's likely that you will not see the mid 20s until after '21 .But that's obviously something that we will monitor as we see the impact of mix between those two businesses over the next coming quarters .
+
+Kash Rangan -- Merrill Lynch -- Analyst
+
+Got it.
+
+Jason Child -- Chief Financial Officer
+
+Does that answer you question?
+
+Kash Rangan -- Merrill Lynch -- Analyst
+
+Yeah, it does. I mean the perpetual is the worst part, I mean that's the biggest detractor to your cash flow. And that is down to one, so it should be more manageable, I would imagine, right, between term and cloud, which is -- I'm surprised that you don't have some kind of a range for cash flow mix. You granted that we are going to be mid-20s that's going to be after '21 but I would implore that we gave a little bit more talk to having some range, albeit as broad as it can be because you have more definitiveness today than you had say two months back?
+
+Jason Child -- Chief Financial Officer
+
+Yes. I would say as we give full-year guidance, which will happen in Q4 then we'll probably be ready to talk about it then.
+
+Kash Rangan -- Merrill Lynch -- Analyst
+
+Got it. All right, cool. Thanks, guys
+
+Doug Merritt -- President and Chief Executive Officer
+
+And Kash, as you saw with what Jason and Ken included with the visuals where we are trying to get much more aggressive at transparency and visibility, so that everyone can be dialed. So as we get a little bit closer to next year, and we really understand the effects of everything that we're putting in motion right now. I feel pretty confident that no matter what the answer is, you will have clarity on why the answer is the answer with less opaqueness .
+
+Kash Rangan -- Merrill Lynch -- Analyst
+
+Wonderful. We'll see you guys at Dot Conference.
+
+Jason Child -- Chief Financial Officer
+
+Sounds good, thank you.
+
+Doug Merritt -- President and Chief Executive Officer
+
+Thanks, Kash.
+
+Operator
+
+Thank you. Our next question comes from Walter Pritchard with Citi. You may proceed with your question.
+
+Walter Pritchard -- Citi -- Analyst
+
+Hi, thank you. Question for Jason on CRPO, you gave an RPO bookings number, I think, of 19% . I don't think we have the information to be able to calculate the CRPO bookings number, is that something you could give us if you like. That's a little bit more of a standard duration constant and all that measure of growth?
+
+Jason Child -- Chief Financial Officer
+
+So, I'm sorry. You're asking for current RPO historical metric?
+
+Walter Pritchard -- Citi -- Analyst
+
+Yes, CRPO bookings know or you have a Q1 or something to calculate the bookings. I don't think we can calculate that this quarter given we don't have Q1.
+
+Jason Child -- Chief Financial Officer
+
+The website slides we provided -- the links on the slide actually shows current RPO going back five quarters.
+
+Walter Pritchard -- Citi -- Analyst
+
+Oh, got it. Okay, perfect. And then, Doug, I'm wondering on the transition, it seems like it happened pretty quickly In the quarter to renewable. Is there something I know the pricing seems like it's been sort of unofficially rolled out, so that probably didn't drive it. Is there something you attribute the -- driving that significant shift in such a short amount of time with -- in terms of renewables?
+
+Doug Merritt -- President and Chief Executive Officer
+
+Yes. You know I don't think the pricing had anything to do with it. I think we for a year-and-a-half now we've been leaning in on term and cloud. We've put incentives in place starting year-and-a-half ago to make both more attractive and perpetual. So I think for the first time a year-and-a-half ago our reps were leading with term and cloud and whether we like it or not sales teams tend to focus on the commission plan. So when paid more, they were leading with perp and now we've made it more attractive for term and cloud and they're leading with -- and we think it helped make a bigger secular trend that we're all dealing with you guys report on a million times a day, and there's a continued shift to cloud and as people are wrapping their heads around both their SaaS applications and other SaaS infrastructure and platform-as-a-service capability.
+
+So much of IT spend is going to OpEx anyway that I think that except for a handful of companies and some limited industries, everyone is actually asking for the opposite, which is, can I -- I need my budget to be simple no matter how the heck you are giving me the stuff. Can you please just fit into the OpEx category because my entire spend rate has shifted that way. And so, I think that there is a bigger trend that again is just carrying us long because it really was primarily customer saying, you know you guys even having perpetual is making my job harder because now I'm going back to the CFO and we're debating one versus the other, and just -- if you just took it away it'd just make it easier. And of course with term and cloud, we can offer a lot of these different pricing constructs and other pieces that make it a little more friendly to do business with us.
+
+Walter Pritchard -- Citi -- Analyst
+
+Great. And then Jason, just on the CRPO I think we just don't have the 1Q of last year is the issue. So I don't know if that's something you can provide, but that'd be great. I think the 5 quarters stopped at 2Q of last year.
+
+Doug Merritt -- President and Chief Executive Officer
+
+Yes. If it's 47% growth this year, then you can you can infer it and you've got the Q2.
+
+Jason Child -- Chief Financial Officer
+
+With the growth rate from Q1, '20 you can get to each element of RPO.
+
+Walter Pritchard -- Citi -- Analyst
+
+Oh, got it. Okay. We'll back into it. Okay, thank you.
+
+Jason Child -- Chief Financial Officer
+
+Got it. Thank you, Walter.
+
+Operator
+
+Thank you. Our next question comes from Keith Bachman with BMO. You may proceed with your question.
+
+Keith Bachman -- BMO -- Analyst
+
+Hi, thank you very much. I wanted to ask 2 questions. The first one is back on cash flow for a second -- next year at a minimum, if you're perpetual has gone from 10 to 1 just to make it zero. Isn't that as a starting point, a $200 million benefit to your cash flow for next year versus the headwind that you're facing this year?
+
+Jason Child -- Chief Financial Officer
+
+No. Because perpetual is booked -- is collected the cash is 100% upfront and when you flip that to term and cloud, you're going to be booking one --yeah one-third of it, but if at all -- Yeah. So it's...
+
+Doug Merritt -- President and Chief Executive Officer
+
+You have to assume that you're doing that much perpetual. It's a one-time occurrence, not a repeat occurrence for perpetual.
+
+Keith Bachman -- BMO -- Analyst
+
+Yes, sorry. Yeah, I mean philosophically if you have a headwind this year in you remove it next year, right? I mean it's a $200 million -- anyway I agree with Kash's previous comment, I think it would be helpful to get some guidance and comments around cash flow for next year. Just again on the elimination of perpetual headwind it should be more beneficial. Transition to the RPO bookings, so I'm going to speak from the slide, I just wanted to get a little bit help on what the narrative is, so all the metrics look good. Your RPO bookings were down a little bit in terms of you're going from 48% growth in Q2 '19 to Q2 '20 was 19% growth. So it is -- has slowed a bit. Is there anything that you want to comment as it relates to the RPO bookings in particular and why that might be slowing or is it just lumpy?
+
+Jason Child -- Chief Financial Officer
+
+So, well, there is certainly some lumpiness to it, but the first thing I'd say -- so the 19% should really be -- if you take out the -- when we implemented 606 there was an adjustment that related to prior year, if you normalize that it's 400 basis points. The year-on-year growth absent that adjustment is 23%. So you should think of it as really being 23% on a comparable basis. Now, I would say that -- and that's...
+
+Doug Merritt -- President and Chief Executive Officer
+
+It's still not a sterling number.
+
+Jason Child -- Chief Financial Officer
+
+Which is still not a sterling number. So if you then look at other growth metrics -- so you probably see billings is 29%, RPO bookings adjusted is 23%, revenue was 33%, software revenue 46% and cloud 80% . So, you have this potpourri of growth metrics and I've been here roughly 90 days and I've been looking at those, trying to figure out like what really is the right growth metric to focus on and I know in the past, we've talked about software revenue. And as I looked at it, I said, well, other than it's a high number of 46%, why is that the right number? Well, when I look at it and kind of unpack it, I see that, one, the maintenance and services growth is slowing. And the reason it's slowing is for 2 reasons. One, as we move to cloud, the maintenance and services are eliminated because those are embedded into cloud. So it's all recorded as cloud revenue.
+
+Second, we're relying more and more on partners to provide those professional services for us, it's not a high margin business, it's better for them to do. So. If you want to think about what is really the right growth rate to focus on to say what's the core underlying growth? It is really software revenue. So I think you will see the lumpiness in RPO bookings, there is a -- there are impacts, I think you should look at software revenue and you will see move in RPO bookings, but I think it was probably a little bit low this quarter. Again, the adjustment is a key driver, but it will probably be a little bit lumpy because of the fact that we have large TCV numbers and timing of when the deal hits and all that kind of stuff can make that move around a bit.
+
+Keith Bachman -- BMO -- Analyst
+
+Okay, great. I think the deal makes perfect sense. Congratulations on that. And thanks very much for the slide deck, much appreciate it.
+
+Jason Child -- Chief Financial Officer
+
+You bet. Thank you.
+
+Operator
+
+Thank you. Our next question comes from Matt He berg with RBC Capital Markets. You may proceed with your question.
+
+Matthew Swanson -- RBC Capital Markets -- Associate Vice President and Analyst
+
+Thanks. This is actually Matt Swanson on for Matt. Following up from some comments we did last quarter talking about the vertical solution field teams. Could you just give us an update on kind of how the implementations of those have gone? I know it's probably pretty early still.
+
+Doug Merritt -- President and Chief Executive Officer
+
+Yeah. Great question, Matt. So the -- just for people who don't remember, when I talked the last quarter as we -- Susan St. Ledger, our President, hired a Head of Verticals. That verticals team now has 7 to 12 people depending on vertical that are focused on flushing out specific use cases in the vertical and financial services, retail, manufacturing , healthcare, public sector telecommunications and so a handful of verticals. They're really not sales teams, they are more technical evangelist teams that can certainly help on the sales side, but it's different than security sales specialists or an IT Dev sales specialists who is focused on making sure that we actually secure an independent deal within those accounts, working with the account generalist -- account the RSM. They have been doing some really good work. As I've told last quarter, we've got an e-book published by the financial services vertical that highlights. I think 31 different use cases that those guys have found that are mostly non-security and IT-based, probably 80%, non-security and IT-based and you'll see more of those being published as the guidebooks,, and recipes and direction centers when you move beyond security and IT. Ultimately what we're hoping for is that somebody us or a partner gets enough understanding of those use cases and seize the market potential that they actually craft application around it, and so it's way of trying to seed the market for non-security, non-IT, non-Dev-based use cases that eventually turn into applications. It's been really helpful I think for our customers in those verticals and for us to continue to visualize the multitude of different use cases with Slunk that we tell every earnings call, and people talk about Slunk live but they're kind of anecdotal and not written down. And this an attempt to make sure that there is a whole cookbook recipe guide book to make them less anecdotal.
+
+Matthew Swanson -- RBC Capital Markets -- Associate Vice President and Analyst
+
+That's really helpful. And then it seems like -- can I get one more on SignalFx? It's really well suited for containerized environments, could you just talk about how pervasive that technology is through your installed base?
+
+Doug Merritt -- President and Chief Executive Officer
+
+I think there is -- there are very few customers I've met with that do not have active development activities in the cloud. And as they're developing the cloud they're obviously using the native services through microservices containers, Kubernetes, etcetera. So I think it is incredibly -- it is a undeniable wave that's happening. When you go back and look at the workloads that are being driven it's still is a small percentage of the total workload. Now a lot of the applications still wind up signaling or integrating with core applications back on Mainframe release boxes or Windows servers, they are back in the data center, but we expect that wave to continue as does Amazon, and Google and Microsoft and everybody else is participating. They've been providing that visibility around those environments, coupled with the rest of the landscape is something that team has been very clear on -- our customer team has been very clear as being important.
+
+Matthew Swanson -- RBC Capital Markets -- Associate Vice President and Analyst
+
+All right, thanks.
+
+Jason Child -- Chief Financial Officer
+
+Thanks, Matt.
+
+Operator
+
+Thank you. Our next question comes from Michael Turits with Raymond James. You may proceed with your question.
+
+Michael Turits -- Raymond James -- Analyst
+
+Hey, guys. That. Good evening, and really great deal. Wonderful to see branching and broadening out this way. So a couple of financial questions, first -- and also just a clarification, just to confirm, Jason, are we -- are you at 100% annual invoicing -- annual billings is that now the rule of deals are annually invoice .?
+
+Jason Child -- Chief Financial Officer
+
+Yes. We were very, very close to 100% which is, I mean we have a 33.5 month average duration. So call it basically a three-year annual term and we are basically saying, if you look at Slide 13 of the website slides, I tried to help folks understand , how this works and it basically shows that a 33% invoicing which is basically annual billing. So very few exceptions, but on average annual billing is correct.
+
+Michael Turits -- Raymond James -- Analyst
+
+If someone wants to give us the money. We will not ship it back. We don't want to pay them to give out the money?
+
+Jason Child -- Chief Financial Officer
+
+Well, I mean look I'm a CFO who used to buy all the services from Splunk and every one of the SaaS providers I've bought from all of them. And yes, it is -- no one is going to write a big check upfront unless they get a massive discount and so that's why -- or it just slows down negotiation and takes much longer. So this is what the market has been going. And that's why it makes sense .
+
+Michael Turits -- Raymond James -- Analyst
+
+Okay. And I don't know. Are you able to cut through the noise regarding an adjustment on RPO for 606 and backing into the year ago and just tell us what the current RPO bookings was on a year-over-year basis? I think, Walter was asking for us.
+
+Ken Tinsley -- Corporate Treasurer & Vice President Investor Relations
+
+This is Ken. Let me clarify that. So you can get the total RPO growth rate from Slide 5 on the -- in the deck, but -- he's right, the current is not broken down. So here it is, so we've already disclosed $765 million as our total RPO in Q1 of '19, of that $238 million was current -- sorry, $238 million was long-term $526 million was current. $765 million total ,$238 million long-term ,$526 million short-term. Okay. Then the RPO adjustment Jason can answer that.
+
+Michael Turits -- Raymond James -- Analyst
+
+Right. Yeah, OK. I mean, we're not going back and forth too many times unless you have it. I want to know [Indecipherable] get the current bookings adjusted for RPO. So if you got that that's great, it'd be great otherwise maybe we could do it offline.
+
+Jason Child -- Chief Financial Officer
+
+Yeah. So if you were to adjust RPO bookings -- if you were to go, same Slide 5, you would basically see Q4 '19 would go down by 400 basis points, so call it 37 instead of 41. In Q2 would go up from 19 to 23.
+
+Michael Turits -- Raymond James -- Analyst
+
+Okay. All right, we'll do more offline. I'm just going to -- if I can sneak one more in, I'm just going to try to take another shot at the cash flow outlook, and I know we could get a range for next year, and I think you said after calendar '21 is when we get back to target but our for fiscal '21 at least cash flow from ops positive?
+
+Jason Child -- Chief Financial Officer
+
+I'm sorry, I'd say yeah fiscal '21 you're right, after fiscal '21. Now, it's -- again it depends on the mix shift. And so I just want to make sure it's very clear. This is tricky. So, I think before -- I think it was Keith or someone asked about headwind and how there wouldn't be a headwind on perpetual. Again, I want make sure it's very clear, with the perpetual you're basically collecting three years of cash upfront. So when I switch that to term the following year, I'm collecting one-third of cash upfront. So it is a headwind of two-thirds when that happens. So that's the headwind that you see just on lapping perpetual. And then on term we were collecting about 50% on average for the first half of this year, that's going to go to roughly 33% for next year. And then in the meantime, you have -- if you want to look at yield it gets more confusing because then, those are both perpetual and term are recognizing three years of revenue effectively upfront, at least on the license portion, when you get to cloud it's one-for-one. A $1 revenue to $1 of cash. So you have to look at all three dimensions to -- or all three dependent variables, not just one.
+
+Michael Turits -- Raymond James -- Analyst
+
+Understood. My question was just in terms of looking forward, can we at least say that the fiscal '21 you guys will be cash flow from ops positive?
+
+Unidentified Speaker
+
+I"m not ready to say that now. Because again it depends complete -- I mean, we will be cash flow positive in some quarters, but to say what full-year is going to be after '21. I'm just, it's, there is -- I have to forecast multiple variables. I'm just not ready to do that yet. I'll do it by the end of this year, but not ready to do it yet.
+
+Michael Turits -- Raymond James -- Analyst
+
+All right. Thanks very much and congrats on the acquisition.
+
+Doug Merritt -- President and Chief Executive Officer
+
+Thank you.
+
+Jason Child -- Chief Financial Officer
+
+Thank you.
+
+Operator
+
+Thank you. Our next question comes from Brad Reback with Stifel. You may proceed with your question.
+
+Brad Reback -- Stifel -- Analyst
+
+Great. Thanks very much, Doug back on the pricing change are you fairly confident that upon renewal, people will be paying you more on a like-for-like basis?
+
+Doug Merritt -- President and Chief Executive Officer
+
+What you mean on like-for-like basis?
+
+Brad Reback -- Stifel -- Analyst
+
+So, can an existing customer renew to this new pricing model, or is that only sort of this idea of unlimited, so they have to get bigger?
+
+Doug Merritt -- President and Chief Executive Officer
+
+So right now we only have very few unlimited contracts. So for people to move to unlimited from their current payment stream will be an uplift for all but those unlimited customers and even with those unlimited their current there is usually some type of framework that has CPI and other adjustments that there is a moderate expansion. But the big expansion for existing Splunk Enterprise unlimiteds and hopefully we'll be adding more of those over time is we've got to grow the portfolio. Yeah, we got to add SignalFx, and Phantom, and DSP and DFS and come back in and say awesome you got unlimited for Splunk Enterprise let's roll that forward and increase it because of these new products.
+
+When I look at our installed base, there is so much upward pressure from every single account I've ever met with in my entire career at Splunk, I might have seen like two years in, which is the more you buy the more you want to buy. And I just -- yes, that's part of why I think people are frustrated with our pricing model is everyone knows data is exploding and you're going to hold me ransom. And we've been working with a multitude of different formats including this EAA structure that we I think just got much more aggressive on, to say, we really, really, really will not hold you ransom. That's not who we are. We're not Oracle. We are a company that is focusing on making sure that we make you guys productive and happy and we know there is a fair value exchange here between what we are providing and what you want to give us. So I'd expect upward pressure within our accounts as they expand. And we've got to make sure that our portfolio expansion continues to be attractive to them as well, irrespective of what the expansion looks like within the Splunk Enterprise Index.
+
+Brad Reback -- Stifel -- Analyst
+
+Great. And then Jason one quick follow-up, can you give us what the contracted but unbilled was? Or the impact in the last quarter was about $80 million.
+
+Jason Child -- Chief Financial Officer
+
+Contract but unbilled, $200 million.
+
+Brad Reback -- Stifel -- Analyst
+
+Great. Thanks very much.
+
+Operator
+
+Thank you. Our next question comes from Gregg Moskowitz with Mizuho. You may proceed with your question.
+
+Unidentified Speaker
+
+Okay. Josh, let's keep going, please.
+
+Gregg Moskowitz -- Mizuho -- Analyst
+
+Sorry I was on mute. So good afternoon guys. Just want to commend Jason along with a couple of the other just on the additional disclosures, so first a clarification, if I may. So, previously you had guided $250 million in cash flow from ops this year and now it's minus $320 million. So a $570 million swing and you talked about the two dynamics that in total appear to represent $700 million delta. So does that mean that if we were to hold invoicing duration and the renewables mixed constant with what you had expected 90 days ago that your fiscal '20 cash flow from ops would have been about $100 million or so higher than your prior guidance? Or is that not the case?
+
+Jason Child -- Chief Financial Officer
+
+Okay. First let me clean up some of the statements. So we guided to minus $300 million, not $320 million. So that's a reduction of $550 million from the $250 million guidance that we had previously -- I'd also said that the, if you look at Slide 13 in the attached website slide that shows that we went from collecting 58% mix adjusted upfront to now collecting 33%. So it's a 20% reduction. 25% times the second half TCV which is roughly about $2 billion, that's the 500-ish million headwind. There is a little more because of the SignalFx acquisition, couple of things, so that's how you get to the $550 million. Now, I'm sorry can you ask me again what the second part of your question was?
+
+Gregg Moskowitz -- Mizuho -- Analyst
+
+Would it been higher if we hadn't seen perpetual move and if we hadn't just shorten the duration?
+
+Jason Child -- Chief Financial Officer
+
+So . Slide 13 shows what the impact from perpetual as it went from a mix adjusted 10 to 1. So you could say 9% times that $200 million and then you could do the same thing for the other two buckets of term and cloud.
+
+Gregg Moskowitz -- Mizuho -- Analyst
+
+Okay. Correct. And at least again based on my math, it does appear that apples-to-apples it would have gone up, if not for again invoicing duration and the higher renewables mix?
+
+Doug Merritt -- President and Chief Executive Officer
+
+Yeah, absolutely. Yeah, definitely.
+
+Gregg Moskowitz -- Mizuho -- Analyst
+
+Okay. I just wanted to confirm that. And then secondly -- so a follow-up on pricing for the correlation guys obviously is not plus one but historically you've spoken about how increases in data volumes also drive clear increases in revenue each and every year. And I wanted to ask if that will still hold true under the predictive pricing as well>
+
+Doug Merritt -- President and Chief Executive Officer
+
+Yeah, it should, I mean, the predictive pricing doesn't grant every existing customer unlimited license. It provides a path where they can see that, well, I'm sitting at X and there is N bands and those bands are much more coarse-grained, now if I get to unlimited. So that at least they feel high visibility and much more in control of the data they currently have and what the price point will be for data that they will potentially out in the future. And so, we'd still expect much like our cohort showed in the past that very few people are going to come, jump in right at the unlimited, they're going to start with 100 gigs or terabyte or 5 terabytes and that prove out their value to the platform and eventually realize, holy cow I want as much as I can consume when we get to that upper band. And then you couple that with the many products that have come out over the past year-and-a-half, including products that we've added inorganically like Phantom and now Solus and VictorOps that complement that whole cohort discussion on the corresponding enterprise piece. So there's been two levers, we've been pushing, make sure that we're clear on what Splunk Enterprise does well and to complement Splunk Enterprise craft new technologies to the side or on top of it that bring even more to life and then make it easier for people to consume Splunk Enterprise.
+
+Gregg Moskowitz -- Mizuho -- Analyst
+
+Okay, that's great. Thank you.
+
+Jason Child -- Chief Financial Officer
+
+Thanks, Greg.
+
+Operator
+
+Thank you. Our next question comes from Andrew Nowinski with Piper Jaffray. You may proceed with your question.
+
+Andrew Nowinski -- Piper Jaffray -- Analyst
+
+Okay. Good afternoon. I would like to start with a clarification on the impacts from the end of the perpetual licenses. So I understand, the cash flow impact, but are you factoring in any potential customer churn or any revenue impact from that decision that we should consider?
+
+Doug Merritt -- President and Chief Executive Officer
+
+Yeah. In our overall forecast and we just drove we raised guidance to '23. A chunk of that forecast was the pipeline that we're working with, a chunk that is really understanding from the early indicators of the pricing what is going to happen on both the puts and the takes. There will be some people that decide, if you're not going offer me perpetual, I don't want to do business anymore. I don't -- I've not done that yet, we have not had any of those occurrences yet, but it's not as broadly known and we're not retiring new sales perpetual until November 1. So we've sent out an internal memo to our sales force and the partners and made its way through some investor checks and partner channel world, over to you guys. So there still -- it's not an immediate thing, but it will be happening starting in Q4. We think we feel confidence in the guidance that we're driving and believe that in general, it's a very positive element, both for us and for the customers. It gives them what they want and enable us to serve them the way that we want to, which is more data driven insights, more data driven actions, more data driven outcomes that they've been asking for from Splunk Enterprise. And with that...
+
+Andrew Nowinski -- Piper Jaffray -- Analyst
+
+Thank you. And I was just wondering if you could comment on the competitive landscape, specifically against Elastic, and perhaps are your new pricing models have impacted your win rates? Thank you.
+
+Doug Merritt -- President and Chief Executive Officer
+
+Yes. I think we have been pretty consistent in reporting what our win rates look like against Elastic and they remain very high. I've said over and over that one of the things that makes me excited, but also gives me pause for concern is when your average win rates against competitors are north of 80%, that means you're just not being exposed to all the opportunities that are out there. I think that one of the things that's been holding us back is people are really afraid about the price of Splunk. It's not so much the price, they are worried about this data driven metric because again I have yet to meet with the customer that says I'm not getting a fair exchange of value for the dollars that I'm shipping you or euros or whatever the heck quantity is, they're saying I don't like the fact that I feel out of control because we all know that data volumes are going to go up. So I would anticipate and hope that this will continue to substantiate or accelerate those win rates. The win rates that I see are super consistent. We had been playing around with a bunch of different things and I realize how important this is and data is absolutely critical to my future or my Next-Gen infrastructure is going to go to my future but a cyber resilience in my corporation is critical to my future. I need something with enterprise scale with high resiliency, with the right features and functions allow me to deal with a very large population internally and externally and gosh darn it I need Splunk. The more that we can make that Splunk journey from the very first try all the way through the enterprise license the better, but ultimately our bread and butter is, and it has been for so many years, we really understand these very complex landscape and we're able to quote companies are doing 5-10-15 terabytes -- petabytes of data per day, which are those few that really understand the power of data.
+
+Andrew Nowinski -- Piper Jaffray -- Analyst
+
+Great, thank you.
+
+Doug Merritt -- President and Chief Executive Officer
+
+Thank you.
+
+Operator
+
+Thank you. I would now like to turn the call back over to Doug for any further remarks.
+
+Doug Merritt -- President and Chief Executive Officer
+
+I really appreciate the great questions in the call. We are, as I said, very proud of our Q2 and I just want to reach out to the SignalFx team that they may not be listening to the call, bit certainly speaking on a recorded basis, we are incredibly excited to have you join the overall Splunk team. I think the combination of the two of us will be extremely powerful for our customers. I appreciate, so much the customer centricity that you guys have, that we live every single day and you're joining a really motivated group of folks, people that natively grown up in Splunk and other organizations like you that found their way through an acquisition and to all of our customers out there. Thank you for the constant support and we're excited to see everybody a Comp '19 coming up at the end of October. It's going to be a fantastic show, a lot of new use cases and customer stories to share. So please find a way to get there and have a great day. Thank you.
+
+Operator

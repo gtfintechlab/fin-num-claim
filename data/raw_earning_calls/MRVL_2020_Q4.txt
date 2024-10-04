@@ -1,0 +1,350 @@
+Operator
+
+Ladies and gentlemen, thank you for standing by and welcome to the Fourth Quarter 2020 Marvell Technology Group Ltd Earnings Conference Call. [Operator Instructions] As a reminder, today's program is being recorded.
+
+I would now like to introduce your host for today's program, Ashish Saran, Vice President, Investor Relations. Please go ahead sir.
+
+Ashish Saran -- Vice President, Investor Relations
+
+Thank you, and good afternoon, everyone. Welcome to Marvell's fourth quarter and fiscal year 2020 earnings call. Joining me today are Matt Murphy, Marvell's President and CEO; and Jean Hu, our CFO. I would like to remind everyone that certain comments today may include forward-looking statements, which are subject to significant risks and uncertainties and which could cause our actual results to differ materially from management's current expectations. Please review the cautionary statements and risk factors contained in our earnings press release, which we filed with the SEC today and posted on our website as well as our most recent 10-K and 10-Q filings. We do not intend to update our forward-looking statements. During our call today, we will refer to certain non-GAAP financial measures. A reconciliation between our GAAP and non-GAAP financial measures is available on our website in the Investor Relations section.
+
+With that, I'll turn the call over to Matt for his comments on our performance.
+
+Matt Murphy -- President and Chief Executive Officer
+
+Great. Thanks, Ashish, and good afternoon everyone. Let me start with a quick recap of Marvell's financial highlights for fiscal year 2020. Our GAAP revenue was $2.7 billion, GAAP gross margin was 50.3%, and GAAP income per diluted share was $2.34. On a non-GAAP basis, our gross margin was 63.3% and non-GAAP earnings per share was $0.66.
+
+Fiscal 2020 was clearly a challenging year for the semiconductor industry. But against this backdrop of macroeconomic uncertainty, Marvell continue to take bold steps toward becoming a leader in infrastructure solutions. Not only did we achieve the complete realization of synergies from the integration of Cavium in the first quarter of fiscal 2020, two quarters ahead of schedule, we announced and closed three additional strategic transactions within the year.
+
+We acquired Aquantia and Avera and divested our Wi-Fi business. In fact, the integration of Aquantia and Avera is well ahead of plan, and this is reflected in a lower opex expectations for the first quarter of fiscal 2021, which Jean will discuss in her section. Implemented all the key learnings from the Cavium acquisition, our IT and operations team did an amazing job in completing the ERP integration of Aquantia in one day and Avera within five days of closing the transactions.
+
+In addition to the portfolio transformation, we won a number of key designs in fiscal 2020, which we expect will fuel multiple years of revenue growth of the Company. In wireless infrastructure, we started ramping our first generation of 5G processors at Samsung, won their next generation 5G baseband processor and yesterday we announced an even deeper collaboration with them. During the last year we also won a front-haul interface chip and entered into the radio head with processors for massive MIMO. Equally exciting earlier today, Nokia announced an expanded relationship with Marvell on 5G infrastructure solutions, which I'll discuss later in the call.
+
+In the Internet connectivity, we won a number of designs at leading networking OEMs with our switch and PHY solutions. In storage, we started to ship and ramp preamps and controllers in the high-capacity 16 terabyte nearline drives and secured the follow-on controller for the next generation platform, targeting high-capacity points well into the 20 plus terabyte range. We released our NVMe Over Fabric Ethernet SSD controller and a family of PCIe Gen4 NVMe SSD controllers, which are also powering our first major DIY win.
+
+As we start fiscal 2021, we are excited about a number of product ramps, but are also trying to assess the near-term impact from the coronavirus. Clearly the safety and well-being of our employees is our highest concern, and I want to express my sincere support for all our people in China who have been the most impacted. Prior to the outbreak gaining intensity, our bookings and backlog were getting stronger going into fiscal year 2021, driven by our own product cycles such as the start of our 5G product ramp, our success in nearline drives and a recovery in our core business.
+
+In addition, the signing of the Phase 1 trade deal between the U.S. and China was helpful in erasing trade tensions which had affected our business last year. But recently as the virus impact has become broader, we have started to see supply chain related impacts to our business. It is impossible for us to fully quantify the effect of this situation on our business, as it remains fluid. However, our revenue guidance for the first quarter includes a 5% reduction based on what we know so far. In addition, given the ongoing uncertainty, we have also temporarily widened our guidance range on revenue from plus or minus 3% to plus or minus 5%.
+
+Let's move on to our quarterly performance. During the fourth quarter of fiscal 2020 we delivered solid results and achieved $718 million in revenue, above the midpoint of the revised guidance we had provided on December 6, after we completed the divestiture of our Wi-Fi business. Our GAAP income per share was $2.62 and our non-GAAP earnings per share was $0.17.
+
+First in our networking business, revenue during the quarter was $377 million and grew 14% sequentially. The double-digit growth was primarily due to full quarter contributions from the Avera and Aquantia acquisitions, partially offset by the divestiture of Wi-Fi. Both of our recent acquisitions were off to a running start with the Avera ASIC business delivering a solid quarter and Aquantia's revenue trajectory continuing to improve, as those customers completed inventory digestion. The booking trends for both of these acquisitions support the full year expectations we had communicated last year. While the Avera design team continues to work on completing design they had won prior to the acquisition, they are also engaging with existing Marvell customers who had not worked with them in recent years.
+
+The overall opportunity pipeline for Avera is held very healthy and continues to broaden. Outside of the two acquisitions, wireless infrastructure shipments remained strong and enterprise performed as expected. In addition, we experienced strong booking trends in networking before the recent coronavirus impact clouded the outlook. While we assess the impact from this event, we continue to make progress on securing additional design wins in a number of key end markets.
+
+I'll start with the wireless infrastructure market. Yesterday, we announced an extension of our long-term collaboration with Samsung across additional segments of the radio access network. We've been working with Samsung closely to deliver multiple generations of baseband and control plane solutions for both 4G and now 5G base stations, incorporating their intellectual property with Marvell's OCTEON and Fusion processors.
+
+More recently, we have also been partnering with them on innovative radio unit architectures designed to meet the dramatic increase in compute power required for the complex beamforming algorithms inherent to massive MIMO deployments. Equally exciting, earlier today Nokia announced that we are broadening our relationship for the development of multiple generations of custom and multicore ARM-based infrastructure processors for 5G. This is another example of the partnership model we offer, which enables our customers such as Nokia to integrate their unique technology into our programmable processor platform to develop customized products. It's really the best of both worlds, as our customers can focus their internal resources on their differentiated technology and embed that IP into the chipset. This significantly accelerates their time to market by utilizing other parts of the SoC subsystem from Marvell, such as the processor complex which we've already developed and hardened for base stations.
+
+We are able to deliver this degree of customization with our field proven, flexible SoC architecture and our Fusion products comprised of ARM cores, a variety of the DSP cores tailored to our customers' requirements and customer developed IP blocks, stitched together very efficiently by our unique interconnect to maximize performance. This programming model enables our customers to differentiate their solutions to their own IP and algorithms. In addition to providing the underlying architecture for our customized Fusion solutions, our OCTEON multicore ARM-based infrastructure processors also provide control and data plane processing.
+
+We are looking forward to growing our business with Nokia, as they benefit from the growing 5G wireless infrastructure market. We expect to start shipping the first custom product later this fiscal year and we are also starting development of the next generation of infrastructure processors and custom SoCs.
+
+In addition to the progress we are making at multiple tier 1 wireless customers with their existing platforms, we are we are continuing to innovate in this market and are working with analog devices to pair their world-class RF transceiver technology with our broad digital 5G platform. We both recognize the growing complexity in 5G radio units with the proliferation of technology such as massive MIMO which is driving an increased need for the very close collaboration between the RF and mixed signal portion with the compute domain.
+
+This unique collaboration between the two best-of-breed suppliers will provide customers with significant improvements in size, power and performance within the increasingly complex radio unit. Before I move on from the wireless infrastructure market, let me spend a couple of minutes going over our perspective on the rollout of 5G, including the key drivers, the frequency bands in play such a sub-6 gigahertz versus millimeterwave and the pace of deployment.
+
+First, why 5G. Very simply, it significantly lowers the cost per bit of wirelessly transporting data which benefits both carriers from an opex perspective and consumers by enabling a better user experience. Our base assumption is that for the next few years, the overall wireless capex envelope will remain similar to historical patterns, but the better economics of 5G will inevitably transition wireless capex away from legacy 4G technologies. Even under this flattish capex assumption, we expect to drive significant revenue growth as our content and share in 5G is considerably higher than what we had 4G. Over time, we expect that 5G will also create newer opportunities beyond the handset, which could drive an upward inflection in capex, and that would represent an upside to our base case.
+
+On the subject of sub-6 gigahertz versus millimeterwave, while we believe that both modes of deployment will see significant activity over the next few years, our view is that the vast majority of 5G base station capex will be spent on sub-6 deployment. A leading industry analyst has a similar forecast, projecting that over 95% of the spend to go toward sub-6 deployment. Accordingly, we expect our wireless infrastructure revenue to follow a similar pattern and primarily derive from macro base stations.
+
+Having said that, as the small cell market develops in 5G, especially for millimeter wave applications, we are ideally situated to address these opportunities with our multicore processor architecture, which can easily be scaled down to the relatively lower power and performance footprint needed in small cell. Our platform also enables significant software reuse for our customers that they scale down their macro solutions. We have a full set of capabilities for the wireless infrastructure market including baseband, transport, Ethernet connectivity and DFE ASICs, making us the ideal chip provider for small cells, which are likely to require the integration of multiple functions in a single chip or package for power and space considerations.
+
+In terms of timing, this is an infrastructure business where shifts from one technology to another are typically over a multiyear period, with the rate of adoption constrained by flattish capex budgets. We're at the very beginning of a multiyear transition to 5G and the vast majority of this opportunity is in front of us. As you are aware, Korea is the only major geography which started 5G deployments in earnest in calendar 2019. And while Korea is an important region for our lead customer, most of their base station shipments in 2019 used FPGAs for processing and they only started to transition to our solutions late in the year. As a result, we expect significant revenue growth this fiscal year from deployments by Korean operators, and these deployments will continue for a number of years. Additional growth opportunities are also in front of us from geography such as Japan and the U.S., when they start to deploy 5G later this year.
+
+With respect to China, Marvell historically had very limited exposure to the wireless infrastructure market. However, with the Avera acquisition and our own organic efforts, we are now better positioned to also participate in China's 5G deployments.
+
+In summary, the wireless industry is starting to see a convergence of factors important for 5G adoption, including a more mature supply ecosystem both on handsets and base stations and the opening up of additional spectrum, especially in the important sub-6 gigahertz bands. This combined with the better economics of the newer technology is increasingly driving carriers to shift their capex to 5G base station, especially in regions where they are considering turning on 5G services in the near future. New 5G base station are of course backward compatible with 4G and allow carriers to future proof their networks rather than continue spending on legacy technologies. So as a result, we expect that wireless capex will continue to accelerate to 5G on the infrastructure side.
+
+Now, let me shift gears from the 5G deep dive. We just announced our next generation of ARM-based infrastructure processors or OCTEON TX2 family, targeting a wide variety of networking equipment including switches, routers, secure gateways, firewalls, network monitoring, Smart NICs and base stations. This portfolio delivers 2.5 times performance improvement over the prior generation and can scale up to 200 gigabits per second of packet processing, scaling from four cores at the low end to 36 cores for the most demanding applications.
+
+Compared to solutions processing data only on CPU cores, OCTEON's configurable and programmable hardware accelerator blocks which include security, packet processing, traffic management functions, provide a much better balance between power and performance in networking applications. In fact, we have already started shipping production -- we started production shipments of our OCTEON TX2 processors into our lead wireless infrastructure customer.
+
+Our Ethernet switch and PHY products continue to win new designs in their target markets. As a reminder, our Ethernet switch strategy has been to expand beyond our enterprise campus position into the enterprise core and aggregation layers and into service providers. We play to our strength in offering feature-rich products and do not target the pure speeds and feeds sockets in the hyper scale data center market, where there is already strong incumbency and a large networking OEM that announced their plan to offer internal ASICs directly to cloud customers. Our ARM server products and our automotive products also remain well positioned for growth later this year.
+
+Now, let me discuss our projection for networking business in the first quarter of fiscal 2021 as compared to fourth quarter results. Please keep in mind that our fourth quarter results included approximately five weeks of revenue from the now divested Wi-Fi business. Therefore, I'll first provide you with our revenue expectation for the continuing networking business, which we project to grow sequentially by approximately low single digits on a percentage basis from fourth quarter results adjusted for the divestiture of Wi-Fi. We expect this growth to be led by new product ramps in enterprise and cloud data center applications, while we project flattish revenue from the wireless infrastructure market. Please note that this growth outlook includes the negative impacts currently known from coronavirus related issues.
+
+To help you clearly model this outlook, let me also provide you with a projection for first quarter results as compared to our reported fourth quarter networking revenue of $377 million, which included the five weeks of Wi-Fi. Compared to this reported result, we expect networking revenue in our first quarter to decline in the low to mid-single digit sequentially on a percentage basis.
+
+Now, let me turn to our storage business. Storage revenue for the fourth quarter was $296 million and grew 3% sequentially, stronger than our expectations. The sequential growth was driven by an increase in demand for both of our storage controller product lines. Specifically, our HDD business continue to benefit from our growing position in the nearline market and our enterprise and data center SSD business continued to recover in the fourth quarter. These data center-led growth drivers more than offset the expected decline in the client market.
+
+Our fiber channel business remained strong and stable from the third quarter. As you may recall at our prior Investor Days in 2017 and then again in 2018, we had articulated a storage strategy to focus on the enterprise and data center market and become less reliant on the client market. In our HDD business, we projected the client business to secularly decline as the shift toward SSDs and PCs accelerated and that we plan to focus on the growing nearline market. In addition, we shifted investment in our SSD business toward higher performance and stickier enterprise and data center solutions and DIY opportunities and away from the commodity client market, where margins were less attractive and some of our customers were increasingly insourcing controllers.
+
+At this point in time, we believe that the bulk of the decline in exposure to the client market including the impact of client SSD controller insourcing at some customers is mostly behind us. We estimate that our total client revenue exposure collectively across both HDD and SSD controllers starting fiscal 2021 is only 5% of the entire Company's revenue. For contact at our Investor Day in October 2018, client storage was approximately 14% of total Company revenue. In fact, sequential storage revenue growth in both the third and fourth quarter of fiscal 2020 was driven by our enterprise and data center products. The next phase of our storage growth strategy we had outlined with the emergence of the DIY market for custom SSD controllers and we are now a couple of quarters away from mass production of our first major design win.
+
+We also expect to continue to ramp our preamplifiers for HDDs over the next couple of years. Our recently introduced 12-nanometer PCIe Gen4 SSD controller continues to receive strong interest from multiple customers including several NAND OEM for its optimized blend of high performance and low power in a small form factor. Our Ethernet-based storage solutions are gaining momentum and we just announced we are partnering with leading ODMs, Accton and Foxconn to bring our Ethernet Bunch of Flash or EBOF technology solutions to market.
+
+As you may recall at FMS 2019, we demonstrated our NVMe Over Fabric Ethernet SSD controller. This product enables the disruptive new data center architecture by directly connecting SSDs through a switch to an Ethernet network without the need to go through a host such as the server. These EBOF platforms will start sampling in the spring and incorporate Marvell's NVMe Over Fabric Ethernet SSD controllers, Prestera Ethernet switches and up to 48 SSDs in a single chassis.
+
+In aggregate, we believe the growing footprint of our enterprise and data center storage controllers and preamps, upcoming ramp of SSD DIY controllers and progress of our Ethernet-based storage initiatives collectively positions our storage business for long-term success. Looking to the first quarter for our storage business, which is generally a seasonally down quarter for this end market coupled with virus-related impact of this business, we expect revenue decline sequentially in the mid-single digits on a percentage basis.
+
+Let me close by thanking the more than 5,500 Marvell employees around the world for executing extremely well under difficult macroeconomic conditions. I am looking forward to an exciting fiscal 2021 to capitalize on the multiple growth initiatives we have been investing in over the last few years. Fiscal 2021 also marks an important milestone for Marvell, as we celebrate our 25th year anniversary. It has been a long and eventful journey, most recently punctuated with the Company's transformation as we pivoted toward the infrastructure market.
+
+The financial community has been well aware of our journey and we have now started to share our story with a broader audience. We held our first Industry Analyst Day in early December and the reception was outstanding. We received clear feedback that our story needs to be told more broadly, as they see Marvell in the midst of multiple major trends including 5G, AI, cloud and connected autos. We will continue to spread the message and are scheduling our next Investor Day for October 6 in New York, where we'll provide an update on our progress toward our long-term goals. I look forward to seeing many of you at that event.
+
+And with that, I will turn over the call to Jean for more detail on our recent results and outlook.
+
+Jean Hu -- Chief Financial Officer
+
+Thanks Matt. And good afternoon everyone. As a reminder, our guidance for the fourth quarter provided on December 3, 2019 assume the full quarter's results from the Wi-Fi business. Subsequently, we completed the divestiture of our Wi-Fi business on December 6, approximately five weeks into the fourth quarter. So our results reflect the partial quarter contributions from the Wi-Fi business. We then updated only our revenue guidance to reflect the closing of the Wi-Fi sale.
+
+Revenue in the fourth quarter was $718 million, better than our updated guidance over $710 million at the midpoint. Networking represented 52% of our revenue in the fourth quarter and storage contributing 41%. Revenue from our other business was $44 million in the fourth quarter, below expectations and accounted for 7% of our revenue. As a reminder, this business consists of products such as printer solutions and application processors, we have stopped investing, so they will continue to decline over time.
+
+In fact, our guidance for the first quarter for fiscal 2021 anticipate a sequential decline in revenue in high-teens on a percentage basis from the other business. GAAP gross margin was 42.5%, which included amortization of both Aquantia and Avera inventory step-up cost. Non-GAAP gross margin was 62.3% of revenue. Our gross margin results in the fourth quarter reflect the negative impact from certain one-time transition cost related to the Avera acquisition as we discussed last quarter.
+
+GAAP operating expenses were $419 million. Non-GAAP operating expenses were $306 million. GAAP operating loss was $114 million. Non-GAAP operating profit was $141 million or 19.6% of revenue. During the quarter, to better align the global economic ownership of our intellectual property rights with our current and future business operations we transferred certain intellectual property to our subsidiary in Singapore. This internal IP transfer resulting in an income tax benefit of approximately $763 million for the fourth quarter, which primarily captured the tax effect for future deductions in Singapore.
+
+In addition, the change in the tax structure will result in a small 50 basis point increase to our non-GAAP tax rate from 4.5% to 5%. For the fourth quarter, GAAP income per diluted share was $2.62, which included a gain from the sale of the Wi-Fi business and the income tax benefits related to the IP transfer. Non-GAAP income per diluted share was $0.17.
+
+Now turning to our balance sheet. Our long term debt was $1.45 billion, declining from the prior quarter. During the quarter, we completed divestiture of our Wi-Fi business and used the sale proceeded to pay off the $600 million bridge loan we entered into in connection with the Avera acquisition. And also we paid off $350 million revolver withdrawn to fund the Aquantia acquisition as well as $250 million of our term loan.
+
+We also resumed our share repurchase program and return to $340 million to shareholders through $300 million in share repurchases and $40 million in dividend. In fiscal 2020, we returned a total of $524 million in cash to shareholders. We exited the quarter with $648 million in cash and the cash equivalent, an the increase of $209 million from the prior quarter.
+
+Now, moving on to our current outlook for the first quarter 2021. Please note, we have built into the guidance of 5% reduction in revenue due to the risks associated with the coronavirus. Although the situation remains fluid and the ultimate impact is still unknown and assessing the full magnitude at this point is not feasible. Given the ongoing uncertainty, we have also a temporarily widened the guidance range on revenue. Specifically, we are forecasting revenue to be in the range of $680 million plus or minus 5%.
+
+We anticipate that our GAAP gross margin will be approximately 47.5% and the non-GAAP gross margin will be approximately 63%. We project our GAAP operating expenses to be in the range of $410 million plus or minus of $3 million. We anticipate our non-GAAP operating expenses to be in the range of $310 million plus or minus $2.5 million. The sequential seasonal increase in payroll taxes and the reset of bonus accruals have been significantly offset by earlier-than-expected synergy achievement and the disciplined opex management.
+
+From this high point in the fiscal year, we continue to expect our non-GAAP operating expenses will come down to approximately $300 million by the fourth quarter of fiscal 2021. We expect net interest expenses to be approximately $16 million and expect non-GAAP tax rate of 5%. As a result, we anticipate the GAAP loss per diluted share in the range of $0.12 to $0.20 and the non-GAAP earnings per diluted share in the range of $0.11 to $0.17.
+
+Operator, please open the line and announce Q&A instructions. Thanks.
+
+Questions and Answers:
+Operator
+
+[Operator Instructions] Our first question comes from the line of Atif Malik from Citi. [Operator Instructions]
+
+Atif Malik -- Citi -- Analyst
+
+Thank you for taking my questions and nice job on the results and guide, and congratulations on the expanded Nokia relationship. Matt, the team has talked about $750 million of pipeline of site 5G infrastructure sales, $600 million across Samsung, Nokia and then $150 million from Avera or 20% of the $4 billion opportunity. Can you just talk about with the new expanded Nokia relationship and then the Samsung collaboration, I mean, how is the team tracking to those numbers?
+
+Matt Murphy -- President and Chief Executive Officer
+
+Sure. Great. Thanks, Atif. And yeah, I think you got it exactly right. For everybody on the phone, we started off with a base case that we outlined Pre-Avera which was $600 million, which included the pipeline that we had identified of one business. At that point we successfully closed Avera which brought in numbers in that approximate range you mentioned about -- roughly half of that business was 5G exposed. And so, the way I would think about it is that, the announcements that you've seen clearly add additional revenue on top of that. I think what we're excited about is we really have now multiple customers for our 5G solutions, multiple products that we're selling to those customers and that actually layer in over multiple generations, including existing business we're shipping today, new product ramps happening this year. And then as you referenced, even on our announcement with Nokia, multi-generational agreement where we have products ramping later this year, but then even ongoing partnership to do more in the coming years on the spectrum of products. So I think overall, it's very positive and clearly represents the announcements we've made, certainly and substantially higher number to what we've already communicated.
+
+Atif Malik -- Citi -- Analyst
+
+Thanks. And as a follow up Jean, the 5% reduction from the virus, can you just talk about storage versus networking? Is it more storage related than networking?
+
+Jean Hu -- Chief Financial Officer
+
+Yeah. So very high level, a lot of things are unknown. So our estimate right now is more like 40% is related to storage side, 60% is related to networking side. Matt can give you more color on the networking side. We have some part of the business, which there is a component shortage that impact our networking business, and the storage side, a similar thing. Our customers, they have some supply chain disruptions, so that's what we know right now.
+
+Matt Murphy -- President and Chief Executive Officer
+
+Yeah, I think just to conclude, we've tried to size the impact as best we can. And as Jean mentioned, from our side, there is really two types of supply chain disruptions. There is disruption to some of our products, which are -- the bulk of the products that we ship every quarter our integrated circuits, but we do have some board business, both in Ethernet NICs and host bus adapters for fiber channel, as well as some of the board-level products for Smart NICs. And so, even though our supplier base is actually outside of China and some of the impacted regions, they're having some challenges in in-sourcing some of the components. So that's one dynamic we see, but we're working through that. And then the second is obviously many of our end customers, factories or subcons are not at full capacity. So it's a fluid situation, but right now, what we're sizing is really what we see as supply chain related impacts, both to us as well as our customers.
+
+Atif Malik -- Citi -- Analyst
+
+Thanks.
+
+Operator
+
+Thank you. Our next question comes from the line of Vivek Arya from Bank of America. Your question please.
+
+Vivek Arya -- Bank of America -- Analyst
+
+Thanks for taking my question. Matt, my first question is on 5G. So the opportunity on the base station side I think has been clear and you have articulated that very well. I wanted to ask on the radio side, what's the opportunity to leverage this kind of beachhead you have Avera? And I think recently also announced a partnership with analog devices for some integrated radio solutions and there is obviously a lot more radios, right, on complexity on that side and perhaps the chance to displace more FPGAs. So talk to us about the radio opportunity for Marvell and 5G?
+
+Matt Murphy -- President and Chief Executive Officer
+
+Sure. Thanks. I think we very much see our opportunity both in the base station or the base, the BBU as well as the radio head. And we started to indicate that in the last few calls and even in some of my comments today where, as an example with Samsung we're doing some very customized things with them in the radio head itself, which is really bringing our processing capability up from the base station unit into the radio head. And on top of that, so you sort of think of one trend is being processing power, processing and compute moving up closer to the antenna, but the second is that, at least in some of the initial deployments of 5G, Korea was one example, but there is others. There is quite a high density of massive MIMO radio heads attached to each base station. And so you sort of think about the idea that there is more processing power, moving to the radio head and then there is more radio heads attached for base station.
+
+It does create a create a significant opportunity and that's a trend by the way that we see more broadly and not just is limited to one customer. So I think that's certainly exciting. I think the second is with respect to analog devices, we're sort of seeing each other now in these types of applications starting with our DFE business that we have, but also in some of these applications where we're being asked to do more customized things in massive MIMO.
+
+And if you think about the architecture, where they have one of the leading positions obviously in the RF transceiver market and data converter market and us having a very strong position in the DFE, which is basically the digital chip that interfaces with the analog and mixed-signal functions. The coupling of those two is becoming even more and more important. And so how do -- there is questions from how do we do things like co-packaging products together, how do we align on, what the most ideal interfaces are for the chips to communicate with each other, what are the best architectures that we can pursue. And since the two companies are extremely complementary in their offerings, we see it as a great opportunity to actually innovate together and provide optimized solutions for our customers who really want to differentiate their products. And so the ADI team has got tremendous experience in this area. We obviously have a very experienced team of architects and technologists. And so really the basis of the collaboration is to be able to address customers jointly, and do that in a coordinated manner. So that's what we're doing, so I think the bottom line is we're as excited about the radio head opportunities as we are in the rest of the entire base station system.
+
+Vivek Arya -- Bank of America -- Analyst
+
+Got it. And for my follow-up, Matt, thanks for the color on the storage side. I think you mentioned client is now only about 5% of that business. I forgot whether you mentioned it just the storage or of the entire Company. But my question really is, what is the right way to think about your storage business on a two year to three year basis? Is it still kind of a flattish business? Is it a low single-digit-growth business? What is the right conceptual way to think about the storage business for Marvell? Thank you.
+
+Matt Murphy -- President and Chief Executive Officer
+
+Yeah. So, yeah, just to clarify, so yeah, I was pretty explicit, but I'll say it again, the 5% number I gave you was for entire Company. And so -- and for those of you that have followed us from the beginning of our journey, I mean, I don't know exactly what this number was, Jean, but it was probably 30%, 40% of Company back in 2016. So we've really worked on this one and certainly 2019 probably accelerated some of this transition that we already saw happening.
+
+So as we look forward, I think a couple of things with that. One is, we're very excited about our growth drivers. We did pivot the engineering two or three years ago to this nearline and enterprise type of market for cloud capacity. I think there is a view that that's going to continue to grow in terms of demand for those types of drives and we've increased our position, both on the controller side as well as the addition to preamps. So that's a nice growth driver for us. The second is in SSD, as we've made the pivot from sort of supplying commodity client controllers to NAND OEMs to doing very sophisticated products that are doing things like Ethernet attached storage or -- and certainly this trend of this do-it-yourself model where we partner directly with the end OEM to define really an SSD SoC, if you will. That trend is going very well and that we expect revenue growth from that.
+
+And so there is a number of exciting growth initiatives. And so I think although a lot of the decline in client has occurred, clearly on the HDD side they will still be more to go as PCs transition. So the way we think about this business is we do think about it as, it is certainly looking forward, given the exposure we have to client, is something that can grow, it would be very modest. And we think keeping this in the low-single-digit range is a very achievable goal. And given the strategic nature of this business to Marvell and the profitability profile, it's -- I think we got the right balance of investment in growth for this particular segment of Company.
+
+Vivek Arya -- Bank of America -- Analyst
+
+Okay. Thank you.
+
+Operator
+
+Thank you. Our next question comes from the line of Tore Svanberg from Stifel. Your question please.
+
+Tore Svanberg -- Stifel -- Analyst
+
+Yes. Thank you and congratulations on the strong results. First of all, coming back to the radio head opportunity, obviously it depends a lot on the kind of [Phonetic] MIMO architecture. But should we think of content here kind of being in the several hundred dollar range? If you could add some color there, that'd be great.
+
+Matt Murphy -- President and Chief Executive Officer
+
+Well, look, I think this was indicated in the prior questions. We do have a footprint today in radio head in a number of the applications. Some of those are from DFE, or some of those are actually we indicated this also that certain customers have started using our Fusion-based products to do massive MIMO processing, while transitioning to more customized solutions. So those are there, and you should assume that these are large advanced node digital chips and so we're not calling out ASP specifically, but they're clearly high ASP devices in that, I don't know, call it, $100-ish plus range, and you can go -- you can sort of go multiples of that depending on the complexity and how many units, etc. So yeah, these are normal large digital chips and then obviously, I know from your past, you're quite -- even today, you're still very knowledgeable about the analog market. So I think you know what that TAM looks like. And I think you also understand the inter-dependencies of the two and how critical that is to system design. So yeah, it's really about the two companies working together and helping pull each other into mutually beneficial opportunities where we can work together. But yes, as far as ASPs goes, they're bigger digital chips.
+
+Tore Svanberg -- Stifel -- Analyst
+
+Yeah, good. And as my follow-up, you've talked in the past about the programmable approach, really creating a lot of stickiness for you in your design wins. As we look at these next partnerships that you've announced, especially the additional one with Samsung and also with Nokia, should we think about that stickiness still prevailing in a pretty meaningful way?
+
+Matt Murphy -- President and Chief Executive Officer
+
+Very much so, and I would argue that was one of the key technical value props that we've been able to deliver. I think if you sort of think about this OCTEON-based architecture, based on ARM, present at all hops within the base station, whether it's massive MIMO processing in the radio head, whether it's the transport processing for Layer 2, whether it's the baseband processing, it's very efficient when a customer actually goes all in with us. And certainly, these designs by nature are quite sticky because these base station designs are quite complex. It's not a second source business. Once you get in, they last a long time. But clearly, that's one of the key differentiators that our processor team has delivered consistently for five generations now of products, so that's absolutely how you should think about it.
+
+Tore Svanberg -- Stifel -- Analyst
+
+Very helpful. Thank you.
+
+Matt Murphy -- President and Chief Executive Officer
+
+Yeah.
+
+Operator
+
+Thank you. Our next question comes from the line of Blayne Curtis from Barclays. Your question please.
+
+Blayne Curtis -- Barclays -- Analyst
+
+Hey guys, thanks for taking my question, and nice results. Just kind of curious, lot of questions on 5G, maybe in networking and everything, but 5G, just curious, an update on kind of the enterprise channel in that business returning to sequential and year-over-year growth. Do you have any thought for the rest of the year?
+
+Matt Murphy -- President and Chief Executive Officer
+
+Sure. Yeah. No thanks. And I think -- thanks, Blayne. So in 2019 and certainly in the midst of the dynamics around the trade war, we saw a number of the enterprise OEMs, our customers get whipped around a little bit. And we certainly felt that in our results in a couple of different quarters. We were certainly encouraged after the signing of the Phase 1 deal that things seem to stabilize and in fact, we had very strong order momentum, certainly, and bookings momentum. In Q4, I think is that situation stabilized. And we started to see a very strong recovery in our core business, which I think as you know is a very healthy business for us. And it's one that prior to the trade war, we had actually been growing at a pretty significant rate. I think we had six quarters of double-digit growth in that business before we had the pause in 2019. So we were encouraged to see that return to growth, which was more of a, I call it a restabilizing, but also actually growth.
+
+And then certainly understanding now we're dealing with the coronavirus situation, but it certainly it hasn't diminished at all our longer-term outlook, especially as we look through later this year with continued new product ramps. And when we brought in Aquantia as an example. We paired up their multi-gate technology with our Prestera switches. We see multi-gig is a very clear trend that's happening. Our design win position has been very good there.
+
+We've actually brought in new customers, both on the PHY and the switch side in the last few years, which we believe will start bearing fruit. And then finally, what's embedded today in our networking number is also our automotive business, which is our automotive Ethernet. And while those are still smaller numbers today on a relative basis, they're growing every quarter and they're incrementally adding revenue. And we anticipate seeing acceleration in that business as we exit calendar '20, heading into model year '21, where a number of the vehicles we were designed into going back one and two years ago will start to ramp. So we actually have -- I'm glad you asked the networking question, because it's a very large and important part of our business with some very exciting growth drivers to, I think, complement are also equally exciting 5G opportunity. So I think both of those are still in front of us.
+
+Blayne Curtis -- Barclays -- Analyst
+
+And then just maybe a quick one for Jean. It looks like you did a combination of buybacks and retiring debt. So how are you thinking about use of cash? And are you going to retire any more debt going forward? Any help there will be great.
+
+Jean Hu -- Chief Financial Officer
+
+Yeah, I think certainly our number one objective is to invest in the business after we closed all three -- two acquisitions, one divestiture. Right now, we really shifted our focus to return excess cash to shareholders through buyback. Of course, we are very focused on our investment grade rating. But we think we can generate sufficient cash flow to do both. So priority is to return cash to shareholders, and then we'll return -- pay down the debt over time.
+
+Blayne Curtis -- Barclays -- Analyst
+
+Thanks.
+
+Operator
+
+Thank you. Our next question comes from line of Ross Seymore from Deutsche Bank. Your question please.
+
+Ross Seymore -- Deutsche Bank -- Analyst
+
+Thanks guys and congrats, especially on the guide. Going back to the 5G side of things, Matt, maybe a clarification before question. The Nokia announcement from today, it's been a lot of investors debating whether that's just a formalization of the formerly unnamed second customer or an expansion? And I guess the question is, if it is the latter side in an expansion, can you just go a little bit into what's the incremental aspect to it and forgive me if you captured that in your 5G discussion earlier?
+
+Matt Murphy -- President and Chief Executive Officer
+
+Yeah, got it, Ross and not a problem to clarify on Nokia. So first, we are obviously thrilled to have a public announcement about something like this. It clearly makes it a little bit easier to talk about this. And what I would say is, we've had a very good experience in the partnership so far with Nokia. We're very impressed by the team. And I think together, we've really executed well on this first product. And so as you think about what this means, what I would say is kind of two things, one is, I would think of it as a broadening of the opportunity in the relationship on the existing program we have, which means obviously multiple generation and then broadening our exposure within their products. And then, what the announcement also references is partnering around embedded processing and multi-core with our multi-core OCTEON family.
+
+So it's really a broadening of one and an expansion as well. So we are -- it's a big deal for us. We are -- and we're fully committed to execute with them to make them successful. And we think it's a great validation of the strategy we put in place a few years ago, and the investments we've made. It's very rewarding to see this. We still have a lot of hard work in front of us, because these are extremely complex chips and extremely demanding applications. But we are honored to be working with them and certainly to have an expanded opportunity set with them is a very good thing.
+
+Ross Seymore -- Deutsche Bank -- Analyst
+
+Thanks a ton for that clarification. Then my follow up would be one for Jean, and be on the gross margin side of things. You're very helpful on the opex side, talking about where that would end the fiscal year. Tons of puts and takes on mix businesses that you sold coming out etc., on the gross margin side of things. How do you think about that progressing over time, especially as the mix of the wireless infrastructure side seemingly would grow as a percentage of the Company?
+
+Jean Hu -- Chief Financial Officer
+
+Yeah, Ross. Thanks for the question. I think to just take it from very high level, right? If you go back to Q3 fiscal '20, our gross margin was 63.5%, which included the WiFi, but now the Avera. Then of course, that time, the revenue is at almost the trough of the Company's revenue level. So our gross margins if we think about is the two factors, one is the product mix, one is revenue level.
+
+Once we close all the transaction, when you look at both Aquantia, Avera and also the WiFi business, the way to think about these, Avera and the WiFi business, they have a very similar financial profile, right? Revenue level, gross margins around 50%. I would say right now, that's the major product mix driver for the near term is when you think about these -- our gross margin should be go back to 63% to 64% level.
+
+Going forward, we actually are quite confident about sustaining our strong gross margin, especially with the wireless infrastructure side, because fundamentally, right, the gross margin is reflection for the IP value you provided to customers. And that we have a very unique value proposition to our customers across all our product line and the platform. So once the revenue level is going up, we also get leverage from the revenue level of the Company. So overall, of course, we think in the near term, it's going to be 63% to 64%. But in the longer term, we are quite confident about sustaining strong gross margin going forward.
+
+Matt Murphy -- President and Chief Executive Officer
+
+Yeah. And maybe I'll just add, I think that was, that was captured to Jean, but I would just add with respect to Avera. There is a couple of additional things to point out. I think one is, the team is laser-focused on that particular segment. And we've been highlighted in last quarter that there was some margin-related transition impact when we brought the business over. So there is a lot of specific work going on to improve that gross margin. What I would say it is to add to what Jean said on the relative trade we made between Avera and WiFi. While the revenue levels you call them similar and margins were similar from a gross margin standpoint. The operating margin profile is quite different because -- and that's something that we consciously got our heads around and we're OK with Avera. The nature of that business comes with NRE funding for the projects, which offsets R&D. So it's a fundamentally higher operating margin business. And I would say, on top of that, it addresses a much larger SAM than we were going after with WiFi, and we think that business has a much higher potential to grow in line with the Company over time. And so, yeah, that was just my few extra comments on Avera.
+
+Jean Hu -- Chief Financial Officer
+
+Yeah. Our long-term objective, of course, is to drive profitable growth, right, into the margin pool expansion in the longer term.
+
+Ross Seymore -- Deutsche Bank -- Analyst
+
+Thanks for all the details.
+
+Operator
+
+Thank you. Our next question comes from line of Gary Mobley from Wells Fargo Securities. Your question please.
+
+Gary Mobley -- Wells Fargo Securities -- Analyst
+
+Hey, everybody, thanks for taking my question. Wanted to go back to the Nokia topic and delve a little bit deeper into Ross' question. When you're sizing up the opportunity for 5G, you're roughly citing $600 million in potential peak opportunity. I think perhaps what's underpinning the Nokia assumption was that you split that ASIC business and their implementation in the ReefShark architecture three ways, maybe two other ASIC suppliers as well. The way I read today's press release is that, maybe have some exclusivity with Nokia and perhaps better-than-expected market share at Nokia. Am I reading that correctly?
+
+Matt Murphy -- President and Chief Executive Officer
+
+I think the right way to read is kind of for what it says, which is the companies have entered into a multi-generation, multi-product collaboration and partnership where we're going to be working together. We think as I said earlier, we think that's good for Marvell. We think that's going to mean more business for us over time if we execute and prove ourselves and we think it's good for them, because of the nature of the solutions we're providing. So, I mean if you think about as more and more of Nokia's business shifts to 5G, and that becomes more important for them. And certainly, we hope to be part of the equation in helping them achieve their goals. We'll then benefit from the content gain that we have. And so I think that's the best way to think about it. It's an expanded relationship. There is new products we're working on, teams are working really well together. This is a multi-year thing and certainly as 5G takes off for the industry and for Nokia, we'll -- we should be a big beneficiary of that with this rollout.
+
+Gary Mobley -- Wells Fargo Securities -- Analyst
+
+Okay, thank you for that. For my follow-up, I don't think there is any mention about ThunderX2 in the prepared remarks or any of the Q&A. So maybe if you can just give us an update on where you stand with respect to timing and perhaps magnitude of your first big marquee design win there for ThunderX2.
+
+Matt Murphy -- President and Chief Executive Officer
+
+Sure. Yeah, no, it was -- I did have in my prepared remarks, but these were a little bit longer than normal, just given all the challenges with corona and the various 5G things. So I apologize for that, but it was in there, and what we said was that we -- our ARM server program was on track to ramp in the second half, as we've been indicating before. So we didn't really have a big change there. I think it's pretty consistent with what we've been saying so far. And I think that's the only update I've got on that, that program will -- we continue to work closely with the lead customer and we're hoping that they ramp us in the second half.
+
+Gary Mobley -- Wells Fargo Securities -- Analyst
+
+Great. Thanks everyone.
+
+Operator
+
+Thank you. Our next question comes from the line of Harlan Sur from J.P. Morgan. Your question please.
+
+Harlan Sur -- J.P. Morgan -- Analyst
+
+Good afternoon, guys, and nice job on the quarterly execution. As NAND storage kind of finds its way into new applications such as gaming, I think you guys have good exposure to this upcoming game console refresh cycle partnered up with one of the leading SSD suppliers. Does the ramp for you here on the SSD controller side start here in the April quarter or is it more like the July quarter? And if you can just give us some color on the performance differentiators that enabled you to win with your controller solution for this high volume design win?
+
+Matt Murphy -- President and Chief Executive Officer
+
+Yeah, Harlan, I think the way I about it is, is you're right. I think NAND in flash is very much making its way into new use cases and it's replacing conventional or traditional storage media. And certainly, that is one example that you mentioned. I think, I've always said so far as we think that transition in that market is going to be positive for Marvell. We -- and I think that's probably as you can imagine, there is on that particular market, there is sort of tremendous confidentiality and sensitivity around that. So all I'd say is net-net, in that particular transition, I think that -- I know Marvell will do, it will be a net positive for Marvell.
+
+Harlan Sur -- J.P. Morgan -- Analyst
+
+Yeah, absolutely. And then on the networking side, on the strength of the networking business outside of 5G, specifically on the service side, your lead customer partner here Intel has seen strong growth in their server business into data centers. And I believe that Aquantia had a strong partnership with Intel on the service side. And I think the core Marvell side, you guys also have some strong PHY and NIC partnerships with Intel as well on servers. Is this server exposure driving some of the networking strength here in the April quarter, just given the strong demand outlook for this part of the market?
+
+Matt Murphy -- President and Chief Executive Officer
+
+Yeah. I think you're right. We've -- both companies Aquantia and Marvell have been -- had partnerships with Intel for some time. And what I would say is that the networking strength that we saw with bookings in Q4 and certainly our Q1 outlook was broad based. But I would say for sure that the dynamics you mentioned and that the server recovery and growth was quite strong, and that's certainly benefiting those particular businesses for us, both the Aquantia piece as well as us on the NIC side.
+
+Harlan Sur -- J.P. Morgan -- Analyst
+
+Great. Thanks. Thank you, Matt.
+
+Matt Murphy -- President and Chief Executive Officer
+
+Yeah.
+
+Operator
+
+Thank you. Our final question for today comes from the line of John Pitzer from Credit Suisse. Your question please.
+
+John Pitzer -- Credit Suisse -- Analyst
+
+Yeah, guys. Thanks for sneaking me in. Matt, I guess my first question is just on the radio opportunity. I'm just kind of curious, how do we think about kind of the timing, just sort of meaningful revenue. And you guys have been doing stuff pre to collaboration with ADI or at least the announcement. Is the ADI step is later on, as we think about the radio opportunity, and of the $750 million you kind of outlined for 5G, how do we think base station versus radio head? And then I have a follow-up.
+
+Matt Murphy -- President and Chief Executive Officer
+
+Yeah, I think the way to think about it is the announcement with ADI was really a desire for us to just make the market aware, all the stakeholders in the ecosystem that the two companies -- the teams are working together. We were already sort of jointly getting pulled into things, so I wouldn't sort of tie an ADI engagement to a new design win per se. I would say that we're pursuing opportunities, they're pursuing opportunities. We tend to show up in the same place. So this is a way for us to add value to our customers. But as I mentioned, as far as silicon for radio head, we have Fusion-based processors, right, that are shipping today.
+
+We have next-generation parts, which we've done a bunch of customization on with our customer IP. We see that trend continuing. We also have digital front-end ASICs related content. So, there is actually quite a bit that's going on there. So I was just think of it as an ongoing trend that we will see both growth in the digital unit as well as the radio heads. And to the extent that massive MIMO influx and it becomes a major trend globally, and you think about the out years as our content grows both in the DUs and the radio heads, we think it just adds to the opportunity for Marvell. Certainly more attach of massive MIMO means more capacity, more users, more silicon, more chips and that's all the positive for us.
+
+So I don't think we have a split right now, like how do we think about how much is in and where. And quite frankly, those lines, John, are blurring, because a lot of the new standards on 3GPP in terms of the splits and where does the processing in the 5s [Phonetic] actually sit and what part of the network or what part of the base station unit? It's fairly dynamic and they have things like O-RAN coming, which is also defining a new way of doing processing. So a lot of diversity in the applications we think we're well suited for all of them, but probably more to come on that, as we go forward with our different engagements we're pursuing.
+
+John Pitzer -- Credit Suisse -- Analyst
+
+That's helpful. I mean, just as my follow-up, I wanted to go back to kind of your guidance around the coronavirus caveat it by saying, I appreciate the fact, it's very fluid and any question I asked is going to be best guess. But I do want to make sure I understand the 5% cushion in the April quarters what you've already seen. The wider range is the uncertainty and you've characterized it as more of a supply issue than a demand this year. And a lot of your peers have as well. I'm just curious, it feels like the peak of the supply disruption was right after Chinese New Year, and week on week things were getting better. Is that -- I'm not putting words in your mouth, but is that how you would sort of describe the situation to date?
+
+Matt Murphy -- President and Chief Executive Officer
+
+Yeah. Great. Let me take into two pieces. So I think the first is, you got it right. So the -- and again, sorry for so many 5s. So the first 5% number was our estimate of how much we -- now what we've guided to $680 million, we basically back that down about 5% from where we were prior to corona hiting, where we -- where we saw Q4 -- sorry, Q1 winding up. So we did that in a fairly detailed way, just looking at the bridge from where we were to where we're guiding and the moving pieces. And as you mentioned, today they're all supply chain related. We have really no way to know if there is been any demand destruction, where it would occur, what's actually happening. I think that's to come, certainly, and then on the -- by the way on the plus or minus 5%, that's independent. That just saying, hey at the midpoint, we normally guide plus or minus 3%, given just how volatile this thing is, we don't know, does it come back? Does this thing become more of a non-issue? There's a couple of them quite serious, even more serious today. So that's why we widened the range.
+
+And so, yeah, I think I'll just conclude by saying, I read the same probably reports you do, and we certainly see the activity that says, factories are gradually coming back online. People in China are gradually going back to work. But we don't really know what the ripple effect is through the global economy, candidly from this disruption. So we just don't know. And so that's why I think probably ourselves and peers are not hesitant to call the demand change. We just don't know. And so I think that's what's going to probably play itself out here over the coming quarter.
+
+John Pitzer -- Credit Suisse -- Analyst
+
+Great. Thanks for the call and congratulations.
+
+Matt Murphy -- President and Chief Executive Officer
+
+Yeah. Thanks, John.

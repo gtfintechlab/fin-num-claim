@@ -1,0 +1,496 @@
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to the CrowdStrike Holdings Q2 fiscal year 2021 financial results conference call. [Operator instructions] Please be advised that today's conference may be recorded. [Operator instructions] I would now like to hand the conference over to your host, investor relations for CrowdStrike, Maria Riley. Ma'am, please go ahead.
+
+Maria Riley -- Investor Relations
+
+Good afternoon, and thank you for your participation today. With me on the call are George Kurtz, president and chief executive officer, and co-founder of CrowdStrike; and Burt Podbere, chief financial officer. Before we get started, I would like to note that certain statements made during this conference call that are not historical facts, including those regarding our future plans, objectives, and expected performance including our outlook for the third-quarter and fiscal year 2021, are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements represent our outlook only as of the date of this call.
+
+While we believe any forward-looking statements we may have made are reasonable, actual results could differ materially because the statements are based on current expectations, and are subject to risks and uncertainties. We do not undertake and expressly disclaim any obligation to update or alter our forward-looking statements, whether as a result of new information, future events, or otherwise. Further information on these and other factors that could affect the company's financial results is included in filings we make with the SEC from time to time, including the section titled risk factors in the company's quarterly and annual reports that we file with the SEC. Additionally, unless otherwise stated, excluding revenue, all financial measures discussed on this call will be non-GAAP.
+
+10 stocks we like better than CrowdStrike
+When our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+
+They just revealed what they believe are the ten best stocks for investors to buy right now… and CrowdStrike wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+
+See the 10 stocks
+
+*Stock Advisor returns as of March 8, 2023
+
+A discussion of why we use non-GAAP financial measures and a reconciliation schedule showing GAAP versus non-GAAP results is currently available in our press release, which may be found on our investor relations website at ir.crowdstrike.com or on our Form 8-K filed with the SEC today. Please also note that in light of these unprecedented times as a result of the COVID-19 pandemic, management will provide additional information into our second-quarter results and guidance assumption. We do not intend to provide this additional information on an ongoing basis. Lastly, Fal.Con, our annual user conference, will be held virtually on October 15th.
+
+We invite you all to attend our keynote presentations, as well as, the one-hour session we will hold specifically for investors. Registration details to both events for investors and financial analysts will be available next week. Now, I will turn the call over to George to begin.
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+Thank you, Maria, and thank you all for joining us today. CrowdStrike delivered another exceptional quarter. We could not be more pleased with the team's continued execution and every CrowdStriker's commitment and drive to take our company to new heights, even in light of the current macro uncertainty. A few of our accomplishments in the second quarter, include setting a record for net new ARR with over $100 million added in the quarter and ending the quarter with a record pipeline, sustaining our strong subscription revenue growth rate of 89%, adding record net new subscription customers of 969, closing the second-largest deal in the company history, which was sourced, trialed, and closed remotely, and for the second consecutive quarter, we generated non-GAAP operating income.
+
+Now let's discuss our results and the trends we are seeing in the market in more detail. With strength in multiple areas of the business, we added $104 million in net new ARR in the second quarter, which was up 77% year over year and ahead of our pre-COVID expectations. Additionally, year over year, we grew our subscription customer base by 91%, delivered 89% subscription revenue growth, and 84% total revenue growth. We once again saw a strong partner engagement and deal flow throughout the quarter among both large and SMB customers that span multiple industries.
+
+Additionally, our gross retention rate remained consistently high and our dollar-based net retention rate once again exceeded 120%. We also continue to see rapid module adoption by new and existing customers, which is a key tenet of our growth strategy. This quarter, the percentage of all subscription customers with four more modules increased to 57% and those with five or more modules increased to 39%. Strong secular trends and a favorable competitive environment are fueling our growth.
+
+Organizations around the world are shedding outdated systems and accelerating their move to modern cloud-native technologies to meet the demands of today's threat landscape and future-proof their security architecture. Additionally, as organizations rapidly adapt to the new distributed workforce paradigm and move more workloads to the cloud, it has become clear that the endpoint is the new security perimeter, and the inadequacies of the complex brittle patchwork of legacy solutions continues to be exposed. From the many conversations Mike Carpenter, CrowdStrike's president of global sales and field operations and I have had with CIOs during our 100 by 100 international virtual customer tour, we consistently heard a few themes from both customers and prospects. First, even as challenging macroeconomic backdrop, cybersecurity is mission-critical and more important now than ever as the threat environment escalates and the attack surface continues to grow.
+
+This is also consistent with our OverWatch team's findings. So far in the first half of 2020, we have seen a 154% increase in distinct and sophisticated intrusions, stopped 41,000 potential breaches, which is more than all of last year, and we have seen a sharp increase in e-crime with 27 different industry verticals falling victim to criminally motivated intrusions, which is more than double in the same period last year. Additionally, many of the security leaders we spoke with believe that experiencing a breach now while their business is under extreme stress due to the impact of COVID, would be far more detrimental to their business versus last year. Second, to secure the hybrid workforce in today's threat landscape, the two most important aspects of security are providing visibility and protection to workloads and implementing a zero trust architecture, which endpoint security is an important foundational element.
+
+And third, to protect their businesses, CIOs are looking forward, not backwards. They want cloud platforms that are agile, easy to deploy, easy to manage even if their security teams are working remotely. As such, today's refresh is all about digital transformation and eliminating their reliance on complex and fragile legacy technologies. We believe CrowdStrike is a winning combination to continue gaining new customers at a rapid pace, displacing both legacy and next-generation players.
+
+Many of the attributes in Falcon that are resonating most with customers as they address today's security challenges were purpose-built into the platform from inception. Because the Falcon platform is cloud-native and our lightweight agent does not require reboot unlike most of our competitors, customers can easily and remotely deploy, manage, and protect our workloads at scale. Security effectiveness is directly related to the quantity and quality of data collected, and the ability to analyze it in real time. All the data we collect is stored in one place, the threat graph, where it's analyzed almost instantaneously across our entire customer base, providing real-time protection and community immunity.
+
+By streaming the telemetry to the cloud with our proprietary smart filtering technology, we believe we have a fundamental time and performance advantage over most vendors because they store their data locally on the endpoint. Threat graph is also foundational to our ability to dynamically scale and expand our product lineup as we collect the data once and have the ability to reuse it many times. This is not only a technology advantage, but also a business model advantage that drives strong gross margin performance. As more business is conducted virtually and more workloads move to the public cloud, protecting those workloads is now a priority for CIOs.
+
+CrowdStrike Falcon was built in the cloud for the cloud and a core differentiator of the Falcon architecture is that we offer one platform for all workloads. The CrowdStrike's Falcon platform protects workloads across all environments, including workloads and containers running in both public and private clouds with a single agent and unified user interface. Today, we protect over 1 billion unique container instances and are continuing to build strong momentum with DevOps and security teams. We hope you join our virtual investor session of Falcon on October 15th to learn more about our cloud capabilities.
+
+Our technology superiority in protecting cloud workloads led to one of our marquee customer wins this quarter. With a rapid transition to working and socializing from home, Zoom experienced a surge in popularity and became a target for bad actors looking to exploit its success. Their Linux environments in AWS and Oracle Cloud were growing very rapidly to accommodate the increased demand for their SaaS offering. Seeking a strategic partner with a mature product and proven track record in protecting large-scale Linux deployments for other cloud leaders, Zoom called on CrowdStrike to help protect their critical cloud and Linux workloads.
+
+Let me share a few additional stories that demonstrate how the power of the Falcon platform translated into customer wins. The next customer win I will highlight is with a multinational financial services company and showcases the velocity of our sales motion, as well as, the strategic value of our platform. While this organization had been a professional services client in the past and a threat intel customer for some time, they were averse to cloud technologies and entrenched with legacy on-premise vendors. However, in order to adapt to the new realities of a work-from-anywhere model, they embraced cloud, accelerated their digital transformation plans, and in the process realized they also needed to transform their security architecture and gain visibility into their endpoints.
+
+This company was also looking to free themselves from their hodgepodge of legacy solutions and move on to a single platform that could be easily and rapidly deployed globally. The speed of deployment and time to value were critical factors in their purchasing decision as the mere thought of having to reboot its complex network of systems have kept this organization from moving to a modern architecture sooner. CrowdStrike's single lightweight agent that can be deployed in seconds and does not require reboot significantly set us apart from the competition and was a large contributor in accelerating this customer's time to value. The customer recognized CrowdStrike's superior technology and business value and we closed this deal in eight weeks from proof of value to purchase order, all virtually.
+
+We ultimately displaced three incumbent vendors with Falcon Prevent for next-gen AV, Insight for visibility, Discover for IT hygiene, and OverWatch for threat hunting. The next customer win I will share is with the leading airline and shows how even companies in severely impacted industries are willing to change course during this critical time and under immense budget constraints in order to have security that just works. This organization was frequently being attacked by adversaries and the security team was frustrated and fed up with the inability of their patchwork of legacy and next-gen vendors to keep up. As a result, they were spending a lot of money on services to supplement their fragile security tools.
+
+By demonstrating the superior capabilities and quick ROI of the Falcon platform, we won this new customer, beating and displacing next-gen vendors that had ineffective and cheaper solutions. The last customer win I will share with you is with a leading U.S. hospital-based in the Pacific Northwest that was looking to replace four incumbent legacy vendors and support of their initiative to move to the cloud and use of virtual desktops. This organization was looking for a suite of solutions on an extensible platform, including an open ecosystem like the CrowdStrike Store.
+
+It was also interested in managed security services so they can free up constrained internal resources, while at the same time, fortifying their security posture. While the competition was trying to leverage their bundled license structure along with their cloud hosting relationship, they could not produce one single reference that could speak to the quality of their managed services. CrowdStrike, on the other hand, offered multiple references in their own industry and won the deal on the spot. In addition to Falcon Complete, our fully managed endpoint protection offering, this new customer is using six Falcon modules.
+
+These are just a few of our 7,230 subscription customers as of the end of the quarter that have turned to CrowdStrike to help them stop breaches, transform their security posture, and streamline their IT operations. As you can see from the exceptional results we reported today, we are building strong momentum in the market as companies fast forward their businesses to an all-digital world and embrace the future. In this new normal, companies recognize that security transformation is fundamental to digital transformation. With our cloud-native platform, purpose-built to solve modern security challenges, CrowdStrike is in a unique position to capitalize on this long-term sustainable trend and expand our leadership in the security cloud category.
+
+With that, I'll turn the call over to Burt.
+
+Burt Podbere -- Chief Financial Officer
+
+Thank you, George, and good afternoon, everyone. As a quick reminder, unless otherwise noted, all numbers, except revenue mentioned during my remarks today are non-GAAP. We delivered another outstanding quarter with strength in multiple areas of the business and could not be more pleased with the team's exceptional performance, especially in light of these challenging times. In the second quarter, we delivered 87% ARR growth year over year to reach $790.6 million.
+
+We added $104.5 million in net new ARR, representing 77% year-over-year growth, which was above our pre-COVID expectations. The growth in ARR was broad-based and driven by another strong quarter for new logo additions and strong expansion business with low contraction and churn consistent with prior quarters. As George mentioned, we signed the second-largest deal in the company's history and this contributed low eight figures to ARR. Excluding this deal, we still delivered quarter-over-quarter growth in net new ARR.
+
+Moving to the P&L. Total revenue grew 84% over Q2 of last year to reach $199.0 million. Subscription revenue grew 89% over Q2 of last year to reach $184.3 million. Professional services revenue was $14.7 million, up 40% year over year.
+
+Professional services are a strategic part of our business as these engagements lead to new subscription business. And this quarter, we saw record demand for our services business and a record number of seven-figure subscription ARR deals resulted from our services engagements. Additionally, we continue to grow the average subscription ARR derived for every $1 spent on an initial incident response or proactive service engagement from the $3.73 level reported as of January 31st, 2020. In terms of our geographic performance, we continue to see strong growth in the U.S., as well as, our international markets.
+
+Approximately 71% of second-quarter revenue was derived from customers in the U.S.; 14% from Europe, Middle East, and Africa markets; 9% from Asia Pacific; and 6% from other markets. We remain focused on building a long-term business with sustainable growth and compelling margins. In Q2, we recognized significant operating leverage in our SaaS model and the benefits of scale even as we increase investments in our global reach and cloud platform. Second-quarter non-GAAP gross margin improved to 75% from 73% a year ago.
+
+Our non-GAAP subscription gross margin increased to 78%, compared with 76% in Q2 of last year and 78% last quarter. We are very pleased with our strong subscription gross margin performance again this quarter, but as a reminder, we expect gross margin to fluctuate quarter to quarter but within our target range as we ramp new data centers. Total non-GAAP operating expenses in the second quarter were $140.9 million or 71% of revenue versus $99.1 million last year or 92% of revenue. We continued investing aggressively in our business during the quarter, including shifting more of our sales and marketing spend from in-person activities to digital and ramping new hires in key areas.
+
+Scaling our business efficiently remains a top priority, which is why we focus on our unit economics, including Magic Number. In Q2, we ended with a Magic Number of 1.3, which is a new record and an indication that we can continue investing aggressively in the business. I'm also pleased to highlight that we reported non-GAAP operating income for the second consecutive quarter. Non-GAAP operating income was $7.8 million.
+
+As a result of our rapid top-line growth, expanding gross margin profile, and continued disciplined approach to investing in our business, we drove strong operating leverage in the quarter. Our non-GAAP operating margin improved 23 percentage points year over year. Q2 represents our seventh consecutive quarter of improving non-GAAP operating performance on both a dollar and margin basis. Given the incredible opportunities and dynamics we see in the market today along with our strong unit economics, we intend to increase our investments in our go-to-market engine and hire aggressively in key areas in order to create even more distance between CrowdStrike and the competition.
+
+At the same time, we have increased our operating performance expectations for the year and now expect to deliver operating income for the full year. Non-GAAP net income in Q2 was $7.9 million or $0.03 on a diluted per share basis. Given the reported non-GAAP income in the quarter, the weighted average common shares used to calculate second-quarter non-GAAP EPS was on a diluted basis and totaled 233.2 million shares. Turning now to the balance sheet.
+
+Cash and cash equivalents increased to approximately $1.1 billion. Cash flow from operations was approximately positive $55.0 million and free cash flow was positive $32.4 million, both measures are ahead of our expectations. Moving to our guidance. We continue to remain optimistic about the demand for our offerings and the powerful secular trends fueling our growth.
+
+Given the growth drivers of our business, as well as, our strong second-quarter performance and momentum into the third quarter, we are raising our guidance for the fiscal year 2021. While we do not specifically guide to ending or net new ARR given the exceptional strength of Q2, which included the second largest deal in our history, we expect to see atypical seasonality in net new ARR as we move from Q2 into Q3. Additionally, as we discussed last quarter, we are maintaining our pragmatic outlook regarding the uncertain global macroeconomic backdrop and have prudently maintained our higher assumption for contraction and churn for the remainder of the year, even though we have not seen significant increase in this metric to date. For the third quarter, we expect total revenue to be in the range of $210.6 million to $215 million, reflecting a year-over-year growth rate of 68% to 72%, with subscription revenue being the dominant driver of growth.
+
+We are guiding to be approximately breakeven at the midpoint of our operating income guidance, which is a quarter ahead of our previous goal. We expect non-GAAP operating income to be in the range of a loss of $1.4 million to income of $1.6 million and non-GAAP net income to be in the range of a loss of $2.2 million to income of $900,000. We expect diluted non-GAAP net income per share in the range of a loss of $0.01 to breakeven. For modeling purposes, please note that if we report positive net income in Q3, we expect our share count to be 235 million fully diluted shares versus 219 million basic shares if we report a net loss.
+
+For the full fiscal year 2021, we currently expect total revenue to be in the range of $809.1 million to $826.7 million, reflecting a growth rate of 68% to 70% and over the 2020 fiscal year. Non-GAAP income from operations is expected to be between $3.6 million and $16.4 million. We expect fiscal 2021 non-GAAP net income to be between $5.6 million and $18.4 million. Utilizing weighted average shares used in computing diluted non-GAAP net income per share of $234 million, we expect non-GAAP net income per share to be in the range of $0.02 to $0.08.
+
+And lastly, we saw strong free cash flow in the first half of the year and expect to be operating cash and free cash flow positive for the back half of the year. George and I will now take your questions.
+
+Questions & Answers:
+
+Operator
+
+Thank you. [Operator instructions] Our first question comes from the line of Sterling Auty of JP Morgan. Your line is open.
+
+Sterling Auty -- J.P. Morgan -- Analyst
+
+Yeah, thanks. Hi, guys. You know, just in your commentary around all the benefits that you're seeing in the current environment, I guess, one of the questions we hear from investors is, how much is the business directly benefiting from COVID? And what would you expect as the economy opens back up and we move past COVID to happen to the growth rates of the business?
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+Hey, Sterling, George here. So you know, when we think about COVID, there's certainly been some puts and takes, but on balance, we believe it's been a tailwind for us. And really, what it's done is to accelerate the deterioration of the perimeter. And as more companies move to a distributed work-from-anywhere paradigm, we believe it helps accelerate this movement.
+
+And from a security perspective, it really enables this -- this digital transformation. So companies can't really keep their systems behind the perimeter anymore. And overall, from my perspective, it's something that's a sustainable trend, whether it's work from anywhere or whether it's actually moving these systems to the cloud. So if you look at just the airline as an example, I mean, even in the COVID environment, we're still getting big deals done in stressed industries.
+
+And I think we're doing that because people are saying how can they be -- how can they run their businesses more efficiently in the current environment? And being able to consolidate all those agents and reduce costs and come out with a better outcome is ultimately what they're looking for.
+
+Sterling Auty -- J.P. Morgan -- Analyst
+
+Makes sense. Thank you.
+
+Operator
+
+Thank you. Our next question comes from Saket Kalia of Barclays. Your line is open.
+
+Saket Kalia -- Barclays Investment Bank -- Analyst
+
+OK. Hey, guys. Thanks for taking my questions here. How are you doin'?
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+Great. Thank you.
+
+Saket Kalia -- Barclays Investment Bank -- Analyst
+
+Hey, first, maybe -- hey, Burt. Hey, George. Hey, George, maybe first for you. Can you talk about the market size and endpoint long term? And I don't necessarily mean just growth of units, but I'm also curious how you think about what other TAM is being created? As to your point, endpoint is sort of becoming that new perimeter.
+
+And what other markets are potentially being consolidated into that endpoint security TAM? Does that question make sense?
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+It does, yeah. If you look at where we are today with our modules and typically, when we add a new module, we add new TAM opportunities. We're probably above $30 billion with all the TAM opportunities we have today and growing, right? So that's today and into the future. I think it's bigger than that because when you look at the opportunity in cloud and cloud workloads and we talked about Zoom as an example, as an opportunity for us to protect those workloads.
+
+I think that's really underrepresented in the TAM market today and there's a lot of adjacencies related to cloud and cloud protection, and it's just a different model. So between understanding what the hygiene of those systems are, understanding what the vulnerabilities are, having the ability to interact with them using some of our Discovery for IT modules, you know, it's a growing TAM. And I think, as I said in some areas, it's probably underrepresented because while we're -- you know, we get lumped in the endpoint security category, which is a category, we view it more as a workload protection, right? And endpoint is just a subset of that workload and you have everything from mobile devices to IoT devices to cloud workloads, ephemeral workloads, and that's a massive opportunity for us, particularly, as you think about like 5G and its proliferation. So hopefully, that gives you kind of a quick snapshot of the TAM that we have today.
+
+But as we add more modules, we continue to add more TAM, too, to our opportunity.
+
+Saket Kalia -- Barclays Investment Bank -- Analyst
+
+Yeah, sure. That makes a ton of sense, George. Maybe for my follow-up for you, Burt. Hey, nice to see the shift to profitability in the guide.
+
+You touched on this a little bit in the prepared remarks around overall investing, but could you just maybe double-click a little bit on how you feel about your pace of hiring, particularly in sales, just as we start preparing for next year?
+
+Burt Podbere -- Chief Financial Officer
+
+Sure, Saket. So first, of course, we -- as mentioned, we are continuing to aggressively invest in our business, that's number one. Given the overperformance in Q2, we have an eye to ensure that they have the requisite coverage. We have increased -- we've definitely increased our hiring plan in key areas and we'll continue to do so.
+
+Having said that, as you've been following us for a while, unit economics remains important to us. So we talked about the Magic Number being 1.3, the highest ever in company history, and we don't plan to take our eye off of it, but it does tell us that we have room to invest. And so, I think that so far to date, we've had an excellent return on our SMB investments. It's interesting, there's this -- we have a strong position today in the market for talent.
+
+I think that we have the ability to attract the best that's out there and we're acting on it. I mean it's a unique time, as you know. I think we have the right solution. It's the right market, we have an excellent competitive backdrop, and I think we're going to take advantage of all the things.
+
+So in summary, we're not going to take our foot off of the gas pedal and we're going to continue to invest.
+
+Saket Kalia -- Barclays Investment Bank -- Analyst
+
+Very helpful. Thanks, guys.
+
+Burt Podbere -- Chief Financial Officer
+
+You're welcome.
+
+Operator
+
+Thank you. Our next question comes from Gur Talpaz of Stifel. Your line is open.
+
+Gur Talpaz -- Stifel Financial Corp. -- Analyst
+
+OK, great. Thanks a lot for taking my questions. I've got one for you, George, and one for you, Burt. George, you alluded to this in the prepared remarks, but can you talk about the appetite for workload security transformation, and I think ultimately, displacement of legacy and next-gen systems? And I think more importantly, have you seen a shift here over the past quarter? And if so, why?
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+Well, we have seen, I think, an acceleration in that area and the shift because as people are trying to execute on their digital transformation plans, they actually figured out they need a security transformation first. And in order to get all these legacy systems up into the cloud, from a compliance perspective, you have to have security, and typically, what we've seen in cloud workloads is they're under protected. They're just -- there's not -- there's really nothing there protecting them. So we see it as a greenfield opportunity for us.
+
+I mentioned that on a daily basis, we protect over 1 billion cloud containers, 1 billion, and those are ephemeral containers that come and go. So, you know, we've really built, I think, a great reputation and tremendous capabilities from a technology perspective in that area and we continue to double down in cloud workload protection. So if we think digital transformation is here to stay, which I do, security transformation is part of it, moving to the cloud, cloud workloads are going to need to be protected. And right now, they're under protected.
+
+There's not much there. So we feel really good about it.
+
+Gur Talpaz -- Stifel Financial Corp. -- Analyst
+
+That -- that's helpful. And then Burt, the continued ramp here in module adoption, I think, it remains really impressive. Maybe you can walk us through what continued growth there means for the model, particularly, from a margin standpoint? Thank you.
+
+Burt Podbere -- Chief Financial Officer
+
+Sure, Gur. Great. So -- so first of all, we're very pleased with our module adoption. Let's just start there.
+
+We have seen an increase in the number of customers using both Discover and Spotlight in the quarter. And then, there've been two critical modules for us outside the core three -- the big three that we talked about constantly. You know, overall, we obviously see this as -- overall, we continue to see strong adoption for our modules with customers adopting four more modules, increasing to 57%, and those with five or more modules increasing to 39%. And I think that in and of itself should give an idea as to how well we think we're doing with respect to module adoption.
+
+With respect to profitability and what this means for us, every new module, of course, after the first adds to our bottom line. It virtually, uh -- it's virtually all of the new modules that come on board become virtually all profitable. So as we think about the opportunity in front of us, both in new logos and uh, the new expansion and upsell, we feel that there is a unique opportunity for us to continue to go after both. And so, because we can go after both and because we think that we've got this great platform, where we can add new modules, bring them in seamlessly into our platform, we're able to drive more profitability into our business as we continue to expand our module adoption, as well as, adding new modules to the platform.
+
+Gur Talpaz -- Stifel Financial Corp. -- Analyst
+
+OK. Great. Thank you.
+
+Burt Podbere -- Chief Financial Officer
+
+You're welcome.
+
+Operator
+
+Thank you. Our next question comes from Alex Henderson of Needham. Your line is open.
+
+Alex Henderson -- Needham and Company -- Analyst
+
+Thank you very much. Last quarter, you guys talked about the rapid rate of adoption of your endpoint technology through AWS uptake. I think you said it was 75% to 85% type quarter-to-quarter growth. I was hoping you could give us some sense of what that update looks like at this point, whether that's continuing to get those very high rates of growth or whether it's starting to level off a little bit?
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+Sure. Hey, this is George. So we didn't give any specific guidance around the actual numbers, but we are seeing similar adoption when we think again about some of these big wins in the cloud. We've talked again about Zoom and their AWS environment, and in particular, Falcon for AWS.
+
+We're seeing great adoption there and we don't -- we're only seeing it -- we only see it continuing to do really well. As I said before, there is not a lot of solutions, competitive solutions that really operate seamlessly in the cloud and customers like it. We integrate with their marketplace in Store. We have metered billing, so it makes it super easy for customers to be able to implement and use it and get billed appropriately.
+
+Alex Henderson -- Needham and Company -- Analyst
+
+If I could follow-up, clearly, there is a big opportunity for you in one-time deployments around Kubernetes. But have you started to work on pushing back to pre-deploy environments into the [Inaudible] process and the like to tie in both the front end and the back end of that process?
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+Well, the beauty of our technology is that it doesn't necessarily have to be in the flow of that process because we've run underneath all containers. It's seamless for a developer to just deploy and not have to worry about putting another agent in a container, unlike our competitors. So, you know, we certainly have a lot of interaction with the DevOps teams, but the reality is they don't have to change much in terms of their deployment because it's so seamless behind the scenes.
+
+Alex Henderson -- Needham and Company -- Analyst
+
+Great. Thank you very much.
+
+Operator
+
+Thank you. Our next question comes from Tal Liani of Bank of America. Your line is open.
+
+Tal Liani -- Bank of America Merrill Lynch -- Analyst
+
+Hi, guys. This quarter you expected to be the low point for net new ARR and it was actually a very strong quarter. I'm just wondering, Burt, if you can take us through what changed in the quarter versus your previous expectations? That's my first question.
+
+Burt Podbere -- Chief Financial Officer
+
+Yeah. Hey, Tal. So, first, let's be clear, what I said was that it -- you know, Q1 may not be the low quarter in the year. So I didn't necessarily comment on Q2.
+
+We're obviously excited for the phenomenal quarter that we just put up on the board, even -- even without the oversized deal that George had talked about on the call. I think that a lot of things that George talked about kind of led to the great quarter with the -- I think the acceleration of deterioration of the perimeter, that's number one. Clearly, the acceleration toward digital transformation, I think that that has also helped in the quarter. But overall, it goes back to what George has built, right? I mean, he built a company where it's a single agent, single platform, it's data-driven.
+
+You get here once, you reuse it many times. And of course, it goes to the ease of deployment and ease of management. All those things are working well today and really lending itself to today's environment and for years to come. That said, you combine that with the competitive environment, which has been very good for us.
+
+And I think that given all of those things coming together, we saw the overperformance in Q2.
+
+Tal Liani -- Bank of America Merrill Lynch -- Analyst
+
+Got it. So when you look at the net new ARR and the performance, can you give us a flavor of -- I don't know if exact numbers, but at least talk about it. What's the split between new customers, additional endpoints within existing customers, and also new module additions?
+
+Burt Podbere -- Chief Financial Officer
+
+Sure. So as I mentioned, right now, we are winning both net new logos and we're winning upsells and cross sells at very robust levels. So for us, net new logos, you saw -- you saw the number, it's a record for us. So we are really excited there.
+
+And of course, on the cross-sell expansion, we had a great quarter as well, and we feel that we still have tremendous amount of headroom on both. I think what was really special about Q2 was that it was strong in both of those areas and we're going to continue to go after both in a meaningful way, and we back it up with our comp plans. Today, we paid for net new ARR, whether it comes from a new logo or whether it comes from an upsell expansion, we're paying the sales team equally for both. So today, because we feel we have a lot of headroom with respect to new logos, that's going to play well in that area.
+
+And also because of our unique customer base, we have this new opportunity to continue to upsell and cross sell through that unique customer base. And of course, as we add in a new module, it just gives us an opportunity to sell that new module to our evergrowing customer base.
+
+Tal Liani -- Bank of America Merrill Lynch -- Analyst
+
+Got it. Excellent. Thank you.
+
+Burt Podbere -- Chief Financial Officer
+
+You're welcome.
+
+Operator
+
+Thank you. Our next question comes from the line of Sarah Hindlian-Bowler from Macquarie Capital. Your line is open.
+
+Sarah Hindlian-Bowler -- Macquarie Capital -- Analyst
+
+All right. Great. Thank you so much. Thanks for taking my questions, Geoarge and Burt.
+
+Good to hear from you and congrats on another stellar quarter. So I know you've been asked about this a little bit, but I wanted to follow-up on Saket's question on what's driving really the better unit economics you've outlined on the call for us, Burt. Is there some better-than-expected success in some of your new go-to-market initiatives with maybe some of the self-serve? Is adoption of new cloud products just scaling really quickly so that your gross margins are improving a little bit faster and there's some flow-through there? Is there just a little bit of additional color you can give us on what's driving this really strong unit economics and this better march toward profitability than -- than I was expecting?
+
+Burt Podbere -- Chief Financial Officer
+
+Hey, Sarah, great to hear your voice as well. So, thanks for the question. So first, since day one, we've been -- we've had an eye to unit economics. We -- the way that process works, sales team works with financing to develop the capacity planning, then, we look at the capacity planning and then we take it and we put it into our financial models, and we come out with a range of unit economics that we get comfortable with.
+
+And so, when it starts there, when we see this opportunity in front of us with respect to many of our competitors not being able to keep up with our tech and our go to market, what's been happening is we've seen success across all of our different swim lanes and success along across our geos. So when you have all of that, it's going to lead to strong unit economics. And for us, we continue to measure that, we continue to look at how we think about each of the reps in each of their different categories -- each of their different territories, and then, we triangulate that with respect to the product adoption, as well as, the geo adoption. And so far, we've seen great success across the board on all of those different elements.
+
+With respect to our marketing plans and with respect to where we live in today, with respect to the increased importance on -- on digital, you know, we've funded those accordingly. We've looked at the returns that we get on those particular initiatives and they've been successful for us. Maybe for a little color on that, I'll pass it over to George with respect to our programs.
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+Yeah. Thanks, Burt. So, you know, you touched on the digital piece and we spent a lot of time having the platform sell itself with in-app trials and the ability to instrument what customers are doing and really be able to take that information and convert that into sales. So, you know, one of the things that we really are focused on in building the company is not only building a scalable technology to prevent breaches but also build a very scalable sales model, which it uses technology behind the scenes that people never see.
+
+So, I think that's part of it and we continue to refine how we go to the and how we get the customers. And Burt and I are always looking at the cost of sales and trying to make it as efficient as possible.
+
+Sarah Hindlian-Bowler -- Macquarie Capital -- Analyst
+
+Well, thank you, both. That was very helpful. I appreciate it and congratulations.
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+Thank you.
+
+Burt Podbere -- Chief Financial Officer
+
+Thanks, Sarah.
+
+Operator
+
+Thank you. [Operator instructions] Our next question comes from the line of Walter Pritchard of Citi. Your line is open.
+
+Walter Pritchard -- Citi -- Analyst
+
+Hey, thanks. Two product questions or I guess, one product, one go to market. On the -- I know you've been doing that program with home systems and some employees are working at home off a different systems. I'm curious what -- how hard do you push on monetizing that and just an update there? And then, I had a follow-up on the SMB segment.
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+You kow, we're still in the cycle of helping companies get through this, so we haven't pushed that hard in monetizing it. There's been a tremendous amount of interest, and again, that was a program that we put together specifically for COVID. But you know, it is something that we can continue, uh -- we can continue if we'd like going forward and we see a lot of demand for it. So, no real updates on that other than lots of people taking advantage of it.
+
+And at this point, we really haven't pushed on monetizing as people just try to get their sea legs and get through this pandemic.
+
+Walter Pritchard -- Citi -- Analyst
+
+Great. And then on SMB, how would you articulate the mix of the business or success you're seeing incrementally in that market? A little hard to tell on the -- customer count has been great and it doesn't look like they're getting that much smaller, but wanted to see where you feel like your progress is there?
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+Well, I'll let Burt jump in here, too, as well. But I think just that the broad strokes level, we've had a lot of success in the SMB market, I can tell you. We've got a very well refined inside selling motion combined with the trial. We've been able to help customers through time of needs where they've been using legacy technologies and have been hit really hard by ransomware.
+
+So we've done really well in that environment. And again, we continue to, I'd say, make great strides in how we market to those SMB customers and I don't know, Burt, is there anything else that you want to --
+
+Burt Podbere -- Chief Financial Officer
+
+Yeah. No, thanks, George. Yeah, sure. The one thing I'll add is, of course, is that SMB integral business is still the smaller portion of our business.
+
+We're growing across the board so well that it will remain there for a little bit. I think the strength -- and that talks to more on the strength of our strong enterprise growth and some of these deals we're able to land. In this quarter, obviously, we had an outside deal, but we're seeing the velocity of our SMB space get -- pick up. And I think it talks to the fact that frictionless go to market that we've created and a really favorable competitive environment, which is driving that growth, both on the enterprise level and on the SMB level.
+
+Walter Pritchard -- Citi -- Analyst
+
+Thank you.
+
+Burt Podbere -- Chief Financial Officer
+
+You're welcome.
+
+Operator
+
+Thank you. [Operator instructions] Our next question comes from Brad Zelnick of Credit Suisse. Your line is open.
+
+Brad Zelnick -- Credit Suisse -- Analyst
+
+Great. Thanks so much for taking the questiona and congrats once again to all of you. George, I wanted to ask about how customers are deploying Falcon in conjunction with legacy and even newer SIM and observability platforms? You know, for example, Elastic acquired an endpoint capability and I totally get your value prop extends well beyond endpoints. But how do you think about these worlds aligning or even converging?
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+Well, we've got customers that have different technologies in their environments and they may have something where we're running side by side. We may replace a lot of technologies that are in their environment. We may run side by side and then replace a bunch of technologies. It really depends on the customer and their -- their cycle and when their subscriptions run out, things of that nature.
+
+The beauty of the technology is that it's really all API driven. So if a customer needs to plug things together, get data out of our system, you know, we believe in best-of-platform approach that can be plugged into other technologies out there and we're open, right? So we realize there's other security tools that are out there and we'll work with others. But at the end of the day, once we get in, even with one module, we know we have a very high conversion rate in many other modules because of how easy it works, easy deploy, efficacy, etc., so it depends customer by customer. But overall, it's a matter of getting into a customer with either one or more module and then being able to expand that out.
+
+Brad Zelnick -- Credit Suisse -- Analyst
+
+I appreciate the answer. Thank you so much, guys. Be well.
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+Thank you.
+
+Burt Podbere -- Chief Financial Officer
+
+Thanks, Brad.
+
+Operator
+
+Thank you. Our next question comes from Fatima Boolani of UBS. Your line is open.
+
+Fatima Boolani -- UBS -- Analyst
+
+Good afternoon. Thank you for taking the questions. George, maybe one for you just on the [Inaudible] topic of go to market and go-to-market efficiency. I did want to drill in on the Okta, Proofpoint, and Netskope partnership.
+
+The depths of technical integration there is pretty clear, but I'm wondering if you have a formalized or joint go-to-market motion in place where there are shared economics? And just to kind of extend that out, any tangible go-to-market successes -- successes you've seen in the field kind of going to market together? Or certainly anything that you're seeing in the pipeline that kind of gives you confidence that this is the right combination of partners.
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+Sure. Well, I would say we're still in the crawl, walk, run stage, and there's no shared economics at this point, but what we're really focused on is getting the best outcome for customers and putting best-of-breed platforms together. I think what we've seen over time is that customers aren't interested in building things. They're interested in assembling, if you will, taking a CrowdStrike and Okta and Proofpoint and just putting them together, and I think that's important.
+
+So we've got the integrations there and a big part of what we're doing as well for things like Okta is helping to drive Zero Trust initiatives, right, where the endpoint really has a view of what's happening and an idea of what's happening from an identity perspective. That's really important for a lot of these identity brokers, if you will. So, I mean, overall, it's been very, very well received by customers. A lot of joint customers that are using all these technologies and they're looking for vendors to be able to come up with solutions that just seamlessly work together and share information, and that's really what we're focused on.
+
+Fatima Boolani -- UBS -- Analyst
+
+Appreciate the color. Thank you.
+
+Operator
+
+Thank you. Our next question comes from Gray Powell of BTIG. Your line is open.
+
+Gray Powell -- BTIG -- Analyst
+
+Great. Thanks for taking the question. Yeah, so I'll be quick. You know, I think with the trend to work from home, just about everybody knows the companies had to go out and they had to buy more laptops and the device footprint have increased.
+
+Just roughly speaking, a ballpark number, by how much do you think the endpoint footprint at your typical customer has increased over the last six months? And then, where do you think customers are with that spending cycle? Is there still more to go? Or do you think they're where they need to be?
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+Well, it's a good question. I don't know that I have an exact answer. We have seen accelerations in companies buying laptops. We've seen a great uptick in mobile protection.
+
+We've done some really big deals on the mobile side as well, where organizations couldn't afford maybe laptops, so they bought some lower-cost mobile devices. And I think overall, that sort of expansion is one way to look at it. But I think you also have to look at it in combination for every asset they actually create or new asset they buy, how many new cloud instances are they spinning up to support those assets? And what we've seen is that there is a pretty big increase in just all the cloud workloads as these -- you may buy a laptop and add many more cloud instances. So it's hard to -- it depends on the company and it's hard to pin down.
+
+But overall, as I said before, I think it really is a sustainable trend that these devices, they're not going to go away. They bought them and they're not going to go away and they're going to probably buy more of them. But at the same time, they're also putting more in the cloud and all of those cloud workloads need protection as well.
+
+Gray Powell -- BTIG -- Analyst
+
+Got it. All right. Thank you very much.
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+OK.
+
+Operator
+
+Thank you. Our next question comes from Shaul Eyal of Oppenheimer. Your question, please.
+
+Shaul Eyal -- Oppenheimer and Company -- Analyst
+
+Thank you. Good afternoon, guys. Congrats on the quarterly performance and improved outlook yet again. George, question on -- on Microsoft.
+
+You know, we keep hearing about them advancing within the security arena with a growing focus on some categories, endpoint, identity, email, and some other included. How do you see their advancement? And has anything meaningfully changed from Microsoft's perspective in that regard?
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+Well, again, Microsoft is still primarily a signature-based legacy AV product. And they certainly made some strides, but I think fundamentally, you've got a lot of legacy tech and then there's -- got some acquisitions thrown in there. And what we've seen in the field is that customers want, a single agent, a solution that works across, not just Windows but across Linux and Mac seamlessly, and a company that's really focused on stopping breaches. And you know, we've seen a lot of customers that just are looking for a church and state and there's so many Microsoft patches and vulnerabilities that have come out, I think, 11,000 security issues just from May through July alone that they're looking for solutions to help deal with some of that and I think they're looking for church and state.
+
+So yeah, you know, certainly, they've got some offerings there, but a lot of it is very complex with multiple consoles and harder to really operationalize and I think a lot of people [Inaudible]
+
+Shaul Eyal -- Oppenheimer and Company -- Analyst
+
+Understood. Thank you.
+
+Operator
+
+Thank you. Our next question comes from Andrew Nowinski of D.A. Davidson. YOur line is open.
+
+Andrew Nowinski -- D.A. Davidson -- Analyst
+
+OK. Thank you and congrats on the nice quarter. You spoke a lot about cloud workloads today and I understand it's based on metered billing versus on a per endpoint basis. But can you give us any more color on the revenue contribution from cloud workloads relative to the revenue contribution from your traditional endpoints? And then, where would you rank cloud workloads on the list of your top revenue growth drivers going forward?
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+Well, we haven't put out anything specific on actual numbers and cloud workloads. And just to be clear, we have the ability to bill on a metered billing basis, but we also have the ability to leverage the traditional model we have, and we have companies that do both, right? So it's not one or the other. It's actually both. But I would say, in general, when we look at the opportunity in cloud, I really think we're just scratching the surface.
+
+I don't -- I haven't run into too many CIOs or folks in technology that believe that cloud is going to slow down anytime soon. In fact, really, what we're seeing is we're sort of staring at 2023's digital transformation plan and we're looking at it in 2020, right? They've just -- everything has been accelerated. And you know, as I said earlier, there's just a lack of protection in those environments and companies have really figured out they have to go through a security transformation before they can actually get their digital transformation off the ground that support it.
+
+Andrew Nowinski -- D.A. Davidson -- Analyst
+
+Got it. Thanks, George.
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+Thanks.
+
+Operator
+
+Thank you. Our next question comes from Matt Hedberg of RBC Capital Markets. Your question, please.
+
+Matt Hedberg -- RBC Capital Markets -- Analyst
+
+Oh, hey, guys. Thanks. George, regarding the CrowdStrike Store, you added a number of applications this quarter, including Illumio. I'm wondering, can you talk about the longer-term strategy and really monetization opportunity of the Store versus your core platform?
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+Yeah, sure. I think Illumio is a great example of what we've been able to do and really what we've been able to create. It's really more than a store. You can think about it as endpoint PaaS, right, Platform-as-a-Service, where we've got very valuable beachfront real estate, which happens to be these endpoints and workloads, and customers don't want yet another agent.
+
+So our Store partners can take advantage of the infrastructure we built, the micro services, APIs, the workflows, and instead of putting out yet another agent, they've leveraged our infrastructure. You know, we get paid for that. And ultimately, it's a great win for the customer, not another agent because they're leveraging what we have and a seamless integration for other capabilities. In the case of Illumio, they're -- they're helping to prevent lateral movement based upon some of their expertise in micro segmentation space.
+
+So you know, we're 14 partners today. We continue to grow that out. And again, it's been very strategic to us and we'll look to -- to really harvest and monetize that in future -- in future years. But right now, it's about solving problems for customers and making it really sticky.
+
+Matt Hedberg -- RBC Capital Markets -- Analyst
+
+Thank you.
+
+Operator
+
+Thank you. Our last question comes from the line of Gregg Moskowitz of Mizuho. Your line is open.
+
+Gregg Moskowitz -- Mizuho Securities -- Analyst
+
+All right. Thanks very much and thanks for taking the question. George, just getting back to the competition, you called out some interesting customer case studies. But more broadly, if you were to look at just the rate and pace of displacement activity in terms of what you're seeing and hearing from your sales force, from your channel, and just kind of look at that over the past few months, has that shifted at all? Has that sort of accelerated as it relates to competing against both legacy, as well as, more next-gen type solutions?
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+Yeah. It's been favorable. It continues to remain favorable. Obviously, there's a lot of share donors out there.
+
+We made substantial gains in the latest IDC report in terms of our market share and there's a lot of donors, right? It's certainly Symantec, but a lot of other donors, including next-gen players, you know, when they're going through their renewal cycle. So, you know, overall, it's actually, I think, been a -- been a great market for us. And customers, again, are looking for that consolidation play, reduction of agents, reduction of cost, and better outcomes and that's what we're able to deliver.
+
+Gregg Moskowitz -- Mizuho Securities -- Analyst
+
+Terrific. Thank you.
+
+Operator
+
+Thank you. At this time, I'd like to turn the call back over to George Kurtz for closing remarks. Sir?
+
+George Kurtz -- President, Chief Executive Officer, and Co-Founder
+
+All right. Well, thank you. We're -- we're excited about the quarter and we look forward to talking to everyone next quarter. And we certainly want to wish everyone well and please stay safe, and we'll talk soon.
+
+Thank you so much.

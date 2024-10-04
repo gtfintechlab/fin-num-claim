@@ -1,0 +1,152 @@
+Public
+Transcript
+Video interview with ASML CEO Peter Wennink
+Q4 FY 2021 results 
+January 19, 2022
+Q4 2021 & FY results 2021
+Mr. Wennink, can you give us a summary of the fourth-quarter and full-year results in 2021?
+Yes, both were very good. To start with Q4, sales about €5 billion. That’s in the midpoint of our guidance.
+Our DUV shipments were a bit light. They were basically the result of the effects of the logistics center and 
+the supply chain issues that we announced in Q3. But that was fully compensated by EUV revenue and by 
+our Installed Base revenue, and specially the productivity upgrades that we were able to ship to our 
+customers. Our customers are in bad need of extra capacity. So there was a big demand and we were able 
+to ship. So that was good. 
+For the full year, about 35% higher than 2020 ending at €18.6 billion of sales. Which was good. Installed 
+Base Management was very good, like I said earlier, €1.5 billion of sales. Driven by productivity 
+enhancement packages as we call them, Installed Base options to give our customers extra wafer capacity. 
+For the total year, about €5 billion. That’s about 27% of our total sales. On the gross margin, because of the 
+productivity enhancement packages, which is all software, very good gross margin. Just over 54% in Q4 
+and for the total year, a record of 52.7%. 
+Net income as a result of that: good, €1.8 billion in Q4. €5.9 for the total year. If you look at the year and you 
+want to reflect on the year, I think you also need to look at the order intake. Order intake in Q4 was high,
+€7.1 billion. You can say only €2.6 billion in EUV, but we’ve had very strong EUV order intake throughout
+the year, which includes one High-NA tool. That means that we had €4.6 billion of DUV orders in Q4. Just a 
+reflection of where the market is today. There is a significant demand for our entire product portfolio, both 
+DUV and EUV, mature and advanced. Over €26 billion of order intake throughout 2021, just under half 
+EUV. The other half is DUV. Just a reflection again of this very widespread demand for our products across 
+all technologies, our entire product portfolio. So in summary, both Q4 and 2021, a very good year. 
+Q1 and Full Year 2022
+When we look at the beginning of this year your revenue guidance for Q1 is quite low. 
+What’s the reason for that?
+I can understand the question and, as a matter of fact, it’s not at all as bad as it appears. It has to do with 
+revenue recognition. Basically, it is driven by the fact that we want to reduce cycle time. The shorter the 
+cycle time is, the more we can ship to our customers. What we used to do is to recognize revenue when we 
+accept our systems, the sign off of the systems in our factory. 
+Public
+That acceptance procedure takes a couple of weeks. Sometimes three to four weeks. We actually skip that,
+and we ship the system to the customer’s site, and we do the acceptance test there. Which actually means 
+there is only one acceptance test and that is at the customer site. It means you defer, you delay the 
+revenue. If you then look at the planned shipments for this quarter, just the sales value of those shipments
+is anywhere between €5.3 and €5.5 billion which is a very high number. If you then take into account that 
+we had some ‘fast shipments’ as we call them in Q4 of last year, so we will recognize about €300 million in 
+Q1 of 2022. But we’re also deferring or shifting about €2 billion of revenue into the next quarters of 2022. So 
+we take the combined effect, it’s all about revenue recognition. I would say the booked revenue of those 
+shipments in Q1 is then between €3.3 and €3.5 billion, with about 49% gross margin. 
+That explains Q1. What are your expectations for the full year 2022?
+2022 is going to be a good year. We expect about 20% growth as compared to 2021. Which is a good 
+number because you have to take into account that we also plan for fast shipments by the end of this year. 
+So you remember, revenue will shift into 2023. We currently think about six EUV systems will be fast 
+shipped as we call it. And if you take that into account, if you would add those delayed revenues on to the 
+20%, then the growth of the shipment value will be about 25% and not 20%. But the recorded revenue, as 
+we call it, will be about 20% growth.
+You are operating in a very high-demand environment at the moment. It’s all about supply and 
+maximizing output. What are your expectations with regard to EUV and DUV for this year?
+On EUV we’ve said it before – we still have an expectation to ship about 55 EUV systems. But like I said 
+before, we currently also expect to fast ship about six systems for which the revenue will move into 2023. 
+So we ship 55, about six will be revenue recognized in 2023. The combined effect of that will mean an EUV 
+growth, a revenue growth of about 25%. 
+On DUV, also when you look at the order intake, DUV is particularly strong. It’s across all industries:
+Memory, Logic. A very strong DUV demand driven by the chip shortage everybody knows about. We will 
+probably see about a 20% growth of our DUV business in 2022 as compared to 2021. 
+And Installed Base, despite the fact that we had a very strong year in 2021 with many pull-ins of installed 
+base options to increase more wafer capacity, we still expect 2022 to grow about 10%.
+How does this all translate into your different market segments for this year?
+Both Memory and Logic, given the demand situation which exceeds our capacity, it’s not a surprise that also 
+Logic will be very strong. Driven by the underlying secular trend of the increased demand for more mature 
+products, for advanced products, Logic will grow about 20%. 
+Also on Memory, DRAM specifically, very high utilization. So there is not much space left in terms of extra 
+wafer capacity because our system utilization is very high. The expectation is that the bit growth in, for 
+instance, DRAM will be high teens. Well, there is only one way to get those extra bits out and that is to 
+Public
+basically ship more systems, so increase wafer capacity. So we expect Memory growth, as compared to 
+2021, this year to be about 25%.
+Challenges
+It all sounds that also 2022 will be a very good year for ASML. What challenges are you facing at 
+present?
+The biggest challenge that we currently see is that the demand significantly exceeds our capacity. I think it’s 
+unprecedented. I have never seen this before. I think it has to do with a couple of things. It’s the secular 
+growth trend. It’s the drive for more semiconductors to support the internet of things. It’s the disturbances as 
+a result of Covid. All the reasons why the demand is so much higher than our capacity. And that means, if 
+you are at maximum capacity, that you have to be very careful and very much monitoring any disturbances. 
+Because, you know, if there is a disturbance you don’t have any buffer left. Because you are at maximum 
+capacity. 
+So there are three things that we are really looking at. And one is Covid. Covid, we cannot predict it, but it is 
+still there. The infection rates around the globe are shooting up and it will inevitably also lead to some 
+absenteeism that we have. People do not get infected in a cleanroom, but the infections happen at home. 
+Still, it will affect you. 
+Secondly, it is the supply chain. There are disturbances. You just open the papers, there are shortages and
+supply-demand imbalances everywhere. We need to manage that very closely. And third, it is the 
+workforce. We are ramping our capacity significantly. Which also means people. We hired close to 6,000
+people in 2021. But you know, those people need to be trained, they need to get up the learning curve, and
+that will take time.
+What are you doing to address these challenges?
+Three things. With our customers, it’s all about getting wafers out there. More wafer output. This is why 
+we’ve turned into fast shipments to basically say, if you can reduce the cycle time by not doing acceptance 
+tests for weeks in our factory, basically emptying the production cabin three or four weeks earlier, you can 
+output more systems. So that’s what we are doing. So together with our customers we’ve taken the decision
+to do fast shipments. Next to that, it’s Installed Base improvements. Hardware and software options to get 
+more wafers out. 
+That’s what you do together with your customers. It leads to delay of revenue, but it is not a problem 
+because that will easily be caught up one or two quarters later. 
+And then with our suppliers. There are supply disturbances – not only in the semiconductor industry, they 
+are everywhere. So what do you do? You stay on top of each other. Basically very closely monitoring 
+Public
+everything that goes on. So any disturbances are recognized soon. Then you take action and corrective
+measures to do that. So it means a very close collaboration between the supplier base and ASML.
+And the last one, Covid. We have all the protective measures in our factories and in the company. But still 
+you know, it is a pandemic and like I said, most infections happen in the private space and will also happen 
+to us. This is something which we have to monitor very closely and see how we can basically support our 
+output with flexible working schedules. 
+On top of this, you started the new year with a fire at ASML Berlin. What’s the current status?
+Yes, that wasn’t a good start of the year, clearly. The fire happened in one part of the factory. There are 
+several buildings there. We were able to put the fire out in a couple of hours, but still there was significant 
+damage. Now, I must say kudos to the ASML Berlin people, and the people here in Veldhoven and in 
+Wilton. With a lot creativity, we are where we are today. Which is for DUV, although there were some initial 
+disturbances, we don’t think there is going to be any impact on our output for 2022. Where the fire 
+happened, it was in the area where we make the EUV wafer clamp, which is a very complex but very 
+significant module that goes into our EUV systems. But because of the hard work and the creativity, we 
+currently believe that we can manage the situation and that we will not see a significant impact on our EUV 
+output in the year 2022. 
+EUV High-NA
+Can you give us an update on your EUV High-NA?
+High-NA is the next big promise. Well, it’s moved beyond a promise. We are executing. We are executing 
+the first High-NA tools in our factory. We received the fifth EXE:5000 (High-NA) order for shipment basically
+up to and including 2024. We now have five in the orderbook. As a matter of fact, in Q1 of this year, so not 
+last year but Q1 2022, we received the first order for the EXE:5200. Which is the next generation highvolume manufacturing tool for EUV which will be launched in 2024. It will have improved lithographic 
+performance and higher productivity. So that’s the promise for the second half of this decade in terms of 
+high-volume manufacturing.
+Capital allocation 2021
+Let’s have a look at your capital allocation. Your dividend increase is quite large. Can you 
+elaborate?
+Let’s be clear about the capital allocation policy. First, we will use our free cash flow to support the 
+business. We will invest significantly in our capacity, in our capacity in the supply chain. We will invest 
+significantly in R&D, given the high growth profile that we have. But when we’re done, we’ll pay dividend. 
+We’ll pay growing dividend. We will propose to the general meeting of shareholders to increase the dividend 
+to €5.50. That is the total dividend for the year 2021, for which of course we paid an interim dividend in Q4
+Public
+of 2021. So that’s a significant increase in dividend and next to that we keep doing share buybacks. We 
+basically ended the previous program, by buying back €4 billion which is the last part of the previous 
+program. And then we started a new program which we announced last year. It’s a €9 billion program, of 
+which we already bought back about €4.6 billion. 
+Long-term outlook
+To close off, do you expect strong demand to continue beyond 2022?
+Absolutely. I said it before, we are looking at the secular growth trend and we talked about this extensively
+during our Capital Markets day at the end of last year. The growth profile of this industry is impressive. The 
+semiconductor industry is planned to double in size to a trillion dollars by the end of this decade. And of 
+course this will also have an effect on our business. So what do we do? And I have to admit, we as an 
+industry, us and our customers and their customers, we have underestimated the long-term growth profile of 
+the company. So we need to catch up. How do we do that? We build capacity. And that is what we are very 
+much focusing on. Building capacity at ASML, but also in the supply chain. To make sure that we can 
+significantly increase our output both for DUV and for EUV and for our metrology and measurement 
+systems – basically across our entire product line. So, bearing that in mind, I’m even more optimistic about 
+the long-term growth profile of this company.

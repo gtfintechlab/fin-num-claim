@@ -1,0 +1,129 @@
+Q1.2019 Financial Results - ASML
+1
+ASML reports EUR 2.2 billion sales at 41.6% gross margin in Q1
+2019 view unchanged
+VELDHOVEN, the Netherlands, April 17, 2019 - ASML Holding N.V. (ASML) today’s Investor Call - 2019 firstquarter results.
+Peter Wennink
+Thank you Skip. Good morning / good afternoon ladies and gentlemen and thank you for 
+joining us for our Q1 2019 results conference call.
+Before we begin the Q & A session Roger and I would like to provide an overview and some 
+commentary on the first quarter, as well as provide our view of the coming quarters. Roger 
+will start with a review of our Q1 financial performance with some added comments on our 
+short-term outlook. I will complete the introduction with some additional comments on the 
+current business environment and on our future business outlook.
+Roger if you will
+Roger Dassen
+Thank you, Peter and welcome, everyone.
+I will first highlight some of the first-quarter accomplishments and then provide our guidance 
+for the second-quarter of 2019.
+Although this was a modest quarter, in absolute numbers, we did report both sales and gross 
+margin above our guidance. Q1 net sales came in at 2.23 billion Euros, slightly above 
+guidance driven by an additional EUV shipment in the quarter. Net system sales of 1.69 
+billion Euros was more weighted towards Logic at 60 percent, with the remaining 40 percent 
+from Memory, the same split as previous quarter. We reported EUV system revenue of 371 
+million Euros from 4 shipments.
+Installed Base Management sales for the quarter came in at 540 million Euros, which was 
+slightly lower than guided, due to lower upgrade business.
+Gross margin for the quarter was 41.6 percent, which is slightly higher than the 40% guided, 
+due to a favorable DUV mix more than compensating for the gross margin impact of one 
+additional EUV system.
+Overall R&D and SG&A expenses came in a little lower than guided, with R&D expenses at 
+473 million Euros and SG&A expenses at 121 million Euros.
+Turning to the balance sheet, 55 million Euros worth of shares were repurchased in Q1. We 
+ended last quarter with cash, cash equivalents and short-term investments at a level of 3.28 
+billion Euros.
+2
+Moving to the order book, Q1 system bookings came in at 1.40 billion Euros. Logic order 
+intake was 75 percent of total value with the remaining 25 percent from Memory, again 
+reflecting the strong logic demand expected this year. We took 3 new EUV orders in the 
+quarter.
+Net income in Q1 was 355 million Euros, representing 15.9 percent of net sales and an EPS 
+of 0.84 Euros, this was favorably impacted by a one-off tax benefit.
+With that I would like to turn to our expectations for the second-quarter of 2019.
+We expect Q2 total net sales between 2.5 and 2.6 billion Euros. Our total net sales forecast
+for Q2 includes around 600 million Euros of EUV system revenue, on 6 expected shipments 
+in Q2.
+We expect our Q2 Installed Base Management revenue to be around 700 million Euros.
+Gross margin for Q2 is expected to be between 41 - 42%, the lower margin EUV revenue will 
+be compensated by higher margin non-EUV business. We continue to expect further 
+improvements in gross margin in the second half driven by higher system sales, increased 
+field upgrades, shipment of higher margin NXE:3400C systems, as well as contribution of 
+EUV service revenue. This will provide a significant step towards our 2020 target of over 
+50%.
+The expected R&D expenses for Q2 are around 485 million Euros and SG&A is expected to 
+come in at around 125 million Euros. Our estimated 2019 annualized effective tax rate is 
+around 11 percent, because of a one-off tax benefit in 2019. We still expect our long-term 
+effective tax rate to be 14 percent.
+As we remain confident in our long-term growth, we will propose a 50 percent increase 
+versus last year in our dividend to 2.10 Euros per share at our annual shareholder meeting 
+which takes place on April 24th in Veldhoven. The dividend payment is valued at around 0.9 
+billion Euros. We still expect to execute the remaining 1.3 billion Euros of the 2018/2019 
+share buyback program this year with a weighting towards the back of the year.
+With that I’d like to turn the call back over to Peter.
+Peter Wennink
+Thank you, Roger.
+As Roger has highlighted, although it was a modest quarter, the results came in above our 
+guidance and we expect further strengthening in the coming quarters. There continues to be 
+volatility in the market due to the macroeconomic environment, hence some uncertainty 
+remains in the semiconductor industry. Our memory customers are going through a period of 
+rebalancing supply and demand with an expected improvement in their business conditions 
+over the course of the year. Our view of 2019 remains unchanged from last quarter, we 
+continue to expect overall growth in 2019, with increasing demand for our products as we 
+move through the year. The fundamental end market drivers clearly remain in place as 
+expanding end market applications continue to fuel the demand for high performance 
+compute and high-performance memory.
+Q1.2019 Financial Results - ASML
+3
+In memory, the NAND market continues to digest the high level of capacity additions over the 
+past few years. This digestion started last year and will likely extend through most of this 
+year. The DRAM market is also seeing softening in the near-term demand as they work 
+through an inventory correction. Based on our customers' view, we continue to expect 
+memory for our litho systems down around 20% relative to last year. Bear in mind, there is a 
+portion of this memory demand that supports new technology as well as new domestic 
+Chinese customers. This demand is clearly more strategic and is very likely to happen 
+independent of near-term global bit demand. If you remove these two components from our 
+estimated 2019 memory demand, you get a lithography spend for memory bit supply that is 
+30% lower than the comparable spend in 2018. This reduction in spend is significant and will 
+help in correcting the supply demand balance. On top of this, we have seen a significant 
+reduction in wafer output in the memory space. This quick reaction to the changes in the end 
+market demand is clearly different from what we have seen in earlier cycles and will also help 
+in correcting the inventory situation.
+The logic segment is expected to be the growth driver in 2019, with the majority of the 
+demand linked to technology transitions and production capacity for advanced nodes. We still 
+expect this logic business to be up around 50%, relative to last year, driven by DUV as well 
+as significant demand EUV.
+Furthermore, we still expect single digit percentage growth of Installed Base revenue.
+On the ASML product side let me start with an update of our EUV business.
+• In EUV, customers are starting production of the most advanced logic processes on 
+our NXE:3400B systems with plans to transition to higher productivity NXE:3400C 
+systems in the second half of the year. The first set of qualified NXE:3400C optics are 
+in our factory. These higher transmission optics will enable the higher throughput of 
+170 wafers per hour. We expect these systems will deliver the next level of cost 
+effective shrink in both logic and memory. We shipped 4 EUV systems in Q1 and are 
+on track to ship the planned 30 systems in 2019. 
+• In DUV, we continue to innovate in support of future nodes and new applications. 
+Driven by a continued high level of demand for dry products, we will bring the DUV 
+dry products to the high-performance NXT platform, starting with NXT:1470, planned 
+for delivery mid next year. We also see increasing demand for 200mm TWINSCAN 
+systems across all dry wavelengths and industry segments. For instance, in thin film 
+head manufacturing, we recently received an order for a special version of the 
+XT:1460K, which is a dry ArF platform, which is expected to enable the shrink 
+roadmap at a leading hard disk storage manufacturer. 
+• In our Applications business, our computational lithography deep-learning technology 
+has been adopted at several leading-edge customers. We continue to make progress 
+in e-beam technology and are on track to deliver a multi-beam system for this year for 
+R&D, with plans for commercial product shipments in 2020. With the announcement 
+of the acquisition of Mapper's IP assets in January, more than 100 former Mapper 
+employees accepted jobs from ASML and are now working on the development 
+roadmap of our e-beam and Applications products. 
+4
+In summary, despite uncertainty in the current environment, we continue to see market 
+demand that supports another growth year, with strengthening of both sales and profitability 
+quarter on quarter this year. Logic will be the primary driver of growth this year supported by 
+technology transitions and production ramp of the most advanced nodes. As discussed, 
+Memory includes more uncertainty, on the one hand because of the uncertainty of global bit 
+demand but on the other hand due to fast adjustment of production capacity, and therefore 
+presents both a risk and opportunity. Overall, our view of the business is largely unchanged 
+from last quarter. We are on track to achieve our 2020 targets with significant growth 
+potential beyond 2020.
+With that we would be happy to take your questions.

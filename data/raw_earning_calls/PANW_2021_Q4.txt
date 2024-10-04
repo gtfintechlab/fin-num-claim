@@ -1,0 +1,947 @@
+Corrected Transcript
+1-877-FACTSET www.callstreet.com
+Total Pages: 21
+Copyright © 2001-2021 FactSet CallStreet, LLC
+23-Aug-2021
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+2
+Copyright © 2001-2021 FactSet CallStreet, LLC
+CORPORATE PARTICIPANTS
+Clay Bilby
+Head-Investor Relations, Palo Alto Networks, Inc.
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc.
+Dipak Golechha
+Chief Financial Officer, Palo Alto Networks, Inc.
+Lee Klarich
+Chief Product Officer, Palo Alto Networks, Inc.
+.....................................................................................................................................................................................................................................................................
+OTHER PARTICIPANTS
+Saket Kalia
+Analyst, Barclays Capital, Inc.
+Keith Weiss
+Analyst, Morgan Stanley & Co. LLC
+Rob D. Owens
+Analyst, Piper Sandler & Co.
+Brian Essex
+Analyst, Goldman Sachs & Co. LLC
+Michael Turits
+Analyst, KeyBanc Capital Markets, Inc.
+Jonathan Ho
+Analyst, William Blair & Co. LLC
+Brent Thill
+Analyst, Jefferies LLC
+Gray Powell
+Analyst, BTIG LLC
+Matthew Hedberg
+Analyst, RBC Capital Markets LLC
+Joel P. Fishbein
+Analyst, Truist Securities, Inc.
+Keith Bachman
+Analyst, BMO Capital Markets Corp.
+Ben Bollin
+Analyst, Cleveland Research Co. LLC
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+3
+Copyright © 2001-2021 FactSet CallStreet, LLC
+MANAGEMENT DISCUSSION SECTION
+Clay Bilby
+Head-Investor Relations, Palo Alto Networks, Inc.
+Good day and welcome, everyone, to Palo Alto Networks' Fiscal Fourth Quarter 2021 Earnings Conference Call. I 
+am Clay Bilby, Head of Palo Alto Networks' Investor Relations. Please note that this call is being recorded today, 
+Monday, August 23, 2021, at 1:30 PM Pacific Time.
+With me on today's call are Nikesh Arora, our Chairman and Chief Executive Officer; and Dipak Golechha, our 
+Chief Financial Officer. Our Chief Product Officer, Lee Klarich will join us in the Q&A session following the 
+prepared remarks.
+You can find the press release and information to supplement today's discussion on our website at 
+investors.paloaltonetworks.com. While there, please click on the link for the events and presentations where you 
+will find the investor presentation and supplemental information.
+In the course of today's conference call, we will make forward-looking statements and projections that involve risk 
+and uncertainty and – that could cause actual results to differ materially from forward-looking statements made in 
+this presentation. These forward-looking statements are based on our current beliefs and information available to 
+management as of today. Risks, uncertainties and other factors that could cause actual results to differ are 
+identified in the Safe Harbor statements provided in our earnings presentation and in our SEC filings. Palo Alto 
+Networks assumes no obligation to update the information provided on today's call.
+We will also discuss non-GAAP financial measures. These non-GAAP financial measures are not prepared in 
+accordance with GAAP and should not be considered as a substitute for or superior to measures of financial 
+performance prepared in accordance with GAAP. We have included tables, which provide reconciliations between 
+non-GAAP and GAAP financial measures in the appendix to the presentation and in our earnings release, which 
+we have filed with the SEC.
+We have several upcoming events, including a virtual Analyst Day on September 13th, starting at 9:30 AM Pacific 
+Time. Nikesh Arora, our Chairman and CEO, along with members of the executive team, will provide an in-depth 
+review of the company, including growth strategies, financial objectives and capital allocation framework. 
+Management is also scheduled to participate in upcoming virtual investor conferences in September posted by 
+Citibank and Piper Sandler.
+And now, I will turn the call over to Nikesh.
+.....................................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc.
+Good afternoon, everybody, and welcome to Palo Alto Networks' Q4 conference call. I'm trying something new 
+today, so please bear with me. You just got an opportunity to see our ad campaign. You're the first people to see 
+it. We spent a lot of time working hard, trying to understand what our customers really want to see from us. And 
+the constant drumbeat we've got from them is, innovation at the forefront of cybersecurity. Our ad campaign 
+called We've Got Next amplifies the innovation that our teams have been delivering, and our promise that we will 
+be there with you as your partner. We've Got Next. I look forward to seeing this ad be the drumbeat for all of our 
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+4
+Copyright © 2001-2021 FactSet CallStreet, LLC
+broadcast media and covering our many platforms over time as we go out in the public domain and keep sharing 
+this with our customers.
+Moving on. As you all are well aware, we've had a series of cybersecurity events over the last quarter, against the 
+backdrop where we've seen supply-chain attacks, where bad actors try to hack into core infrastructure pieces, 
+which allows them access to enterprises or government systems. These vulnerabilities are being exploited by 
+ransomware actors. The ransomware threat continues to rise.
+Our Unit 42 team research shows that the average ransom demand in the first half of this year grew from $5.3 
+million, which is up 4 – 518% year-over-year. What these attacks are highlighting is the constant shortcomings of 
+enterprises and of government infrastructure, continuingly spurring demand and consolidation as companies 
+revalue their cybersecurity posture.
+It's against this backdrop that our platform approach is working. Three years ago at our Analyst Day, we set out 
+the strategy of the company on three fundamental tenets. One, the network will transform with the introduction of 
+the cloud. This has accelerated with the pandemic, with SASE and virtual firewalls leading the transformation. Not 
+only that, we supplemented our firewall platform strategy with software capabilities like DLP, IoT, SaaS visibility, 
+DNS security and SD-WAN.
+Our second insight was the cloud is going to be big and it's here to stay. We have now seven modules in our 
+cloud security platform, which is being used by over 75 Fortune 100 companies. And our third insight was, more 
+AI and machine learning will be needed to support the automation of our security platforms and our security 
+operating centers. Our Cortex platform validates that for us every single day.
+Underpinning this innovation strategy has been a flurry of product releases from Palo Alto Networks. When I 
+came to the company, we sat down and decided, what we needed to do was to get our innovation and product 
+strategy right. Something many cybersecurity companies have struggled to do is stay relevant. You can see from 
+this slide, we've gone from 13 major releases to 29 this year, tripling (sic) [doubling] our product release capability 
+over three years. Of these 63-odd releases, 11 of these – 64, sorry – 11 of these have been through acquisitions, 
+the other 53 have been done through organic innovation in the company.
+And this is not all. We're going to see a lot more innovation coming down the pike as we unfold this year. We will 
+tell you more about this in the Analyst Day.
+Our rapid pace of innovation is also being validated by the industry. If you look at this slide, we used to be 
+recognized by two – in two categories for leadership in cybersecurity. In FY 2021, we were awarded six different 
+accolades to validate that now we're leaders in six different categories. Our aspiration is to grow that category 
+leadership over this year, and hopefully, get into double-digits by the end of this year. So our pace of innovation is 
+alive and it continues.
+Breaking down into the three different platform pillars. Our network-driven pillar, which is being driven by SASE 
+and virtual firewalls. I know at the beginning of the pandemic, there was a huge debate, like how long is the workfrom-home trend going to last? Well, all I can tell you is, it's far from over as this is going to become the norm. 
+Hybrid work is about to become the norm, and SASE is going to lead that transformation.
+In this environment, all applications are going to need access to every app from any location. Only Palo Alto 
+Networks can provide this comprehensive capability with our consistent network security across all of our 
+platforms. We saw phenomenal number of large deals in this category. One of our largest deals was with a bank 
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+5
+Copyright © 2001-2021 FactSet CallStreet, LLC
+in the JAPAC region, where it was highly competitive and our customers spent over $10 million where Prisma 
+Access was a cornerstone of that strategy.
+After a phenomenal amount of growth in our SASE product category, we've seen our customer count grow by 
+50%, and now it's almost 2,500 customers. Also, 25% of these customers are net new to Palo Alto Networks, 
+which is great. Not only are our firewall customers buying products from Palo Alto Networks, but our many new 
+product capabilities are allowing us to penetrate the customer base even further.
+Beyond the initial demand received for Prisma Access in our SASE category, we've realized customers want 
+more capability. We recently announced autonomous digital endpoint monitoring – experience management –
+management sorry, ADEM, which is fast becoming a standard. We've realized that bundling the ADEM 
+capabilities with other capabilities in our Prisma Access allows us to uplift our Prisma Access deals over time by 
+25%.
+In addition to our SASE leadership, last quarter we introduced our fourth-generation hardware with high 
+performance and attractively priced appliances. The newly introduced PA-400, which is 10 times, 10 times the 
+performance of its predecessor, will expand our presence in the enterprise branch, SMB, and international 
+markets. Most recently in our quarter, a US convenience store chain that previously used us only as a corporate 
+infrastructure, deployed 400 – PA-400 Series to 2,300 stores.
+Also on the high end of our hardware strategy, we're beginning to start seeing refreshes. This has been a trend 
+which had been subdued. People were holding back, sweating their assets during the pandemic and we realized, 
+as the pandemic has eased up, as companies are starting to come back to work, they have seen volumes go up. 
+They have not created more infrastructure. As a result, we're seeing customers who are coming back, even in a 
+hybrid form, starting to do refreshes in the hardware category, which has led to the hardware growth we saw this 
+quarter, which has also underpinned some of the network-driven growth, or network platform-driven growth for us 
+at Palo Alto Networks.
+And last but not the least, we continue to maintain a leadership position in our virtual firewalls. We recently 
+launched our partnership with Google, powering their new Cloud IDS with our VM-Series.
+As you can see, continued acceleration of our software firewall business in its multiple form factors has allowed 
+us to deliver approximately 47% of FWaaP billings in the quarter, where we even saw hardware growth 
+accelerate. We finished our fiscal year 2021 with our software firewall and Prisma SASE next-generation security 
+ARR at (sic) [over] $425 million. As you will see, these numbers will add up to show that our NGS ARR for the 
+quarter was north of $1,180 million.
+Moving to our cloud platform, as you know, we caught this trend early, investing three years ago in the cloudnative security opportunity. You might have all seen the flurry of activity from venture capitalists trying to flood this 
+market with a lot more cloud security companies. We're delighted that they're validating our strategy, but we think 
+we're far ahead.
+A key measure we use for understanding how well our Prisma Cloud services are performing is the consumption 
+of our Prisma Cloud service. In Q4, we had 2 million credits consumed. This consumption is broadening beyond 
+our initial modules of Cloud Workload Protection and CSPM. We've launched IAM and WAAS modules. We 
+already have seen adoption by north of 100 customers in the quarter. Over one-quarter of the global – our Global 
+2000 customers are Prisma Cloud customers with total customers growing at 47%.
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+6
+Copyright © 2001-2021 FactSet CallStreet, LLC
+We're also excited that with our Bridgecrew acquisition, we have seen increased adoption of Bridgecrew as 
+customers shift left with cloud security. We're delighted with the results so far and the progress we're making in 
+integrating Bridgecrew to Prisma Cloud. And we continue to see very large deals with Prisma Cloud. Our top 
+three customers in Prisma Cloud committed over $40 million to bookings this quarter. Our largest deal was $20 
+million in Prisma Cloud, with a customer expanding Cloud Workload Protection and CSPM and adding 
+Bridgecrew for the entire cloud platform. Including our Marketplace VM- and CN-Series, our Prisma Cloud 
+business finished FY 2021 with ARR of (sic) [over] $300 million.
+Moving on to Cortex. In Cortex, we have 2,900 customers for our XDR Pro and XSOAR products, nearly doubling 
+year-over-year. We booked our very first over $10-million follow-on transaction for Cortex in the pharma industry. 
+Driven by the platform approach, our customer bought most of the platform, they want XDR, they want network 
+traffic analysis, they bought XSOAR.
+Today, we announced XDR 3.0. This expands our pioneering XDR service to cloud and identity-based threats, 
+giving organizations a single console for holistic analysis. Xpanse continues to innovate as the leader in the 
+emerging Attack Surface Management space, as well as delivering unique integrations with our Palo Alto 
+portfolio.
+In Q4, we released Xpanse capability that enables unknown cloud assets to be discovered and brought under 
+management of Prisma Cloud. We finished FY 2021 Cortex NGS ARR of over $400 million.
+And last but not the least, we're very excited about Unit 42. Unit 42 is our capability where we can actually 
+proactively support our customers. This is how we go from being a peacetime company that provides products to 
+our customers to a wartime ally when we are there for them when they need us. We launched proactive capability 
+last quarter in our Unit 42 team. Our business went up 11x in Q4 for the Proactive services capability.
+One of the key engagements we are experiencing is ransomware readiness. We have 39 ransomware readiness 
+assessments where we got engaged and we have 300 more in the pipeline. Over time, we expect these service 
+engagements to allow us to increase our product pull-through to our customers.
+You can see that our leadership signs where customers are integrating security and consolidating. As a company, 
+we've continued to focus on getting more presence in our customers and getting larger deals with them. I'm 
+delighted to say, we had 18 customers sign transactions over $10 million in the quarter. We had our first customer 
+that surpassed $100 million in their booked business during the fiscal year as they standardized for Palo Alto 
+Networks across the entire enterprise. And our Millionaire customers were up to 986 in Q4, approximately up 30% 
+for the third quarter in a row.
+The strategy is showing in our financial results. You can see we saw revenue acceleration in Q4 to $1.2 billion. 
+You also saw that our billings went up to $1.8 billion – $1.868 billion, was up 34% and our NGS billing (sic) [ARR] 
+of $1.18 billion was in excess of our guidance, also delighted that our FY 2021 performance for ClaiSec had an 
+ARR of $734 million and revenue of $602 million. Going into FY 2022, we're further aligned around our One Palo 
+Alto Networks strategy where we see the benefits of being able to cross-sell our platform.
+I also am very delighted to say we had our first $2-billion quarter ever. I know you see the billings of $1.868 billion, 
+but if you look at the difference between our RPO and our revenue, we actually did more than $2 billion of booked 
+business this quarter. It's kudos to our team out there in the field and our customers who trust us with their 
+cybersecurity.
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+7
+Copyright © 2001-2021 FactSet CallStreet, LLC
+During Q4, it is clear that we continue to see momentum in our business. We saw product revenue accelerated at 
+Palo Alto Networks. This is revenue, which we believe, will sustain into Q1 because we are seeing the refresh 
+come in, and we didn't ship everything that we saw in our product business in Q4. We're not able to. We've also 
+seen phenomenal growth in our cross-platform adoption. You can see that customers – 43% of our customers 
+purchase all three of our platforms, 28% purchase two platforms and 29% purchase one platform. What's 
+interesting is, for customers that have acquired two of our platforms, deal sizes were three times the deal size for 
+single platforms.
+Also, for Global 2000 customers that acquired all three of our platforms, some of the deals were 14 times the deal 
+size of the largest single platform deals. So, it's very interesting to watch. Our platform approach of consolidation 
+is beginning to show signs of success as we are able to go convince our customers that they should be deploying 
+more than just one of our platform categories.
+It is clear to us that our transformation is working. In September 2019 at our Analyst Day, we provided FY 2022 
+targets. Our just-released FY 2022 guidance materially exceeds the FY 2022 targets we set back in 2019, as you 
+can see.
+As Dipak will highlight, our total company growth for revenue is the mid-20s, ahead of our prior 20% CAGR target 
+for two years ago. Our business is transforming faster. NGS is growing faster. I look forward to sharing new 
+guidance for you for the next phase of Palo Alto Networks over the next three years at our Analyst Day in 
+September, but it's clear that over the last three years, our product and strategic transformation to being an 
+innovator in cybersecurity is working. Now, we have to share the strategy over the next three years of how we 
+continue to scale this business effectively and efficiently.
+Multiple drivers give us conviction in objectives for FY 2022 and beyond. Just to lay it out for you, how do I see 
+growth for FY 2022 and how do I see us scaling into that growth. One, I believe there's some pent-up hardware 
+demand, but we're going to see that come through in Q1 and the rest of FY 2022. We've also launched new form 
+factor hardware and we are very excited about the initial response by the customers to this new category of 
+hardware.
+We also continue to benefit from the cloud adoption around the industry, and we think that benefit continues going 
+into FY 2022. As I said, work-from-home is a new normal. It's not something that's over. I don't think the SASE 
+train has barely left the station. I think they have a lot of room to go, not just for FY 2022, but also beyond. And 
+last but not the least, I don't believe manual processes can keep up with the accelerating pace of sophistication 
+for cybersecurity. So, I believe there is tremendous growth going forward both for the cybersecurity industry and 
+for Palo Alto Networks.
+On the scale front, we introduced the concept of speedboat three years ago. Our speedboat model is working 
+well. We continue to iterate and improve it for growth and productivity. We also see our multiple platform success. 
+We believe there is room for synergies as we get into a more cohesive sales motion as we start to see these 
+things working.
+There's also some products which we have not yet launched, which you will see us launch during the course of 
+the year and we hope, as we launch those products, there you're going to start seeing the benefits of our 
+innovation and investments during this year and following years. And our journey to the cloud is well underway, 
+but we also have much to go in terms of optimizing our cloud spend, so we believe there's opportunity to create a 
+margin expansion over the long term. We also believe there is sustainable growth in cybersecurity industry.
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+8
+Copyright © 2001-2021 FactSet CallStreet, LLC
+We expect to see these drivers of our top line combine with a continued but moderate pace of investment in FY 
+2022, as we plan to add fewer employees in 2022 than we did in FY 2022. Part of this is our expectation that 
+acquisitions will be incremental versus substantive in the coming year.
+Beyond FY 2022, we expect to grow operating income faster than revenue. We will update investors further on 
+this at our September 30 Analyst Day. Ending where I started, you can see why we're excited to talk about We've 
+Got Next as we head into FY 2022.
+With that, I will turn over the call to Dipak to talk about the details of our Q4 performance and our guidance.
+.....................................................................................................................................................................................................................................................................
+Dipak Golechha
+Chief Financial Officer, Palo Alto Networks, Inc.
+Thank you, Nikesh, and hello, everyone. Before I begin, please note that all comparisons are on a year-over-year 
+basis unless specifically noted otherwise.
+We delivered results ahead of our guidance across all metrics as we continue to grow and transform our 
+business. In Q4, we saw sequential revenue acceleration driven by strength in our hardware appliance business 
+and in our Next-Generation Security portfolio. We also continued to grow billings and our remaining performance 
+obligation ahead of revenue, as we build future predictability with a higher mix of recurring revenue.
+As a reminder, billings is total revenue plus the change in total deferred revenue, net of acquired deferred 
+revenue.
+In the fourth quarter of 2021, we delivered billings of $1.87 billion, up 34% and well ahead of our guided 22% to 
+23% growth. The size of the deals with our large strategic customers grew and our total customer count 
+expanded, with over 2,500 customers added in the quarter. Q4 revenue of $1.22 billion grew 28% and was above 
+the high end of our guidance range. Growth was driven by strong demand across all geographies and major 
+product areas.
+Total deferred revenue in Q4 was $5.02 billion, an increase of 32%. The remaining performance obligation, or 
+RPO, was $5.9 billion, increasing 36%. We believe that RPO adds meaningful insight into our backlog as it 
+includes both prepaid and contractual commitments from customers. By geography, Q4 revenue growth was 
+strong across all regions. The Americas grew 29%, EMEA was up 25% and APAC grew 28%. Our hardware 
+appliance business accelerated in Q4, driving product revenue of $339 million, growing 11% and contributing 28% 
+of revenue.
+Customer reaction to our refresh of the 400 Series and 5400 Series appliances was positive. We saw strength 
+overall in network and data center refresh, and appliance pull-through from customers standardizing on our 
+platform.
+Subscription revenue of $535 million increased 37%. Support revenue of $345 million increased 35%. In total, 
+subscription and support revenue of $880 million, increased 36% and accounted for 72% of our total revenue.
+Gross margin was 75.3%, up 100 basis points as compared to last year, driven by improvements in both our 
+product and services gross margin.
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+9
+Copyright © 2001-2021 FactSet CallStreet, LLC
+While the top line outperformed, operating margin was 17.5%, down year-over-year as expected, as some preCOVID expenses returned in the fourth quarter, and we continued to hire top talent, adding head count in our goto-market and engineering organizations. We ended the fourth quarter with 10,473 employees.
+Net income for the fourth quarter increased 12% to $162 million, or $1.60 per diluted share. Our non-GAAP tax 
+effective – effective tax rate was 22%. GAAP net loss was $119 million or $1.23 per basic and diluted share. For 
+the full year, billings of $5.45 billion grew 27% and total deferred revenue was $5.02 billion, an increase of 32%. 
+Fiscal year revenue of $4.26 billion grew 25% and operating margin of 18.9% was up 130 basis points, as 
+COVID-related impacts led to lower operating expenses throughout the year. Non-GAAP net income increased 
+27% to $614 million or $6.14 per diluted share.
+Turning now to the balance sheet and cash flow statements, we finished July with cash, equivalents and 
+investments of $3.8 billion. Days sales outstanding, was 74 days, a decrease of seven days from a year ago, 
+driven by a combination of strong collections and improved billings linearity. Cash flow from operations was $326 
+million. Free cash flow was $298 million, as compared to $302 million last year with a margin of 24.5%. For the 
+full year, free cash flow was – of $1.39 billion was up 69% with a margin of 32.6%. Adjusted free cash flow for the 
+year was also $1.39 billion, up 43% with a full year margin of 32.6%.
+Cash conversion remains an important part of our framework in supporting total shareholder return.
+Our Firewall as a Platform, or FWaaP billings grew 26%, reflecting another strong quarter, as we continue to grow 
+faster than the market. While we saw an increased contribution to Firewall as a Platform growth due to increased 
+product demand, a majority of Firewall as a Platform growth continues to be driven by software firewalls, including 
+our VM-Series and Prisma SASE.
+Next-Generation Security, or NGS ARR, exited the year at $1.18 billion, exceeding our original guidance of $1.15 
+billion. Within NGS, we continue to see exceptional growth in our SASE and software firewall portfolio, as well as 
+strength in Prisma Cloud and Cortex.
+For ClaiSec, we were happy to have achieved results that were consistent with our fiscal year 2021 financial 
+goals. As we have gone through our fiscal year 2022 business planning and oriented the focus of the company 
+around One Palo Alto Networks, we wanted to ensure our metrics reflect this One Palo Alto Networks strategy. 
+We believe a focus on NGS ARR growth and our transformation metrics are the best measures of progress on 
+our strategy.
+In the appendix of our earnings slide deck, we have included the fiscal year 2021 results in NetSec and ClaiSec.
+Our capital allocation priorities are unchanged and aligned with the optimization of long-term shareholder return. 
+We remain focused on investments for organic growth and targeted value-creating acquisitions. We didn't close 
+any acquisitions in Q4, and at this time, we believe we have assembled the key pillars needed to execute on our 
+platform strategy. We expect only incremental M&A activity in fiscal year 2022, as compared to the recent past.
+Under our share repurchase authorization, during the quarter, we acquired approximately 846,000 shares on the 
+open market at an average price of approximately $388, for a total consideration of $328 million. Our board of 
+directors authorized an additional $676 million for share repurchase, increasing the remaining authorization for 
+future share repurchases to $1 billion expiring December 31, 2022.
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+10
+Copyright © 2001-2021 FactSet CallStreet, LLC
+Moving now to guidance and modeling points. For the first quarter of 2022, we expect billings to be in the range of 
+$1.29 billion to $1.31 billion, an increase of 19% to 21%. Revenue is expected to be in the range of $1.19 billion to 
+$1.21 billion, an increase of 26% to 28%. Q1 product revenue growth percent to be in the low double digits, we 
+are providing this transparency this quarter.
+Non-GAAP EPS is expected to be in the range of $1.55 to $1.58 based on a weighted average diluted count of 
+approximately 101 million to 103 million shares. For fiscal year 2022, we expect billings to be in the range of $6.6 
+billion to $6.65 billion, an increase of 21% to 22%.
+Revenue is expected to be in the range of $5.275 billion to $5.325 billion, an increase of 24% to 25%. We expect 
+Next-Generation Security ARR to be $1.65 billion to $1.7 billion, an increase of 40% to 44%. We expect product 
+revenue growth percent to be in the mid-single-digit to high single-digit range year-over-year. We expect 
+operating margins to be in the range of 18.5% to 19%.
+Our non-GAAP EPS is expected to be in the range of $7.15 million to $7.25 based on a weighted average diluted 
+count of approximately 104 million to 106 million shares. Adjusted free cash flow margin is expected to be greater 
+than 30% and we will report RPO and recommend this as a tracking metric as it captures the full value of our 
+contractual arrangements and is a good indicator of future revenue.
+Additionally, please consider the following additional modeling points. As I mentioned earlier, we hired 
+aggressively in the second half of fiscal year 2021, supported by confidence in our fiscal year 2022 outlook for 
+revenue and billings growth. With expenses from this investment flowing into the first half of fiscal year 2022 and 
+some return of COVID expenses, we expect operating income will be shifted to the second half of the year in 
+fiscal year 2022 as compared to fiscal year 2021, and we expect an approximate 43%/57% first half to second 
+half split during fiscal year 2022.
+We expect our non-GAAP tax rate to remain at 22% for Q1 and fiscal year 2022, subject to the outcome of future 
+tax legislation. We expect net interest and other expenses of $4 million to $5 million per quarter. We expect fiscal 
+year 2022 diluted shares outstanding of 104 million to 106 million shares. And for Q1, we expect capital 
+expenditures of $35 million to $40 million. For the fiscal year, we expect capital expenditures of $205 million to 
+$215 million, which includes approximately $40 million related to our Santa Clara headquarters.
+Finally, I would like to invite you to join us for our Virtual Analyst Day on September 13th, where Nikesh, myself 
+and others from our team will provide an update on our company and product strategy, financial outlook and ESG 
+plans.
+In closing, we are entering fiscal year 2022 with strong momentum. We're pleased with our operational execution 
+and organic growth prospects as drivers of continued momentum.
+With that, I will turn the call back over to Clay for the Q&A portion of the call.
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+11
+Copyright © 2001-2021 FactSet CallStreet, LLC
+QUESTION AND ANSWER SECTION
+Clay Bilby
+Head-Investor Relations, Palo Alto Networks, Inc. A
+Thank you, Dipak. [Operator Instructions] The first question will be from Saket Kalia of Barclays, with Keith Weiss 
+of Morgan Stanley to follow. Saket, you may ask your question.
+.....................................................................................................................................................................................................................................................................
+Saket Kalia
+Analyst, Barclays Capital, Inc. Q
+Okay. Great. Thank you, Clay. Thanks for taking my question here. Nikesh, maybe for you, lots of good stuff to hit 
+on in the quarter, but maybe I'll just focus on next year's billings guide to start. It was great to see, I think, the 
+guide of 21% to 22% billings growth next year. That's better than where you started fiscal 2021 in terms of billings 
+growth expectations, and of course, subsequently beat. Can you just talk about what's going into that higher 
+starting point for fiscal 2022 and maybe as part of that, how you're thinking about overall security spending in the 
+areas that Palo Alto [indiscernible] (29:33)? Thanks.
+.....................................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Well, Saket, thanks for your question. As you know, when we went into FY 2021, we were all looking at what's 
+happening with the pandemic. We were trying to figure out how the pandemic was going to impact security spend, 
+how the pandemic was going to impact our customers coming back to work. What we've realized in the course of 
+the last year that business must continue and in that context, customers have come back and realized this way of 
+working is fine, not only way of working in terms of creating productivity and delivering their services, but also this 
+way of working in terms of upgrading the IT infrastructure, and of course, staying ahead of the cybersecurity 
+threat landscape.
+So, in that context, we have a little more confidence going this year where we believe the customer is going to go. 
+Of course, the pandemic hopefully will ease itself out over the course of the next few quarters, but in that context, 
+we feel a little more confident and therefore, we've been able to understand what we can do as a business and 
+share that guidance with you.
+In terms of cybersecurity spend, as I said, the volumes of technology consumption have gone up in the pandemic, 
+not down. I don't think this is a one-time blip that's going to normalize. I think this is a new normal, and that new 
+normal needs to be protected and to be able to protect it effectively, you're seeing customers are looking at 
+consolidation strategies. I shared with you the three platform purchases – the two platform purchases. And in my 
+three years at Palo Alto, I'm finally seeing customers wanting to consolidate and not deal with fragmentation. 
+They're realizing, this is a losing battle if you're going to take points to deliver products and try to integrate them 
+yourself.
+Now, that's our bet, has always been our bet, but it's not a bet which is contingent on us having a platform. You 
+have to buy it all. It's contingent on us being able to deliver best-of-breed capabilities. And as shared, we've gone 
+from two to six hopefully, from six to double digits this year, which means we actually deliver best-of-breed 
+capability to our customers even if all they want is that. So, that's what gives us the confidence, Saket.
+.....................................................................................................................................................................................................................................................................
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+12
+Copyright © 2001-2021 FactSet CallStreet, LLC
+Saket Kalia
+Analyst, Barclays Capital, Inc. Q
+Thanks very much.
+.....................................................................................................................................................................................................................................................................
+Clay Bilby
+Head-Investor Relations, Palo Alto Networks, Inc. A
+And our next question comes from Keith Weiss of Morgan Stanley with Rob Owens after that. Keith Weiss, you 
+may ask your question.
+.....................................................................................................................................................................................................................................................................
+Keith Weiss
+Analyst, Morgan Stanley & Co. LLC Q
+Excellent. Thank you, guys for taking the question and very nice quarter. I think this quarter is probably going to 
+surprise a lot of guys in terms of the level of overall strength you saw in billings, Next-Gen doing really well, 
+operating margins outperforming, the guide for operating margins outperforming. But probably the biggest area of 
+contention that you guys had coming into the print was product revenues.
+There's a lot of worry about supply chain issues and supply chain constraints. It doesn't really seem like that 
+impacted you. Can you talk a little bit about product revenues heading into FY 2022? Does this account for any –
+the guide, does it account for any supply chain issues on a go-forward basis? And this new level of – for FY 2022 
+of mid- to high single-digit growth, is that durable beyond FY 2022 or is this a period of catch-up spend with that 
+pent-up demand around hardware you were talking about previously? Thank you.
+.....................................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+So, Keith, thanks a lot for your question. I also want to thank you [ph] for a balanced note (32:34). I thought you 
+had a good assessment of our opportunities and challenges going into the quarter. Like you said, we are seeing 
+the pent-up demand get released. We are seeing some impact of refreshes. We are seeing some impact of some 
+of our new form factors that we've launched. We are working diligently, as I'm sure everyone is, with our suppliers 
+to make sure that we're able to bridge the supply and demand gap. So far, we've been able to make it through 
+Q4. Based on current visibility, we don't see challenges for Q1 going into it, which is why we've given you guide 
+for Q1 and we'll keep working with our suppliers.
+I think the supply chain issue is going to sort of mitigate itself in Q3 or Q4 timeframe anyway in the industry. I think 
+there are – you know, when there is a supply issue, a lot of the manufacturers, a lot of the chip companies are 
+actually working twice as hard to try and bridge the gaps. And we're also working hard with them to make sure we 
+are very transparent about our needs in the quarter. So, so far, we have guided with the anticipation that we will 
+be able to keep managing our supply chain balance the way we have been able to manage for Q4. And in terms 
+of your sustainability, I would welcome you to the Analyst Day on September 13, and we can talk more about it 
+then.
+.....................................................................................................................................................................................................................................................................
+Keith Weiss
+Analyst, Morgan Stanley & Co. LLC Q
+Excellent. Sounds great, guys. Thank you.
+.....................................................................................................................................................................................................................................................................
+Clay Bilby
+Head-Investor Relations, Palo Alto Networks, Inc. A
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+13
+Copyright © 2001-2021 FactSet CallStreet, LLC
+Our next question comes from Rob Owens of Piper Sandler with Brian Essex to follow. Rob, you may ask your 
+question.
+.....................................................................................................................................................................................................................................................................
+Rob D. Owens
+Analyst, Piper Sandler & Co. Q
+Great and thank you for taking my question. You talked a little bit in the prepared remarks about your success in 
+the XDR segment and I was wondering, given all the noise in that segment, Nikesh, if you could unpack a little bit 
+where the competitive landscape is and why Palo Alto is winning at this point? Thanks.
+.....................................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Thanks, Rob. Look, XDR is a competitive space. It's the new transform endpoint space, which has a lot of players. 
+And there were some legacy players in that space who lost ground to some of the newer players in the space, 
+and we all know who they are and Palo Alto came out with a product which was highly technically capable and 
+competitive. As we've shared with you, we have won various benchmarks in the industry versus other players in 
+the space. So we are seeing dog fights – or cat fights, or whichever the right analogy is, in the customer space, 
+where we get in contention with a competitor and it's gets competitive and it becomes a question of, can you 
+deliver the XDR capabilities you want.
+But I think over time, what's happening is, that customer is looking at it as a more expansive approach saying, this 
+is not just about the EDR part, the endpoint part. It also needs to look at how do you co-mingle that with your 
+network traffic analysis, how do you put – take that together and minimize the number of alerts that you're getting 
+from different parts of infrastructure. As we just announced this morning, we've integrated cloud capability in 
+there.
+So now you can take a look at your cloud estate and take the alerts from the cloud estate, co-mingle that with 
+your endpoint, co-mingle that with your NTA and try and see how do you minimize the alert and how do you see 
+correlation amongst all those alerts. Not just that, we introduced identity analytics this morning to it. So, I think 
+over time, the XDR category is hurtling towards what used to be the SIEM and what's going to happen over time 
+is XDR will engulf that space, but with a much more intelligent, normalized point of view, where you can actually 
+look at it and say, this is valuable to me.
+The SIEM of the past was a data-aggregation exercise, and the intelligence was left for the customer to 
+determine. I think XDR is bringing that next-generation capability to the SIEM, where it's cross-corelating prior to 
+that, reducing your noise, giving you more relevant information. That's what's going to be the future.
+So, that's why XDR, whilst competitive, highly strategic, and it's – it behooves us because we have multiple 
+pieces of the puzzle where we actually have cloud security capabilities, we have firewall capability, not just on 
+hardware, but across the virtual form factors. So, being able to bring all that data, make sense of it and provide 
+value to the SoC is where I think XDR is going and I think we're well placed in that space.
+.....................................................................................................................................................................................................................................................................
+Rob D. Owens
+Analyst, Piper Sandler & Co. Q
+Great. Thank you very much.
+.....................................................................................................................................................................................................................................................................
+Clay Bilby
+Head-Investor Relations, Palo Alto Networks, Inc. A
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+14
+Copyright © 2001-2021 FactSet CallStreet, LLC
+Our next question comes from Brian Essex of Goldman Sachs, with Michael Turits next. Mike – Brian, you may 
+ask your question.
+.....................................................................................................................................................................................................................................................................
+Brian Essex
+Analyst, Goldman Sachs & Co. LLC Q
+Great. Thank you for taking the question. Congrats on the results, Nikesh. One quick question on the ClaiSec 
+business. So, wanted to understand – well, I guess maybe the next – NGS overall. Confidence in the guidance, 
+how much cushion is in that number? I understand – it's nice to see you leaning into ClaiSec with investment. 
+Where are you investing for growth, particularly in sales and marketing?
+And maybe to cap it off, management changes that we saw this quarter, particularly inviting BJ to join the 
+company, how that plays into the investment in ClaiSec, [ph] does that mean there's (37:11) a meaningful 
+opportunity for you?
+.....................................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Thanks, Brian. You know, as we went on the speedboat strategy, our first job was to make sure that we had 
+product market fit. And in the early part of our strategy, we shared that we began to see product market fit, which 
+really, I think Q4 2019 was when we started to see traction in the space.
+We spent a majority of the last 18 months after that trying to make sure that our sellers were able to understand 
+the power of all the capabilities that Palo Alto has to offer. And we have some phenomenal results in terms of 
+what percent of our core sales team can sell Cortex, can sell Prisma and those numbers keep rising because 
+we're trying to make sure that our sales team is able to go pitch the entire portfolio to our customers. And that's 
+exactly why we had the success we have been able to share with you in terms of customers buying three 
+platforms, two platforms or one. And we believe that opportunity is still further ahead in terms of us being able to 
+penetrate our entire customer base with our Cloud capabilities, our SASE capabilities, our Cortex variabilities.
+So, we think there's more room to go. We are investing in more coverage and more capability both in the United 
+States and North America, as well as in international markets. So, that's one part of it.
+In terms of the management change, delighted that BJ Jenkins has joined us at Palo Alto Networks. He was the 
+CEO of Barracuda Networks. He understands security really well. He's a very seasoned and phenomenal sales 
+leader and also a great human being. He's going to come, manage our teams, drive that growth continually 
+further.
+I also shared with you that part of our success as a company is being driven by very large deals. If you want to be 
+the platform provider of choice, we have to be able to engage at the highest level of our customers' organization 
+and convince them of our not just portfolio approach, but its best-of-breed capabilities.
+Amit is going to continue to do that. He's working closely with BJ and Rick Congdon, our Head of Global Sales, 
+and they're going to partner together and try and address the needs of the customers from the top-down, which 
+allows us more bandwidth, more capability, and more management strength in being able to do that.
+So, this all part of the plan is to create ability to go target customers at the highest levels, try and create large 
+deals where they see a long-term transformation to be the cybersecurity partner of choice.
+.....................................................................................................................................................................................................................................................................
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+15
+Copyright © 2001-2021 FactSet CallStreet, LLC
+Brian Essex
+Analyst, Goldman Sachs & Co. LLC Q
+Great. Helpful color. Thank you.
+.....................................................................................................................................................................................................................................................................
+Clay Bilby
+Head-Investor Relations, Palo Alto Networks, Inc. A
+Next question comes from Michael Turits of KeyBanc with Jonathan Ho, next.
+.....................................................................................................................................................................................................................................................................
+Michael Turits
+Analyst, KeyBanc Capital Markets, Inc. Q
+Hey, guys. Congrats on the quarter. On both XDR and on Cortex spend, on Prisma Cloud, I think the impression 
+that a lot of us got last quarter was the competition was very tight. There was significant incremental investment 
+there that was needed. It sounds like those segments did well and you've guided moderately in terms of margins 
+for next year, but it doesn't seem like any big shift. So, are things moving better than you expected or you're 
+finding a more streamlined way to approach this?
+.....................................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Michael, I'll give you a quick sense of how things are, and I'm going to have Lee jump in and give you a sense of 
+the capability we've built this year and capability we're planning to build over the next 12 months. Look, there is a 
+sales part, a go-to-market part of it, which is working. As I said, our top three customers committed over $40 
+million in public cloud spend. I think many of the investors who have invested in these new start-ups in cloud 
+security, the total ARR is not what we got from our top three customers.
+So, I think we are seeing traction in the market. We are seeing resonance and product market fit, but it's not a 
+static market. That market is continually evolving. We've gone from zero to seven modules. There's a lot more 
+capability that people are looking for, same thing on XDR, but I'm going to have Lee jump in and share some of 
+the trends and where we're investing in XDR and Cloud.
+.....................................................................................................................................................................................................................................................................
+Lee Klarich
+Chief Product Officer, Palo Alto Networks, Inc. A
+Yeah. Absolutely. Look, over the last 12 months, we've made tremendous amounts of progress in both these 
+products. If you look at Prisma Cloud, about halfway through the year, we introduced four new modules, three of 
+which have been built internally by the teams and one was the Aporeto acquisition being integrated for microsegmentation. We've seen a lot of very good early customer adoption to those and going forward, I anticipate 
+we're going to start to see mainstream adoption across the installed base in new customers as well.
+Bridgecrew is doing nicely as well with customers as they look more towards shift left and in the not-too-distant 
+future, we'll have that come out as an integrated module at Prisma Cloud, again, allowing us to more easily bring 
+that to our existing install base.
+XDR, look, with the announcement this morning with XDR 3.0, I think it just shows the continued innovation –
+pace of innovation that we're able to drive, extending it to cloud, extending it to identity analytics, introducing the 
+new forensics module and a whole host of other capabilities as well. And as Nikesh already alluded, you're seeing 
+us start to extend the analytics as well as the data aggregation layer to additional data sources and additional 
+intelligence.
+.....................................................................................................................................................................................................................................................................
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+16
+Copyright © 2001-2021 FactSet CallStreet, LLC
+Clay Bilby
+Head-Investor Relations, Palo Alto Networks, Inc. A
+Our next question comes from Jonathan Ho of William Blair, with Brent Thill up next. Jonathan, please ask your 
+question.
+.....................................................................................................................................................................................................................................................................
+Jonathan Ho
+Analyst, William Blair & Co. LLC Q
+Excellent. Thank you. I just wanted to go back to your comments around 2022 potentially as maybe a digestion 
+year in terms of M&A. How can we think about sort of the further leverage in terms of the acquisition 
+[indiscernible] (42:18) you've already made, and is it accurate to think of 2022 as a digesting year? Thank you.
+.....................................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Well, Jonathan, we digest as we eat. So, if you took the 11 product capabilities and if you look at our NGS 
+revenue or NGS billings, a lot of that NGS billing is from majority of acquisitions which we integrate into our 
+platform. So it's not like we have undigested parts of our acquisitions. There are parts of our acquisitions where 
+we'd like to see more traction and are putting more sort of wood behind the arrows.
+But for the most part, I think what – the way to interpret it, Jonathan, is that when I walked in three years ago, 
+there were many trends in the cybersecurity industry where we were not a player. We were not a player in SASE. 
+We were not a player in cloud security. We were not a full player in the XDR space and the SoC. We needed to 
+become a player, and the cost and time required to build capability would take us four to five years. That is where 
+being able to look at the markets, scour it, buy the best in the market, which has already – teams which have 
+already spent four to five years and shown product market fit was the right approach.
+Today, we have to be very careful as we evaluate companies because pretty much in categories where we think 
+there is relevant trends, we already have a product. So acquiring anything in that space would require us to spend 
+a lot more time integrating, figuring out what to do with their customers, we'd have two competing products. And I 
+principally do not believe in having two products in the same category because that creates confusion, destroys 
+the strategy, and creates lots of unnecessary [ph] riff-raff (43:48) within the organization.
+So, that's why our opportunity is to go expand in categories limited. We've decided there are some places we 
+want to play, and we want to play to win. There's some places we're not going to play. We're not going to play in 
+identity. So it doesn't matter if that's an open space and there are companies out there, we're not playing there.
+We're playing in cloud security, where we'll be very aggressive. We're playing in automating the SOC and 
+providing capabilities on the SOC. And we're playing in network firewall business. And there, we believe we have 
+a huge complement of capabilities and as you saw from the slide, we're building lots and lots of organic capability. 
+We did 53 product releases in the last three years. These are all showing up, hopefully, in the billings that you're 
+seeing that we are able to provide more capabilities, more subscription to our customers.
+That's the way I would interpret the M&A answer and does it mean, we might tuck in a product company here or 
+there? Yes. But it also means that we're not looking for substantive acquisitions at this current point in time.
+.....................................................................................................................................................................................................................................................................
+Jonathan Ho
+Analyst, William Blair & Co. LLC Q
+Excellent. Thank you.
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+17
+Copyright © 2001-2021 FactSet CallStreet, LLC
+Clay Bilby
+Head-Investor Relations, Palo Alto Networks, Inc. A
+Our next question comes from Brent Thill of Jefferies with Gary (sic) [Gray] (44:45) Powell after that. Brent, you 
+may proceed.
+.....................................................................................................................................................................................................................................................................
+Brent Thill
+Analyst, Jefferies LLC Q
+Thanks. Nikesh, you mentioned the SASE train has barely left the station. I'm curious if you can just elaborate on 
+that comment and talk through kind of the next couple stations that you expect to land in with this train?
+.....................................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Thank you, Brent. Look, if you – I think the pandemic is partly to blame or give credit to the fact that the SASE 
+train is moving fast. Over the last two years, what you've seen is customers go commit to a large cloud purchase, 
+they get involved in the development process of that cloud purchase, and then they start to move their workloads 
+to the cloud. As you begin to do that, there's years of MPLS, of data center spend which has gone on, where 
+customers realize, I don't need to bring all that traffic back home. I need to start taking the traffic and have it go 
+where the data is, whether it's in the public cloud or in my data center.
+Now those kind of traffic routing, splitting capabilities require you to have pushed that routing to the edge, put SDWAN in there, it also requires you to have security at the edge.
+Now, the majority of our customers who have security in their data center with our firewalls can easily take that 
+capability, push it to the edge with the Palo Alto capability of Prisma Access, without having to change their policy 
+infrastructure, allows them to be consistent across all form factors, all applications, all devices. It is actually true 
+Zero Trust.
+And if you saw your leader in the Zero Trust Quadrant, by – pretty much everyone else in the industry is behind. 
+So from that context, to deliver true Zero Trust with this SASE solution, we think we've reached a great position. 
+We've also aggressively supplemented that with software capabilities and I'm pretty sure every company out there 
+in the Fortune 500 and Fortune 100, they're all going through that journey as we speak. I don't think the market is 
+saturated by any means, shape or form, and it's not just a security play. Actually is a fundamental network play.
+People are shifting their traffic, taking it away from the MPLS world to a more cloud-delivered security and a 
+cloud-delivered network world where GCP, AWS, Azure, others are providing the underlying network capability in 
+addition to our security capability.
+.....................................................................................................................................................................................................................................................................
+Clay Bilby
+Head-Investor Relations, Palo Alto Networks, Inc. A
+Our next question comes from Gray Powell of BTIG, with Matthew Hedberg up next.
+.....................................................................................................................................................................................................................................................................
+Gray Powell
+Analyst, BTIG LLC Q
+Great. Congratulations on the good results and thanks for taking the question. So you see on my side, I mean 
+we've heard that Palo Alto has implemented some price increases on the appliance side of the business. Can you 
+just talk about what you're doing there? Is that correct? How widespread are the price increases and does that 
+have any, sort of, pull-through on attached subscriptions and support?
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+18
+Copyright © 2001-2021 FactSet CallStreet, LLC
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+So Gray, what has happened is, with the supply chain issues that we saw in the industry, we've seen pretty much 
+every player in the industry tweak their pricing for the upcoming year, and we've done something similar. It's in the 
+low single digits from a price-increase perspective, but as you know, the net yield is contingent on a competitive 
+situation, what the customer pays, what discounts have been negotiated with them. So usually, typically, you don't 
+see the yield fully drop to your P&L. It will have some pull-through to our numbers as and when those price 
+changes are affected into the field, but it's low single digits. It is consistent with the supply chain issues that the 
+industry is seeing.
+.....................................................................................................................................................................................................................................................................
+Gray Powell
+Analyst, BTIG LLC Q
+Understood. That's really helpful. Thank you.
+.....................................................................................................................................................................................................................................................................
+Clay Bilby
+Head-Investor Relations, Palo Alto Networks, Inc. A
+And our next question comes from Matthew Hedberg of RBC, with Joel Fishbein next. Matthew, please proceed.
+.....................................................................................................................................................................................................................................................................
+Matthew Hedberg
+Analyst, RBC Capital Markets LLC Q
+Hey guys. Thanks for taking my question. Hey Nikesh, congrats on the quarter. You started out the call talking 
+about all the cyber threats these days, all the cyber risks. I was curious, from your perspective, as we head into 
+the US federal budget season, how do you think about that impacting your business? Is it a this-year thing? Is it 
+more so next year? Just kind of wondering about the cadence of federal cyber funding.
+.....................................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Well, as you know, the federal year-end is September. So, I think it's too late for them to have any material impact 
+this fiscal year. I think they're busy trying to – with the new government in place, with the change in a lot of the 
+people in the administration, they usually – it takes in the first year of administration, it takes a few weeks, months 
+to work through those changes. So I think we're going to see stuff happen in the next fiscal year for the 
+government. They have great intentions. They want to make sure that the cybersecurity posture of the country, of 
+infrastructure is improved. You've seen some executive orders in that regard. There is a very positive mindset in 
+terms of leaning in and solving many of these problems. I'm hoping that leads to positive impact for the 
+cybersecurity industry.
+.....................................................................................................................................................................................................................................................................
+Matthew Hedberg
+Analyst, RBC Capital Markets LLC Q
+Thank you.
+.....................................................................................................................................................................................................................................................................
+Clay Bilby
+Head-Investor Relations, Palo Alto Networks, Inc. A
+Our next question comes from Joel Fishbein of Truist Securities, with Keith Bachman up next. Joel, you may 
+proceed.
+.....................................................................................................................................................................................................................................................................
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+19
+Copyright © 2001-2021 FactSet CallStreet, LLC
+Joel P. Fishbein
+Analyst, Truist Securities, Inc. Q
+Thanks. Hey Nikesh. Just wanted to follow-up on one of the themes that you talked about during the call, and that 
+is vendor consolidation. It's something that we've been looking for, for a long time. What do you think the catalyst 
+is there for that and how are you positioned considering identity and endpoint are part of that – those two 
+markets?
+.....................................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+So Joel, I think, look, my personal view, and I'm new to the industry, even if I've been here for three years, is I 
+didn't think there are many options in the industry to consolidate cybersecurity spend. I think there were some 
+phenomenal players in the market who had amazing capability in their lane, in their swim lane. What we've done 
+in the last three years is build multiple swim lanes where you can buy the product in that swim lane or you can 
+buy a product that connects across those swim lanes and that's what we're proving with our Prisma Cloud, with 
+our SASE strategy and our firewall strategy, where we're adding more software capability.
+So, I'm going to tell you about my book. I think we're well-positioned for the consolidation around a majority of our 
+platforms. At the same time, you don't have to buy it all from us if you don't want to. We still integrate with other 
+players in the market if your infrastructure is so designed, or you actually have infrastructure players that you 
+deploy.
+In terms of correlating that to identity and endpoint, well, we are an endpoint. XDR is the new endpoint play, 
+where we do both EDR capabilities and XDR capabilities. So as you see the transformation I believe from the 
+traditional endpoint vendors to the XDR vendors, we have a play there.
+In terms of identity, I think the identity market will exist. I think there are players in the market – but remember, 
+identity is about two-factor authentication and validating who you are. Once you're in the network, when you get 
+past the initial identity checks, you're back in our network flow, you're back in our firewalls, you're back in our 
+cloud instances. So we do participate, but we only participate after you've been validated at the point, at which we 
+can get that information to integrating with existing identity players in the market.
+I don't know if the investors want me to go buy an identity player and make it better because there are some very 
+good identity players in the market.
+.....................................................................................................................................................................................................................................................................
+Joel P. Fishbein
+Analyst, Truist Securities, Inc. Q
+Thank you.
+.....................................................................................................................................................................................................................................................................
+Clay Bilby
+Head-Investor Relations, Palo Alto Networks, Inc. A
+And our next question is from Keith Bachman of BMO, with Ben Bollin next. Keith, you may proceed.
+.....................................................................................................................................................................................................................................................................
+Keith Bachman
+Analyst, BMO Capital Markets Corp. Q
+Thank you very much. Nikesh, I wanted to flesh out a little bit on the consolidation theme, but in a different 
+direction. If you could just talk about your SASE wins and is there some common themes within the SASE wins? 
+Where are you winning and why? And perhaps on the other side, where you're not winning?
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+20
+Copyright © 2001-2021 FactSet CallStreet, LLC
+And what I'm trying to understand as part of that theme is how are you winning within SASE within your install 
+base, versus perhaps even getting into some new customers that might turn into something more for Palo Alto? 
+But if you could just talk about some common threads within your SASE environment.
+.....................................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Yeah, Keith, I'm going to lean on Lee to tell you about why we win, where we win. But as I said in my prepared 
+remarks, 25% of our Prisma Access customers are net new to Palo Alto. And this would typically be a customer 
+who's got to deploy a firewall, which cannot give that extended SASE firewall – SASE capabilities. They'd like to 
+eventually replace those firewalls, but they're in mid-life or those firewalls, so they will go with us on SASE, with 
+us at least the hope and anticipation that we can go back and reverse into that with our hardware over time, as 
+those firewalls from the competitors come to end-of-life. Lee, do you want to jump in?
+.....................................................................................................................................................................................................................................................................
+Lee Klarich
+Chief Product Officer, Palo Alto Networks, Inc. A
+Yeah. I think the – there's been a significant change in the market in terms of what customers realize they need 
+from, sort of, thinking about users and employees that are off the network and, sort of, being like a nice-to-have. 
+Like maybe I can connect into some subset of applications, some of the time, and that will be acceptable to the 
+new realities of the hybrid workforce, where it's very clear that employees need to be able to access all 
+applications all of the time and for the enterprise, there needs to be a full security stack to protect those – that 
+connectivity.
+And that shift really favors our position with Prisma SASE. Our ability to secure all applications, our ability to 
+provide true enterprise-tested, enterprise-grade security, and to do it in way that is consistent with what many of 
+our customers already have deployed for in their campus environments, branch office environments, et cetera. 
+And as Nikesh mentioned, that trend can come from two different directions. It can come from an existing 
+customer who's really happy with us and who's extending out to SASE or vice versa, customers that come in with 
+SASE and then can extend into the campus and branch office environments.
+.....................................................................................................................................................................................................................................................................
+Clay Bilby
+Head-Investor Relations, Palo Alto Networks, Inc. A
+And our next question, our last question for today comes from Ben Bollin of Cleveland Research. Ben, you may 
+ask your question.
+.....................................................................................................................................................................................................................................................................
+Ben Bollin
+Analyst, Cleveland Research Co. LLC Q
+Good evening, everyone. Thanks for taking the question. When you look at recent performance and even at the 
+forward outlook, how do you think about your share performance, your share gains versus wallet share expansion 
+within your customers? And then, Nikesh, you talked a little bit about maybe within the networking, but what other 
+IT silos do you feel like are donating spend into security as a whole? Thank you.
+.....................................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc. A
+Thanks, Ben. Look, you saw we highlighted that one of our customers became our first customer to spend $100 
+million in a year with us. And we have few who were just short of that, so it wasn't the only one who was getting 
+there. So, I think part of that gives you a sense of consolidation of spend and us getting a higher share of wallet. 
+Palo Alto Networks, Inc. (PANW)
+Q4 2021 Earnings Call
+Corrected Transcript
+23-Aug-2021
+1-877-FACTSET www.callstreet.com
+21
+Copyright © 2001-2021 FactSet CallStreet, LLC
+But I'd like to see it as us providing the capabilities to our customers, where they're able to do everything with us, 
+they don't have to go and go stitch together multiple vendors, because today, there is a very high cost of stitching 
+security, because the cost is vulnerability, right? And we're doing all the stitching for our customers, at least giving 
+them the ability where they can go secure their enterprise and do other stuff.
+In terms of your question about where different parts of IT are probably contributing, I think there is a large 
+network contribution around the whole SASE topic, because SASE is effectively not just a security play. It also 
+happens to be a network play. And that's where you'll see – and you'll find many times that our firewalls are 
+procured either by the network team or the security team.
+So you'll see that in the whole network security space, there is a back-and-forth between whether it comes on the 
+network budget or the security budget. I think the same thing in the cloud. People haven't quite figured out that the 
+cloud requires its own capability from a security perspective, and we're seeing that being baked into budgets. But 
+very often that – that capability is coming out of the cloud spend, where we're also able to go get credits from the 
+public cloud CSPs to have the customer pay for that capability. [ph] Does that answer his question then (56:02)?
+.....................................................................................................................................................................................................................................................................
+Clay Bilby
+Head-Investor Relations, Palo Alto Networks, Inc.
+And with that, we will conclude the Q&A portion of our call today. I will now turn it back over to Nikesh for his 
+closing remarks.
+.....................................................................................................................................................................................................................................................................
+Nikesh Arora
+Chairman & Chief Executive Officer, Palo Alto Networks, Inc.
+Well, I just want to say thank you, everyone, for joining us today. We look forward to seeing you at our upcoming 
+investor events and especially our Analyst Day. And I do want to take a moment to say thank you, thank you, 
+thank you to our employees, our partners, our customers and everyone who made these results possible. 
+Wonderful. Have a great day.
+Disclaimer
+The information herein is based on sources we believe to be reliable but is not guaranteed by us and does not purport to be a complete or error-free statement or summary of the available data. 
+As such, we do not warrant, endorse or guarantee the completeness, accuracy, integrity, or timeliness of the information. You must evaluate, and bear all risks associated with, the use of any 
+information provided hereunder, including any reliance on the accuracy, completeness, safety or usefulness of such information. This information is not intended to be used as the primary basis 
+of investment decisions. It should not be construed as advice designed to meet the particular investment needs of any investor. This report is published solely for information purposes, and is 
+not to be construed as financial or other advice or as an offer to sell or the solicitation of an offer to buy any security in any state where such an offer or solicitation would be illegal. Any 
+information expressed herein on this date is subject to change without notice. Any opinions or assertions contained in this i nformation do not represent the opinions or beliefs of FactSet 
+CallStreet, LLC. FactSet CallStreet, LLC, or one or more of its employees, including the writer of this report, may have a position in any of the securities discussed herein.
+THE INFORMATION PROVIDED TO YOU HEREUNDER IS PROVIDED "AS IS," AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, FactSet CallStreet, LLC AND ITS LICENSORS, 
+BUSINESS ASSOCIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SAME, EXPRESS, IMPLIED AND STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED 
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE 
+LAW, NEITHER FACTSET CALLSTREET, LLC NOR ITS OFFICERS, MEMBERS, DIRECTORS, PARTNERS, AFFILIATES, BUSINESS ASSOCIATES, LICENSORS OR SUPPLIERS WILL BE LIABLE FOR ANY 
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS OR RE VENUES, GOODWILL, WORK STOPPAGE, 
+SECURITY BREACHES, VIRUSES, COMPUTER FAILURE OR MALFUNCTION, USE, DATA OR OTHER INTANGIBLE LOSSES OR COMMERCIAL DAMAGES, EVEN IF ANY OF SUCH PARTIES IS ADVISED 
+OF THE POSSIBILITY OF SUCH LOSSES, ARISING UNDER OR IN CONNECTION WITH THE INFORMATION PROVIDED HEREIN OR ANY OTHER SUBJECT MATTER HEREOF.
+The contents and appearance of this report are Copyrighted FactSet CallStreet, LLC 2021 CallStreet and FactSet CallStreet, LLC are trademarks and service marks of FactSet CallStreet, LLC. All 
+other trademarks mentioned are trademarks of their respective companies. All rights reserved.

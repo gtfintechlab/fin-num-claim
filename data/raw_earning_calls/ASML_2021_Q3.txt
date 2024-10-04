@@ -1,0 +1,137 @@
+Company Secret
+Transcript
+Video interview with ASML CFO Roger Dassen
+Q3 2021 results 
+October 20, 2021
+Q3 2021 results 
+Mr. Dassen, can you give us a summary of the Q3 results?
+Absolutely. Sales for the quarter €5.2 billion. Included in that number €1.1 billion of Installed Base 
+revenue. Gross margin 51.7%. Net income for the quarter €1.7 billion. Net order intake for the 
+quarter €6.2 billion, included in there €2.9 billion for EUV. So, all in all I would say a very strong 
+quarter. As a matter of fact, I would say a record quarter on many fronts.
+Outlook Q4 2021 and full year 2021
+Looking forward, what is your guidance for the fourth quarter and what does this all mean 
+for the full year 2021?
+For the fourth quarter our guidance for revenue is €4.9 to €5.2 billion with a gross margin of 51%
+to 52%. Included in the sales number €1.1 billion of Installed Base revenue. That number was 
+impacted by a number of issues that we experienced. They are issues that are related to the 
+continued growth of ASML and the fact that we are really continuing to build capacity for us. On 
+the one hand, we did see in the supply chain that there was some materials shortage. It’s not 
+unique to ASML obviously. We read it in the newspapers in many industries every single day. But 
+obviously particularly when we are pushing the supply chain to gear up capacity, you know this 
+phenomenon could obviously pop up. 
+Second issue is the fact that we are also building capacity in Veldhoven. One important element in 
+there is our new logistics center. We took that into commission a couple of months ago. We did 
+have some start-up issues there. I think it is fair to say that those two issues have been largely 
+addressed for the output for this year. But they did have the impact that some assembly of 
+machines actually started with a few weeks’ delay. So that means the starts are delayed and, of 
+course, that the shipment is deferred a bit. 
+In addition to that, in the current environment where customers are really pushing for tools as 
+quickly as they can get them, some customers really push for early shipments. We’ve seen that 
+phenomenon before, you might remember that. That means that customers actually get the tool
+Company Secret
+without the tool first being tested for factory acceptance test. That means that we can only 
+recognize the revenue upon the installation of the tool at the customer. 
+So those two phenomenons combined, the late starts and then the early shipments that 
+customers asked for, meant that we’re actually going to see some revenue deferred into 2022. 
+That said, all in all, we’re still looking at growth for ASML for the year approaching 35%. We’re 
+looking at a gross margin for the total year of about 52%. 
+Outlook 2022
+There’s clearly a strong demand in the market. Do you expect that to continue next year 
+and what’s your initial view for 2022?
+We’re not going to give quantitative guidance on 2022 yet. It’s a bit too early to do that. But I think 
+it is fair to say that many of the drivers that we’ve talked about in the past are very clearly still 
+there. 
+So at a macro level I would say the chips shortage phenomenon is still there and of course that
+requires continued addition of capacity. So that’s one driver. Then of course there is the secular 
+trend of growth, which is really driven by the digital transformation. If you then peel the onion a 
+little bit and look at the different categories, the different components, of revenue for ASML. 
+Starting with the Logic business. This whole notion of the digital transformation of course has a 
+big impact on the most advanced nodes, as we’ve seen in the past year. We also expect that to
+continue in the years to come. But also this whole notion of distributed computing means that it is 
+not just on the advanced nodes, but it is also in the mature nodes where there is an increased 
+demand for capacity. That combination really means that on both fronts the demand both for 
+mature and for advanced continues to be very, very strong for us. 
+On the Memory side, just looking at the end markets. Again very, very strong demand particularly
+on the smartphones and the server end markets the demand is very strong. Maybe a few question 
+marks on PCs. But all in all, strong demand there and that translates into high bit growth. For 
+DRAM, most of our customers seem to be looking at mid to high teens in terms of bit growth. 
+While on NAND, typically they are looking at about 30% bit growth. So strong bit growth there 
+driven by the dynamics in the end markets. If you look at the very, very high utilization of the litho 
+tools, of course inevitably that means that additional capacity will have to be built. So that’s Logic 
+and Memory. 
+Company Secret
+Then if we look at the Installed Base business. Of course the Installed Base business, with the 
+increased numbers that we have in the installed base, the service business continues to grow. 
+Particularly driven by the EUV business. We’ve talked about those dynamics before. So clearly a 
+growth dynamic there on the Installed Base side as it relates to service business. I would say on 
+the upgrade business also for next year we are offering significant upgrade packages to 
+customers that would help them further increase the output of the installed base. Clearly they 
+need to give us time. Some of these upgrades require some downtime of the system. That will be 
+the determining factor for how fast the Installed Base business next year is going to grow: how
+much machine time do we actually get from customers to do this? But all in all, also there the 
+dynamics are positive. So if you add it all up, we should be looking at another healthy growth year 
+for ASML next year. 
+Capacity
+At your Investor Day recently you talked about plans to increase your capacity. Can you 
+give us an update on your capacity plans for next year?
+First off, reminding on what did we say on capacity. That was really towards 2025. So that’s the 
+number that we gave at the Investor Day. There we said we are looking at 1.5X capacity for DUV 
+and more than 2X for EUV. That’s based on units. If you were to translate that into wafer capacity, 
+just recognizing the fact that the tools that we are shipping in the years to come and also the tools 
+that we are shipping in 2025 of course of higher productivity, of higher throughput, than the tools 
+that we would ship say last year. So taking that into consideration, then for DUV we are actually 
+looking at doubling the capacity of wafer output. And for EUV I would even say it’s more than 3X 
+that we are looking at in terms of capacity. So very strong there. If you translate that 2025
+expectation to next year, I would say on EUV we’ve been pretty clear. On EUV we’re looking at a 
+capacity of 55 units. And again, bear in mind that’s 55 units of the NXE:3600D which has a 15% 
+higher productivity approximately in comparison to its predecessor. 
+On the DUV side, there is a number of elements that need to be taken into consideration when we 
+look at 2022. On the one hand, we do get some tailwind from the phenomenon that I described
+earlier on when I gave the guidance for Q4. Which is that we see a few systems slipping into 2022
+as a result of the late starts and the fact that customers were pushing for early shipments. So
+that’s one dynamic. On the flip side, we have also said that in 2021 we really used all the buffers 
+in terms of parts and materials that we had and of course they need to be replenished. So the 
+replenishment of the buffers, of the safety stock if you like, that needs to happen in 2022. But we 
+are very much working with the supply chain and determining what the overall growth and the 
+Company Secret
+overall mix of the growth will be for next year. That combination, the combination of those three 
+phenomenons will ultimately determine what the capacity for next year on DUV is going to be. 
+Capital allocationWith regard to cash flow, can you give us an update on your Free Cash 
+Flow and your capital allocation plans?
+Free Cash Flow very strong once again. We’ve really seen a significant improvement there in
+comparison to say a year ago, because of all the phenomenons that we went through in the past 
+couple of quarters. So very strong Free Cash Flow. The way we use that Free Cash Flow. First 
+off, we use whatever we need in the business. So whatever we need to further grow the business
+in terms of R&D, in terms of CapEx, etcetera. That will be used. What we don’t need to advance 
+the business and to make the business grow, that will be paid back to shareholders in a 
+combination of growing dividends and share buyback. On the dividend side, we will pay in 
+November an interim dividend for 2021 of €1.80 per ordinary share. In terms of share buyback it’s 
+important to know that last quarter we executed share buybacks still under the old program and 
+the new program combined for about €2.4 billion. 
+Long-term outlook
+You just talked about your Investor Day recently held and there you talked about the 
+scenarios for ASML for 2025 and beyond. Can you give a short summary of the key
+messages that you provided over there?
+Important what we did in the Investor Day is to really give a holistic perspective over what we can 
+expect from a technology perspective, from a market perspective, etcetera. It’s fair to say we 
+believe we have a very strong roadmap there. That really allows us to continue to grow. We 
+presented a growth potential towards €24 to €30 billion by 2025. Those were the scenarios that 
+we presented there. With a gross margin for that year somewhere between 54% and 56%. But 
+also beyond 2025 we continue to see strong growth potential for ASML. We presented, based on 
+external sources and some of our own analysis, we presented a CAGR both for the systems sales 
+and for the Installed Base sales. We presented a CAGR for 2020 through 2030 period of around 
+11%. So on the financial side a very good growth potential for ASML. 
+We also talked extensively about ESG and we talked about the role that ASML can play in 
+significantly bringing down the carbon emissions by 2030 by 15% for the entire industry. In terms 
+of the ESG ambitions that we held out there, there is a number that we presented there. First we 
+very much talked about what we can do to contribute and to support our customers in driving 
+down energy consumption and waste in their manufacturing of microchips. We also talked about 
+Company Secret
+our role in allowing our customers to produce microchips that every two years become three times 
+more energy efficient. We also talked about our ambition to get to zero waste by 2030. And also
+by 2040, to get to net zero value chain emissions by 2040. So those are the ambitions that we 
+have on the ESG front. 
+So if you look at all of that it’s fair to say that we’re looking at a very strong roadmap, a roadmap 
+that allows us to grow significantly throughout this decade. And also a roadmap and a contribution
+that on the ESG front is really going to contribute to the goals of all of our stakeholders. 

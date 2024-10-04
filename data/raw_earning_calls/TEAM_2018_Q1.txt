@@ -1,0 +1,696 @@
+Atlassian Corporation Plc
+First Quarter Fiscal Year 2018 Earnings Conference Call
+October 19, 2017
+1
+ViaVid has made considerable efforts to provide an accurate transcription, there may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only. 
+1-888-562-0262 1-604-929-1352 www.viavid.com
+Atlassian Corporation Plc – First Quarter Fiscal Year 2018 Earnings Conference Call, October 19, 2017
+C O R P O R A T E P A R T I C I P A N T S
+Ian Lee, Head of Investor Relations
+Scott Farquhar, Co-Founder and Chief Executive Officer 
+Mike Cannon-Brookes, Co-Founder and Chief Executive Officer 
+Murray Demo, Chief Financial Officer 
+Jay Simons, President
+C O N F E R E N C E C A L L P A R T I C I P A N T S
+Matt Broome, Cowen & Company
+Michael Turits, Raymond James
+John DiFucci, Jefferies
+Heather Bellini, Goldman Sachs
+Richard Davis, Canaccord Genuity
+Keith Bachman, Bank of Montreal 
+Sanjit Singh, Morgan Stanley 
+Bhavan Suri, William Blair & Company
+George Iwanyc, Oppenheimer
+Jonathan Kees, Summit Redstone Partners
+Alex Kurtz, KeyBanc Capital Markets
+Gregg Moskowitz, Cowen & Company
+Patrick Walravens, JMP Group
+P R E S E N T A T I O N
+Operator:
+2
+ViaVid has made considerable efforts to provide an accurate transcription, there may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only. 
+1-888-562-0262 1-604-929-1352 www.viavid.com
+Atlassian Corporation Plc – First Quarter Fiscal Year 2018 Earnings Conference Call, October 19, 2017
+Good day, ladies and gentlemen. Thank you for joining Atlassian’s Earnings Conference Call for the first
+quarter of fiscal year 2018. As a reminder, this conference call is being recorded and will be available for 
+replay from the Investor Relations section of Atlassian’s website following this call. 
+All participants will be in listen-only mode. Should you need assistance, please signal a conference 
+specialist by pressing the star key followed by zero.
+I will now hand the call over to Ian Lee, Atlassian’s Head of Investor Relations. 
+Ian Lee: 
+Good afternoon and welcome to Atlassian’s First Quarter Fiscal 2018 Earnings Conference Call. On the 
+call today we have Atlassian’s Co-Founders and CEOs, Scott Farquhar and Mike Cannon-Brookes in 
+Sydney, and our Chief Financial Officer, Murray Demo, and our President, Jay Simons.
+Earlier today, we issued a press release and a Shareholder Letter with our financial results and 
+commentary for our first quarter of fiscal year 2018. These items are also posted on the Investor 
+Relations section of Atlassian’s website at investors.atlassian.com. On our IR website, there is also an 
+accompanying presentation and data sheet available. 
+We’ll make some brief opening remarks and then spend the rest of the call on Q&A. 
+Statements made on this call include forward-looking statements. Forward-looking statements involve 
+known and unknown risks, uncertainties and other factors that may cause our actual results, performance 
+or achievements to be materially different from any future results, performance or achievements 
+expressed or implied by the forward-looking statements. You should not rely upon forward-looking 
+statements as predictions of future events. Forward-looking statements represent our management’s 
+beliefs and assumptions only as of the date such statements are made. 
+In addition, during today’s call we will discuss non-IFRS financial measures. These non-IFRS financial 
+measures are in addition to and not as a substitute for or superior to measures of financial performance 
+prepared in accordance with IFRS. There are a number of limitations related to the use of these non-IFRS 
+financial measures versus their nearest IFRS equivalents and they may be different from non-IFRS 
+measures used by other companies. A reconciliation between IFRS and non-IFRS financial measures is 
+available in our earnings release, our Shareholder Letter and our updated Investor Data Sheet on our IR
+website. 
+Further information on these and other factors that could affect the Company’s financial results is 
+included in filings we make with the Securities and Exchange Commission from time to time, including the 
+section entitled Risk Factors in our most recent Forms 20-F and 6-K. 
+I will now turn the call over to Scott for his brief opening remarks before we move to Q&A. 
+Scott Farquhar: 
+Good afternoon. Thanks everyone for joining today. We had a great start to Fiscal 2018. This quarter we 
+grew revenue 42% year-over-year and generated over $62 million of free cash flow. We also added over 
+4200 net new customers and now have more than customers 107,700 customers in total.
+For Mike and I, the clear highlight of the quarter was hosting our largest ever user conference at Atlassian 
+Summit. We had approximately 3600 partners, customers and Atlassians come together in San Jose, 
+California. It’s amazing to meet with our customers and hear how they’re using our products to unleash 
+3
+ViaVid has made considerable efforts to provide an accurate transcription, there may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only. 
+1-888-562-0262 1-604-929-1352 www.viavid.com
+Atlassian Corporation Plc – First Quarter Fiscal Year 2018 Earnings Conference Call, October 19, 2017
+the full potential of their teams. We’re blown away every year by the stories from teams of every type and 
+size, using our products in ways that we never imagined when we started Atlassian 15 years ago. 
+We also had great representation from Atlassian user group members and leaders who came from 
+countries as far afield as Kenya, Japan, Russia and Chile. Atlassian user groups are passionate 
+communities of users who gather together in events in their local cities to learn and network, and they 
+play a key role in supporting excitement around our products and the word-of-mouth model that fuels our 
+growth. 
+We shared some exciting product developments at Summit, a number of which we highlighted in our 
+Shareholder Letter. One of the most notable announcements was the launch of Stride, our new team 
+communication product built from the ground up to help teams turn conversations into action. Stride goes 
+beyond just chat, offering best-in-class team group messaging, features for real-time meetings including 
+audio and video conferencing and screen sharing, and collaboration tools for recording actions and 
+decisions across teams. 
+It was also great to see many of you in person at our first investor and financial analyst session at 
+Summit. Mike, Jay, Murray, Sri and I appreciate the chance to share more about our business and to chat 
+with you directly. 
+With that, I will turn the call over to the Operator for Q&A.
+Operator:
+We will now begin the question and answer session. To ask a question, you may press star, then one on 
+your touch-tone. If you are using a speakerphone, please pick up your handset before pressing the keys. 
+To withdraw your question, please press star, then two. 
+The first question comes from Gregg Moskowitz with Cowen & Company. Please go ahead.
+Matt Broome:
+Hi, this is actually Matt on for Gregg. I think he’s not able to get to the call right now. How big of a 
+development effort was behind the Atlassian teamwork platform and what do you think this means for 
+your cross-selling prospects over time?
+Scott Farquhar: 
+Scott here. Thanks, Matt. The Atlassian development platform is a single platform we’re building in our 
+cloud products to unify the way our products work, look and feel and a lot of the way that users interact 
+with our products. We’ve got a system of elements which are things and ways of working inside our 
+products such as Tasks and Decisions that are flowing through all of our products. That development 
+effort has been going on for the best part of the year and we’re really excited about the way it 
+differentiates our products against competitors in the marketplace, but also provides a unified way of 
+working across all of our products, which will help our cross-sell opportunities.
+Now, the first release of that, probably the best example is inside Stride, our next product that we 
+launched and that’s had great customer reaction, not only for Stride but also (inaudible) platform. 
+Matt Broome:
+Okay, great. I guess, have you begun to see any early traction with Atlassian Stack?
+4
+ViaVid has made considerable efforts to provide an accurate transcription, there may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only. 
+1-888-562-0262 1-604-929-1352 www.viavid.com
+Atlassian Corporation Plc – First Quarter Fiscal Year 2018 Earnings Conference Call, October 19, 2017
+Jay Simons:
+Hey Matt, this is Jay. Stack is relatively straightforward packaging of multiple Data Center products into a 
+single offering. We’ve seen, as we’ve commented earlier and certainly this quarter, great attraction from 
+the customer base towards Data Center, and for customers that look to standardize, expand on multiple 
+parts of the business across software, IT and business teams, and they want to upgrade to all versions of 
+Data Center, Stack is a really simple purchase vehicle. I think we are pleased with the adoption so far.
+Matt Broome:
+Okay, great. Thanks very much.
+Operator:
+The next question comes from Michael Turits with Raymond James. Please go ahead.
+Michael Turits:
+Hey guys, obviously a really strong quarter. Maybe you could talk about where the upside really came in 
+the quarter, and also, especially it was really strong on the billing side, so why did see that big, 
+disproportionately very positive upside to the deferred in the billings relative to revenue?
+Murray Demo:
+Hey Michael, this is Murray. We had—this is our eighth quarter as a public company, this was our 
+strongest quarter, sort of aggregate demand. We really saw a lot in our Enterprise business, by Data 
+Center and server, just sort of strong adoption across the board, and we were just very pleased with the 
+results along those lines. We also saw particular strength in Marketplace this quarter as well.
+Michael Turits:
+I saw that in the other lines. I was actually going to ask you about that. Then embedded in my question 
+there was a question about why billings upside was even stronger than revenue. Obviously it’s more 
+forward-looking, but what was it? A bigger shift towards subscription or is there any benefit from duration? 
+Anything that would have given you that particularly big boost in the deferred side?
+Murray Demo:
+Again, along the same lines, the subscription business. So Data Center being part of that, that’s a 
+subscription go-to-market model for our customers. Again, for the larger organizations, we’re seeing this 
+trend of expanding beyond software in IT teams with the larger enterprise adoption, and a lot of that is in 
+Data Center which is a subscription offering, so you’ll see that go to deferred revenue and then we’ll 
+recognize the revenue over time.
+Michael Turits:
+If I can squeeze one more little one in, I’d appreciate it. Just on tax rate, I think last quarter you actually 
+looked at what looked like it was going to be a higher tax rate than what we had expected and now in the 
+Shareholder Letter it mentioned the tax rate going down in ’18 relative to ’17, so maybe you could help us 
+out with that and if you could tell us what tax rate we ought to use and what the change is.
+Murray Demo:
+5
+ViaVid has made considerable efforts to provide an accurate transcription, there may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only. 
+1-888-562-0262 1-604-929-1352 www.viavid.com
+Atlassian Corporation Plc – First Quarter Fiscal Year 2018 Earnings Conference Call, October 19, 2017
+We don’t guide specifically with the tax rate. Under IFRS it’s very difficult. From a IFRS standpoint, we 
+see it going down from ’17 to ’18. On a non-IFRS basis it’s actually going the other way, and the target we 
+provided on our July earnings call said that it was embedded in the earnings per share guidance; we see 
+no change to that.
+Now, under GAAP, which everybody is sort of used to, you get to smooth the tax rate over the course of 
+the year. Under IFRS, we can’t do that, and because of this shift of income and deductions in different 
+jurisdictions around the world with different tax rates and things like that, this particular quarter the shift 
+worked in a way where it was beneficial to the non-IFRS tax rate. But for the full year, as we think about it 
+as it’s built into the EPS target, it’s going to swing back the other way and there’s no change to the full 
+year sort of embedded non-IFRS tax rate for Fiscal ’18. It’s a much more complicated tax rate process 
+than under GAAP.
+Michael Turits:
+Okay. Thanks a lot.
+Operator:
+The next question comes from John DiFucci with Jefferies. Please go ahead.
+John DiFucci:
+Thank you. I have a question on the longer-term annual price increase that you planned to instill, and I 
+know it’s still early for this one, but it’s more a question around the philosophy here because we’re getting 
+more questions around that. It’s obviously you increase prices, if sales keep up that’s a good thing. But 
+your mission has always been to deliver technologies to the masses of corporations and users that’s easy 
+to consume and easy to use, and part of that being easy to consume is price. Can you just maybe talk to 
+us a little bit about the—I realize in all of our work that customers get a ton of value out of Atlassian 
+products, and especially relative to the competition. But directionally, how does an annual price increase 
+in server and cloud products jive with your mission to deliver this to the—to get everybody to use it?
+Murray Demo:
+Good question on the pricing. Obviously this is one that’s getting a lot of attention. First of all, we are not 
+going to change our sort of low price, high value to customers. We’re not that strategy; absolutely we’re 
+not changing. This is more just really kind of tweaks on the margin in terms of price increases. Our costs 
+obviously are going up every year. Every single software vendor that we purchase from, they have a price 
+increase that gets passed on to us, and we believe that that’s a better approach than what we’ve done in 
+the past where we may go a few years and then we hit the customers with a price increase. It throws off 
+their own planning. We just feel this is a much better way to go with it.
+We’ll make those decisions on what we do with price each year as we go forward. If we’re in a 
+recessionary environment it might be that we don’t have a price increase that year. Other years we may 
+have something more. So, it’ll be something that we’ll just kind of look at on a year-to-year basis, but we 
+are absolutely not going to change the value proposition that we give to customers, which is incredible 
+products, tremendous value at low prices. Our plan is not to do anything to disrupt that go-to-market 
+model.
+John DiFucci:
+Great. That’s very clear, Murray. If I might, just a quick follow-up to Mike’s question, or it’s related anyway. 
+Very strong cash flow, and by the results all across the board are really strong but that cash flow number 
+6
+ViaVid has made considerable efforts to provide an accurate transcription, there may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only. 
+1-888-562-0262 1-604-929-1352 www.viavid.com
+Atlassian Corporation Plc – First Quarter Fiscal Year 2018 Earnings Conference Call, October 19, 2017
+is pretty impressive. I realize that you gave some of the reasons as to why it was strong, but other than 
+strong business momentum, is there any—are there any other reasons? I don’t see any, but are there any 
+other reasons we should be aware of that were unique this quarter that we perhaps shouldn’t expect 
+going forward?
+Murray Demo:
+Typically, John, you know in our first quarter is the quarter that we pay out bonuses to our employees. 
+We’ve been accruing it all year and then the payout is in our first quarter so it tends to be a seasonally 
+weak quarter and yet here we are with I think it’s our second strongest free cash flow quarter that we’ve 
+had as a public company. A few things that went into that. 
+Number one is that you can see the deferred revenue, strong. You could do your calculated bookings. 
+That had a big part to do with it.
+We also on sort of the working capital side, on payables, just timing. We’re not managing it. We did have 
+a little higher payables at the end of the quarter that’ll work against us in Q2, so as you kind of think 
+through while we don’t guide quarterly free cash flow, we’ll have it kind of go a little bit the other way on 
+payables as we make some payments in the second quarter.
+We had higher profits. You can see that with the additional revenue that we had this quarter, that it flowed 
+through to operating margin, so the leverage in the model, that had something to do with it.
+Then for the full year we’re still targeting $25 million to $30 million for cap ex but some of the cap ex in Q1 
+kind of moved out into subsequent quarters. 
+So, all of that factored in but it was really the strong sort of deferred revenue was the primary driver of the 
+free cash flow.
+John DiFucci:
+Which is reflective of the business momentum. Really nice job, guys. Thank you.
+Murray Demo:
+Thank you. 
+Operator:
+The next question comes from Heather Bellini from Goldman Sachs. Please go ahead.
+Heather Bellini:
+Hi. Can you hear me? Hello? Great, sorry about that. Thanks for taking the question. I just wanted to ask 
+about Jira Service Desk for a second. Wanted to ask about the momentum you’re seeing in the business, 
+if you could just kind of give us an update given it’s been a little bit since the introduction. Just wanted to 
+see how that’s progressing. Also, I know you introduced the white label version I think over the last three 
+months or so. I was just wondering if you could share with us kind of how the initial uptake of that has 
+been and kind of what drove you to offer that as an option. Thanks.
+Jay Simons:
+7
+ViaVid has made considerable efforts to provide an accurate transcription, there may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only. 
+1-888-562-0262 1-604-929-1352 www.viavid.com
+Atlassian Corporation Plc – First Quarter Fiscal Year 2018 Earnings Conference Call, October 19, 2017
+Hey Heather, this is Jay. Firstly, momentum for Jira Service Desk continues to be great. I mean we’re 
+pleased with the traction that we see in it. We’ve disclosed previously 25,000 organizations on Jira 
+Service Desk. There continues to be great demand for the two dimensions that it serves, both customers 
+that seek to improve the way that their service teams from IT to marketing better serve internal 
+constituents and customers, then also for customers that want to better enable the service and support 
+relationship with their customers, especially where that is connected pretty deeply to Jira Software and 
+kind of the internal technology teams that are building some technologies that their external customers 
+are using. So, it’s great.
+At Summit, for folks that were there, I think you would have continued to see a lot of excitement and 
+interest around Jira Service Desk, and maybe just to see the dimensionality of it, go back through the 
+online sessions and you’ll see Airbnb talk about how they’re building a service culture with Jira Service 
+Desk. You’ll see Samsung talk about their deeper journey around ITIL and internal service management; 
+the Trade Desk talking about better client engagement through Jira Service Desk. So, it’s great.
+In terms of the white label question—sorry, we don’t call it that. I think that continues to support the kind 
+of external use case around service and support. It was a widely requested feature. Part of the road map I 
+us inventing new and different ways for customers to engage clients. Part of that is investing in the things 
+that they need to do it more effectively and that’s sort of a clear version of the latter. In addition, just 
+helping them brand the experience so it’s part of their interface to their customers. We also offered 
+localization, just because we are a company that has customers in hundreds of different countries, so in 
+addition to branding, you know, real local language is a dimension that I think improves the relationship 
+between our customers and their customers. 
+Heather Bellini:
+Great. Thank you very much.
+Operator:
+The next question comes from Richard Davis with Canaccord. Please go ahead.
+Richard Davis:
+Thanks very much. When we talk to investors about you guys, they love the selling model and the high 
+R&D focus. The only question that I kind of regularly get is that they would love a little bit of color on kind 
+of where the R&D is going, you know? For example, I saw you guys introduce some new Bitbucket and 
+Bamboo versions and I was talking to some Dev team guys and they were thrilled about the scale. I 
+guess, basically, the question is could you talk at least at a high level how you think about allocating 
+developer effort between scale, between new functions, and then even I’ve talked to some guys recently, 
+they’re trying to put a layer of security on top of the code at rest and in motion. Just a little bit of color 
+there would be super helpful. Thanks.
+Scott Farquhar:
+Richard, Scott here. R&D is across a broad area. As you think about our products we sell on the quality of 
+our products, not the quality of our sales people, and so we’re going to continue to invest strongly in our 
+R&D to make sure that we have marketing-leading products in all of the segments that we operate in. As 
+we mentioned at our Investor Day, some of that effort over the last year has been re-platforming in the 
+cloud to set us up for the next level of growth and to have the ability to serve larger customers in the 
+cloud, so to spend some energy there. We’re still improving our mobile products. There’s a lot of growth 
+we see there in terms of making sure our products (inaudible) across mobile. You’ve seen us continually 
+8
+ViaVid has made considerable efforts to provide an accurate transcription, there may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only. 
+1-888-562-0262 1-604-929-1352 www.viavid.com
+Atlassian Corporation Plc – First Quarter Fiscal Year 2018 Earnings Conference Call, October 19, 2017
+invest in all the products we have whether they’re built from scratch or an acquisition. We continue to 
+invest in R&D to make sure those products are best-in-class. 
+At Summit, we launched our team platform, as I mentioned earlier. That team platform is a standard way 
+of working across all of our products. You probably saw it most acutely in the launch of Stride but a lot of 
+the things we’re doing there are rolling through all of our products, which we believe gives us an 
+advantage on any individual product-to-product basis versus competitors, but also advantage in cross-sell 
+and allowing us to more seamlessly move our customers across our entire product set. 
+Richard Davis:
+Got it. So, multiple fronts in a good way. Thank you.
+Operator:
+The next question comes from Keith Bachman with BMO Capital Markets. Please go ahead.
+Keith Bachman:
+Hi. Good evening, gentlemen. Thanks for taking the question. The first is I wanted to follow up DiFucci 
+and go back to pricing for a second. In the original context it was thought that pricing would be (inaudible) 
+of low single digits. I think in your Shareholder Letter you reiterated that. Our checks at your trade show 
+and otherwise would suggest we haven’t found any customers that push back at all on the price 
+increases, and so it seems like there would be more help in low single digits but what are we missing from 
+that?
+Murray Demo:
+So far the expectations, our expectations going into it in terms of customer reaction has pretty much been 
+on track. A lot of the price increases that we’re putting forward this year are going into subscription type 
+models. You’re not going to see the flow through all sort of recognized this year. It’s going to go into 
+deferred revenue and come off over time. 
+We have some customers that have decided they might have had more than 10 users in the cloud and 
+then they downgrade to 10 users so they can get the starter price and save money that way or they move 
+from monthly to annual, so there are some customers who are making some decisions around that. Some 
+say, “Well, I’m going to go ahead and renew my maintenance in advance of the price increase on 
+maintenance,” so you get a little—we get a little movement forward on our bookings kind of thing but we 
+don’t get the revenue because they’re trying to get ahead of the price increase. All of these things went 
+into sorting through what it meant for our revenue targets for the year. Everything to this point is on track
+and everything is factored into the guidance that we’ve got for this year of 841 to 847.
+I’d also just add a little bit on that. As you kind of look at the model over the course of the year, as we get 
+into the second half of the year, we’re going to go up against sort of the Trello. We acquired in the third 
+quarter and so the compares get a little tougher so it has sort of a regulating impact on the growth rate of 
+our revenue. 
+We’re also just one quarter into the year; we’re off to a terrific start but we’re being prudent as we think 
+about our revenue targets for the full year, and we’ll go through another quarter here and we’ll be in a 
+position to give you an update on the next call in terms of how we’re doing with the revenue overall for 
+Fiscal ’18.
+Keith Bachman:
+9
+ViaVid has made considerable efforts to provide an accurate transcription, there may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only. 
+1-888-562-0262 1-604-929-1352 www.viavid.com
+Atlassian Corporation Plc – First Quarter Fiscal Year 2018 Earnings Conference Call, October 19, 2017
+Okay, great. Thanks. It’s certainly off to a good start. 
+Murray, perhaps this is for you but I’ll throw it out to the wider audience. The cloud foundation was 
+discussed at the analyst event a few months ago and just wanted to revisit what are the benefits that 
+shareholders should be thinking about as it relates to new cloud foundation? It seems like faster time to 
+market would be certainly one, and perhaps even more leverage on the R&D side, but wanted to just 
+open that up. How should we be thinking about the cloud foundation and the benefit to your organization 
+going forward?
+Murray Demo:
+I’ll make a few comments on that, Keith, and then open it up to my colleagues if they would like to add 
+anything to it.
+From a shareholder perspective, clearly moving to third party cloud and all the tools that comes with it, it’s 
+going to allow us to innovate at a much more rapid rate. We’re in the apps business. We’re not in the 
+managing data centers business, and so looking to a third party that do that, they’re going to be able to 
+scale much more effectively than we are, much more cost effectively. As you look at kind of the gross 
+margin over time, while we’ll see more and more of our business be on cloud that runs at a lower gross 
+margin than our server business, we’ll be more cost effective with a third party running that. Then, going 
+from single to multitenant and all that, again, is just innovation, being cost effective as far as adding on to 
+that. That’s all good for the shareholder, that’s good for the customer. 
+I don’t know if anybody here wants to add on to that as far as from the customer perspective.
+Scott Farquhar:
+Scott here. Moving (inaudible) data centers allows us to light up more data centers in a global sense a 
+whole lot easier than we can and with less time and cost and distraction to do that than we would have if 
+we’re doing it ourselves, and so that allows us to serve our global customers better. (Inaudible) around 
+performance and latency but over time it’ll allow us to work in other jurisdictions where they have certain 
+data requirements.
+It also opens for the larger customers over time. At the moment we have a 2000 user limit and we’re 
+working towards removing that over time. 
+Thirdly, it allows us to have sort of a standard platform and we introduced our Identity Manager product at 
+out Summit, which is also sort of large customers, and allows us to sort of innovate faster and we see the 
+time we’re not spending building on data centers we can spend on building products for our customers 
+and they’re seeing the benefit of that already.
+Murray Demo:
+Yeah, I think it goes without saying at the end of the day we believe it’s going to lead to more revenue 
+and less cost, so I think that’s what shareholders are looking for.
+Keith Bachman:
+Okay. I was going to sneak one more for Jay in, if I could. Jay, in the new customer adds, call it just over 
+4000, 4200 and change, was there any difference in complexion of what the new customers are initially 
+buying, which I assuming is still Jira and Confluence, but was there any difference in the composition of 
+the products associated with the new customer adds versus, say, the last number of quarters?
+10
+ViaVid has made considerable efforts to provide an accurate transcription, there may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only. 
+1-888-562-0262 1-604-929-1352 www.viavid.com
+Atlassian Corporation Plc – First Quarter Fiscal Year 2018 Earnings Conference Call, October 19, 2017
+Jay Simons:
+Not materially, no. I mean we see, we continue to see increased adoption of Jira’s Service Desk as a first 
+product because it expands the dimensionality that I talked about earlier, but on the whole, pretty 
+consistent across product portfolio and also deployment model, between cloud and server where threequarters or those customers begin their journey with us in the cloud.
+Keith Bachman:
+All right, fair enough. Many thanks.
+Operator:
+The next question comes from Sanjit Singh with Morgan Stanley. Please go ahead.
+Sanjit Singh:
+Thank you for taking the question. Congrats on a nice quarter. I wanted to toggle back to Heather’s 
+question on Jira Service Desk. I sort of feel where it points to a growing opportunity there, a lot of traction 
+in the mid market. My question is in terms of like a go-to-market model, or maybe even for just a service 
+business support model, that product seems a little bit different versus your ‘try and buy’ of Jira and 
+Hipchat and now Stride. Is there any other type of investment that you guys are doing to promote 
+adoption of Jira Service Desk that’s different from a services or a go-to-market perspective versus the rest 
+of the product portfolio?
+Jay Simons:
+Hey, this is Jay. I’ll tackle that one again. No, not materially in terms of differences. It’s straight in line with 
+the way that we approach go-to-market and customer acquisition with our other products. Jira Service 
+Desk, like everything else in the portfolio, you can begin with a particular service team internally, so you 
+can start with either IT or you can start with Marketing. I think the hallmark of all of our products is I think 
+ease of adoption and configurability. With our more complex service collaboration use cases or business 
+processes, be it for Jira Service Desk or otherwise, we’ve got a channel of solution partners over 400 
+wide, 400 strong in countries all over the world that we’ve enabled and equipped to kind of configure the 
+product for more complexity. They can also aid in the expansion for a customer that might begin with one 
+particular use case and then expand to others. There’s just loads of opportunity, I think, for them to bring 
+in an expert to help kind of canvass the organization for other opportunity and also to configure it for the 
+more complex opportunities. But that’s probably not where we start. I think the channel can begin there. 
+They can go into a really large automotive organization and with their knowledge and experience of Jira 
+Service Desk begin to map that to really complex, meaty opportunities. It’s not necessarily one 
+directional.
+I think if you look at the volume of customers that we acquire, it really begins I think in the way that all of 
+our products begin, sort of small and then expand over time based on the success of the product.
+Sanjit Singh:
+That’s super helpful, Jay. Then maybe one for Scott or Mike. In terms of the expansion into business 
+teams, you have multiple ways to do this now with Confluence, Jira Core, Trello and now Stride. So in 
+terms of as we look into the rest of Fiscal Year ’18, can you give us a sense of what the playbook might 
+be now that you have a broader portfolio, how you might try to attract customers or attract teams in this 
+segment of the market that might have been different versus the past couple of years?
+11
+ViaVid has made considerable efforts to provide an accurate transcription, there may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only. 
+1-888-562-0262 1-604-929-1352 www.viavid.com
+Atlassian Corporation Plc – First Quarter Fiscal Year 2018 Earnings Conference Call, October 19, 2017
+Mike Cannon-Brookes:
+Thanks, Sanjit. We told you guys many, many times our goal is go after the Fortune 500,000 and to do 
+that with all the teams to unleash the potential of every time. Nothing in that goal and aspiration is 
+changing. We passed 100,000 customers this quarter so it’s a big milestone on that journey.
+In terms of going after teams outside of software and IT, no difference or change to the model, to the goto-market approach. Trello lands in all sorts of different teams at the start and then expands across an 
+organization. Similarly with Stride, similarly with, as you mentioned, Jira Core, Jira Service Desk, so no 
+change to our model to go after those teams. 
+We focus on—I guess you’ve seen us spend a lot of time and effort in the last couple of years on design. 
+We talked about it a lot at our Summit user conference in terms of continuing to drive the product 
+experience to appeal to a broader and broader set of users. Obviously that helps us across the business 
+but it doesn’t change in any way the go-to-market motion to attract those customers. 
+Sanjit Singh:
+That’s great. Thanks, Mike. Then the last one for me, in terms of for Murray, if we look at the—I think at 
+Analyst Day you talked about customers greater than 50K having these really strong renewal rates. Can 
+you give us a sense of what percentage of the revenue base or what percentage of ARR does that cohort 
+represent?
+Murray Demo:
+We haven’t provided that specific information. We haven’t done that. This quarter I can just tell you that 
+we had particular strength in the Enterprise as our Data Center offerings continue to expand, so seeing 
+some real success there, but as far as that specificity, we just haven’t provided that level of information. 
+Sanjit Singh:
+Fair enough. Congrats again.
+Murray Demo:
+Great. Thank you.
+Operator:
+Our next question comes from Bhavan Suri with William Blair. Please go ahead.
+Bhavan Suri:
+Hey guys, thanks for taking my question, and congrats, nice job there. Just one maybe for Jay to start off 
+with. I’m going to touch on Service Desk here. Jay, when you look at the partners and before Jira Service 
+Desk they were obviously selling Jira, but as you look at the Platinum Partners specifically, are they 
+shifting the mix and selling the Confluence, Jira Service Desk or are they still strongly pushing Jira? Then 
+just a second part to that is, have you seen them start to sell deals in larger volume sizes or are they still 
+working with small deals and expanding, or do they typically come in with a larger sort of 500 or 1000 
+12
+ViaVid has made considerable efforts to provide an accurate transcription, there may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only. 
+1-888-562-0262 1-604-929-1352 www.viavid.com
+Atlassian Corporation Plc – First Quarter Fiscal Year 2018 Earnings Conference Call, October 19, 2017
+seat deal? Just trying to understand the dynamics of the Platinum Partners and what’s driving the growth 
+there in terms of deal size and product.
+Jay Simons:
+Thanks, Bhavan. Platinum Partners tend to focus on more complex, larger organizations, and so the 
+Enterprise opportunity that exists for Data Center and in the cloud, and with new releases like Identity 
+Manager, that’s where they’re going to play. These are companies that have a service and consulting 
+business as their primary growth engine, and so they’re looking for more complex landscape that they 
+can basically take maybe initially a starting point with one product and then expand that across the 
+portfolio. That’s where they gravitate. Even within Platinum, there is some specialization so there are 
+solution partners that will focus primarily on Confluence and kind of the broader content collaboration 
+opportunity that that provides to them. There are partners that focus maybe particularly on Jira Service 
+Desk around ITSM and ITIL. There are Platinum Partners that focus specifically on just the technology 
+opportunity that continues to grow as more and more companies become technology companies first.
+So, I think it’s really wide and diverse. There’s no one size fits all, but I would say that Platinum tend to 
+orient more towards Enterprise.
+I think the other part of our partner network that we haven’t talked a lot about is just the marketplace 
+which is just a whole other dimension, both across small and large opportunities where our ecosystem 
+continues to flourish to build additional capability that those small and large companies need across the 
+dimensions that we serve.
+Bhavan Suri:
+Jay, thanks. That was really helpful color. I guess one quick one from me just to follow-up on that. When 
+you look at the Platinum Partners and you look at your investment in partner go-to-market education, 
+finding new partners, all the rest of that, you know you’re not aggressively—there’s no sales motion so 
+there’s not sort of, “Let me go get a customer to buy it.” I totally get that. But is there a motion to develop 
+partners that enhance the Platinums? Then, do you see customer demand coming in such that you want 
+some of these more complex partners, or do you think sort of the mix is pretty good right now?
+Jay Simons:
+We think the mix is pretty good. I mean we’re always looking for additional expertise capabilities. I think 
+where there is—I’ll mention Jira Service Desk again. I think the Service Desk opportunity for the Global 
+2000 is a little bit different and probably does benefit, I think, from expertise, both in terms of the product 
+and the opportunity, but also by vertical. We have solution partners that focus specifically on automotive, 
+and so you understand how to take that product and really configure it around that opportunity.
+We also look for—we talked about this during the Analyst Day, but one aspect that partners help serve is 
+a geographic one where customers in Germany benefit I think from more intimacy with folks in the market 
+that speak their language, that kind of understand how their businesses are different in those particular 
+markets. I think we generally—the 400 strong I think are good, but we continue to recruit and fill in where 
+there’s certain gaps.
+One thing to tack on at the end is when we think about verticals like automotive, another one is 
+government. I think there’s a big opportunity, especially in U.S. fed, and we announced a relationship with 
+Carahsoft which is primarily a reseller but we’ve got a whole ecosystem of solution partners that 
+understand how specifically to deal with a government and the opportunity for our products in that 
+capacity.
+13
+ViaVid has made considerable efforts to provide an accurate transcription, there may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only. 
+1-888-562-0262 1-604-929-1352 www.viavid.com
+Atlassian Corporation Plc – First Quarter Fiscal Year 2018 Earnings Conference Call, October 19, 2017
+Bhavan Suri:
+Great. That was really helpful. Thank you, guys, and congrats again.
+Operator:
+The next question comes from George Iwanyc with Oppenheimer. Please go ahead.
+George Iwanyc:
+Thank you for taking my question. Looking at Trello—and nice additions there again—what type of 
+crossover are you seeing from the Trello user base into your other products at this point?
+Mike Cannon-Brookes:
+Hi George, it’s Mike. We’ve obviously been in credibly happy with how Trello’s user base has continued to 
+grow and that the broad appeal it has to the potential billion knowledge workers out there. We’ve shared 
+quite clearly that our main objective there is to have the team, the Trello team continue to do the things 
+that have made them successful as a team, as a product and our primary focus is on the momentum that 
+exists within Trello. We aren’t rushing into cross-selling across the base between Trello and the other 
+Atlassian family and vice versa. We’re focusing on doing what makes sense for both businesses. 
+Obviously at Summit we shipped a number of integrations with other Atlassian family products, so we’ve 
+now got Trello and Confluence, Trello and Jira. We shipped embedded Trello inside of Bitbucket, so a 
+really deep integration between those two products, and obviously things like the Stride Meeting, so audio 
+and video meetings and conferencing inside a Trello board, so going the opposite direction. Those 
+integrations are going to help customers flow back and forth, but there’s no explicit or active cross-selling 
+activity going on at the moment. Just trying to continue the momentum that Trello has. 
+George Iwanyc:
+Thanks. Then just broadly on a broad product competitive basis, are you seeing any changes in the 
+market, either relative to your price changes or just normal product development?
+Scott Farquhar:
+This is Scott here. We remain really confident about our competitive position in all the markets that we 
+operate in and we haven’t really seen anything over the last quarter that changes the market dynamic in 
+any way. As mentioned, the price increases, we still retain our great go-to-market model as being huge, 
+immense value (inaudible) by price so that hasn’t changed anything on our market competition.
+George Iwanyc:
+All right. Thank you and congrats on the strong results.
+Operator:
+The next question comes from Jonathan Kees with Summit Redstone. Please go ahead.
+Jonathan Kees:
+Great. Thanks for taking my question. My questions are actually just a follow-up to some questions that 
+have been asked. There’s bits and pieces of the answer provided but I guess I wanted to get a more 
+14
+ViaVid has made considerable efforts to provide an accurate transcription, there may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only. 
+1-888-562-0262 1-604-929-1352 www.viavid.com
+Atlassian Corporation Plc – First Quarter Fiscal Year 2018 Earnings Conference Call, October 19, 2017
+complete answer if possible. In regards to the cross-selling, you talked about there’s Service Desk and 
+there’s Platinum Partners who are dedicated to Service Desk. I guess I’m just curious, in terms of like 
+Service Desk and other new products, ex Trello—you’ve already explained pretty well about Trello—and 
+that you did also at the Analyst Day. Out of the new products, how many of them are lead into the original 
+products of Jira and Confluence, or is it still mainly Jira and Confluence are leading to the new products?
+Scott Farquhar:
+It’s Scott here. One of the interesting things about our model is by having lots of product that are very 
+popular with our customers, we don’t sort of have one main product that lands the majority of our 
+customers. We go across our products that they all land new customers, and then a cross-sell motion 
+both active on our part and just as customers naturally move from one product to the next. It’s not an 
+easy motion to map compared to maybe other companies that land with one product and have add-ons. 
+We have a diverse product portfolio, so in fact it’s incredibly resilient as a business but it’s sort of harder 
+to model externally. As we add new products into that mix, we see the same properties and that’s what 
+we look for with products we build and acquire is that they have the same properties of landing new 
+customers and enabling us to cross-sell across the business. 
+We haven’t seen any real change in that. We’ve been pleased with the Trello acquisition. We’ve been 
+pleased with the momentum of Jira Service Desk both landing new customers and cross-selling our 
+existing base, but I couldn’t sort of map out anything more specific on a product-by-product basis.
+Jonathan Kees:
+Okay. I guess the assumption then that the majority of revenues, since there’s still the original Jira and 
+then after that Confluence, that’s starting to diminish as you’re getting the other products starting to take 
+the lead, or as you’re saying there’s so many other products going on you don’t have the original products 
+that are dominating the product lead in, the original sale lead in like you did in the past. I guess that’s a 
+fair assumption then?
+Scott Farquhar:
+Yes. Scott here. When we went public we disclosed in our S-1 that Jira and Confluence made up a large 
+percentage of revenue, and they continue to be really strong products, but obviously as we grow and we 
+bring on new products we build and acquire then the percentage of Jira and Jira Software and 
+Confluence decreases over time as we grow all of our products.
+Jonathan Kees:
+Great. That makes sense. If I can, my last question—my second question really is in regards to—this is 
+for Murray. Not so much the number of customers who are purchasing Enterprise and percentage of MR, 
+that you haven’t disclosed, but you have disclosed before the customer count of customers paying 
+$500,000 or greater, those customers paying $50,000 and greater. I was wondering if you could share 
+that for this quarter.
+Murray Demo:
+Hey Jonathan, we’re doing that on an annual basis, so we’ll do that at the end of our fiscal year. We’re 
+not providing an update on it this quarter, but clearly we’ve made progress once again this quarter, we 
+just haven’t disclosed the exact numbers and we’ll do that on our call at the end of Fiscal ’18.
+Jonathan Kees:
+15
+ViaVid has made considerable efforts to provide an accurate transcription, there may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only. 
+1-888-562-0262 1-604-929-1352 www.viavid.com
+Atlassian Corporation Plc – First Quarter Fiscal Year 2018 Earnings Conference Call, October 19, 2017
+Okay, great. Something to look forward to. Thanks a lot guys and congrats on the quarter.
+Murray Demo:
+Thank you.
+Operator:
+Again, if you have a question, please press star, then one. The next question comes from Alex Kurtz with 
+KeyBanc Capital Markets. Please go ahead.
+Alex Kurtz:
+Thanks, guys, for taking my question. When you look at the annual guidance, just relative to the last 
+couple of questions around execution, strong execution in the Enterprise space, how do you guys figure 
+out how to kind of model for that over the next couple of quarters as those customers sort of grow 
+revenue contribution and trying to balance that against sort of the smaller accounts and their recurring 
+revenue profile?
+Murray Demo:
+Well, you know, really no change as to how it’s been working. We have the land and expand model so 
+we’re going to be making assumptions on what we’re going to land each quarter in terms of new 
+customers and what the expansion rates are, renewal rates, etc. There’s no real change in all that. We’re 
+not trading off large Enterprise for small customers. Our products can scale across that entire spectrum. 
+We’re going after that Fortune 500,000 which is small businesses and large enterprises. It’s just more of 
+the same in terms of the model.
+What you’re seeing is is on the expand side there’s customers, they’ve gone from one team to five teams 
+to 10 teams, and now with the Data Center offering it allows them to expand even further where they’ve 
+got—it could be tens of thousands of users, and so this patient for revenue model where it expands over 
+time with larger organizations and we continue to land with new customers each quarter is a very 
+powerful model, but no real change in how we’re modeling it going forward and we’re excited with the 
+start of our first quarter.
+Alex Kurtz:
+All right, thanks.
+Operator:
+The next question comes from Gregg Moskowitz with Cowen & Company.
+Gregg Moskowitz:
+Great, thank you. Hi guys, and my apologies. I couldn’t get on earlier. Just navigating multiple calls. I had 
+just one other question for Scott or Mike or Jay. You mentioned at Summit that you only have 18
+Enterprise advocates and obviously the business has great momentum. You have a strong self-service 
+model, but given that we’re talking about Fortune 500, Global 2000 type customers that traditionally 
+expect more handholding, wondering if you could just talk about what gives you comfort that this is 
+running at or near an optimized level.
+Jay Simons:
+16
+ViaVid has made considerable efforts to provide an accurate transcription, there may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only. 
+1-888-562-0262 1-604-929-1352 www.viavid.com
+Atlassian Corporation Plc – First Quarter Fiscal Year 2018 Earnings Conference Call, October 19, 2017
+Well, we’ve been practicing it for about 15 years, so that’s maybe the model continues to get better, but I 
+think we have a lot of experience with it. And remember, Enterprise advocates, which really act as almost 
+like a concierge service for large enterprise are one dimension of how we service and support really big 
+companies. The channel is another and self-service is a third. The Data Center business, when we first 
+initiated it wasn’t available on the shopping cart and part of its growth has come from allowing customers 
+to take that upgrade path on their own when they’re ready. If they need additional service and care from 
+us, they’ve got an Enterprise advocate and then a broader advocacy channel that can help them, and 
+they also have our solution partners that can work pretty closely mapping out additional opportunity and 
+helping to guide them through that upgrade path.
+Even then, I think the results say a lot, that we continue to look for opportunities to improve but we’re 
+pleased with our momentum so far.
+Mike Cannon-Brookes:
+Hey Gregg, just to add one thing which is we obviously invest more in R&D than other companies and 
+one of the things is is that the products have to be very usable very early in the adoption so that that 
+expansion can occur and so we put a tremendous amount of effort into usability immediately after a 
+customer puts it into production. It does cost more in R&D but it allows for this model to work and for 
+expansion in large enterprises as much as in smaller organizations.
+Gregg Moskowitz:
+Terrific. Thanks, guys.
+Operator:
+The last question comes from Pat Walravens with JMP Group. Please go ahead.
+Patrick Walravens:
+Great, thanks, and let me add my congratulations. Murray, can I ask are you still leaving us effective 
+December 31st, and maybe Mike and Scott, how’s the search going for someone to replace the 
+irreplaceable Murray and what characteristics are you looking for?
+Murray Demo:
+This is Murray, Pat. Yes, still focusing on the December 31st and we’ve still got a few months to go here 
+so still chugging along. 
+Scott Farquhar:
+This is Scott. We’ve got a search ongoing. I’ve been really pleasantly surprised by the great candidates 
+that we’ve been attracting, the quality of the people that we’re speaking with. I think it speaks (inaudible) 
+of the strong reputation of the last (inaudible) and the great opportunity for the right person. We’ll keep 
+you updated on our progress as we find someone.
+Patrick Walravens:
+Great. Can you comment on what some of the most important things are that you look for as you talk to 
+all these people?
+17
+ViaVid has made considerable efforts to provide an accurate transcription, there may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only. 
+1-888-562-0262 1-604-929-1352 www.viavid.com
+Atlassian Corporation Plc – First Quarter Fiscal Year 2018 Earnings Conference Call, October 19, 2017
+Scott Farquhar:
+Yes. The key one for us is finding people that have seen scale and the right culture fit for us at Atlassian, 
+and so we have a great opportunity here and we’re attracting people with those attributes.
+Patrick Walravens:
+Okay. Thank you.
+Operator:
+This concludes our question and answer session. I would like to turn the conference back over to Mike 
+Cannon-Brookes for any closing remarks.
+Mike Cannon-Brookes:
+I’d just like to say thanks everyone for joining the call today. We really appreciate your time and look 
+forward to keeping you updated on our progress as we go forward.
+Operator:
+The conference has now concluded. Thank you for attending today’s presentation. You may now 
+disconnect.

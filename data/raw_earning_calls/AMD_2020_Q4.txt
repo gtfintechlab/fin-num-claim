@@ -1,0 +1,584 @@
+Operator
+
+Greetings and welcome to the AMD fourth-quarter 2020 financial results conference call. [Operator instructions] As a reminder, this conference is being recorded. It's now my pleasure to turn the call over to your host, Ruth Cotter, senior vice president, worldwide marketing, human resources, and investor relations. Ruth, please go ahead.
+
+Ruth Cotter -- Senior Vice President, Worldwide Marketing, Human Resources, and Investor Relations
+
+Thank you and welcome to AMD's fourth-quarter and full-year 2020 financial results conference call. By now, you should have had the opportunity to review a copy of our earnings press release and accompanying slideware. If you have not reviewed these documents yet, they can be found on the investor relations page of amd.com. Participants on today's conference call are Dr.
+
+Lisa Su, our president and chief executive officer; and Devinder Kumar, our executive vice president, chief financial officer, and treasurer. This is a live call and will be replayed via webcast on our website. Before we begin, I would like to note that on the March 2, Mark Papermaster, chief technology officer and executive vice president technology and engineering, will attend the Morgan Stanley TMT Conference. In addition, our first-quarter 2021 quiet time is expected to begin at the close of business on Friday, March 12.
+
+10 stocks we like better than Advanced Micro Devices
+When our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+
+They just revealed what they believe are the ten best stocks for investors to buy right now… and Advanced Micro Devices wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+
+See the 10 stocks
+
+*Stock Advisor returns as of March 8, 2023
+
+Today's discussion contains forward-looking statements based on current beliefs, assumptions, and expectations, speak only as of today, and as such, involve risks and uncertainties that could cause actual results to differ materially from our current expectations. Please refer to the cautionary statement in our press release for more information on factors that could cause actual results to differ materially. We will refer primarily to non-GAAP financial measures during this call. The full non-GAAP to GAAP reconciliations are available in today's press release and slideware posted on amd.com.
+
+Now, with that, I'd like to hand the call over to Lisa. Lisa.
+
+Lisa Su -- President and Chief Executive Officer
+
+Thank you, Ruth, and good afternoon to all of those listening in today. 2020 marked an inflection point in our long-term journey as we made significant progress establishing AMD as the high-performance computing leader. We significantly accelerated our business and exceeded our aggressive growth goals for the year while navigating industrywide challenges caused by COVID-19. We built substantial momentum throughout the year as we successfully ramped volume production of more than 20 7-nanometer PC, gaming, and data center products.
+
+Annual revenue grew 45%, setting a new record at $9.76 billion. We also expanded gross margin for the fifth straight year and more than doubled the net income from the prior year. While the PC market grew approximately 13% in 2020 to surpass more than 300 million units for the first time since 2014, our annual client processor revenue grew by more than 50% as AMD Ryzen processor adoption increased. We delivered record client annual processor revenue as we gain significant share in 2020.
+
+Adoption of EPYC processors across cloud, enterprise, and HPC customers also accelerated significantly in 2020. We set a new all-time record for annual server processor revenue. Server processor sales more than doubled year over year, and our overall data center sales are now a high-teens percentage of our total annual revenue. Looking at the fourth quarter, we ended the year very strong.
+
+Revenue grew 53% year over year to a record $3.24 billion, while net income increased 66%. Turning to our computing and graphics segment. Fourth-quarter revenue increased 18% year over year to $1.96 billion. Desktop CPU revenue grew by a strong double-digit percentage year over year and sequentially driven by strong demand for our Ryzen processor family in both OEM systems and the channel.
+
+Sell-through of our new Ryzen 5000 processors featuring our Zen 3 core was particularly strong, more than doubling the launch quarter sales of any prior generation Ryzen desktop processor. In mobile, CPU shipments increased by a double-digit percentage both sequentially and year over year. We set records for both quarterly and annual mobile processor unit shipments as Ryzen 4000 notebook shipments continue to ramp in support of the 100 notebook design wins launched in 2020. At CES earlier this month, we launched our Ryzen 5000 mobile processors for ultra-thin gaming in commercial notebooks.
+
+These new mobile processors featuring our Zen 3 processor core extend our performance and battery life leadership, delivering up to 23% higher performance compared to our previous generation and 17.5 hours of battery life. We are on track to increase the number of notebook designs powered by our new Ryzen 5000 processors by 50% compared to our prior generation, positioning us well for further growth in 2021. In graphics, revenue declined year over year and increased sequentially. Desktop GPU sales increased significantly from the prior quarter, driven by the ramp of our new Radeon 6000 series GPUs, featuring our RDNA 2 architecture that deliver up to twice the performance and 65% more performance per watt than our prior generation.
+
+We're seeing very strong demand for our new GPUs. The Radeon 6000 series, our fastest selling high-end GPUs ever, with launch quarter shipments three times larger than any prior AMD gaming GPU priced above $549. We continue to ramp production to meet the strong demand and are on track to expand our Radeon 6000 GPU portfolio in the first half of the year with the new RDNA 2-based desktop and mobile GPUs. Data center GPU revenue decreased year over year but increased sequentially, including initial shipments of our AMD Instinct MI100 accelerator.
+
+MI100 features our new CDNA data center GPU architecture and is the industry's fastest HPC accelerator for scientific research, and the first data center GPU to break the 10 teraflops barrier. We are making strong progress on our data center GPU hardware roadmap and expanding our software ecosystem in preparation for the launch of the first exascale supercomputer in the United States. The all AMD-powered Frontier system plan to go online later this year at Oak Ridge National Laboratory. Now, turning to our enterprise, embedded, and semi-custom segment.
+
+Revenue of $1.28 billion increased 176% year over year, driven by strong growth in both semi-custom and server processor sales. Semi-custom sales increase year over year and sequentially based on strong demand for the next generation Sony and Microsoft consoles. Our semi-custom SoC sales are ramping faster than the last console cycle, and we expect sales to be better than typical seasonality in the first half of this year based on the current strong demand. Now, turning to server.
+
+We had record revenue in the fourth quarter as both cloud and enterprise sales grew sequentially. Cloud adoption remains strong as Google, Microsoft, Tencent, and others continue expanding their use of EPYC processors to power larger portions of their critical internal infrastructure and the number of AMD-powered cloud instances expands. Twenty-eight new public cloud instances launched in the fourth quarter from Alibaba, AWS, and Oracle, while Google expanded general availability of their confidential computing VMs powered exclusively by EPYC processors to nine regions. For the year, the number of AMD-powered instances available from the largest cloud providers doubled to more than 200.
+
+In the enterprise, adoption of AMD-powered servers grew as Dell, HPE, and Lenovo secured new end customer wins with Fortune 1000 accounts across key verticals, including manufacturing, financial services, and automotive. In HPC, the number of AMD-powered supercomputers on the November TOP500 list increased to 21 systems, including two of the top 10 and the fastest supercomputer in Europe. We expect our data center business to accelerate in 2021 as we further extend our performance, efficiency, and TCO leadership with the launch of our next-gen server processors codenamed Milan. Milan production began in the fourth quarter as planned, with initial shipments to cloud and HPC customers.
+
+We are very pleased with the performance of Milan. We conducted the first public preview of Milan at CES, highlighting 68% better performance compared to two of the highest and dual-socket processors from our competition when running a compute-intensive weather modeling simulation. We're on track to publicly launch our third-gen EPYC Milan processors in March with very strong ecosystem support. In summary, our strong 2020 results and 2021 guidance demonstrate the growing momentum for our leadership product portfolio and the robust demand for high-performance computing.
+
+In the last year, we have all seen firsthand the essential role high-performance computing now plays in our daily lives. And we expect adoption to accelerate over the coming years as we enter a high-performance computing megacycle, driven by the growing adoption of cloud computing services, accelerating digital transformation of industries and experiences, the transition to exascale supercomputing, and the mainstream adoption of AI. Against this backdrop, we are very confident we have the right long-term strategy and capabilities to deliver a strong cadence of leadership products and make AMD the premier technology growth franchise. Longer term, our strategic acquisition of Xilinx further strengthens our technology capabilities and positions us well for growth across a broader set of markets.
+
+We passed several important regulatory milestones to date and remain on track to close the transaction by the end of 2021. I am very proud of what AMD has accomplished over the last few years as our talented and dedicated employees established a new pace for innovation in the high-performance computing industry. I'm even more excited about what we can accomplish over the coming years based on our roadmaps and the strong opportunities we see to play an even larger strategic role with our customers and partners. Now, I'd like to turn the call over to the Devinder to provide some additional color on our fourth-quarter and full-year financial performance.
+
+Devinder.
+
+Devinder Kumar -- Executive Vice President, Chief Financial Officer, and Treasurer
+
+Thank you, Lisa, and good afternoon, everyone. 2020 was an outstanding year for AMD. Our industry-leading product portfolio and market share gains drove record annual and quarterly revenue with full-year revenue growth of 45%. We also achieved record annual net income and free cash flow.
+
+We are pleased with our strong performance and the leverage in our financial model. Fourth-quarter revenue was $3.24 billion, up 53% from a year ago and up 16% from the prior quarter, driven by strong sales of Ryzen and EPYC process and semi-custom game console SoCs. Gross margin was 45%, approximately flat year over year. Operating expenses was $789 million, up 45% year over year, driven by increased investments in R&D, go-to-market activities, and higher variable employee compensation-related expenses.
+
+Operating income was $663 million, up $258 million or 64% from a year ago, driven by significant revenue growth. And operating margin was 20%, compared to 19% a year ago. Net income was $636 million, up $253 million or 66% from a year ago. And diluted earnings per share was $0.52, compared to $0.32 per share a year ago.
+
+Now, turning to the business segment results. Fourth-quarter computing and graphics segment revenue was $1.96 billion, up 18% year over year, primarily driven by a significant Ryzen processor growth. Computing and graphics segment operating income was $420 million, or 21% of revenue, compared to 360-- $360 million a year ago, driven by higher revenue. Enterprise, embedded, and semi-custom segment revenue was $1.28 billion, up 176% year over year, driven by strong semi-custom product sales and continued EPYC server processor momentum across the cloud and enterprise markets.
+
+EPYC processor revenue grew sequentially, including early shipments of third-generation EPYC Milan processors. EESC segment operating income was $243 million, or 19% of revenue, compared to an operating income of $45 million a year ago, driven by higher revenue. Turning to the balance sheet. We had record free cash flow of $480 million in the fourth quarter.
+
+Inventory was $1.4 billion, up 8% from the prior quarter, in preparation of 2021 sales. Fourth-quarter adjusted EBITDA was $753 million, compared to $469 million a year ago, driven by higher quarterly earnings. Before I turn to the full-year financial results, let me address a GAAP tax item. Based on our financial results and strong outlook, we released a significant portion of our tax valuation allowance, totaling $1.3 billion, which had a GAAP EPS benefit of $1.06 in the fourth quarter and a benefit of $1.07 for the full year.
+
+Now, let me turn to our full-year financial results. 2020 revenue was $9.76 billion, up 45% year on year, driven by strong growth in both business segments. Gross margin of 45% was up 190 basis points from the prior year, driven by Ryzen and EPYC products, partially offset by semi-custom and Radeon product sales. Operating expenses were 28% of revenue, improving from 31% in 2019.
+
+2020 operating income was up 97% from a year ago to $1.66 billion or 17% of revenue. Net income was $1.58 billion, up 108% from the prior year. Turning to the balance sheet. Cash, cash equivalents, and marketable securities totaled $2.3 billion at year-end, and full-year free cash flow was $777 million, as compared to $276 million in 2019.
+
+We reduced principal debt by $225 million in 2020 and ended the year with $338 million of gross debt. Now, turning to the outlook for the first quarter of 2021. We expect revenue to be approximately $3.2 billion, plus or minus $100 million, an increase of approximately 79% year over year and down 1% sequentially. The year-over-year increase is expected to be driven by growth in all businesses.
+
+The sequential performance is driven primarily by better than normal seasonality in our PC and semi-custom businesses and strength in our data center business. In addition, for Q1 2021, we expect non-GAAP gross margin to be approximately 46%, non-GAAP operating expenses to be approximately $830 million, non-GAAP interest expense, taxes, and other to be approximately $105 million, including an effective tax rate of 15%, and first-quarter diluted share count is expected to be approximately 1.23 billion shares. For the full-year 2021, we expect revenue growth of approximately 37%, driven by growth in all businesses. We expect non-GAAP gross margin to be approximately 47%, non-GAAP operating expenses to be approximately 26% of revenue, non-GAAP effective tax rate to be 15%, and we expect that company's cash tax rate to be approximately 3%.
+
+In closing, I am very pleased with our 2020 results which demonstrate the strength of AMD's product momentum, customer traction, and market share gains. As we enter 2021 and continue to invest in the business and execute our long-term strategy, we are well-positioned to drive gross margin expansion, increase profitability, and deliver strong shareholder returns. With that, I'll turn it back to Ruth for the question-and-answer session. Ruth.
+
+Ruth Cotter -- Senior Vice President, Worldwide Marketing, Human Resources, and Investor Relations
+
+Thank you, Devinder. Operator, please poll the audience for questions.
+
+Questions & Answers:
+
+Operator
+
+Certainly. We'll now be conducting a question-and-answer session. [Operator instructions] One moment please will we poll for questions. Our first question today is coming from Blayne Curtis from Barclays.
+
+Your line is now live.
+
+Blayne Curtis -- Barclays -- Analyst
+
+Hey, good afternoon. Thanks for taking my question and congrats on the very strong results. Maybe first just on the annual guide. Honestly, very robust.
+
+You said all segment is up, but I was wondering if you could provide any color either by segment or -- or by product. Which ones would be better or worse than that very robust 37%?
+
+Lisa Su -- President and Chief Executive Officer
+
+Sure. So thanks for the question, Blayne. Look, we're excited going into 2021. Obviously, 2020 was quite a strong growth year for us.
+
+As we look at the annual guidance, we really do see strength across all of our businesses. So the -- the -- it's led by our larger businesses. So significant growth. We expect significant growth in server, growth in PCs, as well as growth in the semi-customer console business.
+
+But we also see growth in our graphics business across consumer and data center graphics as we ramp the full product lines there as we go through 2021. So overall, I think we're seeing the strength of the new product portfolio, as well as a positive demand environment.
+
+Blayne Curtis -- Barclays -- Analyst
+
+Thanks. And -- and then maybe as a follow-up. I'm curious about how you think about the shape of the year. Obviously, March seems to be bet -- much better than seasonal across several product lines.
+
+And I'm just curious how you're thinking about the overall PC market? I think Intel talks about for being first half weighted. And then obviously semi-custom, you probably didn't as much in December as you did the first three quarters of 2020. Kind of curious how you just think about first half, second half given that?
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. So you saw that a little bit in our Q1 guidance. I think our -- our Q1 guidance is better than normal seasonality. We normally see the first half weaker than the second half just given the consumer bent.
+
+What we see this year is a little bit of a different shape. The shape is, from a market standpoint, we see PCs and gaming better than seasonal. There's some pent-up demand coming into the first half of the year, and -- and that's that's -- baked into the guidance. But we're also seeing a strong data center environment.
+
+So we see server up sequentially in -- in Q1, and that's on the strength of both our current products or our growing products as well as the Milan ramp. So a little bit different shape than normal, but I think we see strong demand across our PC, gaming, and data center segments.
+
+Blayne Curtis -- Barclays -- Analyst
+
+Thank you.
+
+Lisa Su -- President and Chief Executive Officer
+
+Thanks. Blayne.
+
+Operator
+
+Thank you. Our next question today is coming from Matt Ramsay from Cowen. Your line is now live.
+
+Matt Ramsay -- Cowen and Company -- Analyst
+
+Thank you very much. Good afternoon, Lisa, Devinder. Happy New Year. I -- I wanted to start with server, and -- and I modeled a much bigger dollar contribution in 2021 to the growth than there had been in prior years.
+
+And I -- I picked up on the prepared script, Lisa, that you mentioned accelerating growth for your data center franchise i -- in 2021. I think that's probably off a business that doubled last year. So do I have that right that it will accelerate in percentage terms? And maybe you could break down a little bit. I saw Alibaba in the slides announced.
+
+There's a Milan launch coming that I think could push you into enterprise a little bit more than you've been in the past. Some drivers of that server growth would be really helpful. Thank you.
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah, sure. So, Matt, thanks for the question. We are happy with the progress in the data center business. I think 2020 was a strong year for us.
+
+We do see a significant growth into 2021. I think there are a number of drivers. First of all, I think we're seeing the cloud business strengthen for us. So going into the first half of the year, and as I said, that's both on the current generation Rome, as well as the next generation Milan.
+
+The reception to Milan is very strong. So we're -- we're pleased with the performance. We started shipments in Q4. That's continuing into Q1.
+
+You'll see -- we -- we expect to see sort of more customers, sort of new customers adopt Milan than perhaps some that had been on our previous generation. You'll also see a very strong enterprise portfolio. So I think we have a very strong time to market platforms with the key OEMs. And that's part of our launch plan later this quarter.
+
+So overall, I think we are optimistic about the data center in 2021. I think there's a lot of need across cloud and enterprise, and we think Milan is very well-positioned.
+
+Matt Ramsay -- Cowen and Company -- Analyst
+
+Thank you for that, Lisa. My second question, I wanted to ask a little bit about supply. It's -- it's no secret that the industry is supply constrained both due to growth and because of some of the challenges with COVID, and your company is no different. Maybe you could characterize for us the -- the magnitude of the supply constraints and how much they might have been hindering what was, obviously, a really strong growth as it was? But -- that's number one.
+
+And then number two, I -- I noticed that a lot of folks had maybe thought that the big capex increase from TSMC might have something to do with Intel and -- and I think the incoming CEO there to maybe clarified some of those thoughts. But I wonder as you look forward through this year how your guidance incorporates increasing supply coming online and if you've guided to an assumption of better supply or what you have line of sight to with your partners? Thanks.
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah, sure. So certainly, when I look at the semiconductor environment in 2020, it was very strong. So we saw a strong revenue ramp in our business, as well as across some of our peers. It's fair to say that the overall demand exceeded our planning.
+
+And as a result, we did have some supply constraints as we ended the year. Those were primarily I would say in the PC market, the low end of the PC market, and in the gaming markets. That being said, I think we're getting great support from our manufacturing partners. The industry does need to increase the overall capacity levels.
+
+And so we do see some tightness through the first half of the year, but there's added capacity in the second half. And then as in terms of how we -- how we think about these things, so for our full-year annual guide, we do have good visibility on both the demand side and the supply side. And that was the basis for the guidance across the businesses.
+
+Matt Ramsay -- Cowen and Company -- Analyst
+
+Thanks, Lisa. Appreciate it.
+
+Lisa Su -- President and Chief Executive Officer
+
+Thank you.
+
+Operator
+
+Thank you. Our next question today is coming from Vivek Arya from Bank of America. Your line is now live.
+
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+
+Thanks for taking my question and congratulations on --on the strong outlook despite all -- all the industry constraints. Lisa, just one question to -- to go back to a prior one. I was hoping you could help us dissect Q1 and the 2021 outlook given without your semi-custom business so we get a sense for the di -- the different moving drivers of -- of the business both in Q1 and for the full year?
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. So let's see. Let -- let me -- let me start with Q1. So as I said in the earlier that we do see the -- the PC market and the console business a bit better than seasonal.
+
+Normally, consoles would be seasonally down quite a bit, double digits. You would expect consoles this quarter will still be let's call it modestly down. We do see sequential increase in the server business, as well as in the graphics business as we ramp new products there. And then as we go into the 2021, I -- I would say we -- we're now at the place where we have let's call it three businesses at scale.
+
+And so the guidance really encompasses very significant growth across our -- our data center business and the server space, growth in PCs, just given the visibility that we have around platforms and platform launches on both the notebook side and the strength of our channel portfolio. And then we do see growth in the console business as well as there's a lot of demand for the new console. So I think those are the three big drivers for the full year. And I would say it's well-balanced between the three.
+
+And then, in addition, we also have growth in our consumer and data center GPU business as a result of some of the new products launched there. So it's a fairly let's call it broad-based set of drivers, particularly around the product launches.
+
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+
+Got it. And for my follow-up, it's -- it's interesting that as you're launching Milan, your -- your competitor is also launching their data center server. And so both kind of a near term and -- and a '21 question. So on the near term, there has been some discussion of cloud digestion.
+
+I know you're -- you're talking about your business actually growing sequentially so I was hoping you could address what demand environment you are seeing in the very near term from your cloud and -- and enterprise and HPC customers. But looking out to 2021, both you and your competitor will actually be on very -- almost the same manufacturing node. So how do you think that will play a role in your cust -- decision making of your customers. Because I think a lot of times that discussion kind of becomes one dimensional on who is at which manufacturing node? So talk to us about even if you are on the same node as your competitor, what's your ability, and -- and confidence, and visibility to take market share in this over CPU business? Thank you.
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah -- yeah. Thanks, Vivek. That's a -- that's a very -- very good question. So in -- in the near term, what we're seeing in the cloud is -- is actually a period of strong demand.
+
+And so that's -- we saw it strengthening as we went through the fourth quarter and we see demand environment robust in the first quarter. So I think that's -- those are good signals for us. I think for the year 2021, we're excited about Milan. I mean it's a very strong product.
+
+You've already seen a bit of what Zen 3 can do in just our desktop and notebook portfolio. I think it builds upon what we did in Rome. So yeah, I completely agree with you. I think manufacturing technology is one aspect of what makes a product competitive.
+
+But we've been very focused on overall performance, overall system performance, how it performs in the cloud and enterprise environments. I will say that I think Milan is the most balanced product that we have both for let's call it enterprise applications, as well as for the broad set of cloud applications. And in terms of visibility, I would say that we have better visibility starting this year than we've had in -- in the -- the past years because this is our third generation with EPYC, so we're now on let's call it deep customer relationships. Many of the decisions have been made earlier as -- as they were testing out our product, and we have good confidence that we're going to ramp well.
+
+So exciting year for the data center. But certainly, we're -- we're pleased with how Milan is performing and the interest in the marketplace.
+
+Vivek Arya -- Bank of America Merrill Lynch -- Analyst
+
+Thank you.
+
+Operator
+
+Thank you. Our next question is coming from Stacy Rasgon from Bernstein Research. Your line is now live.
+
+Stacy Rasgon -- Bernstein Research -- Analyst
+
+Hi, guys. Thanks for taking my questions. I wanted to start on margins first. So in the quarter, you had record server revenues.
+
+You said high teens, that'd put it to something like $550 million or $600 million, which looks pretty good. At the same time, like gross margins sort of barely came in line with guidenace. I mean they actually missed by a few kind of tens of basis points. I guess I'm just a little surprised.
+
+Is -- is that all console mix and was consoles like that much better than expected relative to servers that you wouldn't see gross margin upside in the quarter? And I guess the same comments on the guide, a lil -- a little bit of upside, but the same time we've got consoles down, we've got everything else growing, and yet we've only got a little bit of upside in gross margins. I guess if you could help me square that or -- or -- or square that with -- with -- with what you're seeing, that'd be helpful, please. Thank you.
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah, sure, Stacy, be happy to do that. So first on the fourth quarter, I think we saw strength across a couple of different businesses relative to what we had -- what we had guided. So we saw strength -- a little bit of strength in the console business, some strength in servers as well, and some strength in PCs. And PCs, in the fourth quarter, tend to be a bit more weighted to the consumer side of the business.
+
+So those were some of the puts and takes. But from an overall sort of margin expect -- expectation standpoint, I think we were right where we expected to be. And then going into 2021, if you're talking about the first quarter guide, I think my -- my commentary was that we see PCs and consoles a bit better than seasonal. So consoles would normally be let's call it down double digits, and that's not the case in this particular quarter.
+
+We have server up. And so, again, these are just a few puts and takes. But we do see the sequential increase into Q1 and then for the full year as we see the mix of business.
+
+Stacy Rasgon -- Bernstein Research -- Analyst
+
+Got it. I guess for my follow-up just to -- to push on that a little bit. So what are you seeing on the pricing environment, especially in servers? I mean your -- your competitor is actually talk quite actively about a more competitive environment for servers. We're actually starting to see some impacts on their ASPs and their margins.
+
+What are you seeing -- I guess what did you see in terms of server pricing, specifically those kind of trends in the quarter, and what are you incorporating in your guidance for price -- the pricing environment in data center in 2021?
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. So in the quarter, we saw ASPs in the server business actually up sequentially, and that was mostly because of mix, just mix between customers and the ramp of Milan. So as we go into 2021, again, I would say the environment's competitive. So I don't know that it's gotten more competitive.
+
+I think it's about as competitive as it's always been. Our focus has not been to compete on price, but to compete on overall value and total cost of ownership. As we go into 2021, again, I think, for us, APSs are primarily determined by the mix between cloud and enterprise in any given quarter. We're still cloud weighted and I would expect us to be cloud weighted as we go into 2021.
+
+But overall, I would say the ASP environment is about what it's been for the last year.
+
+Stacy Rasgon -- Bernstein Research -- Analyst
+
+Got it. And -- and just -- just one last thing. Just high teens data center, that's in the quarter or that was for -- that was for the -- for the -- for Q4 was high teens percentage revenue data center?
+
+Lisa Su -- President and Chief Executive Officer
+
+It was high teens for the year.
+
+Stacy Rasgon -- Bernstein Research -- Analyst
+
+For the year. OK. What was it in the quarter?
+
+Lisa Su -- President and Chief Executive Officer
+
+It was -- given -- given the strength -- yeah. Well, thanks, Devinder.
+
+Stacy Rasgon -- Bernstein Research -- Analyst
+
+What was that, Devinder? I'm sorry.
+
+Devinder Kumar -- Executive Vice President, Chief Financial Officer, and Treasurer
+
+It's similar -- similar.
+
+Stacy Rasgon -- Bernstein Research -- Analyst
+
+Similar.
+
+Devinder Kumar -- Executive Vice President, Chief Financial Officer, and Treasurer
+
+Yeah, you got to remember the -- the data cen -- the data center GPU is -- is a little bit lumpy, and the server business as well. We've had strength in 2020 compared to 2019.
+
+Stacy Rasgon -- Bernstein Research -- Analyst
+
+OK. OK. Thank you.
+
+Operator
+
+Thank you. Our next question today is coming from Toshiya Hari from Goldman Sachs. Your line is now live.
+
+Toshiya Hari -- Goldman Sachs -- Analyst
+
+Thank you for taking the question and congrats on the strong results. Lisa, I'm sorry if I missed this, but can you speak to your expectations for the PC market this year? Obviously, there -- there's a bit of con -- of -- of concern following the very strong year in -- in 2020. What sort of embedded in your full-year guidance for the PC market? And then as sort of a second part to that question, if you can give us an update on your traction on the commercial side of the market as opposed to consumer, that'll be helpful.
+
+Lisa Su -- President and Chief Executive Officer
+
+Yes, sure. Thanks for the question. So 2020 was a very strong year for the PC market. I think you've heard that from a number of the OEMs in the -- in the market.
+
+2021, most people are saying let's call it mid single-digits type growth. We see something similar to that. This shape is perhaps a bit different than normal in the sense that the first half is a bit stronger than it would normally be. Our focus in the PC market though is -- has been very clear on sort of the subsegments where we could actually move up the stack.
+
+So if you look at our focus on gaming, particularly gaming notebooks and desktops, premium consumer, as well as commercial. And we made very nice progress on the commercial side. And I think that -- that business tends to also develop over a number of quarters. So overall, I think our expectations are the PC market will continue to be strong as we go into 2021.
+
+That being the case, it's one element of our growth and -- and, particularly, we're focused on growth in commercial, growth in gaming, as well as sort of in the premium consumer segments. And the Ryzen 5000 series that we just launched in both mobile and desktop have -- have actually gotten very strong reception from the OEMs in terms of overall platforms.
+
+Toshiya Hari -- Goldman Sachs -- Analyst
+
+Got it. And then as a quick follow-up on opex, the -- the -- the rate at which you're spending is -- is very consistent with your long-term target. But that said, I mean you -- you are growing spending at a very fast clip. Can you remind us where the focus is today in terms of -- in terms of your spending profile and how do you see that translating into future growth in over the next couple of years? You have this 20% top-line growth target out through 2023.
+
+You just grew 45% last year. You're guiding this year to up 37%. Is 20% still the right number? Could we -- could we envision something -- something better? Thank you.
+
+Lisa Su -- President and Chief Executive Officer
+
+Yes, sure. So -- so I don't think we're going to change our long-term growth rate just yet. We set that in March and I think it's the right long-term growth rate. That being said, we're -- we're very happy with the growth of the business.
+
+And from -- from our standpoint, this is a great time to invest in the business. So the model has always been let's invest in the business, let's call it at a rate slower than -- than revenue growth so that we get leverage in the model, and so we're doing that. You can see the -- the -- the percentage of opex as a percent of revenue has come down over the cop -- the last couple of years and will -- will come down as well in 2021. But the overall dollars have allowed us to expand considerably, and really just build out the foundation of the company.
+
+So our investments are really across R&D, expanding our product portfolio. We've leaned in hard on both the --the CPU foundational IP, the GPU foundational I -- IP. As well as on the GPU side, we have split out the architectures between gaming and compute so that we have very competitive offerings in both spaces. As we go forward, more investment on some of the system IPs that link -- link the CPUs and GPUs, as well as investments on the software side and then investments in go-to-market.
+
+So across the board, I think we're becoming let's call it a company of scale, and that -- that helps ensure that we have sort of the -- the breadth and depth of roadmap, as well as customer support to support the long-term growth objectives.
+
+Toshiya Hari -- Goldman Sachs -- Analyst
+
+Thanks so much. Good luck.
+
+Lisa Su -- President and Chief Executive Officer
+
+Thank you.
+
+Operator
+
+Thank you. Our next question today is coming from Aaron Rakers from Wells Fargo. Your line is now live.
+
+Aaron Rakers -- Wells Fargo Securities -- Analyst
+
+Yes. Thanks for taking the question and -- and congratulations on the quarter as well. I -- I want to go back to the -- the Milan processor commentary. I think at the Analyst Day you talked about just continually expanding your ability to address workloads in the enterprise market.
+
+As we think about the positioning of Milan, how would you compare that relative to Rome and -- and how should we possibly think about the -- is there a potential ASP uplift that one should consider with Milan as it -- it starts to ramp?
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. So de --definitely. So we do see sort of ex -- the expansion of let's call it our competitiveness across the enterprise sort of workloads, as well as the broad set of cloud workloads. Our goal in life is to make sure that we're offering improvements in total cost of ownership to our customers.
+
+So as the performance goes up, we do expect some ASP lift as well. But overall, from a customer standpoint, it's so important that the -- the TCO really improve generation to generation. Particularly with Milan and some of the single-threaded performance is very, very helpful, and we expect on some of the enterprise workloads that perhaps can't use all of the course for -- that -- that we have will -- will be able to benefit significantly from Milan just given the uplift in overall performance. So we're excited to tell you more about it.
+
+Like I said, we'll be launching that later this quarter. But overall, we feel very good about the positioning of Milan.
+
+Aaron Rakers -- Wells Fargo Securities -- Analyst
+
+And then as a quick follow-up on -- on the data center side as well. On the GPU side, I know it's been lumpy-ing. It -- it looks like it might continue to be a lumpy business. But is there a point in time over the next couple years that -- that you foresee that actually being a consistent incremental revenue growth driver? What -- what should we be thinking about to -- to kind of get us to see that as --as a key additional growth driver for the company?
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah, absolutely. Look, I think the data center GPU business is definitely coming in into its own, and it -- it will still likely be lumpy quarter to quarter just because the number of customers is not that large. But in terms of as a growth driver for the company, we see 2021 as a growth year for data center GPU, especially as the CDNA architecture comes into manufacturing and production and goes into some of the larger HPC installments, as well as some work that we're doing in the cloud around machine learning and AI. And more importantly, we see it as a multi-year growth driver over the next couple of years.
+
+So we feel very good about the CDNA architecture, its positioning. I think this is a important year for the data center GPU business, and it'll be a important growth driver for us over the next few years.
+
+Aaron Rakers -- Wells Fargo Securities -- Analyst
+
+Thank you.
+
+Operator
+
+Thank you. Our next question is coming from Ross Seymore from Deutsche Bank. Your line is now live.
+
+Ross Seymore -- Deutsche Bank -- Analyst
+
+Hi. Congratulations on a really strong quarter and year. Lisa, just had a question competitively on the GPU side of things, more so on -- on the traditional client side of the equation. You've done a great job taking a ton of share in the CPU side.
+
+Sounds like you're optimistic about what the client GPU business is going to do in 2021. Can you just walk us through some of the differences, some of the opportunities, and or challenges of taking share in the GPU market versus where you've already succeeded so much in -- in, well, continue to on the CPU side of things?
+
+Lisa Su -- President and Chief Executive Officer
+
+Sure, Ross. So the graphics business I think has -- has really been focused on ensuring consistency and roadmap, very similar to the CPU side. So we launched the first generation RDNA architecture that had a 50% performance per watt improvement. We launched the second generation of RDNA 2 just a few months ago.
+
+And then we're going to fill out that portfolio here in the first half of the year. And I think that consistency is important in the roadmap. There is a lot of pent-up demand for graphics cards and -- and gaming, and we see that, and we see it as an attractive market. So I do see that the consumer graphics business will grow in 2021.
+
+We expect to continue to make progress both with the OEM business, as well as the add-in board business. And over the coming years, there's -- the -- the team is working very hard on the next generation RDNA 3 architecture as well. So I think that consistency in the roadmap, top to bottom stack, and really using sort of the -- the depth and breadth of our customer relationships is -- is sort of our strategy there.
+
+Ross Seymore -- Deutsche Bank -- Analyst
+
+Thanks for that color. And I guess as my follow-up, one for either you or Devinder on the gross margin, you gave the shorter term answer for the fourth quarter and the first quarter, but I want to ask one about 2021 as a whole. It's good to see that it's rising again up to that 47% target. I just want to walk through the puts and takes on that.
+
+And I guess the -- the core question is if the semi-custom business is going to grow substantially as a percentage of your revenues, what's offsetting that to have the gross margin rise year over year? Is it mixed between segments? So server, for example, is going to keep up with that? Or is there something within the segments that is also improving, whether it be in semi-custom, or graphics, or -- or some area like that?
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah, maybe let me --
+
+Devinder Kumar -- Executive Vice President, Chief Financial Officer, and Treasurer
+
+Go ahead -- go ahead, Lisa.
+
+Lisa Su -- President and Chief Executive Officer
+
+No, Devinder, you start.
+
+Devinder Kumar -- Executive Vice President, Chief Financial Officer, and Treasurer
+
+So if we look at the businesses, we've been pretty consistent in our server and client up in 2021, obviously, helped the gross margin. And you are right. Our semi-custom in 2020 is the initial ramp a couple of quarters, and then it grows in 2021. And with the guidance that we gave, we are talking about going from 45% to 47% as overall for the year on a year-on-year basis.
+
+And semi-custom, obviously, lower than corporate average with higher revenue full year in 2021 does have an offset there from client and server.
+
+Lisa Su -- President and Chief Executive Officer
+
+Right. So maybe just to add to that, Ross. So the -- I think the -- the answer that -- to -- to what you asked is yes, consoles are let's call it below corporate average margin, although quite -- quite reasonable operating margins. Server is above and server is growing substantially in -- in 2021, and also the PC business.
+
+Within the PC business, we do see some mix improvement as we focus on let's call it the more premium part of the stack and those are some of the drivers for the margin in -- in 2021.
+
+Ross Seymore -- Deutsche Bank -- Analyst
+
+Great. Thank you.
+
+Operator
+
+Thank you. Our next question today is coming from John Pitzer from Credit Suisse. Your line is now live.
+
+John Pitzer -- Credit Suisse -- Analyst
+
+Yeah. Good afternoon, guys. Thanks for letting me ask a question. Lisa, maybe I can ask Ross's gross margin question a little bit differently.
+
+I -- I would kind of argue given the -- the -- the mix in the December quarter and the fact that it was the first quarter of the console ramp that the gross margins you were able to put up were -- were -- were quite good. And I'm kind of just trying to understand how we should think about gross margins ex-console? And as we think about '21 unfold, typically in the console business, gross margins start relatively low, but there is good improvement over time. And so what's kind of the exit rate of gross margins in your 47 full-year guide? And I guess why isn't it higher? It might just be that you guys are being conservative, but it seems like you got a lot of tailwinds as the year unfolds.
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. So again, maybe, Devinder, I'll start and see if you'd like to add to this. John, I think it's early in the year. So let me state that.
+
+We have good visibility into sort of the puts and takes in the various places. But, obviously, there's a lot to unfold over the next 11 months. I do think all the statements that you made are -- are accurate. So the -- the console business does have a history of improving over -- over time.
+
+I do think though that we'll just have to look at the mix of all the businesses, again, as it -- as it plays out. And from an exit velocity standpoint, we're guiding to 46 for Q1 and then 47 for the overall year, so we will see improvements over the year, and the --the key is what is the mix bet -- among the businesses in -- in any given quarter.
+
+John Pitzer -- Credit Suisse -- Analyst
+
+So that's all for that. Then, Lisa, as my follow-up, it's pretty clear that semiconductors are becoming much more strategic to -- to nation states and -- and world governments and there's a lot of speculation that your chief competitor is -- is lobbying Washington pretty hard to get some incentives for domestic manufacturing. I'm just kind of curious how -- how you're trying to be part of that conversation because, clearly, given the IP portfolio you have, given the share that you're taking, I -- I would argue you're as much a national champion as anyone in semis, but it does seem like the focus is on manufacturing. So -- so how do you kind of get the year of Washington to make them understand how important you are in this whole mix?
+
+Lisa Su -- President and Chief Executive Officer
+
+Well, I -- I think the overarching point that you make, John, is the right one, which is semiconductors are becoming increasingly important and increasingly strategic. And I think we all believe that. As it relates to what's important, I think the -- the focus on manufacturing is -- is certainly well-documented. I think there's also a focus on leading edge research and making sure that the leading edge research is also very well-supported in -- in the overall conversation.
+
+So we -- we can -- we participate in many of the industry associations and the conversations, and the key is to continue to invest at both the leading edge and in both research and manufacturing to sort of push the envelope on sort of the next five to 10 years. And that's one of the reasons we're investing as -- as much as we are and -- and we continue to also agree that it's important, as an industry, that we continue to invest.
+
+John Pitzer -- Credit Suisse -- Analyst
+
+So, Lisa, do you think you'll be a direct beneficiary of any incentives that come out of Washington or will be more indirect through your foundry partners?
+
+Lisa Su -- President and Chief Executive Officer
+
+Well, I think much of that is still playing out. So I think we'll -- we'll see how that plays out. But in terms of the -- the manufacturing side, it would be through our foundry partners, in terms of the research side as some of that plays out. We've certainly been very involved in some of the -- the -- the research, and we'll continue to do so.
+
+John Pitzer -- Credit Suisse -- Analyst
+
+Thank you.
+
+Operator
+
+Thank you. Our next question today is coming from Mitch Steves from RBC Capital Markets. Your line is now live.
+
+Lisa Su -- President and Chief Executive Officer
+
+Hi, Mitch, are you there?
+
+Mitch Steves -- RBC Capital Markets -- Analyst
+
+Hey, can you hear me OK?
+
+Lisa Su -- President and Chief Executive Officer
+
+[Inaudible] We can hear you now. Yup.
+
+Mitch Steves -- RBC Capital Markets -- Analyst
+
+OK. Perfect. Yeah. So, Lisa, two questions.
+
+The first one is actually on the manufacturing side. I feel like people are poking a bit on the gross margin. But when you're looking at the company, you guys are having three products ramp up. So the question I kind of want to pose here is what would the gross margin look like if you didn't -- if you had yields similar to what you had about two years ago? Meaning that are the yields for TSMC and your -- I guess, your overall foundry partners improving at the same rate as a normal environment? And then I have a follow-up after that.
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. Well, Mitch, may -- maybe let me start by level setting the conversation with gross margins. I mean we're -- we're right where our roadmap says we would be right. Our -- our long-term roadmap says given the -- the mix of the business, we set out a target to be greater than 50%.
+
+I think we're right on track for that. I think as we go through each of the product ramps, there are the ebbs and flows. But that being the case, I think the -- the yields are right on track where -- where we expect them to be as well. And the most important thing is we're -- we're now seeing growth across let's call it four -- say four or five large businesses.
+
+And so, again, there are some ebbs and flows between them and sort of a mix between cloud and enterprise, the mix between consumer and commercial, and then just the mix between consumer and data center graphics. So put all that together. And like I said, I think we're -- we're pleased that we grew margins two points last year and -- and we're again guiding to growing margins, two points this coming year. And -- and it's right on -- in line with our overall roadmap.
+
+Mitch Steves -- RBC Capital Markets -- Analyst
+
+OK. Perfect. You have it. That makes complete sense to me.
+
+I think it's very difficult to grow the gross margin line with so many yields ramping up right now. The second one is just in terms of the overall addressable market. I realize you guys don't guide by segment, but I think that one of the big things that happened last year is PCs are probably massively upside. So maybe you could level set us in terms of the three major markets you guys are GPUs, CPU PC-sided servers.
+
+Just what do you think the total industry is going to do? This way maybe you can give us, Lisa, an idea of what you guys view as a full year and then we can kind of come to our con -- conclusions -- our own conclusions, sorry, on what -- what that means for -- for AMD.
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. So I think my -- my commentary was PCs, if you just look at what the various sources are saying, we would say sort of mid single-digit growth, and I think we would agree with that. I think server, as a market, if you take a look at enterprise and cloud, again -- again, they -- they have different growth rates, but let's call it modest growth. And -- and then gaming is hard to call because, again, it's -- it's a -- it's a different cycle.
+
+Within that sort of market backdrop, I think we -- we see let's call it 37% growth, and much of that is because of the product ramps and the product portfolio that we have. So we're pleased with the growth. We think we're growing significantly ahead of the market. That being the case, we'll have to see what -- what happens in 2021 because, as you said, the 2020 market was stronger than most projected at the beginning of 2020.
+
+Ruth Cotter -- Senior Vice President, Worldwide Marketing, Human Resources, and Investor Relations
+
+Operator, we'll take two more questions, please.
+
+Operator
+
+Certainly. Our next question is coming from Mark Lipacis from Jefferies. Your line is now live. Hello, Mark, perhaps your phone is on mute.
+
+Please pick up your handset. Mark, if you can hear me. I cannot hear you.
+
+Ruth Cotter -- Senior Vice President, Worldwide Marketing, Human Resources, and Investor Relations
+
+Operator, we can move on. Thank you.
+
+Operator
+
+Very well. Our next question is coming from Joe Moore from Morgan Stanley. Your line is now live.
+
+Joe Moore -- Morgan Stanley -- Analyst
+
+Great. Thank you. I wonder if you could talk about your cloud business for server and maybe give us a sense, you've talked about in the past about the need to -- to sell twice. You're sort of selling to the cloud service provider and then they're selling it to the enterprises that they service.
+
+How are you doing with that and -- and where are you with sort of internal cloud workloads that are -- that they're internally focused on versus enterprise facing workloads within cloud?
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. Thanks for the question, Joe. Yes. So if you look at the cloud environment, we call it both internal as well as sort of the external facing workloads.
+
+I would say we've done very well with internal workloads in the last couple of quarters, Joe. We've seen a number of applications just ramp here in the -- in the second half of this year and going into next year. So we're pleased with the performance on the internal workloads. We see that carrying over to Milan, and sort of the -- the -- let's call it the move from Rome to Milan is -- is -- is not too heavy a lift.
+
+And so we expect that that will continue going into 2021. And in terms of the external facing workloads, we've spent quite a bit of effort sort of building our let's call it sort of the business development engine that sort of let's call it sells along with the cloud vendors, as well as frankly enterprise OEMs. And so our conversation with large enterprises is -- is usually a hybrid conversation. It's -- if you want to buy on-prem, let me tell you what AMD EPYC can do.
+
+If you want to use cloud instances, we have a wide variety of cloud instances across all of the largest cloud vendors. And -- and that's actually progressed very nicely. So I think, overall, that -- that's leading to some of our positive commentary in cloud is that we have seen both progress on internal as well as the external sell with motion.
+
+Joe Moore -- Morgan Stanley -- Analyst
+
+Great. Thank you. And then I wonder in terms of data center GPU, you've talked about some of the emerging applications. Because gaming has been an investment that some of your customers have made, what's the status of that and how -- how big a portion of your data center GPU business do you expect to be driven by cloud gaming in 2021?
+
+Lisa Su -- President and Chief Executive Officer
+
+Sure. So I think the cloud gaming portion of the business was a larger portion of the business in sort of past years for the data center GPU. In 2021, we -- we do have additional cloud gaming engagements that will ramp. But I would say it would be the smaller portion of the business and HPC would become let's call it the larger portion of the business in 2021.
+
+Joe Moore -- Morgan Stanley -- Analyst
+
+Great. Thank you very much.
+
+Lisa Su -- President and Chief Executive Officer
+
+Thanks, Joe.
+
+Operator
+
+Thank you. Our final question today is coming from Timothy Arcuri from UBS. Your line is now live.
+
+Timothy Arcuri -- UBS -- Analyst
+
+Hi. Thanks -- thanks for fitting me in here. So I guess my first question, Lisa, based on your commentary on data center revenues and your splits and you answered the question before about ASPs in Q4. It sounds like server CPU share is running like 12.5% on your $20 million TAM-based that you use.
+
+So you have Milan ramping and you're talking about a lot of visibility on that ramp this year. So I'm sort of wondering if maybe you can give us what your guidance implies or sort of what the next milepost to think of would be in terms of server CPU share as you sort of exit the year and maybe look into next year?
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. So Tim, thanks for the question. What -- what I would say is I don't have a new market share target and I think just given all of the -- the variance in the market. But what I will say is we've given you a good view of the business through sort of the percent of -- of revenue it is.
+
+And as I said in the prepared remarks, the -- the -- the data center business was high-teens percentage of annual revenue and it was predominantly -- predominantly server. So the data center GPU was a very small piece of that, and it was predominantly server. As we go into 2021, again, we see significant growth. I would say it's one of the -- the key growth drivers for the company and we'll give you updates as we go along the way in -- in 2021 in -- in terms of how -- how it's growing as -- as a relative size of -- of the business.
+
+Timothy Arcuri -- UBS -- Analyst
+
+OK. Got it. And then just quickly on data center GPU. It looks like it was maybe flattish this year, year over year.
+
+And obviously, it's going to grow this year as Frontier -- Frontier comes in the year. Can you just sort of maybe give us some sense in terms of how much you think it could grow? I mean could it double year over year? I understand it's not big from a dollar point of view, but could it double year over year? Maybe just talk about how big Frontier could be as a contributor to that business? Thanks.
+
+Lisa Su -- President and Chief Executive Officer
+
+Yeah. So I think -- as I previously stated, the data center GPU business is still relatively small for us. It was actually down year over year. So from 2019 to 2020, it was actually down year over year because some of the cloud gaming ramps in 2019 paused in 2020.
+
+In terms of what it could do in 2021, we see it as a growth driver in terms of relative size. Yes, it could double. I think the -- the way to think about it though is we said that we would like to get that business to let's call it $0.5 billion as sort of the first milestone, and I -- I think we're making good progress toward that milestone. But yeah, that's what I would say about it.
+
+Timothy Arcuri -- UBS -- Analyst
+
+Thanks, Lisa.
+
+Operator
+
+Thank you.
+
+Ruth Cotter -- Senior Vice President, Worldwide Marketing, Human Resources, and Investor Relations
+
+Operator, that concludes our call. Thank you.
+
+Operator

@@ -1,0 +1,525 @@
+1
+SecondQuarter 2021 Buyside Call | July 29, 2021
+C O R P O R A T E P A R T I C I P A N T S
+John Rainey, Chief Financial Officer and Executive Vice President, Global Customer Operations
+Gabrielle Rabinovitch, Vice President, Corporate Finance & Investor Relations
+C O N F E R E N C E C A L L HOST
+Lisa Ellis,MoffettNathanson
+P R E S E N T A T I O N
+Lisa Ellis
+Alright it's the top of the hour, Lisa Ellis here from MoffettNathanson. I'm sure we still have some folks 
+dialing in as there's always a big turnout for these calls, but since we've got a large amount of content to 
+get through today, I wanted to go ahead and introduce and get started. We are joined today by John 
+Rainey, Chief Financial Officer and EVP, Global Customer Operations at PayPal. As well as Gabrielle 
+Rabinovitch, Head of Corporate Finance and Investor Relations, who you all know very well, and a few 
+members of Gabrielle's team. John, thank you for joining us for this customary post earnings buy side call.
+John Rainey
+It’s a pleasure to be on the call with you Lisa, thanks for hosting.
+Lisa Ellis
+SecondQuarter 2021 Buyside Call | July 29, 2021
+2
+All right, terrific okay, we will dive in. Thanks to everyone on the call for funneling in your questions to us, 
+we had pretty overwhelming response, this time around, and we have curated these down to the greatest 
+hits list here of questions for John. John I'm going to start with, certainly the most frequently requested 
+question which is around take rates. Can you just walk through the detailed attribution of the take rate 
+compression that we saw into 2Q? As well as comment on your expectations for how take rates will evolve 
+going forward.
+John Rainey
+Sure, I'd be happy to, Lisa. So we'll start with you know we're talking about a 37 basis point decline, which 
+is obviously larger than what we normally experienced. Fully a third of that 37 bps is related to the 
+transition of eBay to managed payments and I should include in that the performance of their underlying 
+business as well. And so, you know that that is somewhat anomalous to what we've been experiencing 
+over the last several years, but that that is transitory and will go away. 
+There's an equal amount that is composed of probably three other things that I would start with probably 
+FX fees. The way that we price our cross border cross currency products. We are able to monetize the 
+delta between the high and the low on an FX spread each day and as currency volatility was reduced year 
+over year that inhibits our ability to monetize that, so that's in that second bucket as well. All these I'm 
+getting ready to talk about think of them as five to six basis points in terms of the impact on take rate. The 
+second area is hedge losses, we had a hedge lossthis year, relative to a gain last year, the delta there was 
+$122 million and so that impacts our take rate as well. You all follow us along and know that you long 
+enough that you know that vacillates between a positive contribution to a negative contribution 
+dependent upon what's happening and currency markets. The third area, I would say is Braintree and 
+specifically what we experienced in the second quarter was much more pronounced growth in the travel 
+and events vertical than what we had expected and Braintree does most of that processing, for us. That 
+SecondQuarter 2021 Buyside Call | July 29, 2021
+3
+tends to carry a lower take rate and so as the mix of revenue and TPV changed year over year to be more 
+of that unbranded processing. I'd also include Paymentus [bill pay vertical] in Braintree, which carries a 
+lower take rate, but also carries a lower transaction expense. Those three areas that I described really 
+have an equal representation in terms of the eBay impact, so you know that fully describes over two thirds 
+of the decline and take rate.
+Beyond that it's kind of the normal dogs and cats, you know more P2P, Venmo things like that, but the 
+takeaway that I would want everyone to have on take rate is that we're not seeing any degradation in 
+same store sales declines in take rate. That still is holding up very strong. Getting to the second part of 
+your question around expectations for the back half of the year, we would expect the compression in take 
+rate to decline from what we saw in the second quarter, it'll be a little bit less than the third quarter and 
+even less than that in the fourth quarter.
+Lisa Ellis
+And then over the longer term just following up on that question once we're through the eBay transition 
+is the way to think about it, I think you called it out, yesterday, on the call like the delta between your 
+long-term guidance of 25% TPV growth and 20% revenue growth that that kind of dimension realizes your 
+longer-term expectations.
+John Rainey
+That's exactly correct, given the various parts of our business, the diversification of our platform and the 
+mix effect of that that will contribute to some take rate decline. Once we get past some of these issues 
+around this transition with eBay it'll be much more normalized and really only subject to some of these 
+anomalous things like hedge losses and things like that or hedge changes from one period to the next. 
+SecondQuarter 2021 Buyside Call | July 29, 2021
+4
+But again, I'll remind everybody that while I know there's a lot of focus on it and, perhaps, for good reason, 
+this quarter, we don't manage our business to maximize take rate. We look at transaction margin and 
+operating margin. And we want to grow those margin dollars that's the thing that's most important to us. 
+You know the addition of bill payment is a great example there. Knowing that's going to make take rate 
+go down, but that it also carries a low transaction expense. If we can expand margins and grow those 
+transaction and operating margin dollars, then we think that that is the thing that most closely correlates 
+to the creation of shareholder value versus simply trying to maximize take rate in one period.
+Lisa Ellis
+Okay well on a somewhat related point let's talk a little bit about the eBay migration can you just give a 
+little bit more, I don't know transparency, or sort of what's been going on behind the scenes, because it 
+has felt a bit like the timeline and magnitude of that roll off has been a bit difficult to predict. Can you 
+discuss a bit where we are, your confidence level in the outlook over the next couple quarters of the eBay 
+headwind and the fact that that will be completed I think now by the end of the third quarter and also 
+sort of where you think you'll level out in terms of share of checkout within eBay.
+John Rainey
+Sure, well first I'd like to pull back just a little bit here and talk about bigger picture, because in January of 
+2018 when eBay made the announcement that they were going to go down this path. I think everyone 
+probably remembers there was a precipitous decline in our stock price. That began all the planning 
+towards okay what's going to happen in this year of transition. To be sitting here in 2021 and reporting 
+19% revenue growth at the peak of this transition, I think, is something that we feel very good about and 
+we feel very good about it because the underlying business is performing so well. 
+SecondQuarter 2021 Buyside Call | July 29, 2021
+5
+I noted on the call yesterday, but I think it's a very important point to really illustrate that and that we 
+reported 19% revenue growth, with over 800 basis points of pressure from eBay. So imagine what that 
+would be if we didn't have that, and so you know I think it's fortuitous that we're performing as well as 
+we are. The transition itself, when we first started off down this path and planning for this what's actually 
+happened is not too far from what we initially expected. But if you remember Lisa when they transitioned
+to their first two markets Germany and the US it was a very slow, migration. Even their own comments 
+on some of their earnings calls provided expectations that the ramp would take much longer than what 
+we're actually seeing right now. It was those two points that caused us to sort of reset expectations and 
+assume that the longer tail of merchant transition would take longer than what we've experienced. 
+More recently, they've really accelerated that transition and somewhat to our surprise, but appreciate 
+the more of their volume that they transition over to managed payments, the less visibility that we have 
+into the performance of their business, and so it gets more difficult to predict. and particularly when we're 
+talking about something that at the end of the day we don't control. And so that's what's happened this 
+year, and if you just take the second quarter, we expected about 700 basis points of pressure and it came 
+in over 100 basis points higher than that. And so that's what we're experiencing right now, and we expect 
+to have something similar in the third quarter. The good thing is this, after this year this is largely past us. 
+By the end of the year, our expectation is that both from a TPV and a revenue perspective that eBay will 
+be about 3% of our business. So the transition is largely done and so next year is really only dealing with 
+comparing to known results in 2020, which makes that a little bit easier. 
+When we look at our share of checkout we're still maintaining a share of checkout north of 50% in most 
+markets. Even much higher than that in certain markets and so that's always been consistent with our 
+initial expectations. I think going forward just becomes something that is much easier to plan around much 
+easier to guide around and hopefully doesn't prompt as many questions from investors about what's going 
+on there, and our business.
+SecondQuarter 2021 Buyside Call | July 29, 2021
+6
+Lisa Ellis
+Yes, I think we'll all be happy when it's over. To pricing, we know this pricing change that you announced 
+a few weeks ago. One of the first real major price restructurings, since you know, in the past 20 years 
+since PayPal has been around. Can you give some color to why now? So why did you choose to do this 
+now and what gave you the confidence around the magnitude and the timing of the price change? And 
+then also what type of feedback you've been getting from merchants around their receptivity to the 
+change in your pricing structure.
+John Rainey
+Sure, so I'll start with you’ll remember, we started talking about pricing about six years ago, when we spun 
+off from eBay and we made some changes at that point in time. There were some questions about okay, 
+is that it. Is there anything else you can do, and our response consistently has been pricing as a discipline 
+that we’ll continue to evolve and get better at and always try to price to the value that we create. And 
+this is yet another extension of that. Our headline pricing hasn't been changed in two decades. And I think 
+it was a little bit behind the times for some of the products that we're providing and the value that we 
+provide to our customer base. We felt it was time to make a change, both on the branded and the 
+unbranded pricing to be more competitive in some cases to drive more volume, but also to price to the 
+multifaceted product features that we provide to our customer base that, in many cases well exceed what 
+else is offered out there in the market from our competitors. This, for us, provided transparency and 
+clarity to our merchant base. At the same time you know we offer features like Buy Now, Pay Later for 
+free. And when you consider the suite of services and risk protections and things like that that we provide 
+our customers, we felt like relative to where the market was there was an opportunity with branded 
+pricing to increase that to the 3.49% plus 49 cents. 
+SecondQuarter 2021 Buyside Call | July 29, 2021
+7
+With respect to the feedback we're getting from merchants, to be fair, anytime there's a price increase 
+we hear a little bit of feedback from merchants. At the same time, you know those are the same merchants 
+that recognize that their customer base is 60% more likely to purchase something when PayPal is present 
+at checkout or that all of the various features that show higher conversion rates and things like that, when 
+someone uses PayPal. At the end of the day bottom line sales are what matter to them and they're willing 
+to pay a little bit more if they can increase conversion versus really just trying to optimize for their 
+payment processing costs.
+I would say, relative to other price changes that we've made, there's been probably less feedback and less 
+consternation around this. To be fair, that feedback comes in two instances; one is at the announcement 
+of the price change and the second is that the implementation of that. We still have to wait for the latter. 
+With any price change we do put a lot of rigor into understanding what the churn could be from 
+merchants, and what the effect is there. And that informs our point of view about how we go after a 
+future pricing or expand that pricing to other geographies around the world. We'll spend the next six to 
+nine months closely looking at the effect of this and learn from it and then have that inform our actions 
+from there.
+Lisa Ellis
+All right, we also had a number of questions related to NNAs and specifically whether or not you can give 
+some commentary on what's going on with gross adds vs churn. If I'm thinking about the fact that, when 
+asked about your sources of NNA growth you and Dan are both consistently said that a lot of your NNA 
+growth is coming from reducing churn in the existing base. Can you just talk about kind of trajectory on 
+gross adds vs. trajectory on churn. Thanks.
+John Rainey
+SecondQuarter 2021 Buyside Call | July 29, 2021
+8
+Sure, so for background, the way that we compute net new actives is we take activations in a period plus 
+re-activations less churn. With a customer group our size churn can be a material factor in that equation. 
+We are seeing really strong growth across activations and re-activations as well. We cited churn as an 
+opportunity, going forward in part because, when we look at some of the additional features that we're 
+hoping to provide to our customers, we want that to drive engagement. The more engagement that we 
+drive, then you know that, obviously, reduces churn as well. 
+The real progress that I think we're looking forward to on churn is still to come. Now that said, our churn 
+rates, right now, today are better than they were pre COVID and so we're quite excited about that. If you 
+pull back on the second quarter of 11.4 million net new actives and granted that is not as great as what it 
+was in the first quarter or the hyper growth that we saw last year but recognizing that adding over 20 
+million customers in the second quarter last year and coming up on the anniversary of that churn is a 
+bigger factor for us in the second quarter. Now that said, thinking about that equation, activations plus 
+reactivation less churn and knowing that churn is greater in the second quarter. The fact that we had 11.4 
+million net new actives in in the historical context of what we've done is actually quite amazing. We are 
+very excited about what's happening there, we knew the second quarter was going to be the quarter that 
+we had the most pressure on that but let me talk a little bit about what we're doing there to drive some 
+of those improvements, both in gross activations as well as reducing churn. 
+One of the things that we've really been able to use as a lever historically is spending marketing dollars to 
+go after customers and really looking at customer acquisition cost versus customer lifetime value. What 
+we've not done a great job of historically is adding net new actives through our product experiences. As 
+an example of that Lisa if someone goes to guest check out and they don't want to use PayPal and we just 
+allow them to go through that without ever trying to convert them to a customer that's a missed 
+opportunity for us. We're tweaking some of our product experiences right now to have that as another 
+lever in our tool set to be able to acquire net new actives. Doing that will help with activations but as we 
+SecondQuarter 2021 Buyside Call | July 29, 2021
+9
+add these additional experiences some of which we've talked about, some of which are contemplated, 
+you know further down the road all of these things will drive further engagement which will help support 
+this. This goal that we have of getting to 750 million customers in the next five years.
+Lisa Ellis
+All right, everyone's favorite topic,margins. Can you tease apart a bit, you did make an adjustment to your 
+full year margin guidance in 2Q, can you parse apart, how much of that change was related to the 
+incremental eBay headwind that you're seeing versus investments and choices you've made to increase 
+investments or any other factors?
+John Rainey
+I'm going to be a little imprecise here, somewhat intentionally and somewhat, because I don't have the 
+numbers right in front of me but I'll describe it at a high level as probably a little more than half to twothirds of the impact of margin is related to what's going on with eBay. And then the balance falls into two 
+other categories. One is, we noted that the travel events vertical accelerated sharply in the second 
+quarter, we expect some of that to continue to the third. That tends to be a lot more of the unbranded 
+processing, which also carries a lower margin. And so the mix change in our business is slightly different 
+than what we first contemplated there. The last area is we've also invested more heavily than what we 
+originally anticipated. We have a lot of rigor in the way that we approach our investments, and we want 
+to make sure that when we're spending $1 that you know we're getting $1.20 in return or whatever it is. 
+The more clarity that we have on that the more that it actually sort of argues for the case that we should 
+spend those dollars. I noted on the call yesterday, investments are not something that we want to shy 
+away from because we believe that this is a very important moment in our history to invest for the future, 
+given the acceleration of ecommerce, given what we're seeing around the ubiquity of digital payments, 
+SecondQuarter 2021 Buyside Call | July 29, 2021
+10
+given what we believe about the primacy of digital wallets over the next several years, all those things 
+warrant investment butsmart investment. 
+Now I think if you're looking at year-over-year growth numbers certainly those have been, and I'm talking 
+about related to like our operating expenses, those were more eye popping in the quarter. As we begin 
+to lap some of those investments that we started making last year. Those growth rates will come back 
+more in line overall with what we've done historically sort of mid to high single digits of spend. But I think 
+that this is a level of spend overall in terms of the absolute dollars that should persist, because we think 
+there's good opportunity to spend that money to create shareholder value for the longer term.
+Lisa Ellis
+And you have, of course, driven a meaningful amount of margin expansion over the last few years, once 
+the dust settles from the eBay transition in some of these lapping dynamics with the pandemic. Given the 
+mix shift in the business as well as your new investment areas, how are you thinking about margin 
+expansion going forward? Is that still a major opportunity or are we leveling out at this point?
+John Rainey
+No, I would not describe margins as leveling out at all. The margins in our business want to go up. 
+Structurally that's the way our business is and as we begin to monetize things that have been more of a 
+drag on margin like Venmo that gives us opportunity going forward. There's puts and takes here that's an 
+opportunity for us, but if we're doing more unbranded processing with the large merchant that might put 
+pressure there, but when we take the totality of that, the margins are going to go up in our business, and 
+you know what I suggested yesterday is whatwe expect to happen over the next several years, but from 
+one quarter to the next, you know margins may go down if we think the appropriate thing for our business 
+and the best way to create value is to invest more heavily in a certain period. It's not to say that every 
+SecondQuarter 2021 Buyside Call | July 29, 2021
+11
+single quarter margins are going to go up, but when you think about the structure of our business over an 
+investment horizon spanning two to five years absolutely the margins are going up in our business.
+Lisa Ellis
+All right, let's put a spotlight on the credit business bouncing back nicely now that were emerging from 
+the pandemic. What's a normal loan loss rate for PayPal going forward? And then I'll just add the second 
+one right with that which is how much credit exposure are you willing to take on Buy Now, Pay Later.
+John Rainey
+So what is normal today anyway, right? You know normal credit losses prior to the adoption of CECL at 
+the beginning of last year we're hovering in the three to five basis points for us. But since then we've 
+added a new product, Buy Now, Pay Later, and we also had to adopt the accounting standard for expected 
+losses, CECL. Right at the adoption of CECL is when we saw COVID hit and so I don't think we've 
+experienced what is normal since then. 
+I think probably a way to a good way to think about our business longer term when we get past COVID 
+and some of the volatility that we've seen in the credit environment is probably slightly higher than what 
+we saw prior to COVID, so slightly higher than the three to five basis points. Sitting here today I'd probably 
+say that's five to eight basis points in that range so not a lot higher. 
+In terms of the credit exposure, we are willing to take on with Buy Now, Pay Later, the way I'd like to 
+answer that question Lisa is the way that I think about the exposure that we have to credit, overall, not 
+just BNPL. We've got $3.9 almost $4 billion of receivables on our balance sheet today but half of that is in 
+the consumer international book with the other half composed of our merchant lending and BNPL is about 
+[$875] million of receivables today. The way that we think about the totality of that credit business is we 
+SecondQuarter 2021 Buyside Call | July 29, 2021
+12
+don't want it to become too capital intensive, you know so much of our revenue that if we get into a credit 
+cycle, we see disruptions to the durability of our revenue growth stream. 
+We also want to look at the size of that from a balance sheet perspective and we have internal guardrails 
+for each of those, you can think of it as a yellow flag or red flag that when we hit a certain level we've got 
+to start thinking about other options here that may include externalizing. If we were to externalize and 
+what I'm referring to is doing an off balance-sheet transaction, an asset light like transaction. The 
+merchant lending book and the international consumer portfolio lend themselves more to doing that, 
+than say BNPL because of the short duration nature of that business. I think we are a ways out given the 
+size of that relative to our overall portfolio. Remember that when we did the transaction with Synchrony 
+a few years ago the US consumer book was about $6 billion dollars [of receivables] for us that point in 
+time. We would still need ~50% growth to get to that point from where we are today. And even then, you 
+know we were a much smaller company when we did that transaction, so I think we've got ample runway 
+there before we need to think about doing some asset light transaction there.
+Lisa Ellis
+A couple of quick numbers questions. Given the recent acquisitions is there any incremental M&A impact 
+in guidance for fiscal 2021.
+John Rainey
+No, no material impact to call out the acquisitions that we've done are relatively small.
+Lisa Ellis
+Okay. And then, a free cash flow question. Why are you expecting about a billion dollars less in free cash 
+flow in fiscal 2021, ~$6 billion reduced to >$5 billion?
+SecondQuarter 2021 Buyside Call | July 29, 2021
+13
+John Rainey
+Well, to start with, we start with, we're not. This is one of those areas where you can second guess the 
+way that you've described things, but our prior guidance had suggested that we were expecting free cash 
+flow to be about $6 billion, and that could be a little bit less than $6 billion as well, and now we're saying 
+more than $5 billion and so we're explaining something that is more in the hundreds of millions versus 
+taking the bookends of those two numbers. It's not as if we've had a precipitous decline in our 
+expectations around free cash flow. I would definitely describe it as more marginal and it really just 
+reflects some of the other things that we've talked about in our business. Around composition of some of 
+our volume, notably travel and events, as well as the steeper decline that we've seen in in eBay's business 
+that they do on our platform.
+Lisa Ellis
+All right, one of the hot topics de jour, Buy Now, Pay Later. A couple questions and I’ll kind of ask them 
+together on BNPL, given that this is a pretty crowded competitive market do you expect take rate 
+compression over the next few years, with merchants, and then also can you talk a bit about what your 
+unit economics are like for the BNPL volume compared to say your normal typical checkout volume.
+John Rainey
+Sure, so I'll remind everyone that for BNPL that's a service that we provide for free. So I don't expect any 
+take rate compression for us because we're not going to pay people to take it. Certainly when you look at 
+the other price points in the market that some other competitors are charging, upwards of 5% in some 
+cases, it would stand to reason that you know, maybe over time there's compression there, that's a 
+competitive space and it's tough to compete whenyou’ve got a company that's got 400 million customers, 
+SecondQuarter 2021 Buyside Call | July 29, 2021
+14
+providing that service for free to those merchants, and so, you can speculate on what others will do, but 
+certainly if you look at the history of industries that have operated environments like that it would suggest 
+that there should be pressure there over time. What was the second part of that question Lisa?
+Lisa Ellis
+If a consumer was doing just typical checkout transaction versus instead, they select Pay in 4, what are 
+the unit economic differences.
+John Rainey
+We don't directly monetize that by charging for it so to start with that so there's if you're thinking about 
+unit economics there there's not a direct revenue element to that. From a funding cost perspective about 
+80% of the funding mix here is debit and that carries whatever your assumption is around debit cost. Our 
+loss experience has been exceptional in this category, in part because it's a known customer base. The 
+other thing to consider, though, is that, when someone uses BNPL, at least on our platform, our 
+experience that it has about twice the average order value of a standard transaction. For us, where it 
+becomes very appealing, from an economic perspective, is where we see that 15% lift in payment volume 
+when someone uses this and their willingness to increase their share of checkout or whatthey're choosing 
+to do is checkout with PayPal versus someone else. That's a more indirect benefit here as we're talking 
+about unit economics, but that is something that we are happy to realize the benefit of that in that way, 
+because we think that's better for overall value proposition for our customers longer term.
+Lisa Ellis
+Yeah and that statistic that you just quoted that's payouts share of checkout that goes up is that what you 
+were saying?
+SecondQuarter 2021 Buyside Call | July 29, 2021
+15
+John Rainey
+Well, not the percentage that I shared. The 15% is that we see when a customer uses by now pay later 
+that there's about a 15% lift in payment volume, but your other point is correct, as well, although I didn't 
+provide a statistic on it. When PayPal is offered as a as an installment pay option we see our share of 
+checkout go up. That is the north star for us here, that is what we are going after. So said differently, we 
+monetize that, through our traditional take rate model that we charge the merchant so we're not charging 
+for BNPL, but we are charging our standard take rate with that merchant.
+Lisa Ellis
+And the merchant is getting the extra 15%, the lift you a seeing.
+John Rainey
+Yes.
+Lisa Ellis
+Okay Venmo. Let's switch gears over to Venmo, you had a number of call outs on Venmo in quarter. You 
+know you had initially expected $900 million in revenue from Venmo in fiscal 2021. Any change to that 
+outlook given the strong performance this quarter? And then maybe just talk a little more holistically 
+about how the strategy for Venmo monetization has evolved and what you're seeing in the business.
+John Rainey
+So no change to the prior indication that we gave around our expectation of $900 million revenue for the 
+year, we are on track there and it's performing according to our plan. Stepping back for a second it's quite 
+SecondQuarter 2021 Buyside Call | July 29, 2021
+16
+amazing to think about what Venmo is doing today and the size that it is. >75 million customers doing 
+almost $60 billion in TPV for the quarter and growing at a similar rate [+58% y/y]. And when you put that 
+in context of the size that that PayPal was when we spun off of eBay and certainly even think about Venmo 
+being U.S. only. This is much bigger than PayPal’s U.S. business when we spun off six years ago. This is a 
+precious opportunity that we have and we’re quite excited about it.
+Moving forward we're excited to launch a lot of these new experiences that we've talked about not only 
+on the PayPal platform, but also on Venmo as well and begin to monetize this in some of the more 
+traditional ways, i.e., having Venmo as a payment option to check out at merchants. The receptivity there 
+from merchants has been fantastic and we’re actually quite excited to demonstrate to all of you over the 
+coming months and quarters, where you'll see Venmo in new places.
+Lisa Ellis
+Okay, and we'll talk a little bit more about the super app in a minute, but since we're already talking about 
+Venmo. When can you give an update on just the timeline for the super app related updates or meeting 
+the feature functionality updates to Venmo as well.
+John Rainey
+I'm not a huge fan of the term super App I think it conjures this image that is difficult to live up to. You 
+know, maybe a destination app is a better way to think of it. This is something that we're very excited 
+about as Dan noted yesterday on the call. We've accomplished some major milestones internally to be 
+able to begin to roll this out. It will happen in phases, and this is both with PayPal and Venmo. Some of 
+this is just getting the operating system or the platform, such that it's more nimble so that we can append 
+some of these new experiences and services to it and roll it out more quickly than you know, having to 
+overall overhaul the App as we might have in the past. Then a lot of the features that we've talked about 
+SecondQuarter 2021 Buyside Call | July 29, 2021
+17
+be it savings accounts or investments things like that will come over the coming quarters and years. This 
+is really like a first step, and what will be a foundation to add experiences to our apps over time that create 
+opportunities for customers to engage with us in ways other than just paying for something online. It 
+could be rewards management, it could be savings account, it could be investments, it could be things 
+that are further far afield that I've intimated in other settings that you know, maybe you're not strictly 
+what we think of as payments but provide engagement opportunities and use the core assets that we 
+have around risk and managing a two-sided transaction very well. All this will come over time, but it's 
+arguably overdue. Both of our Apps are a little bit dated, if you will, and so we're excited about this and
+look forward to sharing it to you in the coming months and quarters.
+Lisa Ellis
+All right, and then one final one on Venmo the $900 million. I think you've given some rough splits in the 
+past, or at least kind of the rank ordering of services that are generating that revenue can you just give a 
+quick update on. Meaning is it mostly pay with Venmo is it mostly instant transfer? What's driving the 
+revenue at this point?
+John Rainey
+Yeah, still with the $900 million, probably the single largest component of that will still be instant transfer. 
+But with business profiles, pay with Venmo, some of the other features we're doing, even crypto, those 
+began to add to that. But as we move in the next year and the year after that to more of a steady state 
+pay with Venmo will get will have a larger and larger contribution to that and don't forget as well that 
+we've got both the card portfolio that complements that as well.
+Lisa Ellis
+SecondQuarter 2021 Buyside Call | July 29, 2021
+18
+Okay. All right, shifting over to in-store. Another big hot topic this quarter, can you focus first on the on 
+the QR rollout can you talk a bit about where you're seeing the most demand for QR. Is this mostly SMB, 
+is it is it larger merchants, and then also how are you thinking about driving not only the merchant 
+adoption of QR but also getting the consumer to use PayPal when you're in the store.
+John Rainey
+What we've seen thus far the best traction that we've had is in the SMB segment. And it's obviously 
+particularly attractive where maybe that is the only form of payment that an SMB may be accepting and 
+so we get huge traction there. But we believe it's important for the longer-term success of this to saturate 
+the market with large enterprises as well. We've had some early lessons there and I’ve talked about some 
+of these in the past. Certainly, consumer awareness is very important, but also the employee knowledge 
+of the product is very important. If you've tried to experience or use one of these products at a place like 
+a CVS where we offer this it's very important that the person behind the checkout counter understands 
+how it can be used and can inform the customer of that. We put a little more emphasis into employee 
+training and some of this and the money that we're spending around go to market a lot of it is around just 
+consumer awareness. To be clear here Lisa, we went into this eyes wide open, knowing that this is going 
+to be a multi-year effort, where it's not something that we're going to be able to gauge the success of in 
+the next quarter or two maybe not even in the next year or two, but we also believe in the ascendancy of 
+digital wallets. You can see this in other geographies like China, where it is ubiquitous. The way that you 
+check out whether you're buying a sandwich on a street corner or you're paying for something in the 
+vending machine or going to a grocery store. My belief is that we will have it eventually get to something 
+like that in our core markets as well. I think it will take longer and in part because the ubiquity of card 
+acceptance and the lack of difficulty around you know paying with a credit card today. Consumers clearly, 
+SecondQuarter 2021 Buyside Call | July 29, 2021
+19
+I think, recognize that there's a value there over time and we're going to continue to invest in this and we 
+believe that we've got a value proposition that will allow us to be one of the leading players in the space.
+Lisa Ellis
+Another in-store initiative is related to Zettle. Can you just discuss a bit how the Zettle roll out in the US is 
+going, and specifically how Zettle is sort of competitively positioned relative to some of the other big
+prominent players in the US?
+John Rainey
+We're really excited to be rolling out Zettle in the US right now. You know what Zettle provides that is 
+different than some of the other platforms is the ability to integrate. Easily and seamlessly into some of 
+the other systems that they may be using, Quickbooks is an example of that. You know some of the 
+common tools and systems that SMBs gravitate towards. The compatibility with Zettle is, I think, as good 
+as anything out there and so we're quite excited about that. We're targeting a customer base initially, that 
+is not the standard customer base of PayPal customer base today. There is a remarkable number of SMBs 
+in the United States that don't have an online presence, and this is where we believe that we can get a 
+head start with Zettle, start processing payments there and then bring them over to help them have an 
+omni-channel experience, where PayPal can help them with online sales as well.
+Lisa Ellis
+Okay. All right. Okay, we talked a bit briefly about the rollout of the entity formerly known as the super 
+app. A couple of additional kind of color questions there though. Yesterday, Dan talked about a whole 
+range of feature functionality that's going to be in the new PayPal app. Is most of the features going to be 
+SecondQuarter 2021 Buyside Call | July 29, 2021
+20
+your direct offering or will some of it be coming in through third parties like, what's the vision for how 
+consumers are engaging with the new version of the app?
+John Rainey
+Generally speaking, it will be our offering. There may be opportunities to partner, and an example would 
+be like what we're doing around crypto and partnering with Paxos. When we partner, we want it to be a 
+robust experience that where the customer doesn't recognize that the partner is facilitating that 
+transaction. Protecting the experience is of paramount importance to us. But, generally speaking, the 
+things that we're contemplating will be PayPal experiences.
+Lisa Ellis
+Okay got it. All right two quick ones, I know that we are running up against the back end of our time with 
+you did want to ask you a couple of quick ones first one online platforms. We've talked a lot about online 
+platforms in the context of the eBay roll off and then your ramp of other major platforms like Alibaba 
+announced last quarter. What is your overall strategy for making sure that you're very visible and have 
+high share of check out in the platform environment, particularly when some alternatives are trying to do 
+like exclusive deals and just recognizing the dynamics are bit different when you're dealing with 
+platforms?
+John Rainey
+Well, we maintain a high share of check out on these platforms today. That's been consistent, even in the 
+face of a lot of competition and new entrants into this market. I think our value proposition really 
+resonates with these platforms and, in some cases, the merchants that they serve where that's applicable. 
+When we bring over 400 million customers and we have a frictionless experience that we've shown time 
+SecondQuarter 2021 Buyside Call | July 29, 2021
+21
+and again that customers have a greater propensity to checkout when PayPal is present there, it's a very 
+compelling proposition to either the operator of the that platform or the merchants themselves that may 
+be providing their services on there. We're not going to just rely on those facts and sit on our hands, we 
+want to continue to improve our checkout. We think checkout is one of the most important things for us 
+as we look into the next five years. There are opportunities for us to improve there and so we're certainly 
+going to focus on that a lot. We've been fortunate to enjoy the share of checkout that we had when we 
+were to continue to improve our value proposition to make sure that that stands the test of time.
+Lisa Ellis
+Okay. All right, and then I'll end just on a competitive question, I suppose kind of tying a bow around 
+everything that that PayPal has been doing in terms of adding feature functionality to both the consumer 
+value proposition and the merchant value proposition. How are you thinking about positioning PayPal 
+relative to some of these other checkout buttons like that have gotten a lot of visibility recently like 
+ShopPay for example or Apple Pay what they do within their ecosystem. Kind of maybe at a higher level 
+more holistically, how do you think about that.
+John Rainey
+Well, competition is something that is not foreign to us we've been doing that, with this for a number of 
+years and Lisa you followed us, obviously, from the very onset when we spun off of eBay and you know 
+back in the questions were around Apple Pay and many others. We continue to demonstrate that we are 
+growing faster than the overall market. I think that goes back to some of the reasons in my in my previous 
+answer, but you know we obviously have a brand that stands for trust and security. That matters in a 
+world where commerce is taking place across borders in many cases with merchants that maybe a 
+customer has never heard of before. That's why you see the data that I've shared earlier around the 
+SecondQuarter 2021 Buyside Call | July 29, 2021
+22
+likelihood of someone to check out when PayPal is present. In some cases, even if they don't use PayPal 
+there's still a greater likelihood is they're going to check out there because of that trust that stands behind 
+our brand. I think that that's very important as we look forward over the next several years, I think you 
+start there with trust, but you also you want to have ubiquity and payments. You know it's important to 
+have both sides of that network at scale. You can look at what some of the others are doing in the space 
+and frankly, you know our numbers are just eye popping relative to them, when you consider that you 
+know we've got 32 million merchants on our platform. You look at the number of consumers that we're 
+adding each period and you recognize the network effects of our business. We're going to continue to 
+expand that, leverage the opportunities that we have, and we believe that we're going to be one of the 
+premier digital wallets going forward.
+Lisa Ellis
+All right. Good, well I think, John, we will wrap it up there. We've covered a lot of ground, so I think before 
+we close out the call I just want to leave it up to you if you've gotten any sort of final words or any call 
+outs from the quarter that you wanted to just reiterate for folks as they're still trying to kind of parse 
+through all the numbers from last night.
+John Rainey
+Well, first, I just want to thank you Lisa for hosting this call and for the great Q&A session. I hope this is 
+helpful for the audience in the investor community. I'll close by saying that we are just exceptionally 
+excited about the strength of the franchise. I think you can look at some of the numbers and the impact 
+from the eBay and maybe it's harder to parse that out in a quarter like this, but the underlying business is 
+performing as well as it ever has. When you combine that with the opportunities thatwe believe we have 
+in front of us over the next several years it generates a level of excitement here that you know is really 
+SecondQuarter 2021 Buyside Call | July 29, 2021
+23
+unmatched in our history. We appreciate the opportunity to share some of our thoughts and comments 
+with you, but quite excited about what the business is doing and look forward to talking to all of you in 
+more detail over the coming weeks.
+Lisa Ellis
+Wonderful, terrific. Folks, if we didn't get to your questions on the call we will get back out to you or feel 
+free to either follow up with me and the team from MoffettNathanson or with Gabrielle and her team 
+from PayPal and we will end will get back to you. All right. Wonderful. Thanks everyone for joining and 
+have a great day, and thanks again John and Gabrielle.
+John Rainey
+Okay, thank you. Bye.

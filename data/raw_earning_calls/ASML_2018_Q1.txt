@@ -1,0 +1,178 @@
+1
+Strong DUV demand drives solid Q1 results and confirms positive outlook for 2018
+Multiple EUV orders, including High-NA, demonstrate further adoption of EUV technology
+VELDHOVEN, the Netherlands, April 18, 2018 - ASML Holding N.V. (ASML) today’s Investor Call - 2018 first-quarter results.
+Peter Wennink
+Good morning / good afternoon ladies and gentlemen and thank you for joining us for our Q1 
+2018 results conference call.
+Before we begin the Q & A session Wolfgang and I would like to provide an overview and some 
+commentary on the first quarter, as well as provide our view of the coming quarters. Wolfgang 
+will start with a review of our Q1 financial performance with added comments on our short-term 
+outlook. I will complete the introduction with some additional comments on the current business 
+environment and on our future business outlook.
+Wolfgang if you will
+Wolfgang Nickl
+Thank you Peter and welcome everyone. 
+I will first highlight some of the first-quarter accomplishments and then provide our guidance for 
+the second-quarter of 2018. 
+Q1 net sales came in at 2.29 billion Euros, somewhat stronger than guided driven by product 
+mix and a strong DUV business. Net system sales of 1.67 billion Euros, was primarily driven by 
+strong memory revenue, which contributed 74% of sales. Logic, which now combines Foundry 
+and IDM sales, made up 26% of system sales. Installed Base Management sales for the 
+quarter came in at 617 million Euros, which was just above our guidance. Gross margin for the 
+quarter came in at 48.7%, which was 70 basis points above the upper end of our guidance 
+range, driven by both volume and mix. Overall OPEX came in slightly above guidance, with 
+R&D expenses at 357 million Euros and SG&A expenses at 114 million Euros. 
+Turning to the balance sheet, we ended last quarter with cash, cash equivalents and short-term 
+investments at a level of 3.19 billion Euros. During the quarter we purchased approximately 170 
+2
+million Euros worth of shares. This means we still have 2.33 billion Euros of our 2018/2019 
+share buyback program remaining.
+Moving to the order book, Q1 system bookings came in at a strong 2.44 billion Euros. 57% of 
+the order in-take was from logic customers, driven by EUV. Memory made up the remaining 
+43% of order volume, driven by DUV. We took nine new EUV orders in the quarter. 
+Additionally, we received four orders for High-NA R&D systems from three customers and on 
+top of this we sold options for eight High-NA Early Volume Systems. High-NA is our next 
+generation EUV system which will enable geometrical shrink beyond the next decade. The 
+initial selling price for these High NA systems is around 270 million Euros. We will receive 40% 
+as a down payment and the remaining 60% will be milestone based, with the majority of the 
+milestone payments expected before shipment. The options were sold for 50 million Euros 
+each, with payments starting this year.
+At this point I would like to comment on our reporting of bookings and backlog going forward. As 
+we have communicated a number of times in the past, we establish our joint demand forecasts 
+with our customers via very routine and comprehensive planning cycles. Order flow can be 
+lumpy and therefore does not always reflect our business accurately. We believe reporting 
+bookings and backlog provides limited value and therefore backlog will no longer be reported. 
+As we want to provide some additional visibility during our initial EUV ramp phase, we will 
+continue to report bookings throughout this year. We currently plan to no longer report bookings 
+beginning in 2019. 
+With that I would like to turn to our expectations and guidance for the second quarter of 2018.
+We expect Q2 total net sales between 2.5 and 2.6 billion Euros. Our total net sales forecast 
+includes almost 600 million Euros for our EUV business while we target to ship three EUV 
+systems in the quarter. Our Q2 EUV revenue forecast is a combination of revenue upon 
+shipment and deferred revenue from prior quarters. This catch up of deferred revenue was 
+previously forecasted for the second half of the year. On EUV revenue guidance, we have 
+communicated that we will provide quarterly guidance until we are recognizing the majority of 
+revenue for a system at the time of its shipment. We expect this to happen in Q2 and will 
+therefore no longer provide quarterly EUV revenue guidance starting in 2019. 
+3
+For the full year, our shipment plan has changed from 22 to 20 EUV systems. This change was 
+due to a combination of anticipated end of year shipment logistics challenges, due to multiple 
+shipments in the fourth quarter, as well as customer fab readiness. The two affected systems 
+this year will ship early 2019 and will not impact customers' EUV production ramp plans. As a 
+result of this adjustment, our EUV revenue for 2018 is now expected to be around 2.1 billion 
+Euros versus 2.3 billion Euros that we had indicated previously. I would like to highlight though 
+that we expect this reduction to be more than compensated by stronger DUV and Applications 
+businesses.
+We expect our Q2 Installed Base Management revenue to again come in around 600 million 
+Euros. Gross margin for Q2 is expected to be around 43%, impacted by the significant increase 
+in EUV sales in the quarter. R&D expenses for Q2 will reflect continued accelerated 
+investments in our portfolio and will come in around 375 million Euros. SG&A is expected to 
+come in at about 115 million Euros.
+We have started a new share buyback program for 2018/19 of up to 2.5 billion Euros. In Q1, 
+170 million Euros worth of shares were repurchased. Additionally, we have also proposed a 17 
+percent increase in our dividend to 1.40 Euros per share to our annual shareholder meeting 
+which takes place on April the 25th in Veldhoven. The dividend payment is valued at around 
+600 million Euros. 
+We are excited about 2018. Customers' demand for our products continues to be strong with 
+strengthening demand in DUV as well as Applications. In addition, we see strong demand for 
+EUV as customers ramp this technology in production and have committed to this next 
+generation technology. We look forward to a year of continued strong growth in both revenue 
+and profitability. 
+With that I’d like to turn the call back over to you Peter.
+4
+Peter Wennink
+Thank you, Wolfgang.
+I would like to start off by announcing a major milestone reached this quarter regarding our next 
+generation EUV technology, called High-Numerical Aperture or High-NA. We have aligned our 
+development timeline with customers and received orders for four High-NA R&D systems from 
+three leading semiconductor manufacturers targeted to start shipping in Q4 2021. We also sold 
+to customers options to buy eight early volume systems targeted to start shipping in 2024. This 
+is a significant milestone in that it demonstrates customers' commitment to EUV technology for 
+future nodes and provides great growth opportunity as we extend lithography technology 
+beyond the next decade. I will highlight some of the key product features in more detail later but 
+I would like to first address our view of the business and demand drivers. 
+As Wolfgang has highlighted, we had a good start to the year and our business continues to 
+perform very well. The positive industry environment and increasing litho intensity, as customers 
+migrate to more advanced nodes, continues to drive strong demand for our products in both 
+logic and memory markets. Although this does not come as a surprise, we are increasingly 
+optimistic about our 2018 outlook as compared to a quarter ago as we see strengthening 
+demand in memory while logic demand remains solid. Based on expected growth and current 
+guidance, we expect to see a significant increase in revenue in the second half of the year. In 
+summary, stronger DUV will be primarily driven by memory and stronger EUV will be primarily 
+driven by logic.
+We plan to ship to over 15 greenfield fabs in 2018. It may be interesting to note that of these 
+fabs, the majority will be in the China region of which 7 are for domestic Chinese customers. 
+Memory strength in both DRAM and NAND is driven by increasing content as well as expanding 
+end market applications. In DRAM, our customers continue to migrate to the 1X nm node, along 
+with required wafer capacity additions to meet bit demand. In NAND, a number of customers 
+continue to ramp new greenfield fabs and scale vertically via stack of stacks, which requires 
+additional lithography. With strengthening demand in both DRAM and NAND, we see significant 
+year over year growth. Based on current third party estimates for both DRAM and NAND bit 
+demand growth against our view of bit supply growth, we don't see major concerns regarding 
+supply-demand balance through the year. 
+5
+Logic demand continues to be solid as customers ramp 10nm and 7nm nodes while the initial 
+demand for the latter is the primary driver behind the significant increase in EUV demand this 
+year. 
+On the ASML product side let me start with an update of our EUV business.
+In EUV, we continue to make progress as this technology starts to ramp in volume production. 
+We delivered a configuration that achieved 125 wafers per hour at a customer site and continue 
+to drive improvements in throughput performance, demonstrating 140 wafers per hour at ASML 
+factory. We continue to focus on improving availability and work with our customers in support 
+of infrastructure around EUV in volume production. Demand from our customers continues to 
+be strong as they start ramping this technology in production. With a plan of 20 shipments in 
+2018, this represents a doubling of output over last year's shipments. As we now move into the 
+volume phase of this new technology ramp we will focus our operations and industrialization 
+efforts on managing our supply chain and helping our customers with their fab readiness 
+preparations. As Wolfgang mentioned, we have shifted two systems to early 2019 due to a 
+combination of customer fab readiness and anticipated challenges regarding the logistics 
+around year end shipments. However, based on our discussions with customers', our previously 
+communicated estimates of their EUV layer adoption plans remain unchanged. As a reflection 
+of their continued commitment to EUV production plans, we took orders for nine NXE:3400 
+systems this quarter in support of our 2019 shipment plan of at least 30 systems.
+As mentioned in my introduction, High-NA is our next generation EUV technology, which 
+extends lithography and enables cost effective scaling beyond the next decade. The NA, 
+numerical aperture, of the new optical system will increase from 0.33, on current EUV systems, 
+to 0.55 on High-NA systems. In addition to new advanced optics driving improvements in 
+imaging, platform innovations in stage technology will drive improvements in overlay and 
+productivity. We are currently targeting an initial increase in productivity to 185 wafers per hour. 
+Last year's investment in Carl Zeiss SMT will further solidify our development timeline and 
+reduces the execution risk. With the addition of High-NA, ASML's product portfolio will include 
+0.33 NA and 0.55 NA EUV, dry and immersion DUV, i- line as well as Holistic products, all 
+designed to work together seamlessly in production. 
+6
+In DUV, we will increase our factory output to meet the market demand. Furthermore, our focus 
+on productivity means we continue to boost our new system output and we expect to exceed 
+the record productivity level reached last year. In addition to increasing the maximum 
+configuration output per system, we are also continuously increasing productivity of our 
+systems in the field. For instance, we achieved an output of 6000 wafers per day on an NXT 
+system in a NAND fab, which translates to a five percent increase in productivity over 12-month
+period. With both increased system shipment output as well as productivity increases of 
+systems in the fabs, we are delivering further value to our customers via capacity and cost 
+efficiency. 
+In Holistic Lithography, we continue to see growth across our full portfolio of software and 
+metrology products. Our YieldStar metrology continues to gain broadening adoption with recent 
+growth via expansion in the memory market. We also shipped our first YieldStar 1375 system, 
+which measures actual in-device lithography performance, enabling more accurate 
+measurement of the device and thus driving yield improvements. We have shipped multiple 
+pattern fidelity metrology tools, ePfm5, and are seeing initial positive customer results. This 
+technology, where ASML's high resolution e-beam technology is combined with our 
+computational lithography software, will enable e-beam based feedback to the scanner and 
+deliver improved yield performance in volume production. To further drive e-beam productivity 
+performance and expand application opportunity in volume production, we are developing multibeam technology. We successfully captured first images from our three by three beam proof of 
+concept system. We see great growth opportunity in Holistic Litho business and expect its 
+growth rate to exceed our overall revenue growth rate in the coming years. 
+To summarize, this year we expect continued solid growth in both sales and profitability. We are 
+more optimistic about our view on the year than we were a quarter ago due to the continued 
+strengthening of memory demand while logic demand continues to be solid. We are on track to 
+achieve our 2020 targets with significant growth potential beyond 2020. We plan to 
+communicate our growth opportunity beyond 2020 at our Investor Day on November 8th this 
+year. 
+Last but not least as many of you know, this quarterly call is the last call with Wolfgang online 
+helping us to bring clarity to our results and operations. It goes without saying that at least we at 
+ASML will miss him dearly and we would like to take the opportunity to thank him 
+7
+wholeheartedly for his invaluable contributions to ASML. We wish him all the best in his new 
+challenge at Bayer and we will follow him closely, rest assured.
+With that we would be happy to take your questions.

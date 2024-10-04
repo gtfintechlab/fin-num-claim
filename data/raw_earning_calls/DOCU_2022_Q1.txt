@@ -1,0 +1,464 @@
+Operator
+
+Good afternoon, ladies and gentlemen. Thank you for joining DocuSign's first-quarter fiscal '22 earnings conference call. As a reminder, this call is being recorded and will be available for replay from the investor relations section of the website following the call. A brief question-and-answer session will follow the formal presentation.
+
+[Operator instructions] I will now pass the call over to Annie Leschin, head of investor relations. Please go ahead.
+
+Annie Leschin -- Head of Investor Relations
+
+Thank you, operator. Good afternoon, everyone. Welcome to DocuSign's first-quarter fiscal '22 earnings conference call. On the call today, we have DocuSign's CEO, Dan Springer; and CFO, Cynthia Gaylor.
+
+The press release announcing our first-quarter results was issued earlier today and is posted on our investor relations website, along with our quarterly slides. We plan to post prepared remarks on the site beginning next quarter. Before we get started, I'd like to let everyone know that we plan to participate virtually in a few upcoming events. These include Evercore's TMT Conference on June 7, Bank of America's 2021 Global Tech Conference on June 9, and Baird's 2021 Global Consumer, Tech, and Services Conference on June 10.
+
+10 stocks we like better than DocuSign
+When our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+
+They just revealed what they believe are the ten best stocks for investors to buy right now… and DocuSign wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+
+See the 10 stocks
+
+*Stock Advisor returns as of March 8, 2023
+
+As other events come up, we'll make additional announcements. Now, let me remind everyone that some of our statements on today's call are forward-looking. We believe our assumptions and expectations related to these forward-looking statements are reasonable, but they are subject to known and unknown risks and uncertainties that may cause our actual results or performance to be materially different. In particular, our expectations regarding the effects of the COVID-19 pandemic on our business, including the potential effects of the pandemic subsiding, are based on our best estimate at this time and are therefore subject to change.
+
+Please read and consider risk factors in our filings with the SEC together with the content of this call. Any forward-looking statements are based on our assumptions and expectations to date. And except as required by law, we assume no obligation to update these statements in light of future events or new information. During this call, we'll present GAAP and non-GAAP financial measures.
+
+Non-GAAP financial measures exclude stock-based compensation, employer payroll tax on employee stock transactions, amortization of acquired intangible assets, amortization of debt discount and issuance costs from our notes, acquisition-related expenses, and, as applicable, other special items. In addition, we provide non-GAAP-weighted average share count and information regarding free cash flows and billings. These non-GAAP measures are not intended to be considered in isolation from, a substitute for, or superior to our GAAP results. We encourage you to consider all measures when analyzing our performance.
+
+For information regarding our non-GAAP financial information, the most directly comparable GAAP measures, and a quantitative reconciliation of those figures, please refer to today's earnings press release, which can be found on our website at investor.docusign.com. Now, I'd like to turn the call over to Dan. Dan?
+
+Dan Springer -- Chief Executive Officer
+
+Thanks, Annie. Good afternoon, everyone, and welcome to our first-quarter earnings call for fiscal 2022. We have a lot to cover today, and I'd like to focus my comments on four key areas: our strong Q1 fiscal year '22 results, more insight into the breadth of our customer journey, the international business landscape and how we see that evolving, finally, the key investments we made in technology and people as fourth. But before we get to the financials, I want to share some observations on our market overall.
+
+Since the start of the pandemic, DocuSign has helped accelerate access to healthcare, government, education, small business lending, and many other services around the world. What began as an urgent need has now transformed into a strategic priority. And as a result, DocuSign has become an indispensable part of many organizations' business processes. Put another way, once businesses digitally transform their agreement processes, they simply don't go back.
+
+We believe this trend will only accelerate as the anywhere economy continues to emerge. In fact, just a few weeks ago, we were excited to welcome DocuSign's 1 millionth customer in this platform. And this move to digital has manifested itself in a great start to the year with Docusign. We saw strong performance on all fronts, delivering a balance of growth and profitability at scale [Audio gap].
+
+Our revenue grew 58% year over year to $460 million for the quarter. International reached a milestone with over $100 million in revenue for the quarter. Non-GAAP operating margins reached an all-time high at 20%, and the top-line growth outpaced our investment [Audio gap] and strong expansion across our existing customer base drove record-high dollar net retention of 125%. From any vantage point, these are exceptional results that reflect the continued demand and engagement we are seeing from our customers across all industries and use cases.
+
+I am particularly proud of the DocuSign team's abilities to execute despite the vast majority of our 6,000 strong workforce still working remotely. As we said consistently, eSignature is the on-ramp to DocuSign for most companies. This quarter was no exception as we saw new and existing customers adopt and expand at record rates, with use cases and envelope volumes increasing significantly. Let me give you just a few examples.
+
+A large delivery service provider needed to capture, monitor, and report on new benefit structures for its workers. We helped the team leverage eSignature PowerForm and DocuSign's Insight analytics to create an entirely new and streamlined process. This saved them hundreds of hours of manual processing with its accurate and efficient management reporting, and it provides an extensible solution for future growth. One of our restaurant service customers needed a way to streamline and automate their agreement generation and signing processes as their industry began to reopen.
+
+We worked with them to improve turnaround time and increase sales productivity. Importantly, this dramatically decreased the time to complete agreement from two weeks, now it's just three days. And one of our leading grocery production customer was printing over a million pieces of paper a month as part of their manufacturing process. They started using eSignature template and quickly took more than 100,000 sheets of paper out of circulation, a number that will only grow now that other business units can leverage the technology.
+
+Now, this expansion was not just domestic, but international as well. In Q1, our business outside the U.S. contributed 21% of total revenue, and it continues to be the biggest future growth driver for us and the largest part of our TAM. Today, this looks much like our North American business several years ago.
+
+Customers growing and expanding in a similar way. Take one of our multinational telecom customer as one example. They were looking for a way to digitally transform their internal and external contracting processes and reduce their environmental impact. Using the DocuSign API, the company now has defined workflows for verification, validation, and the automatic archiving of their contract.
+
+They sent and deployed the solution in countries across Europe and sub-Saharan Africa. In response to the pandemic, an international pharmaceutical customer takes a huge increase in new users in a regulated industry where standards advance, and qualified eSignatures are required. Our teams work together, and the results speak for themselves. Amid a 270% increase in new users, they sent 650% more envelopes and completed them 50% faster.
+
+And the time to onboard new users dropped from three weeks [Audio gap]. We are also driving a variety of strategic initiatives internationally. In late April, we officially opened our virtual doors in Mexico to increase our ability to service customers in Spanish-speaking [Audio gap] and we're excited by the early traction we're seeing there already. We also upping our focus on regional product offerings and [Inaudible].
+
+DocuSign products are grounded in high availability, reliability, security, data privacy, regulatory compliance, and trust. But we can now take that one step further with products like eWitness in the U.K. This product makes it possible to electronically identify witnesses when they are signing an agreement. This is increasingly important in the U.K.
+
+as the country's land registration authority just began accepting witness' electronic signatures for their property transactions. DocuSign executed the first-ever land registry deed submitted electronically. And now, we're enabling a new class of high-volume high-value agreements that can only be done on paper before. So looking ahead, for the rest of fiscal year '22 and beyond, we remain committed to our vision for the DocuSign agreement platform, both as a key pillar and a software platform for the anywhere economy.
+
+Key to that are some important investments in our product, platform, and company as a whole. Couple of which I want to highlight for you today. The first is our acquisition of the technology and the team from Clause, an innovative smart agreement technology [Inaudible]. Clause has been a close partner of ours and has built a platform that enables the clauses in agreement to run at computer code.
+
+These mark clauses and connect to third-party systems and drive a host of actions like sending notifications, running compliance checks, and sending contract status updates. Their experience developing specific solutions, financial services, insurance, and healthcare company also complements the way DocuSign helps many of our customers and how we want to architect the Agreement Cloud for the future. We're really excited to welcome Peter Hunn and the whole team to DocuSign. Second highlight is our continued expansion of the executive leadership team at DocuSign.
+
+As we grow and scale, it's vital that we optimize our system's processes and technology infrastructure to support the needs of today and the rapidly evolving [Inaudible]. It's equally important that we have the right leaders in place to oversee and drive that evolution. That's why I'm thrilled to welcome Shanthi Iyer as our new CIO. As a former chief data officer at Cisco, Shanthi will ensure that DocuSign is world-class in all of those areas, and we're thrilled to have her on board.
+
+Also, as we continue our international growth, we're expanding our local and regional leadership bench, too. In Q1, we appointed the former regional Salesforce COO, Dan Bognar, to help lead our regional efforts in APJ. Before I hand it over to Cynthia, I want to reiterate that I am optimistic about the year ahead. The value we offer, our transformation of the agreement process, and everything our team is doing to help our customers and our partners around the world.
+
+I look forward to talking with you all during Q&A. Now, over to you, Cynthia. 
+
+Cynthia Gaylor -- Chief Financial Officer
+
+Thanks, Dan, and good afternoon, everyone. We followed up an exceptional year in fiscal '21 with an impressive start to fiscal '22, driven by strong execution. Continued customer demand for our eSignature offering led to notable top-line growth at scale. We demonstrated significant leverage in our business model, with record operating margin and cash flow in the first quarter.
+
+Total revenue increased 58% year over year to $469 million and subscription revenue grew 61% year over year to $452 million. Elevated consumption levels by existing customers continue to drive the trend of early renewals and expansions in the quarter, aided by secular tailwinds as customer digitize their businesses. We saw exceptional growth outside of the U.S., with particular strength in EMEA this quarter as our investments continue to gain traction. In Q1, international revenue crossed the $100 million threshold for the first time.
+
+In total, international revenue grew 84% year over year to $101 million. Billings also benefited from the strength in customer demand, climbing 54% year over year to reach $527 million, our second quarter above half a billion. Customer growth remains healthy with the addition of more than 96,000 new customers in the quarter. This brings our total installed base to over 988,000 customers worldwide as of the end of Q1, an increase of 50% compared to a year ago.
+
+This includes another 11,000 direct customers, bringing our total direct customer base to 136,000, an increase of 53% year over year. We saw customers with an annual spend greater than $300,000 grow 42% year over year to a total of 673 customers, adding a record 74 customers in Q1. Continued expansions and upsells led to a strong dollar net retention rate of 125% for Q1, highlighting the expansion economics we've seen over the past year since the pandemic began. Total non-GAAP gross margin for the quarter was 81%, compared with 79% a year ago, while the subscription gross margin was 85%, compared with 84% a year ago.
+
+As a result of the outperformance on our top line, we saw a demonstrated operating leverage. Non-GAAP operating margin reached our target model range for the first time at 20%, or $93 million, compared with 8%, or $23 million, in the first quarter of last year. We are still in the early innings of a large market opportunity. We plan to continue investing for long-term growth, particularly in sales capacity, marketing, R&D, and the scaling of our operations.
+
+Non-GAAP net income for Q1 was $92 million, compared with $24 million in the first quarter of last year. We ended the quarter with 6,080 employees, an increase of 42% over last year. Cash flow also outperformed. Operating cash flow was $136 million, or 29% margin, due to top-line performance and strong collection.
+
+This compares with $59 million, or 20%, in the same quarter a year ago. Free cash flow came in at $123 million, or 26% margin, in the quarter, compared to $33 million, or 11%, in the prior year. We exited Q1 with $876 million in cash, cash equivalents, restricted cash, and investments. Now, let me turn to guidance.
+
+For the second quarter and fiscal year '22, we anticipate total revenue of $479 million to $485 million in Q2, or growth of 40% to 42% year over year; and $2.027 billion to $2.039 billion for fiscal '22, or growth of 40% year over year. Of this, we expect subscription revenue of $459 million to $465 million in Q2 or growth of 42% to 44% year over year; and $1.953 billion to $1.965 billion for fiscal '22, or growth of 41% to 42% year over year. For billings, we expect $549 million to $561 million in Q2, or growth of 35% to 38% year over year; and $2.338 billion to $2.362 billion for fiscal '22, or growth of 36% to 37% year over year. We expect non-GAAP gross margin to be 79% to 81% for both Q2 and fiscal '22.
+
+We expect non-GAAP operating margin to be 16% to 18% for Q2 and fiscal '22. We expect to see a de minimis amount of interest and other income. We also expect a tax provision of approximately $10 million to $12 million for fiscal '22. We expect fully diluted weighted average shares outstanding of 205 million to 210 million for both Q2 and fiscal '22.
+
+In closing, we are incredibly pleased with our Q1 performance. More than ever, we are enabling businesses around the world. As the anywhere economy continues to develop and grow, DocuSign will remain an integral part of our customers' digital evolution. Thanks for joining us today.
+
+We will now open up the call for Q&A. Operator?
+
+Questions & Answers:
+
+Operator
+
+Thank you. We'll now be conducting a question-and-answer session. [Operator instructions] Thank you. Our first question comes from Sterling Auty with JPMorgan.
+
+Please proceed with your question.
+
+Sterling Auty -- JPMorgan Chase & Co. -- Analyst
+
+Yeah, thanks, guys. So on the international front, what are some of the takeaways that you learned in your rollout in the U.S. that you've been able to apply under Mike's leadership in Europe that's helping you accelerate the growth there? 
+
+Dan Springer -- Chief Executive Officer
+
+Sterling, we've talked about the fact that if you go back a few years to when the U.S. business is the size of the international business, they looked quite a bit alike, Sterling. All sorts of dimensions. The scale, the growth rates have been amazingly similar.
+
+I think the core things that I would point to is the focus on customer success for sure is the first piece. And we think we've really done a good job at updating the quality of our success organization internationally at the foundation to really drive adoption. And as we've talked about before, when you get adoption right and it's a healthy model, it really keys -- ease up the land-and-expand model. So I would say the second piece is just that, the way we talk about we allocated our sales resources between those that are doing NewCo versus those that are selling to on solid basis and through expansion sales, and so we follow that same model.
+
+And I think those two pieces are really what have driven that tremendous success. Now, if we talk about those numbers and into the 80s for growth, I don't recall us ever having that in the U.S. So I guess, in some ways, we taught ourselves really well. International has certainly exceeded.
+
+The student has exceeded the master or over that analogy goes from that standpoint. But those would be the themes that I would focus on.
+
+Sterling Auty -- JPMorgan Chase & Co. -- Analyst
+
+Yeah, exactly. That made sense. And one quick follow-up. The call broke up on me a little bit during your prepared remarks, Dan.
+
+I didn't hear any update kind of on the rollout of the notary solution. Can you give us just an update there?
+
+Dan Springer -- Chief Executive Officer
+
+Absolutely. Yeah, we're really excited that we've been able to roll out. Remember that first-party notary, which is the piece that we're primarily focused on, is our existing customers, large financial institutions, etc. that have a notary, you know, sort of embedded in their business and they use their own notary, that's a bigger opportunity and that's where we're going after first.
+
+And that's now released, and we've had our first transactions occur. And we're really thrilled to see that. So very early, we just sort of had that availability now for the market. And then the second piece that we'll be working on with the rest of this year is third-party notary, and that's the model where someone has an individual third-party notary comes, there are two people that need to notarize the transaction but neither in the large institution that would have their own.
+
+So that's the progress we're really pleased.
+
+Sterling Auty -- JPMorgan Chase & Co. -- Analyst
+
+Got it. Thank you.
+
+Operator
+
+Thank you. Our next question comes from Karl Keirstead with UBS. Please proceed with your question.
+
+Karl Keirstead -- UBS -- Analyst
+
+Thank you. Cynthia, maybe this one for you. I just love to ask you about the billings' seasonality this fiscal '22. You did mention early renewals and expansions as a result of elevated consumption, which at first blush sounds a little bit like a pull forward into Q1.
+
+But then, on the other hand, your 2Q guide is super strong. You raised the full year by way more than the Q1. So it sounds like you're signaling strength throughout the year. So I'm just warning if you could comment on seasonality and whether it changed as a result of the Q1 performance?
+
+Cynthia Gaylor -- Chief Financial Officer
+
+Sure. Thanks for the question. Yeah. So I think on seasonality, we haven't seen a big shift in seasonality.
+
+We did see a stronger than expected Q1 due to, you know, the things that you mentioned, you know, mainly around customer consumption and how they're using the product. So we were really encouraged by both the consumption metrics that we're looking at, as well as the use cases that customers are using our products for. And so that's reflected in both the performance for the quarter, but also the forward guide.
+
+Karl Keirstead -- UBS -- Analyst
+
+Got it. OK, great. Congrats on these numbers by the way.
+
+Dan Springer -- Chief Executive Officer
+
+Thank you.
+
+Operator
+
+Thank you. Our next question comes from Alex Zukin with Wolfe Research. Please proceed with your question.
+
+Alex Zukin -- Wolfe Research -- Analyst
+
+Hey, guys, thanks for that. Dan, one of the fears I think people have had historically on DocuSign is that it's just the COVID stock, you're going to start decelerating as you start seeing these tough comps. But I think some people forget that you're a capacity-based model. And therefore, if you're seeing these cohorts that you added last year grow at or above previous rates, which it seems like you are with the expanding dollar basement expansion, you're very well positioned to actually, you know, grow right through this and be even better positioned on the other side.
+
+So just talk through that what you saw this quarter around the growth rate of those cohorts and kind of how you're positioned going forward.
+
+Dan Springer -- Chief Executive Officer
+
+Yeah. Well, you know, Alex, as to your point, I don't know how people are missing it. You write about it in every report I see, you make that point. So I appreciate it by the way.
+
+So hopefully, people will start to listen more to your insight. But I think you nailed it. I think that's exactly what we're seeing. We're seeing that the phenomenon of that strong customer growth is why you see the net retention rate so high.
+
+It's why you see to the last question from Karl is he was able to talk about such a strong guide that at rates we had not achieved previously, you know, for COVID from a billings standpoint and revenue standpoint because we are seeing that underlying demand is so strong from the customers, and I really think the key to it is it's what we talked about in the beginning of the call. So the phenomenon that people, once they see the benefits of the digital transformation, and particularly around the Agreement Cloud from having opportunity to grow their business with us, they don't go back. In fact, they look for additional opportunities to expand. So I don't think -- we don't talk about the Q1 pull forward like it was some fixed amount to pull forward that pays Peter and takes in Paul.
+
+We look at it as just an increasing demand. And it really goes back, and you and I have talked about in the past, to the TAM. We are still in the early days, even of just the eSignature business. Our penetration is so low that it's a very, very large ocean from which we're pulling forward that continued strong customer demand.
+
+So that's how we look at it. I think it's fairly straightforward. 
+
+Alex Zukin -- Wolfe Research -- Analyst
+
+That's awesome. And then maybe just one -- a quick one for Cynthia. Your dollar-based net expansion ticked up again to 125%. I know in the past, you guys have been hesitant to call for a new range or a new normal, but any puts and takes on that figure, how we should think about it? And is any of that starting to be driven by CLM adoption, or is it still mostly the core use case? 
+
+Cynthia Gaylor -- Chief Financial Officer
+
+Yeah. So I would say the -- it's mainly around the core use case, right? Remember, the Agreement Cloud, we're very excited about the opportunity there. But it's still very small from a dollar contribution perspective. So a lot of that strength in the net retention number is really around kind of the -- what I call retention economics in many ways, right, of extent -- at the expansion economics of the customer base and the cohorts of how they're expanding.
+
+And not just the cohorts who came over the last 12 months, but the existing cohorts who have continued to expand their usage of the products over time. And then on the -- the first part of that question was around just the range. So we would expect, as we said last quarter, to throughout this year maintain at the high end or above the historical range, which had been 112 to 119 historically. So we would expect to retain or to maintain high net retention rates kind of going through the year, but we're not going to be guiding to that metric specifically. 
+
+Alex Zukin -- Wolfe Research -- Analyst
+
+Perfect. Congrats, guys, on a great run.
+
+Cynthia Gaylor -- Chief Financial Officer
+
+Thank you.
+
+Operator
+
+Thank you. Our next question comes from Tyler Radke with Citi. Please proceed with your question.
+
+Tyler Radke -- Citi -- Analyst
+
+Hey, thanks for taking my question. I'm curious just at a high level as you're starting to see things get back to normal here in the U.S., and hopefully, shortly overseas, what are you seeing just in terms of the evolution of the pipeline? And specifically, do you find that customers are looking at pursuing larger transactions, you know, maybe more strategic transactions now that, you know, most of the COVID impacts are behind them? Just curious how you're seeing the pipeline evolve. Thank you.
+
+Dan Springer -- Chief Executive Officer
+
+Yeah. I'd say it's sort of a tale of two products, Tyler. If you think about the core signature business versus the rest of the Agreement Cloud, primarily CLM, to the first part of that, no change. I don't think we've seen anything fundamentally different.
+
+And quite frankly, if you think about during COVID, we didn't see the nature of the signature transactions different. They just were faster, right? And so we saw again that acceleration occurred. And as Cynthia pointed out, you know, as we're kind of rounding those quarters, and in many ways, I think starting to move into whatever the new normal will be, we're still seeing sort of an accelerated rate of that customer demand. But I wouldn't say it's the size of the transactions are bigger.
+
+I think we still land at about the same size. And I think our incremental expansions of the businesses, they happen in the same increments, maybe just more of them are occurring across each time here. That's how I think about it. With CLM, of course, it was dramatically different, right? So it was -- some really nice demand was starting to build right before the pandemic.
+
+And those, what I would, say are more strategic and more substantive transactions, they require usually a statement of work, some sort of systems integrator work, whether we do the services with one of our wonderful SI partners. Those are, again, by definition, I think a little more complex and the order cycle tends to be bigger, those slowed way down, right? People said during the pandemic we need to focus on really fast ROI and it's enabling people to deal with working remotely. Now, we see those starting to come back. And so we see the pipeline is starting to build.
+
+As we did actually, starting in Q4, start more aggressively there. So those are demonstrably come back, and I think those will be larger deal sizes that we would see. But they don't cross over between signature, and you need to look at it in two separate sites. 
+
+Tyler Radke -- Citi -- Analyst
+
+Thanks. And just a quick follow-up for Cynthia. So operating margins were really strong here in the quarter. Obviously, you saw quite a bit of revenue upside.
+
+But curious just on the hiring front or any other expense-related things if there is kind of some one-offs driving the strength and just kind of how you're thinking about the pace of hiring throughout the rest of the year? Thank you.
+
+Cynthia Gaylor -- Chief Financial Officer
+
+Yes, so the operating margin was pretty phenomenal at 20%. You know, in some ways, we would have liked to be able to invest more quickly into that growth and bring down that number. It's just very difficult to do in-quarter. So we're really looking through the year at ways to continue to invest for growth, and that's embedded in the guide as well.
+
+So I would say there was nothing particularly one-off other than the outperformance of the top line, which pretty immediately drops to operating margin in quarter, but we will look to aggressively invest for the continued growth and the large opportunity ahead of us.
+
+Tyler Radke -- Citi -- Analyst
+
+Thanks.
+
+Operator
+
+Thank you. Our next question comes from Stan Zlotsky with Morgan Stanley. Please proceed with your question.
+
+Stan Zlotsky -- Morgan Stanley -- Analyst
+
+Hey, guys. Good afternoon, and thank you for taking my question. I wanted to follow up on something that you guys mentioned a little bit ago, which is that -- this -- just the broader Agreement Cloud and SpringCM, right, it's still small numbers and it's not really material as far as driving the growth and maybe even in the net revenue retention that you guys are seeing ticking up nicely. How are you thinking about when that could become big enough and material enough to really drive this [Audio gap] recording now?
+
+Cynthia Gaylor -- Chief Financial Officer
+
+Yeah. So I would say, you know, we're in the early innings as Dan was talking about across the Agreement Cloud and it's a pretty decent market, but there's also just a ton of greenfield opportunities. So we're investing heavily both in our go-to-market strategy around that and in customer success, but also just on the product innovation. So I would expect it to be a few years before it's really a meaningful contributor.
+
+And when you think about kind of the results that we posted the last few quarters, you know, they are primarily driven by eSignature. And just given the scale and the growth rate kind of on the core piece, it's going to take a while for, you know, Agreement Cloud, even if it is growing quickly within, to really have -- be a meaningful contributor from a top-line perspective.
+
+Stan Zlotsky -- Morgan Stanley -- Analyst
+
+Got it. Got it. And I also want to follow up on Alex's question earlier, which is on net revenue retention. I understand you guys are not, you know, you're not really moving up the range that you normally talk about.
+
+But in a similar fashion, what would it take for you to, you know, to move up the range? Is it just you have consistency of seeing this 120-ish plus for X number of quarters? Like what would it -- what would we have to think about as the milestone for you to start moving up that range?
+
+Cynthia Gaylor -- Chief Financial Officer
+
+It's a metric that we watch very closely just given the consumption trends. And as we talked about the last few quarters, looking at kind of these new cohorts and how they're consuming and how they're expanding, and then existing customers and kind of the more historical cohorts. So we're watching that closely. I wouldn't anticipate guiding to a net retention range.
+
+But as I said, we would expect for the remainder of the year for it to remain above the historical range, which the top end was when 119. Just given the consumption trends we're seeing, we would expect it to be above that high end of the range.
+
+Stan Zlotsky -- Morgan Stanley -- Analyst
+
+Got it. Thank you so much.
+
+Operator
+
+Thank you. Our next question comes from Scott Berg with Needham and Company. Please proceed with your question.
+
+Scott Berg -- Needham & Company -- Analyst
+
+Hi, everyone. Congrats on a fantastic quarter and thanks for taking my questions. I guess I have two. You know, the first one is as you look back over the last year, and obviously, you've seen a call to rush on new business based on the pandemic.
+
+But has that brought you into any new types of businesses or use cases that it's probably maybe not as well known? I mean I think we all know what eSignature is for obviously from a generic standpoint. Curious to know if you're seeing an activity somewhere new. 
+
+Dan Springer -- Chief Executive Officer
+
+Yeah, I don't see as anything substantial. There are a couple of things that were new, like, you know, if you think about the PPP loans, right, there's a small little cottage industry that got built in supporting the bank. So by definition that that didn't exist before, that was new. But that's a really small piece of what we would do.
+
+I think you have to think about, just talked about that in our 1 millionth customer, we got a lot of customers. We got a lot of industry coverage there. And I actually look at it this way, and we sometimes say we believe that every business eventually should use DocuSign, and that's the kind of way we think about the breadth. But I don't look at sort of particular industries where we've not started that journey.
+
+I don't think there's big area that you've mapped it out to say we haven't been able to find a way to serve them because we do the front office and the back-office use cases, and every company that has employees and has an internal operation and every company has customers, right? I guess a few Silicon Valley companies an exception to that. But other than that, pretty much everyone has customers. And so from that standpoint, I think we really look at it as we are everywhere and we're going to be everywhere in the anywhere economy, and there hasn't been a phenomenon that's COVID or anything else would change to sort of open up or introduce new areas. There's international expansion into new geographies for sure.
+
+But from a vertical standpoint, I haven't seen anything that feels fundamentally just really different.
+
+Cynthia Gaylor -- Chief Financial Officer
+
+And the one thing I would just add to that is, you know, we have seen – again, it's spot on. There's not kind of new industries in verticals, and that's one of the strengths of our business is that it's so diversified across verticals and customer sizes. You know, there have been some COVID-specific use cases that throughout the year we've also seen translate into other new use cases, whether it's in verticals or different markets. A good example of that would be PPP loans.
+
+Both last year and this year, we saw quite a few loans, some of that will be turning into loan forgiveness or other fintech sort of use cases. And so we have seen some of that, but we're also seeing consumption into new use cases off the back of that as an example.
+
+Scott Berg -- Needham & Company -- Analyst
+
+Got it. Very helpful. And then I guess from a brief follow-up perspective. Your customer metrics in the quarter are obviously very good and they show a level that's still elevated versus the pre-pandemic level, even as we anniversary it.
+
+But how are sales cycles today compared to a year ago? Obviously, a year ago, there's a rush to sign up and use your product. But is today's -- or the most recent sales cycles more normalized than what you're used to seeing, or are you still seeing customers maybe speed through this process? Thank you.
+
+Dan Springer -- Chief Executive Officer
+
+Yeah, straight questions. It's actually something funny as before each earnings call, Cynthia and I spent time with the team talking about pricing and talking about just sort of a tenor in the market. We do that so that when we get questions like this from people like you, we -- we're able to give you the latest and greatest, and the pricing has been in a good way boring as it has been for pretty much every quarter since we've been public. But we haven't seen a lot of change there.
+
+In terms of the deal cycle time, we definitely saw some shortened cycle time at the height of the pandemic where there were people who were kind of calling us up, especially on the NewCo side, so people we didn't have a previous relationship, and they were really in a hurry to get on the DocuSign. And that definitely reduced some cycle time, as well as some implementation time. I'd say that was probably reverted back to more normal. At this point, we don't have that sense of urgency to be deployed as we might have had.
+
+I wouldn't say that was a significant portion of our business that played out that way. And remember, in any given quarter, the amount of revenue that comes from new companies versus coming from our base, the NewCo is obviously very small. And we didn't see that dramatic change in the existing customers because they were relatively quick. You know, from a cycle time for new use cases, you don't have a contracting sort of MSA kind of requirement there.
+
+So I think that there's something there. I wouldn't say it was significant, but it has reverted to sort of what it would've been before from a cycle time. 
+
+Scott Berg -- Needham & Company -- Analyst
+
+All right. Congrats and thanks again.
+
+Operator
+
+Thank you. Our next question comes from Rishi Jaluria with RBC. Please proceed with your question.
+
+Rishi Jaluria -- RBC Capital Markets -- Analyst
+
+Hey, Dan, Cynthia. Thanks so much for taking my questions. I wanted to go back to the previous question on customer adds because I think a lot of us are pleasantly surprised to see customer adds continuing to hit a record, even as we head into a post-pandemic future. But it looks like, you know, especially on the mobile side, you had a really impressive record this quarter.
+
+Maybe can you give us a little bit of a sense of what is it that's driving that, you know, in spite of the fact that a lot of us would assume that urgency has maybe died down since before? Is that a function of certain investments you're making in the software motion and the mobile channels or something else? Then I've got to follow up on the large customers.
+
+Dan Springer -- Chief Executive Officer
+
+Yeah, I think you hit it really well. Yeah, there's been -- there was some perhaps unexpected strength as you said on that you mentioned where we're obviously pleased by that strength. On the web and mobile side, I think that there's two things that we've done well that's allowed us to grow and reach this goal that we set several years ago of hitting a million customers and primarily driven by that into that where the large number of our customers exist. The first thing is I think we're getting better and better at our online advertising.
+
+I think we've built that as a key discipline to our long-term success. And I think that's been a huge part of driving that. The second thing is we're continuing to innovate around our overall digital experience and that process by which people come through, they do a trial after they've, you know, puts on an online ad generally most commonly. And then we take them through a trial process.
+
+They see the quality of our software. We make it easier and easier for them to become a customer. And that digital flow. I mean, so a ton of work that we can be better at that, but we have made a lot of effort in the last 18 months there, and I think some of that is starting to pay off that has driven that.
+
+One last thing I'll just add, it's important to understand is really shout out for the web and mobile team. We look at their net out. Part of what net out of that is people upgrade to become direct to us. So some of their most successful -- actually, almost all of their most successful customers, we take from it.
+
+We take them, we put them into our direct business. And so that's a group that constantly has to replenish and grow at an even faster rate to make up from the fact that we have what we sometimes call positive churn. We turn it out of web and mobile and turn them into direct business as they expand and take on more fulsome use of our platform with more advanced functionality. And so from that standpoint, I do think that that group, glad you pointed out, has really been a star for us. 
+
+Rishi Jaluria -- RBC Capital Markets -- Analyst
+
+Got it. That's actually helpful. And then just going to the 300k customer adds again, you know, really impressive to see it hit a record this quarter as well. Can you give us some color on what's driving that? And generally, is this, you know, existing direct customers that just expand usage of the entire Agreement Cloud, or are you actually landing, you know, new logos at that level? Thanks.
+
+Dan Springer -- Chief Executive Officer
+
+Yeah, as is the case prior, the vast, vast majority of the 300k up are growth customers as opposed to net new. It's not that we've never had someone start there. But our land-and-expand model, we're not really trying to go out and find that. Because of our customer success orientation, you know, Rishi, we really believe the best way to build the long-term value is to go out, start small, find some great use cases, deliver fantastic customer success, tremendous ROI, and grow the business.
+
+And doing out, trying to get giant lands that are complex, that -- I just don't think that's the model that really fits for the Agreement Cloud business. So that's definitely the case. And in terms of the strength there, I mean, I think it's highly correlated with other key metrics since [Inaudible]. When you see a really high net retention rate, it deems that the companies that were 250, a bunch of them grew and they're now at 300.
+
+So there's not any particular surprise there. It's just the continued land-and-expand success. That is a number that has some volatility. If you noticed, if we go back and look over the quarters, there are times when because of the puts and takes for any individual accounts and the way they might be adding things.
+
+Sometimes, someone does a one-time add, so they pop up over 300 and they do that one-time use case they might have had, it might pop down below the next quarter. So we do think it's important to look at that over time as opposed to any one quarter. But I think you're going to see over time while we keep delivering that same fantastic customer success, you will see that number continue to scale for that reason, particularly. 
+
+Rishi Jaluria -- RBC Capital Markets -- Analyst
+
+All right, wonderful. Thank you so much.
+
+Operator
+
+Thank you. Our next question comes from Kirk Materne with Evercore ISI. Please proceed with your question.
+
+Kirk Materne -- Evercore ISI -- Analyst
+
+All right. Thanks very much and I'll echo the congrats on the quarter. Dan, I want to circle back on international. Obviously, it's a huge TAM for you all.
+
+Are there any technological or regulatory hurdles that you need to clear in certain markets for the sort of adoption rate to kind of get to where you are say in the U.S. or more markets where you guys are bigger? And then I guess just as you might think about it, you know, given that this is something that would be sort of a global opportunity, how are you thinking about placing your bets in terms of making investments in certain regions, and are there regions where you think you're just about to hit sort of a tipping point perhaps faster than others? Were you starting to get a sense on is there anything sort of putting a governor on your growth, and then how are you guys thinking about sort of your bets and your investments in certain places? Thanks.
+
+Dan Springer -- Chief Executive Officer
+
+Yup, absolutely. So a couple of thoughts for you. The first is I believe that at the sort of technological level, I don't think there's anything that we would point to. There are really important differences in legal frameworks.
+
+I mean, you know, we talked a lot about the concept of the common law versus the civil law, you know, legal framework. But we feel like we've pretty much made the investments to enable the civil law countries, which are the mass majority of countries out there. So we made those investments really several years ago. And I think we feel good about what we've done there.
+
+There is the sort of data residency issue if you want to consider that sort of a technical component. And it could be a governor to the extent that, you know, some geographies, certain institutions that say we don't want to let any data. These are our national walls so to speak. Most of government clients feel that way.
+
+But sometimes, you do see that with like large financial institutions or heavily regulated industry. And so sometimes, there is complexity there, and that's why, you know, we've been working with Azure to have in both Canada and Australia, you know, sort of leveraging the public cloud and maintaining those -- testing that, trying to determine if that really, you know, enable us to grow faster. I think it's an area we continue to be testing and working on. I wouldn't say, yes, we found a massive turbocharge there, but I think it is an area for continued investment in growth.
+
+That's the only thing I would sort of point to from a either a technological or legal framework. I do think there's important things like market awareness. And obviously, particularly because of our strength in real estate early on, DocuSign became more of a household name in the United States. We don't have that in most other countries.
+
+So that's a big component that I think we need to work on. And I think there's some other things that we still have big opportunity for us to sort of get our house in order in the way that we operate in certain other countries, and we feel more local. So I think that's another area where I say we should invest. I wouldn't exactly call it technological, but there's sort of just some building the business in areas we're heavily focused on.
+
+And in the terms of the second half to your question in terms of the market. You know, we talk a lot about our focus eight. Those are the original eight countries of the last several years we set our primary focus areas. In Europe, that's U.K., Ireland, one that's France and that's Germany.
+
+In the Americas such U.S., Canada, and then Brazil, which has been the ability entirely of our right-hand focus. Then that's Australia and New Zealand. We can call that one country [Inaudible]. And then finally, Japan would be the focus eight country to talk about.
+
+And I think now you're going to see us, we talked about the investment in Mexico. And thinking about -- really think of that as regional sort of Spanish-speaking LatAm. Although, Mexico itself, we started, and a few months later, I've decided to dramatically increase our investment in terms on the ground as we've seen so much positive response there in Mexico itself. From a European standpoint, I think we've always seen opportunities in Nordics.
+
+We've seen it in the Netherlands. We see more in Southern Europe. I think there's opportunities in each of those geographies there. I don't know that it will be a massive sort of feet on the ground there, but you're going to see us do more in those areas.
+
+And then in Asia Pac, overall, we're pleased with what we've got in ANZ and in Japan. Very small presence in Singapore, and we're starting to look at Southeast Asia as a really key investment area. Like Mike and I was literally this morning talking about that growth investment there and leveraging that small, small toe in the water we have to go after what we think could be a really attractive market opportunity and spread that across, thinking about Philippines, and thinking about Thailand, thinking about those kind of poor countries in Southeast Asia that we think should sit well for DocuSign. So that's how we're thinking about the geographic side. 
+
+Kirk Materne -- Evercore ISI -- Analyst
+
+That's super helpful. Thank you all.
+
+Operator
+
+Thank you. In the interest of time, we ask that our participants limit themselves to one question. Thank you. Our next question comes from Brad Sills with Bank of America Securities.
+
+Please proceed with your question.
+
+Brad Sills -- Bank of America Merrill Lynch -- Analyst
+
+Great. Hey, thanks, guys, and congrats on a nice quarter. I wanted to ask about an earlier comment you made, Dan, around Insight customers and how you feel that, you know, those use cases are extensible for future growth. Is that how we should think about the kind of evolution from customers toward the Agreement Cloud, maybe starting with CLM or Insight, get some use cases under their belt there and then graduate, if you will, into the broader Agreement Cloud, or what are those -- or the customers say about the propensity to buy more?
+
+Dan Springer -- Chief Executive Officer
+
+Yeah, I mean, the way I look at it is still the tip of the spear is going to be signature for sure. And part of it is what Cynthia was describing earlier. We just have a much larger business there. And even though it's still, as she said, very early innings, we have such a substantive leadership position, and we just see so much opportunity to continue to land there.
+
+That will be our primary entry point I think to most companies. Then, as you indicated in your question, Brad, we want to really open up the rest of the Agreement Cloud. And I do believe that areas today that we see is that natural extension and second step, CLM and the advanced analytics will increasingly be a one-two punch. You know, one of our goals is to integrate some of that field technology and that AI technology into our CLM solution.
+
+We feel for a lot particularly about mid-market and up customers, that's going to be a key buying factor and the idea that you have embedded fantastic analytic capability onto that CLM solution. And we're seeing with analytics on top of just Insights. Even this fantastic new product we have called DocuSign Monitor, which is really a security product for people to understand what's happening in their network by looking at how people are signing agreements with them. We're seeing huge uptake from customers where they just want to understand more about their business.
+
+And our whole thesis around the Seal acquisition is the idea that companies can run their business better with a really lawful Agreement Cloud. They can be smarter about the way they grow and execute their core operations. So that is definitely how we think about it. And I think the number of use cases for your question continue to accelerate as people see the business value and the ROI from using our advanced analytics, and particularly the AI aspect of our [Audio gap].
+
+Brad Sills -- Bank of America Merrill Lynch -- Analyst
+
+Thanks so much, Dan.
+
+Operator
+
+Thank you. Our next question comes from Bhavan Suri with William Blair. Please proceed with your question.
+
+Jake Roberge -- William Blair & Company -- Analyst
+
+Hi, everyone. This is Jake on for Bhavan. Just thinking about longer term, when we're thinking about some of the recent additions to the Agreement Cloud like the notary, Seal Software, the CLM, I'd love to hear about what could be the longest-term growth drivers and if there's anything that surprised you about initial customer adoption over the last several months, and just would love to hear any color on that?
+
+Dan Springer -- Chief Executive Officer
+
+Well, I'll give you my thoughts, and then Cynthia dive into it and give you some different perspective of your own favorites maybe you want to pick. I mean, I think that you've got to look at TAM. I mean, we're playing this for the long term. And so even though I look at something like notary and I have a huge amount of enthusiasm for it, I think it's, in many ways, an extension, right, of a signing type experience.
+
+And so I think it's a special and really important opportunity to bring the joy that DocuSign has brought to things to the world to extend that to notary. But I think the total TAM there isn't going to allow it to be a pillar the same with definitely CLM is. I think CLM is going to be is just an emerging software category within the Agreement Cloud that, you know, several years from now, we're going to look back and say, same way we think -- someone would be crazy not to have any signature solution today if you look at it that way. I think we now will look at CLM when we get to that a few years down the road where people would be crazy not to be thinking about the way they manage their contract across the business.
+
+That's probably what I would take as a sort of the big winner, if you will, and what will contribute in the most substantial way to our growth over the long term. And, Cynthia, if you have any flavor to -- different to that.
+
+Cynthia Gaylor -- Chief Financial Officer
+
+I think that was fairly comprehensive, Dan. I'll leave it at that analogy.
+
+Jake Roberge -- William Blair & Company -- Analyst
+
+Great. Thanks for taking my question.
+
+Operator
+
+Thank you. Our next question will come from Pat Walravens with JMP Securities. Please proceed with your question.
+
+Aaron Kimson -- JMP Securities -- Analyst
+
+Hi. This is Aaron Kimson on for Pat. Congrats on the quarter. You mentioned that headcount grew 42% year over year.
+
+At a high level, can you discuss what percentage of that was sales and customer success versus other functions, and then how the company is thinking about headcount growth going forward?
+
+Dan Springer -- Chief Executive Officer
+
+Yeah. I mean, I think that the simplest way to look at the distribution is, you know, headcount is by far our number one cost. So if you take a look at how it played out in terms of the percentage of our revenue -- percentage of our revenues attributed to each of the bucket, you'll see that sales and marketing and product engineering were by far the two groups that [Audio gap] we've traditionally supported and that will be the same thing this quarter. As I look forward across the year, those are the core groups I'd like to see the most headcount growth.
+
+And from a philosophy standpoint, I oftentimes talk about this concept that we kind of have line function, and then we have functions that support them. And the support functions are just as important as the line functions. But I really to scale our business need to scale the line function. So we need to have a lot of fantastic engineers here, building great software because we're a software company.
+
+And so the net number of engineers that we can grow, that is a huge, important driver of our future growth. The same thing is true if you think about our quota-carrying AEs or our CSMs that are driving customer success. Those are the functions that we really want to see the headcount growing. And, you know, people like me and Cynthia, we're overhead, and we like ourselves fine, but we don't need any more of us.
+
+One CFO is fine, and one CEO is fine, and we want to really focus ourselves on getting more leverage in those client operations. 
+
+Aaron Kimson -- JMP Securities -- Analyst
+
+Very helpful. Thank you.
+
+Operator
+
+Thank you. There are no further questions at this time. I would like to turn the floor back over to management for any closing comment.
+
+Dan Springer -- Chief Executive Officer
+
+Thank you all for joining us. You know, you saw Annie's top, she mentioned we're going to be out in the market a little bit I guess virtually. Hopefully, soon, we'll be out physically. But thank you for joining us, and we look forward to talking to you all next quarter.

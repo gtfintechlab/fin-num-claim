@@ -1,0 +1,302 @@
+Operator
+
+Hello, and thank you for standing by for Baidu's Third Quarter 2020 Earnings Conference Call. At this time, all participants are in listen-only mode. After management's prepared remarks, there will be a question-and-answer session. Today's conference is being recorded. If you have any objections, you may disconnect at this time.
+
+I would now like to turn the meeting over to your host for today's conference, Juan Lin, Baidu's Director of Investor Relations.
+
+Juan Lin -- Head of Investor Relations
+
+Hello, everyone, and welcome to Baidu's third quarter 2020 earnings conference call. Baidu's earnings release was distributed earlier today and you can find a copy on our website as well as on newswire services.
+
+On the call today, we have Robin Li, our Chief Executive Officer; Herman Yu, our Chief Financial Officer; and Dou Shen, our Executive Vice President in-charge of Baidu's Mobile Ecosystem Group, our search and feed business. After our prepared remarks, we will hold a Q&A session.
+
+Please note that the discussion today will contain forward-looking statements made under the Safe Harbor Provisions of the US Private Securities Litigation Reform Act of 1995. Forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from our current expectations. Potential risks and uncertainties include, but are not limited to those outlined in our public filings with the SEC, including our Annual Report on Form 20-F. Baidu does not undertake any obligation to update any forward-looking statements, except as required under applicable law.
+
+Our earnings press release and this call include discussions of certain unaudited non-GAAP financial measures. We have made minor adjustments to our non-GAAP measures and -- which actively apply these changes for comparison purposes. Our press release contains a reconciliation of the unaudited non-GAAP measures to the unaudited most directly comparable GAAP measures and is available on our IR website at ir.baidu.com.
+
+As a reminder, conference is being recorded. In addition, a webcast of this conference call will also be available on Baidu's IR website.
+
+I will now turn the call over to our CEO, Robin.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Hello, everyone. We delivered solid results in the third quarter with Baidu's total revenues reaching RMB28.2 billion, up 1% from last year. Baidu Core revenue reached RMB21.4 billion, up 13% sequentially, which is an acceleration from the 8% sequential growth for the third quarter last year.
+
+China saw a second wave of COVID-19 cases in July and was quick to contain the pandemic, giving us confidence that China has standard operating procedures in place to promptly deal with the new COVID outbreaks. Many of the advertising verticals that saw negative growth in prior quarters have turned around, including healthcare, education, auto, lifestyle and software. As the Chinese economy continues to recover, we are in a good position to further benefit from such improvement in the bins [Phonetic] environment.
+
+Over the last few years, we have focused on strengthening Baidu's mobile ecosystem by increasing log-in users, aggregating content and services on Baidu's platform and adding social engagement to our platform. Such strengthening of our mobile ecosystem has not only improved the search user experience, it has also allowed users to do more on Baidu, from information research to social interaction to closed-loop purchases. In September, MAUs on Baidu App reached 544 million, up 12% year-over-year. In-app search queries continue to grow in teens and daily users logged in on Baidu App reached 70%. That's up from 53% a year ago.
+
+A striving [Phonetic] mobile ecosystem sets a strong foundation for Baidu to diversify beyond advertising into non-advertising services, such as membership and online games. Live streaming is also proving to be a good feed for Baidu users. Non-advertising consumer system revenue for Baidu Core reached RMB1.4 billion or $211 million, that's up 2.6% -- 2.6 times from two years ago and paid membership reached 31.5 million in the third quarter. To accelerate our efforts in growing non-advertising businesses, we announced today our intention to acquire YY Live, a leading video-based live streaming platform in China. Adding YY Live to our portfolio will allow Baidu to gain immediate operational experience and know-how on building a large live video community. We are excited about the opportunities ahead by merging Baidu's large traffic and vibrant mobile ecosystem with YY's expertise in video programming, creator network management and social media community development. Together with YY's team, we hope to explore the next generation of live video and venture beyond entertainment into every facet of our lives in the years to come.
+
+Our online marketing services. We have added live streaming and purchase functions to our platforms and are enabling users to seamlessly move from information, to social, to purchase on our platform, within user search and follow relevant information, interact with merchants and seamlessly complete a purchase of third-party goods and services on Baidu. By providing a platform from information to social to purchase, we are enlarging the TAM for our online assets, from interest generation to purchase conversion to loyalty marketing and advertising, which allow merchants to perform user lifetime value management. Baidu's in-app revenue, which accounts for more than half of our mobile ecosystem revenue continues to experience double-digit growth with further upside from non-advertising revenue. Baidu's new AI businesses are also experiencing double-digit growth with Baidu Cloud growing 41% year-over-year in the third quarter.
+
+Let's begin Q3's discussion with our mobile ecosystem. In September, Baidu App DAU reached 206 million, up 9% year-over-year. Let me go over our progress in video verticals and communities and monetization. First, on video. As a leading Internet platform for content and services, Baidu is attracting a tremendous amount of creators to offer knowledge and information-centric live video and short videos. For example, the number of topical sections such as Wonder Planet and Who To Support live streamed in the third quarter was up eight=fold from the prior quarter.
+
+And second, on vertical and communities. Through our AI building blocks and industry-specific offerings, we are seeing verticals developing successfully on Baidu. For instance, in the B2B sector, we added enhanced commerce capabilities to our hosted marketing cloud platform, such as verified merchant information and a large catalog of SKUs to form a B2B marketplace that we call [Indecipherable]. Our B2B community enables Baidu customers who in the past only purchased through traffic, to now lift their commercial machineries interactive with potential consumers and consume it with the transaction on our platform. The revenue recognition of our B2B marketplace on our marketing cloud platform has resulted in paid merchant membership surpassing 100,000 in the third quarter.
+
+Baidu Health continue to solidify its market position as a top healthcare platform in China. Baidu's development of high-quality content and communities is exploring tele-health with online doctor consultation increasing 60% from a year ago. Healthcare-related GMV in the third quarter was up 26-fold from last year. In the future, Baidu Health has the potential to offer prescription drugs and healthcare products, leveraging our dominant traffic in providing healthcare-related information and the large scale of social engagements developing on our platform.
+
+On the institution side, our partnership with over 80 top hospitals nationwide puts us in a good position to enable the digital transformation of hospitals and help them stay connected with patients. This, in turn will make it more convenient for users to access hospital services and their own health information.
+
+Third, on monetization. Starting with marketing services. Baidu App continue to demonstrate strength, with in-app advertising revenue growing double digits year-on-year, driven by strong in-app search traffic, coupled with in-app search CPM [Phonetic] growth, further validating the value of Baidu's open platform in-app search strategy.
+
+Revenue from Managed Page reached 32% of Baidu Core's online marketing revenue in the third quarter as more site owners learn about the benefit of combining Baidu's traffic with our hosted marketing cloud platform. A leading Chinese EV manufacturer switched to Managed Page, and when combined with Baidu's monetization products, saw its marketing ROI improved significantly. Leads increased by 80% and cost per lead dropped 40% from a year ago. With more users viewing videos on Baidu, rich media ads are beginning to see traction. In September, revenue generated from video ads on mobile search results grew 83% from three months prior. Video ads are suitable for advertisers across many industries, including healthcare, local services, financial services, software and machinery. And with continued adoption, video ads tend to be another driver of CPM growth in the future.
+
+In addition to growing Baidu ad revenue, we have substantial upside from growing non-advertising revenue. According to [Indecipherable], Baidu is one of the three Internet companies in China that have a reach of over 1 billion Internet devices per month. Non-advertising revenue, as a percentage of our total consumer-facing business is much lower than our peers. As we further develop our mobile ecosystem to enable information, social and purchase, we tend to benefit from the many opportunities that will arise from a deeper connection with our users.
+
+Moving to cloud and AI services. Baidu Cloud is providing a one-stop shop for cloud computing and differentiating with AI solutions to enable intelligent industries. For example, Baidu has partnered with Postal Savings Bank of China, a top retail bank in China with 40,000 branches to provide Baidu AI PaaS to help improve credit risk management with Baidu's AI capabilities. Using AI to improve risk management for loan provision is particularly meaningful as Post Savings has one of the largest consumer base of individuals and small enterprises in China.
+
+Baidu is also partnering with economic and technological development [Indecipherable], a primary data center hub in China to provide AI tasks. This strategic partnership will allow the 400-plus companies based in the economic development zone access to Baidu's AI PaaS and leverage our leading AI capabilities, such as deep learning, blockchain and automated data recognition to make production improvement and efficiency gains. The 400-plus companies span across many industries, including manufacturing, electronics, auto, healthcare and pharmaceutical industries.
+
+Baidu's cloud infrastructure is differentiated by a comprehensive end-to-end stack, from AI chips to open platform to deep learning framework to PaaS and SaaS solutions. A key component of Baidu's AI is our large open-platform developer community. By opening up Baidu's AI to the world, we learned how AI is used and enlist developers to help Baidu improve our AI models, which in turn helps Baidu develop unique AI solutions. Baidu's AI open-platform offers over 270 AI capabilities which is tapped 1 trillion times per day at peak by a developer community of over 2 million.
+
+Turning to Apollo. In August, Apollo won an RMB460 million project to help Guangzhou improve traffic efficiency, safety and air pollution by adopting Baidu's V2X solution, which supports autonomous driving and other capabilities. This may be the largest smart transportation project yet in China, which reflects the public sector's willingness to use technology to improve the well-being of city life. Baidu has recently opened a Apollo robotaxi services to the public in Beijing, the third city following the operations in Changsha and Hangzhou. Passengers may call a robotaxi from Baidu Maps or Apollo Go App.
+
+And on DuerOS. According to market research firm, IDC, Strategy Analytics and Canalys, Xiaodu Smart Display was ranked number one in shipments globally, and Xiaodu Smart speakers was ranked number one in shipments in China for the second quarter of 2020. In September, we introduced the Xiaodu Smart earphones, which allow users to search, make calls and navigate DuerOS skills through a voice assistant as well as your instant language translation. Initial feedback on Xiaodu Smart Earphones with -- retails for approximately $35 a pair has been quite positive.
+
+With that, let me turn the call over to Herman to go through our financial highlights.
+
+Herman Yu -- Chief Financial Officer
+
+Thank you, Robin. Hello, everyone. Welcome to Baidu's third quarter 2020 call. All monetary amounts used in my discussion are in renminbi, unless stated otherwise.
+
+Baidu's total revenues reached RMB28.2 billion or $4.2 billion, increasing 1% year-over-year, rebounding from the trough in Q1. Our business improvement mainly came from Baidu Core, whose revenue reached RMB21.4 billion or $3.1 billion in the third quarter, up 2% year-over-year versus down 13% in the first quarter and down 3% in the second quarter. IT revenue reached RMB7.2 billion, down 3% year-over-year. IT membership revenue was up 7%, offset by an 11% decline in IT advertising revenue. IT advertising did not perform as robustly as we had hoped, but on a sequential basis, IT advertising gradually is recovering, up 16% quarter-over-quarter.
+
+Non-GAAP cost of revenues was RMB12.7 billion, down 22% year-over-year, primarily due to a decrease in content costs, traffic acquisition costs and cost of goods sold. Non-GAAP SG&A expenses were RMB4.3 billion, down 1% year-over-year. Non-GAAP R&D expenses were RMB3.6 billion, down 6% year-over-year, and non-GAAP operating income for Baidu was RMB7.6 billion, up 107% year-over-year. Non-GAAP operating income for Baidu Core was RMB8.5 billion or $1.3 billion, up 37% year-over-year. Non-GAAP operating margin for Baidu Core was 40%, up 10 points from last year.
+
+Total other income in the quarter was RMB8.3 billion or $1.3 billion, which includes a fair value gain of RMB9 billion from long-term investments. Adjusted EBITDA was RMB9.1 billion, up 77% year-over-year. Adjusted EBITDA for Baidu Core was RMB9.8 billion or $1.4 billion, up 31% year-over-year and adjusted EBITDA margin for Baidu Core was 46%, also up 10 points from last year.
+
+As of September 30th, our cash and short-term investments were RMB146 billion, and cash and short-term investments for Baidu Core was RMB138.5 billion or $20.4 billion. Free cash flow in the third quarter was RMB6.3 billion, and free cash flow, excluding IT, was RMB8.3 billion or $1.2 billion.
+
+During the third quarter, we returned approximately $600 million to our shareholders, bringing the cumulative repurchase for this year -- year-to-date to approximately $1.3 billion. Baidu Core had approximately 31,300 full-time employees as of September 30th, up 3% from last year.
+
+Let me give you more color on the projects of Baidu Core. We previously discussed Baidu's Core's business in two parts; mobile ecosystem and new AI initiatives. On today's call, I will provide further information on our new AI initiatives to provide you with a better understanding of our progress and help you better value our business.
+
+Our new AI initiatives consist of two parts; AI cloud and autonomous driving plus other growth initiatives which we will call AD plus OGI. Let me briefly explain each part of our core business. First, mobile ecosystem. In-app advertising is a growing majority of our advertising business. In our legacy business, union plus PC advertising is a small part. Mobile ecosystem also includes non-advertising services such as live streaming and online games.
+
+Second, AI cloud. Our cloud offering serves enterprises to public sector and consumers. While our AI cloud office cloud computing such as CDN and App, which is the space most of our peers are playing in, our AI cloud is a one-stop shop with differentiating emphasis on providing AI solutions, such as AI pass-through enterprise customers and V2X platform solutions to the public sector.
+
+Lastly, autonomous driving plus other growth initiatives. AD plus OGI includes autonomous driving, DuerOS and other growth initiatives. For clarity, Apollo encompasses three monetization models; smart transportation, IOB or connected vehicles and autonomous driving. For revenue classification purposes, the first two, though quite small in the past, are included in cloud whereas the last item is included in AD plus OGI.
+
+Let me now give you more information on the progress of Baidu Core. On mobile ecosystem, many of our advertising verticals have turned around in the third quarter, including healthcare, education, auto, lifestyle and software. In-app advertising, which is a growing majority of Baidu's mobile ecosystem revenue continue to see healthy double-digit growth, benefiting from in-app search query and CPM growth.
+
+We announced earlier that we have entered into definitive agreements with JOYY to acquire its live streaming business in China for an additive purchase price of approximately $3.6 billion payable in cash. In 2019 unaudited numbers, YY Live's revenue was approximately RMB10 billion and non-GAAP net margin was over 30%. We expect to close this transaction which is subject to certain conditions in the first half of 2021. With the acquisition of YY Live, non-advertising will become a meaningful piece of our ecosystem and our legacy business, which has been dragging our mobile ecosystem growth will become an even smaller piece of our business.
+
+AI cloud saw a solid revenue growth in the third quarter, reaching RMB2.2 billion, up 41% from last year, driven by customers from the Internet, transportation, financial services and healthcare indices. Baidu Cloud revenue is seeing accelerated revenue growth with the Chinese economy opening up and our sales force is able to make more site visits to potential customers.
+
+Our AD plus OGI. We entered into definitive agreements to raise financing for DuerOS at a post-money valuation of approximately $2.9 billion in September. Baidu will continue to be a super majority shareholder at closing and expect the transaction to close in the fourth quarter. Based on industry news, the target market has valued leading autonomous driving companies between $5.4 billion to $30 billion. We are reviewing business metrics disclosed by other autonomous driving companies and we will share with them meaningful data to measure Apollo's progress. For example, accumulated test miles for Apollo autonomous driving reached 3.5 million miles in September, up 150% year-over-year.
+
+Turning to fourth quarter guidance. We expect total revenue to be between RMB28.6 billion and RMB31.3 billion, representing a growth rate of negative 1% to 8% year-over-year. Our guidance assumes Baidu Core will grow between negative 1% and 10% year-over-year. These forecasts are current and preliminary review, which is subject to substantial uncertainty.
+
+Before I turn the call back to the operator, let me summarize our third quarter achievements. With the Chinese economy rebounding, Baidu's business has seen accelerated sequential growth in the last three quarters. We expect fourth quarter to continue faster sequential growth. Our strategy to build an in-app open platform ecosystem powered by search is bearing fruit. Site owners are joining Baidu Managed Page, and app developers are moving the content services onto Baidu's Smart Mini Program. With more landing pages selected on join Baidu's platform, user experience is improving. Daily log-in users are up 17.70%. Open platform in-app services powered by our marketing cloud platform is serving our merchants better. Consequently, in-app revenue continued to grow double digits, driven by the growth in in-app search queries and in-app search CPM. Our new AI initiatives are also seeing healthy double-digit growth and we expect even greater contribution next year.
+
+With COVID-19 under control in China, our sales force is traveling more fully around China. We are riding on a wave of intelligent transformation across industries and China is promoting the new infrastructure initiative to boost an economic rebound.
+
+Baidu stands to benefit from the intelligent transformation across industry sectors with our unwavering investment in AI, our 2 million strong AI developer community. Baidu Core's adjusted EBITDA reached $1.45 billion in the third quarter, up 31% year-over-year, and adjusted EBITDA margin reached a historical high of 46%. For the past two decades, Baidu has successfully weathered many economic crisis and market changes by building platforms with leading technologies. We continue to build our future with durable business models like in-app search with AI building block and marketing cloud platform like cloud services with AI PaaS solutions, like smart transportation with V2X solution and like voice assistant with DuerOS.
+
+Our platform-based business models will allow Baidu to better weather difficult times and provide sustainable long-term growth to our shareholders. With the acquisition of YY Live, we are catapulted to become a leader in live streaming. The purchase of YY Live will be an all cash transaction, which is putting the cash on Baidu's balance sheet to good use. We have a great opportunity to leverage Baidu's tremendous user base to grow live streaming through non-advertising revenue. In addition to purchasing businesses that strengthen our ecosystem and increase our profitability, we have used the cash on our balance sheet to execute on our share buyback program and consistent return cash to our shareholders.
+
+In summary, our business stands to benefit from further recovery in the Chinese economy. We now have an opportunity to optimize Baidu's large traffic and vibrant mobile ecosystem with a focus on growing non-advertising revenue. Enterprise cloud and smart transportation are two huge revenue opportunities ahead of us. Our autonomous driving is also progressing well and our peers are being valued between $5.4 billion and $30 billion.
+
+Operator, with that, let's now open the call to questions.
+
+Questions and Answers:
+Operator
+
+Ladies and gentlemen, we will now begin the question-and-answer session. [Operator Instructions] Your first question comes from Alicia Yap from Citigroup. Please ask your question.
+
+Alicia Yap -- Citigroup -- Analyst
+
+Hi, thank you. Good morning Robin, Herman, Dou, and Juan. Thanks for taking my questions and also congrats on solid results. So my question is related to this rationale behind the acquisitions of YY domestic live streaming business. So could you help us understand the intention behind? I think you mentioned about expanding into non-advertising business. But I think given live streaming business has been more saturating and maturing, so maybe you could help us understand what are the strategies or thinking behind that Baidu could help YY to revive the growth?
+
+And then second is, given live streaming technology is also becoming more and more as advertising tools, would that become an interest for Baidu to actually spend the ad monetization opportunity with live streaming go beyond the commerce with -- becomes more like a marketing technique, right, for a lot of the industry vertical to build the branding and also drive conversion. So any color you could share would be appreciated. Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Hi Alicia, this is Robin. Let me address your questions first. If you look at -- as you know, YY is one of the pioneers of live streaming business. You probably noticed that the early players have all matured and have been asked by the larger mobile eco platforms. That demonstrates that live streaming as an independent business is kind of tough when you -- or scale, it's not large enough. On the other hand, for large platforms like Baidu, we have an aggregate of about 300 million daily active users. It's only natural for us to integrate with live streaming business such as YY and further monetize our existing user base and traffic. Like I mentioned during the prepared remarks, if you look at the revenue stream of Baidu and other comparable mobile ecosystem, the advertising revenue for us represents a much larger percentage than any other mobile platforms you can think of.
+
+On the other side, we have been very focused on providing the best marketing solutions to our customers. But on the other hand, we should really explore and diversify our -- explore new initiatives and diversify our revenue source. So YY has a very sizable business in terms of live streaming. We have a lot of experience in terms of operating such ecosystem of performers in the so-called big Rs who pay tips to those live performers. And with that kind of operational experience and stakeholders in the live streaming ecosystem, we think it's very valuable for the overall Baidu ecosystem.
+
+And about live streaming as a new form of media, you sort of mentioned that it can be used for other purposes, not just for the show business, it can be used for purchases, which is already very popular among other mobile ecosystems. It can also be a very effective tool for online marketing. In my mind, live streaming is comparable to short video and text and image. It's just a new form of media. We can, and we should leverage this new form of media to further enhance our mobile ecosystem, provides a better user experience and provides better values for the advertisers and customers of the Baidu ecosystem.
+
+Alicia Yap -- Citigroup -- Analyst
+
+Thank you, Robin.
+
+Operator
+
+Your next question comes from Eddie Leung from Bank of America Merrill Lynch. Please ask your question.
+
+Eddie Leung -- Bank of America Merrill Lynch -- Analyst
+
+Good morning, guys. Yes. Just a follow-up on Alicia's question on the rationale behind acquisition of YY. Yes, we understand that Baidu has quite some trough, which can help a monetization by YY. But I'm just curious on two things. One is why are not thinking about doing live broadcasting by yourself, just developing the business organically?
+
+And then secondly, in terms of timing, I think Alicia pointed out a good point that live broadcasting is not a fairly very new business in China. So why now? Why not earlier? Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Hi. Eddie, just to clarify, we have been doing live streaming series of Baidu apps, including Baidu App, Tieba, [Indecipherable]. What we have seen is that the revenue from live streaming have been growing very, very quickly. I basically mentioned that over two years, our non-advertising revenue grew like 2.6 times. And if you talk about, let's say, last month, live streaming revenue on the Baidu platform grew more than 80% year-on-year. So that gives us the confidence that the Baidu ecosystem is actually very suitable for live streaming, when you can see the live streaming as a way of monetizing your system or user base.
+
+And why not earlier? So I told you, we've been doing this. And why not organically? Basically, like you said, it's new. It's not new as a way of monetizing user classic. YY is a pioneer in the space, they have accumulated a lot of operational experience. As you heard from Herman, it's a sizable business and it's got very good margin. So there are a lot of things that we can learn and they have a very good, very loyal user base and common creator community that is hard for us to get in a very short period of time. So that's why we decided to make this acquisition.
+
+Eddie Leung -- Bank of America Merrill Lynch -- Analyst
+
+Understood. And then just a quick follow-up on Herman's comment on mobile ecosystem versus the legacy business. So just wondering if you guys can share a bit more color on the growth trends, especially the differences in growth rates between the mobile ecosystem, especially your app versus the legacy pieces? Thanks.
+
+Herman Yu -- Chief Financial Officer
+
+Yeah. Hi, Eddie. Yeah. Actually, in our prepared remarks, we talked about that. When you think about our mobile ecosystem, we talk market in-app services. So what we said was for in-app services, in-app advertising, grew double digits this quarter, and we've been able to grow double digits for the last three quarters despite COVID-19. So leveraging our AI capabilities, our AI building blocks and marketing services platform, we're able to do much better.
+
+On the other hand, our legacy business, we've been seeing a continuous drop. Part of it is there's less traffic to buy, handsets are not selling as well this year. So you have less new phone and less traffic demand. And secondly, for this area, as we mentioned many times, we're focusing on maximizing profit rather than revenue. That's why you're seeing as we're pulling back on some of this traffic, you're seeing our margin actually improve. Number one is focusing on profitability growth rather than just absolute revenue growth. And number two, as we switch over -- as a proportion of revenue switch over from legacy business into in-app, we're able to have better profitability, we don't have to pay for it [Phonetic].
+
+Operator
+
+Your next question comes from Piyush Mubayi from Goldman Sachs. Please ask your question.
+
+Piyush Mubayi -- Goldman Sachs Group, Inc. -- Analyst
+
+Thank you for the opportunity. I have three questions. The first is with regards to the Core business. We're trying to better understand the drivers of where the business sits today. And in particular, on the pricing side, where are we? Looking at the numbers on a year-on-year basis, if you could just take us through that dynamic, and if possible, through industries, it would be very helpful.
+
+The second is on the cost side where your margins continue to improve, just wanted to understand how much of that came through. The change in the accounting estimates of future viewership consumption patterns that we've seen on the iQIYI side. And how much of this trend of continuing margin improvement can be built into the way we think of the rest of the year and potentially 2021.
+
+And the third is congratulations on the RMB460 million win for Apollo. I just want to understand how that's going to get booked. And also your perspective on when we can expect Apollo to start to penetrate the China domestic manufacturing -- automobile manufacturing base. If that's the way we should be thinking about it or should we be thinking about how Apollo penetrates the transportation network across China, the government side of defense? Thank you very much.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Okay. Herman will answer the first two, and I'll answer the third one.
+
+Herman Yu -- Chief Financial Officer
+
+Yeah. Hi, Piyush. So with regards to pricing, through our AI building block and through our marketing services platform, as we demonstrated specific cases in our call this time in the past few quarters, you can see actually, as advertisers switch over to our Managed Page, leveraging our AI capabilities and so forth, we're able to actually get the CPM to turn around. So in the third quarter, we actually saw a positive growth on a year-over-year basis. On a sequential basis, we'll continue to see CPM coming back.
+
+With regards to our margins, I think Q3 was pretty high with our EBITDA margin of 46%. Some of that was non-recurring. So I think when you go into Q4, I would just estimate that you should see our cost of sales plus operating expenses growing probably in the mid-teens on a sequential basis. Part of it is because we've been trying to hire this year and it's been very hard to interview everyone that we want with the COVID-19 and so forth. And second is some of our marketing spend that we've been trying to spend, as I mentioned earlier, we don't have a lot of new handsets selling in the early part of the year. It's very hard to spend the money. But we anticipate the economy coming back and anticipate that we'll be able to have an environment where we can spend more marketing dollars. And hopefully, that would help our traffic in the future quarters.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Hi Piyush, on the Apollo question, we can basically start to see Apollo as a full stack solution for smart transportation or it's a vibrant ecosystem that includes many of the stakeholders in terms of OEMs, the municipal government, the technology providers and other Tier 1 players. From a business model point of view, Apollo basically has three directions. The first one is technology provider for the OEMs. We sell DuerOS for -- although we sell autonomous driving technologies to the OEMs. And the second one is the smart transportation infrastructure projects. The RMB460 million project we won in Guangzhou belongs to this. We fundamentally believe that by building a smart infrastructure for transportation, the Chinese cities can improve the efficiency of mobility significantly. And since transportation represents a large percentage of the total domestic gross production, it has a huge value, not only from business point of view, but also from the social point of view. People will be exempted from the congested traffic.
+
+And the third part is the Level 4 and Level 5, fully self-driving vehicle. Eventually, this will be monetized just through robotaxi. And like I talked about during the prepared remarks, we have been deploying robotaxi services in a number of Chinese cities and we expect the unmanned testing as well as the commercial deployment sometime in the near future.
+
+Piyush Mubayi -- Goldman Sachs Group, Inc. -- Analyst
+
+Thank you.
+
+Operator
+
+Your next question comes from James Lee from Mizuho. Please ask your question.
+
+James Lee -- Mizuho Securities -- Analyst
+
+Great. Thanks for taking my questions. Two questions here, too. One on autonomous driving. Just curious, are there any new government policy that is supporting adoption, maybe among the OEMs here? And how important is kind of OEM partnership to help you to achieve your business model here?
+
+And also secondly, a follow-up question on YY specifically. And maybe if you could and obviously you just made the announcement, be a little bit more specific talking about the content strategy post the integration, kind of how do you plan to differentiate versus peers and maybe talk about the synergy a little bit between Baidu and YY and how do you plan to integrate Baidu's Core content into YY? Thanks.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+[Technical Issues] question. From a government's point of view, many local governments really are excited about working with us to provide better infrastructure for this kind of technological innovation. That's why we have been working with a dozen, more than dozen cities to all kinds of smart infrastructure, transportation infrastructure projects.
+
+And on the OEM side, we partner with many of the OEMs. We provide technology to them and they will work with the local government to get whatever tax benefits or other investments from this kind of initiative. So from that point of view, we interacted beneficiary of the government policies.
+
+Herman Yu -- Chief Financial Officer
+
+Yeah. And let me add a few things to what Robin just said. So the assumption here is that when you think about autonomous driving in the US, it's a stand-alone car. Our assumption here in China is with the support of the public sector, we can install, for example, V2X platform that would help, for example, power traffic lights, in the future, perhaps parking lots and so forth, that would help congested traffic, better air pollution, more traffic safety. At the same time, leveraging that V2X infrastructure to, for example, have connected integrated car and roll communication. So that way, our autonomous driving will be dependent on the infrastructure that we're helping public sectors build. So I think that gives us an advantage. So as we're trying to expand our smart transportation market, at the same time, that set infrastructure for us to roll-out our autonomous driving and will make per vehicle cheaper because of that ability to communicate between rolling cars.
+
+Dou Shen -- Executive Vice President
+
+James, this is Dou. Actually, Robin has already mentioned a few points about the vision -- about this deal. I can add a few more. So first of all, we have been doing this live streaming business on our platform for a while. And we do see that the rapid growth in terms of both the user interactions and revenue-wise. So considering, YY has like 10 times more commerce than what we have now. And on the user side, we have like 100 times more than what YY has now. So this is a great match. Since we have the demand from users and then YY has the strong supply for the performers, I think this is a good match.
+
+And secondly, Baidu, as a platform, short videos, is becoming also a very important media and users come to consume the short videos quite largely. So that side, the performance, they can create some videos and then distribute to our platform to attract more fans, attract more users for the performers. We have been doing this for the business we have conducted and we see it is pretty effective. And what's more, live streaming is a special media -- latest [Phonetic] media developed, it applies to many scenarios. So we already saw the users and the lawyers, they communicate through live streaming on our platform and also the doctors and many other types of professionals. So live streaming is going to be a very important media through Baidu's platform to help the users and also help the professionals to connect them together.
+
+Clearly, the operational experience and also the live streaming technology from YY will significantly boost up this experience. And what's more, when I talk to the team in YY and they are pretty eager to get the traffic from Baidu, especially mining insight from the users because they have been working on this, have been instructing for traffic for a long while. Given what we have on the user side, we are pretty excited. In the meanwhile, the team in Baidu, we're also excited to get help from YY's team because of their excellent operational experience on the live streaming, on the performers. So when you put all those things together, I think this will be a great one and we are looking forward to it.
+
+Herman Yu -- Chief Financial Officer
+
+Yeah. So just let me summarize what Dou said and what we had in prepared remarks. I think several things to consider. Number one is, as we mentioned on the call earlier that this is an all-cash purchase. So I think as you guys know, we have -- Baidu Core has $20.4 billion on our books. To be able to use that, which we're not seeing the value being reflected on our stock, being able to buy a property that is generating a lot of cash, I think that would help -- that gives us the extra boost in cash.
+
+And then from a synergy perspective, as Dou mentioned, I think just being able -- in this day and age, it's been going to have a large content network, especially a content network of creators. So Baidu already -- we already have a lot of experience in terms of publisher accounts with Baijiahao and so forth. That gives us now better management and able to expand our overall creative network. So I think that's very powerful and it becomes a synergy, when you think about all the offerings that we have at Baidu, the news feed that we have, the short video, now you have live stream. So I think from a user perspective and also from an advertiser perspective, we can use these properties to help them monetize it better.
+
+And as we also -- Robin said on the call earlier that we hope to grow live streaming beyond entertainment. I think everyone sees live streaming as it is today on the entertainment side. But on Baidu's platform, we have content across many, many different verticals. And what we hope is that through the knowledge that we can acquire immediate to grow live streaming to go across different verticals because we think that going forward on content on the Internet, a lot of it is going to be rich media. So having the ability for short video as well as having live streaming across different information knowledge, that will be very critical.
+
+And to that, I think, ultimately, as user behaviors are trained to watch live broadcasting on our platform, we then can use live streaming as a way for our advertisers to be able to connect better with users and overall improved conversion. That's why we believe our early testing of information to social to purchase, that cycle is working on Baidu's property today. But if we could strengthen that social part, people to watch live streaming and so forth, we can, in the future, use YY streaming as a tool for advertisers to better reach and manage the lifetime value of our customers.
+
+James Lee -- Mizuho Securities -- Analyst
+
+Great. Thanks so much.
+
+Dou Shen -- Executive Vice President
+
+Okay.
+
+Operator
+
+Your next question comes from Gregory Zhao from Barclays. Please ask your question.
+
+Xiaoguang Gregory Zhao -- Barclays Investment Bank -- Analyst
+
+Hi, management. Congratulations on the solid quarter. Thanks for taking my question. So first question is a very fundamental question about your product design and the algo development. I think it might be a relatively old question. I know currently your feed product, the short video are both based on the recommendation algo to cater users' interest and hobbies. And I assume going forward, your acquired YY streaming services should also be some this kind of product and concept. As we know previously, our search services whereas many rely on users to proactively approach you for the search result. So is there any difficulty in the past several years when your R&D team changed the mindset from the search engine product to the recommendation framework?
+
+So the second one is a quick follow-up. Do you have any visibility of the marketing revenue growth in 2021? Thank you.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+I'll just take the first one, Gregory. So news feed and search, actually, they are two different type of products, but they are strongly connected. As, actually, I mentioned before, in this types of calls, the users, they are -- for the search users, they come to Baidu proactively with certain task in their mind. So search itself is just a single point for their whole decision journey. So we can do much more to help the users achieve what they want. And while for news and feed, the users are being fed passively. It's relatively hard for them to jump from passive behaviors to proactive behaviors in terms of the user behaviors. So it is relatively easier for search engineers. They change their mind to expand their service to cover more user need. That's why you can see the new speed growth in the past few years is actually pretty quick.
+
+On other side, other players, when you switch from news feed to search, it's relatively harder actually. For sure, the YY deal, so -- which brings the live streaming ecosystem and also technology into Baidu will significantly improve our capability to serve the user better, not only through feeds, but also through search. Because as I mentioned earlier, because live streaming is also becoming a fairly good tool to help us to satisfy the users' need even in the search scenario.
+
+Commenting on the second one, marketing revenue outlook for 2021.
+
+Herman Yu -- Chief Financial Officer
+
+The marketing revenue outlook for 2021. I think right now, as you have seen, we've been achieving higher growth than sequentially for the last two quarters and we see that into a fourth quarter. But I think it's fair to say that, assuming that you have COVID-19 continue to be under control as we go into Q1, Q2, we should see a pretty good half, first half of next year. So I think right now, we don't have a full visibility. What we do know is that when you look at the top dozen or so industries that we have, a lot of -- half of them have turned positive and we think that there is more legs to go as the economy recovers. So I think we're at a good point where as all these industries are growing faster and some of those that are going negative are turning around. We're at a good point to benefit from that turnaround. So we'll see how this thing goes in the quarter and we'll be able to give you an update at our next call.
+
+Xiaoguang Gregory Zhao -- Barclays Investment Bank -- Analyst
+
+Okay. Thank you very much.
+
+Operator
+
+Your next question comes from Tian Hou from T.H. Capital. Please ask your question.
+
+Tian X. Hou -- TH. DATA. Capital, LLC -- Analyst
+
+Thank you, management. Congratulations on a good quarter. I have two questions. One is related to Baidu Core search. So if we look under the Baidu Core search, we see the management page, the revenue from that's growing really rapidly and almost 100% year-on-year basis. So one thing I do realize, the coronavirus, even though they damaged a great deal in China advertising market. However, they're really pushing the business from online to the cloud. So online is already past tense. To the cloud, it's become a new thing. So Managed Page is in that field or in that direction. So I wonder in the future, under the Baidu Core, how much will come from Managed Page? And how much will come from traditional search? That is how the company are planning to further develop this Managed Page. And I like it a lot. I feel like it's one -- it's the total solution for merchants, for the company.
+
+The second question is related to the YY. The live streaming in China market has already reached the peak. And certainly, YY, as the leader has a lot of uniqueness. However, the growth-wise is not that great. So I wonder how Baidu is going to rejuvenize this unique YY to make it much bigger than today's YY, so as to utilize the synergy between the two. So that's the two questions. Thank you.
+
+Dou Shen -- Executive Vice President
+
+Hi Tian, this is Dou. I'll take the first one and second one, and Robin will answer more. So for the Managed Pages, it is part of the building blocks of the whole ecosystem. So in the very first beginning, we hope Managed Pages can improve that user experience by filtering out the fit information and all other potential bad experience for the users. And later on, we add more and more functions to Managed Pages to help the customers to manage their users to do business with their users directly over the Managed Pages. And then later on, Managed Pages is becoming one important component of the whole cloud service to help the customers to do the [Indecipherable], the full cycle of their user life values. So that then, clearly, we are going to improve the percentage of the Managed Pages as high as possible, up to 100%, because this will both benefit the users and the customers and our small business owners.
+
+So for the YY part, for sure, it is a mature business if we see the scale as of today. But actually, we are thinking in a very different way. We think live streaming is just a new start for -- as a new media tech. Especially for Baidu [Indecipherable] has 300 million users in Baidu actively every day. So we are using live streaming as a very strong tool or very effective tool to help them to connect the users and commerce and the professionals. I think this is just a start. So also, as we mentioned, the penetration rate for the users watching live streaming in Baidu's platform is not high at all yet. It's far from being in the same level as other platform. So that's why we think we can convert quite a lot of users today from tech and short video users to the listening users will greatly lift the scale for the live streaming.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+Yeah. Let me just reiterate the rationale for the YY acquisition. I think many of you have pointed out correctly, YY is the pioneer in live streaming, but the growth rate have significantly slowed down in the past couple of years. If you notice that the larger mobile eco platforms all started live streaming feature or function much later than YY, but they were able to grow that business much larger. That basically demonstrated that the live streaming, as a stand alone, is not going to have a lot of growth going forward. But as a part of a much larger ecosystem, it just fits naturally and can have a lot of synergy like Dou and I pointed out during the earlier conversation.
+
+Herman Yu -- Chief Financial Officer
+
+Yeah. And let me supplement a few points. Just to clarify on hosted -- on Managed Page, what Dou talked about. When people buy advertising for a Managed Page, they still buy search traffic. The difference is that in the past, they buy search traffic and direct it to their own website, whereas the managed page business only don't have to maintain the website anymore, they can just move the content and services on to managed page through a wholesale marketing platform. And you just log in with an account and then when you buy search traffic, it would add on that account. So therefore, we will see what the users do after the landing page. And because of that, because it's landing on our platform, we can leverage our AI to help the merchants be able to improve their ROI and do lifetime value management.
+
+And the second thing about what Robin talked about with live streaming, I think one is the synergy that we have because we're a large platform. We have an MAU of -- just Baidu App alone, we have an MAU of 0.5 billion, and then we have many other property. I think that's one thing. The thing that we have to look upon is whereas seems on the call, a lot of your analysts think that YY is something that has been existing for many years. What we think beyond three to five years, where do we think of media is going? If you think about over the last nine to 10 months with COVID-19, Zoom is one of the more popular products that have just skyrocketed. That's really streaming, too. So all we're saying is that we think that having a good know-how in live streaming, which sure isn't entertainment, Baidu have such strong verticals in all different things, we think that the future is all going to be streaming. And then if we learn how to do live streaming, if we learn how to manage creators of live streaming and so forth and use it across different verticals and so forth, we think it's going to flourish and make us even stronger within terms of information and knowledge.
+
+So I think the short-term is trying to get the upside from the synergy and the long-term is to leverage the know-how that the content management of the network providers and so forth, and to have just rich media across different verticals on our platform. So I hope you guys understand our strategy is two-fold, not just live streaming as is with YY, but the potential that we have live streaming across our platform over a different type of available content.
+
+Tian X. Hou -- TH. DATA. Capital, LLC -- Analyst
+
+Okay, that is great. Thank you so much for the answers.
+
+Operator
+
+Your next question comes from Elinor Leung from CLSA. Please ask your question.
+
+Elinor Leung -- CLSA -- Analyst
+
+Hi, thank you very much. Congratulation on the solid quarter and thanks for the opportunity to ask questions. My first question is that, can you help me -- give us an update regarding the recovery progress of each of the advertising verticals, which has been already returned positively year-on-year growth, which one is still negative year-on-year? And what do you think the progress going forward? And second is that when we integrate with YY, is YY management still stay or we are going to change the management with our own team? Thank you.
+
+Herman Yu -- Chief Financial Officer
+
+So the question on industry, the ones that we see done well, turning from negative to positive, as we mentioned on the call earlier is healthcare, it's education, it's auto, it's software, it's lifestyle. So those that have done well. And the one that we think that there has been potential -- there could be potential for doing well, it will be things, in addition to the ones I mentioned, things like, for example, real estate and a few others. And then we continue to see, for example, e-commerce and retail that do well.
+
+Robin Li -- Co-Founder, Chairman and Chief Executive Officer
+
+I met with the management team and a few other members of YY team. This is one of the greatest teams I ever met actually. So they have very good experience for this whole live streaming operations. They will stay intact for -- to continue to operate this business. In the meanwhile, we are adding more resources and including our team members into this new team to help them better explore the opportunities within Baidu and to integrate the service into Baidu's platform. So in short, this team is great, and they will stay as it is.
